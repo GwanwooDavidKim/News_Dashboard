@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>기사 대시보드 모음</title>
     <style>
-        /* 기존 스타일 유지 */
         body {
             font-family: 'Noto Sans KR', sans-serif;
             margin: 0;
@@ -27,10 +26,37 @@
             margin-bottom: 40px;
             font-weight: 600;
         }
+        .calendar {
+            display: grid;
+            grid-template-columns: repeat(7, 1fr);
+            gap: 5px;
+            margin: 20px auto;
+            max-width: 600px;
+        }
+        .day {
+            padding: 10px;
+            border-radius: 4px;
+            text-align: center;
+        }
+        .updated {
+            background-color: #e0f7fa;
+            color: #0F2C59;
+            cursor: pointer;
+        }
+        .not-updated {
+            background-color: #eee;
+            color: #999;
+            pointer-events: none;
+        }
+        .description {
+            margin-bottom: 30px;
+            text-align: center;
+            color: #666;
+        }
         .month-selector {
             display: flex;
             justify-content: center;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
         }
         .month-selector select {
             padding: 10px 15px;
@@ -38,40 +64,10 @@
             border: 1px solid #ccc;
             font-size: 1rem;
         }
-        .date-list {
-            list-style: none;
-            padding: 0;
-            margin: 20px 0;
-        }
-        .date-list li {
-            padding: 10px;
-            margin: 5px 0;
-            border-radius: 4px;
-        }
-        .date-list li a {
-            text-decoration: none;
-            color: #0F2C59;
-        }
-        .date-list li.updated {
-            background-color: #e0f7fa; /* 업데이트된 날짜 배경색 */
-        }
-        .date-list li.not-updated {
-            background-color: #eee; /* 업데이트되지 않은 날짜 배경색 */
-            color: #999;
-            pointer-events: none; /* 클릭 비활성화 */
-        }
-        .description {
-            margin-bottom: 30px;
-            text-align: center;
-            color: #666;
-        }
         @media (max-width: 768px) {
             .container {
                 width: 100%;
                 padding: 20px;
-            }
-            .month-selector select {
-                width: 90%;
             }
         }
     </style>
@@ -79,7 +75,7 @@
 <body>
     <div class="container">
         <h1>기사 대시보드 모음</h1>
-        <p class="description">월을 선택하면 해당 월의 날짜별 기사 대시보드 목록이 표시됩니다. 파란색으로 표시된 날짜는 업데이트가 완료되어 클릭 시 해당 날짜의 기사 대시보드를 확인할 수 있습니다. 회색으로 표시된 날짜는 아직 업데이트되지 않았습니다.</p>
+        <p class="description">달력에서 파란색으로 표시된 날짜는 업데이트가 완료되어 클릭 시 해당 날짜의 기사 대시보드를 확인할 수 있습니다. 회색으로 표시된 날짜는 아직 업데이트되지 않았습니다.</p>
         <div class="month-selector">
             <select id="monthSelect">
                 <option value="">월 선택</option>
@@ -94,45 +90,54 @@
                 <option value="2025-12">2025년 12월</option>
             </select>
         </div>
-        <ul class="date-list" id="dateList">
-        </ul>
+        <div class="calendar" id="calendar">
+        </div>
     </div>
     <script>
         const monthSelect = document.getElementById('monthSelect');
-        const dateList = document.getElementById('dateList');
+        const calendar = document.getElementById('calendar');
 
         monthSelect.addEventListener('change', () => {
             const selectedMonth = monthSelect.value;
             if (selectedMonth) {
-                showDates(selectedMonth);
+                generateCalendar(selectedMonth);
             } else {
-                dateList.innerHTML = '';
+                calendar.innerHTML = '';
             }
         });
 
-        function showDates(month) {
-            dateList.innerHTML = ''; // 기존 목록 초기화
+        function generateCalendar(month) {
+            calendar.innerHTML = ''; // 기존 달력 초기화
+            const firstDay = new Date(month.slice(0, 4), parseInt(month.slice(5, 7)) - 1, 1).getDay();
             const daysInMonth = new Date(month.slice(0, 4), parseInt(month.slice(5, 7)), 0).getDate();
+            for (let i = 0; i < firstDay; i++) {
+                const emptyDay = document.createElement('div');
+                emptyDay.className = 'day';
+                calendar.appendChild(emptyDay);
+            }
             for (let i = 1; i <= daysInMonth; i++) {
                 const day = i.toString().padStart(2, '0');
                 const date = `${month}-${day}`;
-                const listItem = document.createElement('li');
-                const anchor = document.createElement('a');
-                anchor.href = `${date}/index.html`;
-                anchor.textContent = date;
-                listItem.appendChild(anchor);
-                checkUpdate(date, listItem);
-                dateList.appendChild(listItem);
+                const dayElement = document.createElement('div');
+                dayElement.className = 'day';
+                dayElement.textContent = i;
+                checkUpdate(date, dayElement);
+                dayElement.addEventListener('click', () => {
+                    if (dayElement.classList.contains('updated')) {
+                        window.location.href = `${date}/index.html`;
+                    }
+                });
+                calendar.appendChild(dayElement);
             }
         }
 
-        function checkUpdate(date, listItem) {
+        function checkUpdate(date, dayElement) {
             fetch(`${date}/index.html`, { method: 'HEAD' })
                 .then(response => {
                     if (response.ok) {
-                        listItem.classList.add('updated');
+                        dayElement.classList.add('updated');
                     } else {
-                        listItem.classList.add('not-updated');
+                        dayElement.classList.add('not-updated');
                     }
                 });
         }
