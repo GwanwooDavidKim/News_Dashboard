@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>기사 대시보드 모음</title>
     <style>
+        /* 기존 스타일 유지 */
         body {
             font-family: 'Noto Sans KR', sans-serif;
             margin: 0;
@@ -46,17 +47,27 @@
             background-color: #004494;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
         }
-        .dashboard-container {
-            background-color: white;
-            padding: 30px;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            text-align: center;
+        .date-list {
+            list-style: none;
+            padding: 0;
+            margin: 20px 0;
         }
-        p {
-            font-size: 1rem;
-            color: #6c757d;
-            text-align: center;
+        .date-list li {
+            padding: 10px;
+            margin: 5px 0;
+            border-radius: 4px;
+        }
+        .date-list li a {
+            text-decoration: none;
+            color: #0F2C59;
+        }
+        .date-list li.updated {
+            background-color: #e0f7fa; /* 업데이트된 날짜 배경색 */
+        }
+        .date-list li.not-updated {
+            background-color: #eee; /* 업데이트되지 않은 날짜 배경색 */
+            color: #999;
+            pointer-events: none; /* 클릭 비활성화 */
         }
         @media (max-width: 768px) {
             .container {
@@ -79,19 +90,48 @@
         <h1>기사 대시보드 모음</h1>
         <div class="tab-menu" id="tabMenu">
         </div>
-        <div class="dashboard-container">
-            <p>원하는 날짜의 탭을 클릭하여 해당 날짜의 기사 대시보드를 확인하세요.</p>
-        </div>
+        <ul class="date-list" id="dateList">
+        </ul>
     </div>
     <script>
-        const dates = ['2025-04-02', '2025-04-03', '2025-04-04'];
         const tabMenu = document.getElementById('tabMenu');
-        dates.forEach(date => {
+        const dateList = document.getElementById('dateList');
+        const months = ['2025-04', '2025-05', '2025-06', '2025-07', '2025-08', '2025-09', '2025-10', '2025-11', '2025-12'];
+
+        months.forEach(month => {
             const link = document.createElement('a');
-            link.href = `${date}/index.html`;
-            link.textContent = `${date} 국내 뉴스`;
+            link.href = '#';
+            link.textContent = month;
+            link.addEventListener('click', () => showDates(month));
             tabMenu.appendChild(link);
         });
+
+        function showDates(month) {
+            dateList.innerHTML = ''; // 기존 목록 초기화
+            const daysInMonth = new Date(month.slice(0, 4), parseInt(month.slice(5, 7)), 0).getDate();
+            for (let i = 1; i <= daysInMonth; i++) {
+                const day = i.toString().padStart(2, '0');
+                const date = `${month}-${day}`;
+                const listItem = document.createElement('li');
+                const anchor = document.createElement('a');
+                anchor.href = `${date}/index.html`;
+                anchor.textContent = date;
+                listItem.appendChild(anchor);
+                checkUpdate(date, listItem);
+                dateList.appendChild(listItem);
+            }
+        }
+
+        function checkUpdate(date, listItem) {
+            fetch(`${date}/index.html`, { method: 'HEAD' })
+                .then(response => {
+                    if (response.ok) {
+                        listItem.classList.add('updated');
+                    } else {
+                        listItem.classList.add('not-updated');
+                    }
+                });
+        }
     </script>
 </body>
 </html>
