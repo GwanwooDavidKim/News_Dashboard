@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>기사 대시보드 모음</title>
     <style>
+        /* 기존 스타일 유지 */
         body {
             font-family: 'Noto Sans KR', sans-serif;
             margin: 0;
@@ -29,7 +30,7 @@
         .description {
             margin: 0 auto 30px;
             max-width: 600px;
-            text-align: center;
+            text-align: left; /* 설명 부분 왼쪽 정렬 */
             color: #666;
             padding: 20px;
             background-color: white;
@@ -54,13 +55,20 @@
             font-weight: 500;
             transition: background-color 0.3s ease;
         }
-        .updated {
-            background-color: #e0f7fa;
+        .updated-morning {
+            background-color: #e0f7fa; /* 오전 업데이트 색상 */
             color: #0F2C59;
             cursor: pointer;
         }
-        .updated:hover {
-            background-color: #b3e5fc;
+        .updated-afternoon {
+            background-color: #c8e6c9; /* 오후 업데이트 색상 */
+            color: #1b5e20;
+            cursor: pointer;
+        }
+        .updated-evening {
+            background-color: #ffcdd2; /* 저녁 업데이트 색상 */
+            color: #b71c1c;
+            cursor: pointer;
         }
         .not-updated {
             background-color: #eee;
@@ -96,12 +104,16 @@
 <body>
     <div class="container">
         <h1>기사 대시보드 모음</h1>
-        <p class="description">
-            각 날짜별 기사 대시보드 업데이트 현황을 달력 형태로 보여줍니다.<br>
-            파란색으로 표시된 날짜는 업데이트가 완료되어 <br>
-            클릭 시 해당 날짜의 기사 대시보드를 확인할 수 있습니다.<br>
-            회색으로 표시된 날짜는 아직 업데이트되지 않았습니다.
-        </p>
+        <div class="description">
+            <h3>업데이트 시간 안내</h3>
+            <ul>
+                <li><span style="background-color: #e0f7fa; padding: 5px; border-radius: 3px;">오전</span>: 파란색</li>
+                <li><span style="background-color: #c8e6c9; padding: 5px; border-radius: 3px;">오후</span>: 초록색</li>
+                <li><span style="background-color: #ffcdd2; padding: 5px; border-radius: 3px;">저녁</span>: 빨간색</li>
+            </ul>
+            <p>각 날짜별 기사 대시보드 업데이트 현황을 달력 형태로 보여줍니다.</p>
+            <p>표시된 색상을 확인하여 원하는 시간대의 업데이트 내용을 확인하세요.</p>
+        </div>
         <div class="month-selector">
             <select id="monthSelect">
                 <option value="">월 선택</option>
@@ -134,7 +146,7 @@
         });
 
         function generateCalendar(month) {
-            calendar.innerHTML = ''; // 기존 달력 초기화
+            calendar.innerHTML = '';
             const firstDay = new Date(month.slice(0, 4), parseInt(month.slice(5, 7)) - 1, 1).getDay();
             const daysInMonth = new Date(month.slice(0, 4), parseInt(month.slice(5, 7)), 0).getDate();
             for (let i = 0; i < firstDay; i++) {
@@ -150,7 +162,7 @@
                 dayElement.textContent = i;
                 checkUpdate(date, dayElement);
                 dayElement.addEventListener('click', () => {
-                    if (dayElement.classList.contains('updated')) {
+                    if (dayElement.classList.contains('updated-morning') || dayElement.classList.contains('updated-afternoon') || dayElement.classList.contains('updated-evening')) {
                         window.location.href = `${date}/index.html`;
                     }
                 });
@@ -159,13 +171,21 @@
         }
 
         function checkUpdate(date, dayElement) {
-            fetch(`${date}/index.html`, { method: 'HEAD' })
-                .then(response => {
-                    if (response.ok) {
-                        dayElement.classList.add('updated');
+            fetch(`${date}/update_time.txt`)
+                .then(response => response.text())
+                .then(time => {
+                    if (time.includes('morning')) {
+                        dayElement.classList.add('updated-morning');
+                    } else if (time.includes('afternoon')) {
+                        dayElement.classList.add('updated-afternoon');
+                    } else if (time.includes('evening')) {
+                        dayElement.classList.add('updated-evening');
                     } else {
                         dayElement.classList.add('not-updated');
                     }
+                })
+                .catch(() => {
+                    dayElement.classList.add('not-updated');
                 });
         }
     </script>
