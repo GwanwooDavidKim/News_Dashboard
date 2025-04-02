@@ -136,6 +136,10 @@
             font-size: 16px;
             color: #0F2C59;
         }
+        .keyword { /* Added style for keywords */
+            font-weight: 600; /* Slightly bolder */
+             color: #1a3a6a; /* Slightly darker blue for emphasis */
+        }
          .roadmap {
             margin-top: 30px;
             border-top: 1px solid #D3D3D3;
@@ -180,6 +184,10 @@
             list-style-type: decimal; /* Numbered list */
             padding-left: 20px;
             font-size: 13px;
+             max-height: 300px; /* Limit height and add scroll */
+             overflow-y: auto;
+             border: 1px solid #EFEFEF;
+             padding: 10px;
         }
         .references li {
             margin-bottom: 8px;
@@ -211,7 +219,7 @@
             body { font-size: 13px; }
             .header h1 { font-size: 20px; }
             h2 { font-size: 16px; }
-            .references ul { font-size: 12px; }
+            .references ul { font-size: 12px; max-height: 250px; }
         }
     </style>
 </head>
@@ -251,20 +259,20 @@
         <div class="section">
             <h3>Apple Intelligence 한국어 지원 및 기능 업데이트</h3>
             <ul>
-                <li>4월 1일, iOS 18.4 등 업데이트 통해 Apple Intelligence 한국어 포함 8개 언어 신규 지원 시작 (아이폰15 Pro 이상 지원).</li>
-                <li>주요 지원 기능: 글쓰기 도구(재작성, 교정, 요약), 최우선 알림, 시각 지능(카메라 정보 인식/요약/번역), 스마트 답장, 음성 녹음/요약(메모/전화 앱).</li>
-                <li>Siri 기능 개선: 맥락 이해 능력 향상, 타이핑 입력 지원, 챗GPT 통합(계정 없이 사용 가능, 사용자 제어).</li>
-                <li>개인 정보 보호 강조: 온디바이스 처리 우선, 필요시 비공개 클라우드 컴퓨팅 활용.</li>
+                <li>4월 1일, <span class="keyword">iOS 18.4</span> 등 업데이트 통해 <span class="keyword">Apple Intelligence</span> 한국어 포함 8개 언어 신규 지원 시작 (아이폰15 Pro 이상 지원).</li>
+                <li>주요 지원 기능: <span class="keyword">글쓰기 도구</span>(재작성, 교정, 요약), <span class="keyword">최우선 알림</span>, <span class="keyword">시각 지능</span>(카메라 정보 인식/요약/번역), <span class="keyword">스마트 답장</span>, 음성 녹음/요약(메모/전화 앱).</li>
+                <li><span class="keyword">Siri</span> 기능 개선: 맥락 이해 능력 향상, 타이핑 입력 지원, <span class="keyword">챗GPT 통합</span>(계정 없이 사용 가능, 사용자 제어).</li>
+                <li>개인 정보 보호 강조: <span class="keyword">온디바이스 처리</span> 우선, 필요시 <span class="keyword">비공개 클라우드 컴퓨팅</span> 활용.</li>
             </ul>
         </div>
 
         <div class="section">
             <h3>소프트웨어 이슈 및 향후 전망</h3>
             <ul>
-                <li>**핵심 기능 지연:** AI 기반 '시리 개인화' 기능 출시가 내년으로 연기됨. 이로 인해 허위/과장 광고 논란 및 국내외 비판, 소송 제기 (미국 집단소송, 국내 공정위 조사 요청).</li>
-                <li>**차기 OS (iOS 19/iPadOS 19):** 6월 WWDC25에서 공개 예상. UI 요소 재설계 가능성(iOS 7 이후 최대 규모). A12 Bionic 칩(아이폰 XR/XS) 지원 중단 예상. A10 Fusion 칩(7세대 아이패드) 지원 중단 예상.</li>
-                <li>**OS 업데이트:** iOS 18.6 베타 테스트 시작 정황 포착 (5~6월 베타, 7월 정식 예상). watchOS 11.4 출시 (Matter 로봇청소기 지원, 수면 알람 개선 등).</li>
-                <li>**'나의 찾기' 서비스:** 국내 정식 서비스 개시 (15년 만). 기기/물품 위치 추적, 가족/친구 위치 공유, 분실 모드, 에어태그 연동 등 지원.</li>
+                <li><span class="keyword">핵심 기능 지연:</span> AI 기반 '<span class="keyword">시리 개인화</span>' 기능 출시가 내년으로 연기됨. 이로 인해 허위/과장 광고 논란 및 국내외 비판, 소송 제기 (미국 집단소송, 국내 공정위 조사 요청).</li>
+                <li><span class="keyword">차기 OS (iOS 19/iPadOS 19):</span> 6월 <span class="keyword">WWDC25</span>에서 공개 예상. UI 요소 재설계 가능성(iOS 7 이후 최대 규모). <span class="keyword">A12 Bionic</span> 칩(아이폰 XR/XS) 지원 중단 예상. <span class="keyword">A10 Fusion</span> 칩(7세대 아이패드) 지원 중단 예상.</li>
+                <li><span class="keyword">OS 업데이트:</span> <span class="keyword">iOS 18.6</span> 베타 테스트 시작 정황 포착 (5~6월 베타, 7월 정식 예상). <span class="keyword">watchOS 11.4</span> 출시 (Matter 로봇청소기 지원, 수면 알람 개선 등).</li>
+                <li><span class="keyword">'나의 찾기' 서비스:</span> 국내 정식 서비스 개시 (15년 만). 기기/물품 위치 추적, 가족/친구 위치 공유, 분실 모드, 에어태그 연동 등 지원.</li>
             </ul>
         </div>
     </div>
@@ -290,29 +298,29 @@
         <div class="section">
             <h3>차세대 제품 전망</h3>
             <ul>
-                <li>**폴더블 아이폰:** 2026년 출시 전망. 갤럭시 Z 폴드와 유사한 북 타입, 7.8인치 내부/5.5인치 외부 디스플레이 예상. 아이패드 에어의 초슬림/경량화 기술 적용 가능성. 액체 금속 힌지(내구성↑, 주름↓) 또는 메탈릭 글래스 힌지 적용 가능성 제기.</li>
-                <li>**아이폰 17 시리즈 (2026년 예상):** '에어' 또는 '울트라' 모델 추가 가능성. '에어'는 역대 가장 얇은 5.5mm 두께, LTPO OLED, 맥세이프 유지 예상. 단, 카메라 기능 제한(싱글 카메라), 스피커 1개, mmWave 미지원 가능성. '울트라'는 프로 맥스 리브랜딩, 초고가 폴더블폰 출시 전 시장 반응 테스트 목적 가능성 제기.</li>
-                <li>**AirTag 2:** 2025년 5~6월 출시 전망 (WWDC25 공개 가능성). 최신 UWB 칩 탑재로 정밀 탐색 범위 확장 (최대 60m). 스토킹 방지 기술 강화.</li>
-                <li>**Apple Watch 11:** 새로운 센서 탑재 가능성 (혈압, 혈당 측정 등). 카메라 탑재 및 AI 기능 강화 (시각 지능) 가능성 제기.</li>
+                <li><span class="keyword">폴더블 아이폰:</span> 2026년 출시 전망. 갤럭시 Z 폴드와 유사한 북 타입, 7.8인치 내부/5.5인치 외부 디스플레이 예상. 아이패드 에어의 초슬림/경량화 기술 적용 가능성. 액체 금속 힌지(내구성↑, 주름↓) 또는 메탈릭 글래스 힌지 적용 가능성 제기.</li>
+                <li><span class="keyword">아이폰 17 시리즈 (2026년 예상):</span> '<span class="keyword">에어</span>' 또는 '<span class="keyword">울트라</span>' 모델 추가 가능성. '에어'는 역대 가장 얇은 5.5mm 두께, LTPO OLED, 맥세이프 유지 예상. 단, 카메라 기능 제한(싱글 카메라), 스피커 1개, mmWave 미지원 가능성. '울트라'는 프로 맥스 리브랜딩, 초고가 폴더블폰 출시 전 시장 반응 테스트 목적 가능성 제기.</li>
+                <li><span class="keyword">AirTag 2:</span> 2025년 5~6월 출시 전망 (WWDC25 공개 가능성). 최신 <span class="keyword">UWB 칩</span> 탑재로 정밀 탐색 범위 확장 (최대 60m). 스토킹 방지 기술 강화.</li>
+                <li><span class="keyword">Apple Watch 11:</span> 새로운 센서 탑재 가능성 (혈압, 혈당 측정 등). 카메라 탑재 및 AI 기능 강화 (시각 지능) 가능성 제기.</li>
             </ul>
         </div>
 
         <div class="section">
             <h3>공급망(SCM) 및 기술 동향</h3>
             <ul>
-                <li>**공급망 다변화 움직임:** 디스플레이, 카메라 모듈 등 핵심 부품 공급처 다변화 추진 중. 생산 안정성 확보 및 가격 협상력 제고 목적.</li>
-                <li>**디스플레이:** 아이폰 LTPO OLED는 삼성/LG디스플레이 공급. LTPS OLED는 BOE도 공급 중. BOE의 LTPO 기술 추격 및 물량 확대 가능성 존재. IT용 8.6세대 OLED 투자 경쟁 심화 (LG디스플레이는 투자 결정 고심 중).</li>
-                <li>**카메라 모듈:** 중국 업체 일부 진입으로 LG이노텍 수익성 영향. LG이노텍은 생산 거점 이원화(베트남/구미)로 대응. 폴디드줌 모듈은 아이폰 프로맥스 모델에 적용 중이며 타 제조사로 확대 중.</li>
-                <li>**반도체(AP/칩):** TSMC, 2025년 하반기 2나노 공정 양산 시작 (애플 첫 고객 유력). 삼성전자 파운드리 추격 중 (GAA 기술).</li>
-                 <li>**소재/부품:** PI첨단소재, 북미 고객사(애플 추정) 신규 슬림 모델(아이폰17 에어?)에 초극박 PI 필름 공급 시작. 방열 수요 증가 수혜 기대. 해성옵틱스, 애플 등 글로벌 제조사에 카메라 OIS 액추에이터 공급 중.</li>
-                 <li>**오디오:** 에어팟 맥스(USB-C) 펌웨어 업데이트로 무손실 오디오(24비트 48kHz) 및 초저지연 오디오 지원 추가.</li>
+                <li><span class="keyword">공급망 다변화 움직임:</span> 디스플레이, 카메라 모듈 등 핵심 부품 공급처 다변화 추진 중. 생산 안정성 확보 및 가격 협상력 제고 목적.</li>
+                <li><span class="keyword">디스플레이:</span> 아이폰 <span class="keyword">LTPO OLED</span>는 삼성/LG디스플레이 공급. <span class="keyword">LTPS OLED</span>는 BOE도 공급 중. BOE의 LTPO 기술 추격 및 물량 확대 가능성 존재. <span class="keyword">IT용 8.6세대 OLED</span> 투자 경쟁 심화 (LG디스플레이는 투자 결정 고심 중).</li>
+                <li><span class="keyword">카메라 모듈:</span> 중국 업체 일부 진입으로 LG이노텍 수익성 영향. LG이노텍은 생산 거점 이원화(베트남/구미)로 대응. <span class="keyword">폴디드줌 모듈</span>은 아이폰 프로맥스 모델에 적용 중이며 타 제조사로 확대 중.</li>
+                <li><span class="keyword">반도체(AP/칩):</span> <span class="keyword">TSMC</span>, 2025년 하반기 <span class="keyword">2나노 공정</span> 양산 시작 (애플 첫 고객 유력). 삼성전자 파운드리 추격 중 (<span class="keyword">GAA 기술</span>).</li>
+                 <li><span class="keyword">소재/부품:</span> <span class="keyword">PI첨단소재</span>, 북미 고객사(애플 추정) 신규 슬림 모델(아이폰17 에어?)에 초극박 PI 필름 공급 시작. 방열 수요 증가 수혜 기대. <span class="keyword">해성옵틱스</span>, 애플 등 글로벌 제조사에 카메라 OIS 액추에이터 공급 중.</li>
+                 <li><span class="keyword">오디오:</span> <span class="keyword">에어팟 맥스(USB-C)</span> 펌웨어 업데이트로 <span class="keyword">무손실 오디오</span>(24비트 48kHz) 및 초저지연 오디오 지원 추가.</li>
             </ul>
         </div>
          <div class="section">
-            <h3>현재 모델 이슈 (아이폰 16e 리뷰 요약)</h3>
+            <h3>현재 모델 이슈 (<span class="keyword">아이폰 16e</span> 리뷰 요약)</h3>
             <ul>
-                <li>**장점:** 6.1인치 OLED 디스플레이(SE 대비 개선), A16 바이오닉 칩으로 속도 향상, 가벼운 무게, 동작 버튼 편의성, 긴 배터리 시간.</li>
-                <li>**단점:** 비싼 가격(SE3 대비 +40만원, 99만원), 맥세이프 미지원, 느린 무선 충전(7.5W), 싱글 후면 카메라(초광각 촬영 불가, 인물 외 아웃포커싱 불가), 노치 디자인 채택, 제한적인 색상 옵션.</li>
+                <li><span class="keyword">장점:</span> 6.1인치 OLED 디스플레이(SE 대비 개선), A16 바이오닉 칩으로 속도 향상, 가벼운 무게, 동작 버튼 편의성, 긴 배터리 시간.</li>
+                <li><span class="keyword">단점:</span> 비싼 가격(SE3 대비 +40만원, 99만원), 맥세이프 미지원, 느린 무선 충전(7.5W), 싱글 후면 카메라(초광각 촬영 불가, 인물 외 아웃포커싱 불가), 노치 디자인 채택, 제한적인 색상 옵션.</li>
             </ul>
         </div>
     </div>
@@ -338,8 +346,8 @@
         <div class="section">
             <h3>LCD 시장 재편</h3>
             <ul>
-                <li>LG디스플레이, 광저우 8.5세대 LCD 패널 및 모듈 공장(CA/GZ 법인) 지분을 중국 CSOT(TCL 자회사)에 매각 완료 (총 108억 위안, 약 2조 300억 원 규모).</li>
-                <li>CSOT는 이로써 광저우 공장 지분 100% 확보, 공장명을 'T11'로 변경하고 TV용 대형 LCD 사업 집중 예정.</li>
+                <li><span class="keyword">LG디스플레이</span>, 광저우 8.5세대 LCD 패널 및 모듈 공장(CA/GZ 법인) 지분을 중국 <span class="keyword">CSOT</span>(TCL 자회사)에 매각 완료 (총 108억 위안, 약 2조 300억 원 규모).</li>
+                <li>CSOT는 이로써 광저우 공장 지분 100% 확보, 공장명을 '<span class="keyword">T11</span>'로 변경하고 TV용 대형 LCD 사업 집중 예정.</li>
                 <li>이번 인수로 CSOT의 글로벌 대형 LCD 점유율(면적 기준) 19.3% → 22.9%로 확대 전망 (트렌드포스).</li>
                 <li>LG디스플레이는 대형 LCD 사업에서 완전 철수, 확보 자금은 OLED 사업 고도화 및 재무구조 개선에 활용 예정.</li>
             </ul>
@@ -348,20 +356,20 @@
         <div class="section">
             <h3>OLED 시장 동향</h3>
             <ul>
-                <li>**IT용 8.6세대 OLED 투자:** 삼성디스플레이(4.1조), BOE(12조), 비전옥스(10.3조) 투자 확정 및 생산라인 구축 중. LG디스플레이는 비용 부담 및 수요 불확실성으로 투자 결정 고심 중이나, 애플 공급망 확대 위해 투자 필요성 제기.</li>
-                <li>**모바일 OLED:** 스마트폰 시장의 OLED 전환 가속화. 휴대폰용 OLED 출하량 증가 추세 (2024년 9.8억대 → 2025년 10억대 돌파 전망).</li>
-                <li>**OLED 구동칩:** DB글로벌칩, 휴대폰용 OLED 구동칩(TED) 양산 시작, 삼성디스플레이에 공급하여 갤럭시 A26 모델에 적용. IT용에서 모바일용으로 포트폴리오 확장.</li>
-                <li>**OLED 소재:** 에스켐, OLED 핵심 소재(유기물 합성/정제) 전문. 이대원 부사장(소재 전문가) 사내이사 선임으로 기술 고도화 및 신사업 확장 기대. 2024년 역대 최대 매출(331억) 달성.</li>
-                <li>**OLED 장비:** 에프엔에스테크, 삼성디스플레이에 대형 OLED용 OMM(Open Metal Mask) 정밀 세정 장비 공급 완료.</li>
-                <li>**삼성디스플레이 협력사 지원:** 신용보증기금, 삼성디스플레이 중소형 OLED 수출 프로젝트 참여 협력사 8곳에 165억원 규모 공동 프로젝트 보증 지원.</li>
+                <li><span class="keyword">IT용 8.6세대 OLED 투자:</span> <span class="keyword">삼성디스플레이</span>(4.1조), <span class="keyword">BOE</span>(12조), <span class="keyword">비전옥스</span>(10.3조) 투자 확정 및 생산라인 구축 중. LG디스플레이는 비용 부담 및 수요 불확실성으로 투자 결정 고심 중이나, 애플 공급망 확대 위해 투자 필요성 제기.</li>
+                <li><span class="keyword">모바일 OLED:</span> 스마트폰 시장의 OLED 전환 가속화. 휴대폰용 OLED 출하량 증가 추세 (2024년 9.8억대 → 2025년 10억대 돌파 전망).</li>
+                <li><span class="keyword">OLED 구동칩:</span> <span class="keyword">DB글로벌칩</span>, 휴대폰용 OLED 구동칩(TED) 양산 시작, 삼성디스플레이에 공급하여 갤럭시 A26 모델에 적용. IT용에서 모바일용으로 포트폴리오 확장.</li>
+                <li><span class="keyword">OLED 소재:</span> <span class="keyword">에스켐</span>, OLED 핵심 소재(유기물 합성/정제) 전문. 이대원 부사장(소재 전문가) 사내이사 선임으로 기술 고도화 및 신사업 확장 기대. 2024년 역대 최대 매출(331억) 달성.</li>
+                <li><span class="keyword">OLED 장비:</span> <span class="keyword">에프엔에스테크</span>, 삼성디스플레이에 대형 OLED용 <span class="keyword">OMM</span>(Open Metal Mask) 정밀 세정 장비 공급 완료.</li>
+                <li><span class="keyword">삼성디스플레이 협력사 지원:</span> 신용보증기금, 삼성디스플레이 중소형 OLED 수출 프로젝트 참여 협력사 8곳에 165억원 규모 공동 프로젝트 보증 지원.</li>
             </ul>
         </div>
         <div class="section">
             <h3>폴더블 디스플레이 시장</h3>
             <ul>
-                 <li>시장 성장 둔화: 2024년 성장률(2.9%)이 전체 스마트폰 시장 성장률(4%) 하회. 2025년 첫 연간 역성장(-4%) 전망 (카운터포인트).</li>
-                 <li>둔화 원인: 높은 가격, 상대적으로 낮은 혁신 가치, 내구성/실용성 문제 지적.</li>
-                 <li>회복 기대: 2026년 애플의 폴더블 시장 진입 시, 시장 회복 및 약 1.5배 성장 전망.</li>
+                 <li><span class="keyword">시장 성장 둔화:</span> 2024년 성장률(2.9%)이 전체 스마트폰 시장 성장률(4%) 하회. 2025년 첫 연간 <span class="keyword">역성장(-4%)</span> 전망 (카운터포인트).</li>
+                 <li><span class="keyword">둔화 원인:</span> 높은 가격, 상대적으로 낮은 혁신 가치, 내구성/실용성 문제 지적.</li>
+                 <li><span class="keyword">회복 기대:</span> 2026년 <span class="keyword">애플의 폴더블 시장 진입</span> 시, 시장 회복 및 약 1.5배 성장 전망.</li>
              </ul>
         </div>
     </div>
@@ -387,33 +395,33 @@
         <div class="section">
             <h3>Apple vs 삼성전자</h3>
             <ul>
-                <li>**AI 경쟁:** 애플, Apple Intelligence 한국어 지원 등 기능 확대하며 추격 가속. 삼성은 갤럭시 AI 기능 선도 및 46개 언어 지원으로 앞서나감. 애플의 핵심 기능 '시리 개인화' 지연이 경쟁력 약화 요인.</li>
-                <li>**스마트폰 시장:** 글로벌 점유율 격차 축소. 애플, 작년 연간 출하량 1위 놓고 삼성과 경합. 삼성 점유율 하락 추세.</li>
-                <li>**OS 업데이트 정책:** 애플, 구형 모델(6~7년 전)도 최신 OS 지원으로 사용자 만족도 높음. 삼성은 모델별 순차 업데이트 및 구형 모델 지원 조기 종료 경향으로 비교됨.</li>
+                <li><span class="keyword">AI 경쟁:</span> 애플, <span class="keyword">Apple Intelligence 한국어 지원</span> 등 기능 확대하며 추격 가속. 삼성은 <span class="keyword">갤럭시 AI</span> 기능 선도 및 46개 언어 지원으로 앞서나감. 애플의 핵심 기능 '<span class="keyword">시리 개인화' 지연</span>이 경쟁력 약화 요인.</li>
+                <li><span class="keyword">스마트폰 시장:</span> 글로벌 점유율 격차 축소. 애플, 작년 연간 출하량 1위 놓고 삼성과 경합. 삼성 점유율 하락 추세.</li>
+                <li><span class="keyword">OS 업데이트 정책:</span> 애플, 구형 모델(6~7년 전)도 최신 OS 지원으로 사용자 만족도 높음. 삼성은 모델별 순차 업데이트 및 구형 모델 지원 조기 종료 경향으로 비교됨.</li>
             </ul>
         </div>
 
         <div class="section">
             <h3>중국 기업 동향 및 경쟁</h3>
             <ul>
-                <li>**디스플레이:** CSOT, LGD 광저우 LCD 공장 인수로 대형 LCD 점유율 확대 및 경쟁력 강화. BOE, 애플 아이폰 LTPS OLED 공급하며 LTPO 기술력 추격 중. IT용 8.6세대 OLED 공격적 투자.</li>
-                <li>**스마트폰/카메라:** 화웨이, 미국 제재에도 불구, 독자 OS 및 메이트60프로 인기로 중국 내 점유율 급반등 및 애플 추격. 카메라 모듈 공급망에도 중국 업체 진입.</li>
-                <li>**경쟁 심화:** 애플 공급망 내 중국 기업 비중 확대 가능성. LG디스플레이, LG이노텍 등 한국 부품사들의 기술/원가 경쟁력 확보 중요성 증대.</li>
+                <li><span class="keyword">디스플레이:</span> <span class="keyword">CSOT</span>, LGD 광저우 LCD 공장 인수로 대형 LCD 점유율 확대 및 경쟁력 강화. <span class="keyword">BOE</span>, 애플 아이폰 LTPS OLED 공급하며 LTPO 기술력 추격 중. IT용 8.6세대 OLED 공격적 투자.</li>
+                <li><span class="keyword">스마트폰/카메라:</span> <span class="keyword">화웨이</span>, 미국 제재에도 불구, 독자 OS 및 메이트60프로 인기로 중국 내 점유율 급반등 및 애플 추격. 카메라 모듈 공급망에도 중국 업체 진입.</li>
+                <li><span class="keyword">경쟁 심화:</span> 애플 공급망 내 중국 기업 비중 확대 가능성. LG디스플레이, LG이노텍 등 한국 부품사들의 기술/원가 경쟁력 확보 중요성 증대.</li>
             </ul>
         </div>
 
         <div class="section">
             <h3>기술 및 SCM 경쟁</h3>
             <ul>
-                 <li>**파운드리:** TSMC, 2나노 공정 2025년 하반기 양산 계획 발표하며 삼성전자 압박. 인텔도 1.8나노 공정 하반기 양산 예정. 삼성전자는 3나노 수율 문제 극복 및 2나노 GAA 기술 경쟁력 확보가 관건.</li>
-                 <li>**애플 공급망 의존도:** LG이노텍, 매출의 84%가 광학솔루션(카메라모듈), 대부분 애플 공급 물량으로 비수기 실적 변동성 큼. 사업 다각화 필요성 제기.</li>
+                 <li><span class="keyword">파운드리:</span> <span class="keyword">TSMC</span>, <span class="keyword">2나노 공정</span> 2025년 하반기 양산 계획 발표하며 삼성전자 압박. 인텔도 1.8나노 공정 하반기 양산 예정. 삼성전자는 3나노 수율 문제 극복 및 2나노 <span class="keyword">GAA 기술</span> 경쟁력 확보가 관건.</li>
+                 <li><span class="keyword">애플 공급망 의존도:</span> <span class="keyword">LG이노텍</span>, 매출의 84%가 광학솔루션(카메라모듈), 대부분 애플 공급 물량으로 비수기 실적 변동성 큼. 사업 다각화 필요성 제기.</li>
             </ul>
         </div>
 
          <div class="section">
             <h3>기타 이슈</h3>
             <ul>
-                 <li>**Apple 법적 문제:** 미국 노동관계위원회(NLRB), 애플 상대 노동법 위반 소송 2건 무기한 연기. 트럼프 대통령이 애플 소송 담당 변호사를 NLRB 고문으로 임명한 후 발생하여 논란.</li>
+                 <li><span class="keyword">Apple 법적 문제:</span> 미국 노동관계위원회(<span class="keyword">NLRB</span>), 애플 상대 노동법 위반 소송 2건 무기한 연기. 트럼프 대통령이 애플 소송 담당 변호사를 NLRB 고문으로 임명한 후 발생하여 논란.</li>
              </ul>
         </div>
     </div>
@@ -582,7 +590,11 @@
 
     // Activate the first tab by default
     document.addEventListener('DOMContentLoaded', (event) => {
-        document.querySelector('.tab-button').click();
+        // Ensure the first tab button exists before trying to click it
+        const firstTabButton = document.querySelector('.tab-button');
+        if(firstTabButton) {
+             firstTabButton.click();
+         }
     });
 </script>
 
