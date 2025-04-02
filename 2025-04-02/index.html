@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2025-04-02 국내 뉴스</title>
+    <style>
+        body {
+            font-family: 'Noto Sans KR', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f8f9fa;
+            color: #343a40;
+            line-height: 1.6;
+        }
+        .container {
+            width: 90%;
+            max-width: 1200px;
+            margin: 40px auto;
+        }
+        h1 {
+            text-align: center;
+            color: #007bff;
+            margin-bottom: 40px;
+            font-weight: 600;
+        }
+        .article-list {
+            background-color: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .article-item {
+            border-bottom: 1px solid #dee2e6;
+            padding: 20px 0;
+        }
+        .article-item:last-child {
+            border-bottom: none;
+        }
+        .article-item a {
+            color: #007bff;
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 1.1rem;
+        }
+        .article-item a:hover {
+            text-decoration: underline;
+        }
+        .article-item p {
+            margin-top: 10px;
+            color: #6c757d;
+        }
+        /* 반응형 스타일 */
+        @media (max-width: 768px) {
+            .container {
+                width: 100%;
+                padding: 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>2025-04-02 국내 뉴스</h1>
+        <div class="article-list" id="articleList">
+        </div>
+    </div>
+    <script>
+        fetch('news.json')
+            .then(response => response.json())
+            .then(data => {
+                const articleList = document.getElementById('articleList');
+                data.forEach(article => {
+                    const articleItem = document.createElement('div');
+                    articleItem.className = 'article-item';
+                    articleItem.innerHTML = `
+                        <a href="${article.link}" target="_blank">${article.title}</a>
+                        <p>${article.description}</p>
+                    `;
+                    articleList.appendChild(articleItem);
+                });
+            });
+    </script>
+</body>
+</html>
