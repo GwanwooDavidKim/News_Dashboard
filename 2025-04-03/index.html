@@ -1,0 +1,694 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>디스플레이 산업 국내 기사 대시보드</title>
+    <style>
+        body {
+            font-family: 'Malgun Gothic', '맑은 고딕', sans-serif; /* McKinsey often uses sans-serif fonts */
+            line-height: 1.6;
+            color: #333; /* Standard text color */
+            background-color: #F5F5F5; /* Light gray background */
+            margin: 0;
+            padding: 0;
+            font-size: 14px; /* Base font size */
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #FFFFFF; /* White container background */
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .header {
+            background-color: #0F2C59; /* McKinsey Blue/Navy */
+            color: #FFFFFF; /* White text */
+            padding: 15px 20px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+        }
+        .header h1 {
+            margin: 0;
+            font-size: 24px;
+            font-weight: 600; /* Slightly bolder */
+        }
+        .header p {
+            margin: 5px 0 0;
+            font-size: 14px;
+        }
+        .tabs {
+            overflow: hidden;
+            border-bottom: 1px solid #D3D3D3; /* Light Gray border */
+            margin-bottom: 20px;
+        }
+        .tab-button {
+            background-color: inherit;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 12px 18px;
+            transition: 0.3s;
+            font-size: 15px;
+            font-weight: 500; /* Medium weight */
+            color: #555; /* Dark gray for inactive tabs */
+            border-bottom: 3px solid transparent; /* For active state indication */
+        }
+        .tab-button:hover {
+            background-color: #EFEFEF; /* Light gray hover */
+            border-bottom: 3px solid #A9A9A9; /* Darker gray underline */
+        }
+        .tab-button.active {
+            color: #0F2C59; /* McKinsey Blue/Navy for active tab */
+            border-bottom: 3px solid #0F2C59; /* Blue underline for active */
+        }
+        .tab-content {
+            display: none;
+            padding: 15px 5px;
+            border-top: none;
+            animation: fadeEffect 0.5s; /* Simple fade-in */
+        }
+        @keyframes fadeEffect {
+            from {opacity: 0;}
+            to {opacity: 1;}
+        }
+        .kpi-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .kpi-card {
+            background-color: #F5F5F5; /* Light gray card background */
+            padding: 15px;
+            border-radius: 4px;
+            flex: 1; /* Distribute space */
+            min-width: 180px; /* Minimum width */
+            text-align: center;
+            border-left: 4px solid #0F2C59; /* Blue accent line */
+        }
+        .kpi-card h3 {
+            margin: 0 0 8px 0;
+            font-size: 16px;
+            color: #0F2C59; /* Blue heading */
+        }
+        .kpi-card p {
+            margin: 0;
+            font-size: 18px;
+            font-weight: bold;
+            color: #333; /* Dark text for value */
+        }
+        h2 {
+            color: #0F2C59; /* Blue section titles */
+            border-bottom: 2px solid #EFEFEF; /* Light gray underline */
+            padding-bottom: 8px;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-size: 18px;
+        }
+        ul {
+            list-style-type: none; /* Remove default bullets */
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 10px;
+            padding-left: 15px;
+            position: relative;
+        }
+        li::before {
+            content: '■'; /* Square bullet */
+            position: absolute;
+            left: 0;
+            color: #0F2C59; /* Blue bullet */
+            font-size: 10px;
+            top: 6px; /* Align bullet */
+        }
+        .section {
+            margin-bottom: 25px;
+            padding: 15px;
+            background-color: #FFFFFF;
+            border: 1px solid #EFEFEF; /* Light border for section */
+            border-radius: 4px;
+        }
+        .section h3 {
+            margin-top: 0;
+            font-size: 16px;
+            color: #0F2C59; /* Blue sub-heading */
+        }
+        .keyword { /* Style for keywords */
+            font-weight: 600; /* Slightly bolder */
+             color: #1a3a6a; /* Slightly darker blue */
+        }
+         .roadmap {
+            margin-top: 30px;
+            border-top: 1px solid #D3D3D3; /* Separator line */
+            padding-top: 20px;
+        }
+        .roadmap h2 {
+            margin-bottom: 20px;
+        }
+        .roadmap-item {
+            margin-bottom: 15px;
+            padding-left: 25px; /* Indent for timeline */
+            position: relative;
+            border-left: 2px solid #0F2C59; /* Blue timeline */
+            padding-bottom: 10px;
+            padding-top: 5px; /* Spacing */
+        }
+         .roadmap-item::before {
+            content: '';
+            position: absolute;
+            left: -8px; /* Position circle on the line */
+            top: 10px; /* Align circle */
+            width: 14px;
+            height: 14px;
+            background-color: #0F2C59; /* Blue circle */
+            border-radius: 50%;
+            border: 2px solid #FFFFFF; /* White border for contrast */
+        }
+        .roadmap-item strong {
+            display: block;
+            color: #0F2C59; /* Blue date/title */
+            font-weight: 600;
+            margin-bottom: 3px;
+        }
+        .references {
+            margin-top: 30px;
+            border-top: 1px solid #D3D3D3; /* Separator line */
+            padding-top: 20px;
+        }
+        .references h2 {
+             margin-bottom: 15px;
+        }
+        .references ul {
+            list-style-type: none; /* No bullets for links */
+            padding-left: 0; /* No indent */
+            font-size: 13px; /* Smaller font for links */
+            max-height: 300px; /* Limit height and add scroll */
+             overflow-y: auto;
+            border: 1px solid #EFEFEF; /* Light border around list */
+             padding: 10px;
+             background-color: #FAFAFA; /* Very light gray background for list */
+        }
+        .references li {
+            margin-bottom: 8px;
+            padding-left: 0; /* Align left */
+        }
+         .references li::before {
+            content: ''; /* Remove default bullet */
+        }
+        .references a {
+            color: #005A9C; /* Standard link blue */
+            text-decoration: none; /* No underline by default */
+            display: block; /* Ensure link takes full width */
+            word-break: break-all; /* Break long URLs */
+        }
+        .references a:hover {
+            text-decoration: underline; /* Underline on hover */
+        }
+        .footer {
+            text-align: right;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #666; /* Gray footer text */
+            border-top: 1px solid #D3D3D3; /* Separator line */
+            padding-top: 15px;
+        }
+         /* Responsive adjustments */
+        @media (max-width: 768px) {
+            body { font-size: 13px; }
+            .header h1 { font-size: 20px; }
+            .header p { font-size: 13px; }
+            .tab-button { padding: 10px 12px; font-size: 14px; }
+            .kpi-container { flex-direction: column; }
+            .kpi-card { min-width: 100%; box-sizing: border-box; } /* Ensure padding is included */
+            h2 { font-size: 17px; }
+            .section h3 { font-size: 15px; }
+            .roadmap-item { padding-left: 20px; }
+            .roadmap-item::before { left: -7px; top: 8px; width: 12px; height: 12px;}
+            .references ul { font-size: 12px; max-height: 250px; }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>디스플레이 산업 국내 기사 대시보드</h1>
+        <p>기간: 2025-04-01 오후 5시 02분 ~ 2025-04-03 오전 7시 00분 사이 기사 내용</p>
+    </div>
+
+    <div class="tabs">
+        <button class="tab-button active" onclick="openTab(event, 'Summary_KPI')">요약 및 주요 지표</button>
+        <button class="tab-button" onclick="openTab(event, 'Apple_News')">Apple 동향 (AI, HW, SCM)</button>
+        <button class="tab-button" onclick="openTab(event, 'Display_Industry')">디스플레이 산업</button>
+        <button class="tab-button" onclick="openTab(event, 'Competition_Tech')">경쟁 및 기술 이슈</button>
+    </div>
+
+    <div id="Summary_KPI" class="tab-content" style="display: block;">
+        <h2>요약 및 주요 지표</h2>
+        <div class="kpi-container">
+            <div class="kpi-card">
+                <h3>中 3대 LCD 업체 점유율</h3>
+                <p>66% (면적 기준)</p>
+            </div>
+             <div class="kpi-card">
+                <h3>삼성D 아이폰 OLED 점유율</h3>
+                <p>56% (2024년 추정)</p>
+            </div>
+            <div class="kpi-card">
+                <h3>폴더블폰 시장 전망 (2025)</h3>
+                <p>-4% 역성장 예측</p>
+            </div>
+        </div>
+
+        <div class="section">
+            <h3>주요 동향 요약</h3>
+            <ul>
+                <li><span class="keyword">Apple</span>, 트럼프 행정부의 상호 관세 부과 발표로 주가 하락 압력. 한국어 AI 지원 확대 및 '나의 찾기' 서비스 국내 개시. 폴더블 아이폰(2026년) 및 차세대 에어태그(2025년 2분기) 출시 준비 중. 핵심 AI 기능 지연 및 노동 소송 연기 등 이슈 지속.</li>
+                <li><span class="keyword">디스플레이 시장</span>, 중국(CSOT, BOE 등)의 LCD 점유율 확대 및 OLED 추격 가속화. 삼성D/LGD는 QD-OLED, IT용 OLED 등 기술 차별화로 대응. GPU 발전으로 고성능 OLED 모니터 수요 증가 추세.</li>
+                <li><span class="keyword">폴더블폰 시장</span>은 일시적 성장 둔화 예측되나, 애플의 시장 진입(2026년)이 반등 변수로 작용할 전망. 삼성전자는 트라이폴드 모델(G 폴드) 하반기 일부 국가 출시 예상.</li>
+                <li><span class="keyword">경쟁 심화:</span> 삼성-애플 간 AI 및 스마트폰 점유율 경쟁 지속. 삼성D-BOE 간 OLED 기술 특허 소송전 격화. TSMC-삼성 간 파운드리 미세공정 경쟁 심화.</li>
+                <li><span class="keyword">부품/소재 동향:</span> DB글로벌칩, 삼성D에 모바일 OLED 구동칩 공급 시작. 해성옵틱스, 재영솔루텍 등 국내 카메라 부품사 실적 성장 기대. PI첨단소재, 슬림화/AI 트렌드 수혜 기대.</li>
+            </ul>
+        </div>
+         <div class="section">
+            <h3>주목할 만한 기술/제품</h3>
+             <ul>
+                <li><span class="keyword">Apple Intelligence(한국어 지원):</span> 글쓰기 도구, 시각 지능, 챗GPT 통합 등</li>
+                 <li><span class="keyword">Apple AirTag 2:</span> UWB 칩 개선으로 탐색 범위 60m 확장 예상</li>
+                 <li><span class="keyword">삼성 G 폴드(트라이폴드):</span> 2번 접는 새로운 폼팩터 (하반기 출시 예상)</li>
+                <li><span class="keyword">고성능 OLED 모니터:</span> 4K@240Hz/FHD@480Hz (LG), UHD/500Hz (삼성D) 등 스펙 경쟁</li>
+                <li><span class="keyword">OLED 기술:</span> QD-OLED (삼성D), 4세대 탠덤 OLED (LGD), DFR (LGD)</li>
+                 <li><span class="keyword">차세대 파운드리:</span> TSMC 2나노 (2025년 하반기), 삼성 2나노 GAA (2026년)</li>
+             </ul>
+        </div>
+    </div>
+
+    <div id="Apple_News" class="tab-content">
+        <h2>Apple 동향 (AI, HW, SCM)</h2>
+        <div class="section">
+            <h3>AI 및 소프트웨어</h3>
+            <ul>
+                <li><span class="keyword">Apple Intelligence 한국어 지원 시작:</span> 글쓰기 도구(교정/요약/재작성), 스마트 답장, 최우선 알림, 시각 지능, 시리 개선(맥락 이해, 타이핑 입력), 챗GPT 통합(계정 없이 사용 가능) 등 기능 제공.</li>
+                <li><span class="keyword">AI 기능 지연 및 비판:</span> 핵심 기능 '시리 개인화' 내년으로 연기 발표 후 허위/과장 광고 비판 및 소송 제기. 사용자 경험 "미완성" 평가 및 낮은 명령어 인식률 지적.</li>
+                <li><span class="keyword">'나의 찾기' 한국 정식 서비스 개시:</span> 출시 15년 만에 완전한 형태로 지원. 기기/물품 위치 추적, 가족/친구 위치 공유, 분실 모드, 에어태그 연동 강화.</li>
+                <li><span class="keyword">OS 업데이트:</span> iOS 19/iPadOS 19는 A12 Bionic 칩(아이폰 XR/XS), A10 Fusion 칩(7세대 아이패드) 지원 중단 예상. iOS 18.6 베타 테스트 정황 포착 (7월 정식 출시 예상). watchOS 11.4 출시(Matter 로봇청소기 지원, 수면 알람 개선).</li>
+                <li><span class="keyword">오디오:</span> 에어팟 맥스 (USB-C) 최신 펌웨어 업데이트로 무손실 오디오(24비트 48kHz) 및 초저지연 오디오 지원 추가.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>하드웨어 및 차세대 제품</h3>
+            <ul>
+                <li><span class="keyword">폴더블 아이폰:</span> 2026년 출시 전망. 북 타입, 약 8인치 내부 디스플레이 예상. 주름 개선 및 내구성 강화에 집중. 아이패드 에어 초슬림 기술 적용 가능성. 메탈릭 글래스 힌지 적용설.</li>
+                <li><span class="keyword">아이폰 17 시리즈(2026년):</span> '에어' 모델은 5.5mm 초슬림 디자인, LTPO OLED, 맥세이프 유지 예상되나 카메라/스피커 제약 가능성. '울트라' 모델은 프로 맥스 리브랜딩 및 폴더블 전 시장 반응 테스트 목적 가능성.</li>
+                <li><span class="keyword">AirTag 2:</span> 2025년 5~6월(WWDC25 공개?) 출시 예상. 최신 UWB 칩 탑재로 정밀 탐색 범위 최대 60m 확장. 스토킹 방지 기술 강화.</li>
+                <li><span class="keyword">Apple Watch 11:</span> 새로운 센서(혈압/혈당?) 및 카메라 탑재, AI 기능 강화(시각 지능) 가능성.</li>
+                <li><span class="keyword">아이폰 16e (리뷰):</span> 6.1인치 OLED, A16칩, 긴 배터리 등 장점. 비싼 가격(99만원), 맥세이프 미지원, 싱글 카메라(초광각/아웃포커싱 제한), 노치 디자인 등 단점.</li>
+                 <li><span class="keyword">스마트 안경:</span> 메타 '하이퍼노바' 연내 출시(약 200만원) 예정. 애플과의 경쟁 구도 형성 가능성.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>SCM, 경영 및 기타 이슈</h3>
+            <ul>
+                <li><span class="keyword">트럼프 상호 관세 영향:</span> 모든 수입품 최소 10% 관세 부과 발표 후 시간 외 거래에서 애플 주가 6% 급락. 중국(34%), 베트남(46%), 인도(26%) 등 주요 생산 거점 관세율 발표로 수익 타격 우려.</li>
+                <li><span class="keyword">공급망 다변화 지속:</span> 디스플레이, 카메라 모듈 등 핵심 부품 중국 업체 추격 속 공급처 다변화 모색.</li>
+                 <li><span class="keyword">디스플레이 파트너:</span> 삼성D/LGD(LTPO), BOE(LTPS). 삼성D의 아이폰 OLED 점유율 하락 추세(2024년 56% 추정). LG디스플레이는 아이폰17 시리즈 3개 모델에 LTPO 공급 예상.</li>
+                 <li><span class="keyword">카메라 파트너:</span> LG이노텍 주력 공급사, 중국 업체 일부 진입으로 수익성 영향. 폴디드줌 모듈은 애플 외 타사로 확대 중.</li>
+                <li><span class="keyword">노동 소송 연기:</span> NLRB, 애플 상대 노동법 위반 소송 2건 무기한 연기. 트럼프 대통령이 애플 측 변호사를 NLRB 고문 임명 후 발생하여 논란.</li>
+                <li><span class="keyword">애플카드 파트너십:</span> 결제 네트워크 파트너 자리를 두고 비자, 마스터카드, 아멕스 경쟁. 비자 1억 달러 제안설. 새 발행사(JP모건, 싱크로니 등)도 물색 중.</li>
+                 <li><span class="keyword">서비스 확장:</span> 지도 앱 광고 삽입 검토, 애플 TV+ 안드로이드 개방 등 서비스 매출 확대 노력 지속.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="Display_Industry" class="tab-content">
+        <h2>디스플레이 산업</h2>
+         <div class="section">
+            <h3>시장 동향 및 전망</h3>
+             <ul>
+                 <li><span class="keyword">중국 LCD 패널 점유율 확대:</span> BOE·CSOT·HKC 등 중국 3사 점유율 66% 도달. CSOT는 LGD 광저우 공장 인수(T11)로 점유율 22.9% 예상. 중국 TV 브랜드(TCL, 하이센스) 공세 강화.</li>
+                 <li><span class="keyword">OLED 전환 가속화:</span> 휴대폰용 OLED 출하량 증가 지속 (2025년 10억대 돌파 전망). 모니터 시장에서도 OLED 전환 가속 (GPU 발전 영향).</li>
+                 <li><span class="keyword">폴더블 시장 성장 둔화:</span> 높은 가격, 내구성 이슈 등으로 2025년 첫 연간 역성장(-4%) 전망. 2026년 애플 진입 시 반등 기대.</li>
+                 <li><span class="keyword">IT용 8.6세대 OLED 투자:</span> 애플 IT 기기 OLED 적용 확대 대비 삼성D(4.1조), BOE(12조), 비전옥스(10.3조) 투자 활발. LG디스플레이는 재무 부담 등으로 투자 결정 고심 중.</li>
+                  <li><span class="keyword">OLED 기술 경쟁:</span> 삼성D QD-OLED vs LGD WOLED. LGD, 5K2K 게이밍 OLED 패널 양산 및 DFR 기술 적용. 삼성D, 500Hz 주사율 27형 QHD 패널 출시 예정.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>주요 기업 동향</h3>
+            <ul>
+                <li><span class="keyword">LG디스플레이:</span>
+                    <ul>
+                        <li>광저우 8.5세대 LCD 공장 CSOT 매각 완료 (약 2조 300억원 규모, 이달 대금 확정). 대형 LCD 사업 완전 철수.</li>
+                         <li>확보 자금은 OLED 사업 고도화 및 재무구조 개선 활용 예정. 올해 영업이익 흑자전환(턴어라운드) 전망.</li>
+                         <li>IT용 OLED: 모니터 시장 집중 (4세대 패널, 5K2K 해상도, DFR), 고객사 10여 곳 확보. 8.6세대 투자는 고심 중.</li>
+                         <li>애플 공급망: LTPO OLED 핵심 공급사. 아이폰17 시리즈 3개 모델 공급 예상. 폴더블 패널 양산은 2028년 이후 전망.</li>
+                    </ul>
+                </li>
+                <li><span class="keyword">삼성디스플레이:</span>
+                    <ul>
+                         <li>IT용 8.6세대 OLED 투자 확정 (4.1조원, 2026년 양산 목표).</li>
+                         <li>폴더블 패널: 애플 폴더블 아이폰에 수년간 독점 공급 가능성 높음 (양산 경험 우위).</li>
+                         <li>QD-OLED: 프리미엄 모니터 시장 공략 (색표현력/밝기 우수). 27/32인치 라인업 확장 및 500Hz 주사율 패널 출시 예정. 모니터용 OLED 점유율 71.2% 차지.</li>
+                         <li>법적 분쟁: 중국 BOE 상대 무역 비밀 침해 소송 제기 (미국 텍사스 법원). OLED 기술 유출 주장.</li>
+                         <li>실적 전망: 경쟁 심화 및 아이폰 수요 둔화로 올해 실적 부진 예상 (영업익 3조 초반?). 2026년 애플 폴더블/IT OLED 공급 확대로 반등 기대.</li>
+                         <li>협력사 지원: 신보와 함께 중소형 OLED 수출 프로젝트 협력사 8곳에 165억원 규모 공동 프로젝트 보증 지원.</li>
+                    </ul>
+                 </li>
+                 <li><span class="keyword">DB글로벌칩 (팹리스):</span>
+                    <ul>
+                         <li>휴대폰용 OLED 구동칩(TED) 양산 시작. 삼성디스플레이 통해 갤럭시 A26에 공급 (FHD+ 해상도).</li>
+                         <li>포트폴리오 확장: 기존 IT용에서 모바일용으로 확장. 향후 고사양 스마트폰용 칩 개발 계획.</li>
+                    </ul>
+                 </li>
+                 <li><span class="keyword">중국 기업 (CSOT, BOE 등):</span>
+                    <ul>
+                        <li>CSOT (TCL 자회사): LGD 광저우 LCD 공장 인수 완료(T11). 대형 LCD 점유율 확대(22.9% 예상) 및 경쟁력 강화.</li>
+                        <li>BOE: 애플 아이폰 LTPS OLED 공급하며 LTPO 기술력 추격 중. IT용 8.6세대 OLED 공격적 투자. 삼성D로부터 무역 비밀 침해 소송 피소.</li>
+                         <li>하이센스: 116형 RGB 미니 LED TV 출시 등 차세대 TV 기술 개발 선도 노력.</li>
+                    </ul>
+                 </li>
+                 <li><span class="keyword">소재/장비/부품 기업:</span>
+                    <ul>
+                         <li><span class="keyword">세경하이테크:</span> 폴더블용 데코필름/보호필름 및 글라스틱 필름 공급. 하반기 FoD 모듈 양산 기대. 북미 고객사 폴더블 진출 시 수혜 예상. 중국 UTG 업체와 합작법인 설립.</li>
+                         <li><span class="keyword">해성옵틱스:</span> 갤럭시 플래그십 OIS 액추에이터 공급 (S25, S26). 폴디드줌 모듈 신규 공급 추진 (애플 등 대상).</li>
+                         <li><span class="keyword">재영솔루텍:</span> 갤럭시 A/S 시리즈에 VCM, 엔코더, OIS 공급. 초박형 OIS 개발 및 공급 확대.</li>
+                         <li><span class="keyword">에스켐:</span> OLED 유기 소재 합성/정제 전문. 이대원 부사장(소재 전문가) 영입으로 기술 고도화 및 신사업 확장 기대.</li>
+                         <li><span class="keyword">에프엔에스테크:</span> 삼성디스플레이에 대형 OLED용 OMM 정밀 세정 장비 공급 완료. 수주잔고 감소는 과제.</li>
+                         <li><span class="keyword">PI첨단소재:</span> 방열시트용 PI 필름 장기 공급 계약 확대. 북미 고객사 신규 슬림 모델(아이폰17 에어?)에 초극박 필름 공급.</li>
+                     </ul>
+                 </li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="Competition_Tech" class="tab-content">
+        <h2>경쟁 및 기술 이슈</h2>
+        <div class="section">
+            <h3>시장 경쟁 구도</h3>
+             <ul>
+                 <li><span class="keyword">스마트폰 시장:</span> 삼성 vs 애플 경쟁 심화 (AI 기능, 점유율). 갤럭시 S25 시리즈 판매 호조 속 애플 AI 기능 지연/비판 이슈. 중국 업체(샤오미, 화웨이 등) 추격 지속.</li>
+                 <li><span class="keyword">폴더블폰 시장:</span> 삼성 주도 속 성장 둔화. 2025년 역성장 전망 후 2026년 애플 진입 시 반등 기대. 삼성, 트라이폴드(G 폴드)로 차별화 시도.</li>
+                 <li><span class="keyword">디스플레이 시장:</span> LCD는 중국(CSOT, BOE 등) 주도권 강화. OLED는 한국(삼성D, LGD) 기술 우위 속 중국(BOE 등) 추격 거셈. IT용 OLED 투자 및 기술 경쟁 격화.</li>
+                 <li><span class="keyword">파운드리 시장:</span> TSMC(67.1%) 독주, 삼성(8.1%) 2위 유지 어려움 (UMC+GF 합병설 점유율 9.3%). TSMC 2나노 vs 삼성 2나노 GAA 경쟁. 삼성 3나노 수율 문제 지속. SMIC 등 중국 업체 추격.</li>
+                 <li><span class="keyword">카메라 모듈:</span> LG이노텍 등 한국 기업 주도 속 중국 업체 일부 진입. 고화소, OIS, 폴디드줌 기술 경쟁.</li>
+             </ul>
+        </div>
+         <div class="section">
+            <h3>주요 기술 트렌드 및 이슈</h3>
+            <ul>
+                 <li><span class="keyword">모바일 AI:</span> 삼성 갤럭시 AI vs 애플 Apple Intelligence 경쟁 심화. 기능 유사성 증가하나 애플 핵심 기능 지연. 온디바이스 AI 처리 및 개인정보 보호 중요성 부각.</li>
+                 <li><span class="keyword">디스플레이 기술:</span> OLED 고도화 (QD-OLED, WOLED 탠덤 구조, 고해상도/고주사율, DFR). 폴더블/롤러블 등 폼팩터 혁신. 초슬림 디스플레이 기술 경쟁.</li>
+                 <li><span class="keyword">반도체 공정:</span> 2나노 이하 초미세 공정 경쟁 본격화 (TSMC, 삼성, 인텔). GAA(삼성) 기술 성숙도 및 수율 확보가 관건. 삼성, 2나노 엑시노스(가칭 2600) 2026년 목표.</li>
+                 <li><span class="keyword">XR/AR:</span> 애플 비전프로 이후 메타 스마트 글래스(하이퍼노바) 등 경쟁 제품 출시 가시화.</li>
+                 <li><span class="keyword">특허 및 기술 분쟁:</span> 삼성디스플레이 vs BOE OLED 기술 분쟁 격화 (무역 비밀 침해 소송). 글로벌 제약사 vs 바이오시밀러 기업 간 특허 소송 증가.</li>
+            </ul>
+        </div>
+         <div class="section">
+            <h3>공급망(SCM) 및 기업 전략 이슈</h3>
+            <ul>
+                 <li><span class="keyword">Apple 공급망 리스크:</span> 트럼프발 관세 리스크 부상. 중국 의존도 및 경쟁 심화로 LG디스플레이, LG이노텍 등 국내 부품사 영향 주목. 애플의 공급처 다변화 지속.</li>
+                 <li><span class="keyword">LGD LCD 사업 철수:</span> OLED 전환 및 재무구조 개선 가속화. IT용 8.6세대 OLED 투자 결정 지연은 기회비용 리스크.</li>
+                 <li><span class="keyword">삼성전자 파운드리:</span> 3나노 수율 문제 및 고객 확보 어려움 지속. 2나노 GAA 기술 성공 여부 및 TSMC와의 격차 축소가 핵심 과제. UMC-GF 합병설 부상으로 2위 수성 위협.</li>
+                 <li><span class="keyword">삼성전자 리더십:</span> 故 한종희 부회장 후임으로 노태문 MX사업부장 DX부문장 직무대행 선임. 조직 안정화 및 사업 경쟁력 제고 과제. 최원준 사장 MX COO, 김철기 부사장 DA사업부장 등 후속 인사 단행.</li>
+                 <li><span class="keyword">LG이노텍:</span> 높은 애플 의존도(광학솔루션 84%)로 비수기 실적 변동성. 전장부품, FC-BGA 등 신사업 성과 가시화 필요.</li>
+            </ul>
+        </div>
+    </div>
+
+
+    <div class="roadmap">
+        <h2>주요 일정 로드맵 (예상 포함)</h2>
+         <div class="roadmap-item">
+            <strong>2025년 5월~6월 (예상)</strong>
+             <span>Apple AirTag 2 출시 (WWDC25 공개 가능성)</span><br>
+             <span>삼성전자 갤럭시 S25 엣지 출시</span><br>
+             <span>Apple iOS 18.6 베타 테스트 시작</span>
+         </div>
+         <div class="roadmap-item">
+            <strong>2025년 6월 9일 (예상)</strong>
+             <span>Apple WWDC25 개최 (iOS 19 / iPadOS 19 공개)</span>
+         </div>
+         <div class="roadmap-item">
+            <strong>2025년 하반기 (예상)</strong>
+             <span>TSMC 2나노 공정 양산 시작 (Apple 고객 유력)</span><br>
+             <span>Intel 18A(1.8nm급) 공정 CPU 양산 시작</span><br>
+             <span>삼성전자 갤럭시 Z 폴드7/플립7 및 G 폴드(트라이폴드) 출시 (7~8월 언팩?)</span><br>
+             <span>Apple 아이폰 17 에어 출시 (초슬림 모델)</span><br>
+             <span>메타 스마트 글래스 '하이퍼노바' 출시</span>
+        </div>
+         <div class="roadmap-item">
+            <strong>2026년 (예상)</strong>
+             <span>Apple 폴더블 아이폰 출시</span><br>
+             <span>Apple 아이폰 17 울트라 출시 가능성</span><br>
+             <span>삼성전자 2나노 공정 양산 (엑시노스 2600 탑재 갤럭시 S26 출시 목표)</span><br>
+             <span>삼성디스플레이 8.6세대 IT OLED 라인 구축 완료 목표</span><br>
+             <span>LG이노텍 FC-BGA 사업 손익분기점 도달 목표</span><br>
+             <span>Apple AI 기반 건강 코치 앱 출시 목표</span><br>
+             <span>Apple 시리 개인화 기능 업데이트</span>
+        </div>
+         <div class="roadmap-item">
+            <strong>2027년 (예상)</strong>
+             <span>Apple 차세대 Apple Watch 출시 (신규 센서 탑재?)</span><br>
+             <span>Apple 차세대 스마트 글래스 '하이퍼노바 2'? (듀얼 스크린?)</span><br>
+             <span>삼성전자 1.4나노 공정 로드맵 실행 목표</span><br>
+             <span>아일리아(황반변성 치료제) 제형 특허 만료</span>
+         </div>
+         <div class="roadmap-item">
+            <strong>2028년 (예상)</strong>
+             <span>LG디스플레이 IT OLED 등 신기술 투자 결정 가능성</span><br>
+              <span>Apple, iMac에 OLED 적용 계획?</span>
+         </div>
+    </div>
+
+    <div class="references">
+      <h2>참고 기사 목록</h2>
+      <ul>
+        <li><a href="https://n.news.naver.com/mnews/article/003/0013160453?sid=101" target="_blank">中 LCD 패널 점유율 확대…TV 공세도 거세진다 (2025-04-03 07:00)</a></li>
+        <li><a href="http://www.g-enews.com/ko-kr/news/article/news_all/2025040306254747283bc914ac71_1/article.html" target="_blank">美 주요 기술주, 트럼프 관세 발표 후 시간 외 급락...애플 6%↓ (2025-04-03 07:00)</a></li>
+        <li><a href="http://www.newsprime.co.kr/news/article.html?no=681722" target="_blank">세경하이테크, 기술 경쟁력 '재조명'…올해 '상고하저' 실적 기대 (2025-04-03 07:00)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/018/0005977239?sid=101" target="_blank">애플·나이키 등 시간외서 급락…트럼프 상호관세 여파 (2025-04-03 06:29)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/003/0013160423?sid=105" target="_blank">삼성 첫 트리폴드폰도 한·중에서만 선보이나 (2025-04-03 06:01)</a></li>
+        <li><a href="http://www.hansbiz.co.kr/news/articleView.html?idxno=742023" target="_blank">中, OLED 모니터 시장 본격 공략…K디스플레이 대응 전략은 (2025-04-03 06:00)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/023/0003897237?sid=105" target="_blank">GPU 뜨니… 모니터용 디스플레이도 LCD서 OLED로 (2025-04-03 00:36)</a></li>
+        <li><a href="https://www.tokenpost.kr/news/society/233990" target="_blank">트럼프 인사 여파? 애플 노동소송 심리 돌연 연기 '논란' (2025-04-03 00:06)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/005/0001767306?sid=101" target="_blank">폴더블폰, 벌써 인기 접히나… “올해 마이너스 성장, 내년엔 반등 기대... (2025-04-02 23:13)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/005/0001767303?sid=101" target="_blank">한국어 늦게 배운 애플 AI, 쓰기는 편하네 (2025-04-02 23:12)</a></li>
+        <li><a href="https://www.joongangenews.com/news/articleView.html?idxno=415785" target="_blank">해성옵틱스, 갤럭시 플래그십 전 기종에 OIS 모듈 탑재...2026년까지 이어... (2025-04-02 23:06)</a></li>
+        <li><a href="https://cwn.kr/article/1065611409707995" target="_blank">애플 인텔리전스, iOS 18.4 발표와 함께 4월 1일부터 한국어 서비스 개시 (2025-04-02 23:00)</a></li>
+        <li><a href="https://www.tokenpost.kr/news/market/233949" target="_blank">비자, 애플카드 결제망 놓고 '1억 달러 베팅'…마스터카드 밀어내나 (2025-04-02 22:48)</a></li>
+        <li><a href="https://www.greened.kr/news/articleView.html?idxno=325098" target="_blank">챗GPT 탑재하고 '한국말' 하는 애플 AI, 삼성 맹추격...올해 AI폰 경쟁 본... (2025-04-02 22:03)</a></li>
+        <li><a href="https://www.betanews.net/article/view/beta202504020120" target="_blank">삼성이 애플을 이길 수 있는 비장의 방법 (2025-04-02 20:38)</a></li>
+        <li><a href="http://www.biztribune.co.kr/news/articleView.html?idxno=332068" target="_blank">DB글로벌칩, OLED 구동칩으로 모바일 시장 공략 (2025-04-02 20:26)</a></li>
+        <li><a href="http://www.seoulwire.com/news/articleView.html?idxno=645303" target="_blank">[단독] 삼성디스플레이, 中 BOE 무역 비밀 침해 고소...OLED 기술 빼가 (2025-04-02 20:08)</a></li>
+        <li><a href="https://cwn.kr/article/1065609998051950" target="_blank">애플 '나의 찾기' 기능 드디어 한국 내 서비스 개시 (2025-04-02 19:50)</a></li>
+        <li><a href="https://www.straightnews.co.kr/news/articleView.html?idxno=268063" target="_blank">삼성전자 초슬림폰 '갤럭시 S25 엣지' 5~6월 출시 전망 (2025-04-02 19:20)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/243/0000075651?sid=101" target="_blank">애플의 무리수? AI 비판 봇물 시리, 내년은 돼야… (2025-04-02 19:00)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/119/0002940720?sid=101" target="_blank">中 CSOT, LG디스플레이 광저우 LCD 공장 인수 마쳐 (2025-04-02 18:32)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/014/0005330442?sid=105" target="_blank">'한국어 지원' 시작했지만… 기대이하 성능으로 한계 드러낸 애플인텔리... (2025-04-02 18:18)</a></li>
+        <li><a href="https://www.sentv.co.kr/article/view/sentv202504020094" target="_blank">AI폰 포문 연 삼성, 애플 추격 ‘예의주시’ (2025-04-02 18:02)</a></li>
+        <li><a href="https://www.aitimes.com/news/articleView.html?idxno=169288" target="_blank">메타의 스마트 안경 '하이퍼노바'는 아이폰 대항 제품 (2025-04-02 18:00)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/008/0005174908?sid=101" target="_blank">LGD, '2조' 광저우 LCD 공장 매각 마무리…OLED에 집중한다 (2025-04-02 17:32)</a></li>
+        <li><a href="https://www.businesspost.co.kr/BP?command=article_view&num=389736" target="_blank">삼성디스플레이 경쟁 심화에 실적 올해도 '찬바람', 애플 공급 확대로 ... (2025-04-02 17:08)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/029/0002945532?sid=101" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산 (2025-04-02 17:03)</a></li>
+        <li><a href="https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504021648050080109321" target="_blank">[더벨][i-point]해성옵틱스, 갤럭시S25·S26에 카메라 모듈 공급 (2025-04-02 17:02)</a></li>
+        <li><a href="https://www.newspim.com/news/view/20250402000990" target="_blank">해성옵틱스, 갤럭시 플래그쉽 카메라 모듈 공급…차세대도 준비 (2025-04-02 17:01)</a></li>
+        <li><a href="http://www.updownnews.co.kr/news/articleView.html?idxno=312010" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산...삼성 A26 모델에 적용 (2025-04-02 16:52)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/029/0002945518?sid=101" target="_blank">LGD, 세계 최초 기술로 4.8조 OLED 모니터 시장 공략 집중 (2025-04-02 16:44)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/029/0002945519?sid=101" target="_blank">中 CSOT, LG디스플레이 광저우 LCD 공장 인수 마무리 (2025-04-02 16:44)</a></li>
+        <li><a href="https://www.businesspost.co.kr/BP?command=article_view&num=389738" target="_blank">UMC-글로벌파운드리 합병땐 삼성 파운드리 '사면초가', 한진만 수율 관... (2025-04-02 16:36)</a></li>
+        <li><a href="https://www.asiatoday.co.kr/view.php?key=20250402010001294" target="_blank">삼성 이어 LG까지 철수…한국 대형 LCD산업 25년만에 막 내렸다 (2025-04-02 16:14)</a></li>
+        <li><a href="https://byline.network/?p=9004111222560485" target="_blank">메타, 화면 내장된 스마트 안경 연내 출시 예정 (2025-04-02 16:14)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/018/0005976925?sid=101" target="_blank">해성옵틱스, 갤럭시 플래그쉽 카메라 모듈 공급…차세대도 준비 (2025-04-02 16:12)</a></li>
+        <li><a href="http://www.niceeconomy.co.kr/news/articleView.html?idxno=86082" target="_blank">[산업 브리핑] 태광그룹·DB글로벌칩 (2025-04-02 16:10)</a></li>
+        <li><a href="https://dealsite.co.kr/articles/139273" target="_blank">해성옵틱스, 차세대 갤럭시에 카메라모듈 공급 추진 (2025-04-02 16:08)</a></li>
+        <li><a href="https://www.newsway.co.kr/news/view?ud=2025040215354181301" target="_blank">'갤럭시 신화' 노태문…DX부문 경쟁력·품질 제고 최우선 과제로 (2025-04-02 16:06)</a></li>
+        <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=559883" target="_blank">정체된 폴더블폰 시장…2026년 폴더블 아이폰이 구원할까 (2025-04-02 16:02)</a></li>
+        <li><a href="https://www.electimes.com/news/articleView.html?idxno=352883" target="_blank">DB글로벌칩, OLED 디스플레이 핵심 칩 'TED' 공급 시작…갤럭시A26 장착 (2025-04-02 16:00)</a></li>
+        <li><a href="https://www.etoday.co.kr/news/view/2458233" target="_blank">삼성 ‘갤럭시 S25 엣지’ 이르면 내달 출시… 최원준 COO 첫 시험대 (2025-04-02 15:56)</a></li>
+        <li><a href="https://www.ajunews.com/view/20250402155212836" target="_blank">LG디스플레이, 中 광저우 LCD 매각 완료… 이달 매각 대금 확정 (2025-04-02 15:54)</a></li>
+        <li><a href="https://www.ajunews.com/view/20250401141032892" target="_blank">빅테크發 '하드웨어' 반격에··· AI폰 가격 '양극화' 심화 (2025-04-02 15:52)</a></li>
+        <li><a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=333476" target="_blank">중국 CSOT, LG디플 LCD 공장 인수… 생산라인 가동 (2025-04-02 15:48)</a></li>
+        <li><a href="http://www.g-enews.com/ko-kr/news/article/news_all/2025040215321488906ed0c62d49_1/article.html" target="_blank">LG디스플레이, 中 광저우 공장 CSOT에 매각 완료 (2025-04-02 15:48)</a></li>
+        <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=559867" target="_blank">애플 'AI 의사'로 헬스케어 시장 본격 진출…우려 나오는 이유 (2025-04-02 15:44)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/008/0005174790?sid=101" target="_blank">DB글로벌칩, 삼성전자 스마트폰 'OLED 구동칩' 공급 (2025-04-02 15:40)</a></li>
+        <li><a href="https://www.ebn.co.kr/news/articleView.html?idxno=1657735" target="_blank">삼성전자, 초슬림 스마트폰 '갤럭시 S25 엣지' 5~6월 출시 전망 (2025-04-02 15:36)</a></li>
+        <li><a href="http://www.seoulfn.com/news/articleView.html?idxno=553151" target="_blank">삼성전자, DA사업부장에 김철기 부사장···깜짝 발탁 배경은 (2025-04-02 15:35)</a></li>
+        <li><a href="http://kpenews.com/View.aspx?No=3600303" target="_blank">삼성, 초슬림 스마트폰 ‘갤럭시 S25 엣지’ 출시 일정 5~6월로 조정 (2025-04-02 15:34)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/366/0001066101?sid=105" target="_blank">中 CSOT, LG디스플레이 LCD 공장 인수 완료… 생산라인 본격 가동 (2025-04-02 15:33)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/366/0001066096?sid=105" target="_blank">“지도 앱에 광고, 안드로이드서 애플 TV+”… 애플, 아이폰 수익 감소... (2025-04-02 15:22)</a></li>
+        <li><a href="https://www.ekn.kr/web/view.php?key=20250402026522920" target="_blank">삼성 ‘갤럭시 S25 엣지’ 출시 앞당겨 스마트폰 호실적 이어간다 (2025-04-02 15:18)</a></li>
+        <li><a href="https://daily.hankooki.com/news/articleView.html?idxno=1199017" target="_blank">中 TCL 자회사 CSOT, LG디스플레이 광저우공장 인수 완료 (2025-04-02 15:16)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/015/0005114022?sid=101" target="_blank">갤럭시용 OLED 구동칩…DB글로벌칩, 양산 시작 (2025-04-02 15:15)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/001/0015306125?sid=105" target="_blank">울트라와 플러스 사이…'갤럭시 엣지' 5~6월 출시 전망 (2025-04-02 15:14)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/009/0005469489?sid=105" target="_blank">DB글로벌칩, OLED 구동칩 시장 진출...“TED로 FHD+ 해상도 지원” (2025-04-02 15:12)</a></li>
+        <li><a href="https://www.businesspost.co.kr/BP?command=article_view&num=389704" target="_blank">트럼프 향한 빅테크 '총력 로비' 결실, 애플·메타 첫 수혜 대상자로 떠... (2025-04-02 15:12)</a></li>
+        <li><a href="http://www.m-i.kr/news/articleView.html?idxno=1224196" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산…사업영역 확장 (2025-04-02 15:02)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/003/0013159230?sid=105" target="_blank">삼성 '갤럭시 S25 엣지' 이달 출시 안될 듯…5~6월 공개 전망 (2025-04-02 14:56)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/092/0002369097?sid=105" target="_blank">메타, 올해 화면 달린 스마트 안경 출시…가격 200만원 (2025-04-02 14:53)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/277/0005571730?sid=101" target="_blank">中CSOT, LGD 광저우 LCD 공장 인수 마무리…생산라인 본격 가동 (2025-04-02 14:52)</a></li>
+        <li><a href="https://www.widedaily.com/news/articleView.html?idxno=263935" target="_blank">DB글로벌칩, 삼성 휴대폰용 올레드 구동칩 양산 (2025-04-02 14:42)</a></li>
+        <li><a href="https://daily.hankooki.com/news/articleView.html?idxno=1198967" target="_blank">삼성디스플레이, 폴더블 아이폰發 훈풍…수년간 독점 가능성 (2025-04-02 14:40)</a></li>
+        <li><a href="http://www.newsfc.co.kr/news/articleView.html?idxno=70384" target="_blank">中CSOT, LGD 광저우공장 인수 마무리...LGD 대형LCD사업 종료 (2025-04-02 14:36)</a></li>
+        <li><a href="https://www.asiatime.co.kr/article/20250402500277" target="_blank">부랴부랴 AI 쫓는 애플…'나의 찾기' 도입에 감격한 사용자 (2025-04-02 14:32)</a></li>
+        <li><a href="http://www.popcornnews.net/news/articleView.html?idxno=76355" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산 (2025-04-02 14:16)</a></li>
+        <li><a href="https://biz.newdaily.co.kr/site/data/html/2025/04/02/2025040200283.html" target="_blank">해성옵틱스, 폴디드줌 OIS액추에이터 카메라모듈 공급 추진 (2025-04-02 14:16)</a></li>
+        <li><a href="https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065586868246482" target="_blank">삼성전자 추격하는 애플... 'AI폰' 경쟁 본격화 (2025-04-02 14:10)</a></li>
+        <li><a href="http://www.newsprime.co.kr/news/article.html?no=681637" target="_blank">해성옵틱스, 내년까지 갤럭시 차세대 모델에 OIS 액추에이터 공급 (2025-04-02 14:00)</a></li>
+        <li><a href="https://kr.aving.net/news/articleView.html?idxno=1798693" target="_blank">삼성전자, 첫 '트라이폴드' 모델 韓·中 2개국 한정 출시한다... 새 폼팩... (2025-04-02 13:58)</a></li>
+        <li><a href="https://www.cstimes.com/news/articleView.html?idxno=640254" target="_blank">해성옵틱스, 폴디드줌 OIS액추에이터 카메라모듈 공급 추진 (2025-04-02 13:54)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/374/0000432883?sid=104" target="_blank">中 가전업체 TCL 자회사 CSOT, LGD 광저우 LCD 공장 인수 운영 (2025-04-02 13:43)</a></li>
+        <li><a href="https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504011633088640103555" target="_blank">[더벨][삼성전자 리더십 재편]'직무대행' 노태문 사장, 대표 선임 유력... (2025-04-02 13:42)</a></li>
+        <li><a href="https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504011624419160105766" target="_blank">[더벨][삼성전자 리더십 재편]삼성전자, DX부문 발빠른 재정비 '노태문... (2025-04-02 13:42)</a></li>
+        <li><a href="https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504011720002880103733" target="_blank">[더벨][삼성전자 리더십 재편]역할 많아진 최원준, '노태문 부담 최소화... (2025-04-02 13:42)</a></li>
+        <li><a href="https://www.thebell.co.kr/free/content/ArticleView.asp?key=202503270856281680109583" target="_blank">[더벨][이재용의 차이나 공략 키워드]조용히 확대한 카오디오 시장 입지... (2025-04-02 13:42)</a></li>
+        <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=559850" target="_blank">역대급 변화 iOS 19 지원 목록…어떤 아이폰 모델 제외됐나 (2025-04-02 13:16)</a></li>
+        <li><a href="https://www.viva100.com/article/20250402500876" target="_blank">中 CSOT, LGD 광저우 LCD 공장 인수 마무리 (2025-04-02 13:14)</a></li>
+        <li><a href="http://www.thelec.kr/news/articleView.html?idxno=34351" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산… 갤럭시 A26모델에 적용 (2025-04-02 13:10)</a></li>
+        <li><a href="https://www.tfmedia.co.kr/news/article.html?no=183840" target="_blank">애플, 에어태그2 출시 준비 (2025-04-02 12:52)</a></li>
+        <li><a href="https://www.jemin.com/news/articleView.html?idxno=793989" target="_blank">애플, 에어태그2 출시 준비 (2025-04-02 12:52)</a></li>
+        <li><a href="https://www.sentv.co.kr/article/view/sentv202504020163" target="_blank">하나증권재영솔루텍, 스마트폰 카메라 고급화 수혜…역대급 실적 (2025-04-02 12:48)</a></li>
+        <li><a href="https://www.tfmedia.co.kr/news/article.html?no=183837" target="_blank">애플워치OS 11.4, 신규 기능 추가 (2025-04-02 12:38)</a></li>
+        <li><a href="https://www.jemin.com/news/articleView.html?idxno=793987" target="_blank">애플워치OS 11.4, 신규 기능 추가 (2025-04-02 12:36)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/138/0002193923?sid=105" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산…삼성디스플레이에 공급 (2025-04-02 12:17)</a></li>
+        <li><a href="https://www.ilovepc.co.kr/news/articleView.html?idxno=53806" target="_blank">몬스터 헌터 와일즈를 위한 최상급 게이밍 환경 구성하기... 커세어 게이... (2025-04-02 12:00)</a></li>
+        <li><a href="https://www.newsworks.co.kr/news/articleView.html?idxno=790372" target="_blank">[써보니] 화면 키우고 속도 빨라진 '아이폰 16e'…걸림돌은 카메라와 가... (2025-04-02 11:44)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/001/0015305373?sid=101" target="_blank">中CSOT, LGD 광저우 LCD 공장 인수 마무리…시장 우위 강화 (2025-04-02 11:40)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/016/0002451535?sid=101" target="_blank">삼성 DX, 노태문 체제로 신속 전환 (2025-04-02 11:35)</a></li>
+        <li><a href="http://www.sisacast.kr/news/articleView.html?idxno=71258" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산...삼성디스플레이 공급 (2025-04-02 11:34)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/003/0013158430?sid=101" target="_blank">DB글로벌칩, 삼성 휴대폰용 올레드 구동칩 양산 (2025-04-02 11:31)</a></li>
+        <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=559845" target="_blank">차세대 애플 에어태그2, 2분기 출시 전망…예상 스펙은 (2025-04-02 11:30)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/030/0003299335?sid=105" target="_blank">[단독] 삼성, '초슬림폰' 갤럭시S25엣지 공개 5월 이후로 (2025-04-02 11:15)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/016/0002451469?sid=105" target="_blank">글로벌 빅파마, ‘韓바이오’ 견제 심해졌다 (2025-04-02 11:15)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/092/0002369069?sid=105" target="_blank">DB글로벌칩, 스마트폰용 OLED 구동칩 양산…삼성디스플레이에 공급 (2025-04-02 11:10)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/031/0000921162?sid=105" target="_blank">DB글로벌칩, '갤럭시A26' 탑재 OLED 구동칩 양산 (2025-04-02 11:10)</a></li>
+        <li><a href="https://kr.aving.net/news/articleView.html?idxno=1798681" target="_blank">애플워치 11, 갤럭시 워치보다 먼저 '혈당 측정' 지원할까... 새로운 센... (2025-04-02 11:08)</a></li>
+        <li><a href="https://kbench.com/?q=node/266173" target="_blank">애플, iOS 18.6 업데이트 테스트 시작.. 5~6월 출시 전망 (2025-04-02 11:08)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/015/0005113932?sid=101" target="_blank">中 맹추격하는데…삼성 가전 수성 과제 안은 '미스터 갤럭시' (2025-04-02 11:03)</a></li>
+        <li><a href="https://www.businesspost.co.kr/BP?command=article_view&num=389672" target="_blank">DB글로벌칩 휴대폰용 OLED 구동칩 양산, '갤럭시A26'에 최종 적용 (2025-04-02 10:58)</a></li>
+        <li><a href="https://www.goodkyung.com/news/articleView.html?idxno=261324" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산···삼성디플 공급 (2025-04-02 10:58)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/421/0008167814?sid=101" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산…삼성디스플레이 공급 (2025-04-02 10:53)</a></li>
+        <li><a href="http://www.seouleconews.com/news/articleView.html?idxno=82691" target="_blank">DB글로벌칩, 삼성 갤럭시용 OLED 구동칩 양산 (2025-04-02 10:50)</a></li>
+        <li><a href="https://www.asiaa.co.kr/news/articleView.html?idxno=208106" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산 및 공급 시작 (2025-04-02 10:50)</a></li>
+        <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=559829" target="_blank">아이폰17 울트라, 폴더블 아이폰 가격 결정할 듯…시장 반응 탐색한다 (2025-04-02 10:50)</a></li>
+        <li><a href="https://www.asiatoday.co.kr/view.php?key=20250402010001043" target="_blank">“PI첨단소재, 슬림화·온디바이스 AI 핵심 트렌드 주도” (2025-04-02 10:50)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/011/0004469065?sid=101" target="_blank">DB글로벌칩, 삼성 보급형 스마트폰에 OLED 구동칩 공급 (2025-04-02 10:41)</a></li>
+        <li><a href="https://kbench.com/?q=node/266170" target="_blank">애플 iOS 19, A12 바이오닉 기반 아이폰 지원 중단 (2025-04-02 10:38)</a></li>
+        <li><a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=333264" target="_blank">[이슈분석] 폴더블폰시장 둔화… '접는 아이폰' 돌파구 될까? (2025-04-02 10:30)</a></li>
+        <li><a href="https://www.fetv.co.kr/news/article.html?no=189965" target="_blank">TSMC·인텔, 하반기 2나노 이하 양산...삼성전자 파운드리 미래는? (2025-04-02 10:30)</a></li>
+        <li><a href="https://www.job-post.co.kr/news/articleView.html?idxno=139052" target="_blank">아이패드에어 초슬림 기술, 애플 차세대 전략에 적용되나 (2025-04-02 10:28)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/001/0015304950?sid=104" target="_blank">美노동관계위, '애플 소송 변호사' 고문 임명뒤 소송 중단 (2025-04-02 10:26)</a></li>
+        <li><a href="https://www.the-stock.kr/news/articleView.html?idxno=30331" target="_blank">에스켐, 소재 분야 전문가 이대원 부사장 사내 이사 선임 (2025-04-02 10:26)</a></li>
+        <li><a href="http://www.fntimes.com/html/view.php?ud=202504021022442666b372994c95_18" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산 (2025-04-02 10:24)</a></li>
+        <li><a href="https://www.job-post.co.kr/news/articleView.html?idxno=139045" target="_blank">애플페이 등 스마트 결제 확산, 금융회사 역할 줄었다 (2025-04-02 10:22)</a></li>
+        <li><a href="http://www.g-enews.com/ko-kr/news/article/news_all/2025040210093353386ed0c62d49_1/article.html" target="_blank">DB글로벌칩, 스마트폰 OLED구동칩 삼성디스플레이 공급 (2025-04-02 10:16)</a></li>
+        <li><a href="https://www.smarttoday.co.kr/news/articleView.html?idxno=76959" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산 (2025-04-02 10:16)</a></li>
+        <li><a href="http://www.hansbiz.co.kr/news/articleView.html?idxno=741934" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산 (2025-04-02 10:16)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/030/0003299261?sid=105" target="_blank">DB글로벌칩, 삼성 보급형폰에 OLED 구동칩 공급 (2025-04-02 10:12)</a></li>
+        <li><a href="https://www.ebn.co.kr/news/articleView.html?idxno=1657660" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산…고사양도 곧 개발 (2025-04-02 10:06)</a></li>
+        <li><a href="https://www.daily365.news/2025/04/02/%ec%95%a0%ed%94%8c%ec%b9%b4%eb%93%9c-%eb%84%a4%ed%8a%b8%ec%9b%8c%ed%81%ac-%ec%9f%81%ed%83%88%ec%a0%84-%eb%b9%84%ec%9e%90%c2%b7%eb%a7%88%ec%8a%a4%ed%84%b0%ec%b9%b4%eb%93%9c%c2%b7%ec%95%84/" target="_blank">애플카드 네트워크 쟁탈전… 비자·마스터카드·아메리칸익스프레스의... (2025-04-02 10:06)</a></li>
+        <li><a href="http://www.srtimes.kr/news/articleView.html?idxno=174295" target="_blank">에스켐, 이대원 부사장 사내 이사 신규 선임 (2025-04-02 10:02)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/119/0002940350?sid=101" target="_blank">DB글로벌칩, 모바일용 OLED 구동칩 양산...삼성 갤럭시 탑재 (2025-04-02 09:57)</a></li>
+        <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=559807" target="_blank">애플 워치OS 11.4 공개…알람 기능 강화·신규 이모지 추가 (2025-04-02 09:54)</a></li>
+        <li><a href="https://www.viva100.com/article/20250402500451" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산 (2025-04-02 09:52)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/016/0002451331?sid=105" target="_blank">DB글로벌칩, 삼성 갤럭시용 OLED 구동칩 양산 (2025-04-02 09:46)</a></li>
+        <li><a href="https://daily.hankooki.com/news/articleView.html?idxno=1198802" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 삼성디스플레이에 공급 (2025-04-02 09:44)</a></li>
+        <li><a href="https://www.datanet.co.kr/news/articleView.html?idxno=200951" target="_blank">에스켐, 사내이사로 이대원 부사장 선임 (2025-04-02 09:40)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/018/0005976502?sid=101" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산…삼성에 공급 (2025-04-02 09:37)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/001/0015304709?sid=101" target="_blank">DB글로벌칩, 휴대전화용 OLED 구동칩 양산…사업영역 확장 (2025-04-02 09:35)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/277/0005571428?sid=101" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산 (2025-04-02 09:29)</a></li>
+        <li><a href="https://www.cstimes.com/news/articleView.html?idxno=640172" target="_blank">하나증권 재영솔루텍, 역대 최고 실적 전망 (2025-04-02 09:26)</a></li>
+        <li><a href="https://www.widedaily.com/news/articleView.html?idxno=263839" target="_blank">애플 AI 한국어 지원 시작했지만…이용자 맞춤형 '시리'는 언제 나와 (2025-04-02 09:24)</a></li>
+        <li><a href="https://www.epnc.co.kr/news/articleView.html?idxno=314685" target="_blank">DB글로벌칩, 휴대폰용 OLED 구동칩 양산...삼성디스플레이에 공급 (2025-04-02 09:22)</a></li>
+        <li><a href="https://www.newspim.com/news/view/20250402000119" target="_blank">재영솔루텍, 스마트폰 카메라 고급화 수혜 지속 - 하나증권 (2025-04-02 09:16)</a></li>
+        <li><a href="https://kbench.com/?q=node/266162" target="_blank">카운터포인트, 애플 2026년 폴더블폰 시장 진입 전망 (2025-04-02 09:08)</a></li>
+        <li><a href="https://sateconomy.co.kr/news/view/1065571224965748" target="_blank">스마트폰 30년 한 우물 판 노태문…삼성전자 DX 부문장 직무대행 맡는다 (2025-04-02 09:06)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/016/0002451277?sid=101" target="_blank">삼성 DX, 노태문 체제로 신속전환…‘갤럭시 스피릿’ TV·가전으로 전파 (2025-04-02 09:06)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/008/0005174461?sid=101" target="_blank">재영솔루텍, 스마트폰 카메라 고급화 수혜 지속…역대 실적 전망-하나證 (2025-04-02 09:04)</a></li>
+        <li><a href="https://www.newspim.com/news/view/20250402000040" target="_blank">에스켐, 소재 분야 전문가 이대원 부사장 사내이사 선임 (2025-04-02 08:59)</a></li>
+        <li><a href="https://mdtoday.co.kr/news/view/1065578319478623" target="_blank">삼성전자, 구형 모델 업데이트 차별 논란…S20·S10 시리즈는 계획도 아... (2025-04-02 08:56)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/092/0002369015?sid=105" target="_blank">애플 iOS19·아이패드OS19, 어떤 모델서 쓸 수 있나 (2025-04-02 08:40)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/018/0005976384?sid=101" target="_blank">에스켐, ‘소재 분야 전문가’ 이대원 부사장 사내이사 선임 (2025-04-02 08:34)</a></li>
+        <li><a href="https://www.yeongnam.com/web/view.php?key=20250401022575533" target="_blank">애플 인텔리전스 한국어 지원한다…나의 찾기도 가능 (2025-04-02 08:26)</a></li>
+        <li><a href="https://www.autodaily.co.kr/news/articleView.html?idxno=529630" target="_blank">애플, IOS 19 지원 기기 목록서 아이폰 XR·XS·XS 맥스 제외...7년 만에 ... (2025-04-02 08:12)</a></li>
+        <li><a href="https://www.thebell.co.kr/free/content/ArticleView.asp?key=202503261820422960106841" target="_blank">[더벨][코스닥 어닝 서프라이즈]에프엔에스테크, OMM 정밀세정장비 공급... (2025-04-02 08:02)</a></li>
+        <li><a href="https://www.etoday.co.kr/news/view/2458071" target="_blank">'2나노' 이하 치고 나가는 ‘TSMC’…격차 더 벌리나 [ET의 칩스토리] (2025-04-02 08:02)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/277/0005571312?sid=101" target="_blank">[클릭 e종목]LG디스플레이, 실적 턴어라운드 원년 (2025-04-02 07:47)</a></li>
+        <li><a href="https://www.newswhoplus.com/news/articleView.html?idxno=23968" target="_blank">애플 AI, 한국어 지원 개시…'나의 찾기'도 국내 첫 도입 (2025-04-02 07:36)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/374/0000432797?sid=104" target="_blank">WSJ 비자, 애플카드 네트워크 인수 위해 1억달러 제안 (2025-04-02 07:35)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/001/0015304418?sid=104" target="_blank">비자, 애플카드 결제 네트워크 인수 위해 1억 달러 제안 (2025-04-02 06:47)</a></li>
+        <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=559701" target="_blank">2025년 기대작 아이폰17 에어, 초슬림 디자인 장단점 총정리 (2025-04-02 06:36)</a></li>
+        <li><a href="https://www.incheontoday.com/news/articleView.html?idxno=300121" target="_blank">애플 인텔리전스(AI) 한글 지원…기존 기능에 챗GPT 통합 (2025-04-02 06:28)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/009/0005469138?sid=105" target="_blank">삼성전자 의식했나...다급해진 애플AI “한국어도 탑재합니다” (2025-04-02 06:26)</a></li>
+        <li><a href="http://www.wikileaks-kr.org/news/articleView.html?idxno=166087" target="_blank">[AI 프리즘] 애플은 과연 인공지능 프로젝트에서 실패할 것인가? (2025-04-02 06:12)</a></li>
+        <li><a href="https://it.chosun.com/news/articleView.html?idxno=2023092137470" target="_blank">4K 모니터 전환에 마주한 예상치 못한 복병들 [권용만의 긱랩] (2025-04-02 06:00)</a></li>
+        <li><a href="https://it.chosun.com/news/articleView.html?idxno=2023092137452" target="_blank">OLED 투자? 재무 개선?…2조원 규모 매각 대금 확보한 LGD 선택은 (2025-04-02 06:00)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/020/0003625370?sid=101" target="_blank">애플 AI ‘인텔리전스’, 한국어 버전 출시 (2025-04-02 03:05)</a></li>
+        <li><a href="https://www.cbci.co.kr/news/articleView.html?idxno=493955" target="_blank">'애플 인텔리전스, 한국어 지원 시작하며 AI 기술 진화,아이폰 16 시리즈... (2025-04-02 00:00)</a></li>
+        <li><a href="http://www.ksmnews.co.kr/news/view.php?idx=532431" target="_blank">신용보증기금, 삼성디스플레이 협력사에 ‘해외수출 공동 프로젝트 보증... (2025-04-01 20:44)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/015/0005113754?sid=105" target="_blank">애플 유저들 좋겠네…시리야, 로봇청소기 돌려줘 외쳤더니 (2025-04-01 20:31)</a></li>
+        <li><a href="https://www.wikitree.co.kr/articles/1038477" target="_blank">전 세계서 한국만 안됐는데… 무려 15년 만에 국내 애플 유저들 환호할... (2025-04-01 20:04)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/469/0000857082?sid=105" target="_blank">아이폰 AI, 한국어 지원 시작...'나의 찾기' 서비스도 한국서 개시 (2025-04-01 20:01)</a></li>
+        <li><a href="https://www.aitimes.kr/news/articleView.html?idxno=34446" target="_blank">애플 인텔리전스, 이제 한국어로 소통한다...8가지의 새로운 언어와 ... (2025-04-01 19:44)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/016/0002451124?sid=105" target="_blank">“한국, 잘해도 너무 잘하잖아”…글로벌 빅파마 ‘소송 견제’ 심해졌다... (2025-04-01 18:41)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/011/0004468811?sid=101" target="_blank">리더십 공백 메운 삼성전자 '초격차 복원' 속도 (2025-04-01 18:20)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/031/0000921020?sid=105" target="_blank">애플 AI에 한국어 추가...기기 찾기 기능 국내도 지원 (2025-04-01 18:16)</a></li>
+        <li><a href="https://www.thepublic.kr/news/articleView.html?idxno=256502" target="_blank">애플, 인공지능 '애플 인텔리전스' 한국어 지원…'나의 찾기' 기능도 15... (2025-04-01 18:14)</a></li>
+        <li><a href="http://www.g-enews.com/ko-kr/news/article/news_all/2025040114252150686ed0c62d49_1/article.html" target="_blank">애플 인텔리전스, 한국어 등 다국어 지원…삼성 vs 애플, AI경쟁 불붙나 (2025-04-01 18:06)</a></li>
+        <li><a href="https://www.asiatoday.co.kr/view.php?key=20250402010000721" target="_blank">삼성전자, DX부문장 직무대행에 '믿을맨' 노태문… 조직안정 적임자 (2025-04-01 18:06)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/009/0005469056?sid=101" target="_blank">삼성 DX부문 노태문 직대체제로…갤럭시 DNA, 가전·TV로 전파 (2025-04-01 18:02)</a></li>
+        <li><a href="https://www.s-journal.co.kr/news/articleView.html?idxno=28048" target="_blank">삼성전자, DX부문장 직무대행 노태문 사장 선임… 조직 안정화 (2025-04-01 18:00)</a></li>
+        <li><a href="https://www.ceoscoredaily.com/page/view/2025040117084056063" target="_blank">애플, 허위광고 홍역 속 ‘한글 AI’ 지원…삼성과 AI 맞대결 (2025-04-01 17:54)</a></li>
+        <li><a href="https://www.newscj.com/news/articleView.html?idxno=3252718" target="_blank">삼성전자, DX부문장 직무대행에 노태문 사장 선임… 조직 안정화 (2025-04-01 17:52)</a></li>
+        <li><a href="https://www.ajunews.com/view/20250401141333896" target="_blank">사업다각화 안착한 삼성전기…애플 의존도 개선 절실한 LG이노텍 (2025-04-01 17:50)</a></li>
+        <li><a href="https://biz.newdaily.co.kr/site/data/html/2025/04/01/2025040100433.html" target="_blank">삼성 DX부문장 수장 오른 노태문 … 갤럭시 신화, TV-가전으로 이어갈까 [... (2025-04-01 17:50)</a></li>
+        <li><a href="https://www.youthdaily.co.kr/news/article.html?no=181677" target="_blank">리더십 공백 이상무…삼성전자, DX부문장 직무대행 노태문 사장 선임 (2025-04-01 17:42)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/015/0005113649?sid=101" target="_blank">美 제재 뚫고 부활한 화웨이 '역대 2위' 매출 (2025-04-01 17:42)</a></li>
+        <li><a href="https://www.gokorea.kr/news/articleView.html?idxno=823709" target="_blank">삼성전자, 노태문 MX사업부장 DX부문장 직무대행 임명… 혁신 리더십 주... (2025-04-01 17:28)</a></li>
+        <li><a href="https://www.ajunews.com/view/20250401172013165" target="_blank">애플 인텔리전스 한국어 지원… Siri도 챗GPT 만나 업그레이드 (2025-04-01 17:22)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/015/0005113615?sid=101" target="_blank">아이폰, 車 키도 찾아줘…애플, 한국서 '나의 찾기' 서비스 시작 (2025-04-01 17:21)</a></li>
+        <li><a href="https://www.newspim.com/news/view/20250401000974" target="_blank">애플 '공급망 재편' 움직임…LG디스플레이·이노텍, 中 추격에 '촉각' (2025-04-01 17:20)</a></li>
+        <li><a href="https://www.insight.co.kr/news/497438" target="_blank">오늘(1일)부터 아이폰 유저들 한국서도 '나의 찾기' 가능... 애플, iOS18.4... (2025-04-01 17:20)</a></li>
+        <li><a href="https://www.slist.kr/news/articleView.html?idxno=631757" target="_blank">삼성 DX부문장 직무대행 노태문…30년 한우물 휴대폰 장인 (2025-04-01 17:20)</a></li>
+        <li><a href="https://www.cstimes.com/news/articleView.html?idxno=640033" target="_blank">삼성전자, 한종희 후임에 노태문…스마트폰 경쟁력 제고 '주목' (2025-04-01 17:18)</a></li>
+        <li><a href="https://kbench.com/?q=node/266157" target="_blank">애플, 무손실 오디오 지원 추가 '에어팟 맥스' 최신 펌웨어 출시 (2025-04-01 17:10)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/020/0003625235?sid=101" target="_blank">애플 AI 4월부터 한국어 지원… 비영어권 중 처음 (2025-04-01 17:08)</a></li>
+        <li><a href="https://n.news.naver.com/mnews/article/001/0015304021?sid=105" target="_blank">삼성 DX부문장 직무대행 노태문…휴대폰에 30년 바친 전문가 (2025-04-01 17:06)</a></li>
+        <li><a href="https://it.chosun.com/news/articleView.html?idxno=2023092137544" target="_blank">애플 AI, 한국어도 된다… '나의 찾기' 서비스도 지원 (2025-04-01 17:02)</a></li>
+      </ul>
+    </div>
+
+    <div class="footer">
+        출처: MCI 팀
+    </div>
+
+</div>
+
+<script>
+    function openTab(evt, tabName) {
+        var i, tabcontent, tabbuttons;
+        tabcontent = document.getElementsByClassName("tab-content");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        tabbuttons = document.getElementsByClassName("tab-button");
+        for (i = 0; i < tabbuttons.length; i++) {
+            tabbuttons[i].className = tabbuttons[i].className.replace(" active", "");
+        }
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className += " active";
+    }
+
+    // Activate the first tab by default
+    document.addEventListener('DOMContentLoaded', (event) => {
+        // Ensure the first tab button exists before trying to click it
+        const firstTabButton = document.querySelector('.tab-button');
+        if(firstTabButton) {
+             firstTabButton.click(); // Use click() to trigger the openTab function
+         }
+    });
+</script>
+
+</body>
+</html>
