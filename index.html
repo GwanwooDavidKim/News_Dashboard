@@ -27,25 +27,16 @@
             margin-bottom: 40px;
             font-weight: 600;
         }
-        .tab-menu {
+        .month-selector {
             display: flex;
             justify-content: center;
             margin-bottom: 30px;
         }
-        .tab-menu a {
-            background-color: #0F2C59;
-            color: white;
-            padding: 12px 24px;
-            margin: 0 8px;
+        .month-selector select {
+            padding: 10px 15px;
             border-radius: 4px;
-            text-decoration: none;
-            transition: background-color 0.3s ease, box-shadow 0.3s ease;
-            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-            text-align: center;
-        }
-        .tab-menu a:hover {
-            background-color: #004494;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
+            border: 1px solid #ccc;
+            font-size: 1rem;
         }
         .date-list {
             list-style: none;
@@ -69,18 +60,18 @@
             color: #999;
             pointer-events: none; /* 클릭 비활성화 */
         }
+        .description {
+            margin-bottom: 30px;
+            text-align: center;
+            color: #666;
+        }
         @media (max-width: 768px) {
             .container {
                 width: 100%;
                 padding: 20px;
             }
-            .tab-menu {
-                flex-direction: column;
-                align-items: center;
-            }
-            .tab-menu a {
+            .month-selector select {
                 width: 90%;
-                margin: 8px 0;
             }
         }
     </style>
@@ -88,22 +79,35 @@
 <body>
     <div class="container">
         <h1>기사 대시보드 모음</h1>
-        <div class="tab-menu" id="tabMenu">
+        <p class="description">월을 선택하면 해당 월의 날짜별 기사 대시보드 목록이 표시됩니다. 파란색으로 표시된 날짜는 업데이트가 완료되어 클릭 시 해당 날짜의 기사 대시보드를 확인할 수 있습니다. 회색으로 표시된 날짜는 아직 업데이트되지 않았습니다.</p>
+        <div class="month-selector">
+            <select id="monthSelect">
+                <option value="">월 선택</option>
+                <option value="2025-04">2025년 4월</option>
+                <option value="2025-05">2025년 5월</option>
+                <option value="2025-06">2025년 6월</option>
+                <option value="2025-07">2025년 7월</option>
+                <option value="2025-08">2025년 8월</option>
+                <option value="2025-09">2025년 9월</option>
+                <option value="2025-10">2025년 10월</option>
+                <option value="2025-11">2025년 11월</option>
+                <option value="2025-12">2025년 12월</option>
+            </select>
         </div>
         <ul class="date-list" id="dateList">
         </ul>
     </div>
     <script>
-        const tabMenu = document.getElementById('tabMenu');
+        const monthSelect = document.getElementById('monthSelect');
         const dateList = document.getElementById('dateList');
-        const months = ['2025-04', '2025-05', '2025-06', '2025-07', '2025-08', '2025-09', '2025-10', '2025-11', '2025-12'];
 
-        months.forEach(month => {
-            const link = document.createElement('a');
-            link.href = '#';
-            link.textContent = month;
-            link.addEventListener('click', () => showDates(month));
-            tabMenu.appendChild(link);
+        monthSelect.addEventListener('change', () => {
+            const selectedMonth = monthSelect.value;
+            if (selectedMonth) {
+                showDates(selectedMonth);
+            } else {
+                dateList.innerHTML = '';
+            }
         });
 
         function showDates(month) {
