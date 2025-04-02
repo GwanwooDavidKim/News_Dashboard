@@ -6,55 +6,66 @@
     <title>기사 대시보드 모음</title>
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: 'Noto Sans KR', sans-serif;
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
+            background-color: #f8f9fa;
+            color: #343a40;
+            line-height: 1.6;
         }
         .container {
             width: 90%;
             max-width: 1200px;
-            margin: 20px auto;
+            margin: 40px auto;
         }
         h1 {
             text-align: center;
-            color: #0056b3;
-            margin-bottom: 30px;
+            color: #007bff;
+            margin-bottom: 40px;
+            font-weight: 600;
         }
         .tab-menu {
             display: flex;
-            flex-wrap: wrap;
             justify-content: center;
-            margin-bottom: 20px;
+            margin-bottom: 30px;
         }
         .tab-menu a {
-            background-color: #0056b3;
+            background-color: #007bff;
             color: white;
-            padding: 10px 20px;
-            margin: 5px;
-            border-radius: 5px;
+            padding: 12px 24px;
+            margin: 0 8px;
+            border-radius: 4px;
             text-decoration: none;
-            transition: background-color 0.3s ease;
+            transition: background-color 0.3s ease, box-shadow 0.3s ease;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
         }
         .tab-menu a:hover {
-            background-color: #004494;
+            background-color: #0056b3;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
         }
         .dashboard-container {
             background-color: white;
-            padding: 20px;
+            padding: 30px;
             border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        p {
+            font-size: 1rem;
+            color: #6c757d;
         }
         /* 반응형 스타일 */
         @media (max-width: 768px) {
             .container {
                 width: 100%;
-                padding: 10px;
+                padding: 20px;
+            }
+            .tab-menu {
+                flex-direction: column;
+                align-items: center;
             }
             .tab-menu a {
-                width: 45%; /* 작은 화면에서 두 개의 탭이 한 줄에 표시되도록 설정 */
-                text-align: center;
+                width: 90%;
+                margin: 8px 0;
             }
         }
     </style>
@@ -63,26 +74,20 @@
     <div class="container">
         <h1>기사 대시보드 모음</h1>
         <div class="tab-menu" id="tabMenu">
-            </div>
+        </div>
         <div class="dashboard-container">
             <p>원하는 날짜의 탭을 클릭하여 해당 날짜의 기사 대시보드를 확인하세요.</p>
         </div>
     </div>
     <script>
-        // 날짜별 폴더 목록 (예시)
         const dates = ['2025-04-02', '2025-04-03', '2025-04-04'];
-
         const tabMenu = document.getElementById('tabMenu');
-
-        // 날짜별 탭 링크 생성 및 추가
         dates.forEach(date => {
             const link = document.createElement('a');
             link.href = `${date}/index.html`;
             link.textContent = `${date} 국내 뉴스`;
             tabMenu.appendChild(link);
         });
-
-        // 새로운 날짜가 추가될 경우 dates 배열에 날짜를 추가하고 페이지를 다시 로드합니다.
     </script>
 </body>
 </html>
