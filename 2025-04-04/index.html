@@ -3,72 +3,71 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>News Morning 주요 기사 대시보드</title>
+    <title>디스플레이 산업 국내 기사 대시보드</title>
     <style>
-        /* dashboard_sample.txt의 스타일 시트 내용을 여기에 붙여넣습니다. */
         body {
-            font-family: 'Malgun Gothic', '맑은 고딕', sans-serif; /* McKinsey often uses sans-serif fonts */ /* [520] */
-            line-height: 1.6; /* [521] */
-            color: #333; /* Standard text color */ /* [522] */
-            background-color: #F5F5F5; /* Light gray background */ /* [523] */
+            font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #F5F5F5;
             margin: 0;
             padding: 0;
-            font-size: 14px; /* Base font size */ /* [524] */
+            font-size: 14px;
         }
         .container {
             max-width: 1200px;
-            margin: 20px auto; /* [525] */
+            margin: 20px auto;
             padding: 20px;
-            background-color: #FFFFFF; /* White container background */ /* [525] */
-            box-shadow: 0 2px 4px rgba(0,0,0,0.1); /* [525] */
+            background-color: #FFFFFF;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
         .header {
-            background-color: #0F2C59; /* McKinsey Blue/Navy */ /* [526] */
-            color: #FFFFFF; /* White text */ /* [527] */
-            padding: 15px 20px; /* [528] */
-            margin-bottom: 20px; /* [528] */
-            border-radius: 4px; /* [529] */
+            background-color: #0F2C59;
+            color: #FFFFFF;
+            padding: 15px 20px;
+            margin-bottom: 20px;
+            border-radius: 4px;
         }
         .header h1 {
             margin: 0;
-            font-size: 24px; /* [530] */
-            font-weight: 600; /* Slightly bolder */ /* [530] */
+            font-size: 24px;
+            font-weight: 600;
         }
         .header p {
             margin: 5px 0 0;
-            font-size: 14px; /* [531] */
+            font-size: 14px;
         }
         .tabs {
             overflow: hidden;
-            border-bottom: 1px solid #D3D3D3; /* Light Gray border */ /* [532] */
-            margin-bottom: 20px; /* [532] */
+            border-bottom: 1px solid #D3D3D3;
+            margin-bottom: 20px;
         }
         .tab-button {
-            background-color: inherit; /* [533] */
-            float: left; /* [534] */
-            border: none; /* [534] */
-            outline: none; /* [534] */
-            cursor: pointer; /* [534] */
-            padding: 12px 18px; /* [534] */
-            transition: 0.3s; /* [534] */
-            font-size: 15px; /* [534] */
-            font-weight: 500; /* Medium weight */ /* [535] */
-            color: #555; /* Dark gray for inactive tabs */ /* [535] */
-            border-bottom: 3px solid transparent; /* For active state indication */ /* [536] */
+            background-color: inherit;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 12px 18px;
+            transition: 0.3s;
+            font-size: 15px;
+            font-weight: 500;
+            color: #555;
+            border-bottom: 3px solid transparent;
         }
         .tab-button:hover {
-            background-color: #EFEFEF; /* Light gray hover */ /* [537] */
-            border-bottom: 3px solid #A9A9A9; /* Darker gray underline */ /* [538] */
+            background-color: #EFEFEF;
+            border-bottom: 3px solid #A9A9A9;
         }
         .tab-button.active {
-            color: #0F2C59; /* McKinsey Blue/Navy for active tab */ /* [539] */
-            border-bottom: 3px solid #0F2C59; /* Blue underline for active */ /* [540] */
+            color: #0F2C59;
+            border-bottom: 3px solid #0F2C59;
         }
         .tab-content {
             display: none;
-            padding: 15px 5px; /* [541] */
-            border-top: none; /* [542] */
-            animation: fadeEffect 0.5s; /* Simple fade-in */ /* [542] */
+            padding: 15px 5px;
+            border-top: none;
+            animation: fadeEffect 0.5s;
         }
         @keyframes fadeEffect {
             from {opacity: 0;}
@@ -76,159 +75,158 @@
         }
         .kpi-container {
             display: flex;
-            flex-wrap: wrap; /* [543] */
-            gap: 15px; /* [543] */
-            margin-bottom: 20px; /* [543] */
+            flex-wrap: wrap;
+            gap: 15px;
+            margin-bottom: 20px;
         }
         .kpi-card {
-            background-color: #F5F5F5; /* Light gray card background */ /* [544] */
-            padding: 15px; /* [544] */
-            border-radius: 4px; /* [545] */
-            flex: 1; /* Distribute space */ /* [545] */
-            min-width: 180px; /* Minimum width */ /* [545] */
-            text-align: center; /* [546] */
-            border-left: 4px solid #0F2C59; /* Blue accent line */ /* [547] */
+            background-color: #F5F5F5;
+            padding: 15px;
+            border-radius: 4px;
+            flex: 1;
+            min-width: 180px;
+            text-align: center;
+            border-left: 4px solid #0F2C59;
         }
         .kpi-card h3 {
             margin: 0 0 8px 0;
-            font-size: 16px; /* [548] */
-            color: #0F2C59; /* Blue heading */ /* [548] */
+            font-size: 16px;
+            color: #0F2C59;
         }
         .kpi-card p {
             margin: 0;
-            font-size: 18px; /* [549] */
-            font-weight: bold; /* [549] */
-            color: #333; /* Dark text for value */ /* [549] */
+            font-size: 18px;
+            font-weight: bold;
+            color: #333;
         }
         h2 {
-            color: #0F2C59; /* Blue section titles */ /* [549] */
-            border-bottom: 2px solid #EFEFEF; /* Light gray underline */ /* [550] */
-            padding-bottom: 8px; /* [551] */
-            margin-top: 25px; /* [551] */
-            margin-bottom: 15px; /* [552] */
-            font-size: 18px; /* [552] */
+            color: #0F2C59;
+            border-bottom: 2px solid #EFEFEF;
+            padding-bottom: 8px;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-size: 18px;
         }
         ul {
-            list-style-type: none; /* Remove default bullets */ /* [553] */
-            padding-left: 0; /* [553] */
+            list-style-type: none;
+            padding-left: 0;
         }
         li {
-            margin-bottom: 10px; /* [554] */
-            padding-left: 15px; /* [555] */
-            position: relative; /* [555] */
+            margin-bottom: 10px;
+            padding-left: 15px;
+            position: relative;
         }
         li::before {
-            content: '■'; /* Square bullet */ /* [556] */
-            position: absolute; /* [556] */
-            left: 0; /* [556] */
-            color: #0F2C59; /* Blue bullet */ /* [557] */
-            font-size: 10px; /* [557] */
-            top: 6px; /* Align bullet */ /* [558] */
+            content: '■';
+            position: absolute;
+            left: 0;
+            color: #0F2C59;
+            font-size: 10px;
+            top: 6px;
         }
         .section {
-            margin-bottom: 25px; /* [558] */
-            padding: 15px; /* [559] */
-            background-color: #FFFFFF; /* [559] */
-            border: 1px solid #EFEFEF; /* Light border for section */ /* [559] */
-            border-radius: 4px; /* [559] */
+            margin-bottom: 25px;
+            padding: 15px;
+            background-color: #FFFFFF;
+            border: 1px solid #EFEFEF;
+            border-radius: 4px;
         }
         .section h3 {
-            margin-top: 0; /* [560] */
-            font-size: 16px; /* [561] */
-            color: #0F2C59; /* Blue sub-heading */ /* [561] */
+            margin-top: 0;
+            font-size: 16px;
+            color: #0F2C59;
         }
-        .keyword { /* Style for keywords */
-            font-weight: 600; /* Slightly bolder */ /* [561] */
-             color: #1a3a6a; /* Slightly darker blue */ /* [562] */
+        .keyword {
+            font-weight: 600;
+             color: #1a3a6a;
         }
          .roadmap {
             margin-top: 30px;
-            border-top: 1px solid #D3D3D3; /* Separator line */ /* [563] */
-            padding-top: 20px; /* [564] */
+            border-top: 1px solid #D3D3D3;
+            padding-top: 20px;
         }
         .roadmap h2 {
-            margin-bottom: 20px; /* [565] */
+            margin-bottom: 20px;
         }
         .roadmap-item {
-            margin-bottom: 15px; /* [566] */
-            padding-left: 25px; /* Indent for timeline */ /* [567] */
-            position: relative; /* [567] */
-            border-left: 2px solid #0F2C59; /* Blue timeline */ /* [568] */
-            padding-bottom: 10px; /* [568] */
-            padding-top: 5px; /* Spacing */ /* [569] */
+            margin-bottom: 15px;
+            padding-left: 25px;
+            position: relative;
+            border-left: 2px solid #0F2C59;
+            padding-bottom: 10px;
+            padding-top: 5px;
         }
          .roadmap-item::before {
-            content: ''; /* [569] */
-            position: absolute; /* [570] */
-            left: -8px; /* Position circle on the line */ /* [570] */
-            top: 10px; /* Align circle */ /* [570] */
-            width: 14px; /* [571] */
-            height: 14px; /* [571] */
-            background-color: #0F2C59; /* Blue circle */ /* [572] */
-            border-radius: 50%; /* [572] */
-            border: 2px solid #FFFFFF; /* White border for contrast */ /* [573] */
+            content: '';
+            position: absolute;
+            left: -8px;
+            top: 10px;
+            width: 14px;
+            height: 14px;
+            background-color: #0F2C59;
+            border-radius: 50%;
+            border: 2px solid #FFFFFF;
         }
         .roadmap-item strong {
             display: block;
-            color: #0F2C59; /* Blue date/title */ /* [573] */
-            font-weight: 600; /* [574] */
-            margin-bottom: 3px; /* [575] */
+            color: #0F2C59;
+            font-weight: 600;
+            margin-bottom: 3px;
         }
         .references {
             margin-top: 30px;
-            border-top: 1px solid #D3D3D3; /* Separator line */ /* [575] */
-            padding-top: 20px; /* [576] */
+            border-top: 1px solid #D3D3D3;
+            padding-top: 20px;
         }
         .references h2 {
-             margin-bottom: 15px; /* [577] */
+             margin-bottom: 15px;
         }
         .references ul {
-            list-style-type: none; /* No bullets for links */ /* [578] */
-            padding-left: 0; /* No indent */ /* [579] */
-            font-size: 13px; /* Smaller font for links */ /* [580] */
-            max-height: 300px; /* Limit height and add scroll */ /* [581] */
-             overflow-y: auto; /* [582] */
-            border: 1px solid #EFEFEF; /* Light border around list */ /* [583] */
-             padding: 10px; /* [583] */
-            background-color: #FAFAFA; /* Very light gray background for list */ /* [584] */
+            list-style-type: none;
+            padding-left: 0;
+            font-size: 13px;
+            max-height: 300px;
+             overflow-y: auto;
+            border: 1px solid #EFEFEF;
+             padding: 10px;
+            background-color: #FAFAFA;
         }
         .references li {
-            margin-bottom: 8px; /* [584] */
-            padding-left: 0; /* Align left */ /* [585] */
+            margin-bottom: 8px;
+            padding-left: 0;
         }
          .references li::before {
-            content: ''; /* Remove default bullet */ /* [586] */
+            content: '';
         }
         .references a {
-            color: #005A9C; /* Standard link blue */ /* [586] */
-            text-decoration: none; /* No underline by default */ /* [587] */
-            display: block; /* Ensure link takes full width */ /* [588] */
-            word-break: break-all; /* Break long URLs */ /* [589] */
+            color: #005A9C;
+            text-decoration: none;
+            display: block;
+            word-break: break-all;
         }
         .references a:hover {
-            text-decoration: underline; /* Underline on hover */ /* [590] */
+            text-decoration: underline;
         }
         .footer {
             text-align: right;
-            margin-top: 30px; /* [591] */
-            font-size: 12px; /* [592] */
-            color: #666; /* Gray footer text */ /* [592] */
-            border-top: 1px solid #D3D3D3; /* Separator line */ /* [592] */
-            padding-top: 15px; /* [593] */
+            margin-top: 30px;
+            font-size: 12px;
+            color: #666;
+            border-top: 1px solid #D3D3D3;
+            padding-top: 15px;
         }
-         /* Responsive adjustments */
         @media (max-width: 768px) {
-            body { font-size: 13px; /* [594] */ }
-            .header h1 { font-size: 20px; /* [595] */ }
-            .header p { font-size: 13px; /* [596] */ }
-            .tab-button { padding: 10px 12px; font-size: 14px; /* [597] */ }
-            .kpi-container { flex-direction: column; /* [598] */ }
-            .kpi-card { min-width: 100%; box-sizing: border-box; /* [599] */ } /* Ensure padding is included */ /* [600] */
-            h2 { font-size: 17px; /* [600] */ }
-            .section h3 { font-size: 15px; /* [601] */ }
-            .roadmap-item { padding-left: 20px; /* [602] */ }
-            .roadmap-item::before { left: -7px; top: 8px; width: 12px; /* [603] */ height: 12px;} /* [604] */
-            .references ul { font-size: 12px; max-height: 250px; /* [604] */ }
+            body { font-size: 13px; }
+            .header h1 { font-size: 20px; }
+            .header p { font-size: 13px; }
+            .tab-button { padding: 10px 12px; font-size: 14px; }
+            .kpi-container { flex-direction: column; }
+            .kpi-card { min-width: 100%; box-sizing: border-box; }
+            h2 { font-size: 17px; }
+            .section h3 { font-size: 15px; }
+            .roadmap-item { padding-left: 20px; }
+            .roadmap-item::before { left: -7px; top: 8px; width: 12px; height: 12px;}
+            .references ul { font-size: 12px; max-height: 250px; }
         }
     </style>
 </head>
@@ -236,14 +234,14 @@
 
 <div class="container">
     <div class="header">
-        <h1>News Morning 주요 기사 대시보드</h1>
-        <p>기간: 2025-04-03 ~ 2025-04-04 기사 기반 (현재 시각: 2025-04-04 07:52 KST)</p>
+        <h1>디스플레이 산업 국내 기사 대시보드</h1>
+        <p>기간: 2025-04-03 17:00 ~ 2025-04-04 06:46 사이 기사 내용</p>
     </div>
 
     <div class="tabs">
         <button class="tab-button active" onclick="openTab(event, 'Summary_KPI')">요약 및 주요 지표</button>
         <button class="tab-button" onclick="openTab(event, 'Tariff_Impact')">미국 상호관세 및 시장 영향</button>
-        <button class="tab-button" onclick="openTab(event, 'Apple_News')">Apple 동향</button>
+        <button class="tab-button" onclick="openTab(event, 'Apple_News')">Apple 동향 (SCM, 기술, 이슈 중심)</button>
         <button class="tab-button" onclick="openTab(event, 'Samsung_Other')">Samsung 및 기타 기술 동향</button>
     </div>
 
@@ -252,45 +250,44 @@
         <div class="kpi-container">
             <div class="kpi-card">
                 <h3>美 아이폰 최고가 전망</h3>
-                <p>최대 333만원 / 43%↑ [1, 13, 61]</p>
+                <p>최대 333만원 / 43%↑</p>
             </div>
             <div class="kpi-card">
                 <h3>美 빅테크 시총 증발</h3>
-                <p>1조 달러 (약 1452조원) [4, 6]</p>
+                <p>1조 달러 (약 1452조원)</p>
             </div>
              <div class="kpi-card">
                 <h3>Apple 주가 하락폭</h3>
-                <p>약 9.25% (5년래 최대) [4, 6, 22]</p>
+                <p>약 9.25% (5년래 최대)</p>
             </div>
             <div class="kpi-card">
-                <h3>주요 국가 상호관세율</h3>
-                <p>中 54% / 베 46% / 韓 26% [1, 14, 43, 44]</p>
+                <h3>주요 생산국 관세율</h3>
+                <p>中 54% / 베 46% / 韓 26%</p>
             </div>
              <div class="kpi-card">
-                <h3>삼성 갤럭시 탭 신제품</h3>
-                <p>S10 FE 시리즈 출시 [102, 235]</p>
+                <h3>Samsung 갤럭시 탭 S10 FE</h3>
+                <p>AI 기능 탑재 신제품 출시</p>
             </div>
         </div>
 
         <div class="section">
-            <h3>주요 동향 요약</h3>
+            <h3>주요 동향 요약 (SCM, 기술, 이슈 중심)</h3>
             <ul>
-                <li>트럼프 美 대통령, <span class="keyword">상호관세</span> 부과 발표. 중국(34% 추가, 총 54%), 베트남(46%), 인도(27%), 한국(26%) 등 주요 생산국 고율 관세 적용 [1, 14, 43, 44, 87].</li>
-                <li>관세 쇼크로 美 <span class="keyword">빅테크 주가 급락</span> (애플 -9.25%, 엔비디아 -7.81% 등), 하루 새 시총 1조 달러 증발 [4, 6, 21, 22, 27-32].</li>
-                <li><span class="keyword">Apple</span>, 중국/베트남 등 생산 의존도로 가장 큰 타격 우려. 아이폰 가격 최대 43% 인상(333만원) 또는 마진 압박 가능성 [1, 41, 51, 77, 90]. 관세 면제 여부 불투명 [15, 63, 114].</li>
-                <li><span class="keyword">Samsung전자</span>, 베트남(46%) 리스크 있으나 한국(26%) 관세율 상대적 낮아 반사이익 가능성 제기 [56, 80, 92]. 단, 트럼프의 애플 관세 면제 가능성이 변수 [55, 56].</li>
-                 <li><span class="keyword">Samsung전자</span>, AI 기능 탑재한 <span class="keyword">갤럭시 탭 S10 FE/FE+</span> 국내 출시. 슬림 디자인, 서클 투 서치 등 기능 강조 [102, 184, 235].</li>
-                <li><span class="keyword">AI 기술</span> 경쟁 지속: 애플 인텔리전스 한국어 지원 시작했으나 핵심 기능 지연 논란, 삼성은 갤럭시 AI 기능 확대 중 [220, 249, 362, 401].</li>
+                <li>트럼프 美 대통령, <span class="keyword">상호관세</span> 부과 발표로 글로벌 공급망 충격. 특히 중국(총 54%), 베트남(46%) 등 주요 생산기지에 고율 관세 부과.</li>
+                <li><span class="keyword">Apple</span>, 중국 및 베트남 생산 의존도로 인해 <span class="keyword">SCM 리스크</span> 증폭. 아이폰 가격 인상 또는 수익성 악화 불가피 전망. 과거와 달리 관세 면제 여부 불투명.</li>
+                <li><span class="keyword">Samsung전자</span>, 베트남 리스크 불구, 상대적으로 낮은 한국 관세율로 반사이익 기대감 존재. 단, 관세 정책 변화 및 Apple 면제 가능성이 주요 변수.</li>
+                <li>기술 동향: 삼성은 <span class="keyword">갤럭시 탭 S10 FE</span> 등 AI 기능 탑재 신제품 출시로 대응, Apple은 <span class="keyword">Apple Intelligence</span> 핵심 기능 지연으로 논란 지속. 삼성 <span class="keyword">엑시노스 AP</span> 수율 문제 부각.</li>
+                <li>시장 현황: 관세 여파로 美 <span class="keyword">빅테크 주가 폭락</span> 및 시총 급감. 스마트폰 등 소비자 가격 상승 및 수요 위축 우려.</li>
             </ul>
         </div>
          <div class="section">
-            <h3>주목할 만한 기술/제품</h3>
+            <h3>주목할 만한 기술/제품 (산업 영향 관점)</h3>
              <ul>
-                <li><span class="keyword">미국 상호관세:</span> 전 세계 교역국 대상 '10%+α' 관세 및 국가별 차등 관세 부과 [5, 25].</li>
-                <li><span class="keyword">Apple 아이폰 가격 인상 가능성:</span> 관세 비용 전가 시 기본형 최대 1142달러, 프로 맥스 최대 2300달러(약 333만원) 예상 [1, 61, 116].</li>
-                <li><span class="keyword">Samsung 갤럭시 탭 S10 FE/FE+:</span> AI 인텔리전스(서클 투 서치, AI 지우개 등), 슬림 디자인(6.0mm), 90Hz 주사율 [102, 104-106, 184, 186, 188, 235, 241, 338].</li>
-                 <li><span class="keyword">엑시노스 2600:</span> 삼성 차세대 AP, 2nm 공정 수율 문제로 개발 난항 및 갤럭시 S26 탑재 불투명 [439, 440].</li>
-                 <li><span class="keyword">Apple AI 핵심 기능 지연:</span> '온디바이스 차세대 AI 시리', '개인화 정보 제공' 등 내년 이후로 연기 [220, 362, 399].</li>
+                <li><span class="keyword">미국 상호관세 정책:</span> 글로벌 SCM 및 기업 경영 전략에 직접적 영향. 특히 IT 제조업 생산 비용 증가 및 가격 정책 변화 유발.</li>
+                <li><span class="keyword">Apple 아이폰 가격 전략:</span> 관세 비용 전가 시 최대 43% 인상 가능성 제기. 가격 동결 시 수익성 압박 심화. 이는 경쟁 구도 및 시장 수요에 영향.</li>
+                <li><span class="keyword">Samsung 갤럭시 탭 S10 FE 시리즈:</span> <span class="keyword">AI 기능</span>(서클 투 서치 등) 탑재로 사용자 경험 강화. 중저가 태블릿 시장 내 기술 경쟁력 확보 시도.</li>
+                <li><span class="keyword">Samsung 엑시노스 2nm 공정:</span> 차세대 AP 수율 확보 문제 지속 시, 퀄컴 의존도 심화 및 자체 AP 경쟁력 약화 우려. 이는 파운드리 사업 및 모바일 사업 수익성에 영향.</li>
+                <li><span class="keyword">Apple AI 기능 구현 현황:</span> 핵심 개인화 기능 지연은 경쟁사 대비 약점으로 작용 가능. 소프트웨어 완성도 및 업데이트 전략 이슈.</li>
              </ul>
         </div>
     </div>
@@ -298,86 +295,55 @@
      <div id="Tariff_Impact" class="tab-content">
         <h2>미국 상호관세 및 시장 영향</h2>
         <div class="section">
-            <h3>상호관세 부과 내용</h3>
+            <h3>상호관세 부과 및 주요 내용</h3>
             <ul>
-                <li>도널드 트럼프 미국 대통령, 전 세계 교역국 대상 <span class="keyword">상호관세</span> 부과 발표 [6, 21, 27].</li>
-                <li>모든 국가에 기본 '10% + α' 관세 부과 원칙 적용 [5, 25, 32].</li>
-                <li>주요 국가별 추가 상호관세율 발표:
-                    <ul>
-                        <li><span class="keyword">중국: 34%</span> (기존 20% 포함 총 54%) [1, 14, 60, 81]</li>
-                        <li><span class="keyword">베트남: 46%</span> [43, 87, 118, 143]</li>
-                        <li><span class="keyword">태국: 36%</span> [44, 123]</li>
-                        <li><span class="keyword">인도네시아: 32%</span> [44, 118]</li>
-                        <li><span class="keyword">대만: 32%</span> [44]</li>
-                        <li><span class="keyword">인도: 27%</span> (기사별 26% 언급도 있음) [44, 86, 118, 142, 281]</li>
-                        <li><span class="keyword">한국: 26%</span> (기사별 25% 언급도 있음) [44, 69, 92, 117]</li>
-                        <li><span class="keyword">말레이시아: 24%</span> [12, 88, 144, 154]</li>
-                         <li><span class="keyword">일본: 24%</span> [44]</li>
-                        <li><span class="keyword">유럽연합(EU): 20%</span> [5, 25, 32, 89]</li>
-                         <li><span class="keyword">스위스: 31%</span> [44]</li>
-                         <li><span class="keyword">멕시코:</span> 상호관세 대상 제외 (단, 자동차 등 품목별 관세는 별도) [292, 309]</li>
-                    </ul>
-                </li>
-                <li>중국 발 <span class="keyword">소액 면세 제도(De Minimis) 폐지</span>: 800달러 이하 면세 폐지, 테무/쉬인 등 직격탄 [385, 386].</li>
+                <li>트럼프 행정부, 중국(총 54%), 베트남(46%), 인도(27%), 한국(26%), EU(20%) 등 주요 교역국 대상 고율 <span class="keyword">상호관세</span> 부과 발표.</li>
+                <li>모든 국가 대상 <span class="keyword">'10%+α'</span> 보편 관세 원칙 적용.</li>
+                <li><span class="keyword">공급망 우회 경로 차단:</span> 중국 외 베트남, 태국 등 아시아 생산기지에도 높은 관세율 적용하여 SCM 다변화 효과 상쇄 시도.</li>
+                 <li>중국발 <span class="keyword">소액 면세(De Minimis) 폐지</span>: 800달러 이하 상품 면세 혜택 폐지로 중국 저가 이커머스 업체(테무, 쉬인) 타격 예상.</li>
             </ul>
         </div>
         <div class="section">
-            <h3>주식 시장 및 경제 영향</h3>
+            <h3>시장 및 경제적 파급효과</h3>
             <ul>
-                <li><span class="keyword">뉴욕 증시 급락:</span> 관세 발표 다음 날, 기술주 중심 폭락. 나스닥 4%대 하락 [4, 139, 140].</li>
-                <li><span class="keyword">빅테크 시가총액 증발:</span> 애플, 엔비디아, 테슬라 등 7개 대형주 시총 1조 달러(1452조원) 이상 감소 [4, 6, 21, 36].</li>
-                <li><span class="keyword">기업별 주가 영향:</span>
-                    <ul>
-                        <li><span class="keyword">Apple: -9.25%</span> (약 5년 만에 최대 낙폭), 시총 3110억 달러 감소 [4, 6, 22, 29, 140]</li>
-                        <li><span class="keyword">Nvidia: -7.81%</span>, 시총 2030억 달러 감소 [4, 7, 22, 29, 142]</li>
-                        <li><span class="keyword">Amazon: -8.98%</span>, 시총 1940억 달러 감소 [5, 8, 24, 30, 141]</li>
-                        <li><span class="keyword">Meta: -8.96%</span>, 시총 1350억 달러 감소 [5, 8, 24, 30, 142]</li>
-                        <li><span class="keyword">Tesla: -5.47%</span>, 시총 400억 달러 감소 [4, 7, 23, 30, 142]</li>
-                        <li><span class="keyword">Alphabet (Google): -3.92%</span>, 시총 750억 달러 감소 [5, 9, 24, 31, 142]</li>
-                        <li><span class="keyword">Microsoft: -2.36%</span>, 시총 640억 달러 감소 [5, 9, 25, 31, 142]</li>
-                    </ul>
-                </li>
-                 <li><span class="keyword">소비자 가격 인상 우려:</span> 관세 비용이 소비자에게 전가될 경우, 특히 아이폰 등 수입 제품 가격 30~40% 인상 가능성 [1, 59, 66, 80, 193].</li>
-                <li><span class="keyword">기업 수익성 악화 우려:</span> 가격 전가가 어려울 경우, 기업 마진 압박 및 수익성 하락 예상 [90, 144, 229].</li>
-                <li><span class="keyword">글로벌 공급망 재편 압력:</span> 고율 관세 부과로 기업들의 생산기지 이전 및 공급망 전략 재검토 불가피 [50, 155, 318, 329].</li>
-                 <li><span class="keyword">무역 전쟁 및 경기 침체 우려:</span> 관세 부과가 글로벌 무역 갈등 심화 및 수요 감소로 이어질 수 있다는 전망 [3, 12, 26, 40, 74].</li>
+                <li><span class="keyword">금융시장 충격:</span> 뉴욕 증시 기술주 중심 급락, 주요 빅테크 기업 시가총액 1조 달러 이상 증발.</li>
+                <li><span class="keyword">가격 인상 압력:</span> 관세 비용이 최종 소비자 가격에 전가될 가능성 높음 (특히 아이폰 등 수입 의존도 높은 제품).</li>
+                <li><span class="keyword">기업 경영 부담:</span> 가격 인상이 어려울 경우, 기업의 <span class="keyword">수익성(마진) 압박</span> 심화. 글로벌 생산 전략 및 SCM 재검토 불가피.</li>
+                <li><span class="keyword">수요 위축 가능성:</span> 제품 가격 급등 시 스마트폰 등 내구재 소비 심리 위축 및 교체 주기 장기화 우려.</li>
+                <li><span class="keyword">경쟁 구도 변화 가능성:</span> 관세율 차등 부과로 국가별/기업별 유불리 발생 (예: 삼성 vs 애플). 중국 업체의 반사이익 가능성도 제기.</li>
+                <li><span class="keyword">무역 갈등 심화 우려:</span> 미국의 일방적 관세 부과가 타국의 보복 관세로 이어져 글로벌 <span class="keyword">무역 전쟁</span> 및 공급망 혼란 가중 우려.</li>
             </ul>
         </div>
     </div>
 
     <div id="Apple_News" class="tab-content">
-        <h2>Apple 동향</h2>
+        <h2>Apple 동향 (SCM, 기술, 이슈 중심)</h2>
         <div class="section">
-            <h3>관세 영향 및 대응</h3>
+            <h3>SCM 및 관세 영향</h3>
             <ul>
-                <li><span class="keyword">가장 큰 타격 예상:</span> 아이폰 대부분(약 90%)을 중국에서 생산, 미국이 최대 판매 시장이므로 관세 영향 극대화 [2, 46, 51, 77, 151, 228, 390].</li>
-                <li><span class="keyword">가격 인상 vs 마진 압박:</span> 관세 비용 전가 시 아이폰 가격 최대 43% 인상 (프로 맥스 333만원) [1, 61, 116], 전가 어려울 시 마진 압박 심화 [90, 144, 229]. 일부 분석가는 5~10% 이상 가격 전가는 어려울 것으로 예측하며, 가격 인상을 아이폰 17 출시까지 보류할 가능성 제기 [16, 65, 79, 117].</li>
-                <li><span class="keyword">공급망 다변화 효과 미미:</span> 인도(27%), 베트남(46%), 말레이시아(24%) 등 다른 생산 거점에도 고율 관세 부과 [11, 86-88, 118, 121-123, 143]. 탈중국 노력에도 무역 전쟁 중심에 놓임 [12, 26, 40].</li>
-                <li><span class="keyword">과거 관세 면제 사례:</span> 트럼프 1기 행정부 당시 팀 쿡 CEO 설득으로 일부 면제/유예 [15, 63, 109, 113]. 이번에는 면제 없을 것이라는 백악관 확인 보도 [114, 269, 334], 특혜 없을 것이라는 분석 우세 [3, 137].</li>
-                <li><span class="keyword">경쟁사(삼성)와의 관계:</span> 삼성 대비 높은 관세율(中 54% vs 韓 26%, 베 46%)로 삼성전자가 유리해질 수 있다는 전망 [3, 80, 92, 110].</li>
-                <li><span class="keyword">주가 및 시총:</span> 관세 발표 후 주가 9.25% 급락, 시총 3110억 달러 증발 [4, 22, 29, 140, 229].</li>
+                <li><span class="keyword">높은 생산 의존도 리스크:</span> 아이폰 생산의 약 90%를 중국, 상당 부분을 베트남, 인도 등 관세 대상국에 의존. <span class="keyword">SCM 취약성</span> 노출.</li>
+                <li><span class="keyword">가격 정책 딜레마:</span> 관세 비용 전가 시(<span class="keyword">최대 43% 인상</span> 전망) 수요 감소 우려, 미전가 시 <span class="keyword">마진 압박</span> 심화. 아이폰 17 출시까지 인상 보류 가능성 제기.</li>
+                <li><span class="keyword">공급망 다변화 전략 차질:</span> 탈중국을 위해 이전한 베트남(46%), 인도(27%), 말레이시아(24%) 등에도 고율 관세 부과로 효과 반감.</li>
+                <li><span class="keyword">관세 면제 불확실성:</span> 트럼프 1기 때와 달리 이번에는 관세 면제/유예 없을 가능성 높음. SCM 전략 재수립 필요.</li>
             </ul>
         </div>
         <div class="section">
-            <h3>AI 및 소프트웨어 동향</h3>
+            <h3>기술 및 제품 이슈</h3>
             <ul>
-                 <li><span class="keyword">Apple Intelligence 한국어 지원:</span> iOS 18.4 업데이트 통해 지원 시작 [503, 504].</li>
-                <li><span class="keyword">핵심 AI 기능 지연 논란:</span> '온디바이스 차세대 AI 시리', '개인화된 정보 제공' 등 광고된 기능이 실제 업데이트에서 빠짐 [220, 362, 399]. 해당 기능 출시는 내년 이후로 연기 [223, 399].</li>
-                <li><span class="keyword">허위/과장 광고 의혹:</span> 서울YMCA 등 시민단체 비판 및 공정위 조사 착수 [220, 362-364, 398, 401]. 미국 내 집단소송 제기 [221, 362, 400].</li>
-                <li><span class="keyword">기타 SW 업데이트:</span> 아이폰 17 프로용 8K 영상 촬영 지원 계획 [273].</li>
-            </ul>
-        </div>
-        <div class="section">
-            <h3>하드웨어 및 차세대 제품 루머</h3>
-             <ul>
-                <li><span class="keyword">아이폰 17 시리즈 (2025년 말 예상):</span>
+                 <li><span class="keyword">Apple Intelligence 현황:</span> 한국어 등 지원 언어 확대 불구, 핵심 기능('개인화된 AI 시리' 등) 구현 지연. <span class="keyword">기술 로드맵 차질</span> 및 허위 광고 논란.</li>
+                <li><span class="keyword">차세대 하드웨어 (기술 관점):</span>
                     <ul>
-                         <li><span class="keyword">프로 모델:</span> 4800만 화소 망원 렌즈 탑재 예상 (기존 12MP 대비 해상도 4배 향상) [270, 271]. 8K 영상 촬영 지원 [273]. 전면 카메라 2400만 화소 강화 [273].</li>
-                         <li><span class="keyword">에어/울트라 모델 추가설</span> [622]</li>
+                         <li><span class="keyword">아이폰 17 프로:</span> 카메라 시스템 업그레이드 (48MP 망원 렌즈, 8K 영상 지원) 통한 <span class="keyword">기술 차별화</span> 시도 예상.</li>
                     </ul>
                  </li>
-                 <li><span class="keyword">폴더블 아이폰:</span> 2026년 출시 전망 [621], 삼성디스플레이가 패널 독점 공급 가능성 [642].</li>
-                <li><span class="keyword">가격 정책:</span> 아이폰 16 프로 맥스 1TB 현재 $1599 (한화 약 232만원) [14, 201]. 관세 적용 시 $2300 (약 333만원) 가능성 [61, 116, 201].</li>
+                 <li><span class="keyword">경영/실적:</span> 관세 부과로 인한 비용 증가 및 잠재적 판매 둔화는 <span class="keyword">실적</span> 및 주가에 부정적 영향.</li>
+            </ul>
+        </div>
+        <div class="section">
+             <h3>경영 및 현황 이슈</h3>
+             <ul>
+                 <li><span class="keyword">대정부 관계 변화:</span> 과거 관세 협상력과 달리 현 행정부의 강경 기조로 <span class="keyword">경영 환경 불확실성</span> 증대.</li>
+                 <li><span class="keyword">법적 이슈:</span> AI 기능 관련 허위/과장 광고 의혹으로 국내외 <span class="keyword">소송 및 조사 직면</span>. 브랜드 신뢰도 영향 가능성.</li>
             </ul>
         </div>
     </div>
@@ -385,45 +351,37 @@
     <div id="Samsung_Other" class="tab-content">
         <h2>Samsung 및 기타 기술 동향</h2>
         <div class="section">
-            <h3>Samsung전자 동향</h3>
+            <h3>Samsung전자: SCM, 기술, 경영 현황</h3>
             <ul>
-                <li><span class="keyword">관세 영향:</span>
+                <li><span class="keyword">SCM 및 관세 영향:</span>
                     <ul>
-                        <li>주요 생산기지인 베트남(46%), 인도(27%), 한국(26%) 등에 고율 관세 적용 [43, 44, 87, 159]. 스마트폰 절반 이상이 베트남 생산 [46, 159, 197, 282].</li>
-                        <li>Apple 대비 상대적으로 낮은 한국 관세율(26% vs 中 54%)로 반사이익 가능성 [80, 92, 110].</li>
-                        <li>하지만 베트남 고율 관세(46%) 및 트럼프의 Apple 관세 면제 가능성 등 리스크 존재 [41, 55, 56, 93].</li>
-                         <li>가격 경쟁력 저하 및 글로벌 공급망 재검토 압박 [193, 301, 418].</li>
+                        <li>주요 생산기지 베트남(46%) 고율 관세로 <span class="keyword">SCM 리스크</span> 상존. 스마트폰 생산 절반 이상 의존.</li>
+                        <li>상대적으로 낮은 한국(26%) 관세율 및 Apple의 높은 관세 부담으로 <span class="keyword">경쟁 우위 확보 가능성</span> 제기.</li>
+                        <li>단, Apple 관세 면제 등 변수 존재. 글로벌 생산 전략 재검토 필요성 대두.</li>
                     </ul>
                 </li>
-                <li><span class="keyword">신제품 출시: 갤럭시 탭 S10 FE / FE+</span>
+                <li><span class="keyword">기술 및 신제품:</span>
                     <ul>
-                        <li>국내 출시 (4월 3일) [102, 184, 235, 242, 343].</li>
-                        <li>디자인: 슬림(6.0mm), 10.9형(FE)/13.1형(FE+) 디스플레이, 얇은 베젤(FE+) [102, 103, 184-186, 235, 337, 345].</li>
-                        <li>AI 기능: 서클 투 서치, AI 지우개, 자동 잘라내기, 계산 모드, 손글씨 보정 등 [104-106, 188-190, 237, 241, 339-342, 350-352].</li>
-                        <li>주요 사양: 90Hz 주사율, 비전 부스터, IP68 방수방진, 삼성 녹스 보안 [186, 187, 240, 244, 348].</li>
-                         <li>가격: FE 69.8만~99.7만원, FE+ 86.9만~116.8만원 [107, 242, 336, 374, 462].</li>
-                         <li>프로모션: 스토리지 업그레이드 할인, 전용 파우치 증정, 버즈 할인 쿠폰 등 [238, 247, 382, 471].</li>
+                        <li><span class="keyword">갤럭시 탭 S10 FE 시리즈 출시:</span> AI 기능(서클 투 서치 등) 탑재, 슬림 디자인, 90Hz 주사율 등 <span class="keyword">기술 경쟁력 강화</span>. 중저가 시장 공략.</li>
+                        <li><span class="keyword">엑시노스 AP 개발 현황:</span> 차세대 2nm 공정 <span class="keyword">수율 문제</span> 지속. 자체 AP 경쟁력 약화 및 퀄컴 의존도 심화 우려. 이는 <span class="keyword">기술 리더십 및 원가 경쟁력</span>에 영향.</li>
+                         <li><span class="keyword">미래 기술 투자:</span> 파운드리 GAA 기술 양산 등 선단 공정 <span class="keyword">기술 개발</span> 지속.</li>
                     </ul>
                 </li>
-                 <li><span class="keyword">엑시노스 AP 이슈:</span>
+                 <li><span class="keyword">경영 및 실적:</span>
                     <ul>
-                        <li>차세대 <span class="keyword">엑시노스 2600</span> (2nm 공정) 개발 난항, 수율 저조 (30% vs TSMC 60-70%) [439, 440].</li>
-                        <li>갤럭시 S25 전량 퀄컴 스냅드래곤 8 엘리트 탑재로 AP 조달 비용 증가 및 수익성 악화 우려 [443, 445, 446].</li>
-                        <li>파운드리 경쟁력 약화: TSMC와의 격차 심화, 구글 등 고객사 이탈 [441, 442, 444].</li>
-                        <li>엑시노스 부활 중요성: 파운드리 실적 개선 및 스마트폰 수익성 확보 위해 필수적 [447]. 전담 TF 구성 및 전문가 영입 [454].</li>
+                         <li>엑시노스 부진 및 AP 외부 조달 비용 증가는 <span class="keyword">실적(수익성)</span>에 부정적 요인.</li>
+                         <li>관세 영향은 SCM 운영 효율성 및 <span class="keyword">실적 변동성</span> 증대 요인.</li>
                     </ul>
-                 </li>
-                <li><span class="keyword">기타:</span> 갤럭시 북5 프로/프로360 신모델 출시 [402].</li>
+                </li>
             </ul>
         </div>
         <div class="section">
-            <h3>경쟁 및 시장 동향</h3>
+            <h3>기타 기업 및 기술 동향 (디스플레이/SCM 관련)</h3>
              <ul>
-                 <li><span class="keyword">스마트폰 시장 경쟁:</span> 관세 부과로 삼성/애플 가격 인상 시, 미국 시장 비중 낮은 중국 업체(샤오미 등) 반사이익 가능성 [53, 411, 413, 425].</li>
-                 <li><span class="keyword">IT 기기 AI 경쟁:</span> 삼성(갤럭시 탭 S10 FE), 애플(아이패드 에어 M3), HP/Dell(AI PC) 등 다양한 디바이스에서 AI 기능 경쟁 심화 [249, 257, 260, 264].</li>
-                 <li><span class="keyword">주변기기:</span> 로지텍, 신형 아이패드 에어 M3 등과 호환되는 키보드(콤보터치, 슬림 폴리오 등) 출시 [276-278].</li>
-                 <li><span class="keyword">디스플레이:</span> 선익시스템, OLED 연구용 증착장비 수주 증가 [365, 366].</li>
-                 <li><span class="keyword">자동차:</span> 제네시스, 서울모빌리티쇼에서 X 그란 쿠페/컨버터블 컨셉, GMR-001 하이퍼카 디자인 공개 [170, 171, 205, 206, 506, 507].</li>
+                 <li><span class="keyword">스마트폰 경쟁 심화:</span> 삼성/애플의 관세 부담 가중 시, <span class="keyword">중국 업체(샤오미 등)</span>가 비(非)미국 시장에서 반사이익 얻을 가능성.</li>
+                 <li><span class="keyword">IT 기기 AI 확산:</span> 삼성 태블릿 외 HP, Dell 등도 기업용 <span class="keyword">AI PC 출시</span>하며 하드웨어 AI 기능 탑재 가속화.</li>
+                 <li><span class="keyword">주변기기 생태계:</span> 로지텍 등 서드파티 업체, 신규 태블릿(아이패드 등) 호환 <span class="keyword">액세서리 출시</span>로 시장 대응.</li>
+                 <li><span class="keyword">디스플레이 장비:</span> <span class="keyword">선익시스템</span>, OLED 연구용 증착장비 수주 지속. OLED <span class="keyword">기술 투자</span> 활발함 시사.</li>
             </ul>
         </div>
     </div>
@@ -433,42 +391,34 @@
         <h2>주요 일정 로드맵 (예상 포함)</h2>
          <div class="roadmap-item">
             <strong>2025년 4월 3일</strong>
-             <span>Samsung 갤럭시 탭 S10 FE / FE+ 국내 출시</span> [102, 184, 235]
+             <span>Samsung 갤럭시 탭 S10 FE / FE+ 국내 출시</span>
          </div>
         <div class="roadmap-item">
             <strong>2025년 4월 4일</strong>
-             <span>삼성전자 갤럭시북5 프로 SPRING SALE 라이브 방송 (네이버)</span> [402]
+             <span>삼성전자 갤럭시북5 프로 판매 프로모션 시작</span>
         </div>
          <div class="roadmap-item">
             <strong>2025년 5월 2일</strong>
-             <span>美, 중국발 소액면세 제도 폐지 효력 발생</span> [386]
+             <span>美, 중국발 소액면세 제도 폐지 효력 발생</span>
         </div>
          <div class="roadmap-item">
-            <strong>2025년 5월~6월 (예상)</strong>
-             <span>Apple AirTag 2 출시 가능성</span> [625]
-         </div>
-         <div class="roadmap-item">
-            <strong>2025년 6월 (예상)</strong>
-             <span>Apple WWDC25 개최 (iOS 19 / iPadOS 19 공개)</span> [618]
-         </div>
-         <div class="roadmap-item">
             <strong>2025년 하반기 (예상)</strong>
-             <span>Apple 아이폰 17 시리즈 공개/출시</span> [275]
+             <span>Apple 아이폰 17 시리즈 공개/출시 (48MP 망원 등 기술 적용 예상)</span>
         </div>
          <div class="roadmap-item">
              <strong>2025년 10월</strong>
-             <span>Microsoft 윈도우 10 기술 지원 공식 종료</span> [252]
+             <span>Microsoft 윈도우 10 기술 지원 공식 종료 (AI PC 교체 수요 자극 가능)</span>
          </div>
         <div class="roadmap-item">
             <strong>2026년 (예상)</strong>
-             <span>Apple 폴더블 아이폰 출시 전망</span> [621] <br>
-             <span>Apple AI '개인화 시리' 기능 출시 목표</span> [223, 617] <br>
-             <span>삼성전자 2나노 공정 양산 목표 (갤럭시 S26 엑시노스)</span> [439]
+             <span>Apple 폴더블 아이폰 출시 가능성 (SCM 및 디스플레이 기술 중요)</span> <br>
+             <span>Apple AI '개인화 시리' 기능 출시 목표 (기술 구현 지연 이슈 해소 여부)</span> <br>
+             <span>삼성전자 2나노 공정 양산 목표 (엑시노스 탑재 및 파운드리 기술 경쟁력 확보 목표)</span>
         </div>
     </div>
 
     <div class="references">
-      <h2>참고 기사 목록 (News Morning 파일)</h2>
+      <h2>참고 기사 목록</h2>
       <ul>
         <li><a href="https://n.news.naver.com/mnews/article/015/0005114866?sid=104" target="_blank">폴더블도 아닌데…'아이폰 가격 333만원 된다' 폭탄 전망 (2025-04-04 06:46)</a></li>
         <li><a href="https://n.news.naver.com/mnews/article/374/0000433230?sid=104" target="_blank">관세 쇼크에 애플 등 美 빅테크 시총 하루 새 1452조 증발 (2025-04-04 06:20)</a></li>
@@ -534,7 +484,7 @@
     </div>
 
     <div class="footer">
-        Generated on: 2025-04-04 07:52 KST
+        출처: MCI 팀
     </div>
 
 </div>
@@ -542,26 +492,25 @@
 <script>
     function openTab(evt, tabName) {
         var i, tabcontent, tabbuttons;
-        tabcontent = document.getElementsByClassName("tab-content"); /* [712] */
+        tabcontent = document.getElementsByClassName("tab-content");
         for (i = 0; i < tabcontent.length; i++) {
-            tabcontent[i].style.display = "none"; /* [712] */
+            tabcontent[i].style.display = "none";
         }
-        tabbuttons = document.getElementsByClassName("tab-button"); /* [713] */
+        tabbuttons = document.getElementsByClassName("tab-button");
         for (i = 0; i < tabbuttons.length; i++) {
-            tabbuttons[i].className = tabbuttons[i].className.replace(" active", ""); /* [714] */
+            tabbuttons[i].className = tabbuttons[i].className.replace(" active", "");
         }
-        document.getElementById(tabName).style.display = "block"; /* [715] */
-        evt.currentTarget.className += " active"; /* [715] */
+        document.getElementById(tabName).style.display = "block";
+        evt.currentTarget.className += " active";
     }
 
     // Activate the first tab by default
     document.addEventListener('DOMContentLoaded', (event) => {
-        // Ensure the first tab button exists before trying to click it
         const firstTabButton = document.querySelector('.tab-button');
         if(firstTabButton) {
-             firstTabButton.click(); // Use click() to trigger the openTab function
+             firstTabButton.click();
          }
-    }); /* [716] */
+    });
 </script>
 
 </body>
