@@ -148,7 +148,11 @@
         .keyword {
             font-weight: 600; /* Slightly bolder */
              color: #1a3a6a; /* Slightly darker blue for emphasis */
-             /* Removed background color for cleaner look, as in some McKinsey styles */
+        }
+        .update-tag { /* 추가/업데이트 내용 강조 스타일 */
+            font-weight: bold;
+            color: #D9534F; /* Red color for emphasis */
+            margin-left: 5px;
         }
          .roadmap {
             margin-top: 30px;
@@ -242,11 +246,11 @@
             h2 { font-size: 17px; }
             .section h3 { font-size: 15px; }
             li { font-size: 13px; }
-            .roadmap-item { padding-left: 20px; }
-            .roadmap-item::before { left: -7px; top: 8px; width: 12px; height: 12px;}
-            .roadmap-item strong { font-size: 14px; }
-            .roadmap-item span { font-size: 13px; }
-            .references ul { font-size: 12px; max-height: 250px; }
+             .roadmap-item { padding-left: 20px; }
+             .roadmap-item::before { left: -7px; top: 8px; width: 12px; height: 12px;}
+             .roadmap-item strong { font-size: 14px; }
+             .roadmap-item span { font-size: 13px; }
+             .references ul { font-size: 12px; max-height: 250px; }
         }
     </style>
 </head>
@@ -255,7 +259,7 @@
 <div class="container">
     <div class="header">
         <h1>디스플레이 산업 국내 기사 대시보드</h1>
-        <p>기간: 2025-04-02 오후 5시 01분 ~ 2025-04-03 오후 5시 00분 기사 기준</p>
+        <p>기간: 2025-04-02 오후 5시 01분 ~ 2025-04-03 오후 5시 00분 기사 기준 <span class="update-tag">(Updated)</span></p>
     </div>
 
     <div class="tabs">
@@ -266,7 +270,7 @@
     </div>
 
     <div id="Summary_KPI" class="tab-content" style="display: block;">
-        <h2>요약 및 주요 지표</h2>
+        <h2>요약 및 주요 지표 <span class="update-tag">(Updated)</span></h2>
         <div class="kpi-container">
             <div class="kpi-card">
                 <h3>Apple AI 한국어 지원</h3>
@@ -274,10 +278,10 @@
             </div>
             <div class="kpi-card">
                 <h3>차량용 OLED 시장 (2024년)</h3>
-                <p>삼성D 1위, LGD 하이엔드 1위</p>
+                <p>삼성D 1위, LGD 하이엔드 1위 <span class="update-tag">(신규)</span></p>
             </div>
             <div class="kpi-card">
-                <h3>미국 상호관세 영향</h3>
+                <h3>美 상호관세 영향</h3>
                 <p>Apple/삼성 등 공급망 리스크 증대</p>
             </div>
              <div class="kpi-card">
@@ -287,148 +291,150 @@
         </div>
 
         <div class="section">
-            <h3>주요 동향 요약</h3>
+            <h3>주요 동향 요약 <span class="update-tag">(Updated)</span></h3>
             <ul>
-                <li><span class="keyword">Apple</span>, <span class="keyword">AI 기능</span> 한국어 지원 및 '나의 찾기' 서비스 국내 개시. 그러나 핵심 AI 기능(<span class="keyword">시리 개인화</span>) 지연 및 <span class="keyword">허위 광고 논란</span>(공정위 조사 착수). 트럼프 <span class="keyword">상호관세</span> 발표(중국 54%, 베트남 46%, 인도 26% 등)로 공급망 리스크 및 주가 급락. 2026년 폴더블폰 출시 전망은 유효하나, 실용성 및 가격 우려 제기.</li>
-                <li><span class="keyword">삼성전자</span>, AI 기능 강화한 <span class="keyword">갤럭시 탭 S10 FE</span> 시리즈 국내 출시. <span class="keyword">트리폴드폰</span>(G 폴드) 한국/중국 한정 출시 가능성. 2nm 공정 엑시노스 선행 적용으로 AP 경쟁 우위 기대. 젊은 층 공략 위한 디자인 혁신(CDO 영입) 추진. 美 관세 영향으로 스마트폰 경쟁력 약화 우려.</li>
-                 <li><span class="keyword">디스플레이 시장:</span> <span class="keyword">차량용 OLED</span> 시장에서 <span class="keyword">삼성디스플레이</span>가 출하량/매출 1위(리지드), <span class="keyword">LG디스플레이</span>는 하이엔드(LTPS LCD+플렉서블 OLED) 1위 유지. <span class="keyword">BOE</span>는 차량용 OLED 출하량 2위로 성장. <span class="keyword">삼성디스플레이</span>, BOE 상대 <span class="keyword">OLED 영업비밀 침해 소송</span>(美) 제기하며 압박 강화. QD-OLED 등 차세대 기술 경쟁 심화 (삼성D, ASUS, TCL 등).</li>
-                <li><span class="keyword">부품 공급망:</span> <span class="keyword">자화전자</span>(애플/삼성 폴디드줌 액추에이터), <span class="keyword">KH바텍</span>(폴더블 힌지), <span class="keyword">SI플렉스</span>(애플 FPCB) 등 국내 부품사 실적 및 기술 경쟁력 주목.</li>
-                <li><span class="keyword">글로벌 이슈:</span> 美 트럼프 행정부의 상호관세 정책 발표로 글로벌 공급망 재편 및 비용 증가 불가피. 삼성/애플 등 주요 기업 타격 예상.</li>
+                <li><span class="keyword">Apple</span>, <span class="keyword">AI 기능</span> 한국어 지원 및 '나의 찾기' 서비스 국내 개시. 단, 핵심 AI(<span class="keyword">시리 개인화</span>) 기능 지연 및 <span class="keyword">허위 광고 논란</span>으로 공정위 조사 착수 <span class="update-tag">(신규)</span>. 트럼프 <span class="keyword">상호관세</span> 발표로 공급망 리스크 부각 및 주가 급락.</li>
+                <li><span class="keyword">삼성전자</span>, AI 기능 강화한 <span class="keyword">갤럭시 탭 S10 FE</span> 시리즈 국내 출시 <span class="update-tag">(신규)</span>. <span class="keyword">트리폴드폰</span>(G 폴드) 한국/중국 한정 출시 가능성. 2nm 공정 엑시노스 선행 적용 기대. 초대 CDO 영입 <span class="update-tag">(신규)</span>으로 디자인 혁신 추진. 美 관세 영향으로 美 시장 경쟁력 약화 우려 <span class="update-tag">(신규)</span>.</li>
+                 <li><span class="keyword">디스플레이 시장:</span> <span class="keyword">차량용 OLED</span> 시장 현황 발표 (삼성D, LGD, BOE 경쟁) <span class="update-tag">(신규)</span>. <span class="keyword">삼성디스플레이</span>, BOE 상대 <span class="keyword">OLED 영업비밀 침해 소송</span> 제기(美)하며 압박 강화. QD-OLED/QD-Mini LED 기술 경쟁 심화 (ASUS, TCL 등 신제품).</li>
+                <li><span class="keyword">부품 공급망:</span> <span class="keyword">SI플렉스</span>, 애플 FPCB 공급 확대로 역대 최대 순이익 달성 <span class="update-tag">(신규)</span>. <span class="keyword">KH바텍</span>, 폴더블 힌지 수혜 및 롤러블 힌지 개발 <span class="update-tag">(신규)</span>. 자화전자, 베트남 투자 확대 <span class="update-tag">(신규)</span>.</li>
+                <li><span class="keyword">글로벌 이슈:</span> 美 상호관세 정책 발표로 글로벌 공급망 재편 및 비용 증가 불가피. 삼성/애플 등 주요 기업 타격 예상.</li>
             </ul>
         </div>
          <div class="section">
-            <h3>주목할 만한 기술/제품</h3>
+            <h3>주목할 만한 기술/제품 <span class="update-tag">(Updated)</span></h3>
              <ul>
-                <li><span class="keyword">Apple Intelligence:</span> 글쓰기 도구, 시각 지능, 챗GPT 통합 (한국어 지원 시작, 기능 제한적)</li>
-                 <li><span class="keyword">갤럭시 탭 S10 FE:</span> 슬림 디자인, AI 인텔리전스(서클 투 서치, AI 지우개 등) 탑재</li>
-                <li><span class="keyword">QD-OLED / QD-Mini LED:</span> 고해상도, 고주사율, QD 기술 기반 색재현율 강화 (삼성D, ASUS, TCL)</li>
-                <li><span class="keyword">폴더블/롤러블:</span> 삼성 G 폴드(트라이폴드), 애플 폴더블(2026년), KH바텍 롤러블 힌지</li>
-                <li><span class="keyword">차량용 디스플레이:</span> 리지드/플렉서블 OLED, 투 탠덤 기술, 하이엔드 LCD</li>
-                <li><span class="keyword">차세대 반도체:</span> 삼성/TSMC 2nm 공정 경쟁, 삼성 엑시노스 2600 (2nm), LTPO OLED 기술</li>
-                <li><span class="keyword">카메라 부품:</span> 2억 화소 OIS(해성옵틱스), 폴디드줌 액추에이터(자화전자), 햅틱 버튼(애플 연구)</li>
+                <li><span class="keyword">Apple Intelligence:</span> 글쓰기 도구, 시각 지능, 챗GPT 통합 (한국어 지원 시작)</li>
+                 <li><span class="keyword">갤럭시 탭 S10 FE:</span> 슬림 디자인, AI 기능 (서클 투 서치, AI 지우개 등) <span class="update-tag">(신규)</span></li>
+                <li><span class="keyword">QD-OLED / QD-Mini LED:</span> 고해상도(4K/5K2K), 고주사율(240/480/500Hz) 게이밍 모니터 (ASUS <span class="update-tag">(신규)</span>, 삼성D, LGD). TCL Q6C TV (QD-Mini LED) <span class="update-tag">(신규)</span>. 삼성 TV HDR10+ <span class="update-tag">(신규)</span>.</li>
+                <li><span class="keyword">폴더블/롤러블:</span> 삼성 G 폴드(트라이폴드), 애플 폴더블(2026년), KH바텍 롤러블 힌지 <span class="update-tag">(신규)</span>.</li>
+                 <li><span class="keyword">차량용 디스플레이:</span> 리지드/플렉서블 OLED, 투 탠덤 OLED <span class="update-tag">(신규)</span>.</li>
+                 <li><span class="keyword">기타:</span> 삼성 2nm GAA 공정, 압전 고분자 액추에이터 OLED, 비전 프로 맥 가상 디스플레이 <span class="update-tag">(신규)</span>.</li>
              </ul>
         </div>
     </div>
 
     <div id="Apple_News" class="tab-content">
-        <h2>Apple 동향 (AI, HW, SCM)</h2>
+        <h2>Apple 동향 (AI, HW, SCM) <span class="update-tag">(Updated)</span></h2>
          <div class="section">
             <h3>AI 및 소프트웨어</h3>
             <ul>
-                <li><span class="keyword">Apple Intelligence 한국어 지원:</span> 4월 1/3일부터 iOS 18.4 등 통해 한국어 포함 8개 언어 지원 시작. 기능: 글쓰기 도구(교정/요약 등), 최우선 알림, 시각 지능(카메라 정보 인식/번역 등), 스마트 답장, Siri 개선(맥락 이해, 타이핑 입력), 챗GPT 통합(계정 불필요, 동의 기반), 통화/메모 녹음 및 요약 등 제공. 온디바이스 처리 및 비공개 클라우드 컴퓨팅 강조.</li>
-                <li><span class="keyword">AI 기능 지연 및 허위 광고 논란:</span> 핵심 기능인 '<span class="keyword">시리 개인화</span>' 업그레이드 내년으로 연기. 광고 내용과 실제 기능 차이로 '반쪽짜리 AI', '껍데기' 비판. <span class="keyword">서울YMCA</span>, 공정위에 표시광고법 위반 신고 및 <span class="keyword">공정위 조사 착수</span> 확인. 미국에서도 소비자 집단소송 제기.</li>
-                <li><span class="keyword">'나의 찾기' 국내 서비스:</span> 출시 15년 만에 정식 지원. 기기/물품 위치 추적, 가족/친구 위치 공유, 분실 모드, 안전 확인, <span class="keyword">정밀 탐색</span> 기능 등 제공.</li>
-                <li><span class="keyword">OS 업데이트:</span> iOS 18.5 베타 테스트 시작 (5월 정식 예상). <span class="keyword">iOS 19</span> (WWDC25 공개 예상)는 iOS 7 이후 가장 큰 디자인 변화 가능성 제기(폼팩터 변화 대비?).</li>
-                <li><span class="keyword">보안 이슈:</span> 아이메시지 스팸 필터 우회하는 피싱 플랫폼 '루시드' 주의보 (임시 Apple ID 사용).</li>
+                <li><span class="keyword">Apple Intelligence 한국어 지원:</span> 4월 1/3일부터 iOS 18.4 등 통해 한국어 포함 8개 언어 지원 시작. 글쓰기 도구, 스마트 답장, 시각 지능, 우선순위 알림, Siri 개선(맥락 이해, 챗GPT 통합), 통화/메모 녹음 및 요약 등 제공.</li>
+                <li><span class="keyword">AI 기능 지연 및 허위 광고 논란<span class="update-tag">(심화)</span>:</span> 핵심 기능 '<span class="keyword">시리 개인화</span>' 업그레이드 내년 연기. '반쪽짜리 AI', '껍데기' 비판. <span class="keyword">서울YMCA</span>, 공정위에 표시광고법 위반 신고, <span class="keyword">공정위 조사 착수</span> 확인.</li>
+                <li><span class="keyword">'나의 찾기' 국내 서비스:</span> 15년 만에 정식 지원. 기기/물품 위치 추적, 가족/친구 위치 공유, 안전 확인 등 제공.</li>
+                 <li><span class="keyword">OS 업데이트:</span> iOS 18.5 베타 테스트 시작. <span class="keyword">iOS 19</span>는 역대급 UI 변경 가능성 <span class="update-tag">(신규)</span>.</li>
+                <li><span class="keyword">보안 이슈:</span> 아이메시지 스팸 필터 우회 피싱 플랫폼 '루시드' 주의보 <span class="update-tag">(신규)</span>.</li>
             </ul>
         </div>
         <div class="section">
             <h3>하드웨어 및 차세대 제품</h3>
             <ul>
-                <li><span class="keyword">폴더블 아이폰:</span> 2026년 출시 전망. 삼성D 독점 공급 가능성. 북 타입, 7.8인치 내부/5.5인치 외부, 초슬림/경량화 예상. 내구성(힌지, 낙하 취약성), 방수/방진(IP 등급 하락 우려), 높은 가격(최소 340만원?) 등이 과제. 아이폰/아이패드 대체재 역할은 제한적일 것이란 분석.</li>
-                 <li><span class="keyword">아이폰 17 시리즈 (2026년):</span> <span class="keyword">증기 챔버 냉각 시스템</span> 도입 가능성 (프로/프로맥스?). 고사양 게임/AI 연산 성능 강화 목적. TSMC 3세대 3nm(N3P) 공정 <span class="keyword">A19 칩셋</span> 탑재 예상.</li>
-                 <li><span class="keyword">햅틱 버튼:</span> 솔리드 스테이트(정전식) 버튼 연구 지속 ('프로젝트 봉고'). 터치 오류, 응답성 문제로 단기 도입 가능성 낮음.</li>
-                <li><span class="keyword">에어팟 맥스 (USB-C):</span> 펌웨어 업데이트(7E101) 재배포. <span class="keyword">무손실 오디오</span>(24bit/48kHz) 및 초저지연 오디오(USB-C 유선 연결 시) 지원 추가.</li>
-                 <li><span class="keyword">비전 프로:</span> 맥 가상 디스플레이 기능 업데이트 (비전OS 2.2). 와이드(21:9)/울트라와이드(32:9) 해상도 지원 추가 (최대 10240x2880). 맥 오디오 출력 지원. 장시간 착용 불편함, 공간 감각 혼란 등은 한계. '매우 한정된 마니아층 위한 기기'(팀 쿡).</li>
+                <li><span class="keyword">폴더블 아이폰:</span> 2026년 출시 전망. 삼성D 독점 공급 가능성. 북 타입, 7.8인치 내부/5.5인치 외부 등 예상. 내구성, 가격 문제 제기 <span class="update-tag">(신규)</span>.</li>
+                 <li><span class="keyword">아이폰 17 시리즈:</span> 초슬림 '에어' 모델 가능성. <span class="keyword">증기 챔버 냉각</span> 시스템 도입설 (고사양 게임/AI 연산 강화) <span class="update-tag">(신규)</span>. A19 칩셋(3nm N3P) 탑재 예상.</li>
+                 <li><span class="keyword">햅틱 버튼:</span> 솔리드 스테이트 버튼 연구 지속 ('프로젝트 봉고'), 단기 도입 가능성 낮음 <span class="update-tag">(신규)</span>.</li>
+                <li><span class="keyword">에어팟 맥스 (USB-C):</span> 펌웨어 업데이트(7E101) 재배포. <span class="keyword">무손실 오디오</span> 및 초저지연 오디오 지원 추가 <span class="update-tag">(신규)</span>.</li>
+                 <li><span class="keyword">비전 프로:</span> 맥 가상 디스플레이 기능 업데이트 (와이드/울트라와이드 해상도, 오디오 출력 지원). 장시간 착용 불편 등 한계 명확. <span class="update-tag">(신규)</span></li>
             </ul>
         </div>
         <div class="section">
             <h3>공급망(SCM) 및 경제/법적 이슈</h3>
             <ul>
-                <li><span class="keyword">트럼프 상호관세 영향:</span> 모든 교역국 대상 상호관세 발표(중국 54%, 베트남 46%, 인도 26%, 대만 32% 등). 애플 주가 시간 외 <span class="keyword">6-7% 급락</span> (4/2). 공급망 다변화(탈중국) 전략 효과 반감 및 무력화 우려. 생산 비용 증가 및 수익성 타격 불가피 (모건스탠리: 연간 85억 달러 비용 증가, 수익 7% 감소 예상).</li>
-                <li><span class="keyword">공급망 경쟁 심화:</span> 아이폰 <span class="keyword">LTPO OLED</span> 패널 공급 경쟁 (삼성D vs LGD). LGD 점유율 상승(28.9%). BOE는 LTPO 기술력 부족으로 아이폰17 공급 실패. 디스플레이 FPCB 공급사 <span class="keyword">SI플렉스</span> 부상(실적 급증). 카메라 액추에이터 공급사 <span class="keyword">자화전자</span>, 베트남 빈푹성 정부와 협력 강화.</li>
-                 <li><span class="keyword">노동 소송 연기:</span> NLRB의 애플 상대 노동법 위반 소송 2건 무기한 연기. 트럼프의 애플 측 변호사 NLRB 고위직 임명 논란.</li>
-                <li><span class="keyword">애플카드 결제망 경쟁:</span> 비자(1억 달러 제안)/AXP가 마스터카드에 도전. 새 발행사 경쟁도 진행 중 (JP모간, 싱크로니 등).</li>
-                 <li><span class="keyword">앱스토어 정책 비판:</span> 에픽게임즈 CEO, 애플/구글 앱스토어 독점 및 수수료 정책('갱스터식 기업') 비판.</li>
+                <li><span class="keyword">트럼프 상호관세 영향<span class="update-tag">(심화)</span>:</span> 주요 생산기지(중국 54%, 베트남 46%, 인도 26%) 고율 관세 부과로 공급망 리스크 극대화. 주가 시간 외 6-7% 급락. 탈중국 전략 효과 반감. 모건스탠리, 연간 85억 달러 비용 증가 및 수익 7% 감소 예상.</li>
+                 <li><span class="keyword">공급망 경쟁 심화<span class="update-tag">(업데이트)</span>:</span> 아이폰 LTPO OLED 패널 공급 (LGD 점유율 상승). FPCB 공급사 <span class="keyword">SI플렉스</span> 부상(실적 급증). 카메라 액추에이터 공급사 <span class="keyword">자화전자</span>, 베트남 생산 강화.</li>
+                <li><span class="keyword">노동 소송 연기:</span> NLRB의 애플 상대 노동법 위반 소송 2건 무기한 연기.</li>
+                <li><span class="keyword">애플카드 결제망 경쟁:</span> 비자(1억 달러 제안)/AXP가 마스터카드에 도전.</li>
+                 <li><span class="keyword">앱스토어 정책 비판:</span> 에픽게임즈 CEO, 독점 및 수수료 정책 비판 <span class="update-tag">(신규)</span>.</li>
             </ul>
         </div>
     </div>
 
     <div id="Display_Industry" class="tab-content">
-        <h2>디스플레이 산업</h2>
+        <h2>디스플레이 산업 <span class="update-tag">(Updated)</span></h2>
         <div class="section">
-            <h3>시장 동향 및 전망</h3>
+            <h3>시장 동향 및 전망 <span class="update-tag">(업데이트)</span></h3>
              <ul>
-                 <li><span class="keyword">차량용 OLED 시장(2024년, 옴디아):</span> <span class="keyword">삼성디스플레이</span> 출하량(164만대)/매출(4.9억달러) 1위(리지드 강점). <span class="keyword">BOE</span> 출하량 2위(62만대), 매출 3위(1.8억달러). <span class="keyword">LG디스플레이</span> 출하량 3위(40만대), 매출 2위(1.9억달러). LGD는 LTPS LCD 포함한 <span class="keyword">하이엔드 차량 디스플레이</span> 시장에선 여전히 압도적 1위(매출 15.8억달러).</li>
-                 <li><span class="keyword">OLED 전환 가속:</span> GPU 성능 향상으로 <span class="keyword">OLED 모니터</span> 수요 급증 (22년 16만대 → 25년 301만대 전망). IT 기기 전반으로 OLED 채택 확대.</li>
-                 <li><span class="keyword">폴더블 시장 조정:</span> 2025년 첫 <span class="keyword">역성장(-4%)</span> 전망. 기술 혁신 둔화, 높은 가격 부담. 2026년 애플 진입 시 반등 기대.</li>
-                 <li><span class="keyword">LTPO OLED 시장:</span> 한국 업체(삼성D/LGD) 주도(24년 매출 점유율 74.3%). 중국(BOE 등) 추격 거세나 기술 격차 유지. <span class="keyword">애플 아이폰17</span> 전 모델 LTPO 탑재 시 한국 업체 수혜 기대.</li>
+                 <li><span class="keyword">차량용 OLED 시장(2024년)<span class="update-tag">(신규)</span>:</span> <span class="keyword">삼성디스플레이</span> 출하량/매출 1위(리지드 강점). <span class="keyword">BOE</span> 출하량 2위, 매출 3위. <span class="keyword">LG디스플레이</span> 출하량 3위, 매출 2위. LGD는 LTPS LCD 포함 <span class="keyword">하이엔드</span> 시장 1위.</li>
+                 <li><span class="keyword">OLED 전환 가속:</span> GPU 성능 향상 등으로 <span class="keyword">OLED 모니터</span> 수요 급증 (25년 301만대 전망).</li>
+                 <li><span class="keyword">폴더블 시장 조정:</span> 2025년 첫 역성장(-4%) 전망. 2026년 애플 진입 시 반등 기대.</li>
+                 <li><span class="keyword">LTPO OLED 시장<span class="update-tag">(신규)</span>:</span> 한국(삼성D/LGD) 주도 (24년 매출 점유율 74.3%), 중국 추격. 애플 아이폰17 전 모델 LTPO 탑재 시 한국 수혜.</li>
+                 <li><span class="keyword">LCD 시장 중국 지배력 강화<span class="update-tag">(신규)</span>:</span> 중국 3사 점유율 66%. CSOT, LGD 공장 인수로 22.9% 확보.</li>
             </ul>
         </div>
         <div class="section">
-            <h3>주요 기업 동향 (한국)</h3>
+            <h3>주요 기업 동향 (한국) <span class="update-tag">(업데이트)</span></h3>
             <ul>
                 <li><span class="keyword">삼성디스플레이:</span>
                     <ul>
-                        <li><span class="keyword">차량용 OLED 1위:</span> 리지드 OLED 중심, BMW/중국 업체 등 공급 확대.</li>
-                         <li><span class="keyword">BOE 상대 소송:</span> OLED <span class="keyword">영업비밀 침해</span> 혐의로 美 텍사스 법원에 제소 (기존 특허 소송 연장선). 산업 스파이, 전 직원 빼가기 등 주장.</li>
-                         <li>기술 개발: QD-OLED (모니터용 500Hz, IT용), LTPO OLED 기술 선도.</li>
-                         <li>실적 전망: 경쟁 심화로 단기 부진 가능성, 2026년 애플 폴더블 공급 등으로 반등 기대.</li>
+                        <li>차량용 OLED 출하/매출 1위 <span class="update-tag">(신규)</span>.</li>
+                         <li>BOE 상대 美 <span class="keyword">OLED 영업비밀 침해 소송</span> 제기 <span class="update-tag">(신규)</span>.</li>
+                         <li>QD-OLED 기술 선도 (모니터, IT용).</li>
+                         <li>실적 전망: 경쟁 심화로 단기 부진, 2026년 애플 폴더블 공급 등으로 반등 기대 <span class="update-tag">(신규)</span>.</li>
                     </ul>
                 </li>
                 <li><span class="keyword">LG디스플레이:</span>
                     <ul>
-                        <li><span class="keyword">LCD 사업 철수:</span> 광저우 8.5세대 LCD 공장 <span class="keyword">CSOT</span> 매각 완료. OLED 집중.</li>
-                        <li><span class="keyword">하이엔드 차량 디스플레이 1위:</span> LTPS LCD + 플렉서블 OLED(투 탠덤) 조합.</li>
-                         <li>기술 개발: IT용 OLED(5K2K 게이밍, 480Hz), 탠덤 구조 OLED 등.</li>
-                         <li>애플 공급망: 아이폰 LTPO OLED 점유율 확대(28.9%).</li>
+                        <li>광저우 LCD 공장 CSOT 매각 완료, OLED 집중.</li>
+                        <li><span class="keyword">하이엔드 차량 디스플레이 1위</span> <span class="update-tag">(신규)</span>.</li>
+                         <li>IT용 OLED 기술 개발(5K2K 게이밍 등) 및 고객사 확대.</li>
+                         <li>아이폰 LTPO OLED 점유율 확대.</li>
                     </ul>
                  </li>
-                 <li><span class="keyword">DB글로벌칩 (팹리스):</span> 휴대폰용 <span class="keyword">OLED 구동칩(TED)</span> 양산 시작. 삼성디스플레이 통해 <span class="keyword">갤럭시 A26</span> 공급.</li>
-                <li><span class="keyword">KH바텍 (힌지):</span> 폴더블폰 성장 수혜 기대 (삼성/애플). 롤러블 힌지 개발.</li>
-                 <li><span class="keyword">SI플렉스 (FPCB):</span> 애플 아이폰 디스플레이용 FPCB 공급 확대로 작년 사상 최대 순이익.</li>
-                 <li><span class="keyword">넥스트아이 (검사장비):</span> LCD 부품 검사장비 기술 기반 중국 뷰티 시장 공략.</li>
+                 <li><span class="keyword">DB글로벌칩:</span> 휴대폰용 <span class="keyword">OLED 구동칩(TED)</span> 양산 시작, 갤럭시 A26 공급.</li>
+                 <li><span class="keyword">KH바텍 (힌지)<span class="update-tag">(신규)</span>:</span> 폴더블폰 성장 수혜, <span class="keyword">롤러블 힌지</span> 개발. 애플 폴더블 진출 시 성장 기대.</li>
+                 <li><span class="keyword">SI플렉스 (FPCB)<span class="update-tag">(신규)</span>:</span> 애플 아이폰 <span class="keyword">디스플레이용 FPCB</span> 공급 본격화, 2024년 사상 최대 순이익(562억). IPO 재추진 가능성.</li>
+                 <li><span class="keyword">덕산네오룩스 (OLED 소재)<span class="update-tag">(신규)</span>:</span> OLED 소재 수요 증가로 실적 호조. Green Prime 등 신규 소재 개발 집중. <span class="keyword">현대중공업터보기계 인수</span>로 사업 다각화.</li>
+                 <li><span class="keyword">넥스트아이 (검사장비)<span class="update-tag">(신규)</span>:</span> LCD 검사장비 기술 기반 중국 뷰티 시장 공략.</li>
             </ul>
         </div>
          <div class="section">
-            <h3>주요 기업 동향 (중국 및 기타)</h3>
+            <h3>주요 기업 동향 (중국 및 기타) <span class="update-tag">(업데이트)</span></h3>
              <ul>
-                 <li><span class="keyword">CSOT (TCL):</span> LGD 광저우 LCD 공장 인수 완료. 대형 LCD 점유율 22.9% 확대. <span class="keyword">QD-Mini LED TV</span> (Q6C 시리즈) 국내 출시 (최대 98인치).</li>
-                 <li><span class="keyword">BOE:</span> 삼성디스플레이로부터 <span class="keyword">영업비밀 침해 소송</span> 피소. 차량용 OLED 출하량 급증(2위). 애플 LTPS OLED 공급, LTPO 추격.</li>
+                 <li><span class="keyword">CSOT (TCL):</span> LGD 광저우 LCD 공장 인수 완료. 대형 LCD 점유율 22.9% 확대. <span class="keyword">QD-Mini LED TV</span> (Q6C 시리즈) 국내 출시 <span class="update-tag">(신규)</span>.</li>
+                 <li><span class="keyword">BOE:</span> 삼성디스플레이로부터 <span class="keyword">영업비밀 침해 소송</span> 피소 <span class="update-tag">(신규)</span>. 차량용 OLED 출하량 2위로 부상 <span class="update-tag">(신규)</span>. LTPO 기술 추격.</li>
                  <li><span class="keyword">하이센스:</span> 116형 <span class="keyword">RGB 미니 LED TV</span> 출시, 공격적 가격 정책.</li>
-                 <li><span class="keyword">에이수스(ASUS):</span> 4K UHD 240Hz <span class="keyword">QD-OLED 게이밍 모니터</span> 발표 (4세대 패널).</li>
+                 <li><span class="keyword">에이수스(ASUS)<span class="update-tag">(신규)</span>:</span> 4K UHD 240Hz <span class="keyword">QD-OLED 게이밍 모니터</span> 발표 (4세대 패널).</li>
             </ul>
         </div>
     </div>
 
     <div id="Competition_Tech" class="tab-content">
-        <h2>경쟁 및 기술 이슈</h2>
-        <div class="section">
-            <h3>시장 경쟁 구도</h3>
+        <h2>경쟁 및 기술 이슈 <span class="update-tag">(Updated)</span></h2>
+         <div class="section">
+            <h3>시장 경쟁 구도 <span class="update-tag">(업데이트)</span></h3>
             <ul>
-                <li><span class="keyword">스마트폰 경쟁:</span> 삼성 vs 애플 AI 기능 및 점유율 경쟁. <span class="keyword">'갤럭시=아재폰'</span> 이미지 탈피 위한 삼성의 디자인 혁신(CDO 영입). 美 상호관세가 양사 경쟁력에 변수.</li>
-                 <li><span class="keyword">디스플레이 경쟁:</span> <span class="keyword">한-중 기술 격차</span> (LCD vs OLED, LTPO 기술). <span class="keyword">삼성D-BOE 소송전</span> 격화. 차량용/IT용 OLED 시장 경쟁 심화.</li>
-                <li><span class="keyword">파운드리 경쟁:</span> <span class="keyword">TSMC vs 삼성전자</span> 2nm 공정 경쟁. 삼성, GAA 기술로 반격 모색.</li>
-                 <li><span class="keyword">TV 기술 경쟁:</span> 미니 LED(중국) vs OLED(한국). TCL QD-Mini LED TV 국내 출시. 삼성 TV, 넷플릭스 HDR10+ 콘텐츠 지원.</li>
+                <li><span class="keyword">스마트폰 경쟁:</span> 삼성 vs 애플 AI 기능 및 점유율 경쟁. <span class="keyword">삼성</span>, '갤럭시=아재폰' 이미지 탈피 위한 <span class="keyword">디자인 혁신</span> 노력(CDO 영입) <span class="update-tag">(신규)</span>. <span class="keyword">美 상호관세</span>가 양사 美 시장 경쟁력에 주요 변수.</li>
+                 <li><span class="keyword">디스플레이 경쟁:</span> 한-중 기술 격차(LCD vs OLED, LTPO). <span class="keyword">삼성D-BOE 소송전</span> 격화. 차량용/IT용 OLED 시장 경쟁 심화.</li>
+                <li><span class="keyword">파운드리 경쟁:</span> TSMC vs 삼성전자 2nm 공정 경쟁.</li>
+                 <li><span class="keyword">TV 기술 경쟁:</span> 미니 LED(중국) vs OLED(한국). TCL QD-Mini LED TV 국내 출시. 삼성 TV, 넷플릭스 HDR10+ 콘텐츠 지원 <span class="update-tag">(신규)</span>.</li>
+                 <li><span class="keyword">앱스토어 독점 논란<span class="update-tag">(신규)</span>:</span> 에픽게임즈 CEO, 애플/구글 정책 비판.</li>
             </ul>
         </div>
          <div class="section">
-            <h3>주요 기술 트렌드 및 이슈</h3>
+            <h3>주요 기술 트렌드 및 이슈 <span class="update-tag">(업데이트)</span></h3>
             <ul>
-                 <li><span class="keyword">모바일 AI:</span> 삼성 갤럭시 AI vs 애플 Apple Intelligence. 기능 유사성 증가하나 애플 핵심 기능 지연.</li>
-                 <li><span class="keyword">디스플레이 기술:</span> <span class="keyword">OLED 고도화</span> (QD-OLED, 탠덤 구조, 고해상도/고주사율). 초슬림 기술. <span class="keyword">차세대 광통신</span> 위한 키랄 유기 광전자 소재 개발(서울대 오준학 교수).</li>
-                 <li><span class="keyword">폴더블/롤러블:</span> 삼성 G 폴드(트리폴드), 애플 폴더블(2026년), KH바텍 롤러블 힌지. 내구성/가격 문제 해결 과제.</li>
-                 <li><span class="keyword">카메라 기술:</span> 고화소 OIS, 폴디드줌, FoD 등.</li>
-                 <li><span class="keyword">XR/AR/공간 컴퓨팅:</span> 애플 비전 프로 (맥 가상 디스플레이 기능 업데이트), 메타 스마트 안경 등. 착용감/콘텐츠 부족 한계.</li>
+                 <li><span class="keyword">모바일 AI:</span> 삼성 갤럭시 AI vs 애플 Apple Intelligence (기능 제한 및 허위광고 논란).</li>
+                 <li><span class="keyword">디스플레이 기술:</span> OLED 고도화 (QD-OLED, 탠덤 구조, LTPO). 초슬림/플렉서블 기술. <span class="keyword">차세대 광통신</span> 위한 키랄 유기 광전자 소재 <span class="update-tag">(신규)</span>.</li>
+                 <li><span class="keyword">폴더블/롤러블:</span> 트리폴드(삼성), 애플 폴더블(2026년), 롤러블 힌지(KH바텍).</li>
+                 <li><span class="keyword">냉각 기술<span class="update-tag">(신규)</span>:</span> 아이폰17 <span class="keyword">증기 챔버 냉각 시스템</span> 도입 가능성.</li>
+                 <li><span class="keyword">XR/AR/공간 컴퓨팅:</span> 애플 비전 프로 맥 가상 디스플레이 업데이트. 메타 스마트 안경 개발.</li>
             </ul>
         </div>
         <div class="section">
-            <h3>공급망(SCM) 및 기업 전략 이슈</h3>
-            <ul>
-                 <li><span class="keyword">美 상호관세 영향:</span> 애플/삼성전자 등 주요 생산기지(베트남, 중국, 인도 등) 고율 관세 부과로 공급망 리스크 증대 및 비용 증가, 가격 인상 압력. 공급망 재편 불가피.</li>
-                 <li><span class="keyword">LGD LCD 사업 철수:</span> OLED 전환 가속화 및 재무구조 개선 기대. IT용 OLED 투자 결정 지연은 리스크.</li>
-                 <li><span class="keyword">삼성전자 리더십:</span> 노태문 MX사업부장 DX부문장 직무대행 선임.</li>
-                 <li><span class="keyword">삼성디스플레이 실적:</span> 경쟁 심화로 부진 우려, 슬림폰/폴더블폰 패널 공급으로 2026년 반등 기대.</li>
-                 <li><span class="keyword">부품사 전략:</span> 자화전자(베트남 투자 확대), 세경하이테크(북미 폴더블 진출 기대), SI플렉스(애플 공급 확대로 실적 급증), KH바텍(폴더블/롤러블 힌지 성장 기대).</li>
+            <h3>공급망(SCM) 및 기업 전략 이슈 <span class="update-tag">(업데이트)</span></h3>
+             <ul>
+                 <li><span class="keyword">美 상호관세 영향<span class="update-tag">(신규/심화)</span>:</span> 트럼프 행정부, 베트남(46%), 중국(54%) 등 고율 관세 부과. 애플/삼성전자 공급망 리스크 증대. 생산지 재편 및 가격 인상 압력. 특히 삼성전자 베트남 의존도 높아 타격 우려.</li>
+                 <li><span class="keyword">Apple 공급망:</span> 탈중국 노력에도 불구, 관세 영향 불가피. LGD LTPO 점유율 상승, BOE는 실패. FPCB(SI플렉스)/카메라(자화전자) 공급망 변화.</li>
+                 <li><span class="keyword">LGD LCD 사업 철수:</span> OLED 전환 및 재무구조 개선 가속화.</li>
+                 <li><span class="keyword">삼성전자 리더십/전략:</span> 노태문 DX부문장 직무대행 선임. 초대 CDO 영입으로 디자인 혁신 및 젊은 층 공략 강화 <span class="update-tag">(신규)</span>. 2nm 파운드리 공정 우위 확보 전략.</li>
+                 <li><span class="keyword">부품사 성장 전략:</span> KH바텍(폴더블/롤러블 힌지), SI플렉스(애플 효과), 자화전자(베트남 투자), 덕산네오룩스(사업 다각화).</li>
             </ul>
         </div>
     </div>
 
     <div class="roadmap">
-        <h2>주요 일정 로드맵 (예상 포함)</h2>
+        <h2>주요 일정 로드맵 <span class="update-tag">(Updated)</span></h2>
          <div class="roadmap-item">
-            <strong>2025년 4월 1일</strong>
-            <span>Apple Intelligence 한국어 등 8개 언어 지원 시작 (iOS 18.4)</span><br>
+            <strong>2025년 4월 1일/3일</strong>
+             <span>Apple Intelligence 한국어 등 8개 언어 지원 시작 (iOS 18.4)</span><br>
              <span>'나의 찾기' 한국 서비스 개시</span><br>
              <span>LG디스플레이, 광저우 LCD 공장 CSOT 매각 완료</span><br>
              <span>TCL Q6C TV 시리즈 예약판매 시작</span>
@@ -437,36 +443,28 @@
             <strong>2025년 4월 3일</strong>
              <span>삼성전자, 갤럭시 탭 S10 FE 시리즈 국내 출시</span><br>
              <span>Apple, iOS 18.5 베타 테스트 시작</span><br>
-             <span>에이수스, ROG Strix OLED XG27UCDMG (4K 240Hz QD-OLED) 발표 (4월 중 예약판매)</span>
-         </div>
-          <div class="roadmap-item">
-             <strong>2025년 4월 7일</strong>
-              <span>NCT 마크 솔로 앨범 'The Firstfruit' 발매</span>
-         </div>
-          <div class="roadmap-item">
-             <strong>2025년 4월 8일</strong>
-              <span>NCT 마크, 애플뮤직 라디오쇼 'on your MARK' 첫 방송</span>
+             <span>ASUS, ROG Strix OLED XG27UCDMG (4K 240Hz QD-OLED) 발표</span><br>
+             <span>공정위, 애플 AI 허위광고 의혹 조사 착수 <span class="update-tag">(신규)</span></span>
          </div>
          <div class="roadmap-item">
             <strong>2025년 5월~6월 (예상)</strong>
+             <span>삼성전자, 갤럭시 S25 엣지(초슬림폰) 출시 가능성</span><br>
              <span>Apple AirTag 2 출시 가능성 (WWDC25 공개?)</span><br>
-             <span>삼성전자 갤럭시 S25 엣지 출시 가능성</span><br>
              <span>iOS 18.5 정식 업데이트 예상</span>
          </div>
          <div class="roadmap-item">
-            <strong>2025년 6월 9일 (예상)</strong>
-             <span>Apple WWDC25 개최 (iOS 19 / iPadOS 19 공개)</span>
+            <strong>2025년 6월 (예상)</strong>
+             <span>Apple WWDC25 개최 (iOS 19 공개?)</span>
          </div>
         <div class="roadmap-item">
             <strong>2025년 하반기 (예상)</strong>
-             <span>TSMC 2나노 공정 양산 시작</span><br>
-             <span>Intel 18A(1.8nm급) 공정 CPU 양산 시작</span><br>
+             <span>TSMC/인텔, 2나노 이하 공정 양산 시작?</span><br>
              <span>세경하이테크, 단열소재 공급 성과 가시화?</span>
         </div>
          <div class="roadmap-item">
             <strong>2025년 10월 (예상)</strong>
               <span>삼성전자 G 폴드(트리폴드폰) 출시 가능성</span><br>
-              <span>마우로 포르치니 삼성전자 CDO 저서 출간</span>
+              <span>마우로 포르치니 삼성전자 CDO 저서 출간 <span class="update-tag">(신규)</span></span>
          </div>
          <div class="roadmap-item">
             <strong>2025년 연말 (예상)</strong>
@@ -480,32 +478,26 @@
         </div>
          <div class="roadmap-item">
             <strong>2026년 (예상)</strong>
-             <span>Apple, 폴더블 아이폰 출시 전망 (삼성D 독점 공급 가능성)</span><br>
+             <span>Apple, 폴더블 아이폰 출시 전망</span><br>
              <span>Apple, 아이폰 17 시리즈 (에어/울트라 모델?, 증기챔버 냉각?) 출시 전망</span><br>
              <span>Apple, 시리 개인화 기능 업데이트?</span><br>
              <span>폴더블 스마트폰 시장 반등 기대 (애플 진입 효과)</span><br>
-             <span>삼성디스플레이 실적 반등 기대 (애플 공급 확대)</span><br>
+             <span>삼성디스플레이 실적 반등 기대</span><br>
              <span>삼성디스플레이 8.6세대 IT OLED 라인 구축 완료 목표</span><br>
              <span>해성옵틱스, 갤럭시 S26 OIS 액추에이터 공급</span>
         </div>
         <div class="roadmap-item">
             <strong>2027년 (예상)</strong>
-             <span>Apple 차세대 Apple Watch 출시 (신규 센서 탑재?)</span><br>
-             <span>Apple 하이퍼노바 2 (듀얼 스크린 스마트 안경) 출시?</span><br>
-             <span>제네시스, WEC 및 WTSCC 챔피언십 출전 확대</span>
+             <span>제네시스, WEC 및 WTSCC 챔피언십 출전 확대 <span class="update-tag">(신규)</span></span><br>
+             <span>메타, 차세대 XR 안경 '아르테미스' 출시 가능성</span>
         </div>
-         <div class="roadmap-item">
-            <strong>2028년 (예상)</strong>
-             <span>LG디스플레이 IT OLED 등 신기술 투자 결정?</span>
-         </div>
     </div>
 
     <div class="references">
-      <h2>참고 기사 목록</h2>
+      <h2>참고 기사 목록 <span class="update-tag">(Updated)</span></h2>
       <ul>
         <li><a href="https://kr.aving.net/news/articleView.html?idxno=1798747" target="_blank">제네시스, 2025년 서울모빌리티쇼서 '엑스 그란 쿠페'·'엑스 그란 컨버... (2025-04-03 17:00)</a></li>
         <li><a href="https://www.pointdaily.co.kr/news/articleView.html?idxno=240589" target="_blank">삼성전자, '갤럭시 탭 S 10 FE 시리즈' 국내 출시 (2025-04-03 16:54)</a></li>
-        <li><a href="https://n.news.naver.com/mnews/article/241/0003426101?sid=105" target="_blank">애플 뮤직, NCT 마크 라디오 시리즈 독점 공개 (2025-04-03 16:53)</a></li>
         <li><a href="https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065598591501163" target="_blank">삼성전자, '갤럭시 탭 S10 FE 시리즈' 출시 (2025-04-03 16:44)</a></li>
         <li><a href="https://n.news.naver.com/mnews/article/031/0000921717?sid=103" target="_blank">'탄생 10주년' 제네시스, 플래그십 콘셉트카 2종 세계 최초 공개 (2025-04-03 16:43)</a></li>
         <li><a href="https://n.news.naver.com/mnews/article/366/0001066484?sid=004" target="_blank">TCL, QD-Mini LED 기술 적용한 ‘Q6C’ 시리즈 국내 출시 (2025-04-03 16:41)</a></li>
@@ -577,10 +569,8 @@
         <li><a href="https://kbench.com/?q=node/266212" target="_blank">에이수스, 4K 240Hz 게이밍 모니터, ROG Strix OLED XG27UCDMG 발표 (2025-04-03 11:56)</a></li>
         <li><a href="https://www.newspim.com/news/view/20250402001017" target="_blank">[서울모빌리티쇼] 제네시스 10주년, 엑스 그란 쿠페·컨버터블 세계 최... (2025-04-03 11:55)</a></li>
         <li><a href="https://n.news.naver.com/mnews/article/018/0005977613?sid=105" target="_blank">삼성 갤럭시 탭 S10 FE 시리즈 출시…69만원부터 (2025-04-03 11:52)</a></li>
-        <li><a href="https://n.news.naver.com/mnews/article/119/0002941020?sid=105" target="_blank">애플 뮤직, NCT 마크 라디오 단독 시리즈 ‘on your Mark’ 공개 (2025-04-03 11:50)</a></li>
         <li><a href="https://n.news.naver.com/mnews/article/056/0011924458?sid=104" target="_blank">뉴욕타임스 “미 상호관세, 애플에 큰 시험대 될 것” (2025-04-03 11:49)</a></li>
         <li><a href="https://www.nextdaily.co.kr/news/articleView.html?idxno=236739" target="_blank">TCL, QD-Mini LED 탑재 Q6C TV 신제품 출시 합리적 프리미엄TV (2025-04-03 11:46)</a></li>
-        <li><a href="https://www.marieclairekorea.com/celebrity/2025/04/nct-17/?utm_source=naver&utm_medium=partnership" target="_blank">NCT 마크, 애플뮤직 단독 라디오쇼 론칭 (2025-04-03 11:40)</a></li>
         <li><a href="http://www.it-b.co.kr/news/articleView.html?idxno=81104" target="_blank">TCL, QD-Mini LED 기술 적용한 'Q6C' 시리즈 국내 론칭 (2025-04-03 11:34)</a></li>
         <li><a href="https://www.kfenews.co.kr/news/articleView.html?idxno=633383" target="_blank">삼성전자, '갤럭시 탭 S10 FE 시리즈' 출시 (2025-04-03 11:30)</a></li>
         <li><a href="https://www.ajunews.com/view/20250403112409370" target="_blank">TCL, QD-Mini LED 탑재한 'Q6C' 프리미엄 TV 시리즈 국내 론칭 (2025-04-03 11:28)</a></li>
@@ -588,8 +578,7 @@
         <li><a href="https://n.news.naver.com/mnews/article/018/0005977578?sid=105" target="_blank">트럼프 ‘관세 폭탄’...삼성전자·애플 타격 불가피 전망 (2025-04-03 11:27)</a></li>
         <li><a href="https://n.news.naver.com/mnews/article/421/0008170692?sid=105" target="_blank">트럼프 상호관세에 애플 생산기지 전방위 타격…탈중국 '물거품' (2025-04-03 11:27)</a></li>
         <li><a href="https://www.fetv.co.kr/news/article.html?no=190082" target="_blank">삼성전자, 태블릿 신제품 '갤럭시 탭 S10 FE 시리즈' 출시 (2025-04-03 11:26)</a></li>
-        <li><a href="https://www.getnews.co.kr/news/articleView.html?idxno=814632" target="_blank">'트럼프 관세폭탄'으로 애플 핵심 생산국 인도ㆍ베트남 망연자실 (2025-04-03 11:22)</a></li>
-        <li><a href="http://enter.etoday.co.kr/news/view/275014" target="_blank">NCT 마크, 애플뮤직 컬래버→단독 라디오쇼 ‘on your MARK’ 론칭 (2025-04-03 11:22)</a></li>
+        <li><a href="https://www.getnews.co.kr/news/articleView.html?idxno=814620" target="_blank">'트럼프 관세폭탄'으로 애플 핵심 생산국 인도ㆍ베트남 망연자실 (2025-04-03 11:22)</a></li>
         <li><a href="https://www.itworld.co.kr/article/3953062/아이메시지-암호화-피해-피싱-링크-보내는-루시드-공.html" target="_blank">아이메시지 암호화 피해 피싱 링크 보내는 루시드 공격 주의보 (2025-04-03 11:20)</a></li>
         <li><a href="http://www.weeklytoday.com/news/articleView.html?idxno=688549" target="_blank">[위클리오늘] 삼성전자, '갤럭시 탭 S10 FE 시리즈' 출시 (2025-04-03 11:18)</a></li>
         <li><a href="https://n.news.naver.com/mnews/article/032/0003360949?sid=104" target="_blank">아이폰은 인도, 아이패드는 베트남···애플도 관세 직격탄 (2025-04-03 11:16)</a></li>
@@ -654,20 +643,17 @@
         <li><a href="https://n.news.naver.com/mnews/article/031/0000921483?sid=105" target="_blank">삼성전자, AI 기능 탑재 '갤럭시 탭 S10 FE' 시리즈 출시 (2025-04-03 09:34)</a></li>
         <li><a href="https://www.smarttoday.co.kr/news/articleView.html?idxno=77055" target="_blank">삼성전자, '갤럭시 탭 S10 FE 시리즈' 출시 (2025-04-03 09:32)</a></li>
         <li><a href="https://www.psnews.co.kr/news/articleView.html?idxno=2087641" target="_blank">‘갤럭시 탭 S10 FE’ 시리즈 공개…더 얇고 더 스마트하게 (2025-04-03 09:31)</a></li>
-        <li><a href="http://www.globalepic.co.kr/view.php?ud=202504030916013364d3244b4fed_29" target="_blank">NCT 마크, 애플뮤직과 특별 컬래버레이션…단독 라디오쇼 ‘on your MARK’... (2025-04-03 09:30)</a></li>
         <li><a href="http://www.seoulwire.com/news/articleView.html?idxno=645342" target="_blank">삼성전자, '갤럭시 탭 S10 FE 시리즈' 출시…69만원부터 (2025-04-03 09:26)</a></li>
         <li><a href="https://n.news.naver.com/mnews/article/029/0002945633?sid=105" target="_blank">트럼프 관세 폭탄에 애플, 앤비디아, 테슬라 직격탄 (2025-04-03 09:24)</a></li>
         <li><a href="https://www.theguru.co.kr/news/article.html?no=85403" target="_blank">베트남 빈푹성 부서기, 최주호 삼성 부사장 만나 韓 기업 진출 다리 역... (2025-04-03 09:24)</a></li>
         <li><a href="https://www.epnc.co.kr/news/articleView.html?idxno=314745" target="_blank">삼성전자, '갤럭시 탭 S10 FE 시리즈' 출시 (2025-04-03 09:22)</a></li>
         <li><a href="http://paxetv.com/news/articleView.html?idxno=228122" target="_blank">삼성전자, '갤럭시 탭 S10 FE 시리즈' 출시···AI 인텔리전스 기능을... (2025-04-03 09:22)</a></li>
-        <li><a href="https://swtvnews.com/news/newsview.php?ncode=1065572345135395" target="_blank">NCT 마크, 애플뮤직 라디오쇼 ‘on your MARK’ 론칭...첫 솔로앨범 발매... (2025-04-03 09:22)</a></li>
         <li><a href="https://www.epnc.co.kr/news/articleView.html?idxno=314737" target="_blank">에누리, 애플 제품 더블 적립 이벤트 진행 (2025-04-03 09:20)</a></li>
         <li><a href="https://n.news.naver.com/mnews/article/119/0002940859?sid=101" target="_blank">[美 상호관세 폭탄] 결국…애플·엔비디아·테슬라·나이키 '급락' (2025-04-03 09:20)</a></li>
         <li><a href="https://n.news.naver.com/mnews/article/056/0011924308?sid=104" target="_blank">상호관세 발표 이후 시간외거래에서 애플·엔비디아·테슬라·나이키 급... (2025-04-03 09:19)</a></li>
         <li><a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=333657" target="_blank">삼성전자, '갤럭시 탭 S10 FE 시리즈' 3일 국내 출시 (2025-04-03 09:18)</a></li>
         <li><a href="https://www.viva100.com/article/20250403500274" target="_blank">삼성전자, ‘갤럭시 탭 S10 FE 시리즈’ 출시 (2025-04-03 09:18)</a></li>
         <li><a href="https://n.news.naver.com/mnews/article/003/0013160453?sid=101" target="_blank">中 LCD 패널 점유율 확대…TV 공세도 거세진다 (2025-04-03 09:16)</a></li>
-        <li><a href="https://www.raonnews.com/news/article.html?no=46006" target="_blank">NCT 마크, 애플뮤직 단독 라디오쇼 'on your MARK' 론칭…음악 여정 들려준다 (2025-04-03 09:16)</a></li>
         <li><a href="http://www.hansbiz.co.kr/news/articleView.html?idxno=742156" target="_blank">삼성전자, '갤럭시 탭 S10 FE 시리즈' 출시...판매가 69만원부터 (2025-04-03 09:04)</a></li>
         <li><a href="http://www.newsdream.kr/news/articleView.html?idxno=80815" target="_blank">삼성전자, '갤럭시 탭 S10 FE 시리즈' 3일 국내 출시 (2025-04-03 09:00)</a></li>
         <li><a href="https://www.nextdaily.co.kr/news/articleView.html?idxno=236720" target="_blank">삼성전자, 대화면 '갤럭시 탭 S10 FE 시리즈' 출시 (2025-04-03 09:00)</a></li>
