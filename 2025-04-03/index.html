@@ -5,25 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>디스플레이 산업 국내 기사 대시보드</title>
     <style>
+        /* dashboard_sample.txt의 스타일을 기반으로 수정 */
         body {
             font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;
             line-height: 1.6;
-            color: #333;
-            background-color: #F5F5F5; /* Silver Gray */
+            color: #333; /* Standard text color */
+            background-color: #F5F5F5; /* Light gray background */
             margin: 0;
             padding: 0;
-            font-size: 14px;
+            font-size: 14px; /* Base font size */
         }
         .container {
             max-width: 1200px;
             margin: 20px auto;
             padding: 20px;
-            background-color: #FFFFFF; /* White */
+            background-color: #FFFFFF; /* White container background */
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
         }
         .header {
-            background-color: #0070C0; /* McKinsey Blue */
-            color: #FFFFFF;
+            background-color: #0F2C59; /* Navy Blue */
+            color: #FFFFFF; /* White text */
             padding: 15px 20px;
             margin-bottom: 20px;
             border-radius: 4px;
@@ -31,7 +32,7 @@
         .header h1 {
             margin: 0;
             font-size: 24px;
-            font-weight: 600;
+            font-weight: 600; /* Slightly bolder */
         }
         .header p {
             margin: 5px 0 0;
@@ -40,7 +41,7 @@
         }
         .tabs {
             overflow: hidden;
-            border-bottom: 1px solid #D3D3D3; /* Light Gray */
+            border-bottom: 1px solid #D3D3D3; /* Light Gray border */
             margin-bottom: 20px;
         }
         .tab-button {
@@ -52,24 +53,24 @@
             padding: 12px 18px;
             transition: 0.3s;
             font-size: 15px;
-            font-weight: 500;
-            color: #555;
-            border-bottom: 3px solid transparent;
+            font-weight: 500; /* Medium weight */
+            color: #555; /* Dark gray for inactive tabs */
+            border-bottom: 3px solid transparent; /* For active state indication */
         }
         .tab-button:hover {
-            background-color: #EFEFEF;
+            background-color: #EFEFEF; /* Light gray hover */
             border-bottom: 3px solid #A9A9A9; /* Darker gray underline */
         }
         .tab-button.active {
-            color: #0070C0; /* McKinsey Blue */
-            border-bottom: 3px solid #0070C0; /* McKinsey Blue */
+            color: #0F2C59; /* Navy Blue for active tab */
+            border-bottom: 3px solid #0F2C59; /* Blue underline for active */
             font-weight: 600;
         }
         .tab-content {
             display: none;
             padding: 15px 5px;
             border-top: none;
-            animation: fadeEffect 0.5s;
+            animation: fadeEffect 0.5s; /* Simple fade-in */
         }
         @keyframes fadeEffect {
             from {opacity: 0;}
@@ -79,32 +80,32 @@
             display: flex;
             flex-wrap: wrap;
             gap: 15px;
-            margin-bottom: 25px;
+            margin-bottom: 20px;
         }
         .kpi-card {
-            background-color: #F5F5F5; /* Silver Gray */
+            background-color: #F5F5F5; /* Silver Gray card background */
             padding: 15px;
             border-radius: 4px;
-            flex: 1;
-            min-width: 180px;
+            flex: 1; /* Distribute space */
+            min-width: 180px; /* Minimum width */
             text-align: center;
-            border-left: 4px solid #0070C0; /* McKinsey Blue accent */
+            border-left: 4px solid #0F2C59; /* Navy Blue accent line */
         }
         .kpi-card h3 {
             margin: 0 0 8px 0;
-            font-size: 15px; /* Slightly smaller */
-            color: #333; /* Darker text */
+            font-size: 15px; /* Slightly smaller as per sample */
+            color: #0F2C59; /* Blue heading */
             font-weight: 600;
         }
         .kpi-card p {
             margin: 0;
-            font-size: 18px;
+            font-size: 18px; /* Larger font for value */
             font-weight: bold;
-            color: #0070C0; /* McKinsey Blue */
+            color: #333; /* Dark text for value */
         }
-         h2 {
-            color: #0070C0; /* McKinsey Blue */
-            border-bottom: 2px solid #EFEFEF;
+        h2 {
+            color: #0F2C59; /* Navy Blue section titles */
+            border-bottom: 2px solid #EFEFEF; /* Light gray underline */
             padding-bottom: 8px;
             margin-top: 25px;
             margin-bottom: 15px;
@@ -112,137 +113,140 @@
             font-weight: 600;
         }
         ul {
-            list-style-type: none;
+            list-style-type: none; /* Remove default bullets */
             padding-left: 0;
         }
         li {
-            margin-bottom: 12px; /* Increased spacing */
-            padding-left: 18px; /* Increased indent */
+            margin-bottom: 10px;
+            padding-left: 15px; /* Indent for custom bullet */
             position: relative;
-            font-size: 14px; /* Ensure consistent font size */
+            font-size: 14px;
         }
         li::before {
-            content: '•'; /* Standard bullet point */
+            content: '■'; /* Square bullet as per sample */
             position: absolute;
             left: 0;
-            color: #0070C0; /* McKinsey Blue */
-            font-size: 14px; /* Match font size */
-            top: 1px; /* Fine-tune vertical alignment */
+            color: #0F2C59; /* Navy Blue bullet */
+            font-size: 10px; /* Small square */
+            top: 6px; /* Align bullet vertically */
         }
         .section {
             margin-bottom: 25px;
             padding: 15px;
             background-color: #FFFFFF;
-            border: 1px solid #E0E0E0; /* Slightly darker border */
+            border: 1px solid #EFEFEF; /* Light border for section */
             border-radius: 4px;
         }
         .section h3 {
             margin-top: 0;
             margin-bottom: 10px;
             font-size: 16px;
-            color: #333; /* Darker heading */
+            color: #0F2C59; /* Blue sub-heading */
             font-weight: 600;
         }
+        /* Using the keyword style from the sample */
         .keyword {
-            font-weight: 600;
-            color: #005A9C; /* Darker Blue for emphasis */
-            background-color: #E8F4FD; /* Light blue highlight */
-            padding: 1px 3px;
-            border-radius: 3px;
+            font-weight: 600; /* Slightly bolder */
+             color: #1a3a6a; /* Slightly darker blue for emphasis */
+             /* Removed background color for cleaner look, as in some McKinsey styles */
         }
          .roadmap {
             margin-top: 30px;
-            border-top: 1px solid #D3D3D3;
+            border-top: 1px solid #D3D3D3; /* Separator line */
             padding-top: 20px;
-        }
+         }
         .roadmap h2 {
             margin-bottom: 20px;
         }
         .roadmap-item {
             margin-bottom: 15px;
-            padding-left: 25px; /* Increased indent */
+            padding-left: 25px; /* Indent for timeline */
             position: relative;
-            border-left: 2px solid #0070C0; /* McKinsey Blue */
+            border-left: 2px solid #0F2C59; /* Blue timeline */
             padding-bottom: 10px;
+            padding-top: 5px; /* Spacing */
         }
          .roadmap-item::before {
             content: '';
             position: absolute;
-            left: -9px; /* Adjust based on line thickness */
-            top: 5px;
-            width: 16px; /* Slightly larger */
-            height: 16px;
-            background-color: #0070C0; /* McKinsey Blue */
+            left: -8px; /* Position circle on the line */
+            top: 10px; /* Align circle */
+            width: 14px;
+            height: 14px;
+            background-color: #0F2C59; /* Blue circle */
             border-radius: 50%;
-            border: 3px solid #FFFFFF; /* White border for separation */
+            border: 2px solid #FFFFFF; /* White border for contrast */
         }
         .roadmap-item strong {
             display: block;
-            color: #0070C0; /* McKinsey Blue */
+            color: #0F2C59; /* Blue date/title */
             font-weight: 600;
-            margin-bottom: 4px;
-            font-size: 15px; /* Slightly larger */
+            margin-bottom: 3px;
+            font-size: 15px;
         }
-         .roadmap-item span { /* Style for the description */
+         .roadmap-item span {
              font-size: 14px;
              color: #333;
          }
         .references {
             margin-top: 30px;
-            border-top: 1px solid #D3D3D3;
+            border-top: 1px solid #D3D3D3; /* Separator line */
             padding-top: 20px;
         }
         .references h2 {
              margin-bottom: 15px;
         }
         .references ul {
-            list-style-type: none; /* Remove default numbering */
-            padding-left: 0;
-            font-size: 13px;
+            list-style-type: none; /* Remove default bullets/numbers */
+            padding-left: 0; /* No indent */
+            font-size: 13px; /* Smaller font for links */
             max-height: 300px; /* Limit height and add scroll */
              overflow-y: auto;
-            border: 1px solid #E0E0E0;
+            border: 1px solid #EFEFEF; /* Light border around list */
              padding: 15px;
-             background-color: #F8F8F8; /* Very light gray background */
+             background-color: #FAFAFA; /* Very light gray background for list */
              border-radius: 4px;
         }
         .references li {
             margin-bottom: 8px;
-            padding-left: 0; /* Reset padding */
-            line-height: 1.5;
+            padding-left: 0; /* Align left */
         }
          .references li::before {
-            content: ''; /* Remove bullet */
+            content: ''; /* Ensure no bullet */
         }
         .references a {
-            color: #005A9C; /* Darker Link color */
-            text-decoration: none;
+            color: #005A9C; /* Standard link blue */
+            text-decoration: none; /* No underline by default */
+            display: block; /* Ensure link takes full width */
+            word-break: break-all; /* Break long URLs */
         }
         .references a:hover {
-            text-decoration: underline;
+            text-decoration: underline; /* Underline on hover */
         }
         .footer {
             text-align: right;
             margin-top: 30px;
             font-size: 12px;
-            color: #666;
-            border-top: 1px solid #D3D3D3;
+            color: #666; /* Gray footer text */
+            border-top: 1px solid #D3D3D3; /* Separator line */
             padding-top: 15px;
         }
-        /* Responsive adjustments */
+        /* Responsive adjustments from sample */
         @media (max-width: 768px) {
             body { font-size: 13px; }
             .header h1 { font-size: 20px; }
             .header p { font-size: 13px; }
             .tab-button { padding: 10px 12px; font-size: 14px; }
             .kpi-container { flex-direction: column; }
-            .kpi-card { min-width: 100%; }
+            .kpi-card { min-width: 100%; box-sizing: border-box; } /* Ensure padding is included */
             h2 { font-size: 17px; }
             .section h3 { font-size: 15px; }
-            .references ul { font-size: 12px; max-height: 250px; }
             li { font-size: 13px; }
-             .roadmap-item strong { font-size: 14px; }
-             .roadmap-item span { font-size: 13px; }
+            .roadmap-item { padding-left: 20px; }
+            .roadmap-item::before { left: -7px; top: 8px; width: 12px; height: 12px;}
+            .roadmap-item strong { font-size: 14px; }
+            .roadmap-item span { font-size: 13px; }
+            .references ul { font-size: 12px; max-height: 250px; }
         }
     </style>
 </head>
@@ -255,154 +259,150 @@
     </div>
 
     <div class="tabs">
-        <button class="tab-button active" onclick="openTab(event, 'Apple_Trends')">Apple 동향</button>
-        <button class="tab-button" onclick="openTab(event, 'Display_TechMarket')">디스플레이 기술/시장</button>
-        <button class="tab-button" onclick="openTab(event, 'SCM_Competition')">공급망 및 경쟁 환경</button>
-        <button class="tab-button" onclick="openTab(event, 'Roadmap')">주요 일정 로드맵</button>
+        <button class="tab-button active" onclick="openTab(event, 'Summary_KPI')">요약 및 주요 지표</button>
+        <button class="tab-button" onclick="openTab(event, 'Apple_News')">Apple 동향 (AI, HW, SCM)</button>
+        <button class="tab-button" onclick="openTab(event, 'Display_Industry')">디스플레이 산업</button>
+        <button class="tab-button" onclick="openTab(event, 'Competition_Tech')">경쟁 및 기술 이슈</button>
     </div>
 
-    <div id="Apple_Trends" class="tab-content" style="display: block;">
-        <h2>Apple 관련 주요 동향 및 이슈</h2>
-
+    <div id="Summary_KPI" class="tab-content" style="display: block;">
+        <h2>요약 및 주요 지표</h2>
         <div class="kpi-container">
             <div class="kpi-card">
-                <h3>AI 한국어 지원</h3>
+                <h3>Apple AI 한국어 지원</h3>
                 <p>서비스 시작</p>
             </div>
             <div class="kpi-card">
-                <h3>'나의 찾기' 국내</h3>
-                <p>15년 만에 서비스</p>
-            </div>
-             <div class="kpi-card">
-                <h3>시간 외 주가 (4/2)</h3>
-                <p>약 6% 급락</p>
-            </div>
-             <div class="kpi-card">
-                <h3>폴더블 아이폰</h3>
-                <p>2026년 출시 전망</p>
-            </div>
-        </div>
-
-        <div class="section">
-            <h3>Apple Intelligence 및 소프트웨어</h3>
-            <ul>
-                <li>4월 1일부터 <span class="keyword">Apple Intelligence</span> 한국어 등 8개 언어 지원 시작 (iOS 18.4). 글쓰기 도구, 스마트 답장, 시각 지능 등 기능 제공.</li>
-                <li><span class="keyword">Siri</span> 기능 개선 및 <span class="keyword">챗GPT 통합</span>으로 사용자 편의성 증대. 온디바이스 처리 및 비공개 클라우드 컴퓨팅으로 개인정보 보호 강조.</li>
-                <li>핵심 기능인 <span class="keyword">'시리 개인화' 업그레이드</span>는 2026년으로 <span class="keyword">연기</span>. '반쪽짜리 AI' 비판 및 허위 광고 논란 (국내외 소송/조사 요청).</li>
-                <li><span class="keyword">'나의 찾기'</span> 기능 국내 정식 서비스 시작 (15년만). 기기/물품 위치 추적, 가족/친구 위치 공유 등 지원.</li>
-            </ul>
-        </div>
-
-        <div class="section">
-            <h3>하드웨어 및 신제품 전망</h3>
-            <ul>
-                <li><span class="keyword">폴더블 아이폰</span>: 2026년 출시 전망. 삼성 폴더블 기술력 활용 가능성. 북 타입, 7.8인치 내부/5.5인치 외부 디스플레이 예상. 초슬림/경량화 기술 적용 가능성.</li>
-                <li><span class="keyword">아이폰 17 시리즈 (2026년 예상)</span>: '에어' 또는 '울트라' 모델 추가 가능성. '에어'는 초슬림 디자인, '울트라'는 초고가 폴더블폰 시장 반응 테스트 목적 가능성.</li>
-                 <li><span class="keyword">아이폰 16 시리즈</span>: 미완성 AI 기능으로 판매 부진 가능성 제기, 특히 중국 시장 내 '애국소비' 영향.</li>
-            </ul>
-        </div>
-
-         <div class="section">
-            <h3>경제 및 법적 이슈</h3>
-            <ul>
-                <li><span class="keyword">트럼프 관세 영향</span>: 모든 교역국 대상 상호관세 발표 후 시간 외 거래에서 주가 <span class="keyword">6% 급락</span> (4/2). 중국(34%), 베트남(46%), 인도(26%) 등 주요 생산 거점 관세 부과 발표. 수익성 타격 우려.</li>
-                <li><span class="keyword">노동 소송 연기</span>: 미국 노동관계위원회(NLRB)의 애플 상대 노동법 위반 소송 2건이 무기한 연기됨. 트럼프 대통령의 애플 측 변호사 NLRB 고위직 임명 직후 결정되어 논란.</li>
-                 <li><span class="keyword">결제 네트워크 경쟁</span>: 비자(1억 달러 제안), 아메리칸 익스프레스가 마스터카드가 보유한 <span class="keyword">애플카드 결제 네트워크</span> 사업권 확보 경쟁 중. 골드만삭스를 대체할 카드 발행사(JP모간, 싱크로니 등) 경쟁도 병행.</li>
-            </ul>
-        </div>
-    </div>
-
-    <div id="Display_TechMarket" class="tab-content">
-        <h2>디스플레이 기술 및 시장 동향</h2>
-
-         <div class="kpi-container">
-            <div class="kpi-card">
-                <h3>LGD 광저우 LCD 공장</h3>
-                <p>CSOT 매각 완료</p>
-            </div>
-            <div class="kpi-card">
-                <h3>OLED 모니터 패널 출하량</h3>
-                <p>18배+ 성장 전망 (22년 대비)</p>
-            </div>
-            <div class="kpi-card">
                 <h3>폴더블폰 시장 (2025년)</h3>
-                <p>역성장 예측 (-4%)</p>
+                <p>역성장(-4%) 예측</p>
+            </div>
+            <div class="kpi-card">
+                <h3>CSOT 대형 LCD 점유율</h3>
+                <p>22.9% 예상 (LGD 공장 인수 후)</p>
             </div>
              <div class="kpi-card">
-                <h3>삼성D 중소형 OLED 점유율</h3>
-                <p>하락 추세 (24년 41.3%)</p>
+                <h3>Apple 시간 외 주가 (4/2)</h3>
+                <p>약 6% 급락 (관세 영향)</p>
             </div>
         </div>
 
         <div class="section">
-            <h3>OLED 기술 경쟁 및 적용 확대</h3>
+            <h3>주요 동향 요약</h3>
             <ul>
-                <li><span class="keyword">모니터 시장 OLED 전환</span>: GPU 성능 향상으로 고해상도/고주사율/빠른 응답속도 OLED 모니터 수요 증가. 2022년 16만대 → 2025년 <span class="keyword">301만대</span> 출하 전망 (옴디아).</li>
-                <li><span class="keyword">삼성디스플레이</span>: <span class="keyword">QD-OLED</span>로 프리미엄 모니터 시장 공략 (색재현율/밝기 우수). 27인치 UHD(160PPI), 500Hz 주사율 제품 출시/예정. IT OLED 라인 투자 확대 (애플 등 협력 강화). 모니터용 OLED 시장 점유율 71.2%.</li>
-                <li><span class="keyword">LG디스플레이</span>: <span class="keyword">IT용 OLED</span> 개발 집중 (번인 방지, 효율 개선). 5K2K 45인치 게이밍 OLED 패널 양산, 480Hz 27인치 모니터 개발. 고객사 10여곳 확보.</li>
-                 <li><span class="keyword">중국 업체 추격</span>: TCL, EDO 등 OLED 모니터 패널 생산 시작. 가격 경쟁력 기반 점유율 확대 시도.</li>
-                 <li><span class="keyword">신기술</span>: 국내 연구진, 압전 고분자 액추에이터 필름 부착 <span class="keyword">형태 변형 및 스피커 기능 OLED</span> 개발.</li>
+                <li><span class="keyword">Apple</span>, <span class="keyword">AI 기능</span> 한국어 지원 및 '나의 찾기' 서비스 국내 개시 등 사용자 경험 강화. 단, 핵심 AI(<span class="keyword">시리 개인화</span>) 기능 지연 및 트럼프 <span class="keyword">상호관세</span> 발표로 인한 주가 급락 등 외부 변수 직면. 2026년 폴더블폰 출시 전망은 유효.</li>
+                <li><span class="keyword">중국 디스플레이</span> 업체, LCD 시장 지배력 강화 (<span class="keyword">CSOT</span>의 LGD 광저우 공장 인수 완료). OLED 모니터 시장 공세 본격화 및 TV 기술(미니LED) 추격 가속.</li>
+                <li><span class="keyword">국내 디스플레이</span> (삼성D/LGD)는 LCD 철수 후 <span class="keyword">OLED 기술 초격차</span> 유지 전략(QD-OLED, IT용 OLED). 모니터 시장에서 중국과 경쟁 심화 예상. 삼성D는 BOE 상대 <span class="keyword">무역 비밀 침해 소송</span> 제기.</li>
+                <li><span class="keyword">폴더블폰</span> 시장은 일시적 성장 둔화 예상되나, 2026년 애플 진입 시 반등 기대. 삼성은 <span class="keyword">트리폴드폰</span> 출시 가능성 제기.</li>
+                <li><span class="keyword">공급망 이슈:</span> 국내 부품사(해성옵틱스, 세경하이테크 등)는 주요 고객사(삼성/애플 등) 플래그십 모델 공급 지속 및 차세대 기술(폴디드줌, FoD) 대응. 삼성은 2nm 공정 선점 기대.</li>
             </ul>
         </div>
+         <div class="section">
+            <h3>주목할 만한 기술/제품</h3>
+             <ul>
+                <li><span class="keyword">Apple Intelligence:</span> 글쓰기 도구, 시각 지능, 챗GPT 통합 (한국어 지원 시작)</li>
+                <li><span class="keyword">삼성/LG OLED 기술:</span> QD-OLED(고휘도/색재현율), IT용 OLED(번인 개선), 고주사율(500Hz)/고해상도(5K2K) 패널</li>
+                <li><span class="keyword">폴더블/롤러블:</span> 삼성 G 폴드(트리폴드), 애플 폴더블(2026년 전망), 폼팩터 혁신 지속</li>
+                <li><span class="keyword">카메라 기술:</span> 2억 화소 OIS 모듈, 폴디드줌, FoD(초음파 지문 센서)</li>
+                <li><span class="keyword">차세대 공정:</span> 삼성 2nm GAA (2026년 엑시노스 적용 전망)</li>
+                 <li><span class="keyword">DB글로벌칩 TED:</span> 휴대폰용 OLED 통합 구동칩</li>
+             </ul>
+        </div>
+    </div>
 
-        <div class="section">
-            <h3>시장 구조 변화 및 주요 기업 동향</h3>
+    <div id="Apple_News" class="tab-content">
+        <h2>Apple 동향 (AI, HW, SCM)</h2>
+         <div class="section">
+            <h3>AI 및 소프트웨어</h3>
             <ul>
-                <li><span class="keyword">LCD 시장 재편</span>: LG디스플레이, 광저우 8.5세대 LCD 공장(패널/모듈)을 중국 <span class="keyword">CSOT</span>에 매각 완료 (약 2조원+). LGD는 LCD TV 패널 사업 완전 철수, OLED 집중. CSOT는 대형 LCD 점유율 확대 (19.3% → 22.9%).</li>
-                <li><span class="keyword">폴더블 시장 성장 둔화</span>: 2025년 첫 <span class="keyword">역성장(-4%)</span> 전망 (카운터포인트). 기술 혁신 둔화, 교체 주기 장기화, 높은 가격 등이 원인. 2026년 애플 진입 시 반등 기대.</li>
-                <li><span class="keyword">삼성디스플레이 실적</span>: 중소형 OLED 수요 부진 및 경쟁 심화로 2024년 영업이익 감소 (3.7조, -33%). 2025년 추가 감소 전망 (3조 초반). 스마트폰 패널 점유율 하락 (22년 56.7% → 24년 41.3%). <span class="keyword">2026년 반등 기대</span> (애플 LTPO/폴더블 공급, IT OLED 확대).</li>
-                <li><span class="keyword">DB글로벌칩</span>: 휴대폰용 <span class="keyword">OLED 구동칩(TED) 양산</span> 시작, 삼성디스플레이 통해 갤럭시 A26 적용. 모바일 시장 포트폴리오 확장.</li>
-                 <li><span class="keyword">삼성전자 트리폴드폰</span>: 'G 폴드' (코드명 Q7M) 모델명(SM-F968N/0) GSMA DB 등록 확인. 한국/중국 출시 가능성 (과거 폴드 SE 패턴). 10월 출시 가능성. 가격은 400만원대 예상.</li>
+                <li><span class="keyword">Apple Intelligence 한국어 지원:</span> 4월 1일부터 iOS 18.4 등 통해 한국어 포함 8개 언어 지원 시작. 기능: 글쓰기 도구(교정/재작성/요약), 스마트 답장, 시각 지능, 우선순위 알림, 시리 개선(맥락 이해, 챗GPT 통합).</li>
+                <li><span class="keyword">AI 기능 지연 및 비판:</span> 핵심 기능 '<span class="keyword">시리 개인화</span>' 업그레이드는 내년으로 연기. '반쪽짜리 AI' 비판 및 허위 광고 논란 (국내외 소송/조사 요청). 미완성 기능, 명령어 인식 오류 등 사용자 불만 제기.</li>
+                <li><span class="keyword">'나의 찾기' 국내 서비스:</span> 출시 15년 만에 한국 정식 지원. 기기/물품 위치 추적(에어태그), 가족/친구 위치 공유, 안전 확인 기능 등 제공.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>하드웨어 및 차세대 제품</h3>
+            <ul>
+                <li><span class="keyword">폴더블 아이폰:</span> 2026년 출시 전망, 삼성디스플레이 독점 공급 가능성. 북 타입, 7.8인치 내부/5.5인치 외부 디스플레이 등 예상. 가격은 최소 340만원 이상 예상.</li>
+                 <li><span class="keyword">아이폰 17 시리즈 (2026년):</span> 초슬림 '에어' 모델 가능성. A19 CPU(3nm 공정 유지 전망) 탑재 예상.</li>
+                 <li><span class="keyword">스마트 안경:</span> 레이밴 협업 '하이퍼노바' 연내 출시 계획 (내장 디스플레이, 약 200만원대).</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>공급망(SCM) 및 경제/법적 이슈</h3>
+            <ul>
+                <li><span class="keyword">트럼프 상호관세 영향:</span> 모든 교역국 대상 상호관세(중국 34%, 베트남 46%, 인도 26% 등) 발표 후 시간 외 주가 <span class="keyword">6% 급락</span> (4/2). 생산 비용 증가 및 수익성 타격 우려. 주요 기술주 동반 하락.</li>
+                 <li><span class="keyword">공급망 경쟁 심화:</span> 삼성디스플레이의 아이폰 패널 점유율 하락 추세 (22년 72% → 24년 56%). LG디스플레이 LTPO 공급 확대. 중국 BOE 추격 지속.</li>
+                <li><span class="keyword">노동 소송 연기:</span> NLRB의 애플 상대 노동법 위반 소송 2건 무기한 연기. 트럼프의 애플 측 변호사 NLRB 고위직 임명 관련 논란.</li>
+                <li><span class="keyword">애플카드 결제망 경쟁:</span> 비자(1억 달러 제안)/AXP가 마스터카드에 도전. 골드만삭스 대체할 카드 발행사 경쟁도 진행 중 (JP모간, 싱크로니 등).</li>
+                 <li><span class="keyword">틱톡 인수전 참여?:</span> 아마존, 애플로빈 등이 틱톡 미국 사업 인수 검토 보도 (NYT, WSJ).</li>
             </ul>
         </div>
     </div>
 
-     <div id="SCM_Competition" class="tab-content">
-        <h2>공급망(SCM) 및 경쟁 환경</h2>
-
-         <div class="kpi-container">
-            <div class="kpi-card">
-                <h3>中 LCD 점유율 (3사 합산)</h3>
-                <p>66% (면적 기준)</p>
-            </div>
-             <div class="kpi-card">
-                <h3>삼성전자 vs 애플 (2nm 공정)</h3>
-                <p>삼성이 약 6개월 선행 전망</p>
-            </div>
-             <div class="kpi-card">
-                <h3>삼성 vs BOE</h3>
-                <p>OLED 특허/영업비밀 소송 중</p>
-            </div>
-            <div class="kpi-card">
-                <h3>하이센스 116형 미니 LED TV</h3>
-                <p>공격적 가격 책정 (약 2천만원)</p>
-            </div>
-        </div>
-
-        <div class="section">
-            <h3>주요 기업 경쟁 구도</h3>
-            <ul>
-                <li><span class="keyword">중국 LCD 공세</span>: BOE, CSOT, HKC 등 중국 3대 LCD 업체 점유율 66%로 확대. CSOT는 LGD 광저우 공장 인수로 점유율 22.9% 달성. 중국 TV 브랜드(TCL, 하이센스 등) 성장 발판 마련. 삼성/LG는 중국산 LCD 의존도 증가로 원가 부담 상승.</li>
-                 <li><span class="keyword">미니 LED vs OLED</span>: 중국 하이센스, 116형 RGB 미니 LED TV 출시 (공격적 가격). 삼성/LG 주력 OLED TV 시장 잠식 우려. 미니 LED TV 출하량은 이미 OLED 추월.</li>
-                <li><span class="keyword">삼성전자 vs 애플 (AP 경쟁)</span>: 삼성, 내년 갤럭시S26에 <span class="keyword">2nm 공정 엑시노스 2600</span> 탑재 전망 (애플 아이폰18보다 반년 선행 가능성). 성능 우위 확보 및 마케팅 효과 기대.</li>
-                <li><span class="keyword">삼성디스플레이 vs BOE</span>: 삼성디스플레이, BOE 및 계열사 8곳 상대 <span class="keyword">무역 비밀 침해 소송</span> 제기 (美 텍사스 법원). 산업 스파이, 전 직원 영입 통한 OLED 기술 탈취 주장. 기존 특허 소송 연장선.</li>
-                 <li><span class="keyword">폴더블폰 경쟁</span>: 삼성 점유율 하락 속 샤오미, 모토로라 등 추격. 삼성은 <span class="keyword">트리폴드폰(G 폴드)</span> 출시 준비 중.</li>
+    <div id="Display_Industry" class="tab-content">
+        <h2>디스플레이 산업</h2>
+         <div class="section">
+            <h3>시장 동향 및 전망</h3>
+             <ul>
+                 <li><span class="keyword">OLED 전환 가속:</span> GPU 성능 향상 및 가격 하락으로 <span class="keyword">OLED 모니터</span> 수요 급증 (22년 16만대 → 25년 301만대 전망). IT 기기 전반으로 OLED 채택 확대.</li>
+                 <li><span class="keyword">폴더블 시장 조정:</span> 2025년 첫 <span class="keyword">역성장(-4%)</span> 전망 (카운터포인트). 기술 혁신 둔화 및 높은 가격 영향. 2026년 애플 진입 시 반등 기대.</li>
+                 <li><span class="keyword">LCD 시장 재편 완료:</span> <span class="keyword">LG디스플레이</span>, 광저우 8.5세대 LCD 공장 <span class="keyword">CSOT</span> 매각 완료 (약 2조원+). LGD는 OLED 집중, CSOT는 LCD 생산능력 및 점유율 확대 (22.9%).</li>
             </ul>
         </div>
-
         <div class="section">
-            <h3>부품 공급망(SCM) 동향</h3>
+            <h3>주요 기업 동향 (한국)</h3>
             <ul>
-                <li><span class="keyword">Apple 공급망 리스크</span>: 중국 업체들의 기술 추격 및 공급망 진입 확대 (디스플레이: BOE, 카메라: 중국 업체 일부). LG디스플레이, LG이노텍 등 국내 부품사 경쟁 심화 및 수익성 영향.</li>
-                <li><span class="keyword">카메라 모듈</span>: <span class="keyword">해성옵틱스</span>, 갤럭시 S25/S26 플래그십 모델에 2억 화소 OIS 액추에이터 공급 및 준비 중. 타 글로벌 제조사 대상 폴디드줌 모듈 신규 공급 추진. 삼성, 샤오미, 구글 등 다수 브랜드에 공급.</li>
-                <li><span class="keyword">폴더블 부품</span>: <span class="keyword">세경하이테크</span>, 데코 필름(중국향 감소), 보호필름(하반기 다변화 모델 증가 기대), FoD 모듈(갤럭시 S26 울트라 양산 주목). 북미 폴더블향 특수보호필름(PL) 공급 가능성 및 중국 UTG 합작법인 매출 기대.</li>
-                 <li><span class="keyword">파운드리 경쟁</span>: <span class="keyword">TSMC</span> (2nm 2025년 하반기) vs <span class="keyword">삼성전자</span> (2nm 엑시노스 2600 내년 초 전망) 기술 경쟁 심화.</li>
-                 <li><span class="keyword">애플 디스플레이 공급</span>: 아이폰 LTPO OLED는 삼성/LG 공급 유지 (BOE는 기술력 부족). 삼성D 아이폰 패널 점유율 하락 (22년 72% → 24년 56%).</li>
+                <li><span class="keyword">삼성디스플레이:</span> <span class="keyword">QD-OLED</span> 기술로 프리미엄 모니터 시장 선도 (점유율 71.2%). 27인치 UHD, 500Hz 등 고성능 패널 출시/예정. <span class="keyword">BOE 상대 무역 비밀 침해 소송</span> 제기. IT OLED 투자 확대 및 애플 협력 강화. 폴더블 기술력 기반 애플 폴더블 공급 유력. 실적은 경쟁 심화로 단기 부진, 2026년 반등 기대.</li>
+                <li><span class="keyword">LG디스플레이:</span> 광저우 LCD 매각 자금으로 <span class="keyword">OLED 사업 고도화</span> 및 재무 개선 집중. IT용 OLED(5K2K 게이밍 패널 등) 기술 개발 및 고객사 확대. 애플 LTPO OLED 공급 확대.</li>
+                <li><span class="keyword">DB글로벌칩:</span> 휴대폰용 <span class="keyword">OLED 구동칩(TED) 양산</span> 시작, 삼성디스플레이 통해 갤럭시 A26 공급. 모바일 시장 포트폴리오 확장 및 실적 개선 기대.</li>
+                 <li><span class="keyword">해성옵틱스:</span> 갤럭시 S25/S26에 2억 화소 <span class="keyword">OIS 액추에이터</span> 공급 및 준비. 타 글로벌 제조사 대상 <span class="keyword">폴디드줌</span> 모듈 신규 공급 추진.</li>
+                 <li><span class="keyword">세경하이테크:</span> 폴더블폰용 <span class="keyword">보호필름</span>, <span class="keyword">FoD 모듈</span>(S26 울트라 주목) 등 공급. 북미 폴더블향 PL 공급 및 중국 UTG 합작법인 매출 기대.</li>
+            </ul>
+        </div>
+         <div class="section">
+            <h3>주요 기업 동향 (중국)</h3>
+            <ul>
+                 <li><span class="keyword">CSOT (TCL):</span> LGD 광저우 LCD 공장 인수 완료(<span class="keyword">T11</span>). 대형 LCD 점유율 22.9%로 확대. 현지 TV 브랜드(TCL, 하이센스 등) 경쟁력 강화 지원.</li>
+                 <li><span class="keyword">BOE:</span> 삼성디스플레이로부터 <span class="keyword">무역 비밀 침해 소송</span> 피소. 아이폰 LTPS OLED 공급, LTPO 기술 추격. IT용 OLED 투자 활발.</li>
+                 <li><span class="keyword">하이센스:</span> 116형 RGB <span class="keyword">미니 LED TV</span> 출시, 공격적 가격 정책(약 2천만원)으로 시장 선점 시도. OLED TV 시장 위협 가능성.</li>
             </ul>
         </div>
     </div>
 
-     <div id="Roadmap" class="tab-content">
+    <div id="Competition_Tech" class="tab-content">
+        <h2>경쟁 및 기술 이슈</h2>
+         <div class="section">
+            <h3>시장 경쟁 구도</h3>
+            <ul>
+                <li><span class="keyword">한-중 디스플레이 경쟁:</span> LCD는 중국 우위 공고화, OLED는 한국 선도 속 중국 추격 가속. 특히 <span class="keyword">OLED 모니터</span> 시장에서 경쟁 본격화 전망. 삼성D-BOE 간 소송전 격화.</li>
+                 <li><span class="keyword">삼성 vs 애플 AP 경쟁:</span> 삼성이 내년 <span class="keyword">2nm 공정 엑시노스</span>(S26)로 애플(3nm A19)보다 반년 앞설 가능성 제기. 성능 격차 축소 및 마케팅 우위 기대.</li>
+                <li><span class="keyword">프리미엄 TV 경쟁:</span> 중국(하이센스)의 <span class="keyword">RGB 미니 LED TV</span> 공세. 한국(삼성/LG) 주력 <span class="keyword">OLED TV</span> 시장 잠식 우려.</li>
+                 <li><span class="keyword">폴더블폰 경쟁:</span> 삼성 주도 속 샤오미, 모토로라 등 추격. 2026년 애플 참전 시 경쟁 구도 재편 예상.</li>
+            </ul>
+        </div>
+         <div class="section">
+            <h3>주요 기술 트렌드 및 이슈</h3>
+            <ul>
+                 <li><span class="keyword">OLED 기술 고도화:</span> QD-OLED (삼성D), IT용 OLED 번인 개선 (LGD), 초고해상도/고주사율 구현.</li>
+                 <li><span class="keyword">미니 LED 기술 발전:</span> RGB 백라이트 적용으로 색재현율/명암비 향상 (하이센스).</li>
+                 <li><span class="keyword">폴더블/폼팩터 혁신:</span> 트리폴드(삼성 G 폴드), 초슬림 디자인(갤럭시 S25 엣지, 아이폰 17 에어), 플렉서블 디스플레이 응용 확대 (압전 고분자 활용).</li>
+                 <li><span class="keyword">카메라 모듈:</span> 고화소 OIS, 폴디드줌, FoD 등 플래그십 스마트폰 핵심 기능으로 부상.</li>
+                 <li><span class="keyword">파운드리 공정:</span> 2nm 이하 미세 공정 경쟁 심화 (삼성 GAA vs TSMC FinFET).</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>공급망(SCM) 및 기업 전략 이슈</h3>
+             <ul>
+                 <li><span class="keyword">국내 기업 LCD 의존도 리스크:</span> 삼성/LG, 중국산 LCD 패널 매입액 증가로 원가 부담 상승.</li>
+                 <li><span class="keyword">Apple 공급망 내 경쟁:</span> 디스플레이(삼성D vs LGD vs BOE), 카메라모듈(LG이노텍 vs 중국 업체) 등 경쟁 심화.</li>
+                 <li><span class="keyword">LGD 사업 구조 재편:</span> LCD 매각 완료 후 OLED 중심 사업구조 고도화 및 수익성 개선 집중.</li>
+                 <li><span class="keyword">삼성 파운드리 전략:</span> 2nm 공정 선점 통한 기술 리더십 확보 및 고객사 확대 노력.</li>
+                 <li><span class="keyword">부품사 성장 전략:</span> 해성옵틱스(고객 다변화, 폴디드줌 신규 공급), 세경하이테크(제품 다변화, 북미 고객사 진출 기대).</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="roadmap">
         <h2>주요 일정 로드맵 (예상 포함)</h2>
         <div class="roadmap-item">
             <strong>2025년 4월</strong>
@@ -422,7 +422,8 @@
          </div>
          <div class="roadmap-item">
             <strong>2025년 연말 (예상)</strong>
-             <span>세경하이테크-SEED 합작법인(UTG) 매출 기여 시작</span>
+             <span>세경하이테크-SEED 합작법인(UTG) 매출 기여 시작</span><br>
+             <span>메타, 스마트 안경 '하이퍼노바' 출시?</span>
          </div>
          <div class="roadmap-item">
             <strong>2026년 초 (예상)</strong>
@@ -433,7 +434,8 @@
              <span>Apple, 폴더블 아이폰 출시 전망</span><br>
              <span>Apple, 아이폰 17 시리즈 (에어/울트라 모델?) 출시 전망</span><br>
              <span>폴더블 스마트폰 시장 반등 기대 (애플 진입 효과)</span><br>
-             <span>삼성디스플레이 실적 반등 기대</span>
+             <span>삼성디스플레이 실적 반등 기대</span><br>
+             <span>Apple, 시리 개인화 기능 업데이트?</span>
         </div>
         <div class="roadmap-item">
             <strong>2027년 (예상)</strong>
