@@ -1,0 +1,675 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>디스플레이 산업 국내 기사 대시보드</title>
+    <style>
+        body {
+            font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #F5F5F5;
+            margin: 0;
+            padding: 0;
+            font-size: 14px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #FFFFFF;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            position: relative; /* Needed for absolute positioning of the link */
+        }
+        .header {
+            background-color: #0F2C59; /* Deep Blue */
+            color: #FFFFFF;
+            padding: 15px 20px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+            position: relative; /* To contain the absolute positioned link */
+             min-height: 60px; /* Ensure space for title and date */
+             display: flex;
+             flex-direction: column;
+             justify-content: center;
+        }
+        .header h1 {
+            margin: 0 0 5px 0; /* Add bottom margin */
+            font-size: 24px;
+            font-weight: 600;
+            padding-right: 100px; /* Ensure title doesn't overlap with link */
+            line-height: 1.2;
+        }
+        .header p {
+            margin: 0;
+            font-size: 14px;
+            word-break: keep-all; /* Prevent awkward breaks in date */
+            white-space: normal; /* Allow wrapping if needed */
+            line-height: 1.3;
+        }
+        .header-link {
+             position: absolute;
+             top: 50%; /* Center vertically */
+             right: 20px;
+             transform: translateY(-50%); /* Precise vertical centering */
+             color: white;
+             text-decoration: none;
+             font-size: 14px;
+             background-color: rgba(255, 255, 255, 0.1); /* Optional background */
+             padding: 5px 10px;
+             border-radius: 3px;
+         }
+        .header-link:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+            text-decoration: underline; /* Add underline on hover */
+        }
+        .tabs {
+            overflow: hidden;
+            border-bottom: 1px solid #D3D3D3;
+            margin-bottom: 20px;
+        }
+        .tab-button {
+            background-color: inherit;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 12px 18px;
+            transition: 0.3s;
+            font-size: 15px;
+            font-weight: 500;
+            color: #555; /* Original inactive text color */
+            border-bottom: 3px solid transparent;
+        }
+        /* New Hover Colors */
+        .tab-button:hover {
+            background-color: #E0EFFF; /* Light blue hover */
+            border-bottom: 3px solid #77AADD; /* Medium blue hover border */
+            color: #0056b3; /* Slightly darker blue text on hover */
+        }
+        /* New Active Colors */
+        .tab-button.active {
+            color: #007bff; /* Standard Bootstrap primary blue */
+            border-bottom: 3px solid #007bff;
+            font-weight: 600; /* Make active tab text slightly bolder */
+        }
+        .tab-content {
+            display: none;
+            padding: 15px 5px;
+            border-top: none;
+            animation: fadeEffect 0.5s;
+        }
+        @keyframes fadeEffect {
+            from {opacity: 0;}
+            to {opacity: 1;}
+        }
+        .kpi-container {
+            display: grid; /* Use grid for better control */
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); /* Responsive columns */
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .kpi-card {
+            background-color: #F8F9FA; /* Lighter grey */
+            padding: 15px;
+            border-radius: 4px;
+            text-align: center;
+            border-left: 4px solid #0F2C59; /* Deep blue accent */
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        .kpi-card h3 {
+            margin: 0 0 8px 0;
+            font-size: 15px; /* Slightly smaller title */
+            color: #0F2C59;
+            font-weight: 600;
+        }
+        .kpi-card p.value {
+            margin: 0;
+            font-size: 22px; /* Larger value */
+            font-weight: bold;
+            color: #212529; /* Darker text */
+        }
+         .kpi-card .value-change { /* Style for change indicator */
+            font-size: 13px; /* Smaller subtext */
+            margin-top: 5px;
+            color: #6C757D; /* Grey subtext */
+        }
+        .kpi-card .value-change.negative {
+             color: #D32F2F; /* Red for negative */
+             font-weight: 500;
+         }
+        .kpi-card .value-change.positive {
+             color: #388E3C; /* Green for positive */
+             font-weight: 500;
+         }
+        h2 {
+            color: #0F2C59; /* Deep Blue */
+            border-bottom: 2px solid #E9ECEF; /* Lighter border */
+            padding-bottom: 8px;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 12px; /* Slightly more spacing */
+            padding-left: 20px; /* Indent more */
+            position: relative;
+        }
+        li::before {
+            content: '■';
+            position: absolute;
+            left: 0;
+            color: #007bff; /* Use active tab blue for bullet */
+            font-size: 10px;
+            top: 7px; /* Adjust vertical alignment */
+        }
+        .section {
+            margin-bottom: 25px;
+            padding: 20px; /* More padding */
+            background-color: #FFFFFF;
+            border: 1px solid #E9ECEF; /* Lighter border */
+            border-radius: 4px;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+        }
+        .section h3 {
+            margin-top: 0;
+            margin-bottom: 12px;
+            font-size: 16px;
+            color: #0F2C59;
+            font-weight: 600;
+        }
+        .keyword {
+            font-weight: 600;
+            color: #17a2b8; /* Teal color for keywords */
+            background-color: #e2f7fa; /* Light teal background */
+            padding: 2px 5px;
+            border-radius: 3px;
+            margin-right: 3px;
+        }
+         .roadmap {
+            margin-top: 30px;
+            border-top: 1px solid #D3D3D3;
+            padding-top: 20px;
+        }
+        .roadmap h2 {
+            margin-bottom: 20px;
+        }
+        .roadmap-item {
+            margin-bottom: 15px;
+            padding-left: 25px;
+            position: relative;
+            border-left: 2px solid #0F2C59;
+            padding-bottom: 10px;
+            padding-top: 5px;
+        }
+         .roadmap-item::before {
+            content: '';
+            position: absolute;
+            left: -8px;
+            top: 10px;
+            width: 14px;
+            height: 14px;
+            background-color: #0F2C59;
+            border-radius: 50%;
+            border: 2px solid #FFFFFF;
+         }
+        .roadmap-item strong {
+            display: block;
+            color: #0F2C59;
+            font-weight: 600;
+            margin-bottom: 3px;
+            font-size: 15px;
+        }
+         .roadmap-item span {
+            font-size: 14px;
+            color: #555;
+         }
+        .references {
+            margin-top: 30px;
+            border-top: 1px solid #D3D3D3;
+            padding-top: 20px;
+        }
+        .references h2 {
+             margin-bottom: 15px;
+         }
+        .references ul {
+            list-style-type: none;
+            padding-left: 0;
+            font-size: 13px;
+            max-height: 300px; /* Limit height and add scroll */
+             overflow-y: auto;
+            border: 1px solid #EFEFEF;
+             padding: 15px; /* More padding */
+            background-color: #F8F9FA; /* Lighter grey */
+            border-radius: 4px;
+         }
+        .references li {
+            margin-bottom: 10px; /* More spacing */
+            padding-left: 0;
+         }
+         .references li::before {
+            content: ''; /* Remove default bullet */
+         }
+        .references a {
+            color: #005A9C; /* Standard link blue */
+            text-decoration: none;
+            display: block;
+            word-break: break-all; /* Break long URLs */
+        }
+        .references a:hover {
+            text-decoration: underline;
+            color: #003d69; /* Darker blue on hover */
+        }
+         .references .ref-date { /* Style for date */
+             font-size: 11px;
+             color: #6c757d; /* Grey subtext */
+             margin-left: 5px;
+             display: inline; /* Keep date on same line */
+         }
+        .footer {
+            text-align: right;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #666;
+            border-top: 1px solid #D3D3D3;
+            padding-top: 15px;
+        }
+        /* Responsive adjustments */
+        @media (max-width: 992px) { /* Adjust breakpoint for better grid behavior */
+             .kpi-container {
+                 grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); /* Slightly smaller min width */
+             }
+        }
+
+        @media (max-width: 768px) {
+            body { font-size: 13px; }
+            .header { padding: 10px 15px; min-height: 50px; }
+            .header h1 { font-size: 18px; padding-right: 80px; margin-bottom: 3px;}
+            .header p { font-size: 12px; line-height: 1.4; white-space: normal !important; } /* Ensure date wraps */
+             .header-link { font-size: 12px; top: 50%; right: 15px; padding: 4px 8px; }
+            .tab-button { padding: 10px 12px; font-size: 14px; }
+            .tabs { white-space: nowrap; overflow-x: auto; } /* Allow horizontal scrolling for tabs */
+            .kpi-container { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; } /* Further adjust grid */
+             .kpi-card h3 { font-size: 14px; }
+             .kpi-card p.value { font-size: 20px; }
+             .kpi-card .value-change { font-size: 12px;}
+            h2 { font-size: 17px; }
+            .section { padding: 15px; }
+            .section h3 { font-size: 15px; }
+            .roadmap-item { padding-left: 20px; }
+            .roadmap-item::before { left: -7px; top: 8px; width: 12px; height: 12px;}
+            .references ul { font-size: 12px; max-height: 250px; padding: 10px; }
+             .references .ref-date { display: inline; margin-left: 5px; } /* Keep date inline */
+        }
+         @media (max-width: 480px) { /* Further adjustments for very small screens */
+             .container { padding: 15px; }
+             .header h1 { font-size: 16px; padding-right: 70px;}
+             .header p { font-size: 11px; line-height: 1.5; } /* Increase line-height for better readability */
+             .header-link { font-size: 11px; padding: 3px 6px; right: 10px;}
+             .tab-button { font-size: 12px; padding: 8px 8px; }
+             .kpi-container { grid-template-columns: 1fr; } /* Stack KPIs */
+             .kpi-card { min-width: 0; } /* Reset min-width */
+             h2 { font-size: 16px; }
+             .section h3 { font-size: 14px; }
+             li { padding-left: 15px; }
+             li::before { top: 6px; }
+             .references ul { font-size: 11px; }
+             .references .ref-date { display: block; margin-left: 0; margin-top: 3px;} /* Stack date below link on smallest screens */
+         }
+
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>디스플레이 산업 국내 기사 대시보드</h1>
+        <p>기간: 25-04-04 17:00 ~ 25-04-05 06:01 기사</p>
+        <a href="https://gwanwoodavidkim.github.io/News_Dashboard/" target="_blank" class="header-link">과거 기사</a>
+    </div>
+
+    <div class="tabs">
+        <button class="tab-button active" onclick="openTab(event, 'Key_KPI')">금일 핵심 지표</button>
+        <button class="tab-button" onclick="openTab(event, 'Display_Trend')">디스플레이 산업 동향</button>
+        <button class="tab-button" onclick="openTab(event, 'Customer_Trend')">고객 동향</button>
+        <button class="tab-button" onclick="openTab(event, 'Competitor_Trend')">경쟁사 동향</button>
+        <button class="tab-button" onclick="openTab(event, 'IT_Issue')">IT 산업계 주요 이슈</button>
+        <button class="tab-button" onclick="openTab(event, 'SCM_Trend')">SCM 동향</button>
+    </div>
+
+    <div id="Key_KPI" class="tab-content" style="display: block;">
+        <h2>금일 핵심 지표</h2>
+        <div class="kpi-container">
+            <div class="kpi-card">
+               <h3>美 상호관세 (對中)</h3>
+               <p class="value">54%</p>
+                <p class="value-change">기존 20% + 상호관세 34%</p>
+            </div>
+             <div class="kpi-card">
+                 <h3>美 상호관세 (對베트남)</h3>
+                 <p class="value">46%</p>
+                 <p class="value-change">삼성전자 주요 생산 거점</p>
+             </div>
+            <div class="kpi-card">
+               <h3>Apple 주가 변동 (4/3)</h3>
+               <p class="value">-9.25%</p>
+               <p class="value-change negative">시총 약 450조원 증발</p>
+           </div>
+           <div class="kpi-card">
+               <h3>아이폰 가격 인상 전망</h3>
+               <p class="value">최대 +43%</p>
+               <p class="value-change">프로 맥스 330만원대 예상</p>
+            </div>
+             <div class="kpi-card">
+                 <h3>삼성전자 美 점유율 (1Q24)</h3>
+                 <p class="value">31%</p>
+                 <p class="value-change positive">YoY +4%p 상승</p>
+             </div>
+             <div class="kpi-card">
+                 <h3>Qi2 표준 채택</h3>
+                 <p class="value">맥세이프 기반</p>
+                 <p class="value-change">충전기 업체 67.8%가 WPC 멤버</p>
+             </div>
+        </div>
+
+        <div class="section">
+            <h3>핵심 요약</h3>
+            <ul>
+                <li><span class="keyword">트럼프발 상호관세 충격:</span> 미국, 주요 교역국 대상 상호관세 부과 발표. 특히 <span class="keyword">중국(54%)</span>, <span class="keyword">베트남(46%)</span>, <span class="keyword">인도(26%)</span>, 한국(25%) 등 아시아 생산기지에 고율 관세 적용. 글로벌 공급망 및 IT 기기 가격 변동성 확대.</li>
+                <li><span class="keyword">Apple 최대 타격 예상:</span> 아이폰 대부분(85-90%)을 중국 등에서 생산, 관세 직격탄. 주가 9.25% 폭락 (시총 약 450조원 증발). 미국 내 <span class="keyword">아이폰 가격 최대 43% 인상</span> (프로 맥스 330만원대) 가능성 제기. 공급망 다변화 노력에도 불구, 관세 면제 불투명성 증가.</li>
+                 <li><span class="keyword">삼성전자 영향 혼재:</span> 주요 생산 거점 베트남(46%) 관세 부담 크나, 경쟁사 Apple의 더 큰 타격으로 상대적 반사이익 기대감 공존. 미국 시장 점유율은 1분기 31%로 상승세. 슬림폰(S25 엣지), AI 기능 확장 등 신제품 출시 지속. 베트남 외 생산기지(브라질 등) 활용 가능성 모색 필요.</li>
+                 <li><span class="keyword">삼성디스플레이, 협력사 소통 강화:</span> 첫 단독 '상생협력데이' 개최, 57개 협력사와 동반성장 의지 다짐. 파인엠텍 등 7개사 우수 협력사 선정. 불확실성 속 협력 통한 기술 리더십 강조.</li>
+                 <li><span class="keyword">디스플레이/SCM 동향:</span> LG디스플레이, 1분기 실적 개선 기대(환율/OLED), 광저우 LCD 공장 매각 완료. 솔루스첨단소재, OLED 필러 내재화. Qi2 무선충전 표준화(애플 맥세이프 기반)로 관련 업계 영향 주목. 삼성전자 QLED 기술력 강조.</li>
+            </ul>
+        </div>
+         <div class="section">
+            <h3>주요 시사점</h3>
+            <ul>
+                <li><span class="keyword">공급망 리스크 증폭 및 재편 가속화:</span> 트럼프발 관세는 특정 국가를 넘어 글로벌 공급망 전체에 불확실성을 높임. 탈중국 대안으로 여겨졌던 베트남, 인도 등도 고율 관세 대상이 되면서 기업들의 생산 전략 전면 재검토 불가피.</li>
+                <li><span class="keyword">'폰플레이션' 심화 우려:</span> 관세 비용 증가로 스마트폰 가격 인상 압력 가중. 특히 Apple의 가격 인상폭이 클 경우 소비자 부담 증가 및 수요 위축 가능성. 삼성전자는 상대적 가격 경쟁력 확보 기회이나, 자체 생산 거점 관세 부담 존재.</li>
+                 <li><span class="keyword">기술 표준 및 생태계 경쟁:</span> 애플 맥세이프 기반 Qi2 무선충전 표준화는 관련 액세서리 시장 및 타 스마트폰 제조사(자석 내장 어려움)에 영향. 삼성페이/S펜과의 간섭 등 기술적 과제 부각.</li>
+                 <li><span class="keyword">국내 SCM 업체의 기회와 도전:</span> SDC의 협력 강화 기조는 긍정적. 솔루스 등 소재 국산화 노력 중요. 에프엔에스테크 등 장비/부품 업체는 고객사 투자 변동성에 영향 받으나, 사업 다각화로 안정성 모색. 관세로 인한 고객사(Apple 등)의 단가 인하 압박 가능성 상존.</li>
+                 <li><span class="keyword">프리미엄 기술 경쟁 지속:</span> 삼성 QLED 기술, OLED 패널 경쟁력 유지 중요. LCD 시장은 중국 중심으로 재편 완료된 상황. 차세대 디스플레이 기술 및 AI 기능 통합 등 혁신 통한 차별화 필요.</li>
+             </ul>
+         </div>
+    </div>
+
+    <div id="Display_Trend" class="tab-content">
+        <h2>디스플레이 산업 동향</h2>
+         <div class="section">
+             <h3>시장/기술 동향</h3>
+            <ul>
+                <li><span class="keyword">QLED 기술 (삼성):</span> 퀀텀닷(Quantum Dot) 나노 결정 기술 활용. 크기에 따라 방출 파장 조절 가능하여 색 재현율 우수. 퀀텀닷 필름 적용 및 인듐 포스파이드(InP) 기반 친환경 기술 개발. DCI-P3 90% 상회 색재현율 강조.</li>
+                <li><span class="keyword">Qi2 무선충전 표준화:</span> WPC(무선충전컨소시엄)가 애플 맥세이프(자석 정렬 방식) 기반 기술을 Qi2로 표준화. 충전 효율 및 편의성 증대 기대. WPC 회원사 67.8%가 충전기 관련 업체로, 애플 생태계 영향력 반영.</li>
+                <li><span class="keyword">Qi2 기술 과제:</span> 자석 내장이 타 기능(삼성페이 MST, S펜 등)과 간섭 일으킬 수 있음. 애플 외 제조사는 자석 내장이 어려워 'Qi2 Ready'(액세서리 자석 활용) 방식으로 대응 중 (예: 갤럭시 S25). 액세서리 인증(Qi2.1) 표준 등장.</li>
+                <li><span class="keyword">LG디스플레이 실적 개선 기대:</span> 1분기 적자폭 대폭 축소 또는 흑자전환 가능성 제기. 원/달러 환율 상승 효과 및 모바일용 OLED(아이폰 16e 등) 출하량 증가가 주요 요인.</li>
+                 <li><span class="keyword">LCD 시장 재편 완료:</span> LG디스플레이 광저우 8.5세대 LCD 공장, 중국 CSOT로 공식 이전 완료. 중국 업체들의 LCD 시장 지배력 강화 추세 확인.</li>
+             </ul>
+        </div>
+         <div class="section">
+             <h3>국내 장비/소재 업체 동향</h3>
+             <ul>
+                 <li><span class="keyword">에프엔에스테크:</span> 2024년 매출 885억원(YoY 2.3배 증가), 영업이익 88억원(YoY 3.8배 증가). SDC IT 8세대 OLED 투자 수혜로 습식 장비 매출 급증. CMP 패드(삼성전자 공급), 대형 OLED OMM 세정 서비스 등 부품/소재 사업 성장세.</li>
+                 <li><span class="keyword">솔루스첨단소재:</span> OLED 비발광소재 '필러'(고굴절 충전재) 생산 내재화(3월 시작). 기술 유출 방지 및 원가 절감 기대. 차세대 '저유전율 소재' 개발 및 2026년 양산 목표.</li>
+             </ul>
+         </div>
+    </div>
+
+    <div id="Customer_Trend" class="tab-content">
+        <h2>고객 동향</h2>
+        <div class="section">
+            <h3>Apple</h3>
+             <ul>
+                <li><span class="keyword">美 상호관세 최대 피해 기업:</span> 아이폰의 85~90%를 중국에서 조립. 중국(54%), 인도(26%), 베트남(46%) 등 주요 생산기지 모두 고율 관세 대상 포함. 미국이 최대 시장(매출 비중 42%)이라 타격 극심.</li>
+                <li><span class="keyword">재무적 충격 및 주가 폭락:</span> 관세 발표 후 주가 9.25% 급락, 시총 약 450조원(3110억 달러) 증발. 관세 비용 전가 시 아이폰 가격 최대 43% 인상 필요성 제기 (로젠블래트증권). 최고가 모델(프로 맥스) 2300달러(약 330만원대) 전망. 미전가 시 이익 큰 폭 감소 예상.</li>
+                 <li><span class="keyword">공급망 전략 재검토 불가피:</span> 트럼프 1기 때와 달리 관세 면제/유예 혜택 불확실. 중국 의존도 축소 및 인도/베트남 다변화 전략도 관세 장벽에 직면. 공급망 재편 압력 가중. 부품사에 단가 인하 압박 가능성.</li>
+                 <li><span class="keyword">맥세이프 기술 표준화 (Qi2):</span> 애플이 주도한 자석 기반 무선충전 기술이 국제 표준 Qi2로 채택. 관련 액세서리 생태계 확장 기회이나, 타 제조사들은 기술적 제약 직면.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>Samsung Electronics</h3>
+             <ul>
+                 <li><span class="keyword">상호관세 영향권:</span> 주요 생산기지 베트남(46%), 인도(26%), 한국(25%) 등 고율 관세 적용. ODM 생산(중국, 22%) 물량도 54% 관세 대상. 멕시코 생산 가전/TV도 기존 25% 관세 적용 중.</li>
+                 <li><span class="keyword">Apple 대비 상대적 영향:</span> 애플보다 관세 충격이 덜할 수 있다는 분석 존재하나, 베트남 등 주요 거점 리스크 상당. Apple 가격 인상 시 반사이익 기대감 있으나, 자체 관세 부담 및 소비자 심리 위축 변수.</li>
+                 <li><span class="keyword">시장 점유율 및 제품 전략:</span> 미국 스마트폰 시장 점유율 1분기 31%로 상승세 유지. AI 기능 탑재 확대(A시리즈 포함), 슬림 디자인(갤럭시 S25 엣지), 폼팩터 혁신(갤럭시 링) 등 지속 추진.</li>
+                 <li><span class="keyword">Qi2 표준 대응:</span> 자석 내장 시 삼성페이/S펜 기능 간섭 우려로 Qi2 인증 미획득. 대신 'Qi2 Ready' 전략으로 액세서리(케이스) 통해 자석 충전 지원 방식 채택.</li>
+                 <li><span class="keyword">생산 전략 조정 가능성:</span> 관세율 낮은 브라질(10%) 등 타 생산기지 활용도 제고 또는 생산량 조절 검토 가능성.</li>
+            </ul>
+        </div>
+         <div class="section">
+             <h3>기타 고객사 (HP, Dell 등)</h3>
+            <ul>
+                <li><span class="keyword">PC 제조사 관세 영향:</span> Dell, HP 등도 아시아 생산 비중 높아 관세 영향권. (모건스탠리 분석)</li>
+                <li><span class="keyword">글로벌 공급망 전반 타격:</span> 관세 부과는 특정 기업을 넘어 IT 기기 전반의 가격 상승 및 공급망 불안정성 야기 가능.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="Competitor_Trend" class="tab-content">
+        <h2>경쟁사 동향</h2>
+         <div class="section">
+             <h3>Samsung Display (SDC)</h3>
+             <ul>
+                 <li><span class="keyword">'2025 상생협력데이' 개최:</span> 57개 국내 주요 협력사 초청, 동반성장 의지 다짐. 2012년 분사 이후 첫 단독 행사로, 협력사와의 긴밀한 소통 강화 목적.</li>
+                 <li><span class="keyword">우수 협력사 시상:</span> 기술/품질 혁신, ESG 경영 성과 기반 7개사(파인엠텍, 신성씨앤티, 비에이치, 이에스티, 힘스 등) 우수 협력사 선정 및 시상.</li>
+                 <li><span class="keyword">이청 사장 메시지:</span> "경영환경 불확실성 및 시장 경쟁 심화 속, 협력사와 긴밀히 소통하고 협력하여 혁신 제품 개발 및 차별화된 기술력으로 시장을 함께 리드하자"고 강조.</li>
+                 <li><span class="keyword">협력사 화답 (홍성천 파인그룹 회장):</span> "진정한 파트너십 중요성 증대. 독자 기술력 확보하여 삼성디스플레이와 상생의 길 가겠다."</li>
+             </ul>
+         </div>
+        <div class="section">
+            <h3>중국 패널 업체 (BOE, CSOT, Visionox 등)</h3>
+             <ul>
+                 <li><span class="keyword">CSOT:</span> LG디스플레이 광저우 8.5세대 LCD 공장 인수 공식 완료. 대형 LCD 시장 지배력 강화.</li>
+                 <li><span class="keyword">BOE/Visionox 등:</span> (이번 기사 내용에서 직접적인 동향 언급 적음. 이전 기사 기반 BOE의 아이폰 프로 공급 타진, OLED 투자 등 지속 주시 필요)</li>
+             </ul>
+        </div>
+         <div class="section">
+             <h3>기타 경쟁사 (LG Display, Sharp, JDI, AUO, Innolux 등)</h3>
+             <ul>
+                 <li><span class="keyword">LG디스플레이:</span> 광저우 LCD 공장 CSOT 매각 완료. OLED 중심 사업 구조 재편 가속화. 1분기 실적 개선 기대감 상승.</li>
+                 <li><span class="keyword">Sharp, JDI, AUO, Innolux 등:</span> (이번 기사 내용에서 직접적인 언급 없음)</li>
+             </ul>
+         </div>
+    </div>
+
+    <div id="IT_Issue" class="tab-content">
+        <h2>IT 산업계 주요 이슈</h2>
+        <div class="section">
+            <h3>트럼프 행정부 상호관세 부과 및 파급 효과</h3>
+            <ul>
+                <li><span class="keyword">글로벌 공급망 충격:</span> 미국, 주요 교역국 대상 상호관세 발표. 특히 중국(54%), 베트남(46%), 인도(26%), 한국(25%) 등 아시아 생산기지에 고율 관세 부과. 기존 탈중국 전략에도 영향.</li>
+                <li><span class="keyword">IT 기기 가격 인상 압력:</span> 스마트폰, PC 등 해외 생산 의존도 높은 제품 가격 상승 불가피. Apple 아이폰 최대 43% 인상 가능성 등 '폰플레이션' 우려 심화.</li>
+                 <li><span class="keyword">기술주 변동성 확대:</span> 관세 발표 직후 Apple(-9.25%) 등 주요 기술주 급락. 시장 불확실성 증대 및 기업 수익성 악화 우려.</li>
+                 <li><span class="keyword">공급망 재편 가속화:</span> 기업들, 관세 회피 및 리스크 분산을 위해 생산기지 이전(미국 내, 멕시코 등) 또는 다변화 전략 재검토 압력 증대.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>무선충전 기술 표준화 (Qi2)</h3>
+             <ul>
+                 <li><span class="keyword">Qi2 표준 채택:</span> WPC, 애플 맥세이프(자석 정렬) 기술 기반 Qi2 표준 공식화. MPP(Magnetic Power Profile) 인증 프로그램 운영.</li>
+                 <li><span class="keyword">기술적 과제 및 호환성:</span> 자석 내장이 타 기능(삼성페이 MST, S펜)과 간섭 가능성. 애플 외 제조사는 기기 내 자석 탑재 어려움 존재. 'Qi2 Ready' (액세서리 자석 활용) 방식 등장.</li>
+                 <li><span class="keyword">생태계 영향:</span> Qi2 인증 액세서리(Qi2.1) 시장 확대 전망. 충전기 제조사(WPC 멤버 67.8%)들은 애플 시장 고려, 표준화 동참 추세. 소규모 액세서리 업체는 인증 비용 부담 가능성.</li>
+            </ul>
+        </div>
+         <div class="section">
+             <h3>AI 기술 확산</h3>
+             <ul>
+                 <li><span class="keyword">AI 기능 탑재 경쟁:</span> 삼성전자, 프리미엄폰 넘어 보급형(갤럭시 A) 및 태블릿까지 AI 기능 확대 적용. PC 제조사들도 AI PC 출시 가속화.</li>
+                 <li><span class="keyword">AI 반도체 경쟁:</span> (이번 기사 내용에서 직접적인 언급 적음. 이전 기사 기반 삼성 파운드리 수율 등 지속 주시 필요)</li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="SCM_Trend" class="tab-content">
+        <h2>SCM 동향</h2>
+        <div class="section">
+            <h3>주요 기업 SCM 활동</h3>
+            <ul>
+                <li><span class="keyword">삼성디스플레이 상생협력데이:</span> 57개 국내 협력사 초청, 첫 단독 행사 개최. 기술/품질/ESG 우수 협력사(파인엠텍, 신성씨앤티, 비에이치, 이에스티, 힘스 등 7곳) 시상. 협력 통한 기술 리더십 및 동반성장 강조.</li>
+                <li><span class="keyword">LG디스플레이 광저우 LCD 매각 완료:</span> 중국 CSOT로 8.5세대 LCD 라인 공식 이전 완료. OLED 중심 사업 전환 가속화.</li>
+                 <li><span class="keyword">솔루스첨단소재 필러 내재화:</span> OLED용 비발광소재 '필러' 3월부터 직접 생산 시작. 기술 유출 방지, 원가 절감, 수익성 개선 기대. 저유전율 소재 등 신규 개발 병행.</li>
+                <li><span class="keyword">에프엔에스테크 성장:</span> SDC 투자 힘입어 디스플레이 습식 장비 매출 급증. CMP 패드(삼성전자 공급), OMM 세정 등 부품/소재 사업 확장으로 사업 안정성 제고 노력.</li>
+                 <li><span class="keyword">효성 필름 사업 매각 추진:</span> 옵티컬필름(TAC) 및 기타 필름 사업부 매각 진행 중. TAC 필름 경쟁력 있으나 OLED 전환 대응 필요.</li>
+            </ul>
+        </div>
+        <div class="section">
+             <h3>美 상호관세에 따른 SCM 영향</h3>
+             <ul>
+                 <li><span class="keyword">생산 비용 증가:</span> 중국, 베트남, 인도 등 주요 생산 거점 고율 관세로 부품 조달 및 완제품 생산 비용 상승 불가피.</li>
+                 <li><span class="keyword">고객사 단가 압박 가능성:</span> Apple 등 완제품 업체, 관세 부담 상쇄 위해 부품 공급사(삼성D, LG이노텍 등)에 단가 인하 요구 가능성 제기.</li>
+                 <li><span class="keyword">공급망 재편 압력 증대:</span> 관세 회피 위한 생산 거점 이전(미국, 멕시코 등) 또는 다변화(브라질 등 저관세 국가 활용) 움직임 가속화 전망.</li>
+                 <li><span class="keyword">재고 관리 중요성 부각:</span> 삼성전자 등, 관세 부과 전 선제적 물량 확보 및 재고 활용으로 단기 충격 완화 시도.</li>
+             </ul>
+        </div>
+         <div class="section">
+            <h3>무선충전 SCM (Qi2 관련)</h3>
+             <ul>
+                 <li><span class="keyword">액세서리 시장 변화:</span> Qi2 표준화로 자석 내장 충전기 및 관련 액세서리(케이스 등) 시장 확대 예상. Qi2.1 인증 통한 액세서리 품질 관리 강화.</li>
+                 <li><span class="keyword">부품 간섭 문제:</span> 스마트폰 제조사, Qi2 자석 내장 시 내부 부품(NFC 안테나, 스타일러스 펜 센서 등)과의 간섭 해결 위한 설계 변경 또는 'Qi2 Ready' 방식 채택 필요.</li>
+            </ul>
+         </div>
+    </div>
+
+    <div class="roadmap">
+        <h2>주요 일정 로드맵 (예상 포함)</h2>
+         <div class="roadmap-item">
+            <strong>2025년 5월 (예상)</strong>
+             <span>- 삼성전자 '갤럭시 S25 엣지' 공개 전망 (5월 13일 관측)</span>
+         </div>
+         <div class="roadmap-item">
+            <strong>2025년 하반기 (예상)</strong>
+            <span>- Apple 아이폰 17 시리즈 공개/출시 (관세 영향 가격 변동 주목)</span>
+            <span>- 삼성전자 갤럭시 Z 폴드/플립 7 출시 (관세 영향 주목)</span>
+         </div>
+         <div class="roadmap-item">
+            <strong>2026년 (예상)</strong>
+            <span>- 솔루스첨단소재, 저유전율 소재 양산 목표</span>
+         </div>
+    </div>
+
+    <div class="references">
+      <h2>참고 기사 목록</h2>
+      <ul>
+          <li><a href="https://n.news.naver.com/mnews/article/003/0013165890?sid=101" target="_blank">레드닷도 인정…교원웰스, '슬림원' 디자인상 잇단 수상</a> <span class="ref-date">(2025-04-05 06:01)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/469/0000857804?sid=101" target="_blank">애플이 삼성전자보다 트럼프 관세 충격 크다? 300만 원 아이폰 미국서...</a> <span class="ref-date">(2025-04-05 04:30)</span></li>
+          <li><a href="https://www.autodaily.co.kr/news/articleView.html?idxno=529788" target="_blank">애플, 아이폰 가격 최대 43% 인상 가능성 예고. 최고가 166만 원까지</a> <span class="ref-date">(2025-04-04 23:00)</span></li>
+          <li><a href="http://www.thelec.kr/news/articleView.html?idxno=34448" target="_blank">이청 삼성D 사장 협력사와 소통·협업해 미래 기술 준비</a> <span class="ref-date">(2025-04-04 20:32)</span></li>
+          <li><a href="https://www.kfenews.co.kr/news/articleView.html?idxno=633507" target="_blank">삼성디스플레이, 57개 협력사와 '상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 19:34)</span></li>
+          <li><a href="https://www.viva100.com/article/20250404501022" target="_blank">삼성디스플레이, 57개 협력사 초청 ‘상생협력데이’ 개최</a> <span class="ref-date">(2025-04-04 19:20)</span></li>
+          <li><a href="https://www.ebn.co.kr/news/articleView.html?idxno=1658086" target="_blank">삼성디스플레이, 상생협력데이 개최…협력 통해 시장 리드</a> <span class="ref-date">(2025-04-04 19:12)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/293/0000065777?sid=101" target="_blank">[어바웃 C] '故 한종희' 빈자리 채운 노태문 삼성전자 사장…'갤럭시 성...</a> <span class="ref-date">(2025-04-04 18:55)</span></li>
+          <li><a href="https://www.handmk.com/news/articleView.html?idxno=29447" target="_blank">아이쉐어링, 애플 앱스토어 '오늘의 앱' 선정</a> <span class="ref-date">(2025-04-04 18:42)</span></li>
+          <li><a href="https://www.getnews.co.kr/news/articleView.html?idxno=814930" target="_blank">삼성디스플레이, '상생협력데이' 개최... 협력으로 시장 리드</a> <span class="ref-date">(2025-04-04 18:30)</span></li>
+          <li><a href="https://www.newspim.com/news/view/20250404001154" target="_blank">[상호관세 쇼크] 印 전자 제조업 신중 속 '낙관'...애플 印 의존도 높...</a> <span class="ref-date">(2025-04-04 18:28)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/014/0005331554?sid=105" target="_blank">트럼프 관세폭탄 맞은 애플... 아이폰 가격 330만원 되나</a> <span class="ref-date">(2025-04-04 18:25)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/082/0001319717?sid=101" target="_blank">미국서 아이폰 최대 332만원 되나…상호관세 애플도 타격</a> <span class="ref-date">(2025-04-04 18:24)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/001/0015312411?sid=101" target="_blank">'상생협력데이' 참석한 이청 삼성디스플레이 사장</a> <span class="ref-date">(2025-04-04 18:14)</span></li>
+          <li><a href="https://www.ceoscoredaily.com/page/view/2025040413200917505" target="_blank">“삼성 ‘갤럭시’·애플 ‘아이폰’ 얼마나 오를까”…‘트럼프발 관...</a> <span class="ref-date">(2025-04-04 18:10)</span></li>
+          <li><a href="https://www.datanet.co.kr/news/articleView.html?idxno=201047" target="_blank">아이쉐어링, 애플 '오늘의 앱' 선정 ··· 위치 공유 기반 안전 서비스...</a> <span class="ref-date">(2025-04-04 18:10)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/015/0005115269?sid=101" target="_blank">삼성D, 57개 협력사 초청…단독 '상생협력데이' 첫 개최</a> <span class="ref-date">(2025-04-04 18:10)</span></li>
+          <li><a href="https://www.sisaweek.com/news/articleView.html?idxno=224015" target="_blank">삼성디스플레이, 협력사와 동반성장 의지 다져</a> <span class="ref-date">(2025-04-04 18:08)</span></li>
+          <li><a href="https://www.nbntv.co.kr/news/articleView.html?idxno=3036925" target="_blank">교원 웰스, '슬림원 정수기' 레드닷 디자인 어워드 수상…디자인상 2관...</a> <span class="ref-date">(2025-04-04 18:06)</span></li>
+          <li><a href="https://www.ceoscoredaily.com/page/view/2025040416570347166" target="_blank">LG디스플레이, ‘고환율·OLED 훈풍’ 분다…1분기 실적 개선 기대감↑</a> <span class="ref-date">(2025-04-04 18:02)</span></li>
+          <li><a href="https://www.etoday.co.kr/news/view/2458937" target="_blank">삼성디스플레이, 57개 협력사 초청 '상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:58)</span></li>
+          <li><a href="http://www.bizwnews.com/news/articleView.html?idxno=100046" target="_blank">교원 웰스, '슬림원 정수기' 레드닷 디자인 어워드 수상</a> <span class="ref-date">(2025-04-04 17:56)</span></li>
+          <li><a href="https://weekly.hankooki.com/news/articleView.html?idxno=7108680" target="_blank">삼성디스플레이, 협력사와 동반성장 의지 다져</a> <span class="ref-date">(2025-04-04 17:52)</span></li>
+          <li><a href="https://www.greened.kr/news/articleView.html?idxno=325196" target="_blank">선명한 색 내는 삼성 QLED TV의 비법은? 크기에 따라 방출 파장을 조정하...</a> <span class="ref-date">(2025-04-04 17:46)</span></li>
+          <li><a href="https://www.greened.kr/news/articleView.html?idxno=325219" target="_blank">애플 맥세이프, WPC 국제표준 되자 낙동강 오리알 된 스마트폰 제조사들...</a> <span class="ref-date">(2025-04-04 17:45)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/422/0000727977?sid=104" target="_blank">미 아이폰 가격 333만 원 될 수도…애플에 상호관세 '불똥'</a> <span class="ref-date">(2025-04-04 17:38)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/374/0000433487?sid=101" target="_blank">삼성디스플레이, 첫 단독 '상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:32)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/009/0005471072?sid=101" target="_blank">삼성디스플레이·57개 협력사 '상생데이'</a> <span class="ref-date">(2025-04-04 17:31)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/009/0005471071?sid=101" target="_blank">OLED용 비발광소재 '필러' 솔루스첨단소재 직접 생산</a> <span class="ref-date">(2025-04-04 17:31)</span></li>
+          <li><a href="https://www.businesspost.co.kr/BP?command=article_view&num=390086" target="_blank">삼성전자 스마트폰 트럼프 관세에 '사면초가', 최원준 MX사업부 COO 맡자...</a> <span class="ref-date">(2025-04-04 17:28)</span></li>
+          <li><a href="https://www.newsquest.co.kr/news/articleView.html?idxno=242757" target="_blank">삼성디스플레이, 57개 협력사와 동반성장 나선다...'상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:24)</span></li>
+          <li><a href="http://www.smedaily.co.kr/news/articleView.html?idxno=322422" target="_blank">삼성디스플레이 '2025 상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:08)</span></li>
+          <li><a href="http://www.thelec.kr/news/articleView.html?idxno=34440" target="_blank">에프엔에스테크, 작년 매출 2배 확대 원인은?</a> <span class="ref-date">(2025-04-04 17:08)</span></li>
+          <li><a href="http://www.financialreview.co.kr/news/articleView.html?idxno=33934" target="_blank">[오늘의 패션&뷰티] 무신사·29CM·버커루·닥터포헤어·토코보</a> <span class="ref-date">(2025-04-04 17:08)</span></li>
+          <li><a href="https://www.slist.kr/news/articleView.html?idxno=632709" target="_blank">토코보, 6色 '애플 듀이 핏 쿠션' 출시 기념 프로모션</a> <span class="ref-date">(2025-04-04 17:04)</span></li>
+          <li><a href="https://www.kukinews.com/article/view/kuk202504040042" target="_blank">삼성디스플레이, 상생협력데이 단독 개최…“시장 함께 리드하자”</a> <span class="ref-date">(2025-04-04 17:02)</span></li>
+          <li><a href="https://www.news2day.co.kr/article/20250404500018" target="_blank">삼성디스플레이, '2025 상생협력데이' 개최… 독자 기술력 확보 당부</a> <span class="ref-date">(2025-04-04 17:02)</span></li>
+          <li><a href="http://www.thebigdata.co.kr/view.php?ud=2025040410334347245ed985c7c5_23" target="_blank">삼성디스플레이, 57개 협력사 초청 '상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:02)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/011/0004470294?sid=101" target="_blank">삼성디스플레이, 57개 협력사 초청 '상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:01)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/015/0005115207?sid=101" target="_blank">분사 이후 첫 단독 상생협력데이 개최한 삼성디스플레이</a> <span class="ref-date">(2025-04-04 17:01)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/366/0001066842?sid=105" target="_blank">삼성디스플레이, 주요 협력사 초청 ‘상생협력데이’ 개최</a> <span class="ref-date">(2025-04-04 17:01)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/031/0000922068?sid=101" target="_blank">삼성D, 57개 협력사 초청 '상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:01)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/629/0000379404?sid=101" target="_blank">이청 삼성D 사장 협력사와 소통·협업해 미래 기술 준비</a> <span class="ref-date">(2025-04-04 17:01)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/030/0003300378?sid=105" target="_blank">“협업으로 미래 준비” 삼성디스플레이 상생협력데이 개최</a> <span class="ref-date">(2025-04-04 17:01)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/092/0002369481?sid=105" target="_blank">이청 삼성디스플레이 사장, 57개 협력사 초청…협력으로 미래 기술 준...</a> <span class="ref-date">(2025-04-04 17:01)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/119/0002941622?sid=101" target="_blank">삼성디스플레이, 57개 협력사 초청 '상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:01)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/001/0015312314?sid=101" target="_blank">삼성디스플레이, '상생협력데이' 개최…협력으로 시장 리드</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/138/0002194110?sid=105" target="_blank">삼성디스플레이, '2025 상생협력데이' 개최…7개 업체 우수협력사 선정</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="http://www.srtimes.kr/news/articleView.html?idxno=174464" target="_blank">삼성디스플레이 '상생협력데이' 개최…57개 협력사 초청</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://www.asiaa.co.kr/news/articleView.html?idxno=208353" target="_blank">삼성디스플레이, 주요 협력사와 함께 '상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="http://www.womentimes.co.kr/news/articleView.html?idxno=86329" target="_blank">이청 삼성디스플레이 사장 소통‧협업으로 미래 준비…'상생협력데이...</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/421/0008174878?sid=101" target="_blank">삼성디스플레이, 57개 협력사 초청 '상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://www.techm.kr/news/articleView.html?idxno=137906" target="_blank">이청 대표 불확실성·경쟁 심화, 함께 리드하자…삼성D, '상생협력데이...</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="http://www.m-i.kr/news/articleView.html?idxno=1224891" target="_blank">상생 앞장…삼성디스플레이, '상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="http://www.datanews.co.kr/news/article.html?no=137998" target="_blank">삼성디스플레이, '2025 상생협력데이' 단독 개최</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://www.financialpost.co.kr/news/articleView.html?idxno=223692" target="_blank">삼성디스플레이, 57개 협력사와 '상생 협력데이' 열어 미래 기술 논의</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/277/0005573322?sid=101" target="_blank">삼성디스플레이, 57개 협력사 초청…시장 함께 리드하자</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=333913" target="_blank">삼성디스플레이, '2025 상생협력데이 ' 개최… 동반성장 의지 다진다</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="http://www.popcornnews.net/news/articleView.html?idxno=76562" target="_blank">삼성디스플레이, 57개 협력사 초청 '상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://www.newsworks.co.kr/news/articleView.html?idxno=790841" target="_blank">삼성디스플레이, 57개 협력사 초청 '2025 상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://it.chosun.com/news/articleView.html?idxno=2023092137803" target="_blank">삼성D 상생협력데이…이청 대표 긴밀 소통해 혁신 제품 개발</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://daily.hankooki.com/news/articleView.html?idxno=1199872" target="_blank">삼성디스플레이, 57개 협력사 초청 '상생협력데이'</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/215/0001204630?sid=101" target="_blank">삼성디스플레이, 57개 협력사 초청 '상생협력데이' 개최</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://www.ceoscoredaily.com/page/view/2025040409314516990" target="_blank">삼성디스플레이, 57개 협력사 초청 ‘상생협력데이’ 개최</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/003/0013165480?sid=101" target="_blank">삼성디스플레이 이청 대표 협력사와 협업해 미래 준비</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+          <li><a href="https://www.cstimes.com/news/articleView.html?idxno=640733" target="_blank">삼성디스플레이, 2025 상생 협력 데이 개최</a> <span class="ref-date">(2025-04-04 17:00)</span></li>
+        </ul>
+    </div>
+
+    <div class="footer">
+        출처: MCI 팀
+    </div>
+
+</div>
+
+<script>
+    function openTab(evt, tabName) {
+        var i, tabcontent, tabbuttons;
+        tabcontent = document.getElementsByClassName("tab-content");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        tabbuttons = document.getElementsByClassName("tab-button");
+        for (i = 0; i < tabbuttons.length; i++) {
+            tabbuttons[i].className = tabbuttons[i].className.replace(" active", "");
+        }
+        // Check if the element exists before trying to set its display style
+        const targetTab = document.getElementById(tabName);
+        if (targetTab) {
+             targetTab.style.display = "block";
+        }
+         // Ensure the event target exists before adding the active class
+         if (evt && evt.currentTarget) {
+            evt.currentTarget.className += " active";
+        }
+    }
+
+    // Activate the first tab by default when the page loads
+    document.addEventListener('DOMContentLoaded', (event) => {
+        // Find the first tab button
+        const firstTabButton = document.querySelector('.tab-button');
+        if(firstTabButton) {
+             // Simulate a click on the first tab button
+             // This ensures the openTab function runs and sets the correct display and active states
+             firstTabButton.click();
+         } else {
+             // Fallback: If no tab button exists, manually display the first tab content if it exists
+             const firstTabContent = document.querySelector('.tab-content');
+             if (firstTabContent) {
+                 firstTabContent.style.display = 'block';
+             }
+         }
+    });
+</script>
+
+</body>
+</html>
