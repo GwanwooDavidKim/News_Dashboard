@@ -107,24 +107,24 @@
             padding: 15px;
             border-radius: 4px;
             flex: 1;
-            min-width: 180px;
+            min-width: 150px; /* Adjust min-width for 5 cards */
             text-align: center;
             border-left: 4px solid #0F2C59;
         }
         .kpi-card h3 {
             margin: 0 0 8px 0;
-            font-size: 16px;
+            font-size: 15px; /* Slightly smaller h3 for more KPIs */
             color: #0F2C59;
         }
         .kpi-card p {
             margin: 0;
-            font-size: 18px;
+            font-size: 17px; /* Slightly smaller p for more KPIs */
             font-weight: bold;
             color: #333;
         }
          .kpi-card .value-change { /* Style for change indicator */
-            font-size: 14px;
-            margin-top: 5px;
+            font-size: 13px; /* Smaller change text */
+            margin-top: 4px;
         }
         .kpi-card .value-change.negative {
              color: #D32F2F; /* Red for negative */
@@ -256,18 +256,29 @@
              .header-link { font-size: 12px; top: 10px; right: 10px; padding: 4px 8px; }
             .tab-button { padding: 10px 12px; font-size: 14px; }
             .tabs { white-space: nowrap; overflow-x: auto; } /* Allow horizontal scrolling for tabs */
-            .kpi-container { flex-direction: column; }
-            .kpi-card { min-width: 100%; box-sizing: border-box; }
+            .kpi-container { flex-direction: row; /* Keep horizontal layout longer */ flex-wrap: wrap; }
+            .kpi-card { min-width: calc(33.333% - 10px); } /* Try 3 cards per row */
             h2 { font-size: 17px; }
             .section h3 { font-size: 15px; }
             .roadmap-item { padding-left: 20px; }
             .roadmap-item::before { left: -7px; top: 8px; width: 12px; height: 12px;}
             .references ul { font-size: 12px; max-height: 250px; }
         }
+         @media (max-width: 600px) { /* Adjust for when 3 KPIs break */
+             .kpi-card { min-width: calc(50% - 8px); } /* Try 2 cards per row */
+         }
          @media (max-width: 480px) { /* Further adjustments for very small screens */
-             .header h1 { font-size: 18px; }
+             .header h1 {
+                 font-size: 16px; /* Reduced font size */
+                 padding-right: 70px; /* Adjust padding */
+             }
              .header p { font-size: 12px; }
              .tab-button { font-size: 13px; padding: 8px 10px; }
+             .kpi-container { flex-direction: column; } /* Stack KPIs */
+             .kpi-card { min-width: 100%; box-sizing: border-box; } /* Full width */
+             .kpi-card h3 { font-size: 14px; }
+             .kpi-card p { font-size: 16px; }
+             .kpi-card .value-change { font-size: 12px; }
          }
 
     </style>
@@ -294,9 +305,14 @@
         <h2>금일 핵심 지표</h2>
         <div class="kpi-container">
             <div class="kpi-card">
-                <h3>美 상호관세 부과 (對中)</h3>
+                <h3>美 상호관세 (對中)</h3>
                 <p>54%</p>
-                 <p class="value-change">기존 20% + 상호관세 34%</p>
+                 <p class="value-change">기존 20% + 신규 34%</p>
+            </div>
+             <div class="kpi-card">
+                <h3>美 상호관세 (對베트남)</h3>
+                <p>46%</p>
+                 <p class="value-change">삼성/LG 생산기지 타격</p>
             </div>
             <div class="kpi-card">
                 <h3>Apple 주가 변동</h3>
@@ -306,7 +322,12 @@
             <div class="kpi-card">
                 <h3>아이폰 가격 인상 전망</h3>
                 <p>최대 +43%</p>
-                 <p class="value-change">프로 맥스 모델 333만원 예상</p>
+                 <p class="value-change">프로 맥스 333만원 예상</p>
+            </div>
+            <div class="kpi-card">
+                <h3>삼성전자 2nm 수율</h3>
+                <p>~30%</p>
+                 <p class="value-change negative">TSMC(60-70%) 대비 열세</p>
             </div>
         </div>
 
