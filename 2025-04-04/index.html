@@ -107,24 +107,37 @@
             padding: 15px;
             border-radius: 4px;
             flex: 1;
-            min-width: 150px; /* Adjust min-width for 5 cards */
+            /* Adjust min-width for 6 cards (approx 16.6%) minus gap */
+            min-width: calc(16.666% - 13px);
             text-align: center;
             border-left: 4px solid #0F2C59;
+            box-sizing: border-box; /* Include padding and border in the element's total width and height */
         }
         .kpi-card h3 {
             margin: 0 0 8px 0;
-            font-size: 15px; /* Slightly smaller h3 for more KPIs */
+            font-size: 14px; /* Adjust font size for potentially longer titles */
             color: #0F2C59;
+            line-height: 1.3; /* Adjust line height for h3 */
+             min-height: 36px; /* Ensure space for 2 lines title */
+             display: flex; /* Aligm items center */
+             align-items: center;
+             justify-content: center;
         }
         .kpi-card p {
             margin: 0;
-            font-size: 17px; /* Slightly smaller p for more KPIs */
+            font-size: 16px; /* Adjust font size */
             font-weight: bold;
             color: #333;
         }
          .kpi-card .value-change { /* Style for change indicator */
-            font-size: 13px; /* Smaller change text */
+            font-size: 12px; /* Adjust font size */
             margin-top: 4px;
+            line-height: 1.3; /* Adjust line height */
+             min-height: 30px; /* Ensure space for 2 lines description */
+             display: flex;
+             align-items: center;
+             justify-content: center;
+             color: #555; /* Dimmer color for description */
         }
         .kpi-card .value-change.negative {
              color: #D32F2F; /* Red for negative */
@@ -249,25 +262,27 @@
             padding-top: 15px;
         }
         /* Responsive adjustments */
+        @media (max-width: 992px) { /* Adjust breakpoint for 6 KPIs */
+            .kpi-card { min-width: calc(33.333% - 10px); } /* 3 cards per row */
+        }
         @media (max-width: 768px) {
             body { font-size: 13px; }
-            .header h1 { font-size: 20px; padding-right: 80px; /* Adjust padding for smaller screens */ }
+            .header h1 { font-size: 20px; padding-right: 80px; }
             .header p { font-size: 13px; }
              .header-link { font-size: 12px; top: 10px; right: 10px; padding: 4px 8px; }
             .tab-button { padding: 10px 12px; font-size: 14px; }
-            .tabs { white-space: nowrap; overflow-x: auto; } /* Allow horizontal scrolling for tabs */
-            .kpi-container { flex-direction: row; /* Keep horizontal layout longer */ flex-wrap: wrap; }
-            .kpi-card { min-width: calc(33.333% - 10px); } /* Try 3 cards per row */
+            .tabs { white-space: nowrap; overflow-x: auto; }
+            .kpi-card { min-width: calc(50% - 8px); } /* 2 cards per row */
+             .kpi-card h3 { font-size: 13px; min-height: 34px; }
+             .kpi-card p { font-size: 15px; }
+             .kpi-card .value-change { font-size: 11px; min-height: 28px; }
             h2 { font-size: 17px; }
             .section h3 { font-size: 15px; }
             .roadmap-item { padding-left: 20px; }
             .roadmap-item::before { left: -7px; top: 8px; width: 12px; height: 12px;}
             .references ul { font-size: 12px; max-height: 250px; }
         }
-         @media (max-width: 600px) { /* Adjust for when 3 KPIs break */
-             .kpi-card { min-width: calc(50% - 8px); } /* Try 2 cards per row */
-         }
-         @media (max-width: 480px) { /* Further adjustments for very small screens */
+         @media (max-width: 480px) {
              .header h1 {
                  font-size: 16px; /* Reduced font size */
                  padding-right: 70px; /* Adjust padding */
@@ -275,10 +290,10 @@
              .header p { font-size: 12px; }
              .tab-button { font-size: 13px; padding: 8px 10px; }
              .kpi-container { flex-direction: column; } /* Stack KPIs */
-             .kpi-card { min-width: 100%; box-sizing: border-box; } /* Full width */
-             .kpi-card h3 { font-size: 14px; }
+             .kpi-card { min-width: 100%; } /* Full width */
+             .kpi-card h3 { font-size: 14px; min-height: auto; } /* Reset min-height when stacked */
              .kpi-card p { font-size: 16px; }
-             .kpi-card .value-change { font-size: 12px; }
+             .kpi-card .value-change { font-size: 12px; min-height: auto; } /* Reset min-height */
          }
 
     </style>
@@ -307,27 +322,32 @@
             <div class="kpi-card">
                 <h3>美 상호관세 (對中)</h3>
                 <p>54%</p>
-                 <p class="value-change">기존 20% + 신규 34%</p>
-            </div>
-             <div class="kpi-card">
-                <h3>美 상호관세 (對베트남)</h3>
-                <p>46%</p>
-                 <p class="value-change">삼성/LG 생산기지 타격</p>
+                <p class="value-change">IT 공급망 전반 영향</p>
             </div>
             <div class="kpi-card">
                 <h3>Apple 주가 변동</h3>
                 <p>-9.25%</p>
-                <p class="value-change negative">하루 시총 450조원 증발</p>
+                <p class="value-change negative">관세 직격탄 (시총 450조↓)</p>
             </div>
-            <div class="kpi-card">
-                <h3>아이폰 가격 인상 전망</h3>
+             <div class="kpi-card">
+                <h3>아이폰 가격 전망</h3>
                 <p>최대 +43%</p>
-                 <p class="value-change">프로 맥스 333만원 예상</p>
+                <p class="value-change">관세 영향 (최대 333만원)</p>
             </div>
             <div class="kpi-card">
+                <h3>선익시스템 수주</h3>
+                <p>230억원</p>
+                 <p class="value-change">OLED 연구용 장비</p>
+            </div>
+             <div class="kpi-card">
                 <h3>삼성전자 2nm 수율</h3>
                 <p>~30%</p>
-                 <p class="value-change negative">TSMC(60-70%) 대비 열세</p>
+                 <p class="value-change negative">TSMC 대비 열세 (엑시노스)</p>
+            </div>
+              <div class="kpi-card">
+                <h3>삼성 HDR10+</h3>
+                <p>넷플릭스 지원</p>
+                <p class="value-change">TV/모니터 기술 적용</p>
             </div>
         </div>
 
