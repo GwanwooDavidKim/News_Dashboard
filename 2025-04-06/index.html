@@ -1,0 +1,710 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>디스플레이 산업 국내 기사 대시보드</title>
+    <style>
+        body {
+            font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #F5F5F5;
+            margin: 0;
+            padding: 0;
+            font-size: 14px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #FFFFFF;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            position: relative; /* Needed for absolute positioning of the link */
+        }
+        .header {
+            background-color: #0F2C59; /* Deep Blue */
+            color: #FFFFFF;
+            padding: 15px 20px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+            position: relative; /* To contain the absolute positioned link */
+             min-height: 60px; /* Ensure space for title and date */
+             display: flex;
+             flex-direction: column;
+             justify-content: center;
+        }
+        .header h1 {
+            margin: 0 0 5px 0; /* Add bottom margin */
+            font-size: 24px;
+            font-weight: 600;
+            padding-right: 100px; /* Ensure title doesn't overlap with link */
+            line-height: 1.2;
+        }
+        .header p {
+            margin: 0;
+            font-size: 14px;
+            word-break: keep-all; /* Prevent awkward breaks in date */
+            white-space: normal; /* Allow wrapping if needed */
+            line-height: 1.3;
+        }
+        .header-link {
+             position: absolute;
+             top: 50%; /* Center vertically */
+             right: 20px;
+             transform: translateY(-50%); /* Precise vertical centering */
+             color: white;
+             text-decoration: none;
+             font-size: 14px;
+             background-color: rgba(255, 255, 255, 0.1); /* Optional background */
+             padding: 5px 10px;
+             border-radius: 3px;
+         }
+        .header-link:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+            text-decoration: underline; /* Add underline on hover */
+        }
+        .tabs {
+            overflow: hidden;
+            border-bottom: 1px solid #D3D3D3;
+            margin-bottom: 20px;
+        }
+        .tab-button {
+            background-color: inherit;
+            float: left;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 12px 18px;
+            transition: 0.3s;
+            font-size: 15px;
+            font-weight: 500;
+            color: #555; /* Original inactive text color */
+            border-bottom: 3px solid transparent;
+        }
+        /* New Hover Colors */
+        .tab-button:hover {
+            background-color: #E0EFFF; /* Light blue hover */
+            border-bottom: 3px solid #77AADD; /* Medium blue hover border */
+            color: #0056b3; /* Slightly darker blue text on hover */
+        }
+        /* New Active Colors */
+        .tab-button.active {
+            color: #007bff; /* Standard Bootstrap primary blue */
+            border-bottom: 3px solid #007bff;
+            font-weight: 600; /* Make active tab text slightly bolder */
+        }
+        .tab-content {
+            display: none;
+            padding: 15px 5px;
+            border-top: none;
+            animation: fadeEffect 0.5s;
+        }
+        @keyframes fadeEffect {
+            from {opacity: 0;}
+            to {opacity: 1;}
+        }
+        .kpi-container {
+            display: grid; /* Use grid for better control */
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); /* Responsive columns */
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .kpi-card {
+            background-color: #F8F9FA; /* Lighter grey */
+            padding: 15px;
+            border-radius: 4px;
+            text-align: center;
+            border-left: 4px solid #0F2C59; /* Deep blue accent */
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+        }
+        .kpi-card h3 {
+            margin: 0 0 8px 0;
+            font-size: 15px; /* Slightly smaller title */
+            color: #0F2C59;
+            font-weight: 600;
+        }
+        .kpi-card p.value {
+            margin: 0;
+            font-size: 22px; /* Larger value */
+            font-weight: bold;
+            color: #212529; /* Darker text */
+        }
+         .kpi-card .value-change { /* Style for change indicator */
+            font-size: 13px; /* Smaller subtext */
+            margin-top: 5px;
+            color: #6C757D; /* Grey subtext */
+        }
+        .kpi-card .value-change.negative {
+             color: #D32F2F; /* Red for negative */
+             font-weight: 500;
+        }
+        .kpi-card .value-change.positive {
+             color: #388E3C; /* Green for positive */
+             font-weight: 500;
+        }
+        h2 {
+            color: #0F2C59; /* Deep Blue */
+            border-bottom: 2px solid #E9ECEF; /* Lighter border */
+            padding-bottom: 8px;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 12px; /* Slightly more spacing */
+            padding-left: 20px; /* Indent more */
+            position: relative;
+        }
+        li::before {
+            content: '■';
+            position: absolute;
+            left: 0;
+            color: #007bff; /* Use active tab blue for bullet */
+            font-size: 10px;
+            top: 7px; /* Adjust vertical alignment */
+        }
+        .section {
+            margin-bottom: 25px;
+            padding: 20px; /* More padding */
+            background-color: #FFFFFF;
+            border: 1px solid #E9ECEF; /* Lighter border */
+            border-radius: 4px;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+        }
+        .section h3 {
+            margin-top: 0;
+            margin-bottom: 12px;
+            font-size: 16px;
+            color: #0F2C59;
+            font-weight: 600;
+        }
+        .keyword {
+            font-weight: 600;
+            color: #17a2b8; /* Teal color for keywords */
+            background-color: #e2f7fa; /* Light teal background */
+            padding: 2px 5px;
+            border-radius: 3px;
+            margin-right: 3px;
+        }
+         .roadmap {
+            margin-top: 30px;
+            border-top: 1px solid #D3D3D3;
+            padding-top: 20px;
+        }
+        .roadmap h2 {
+            margin-bottom: 20px;
+        }
+        .roadmap-item {
+            margin-bottom: 15px;
+            padding-left: 25px;
+            position: relative;
+            border-left: 2px solid #0F2C59;
+            padding-bottom: 10px;
+            padding-top: 5px;
+        }
+         .roadmap-item::before {
+            content: '';
+            position: absolute;
+            left: -8px;
+            top: 10px;
+            width: 14px;
+            height: 14px;
+            background-color: #0F2C59;
+            border-radius: 50%;
+            border: 2px solid #FFFFFF;
+        }
+        .roadmap-item strong {
+            display: block;
+            color: #0F2C59;
+            font-weight: 600;
+            margin-bottom: 3px;
+            font-size: 15px;
+        }
+         .roadmap-item span {
+            font-size: 14px;
+            color: #555;
+         }
+         /* Use ul/li for roadmap items for proper bullet formatting */
+        .roadmap ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        .roadmap li {
+            margin-bottom: 15px;
+            padding-left: 25px;
+            position: relative;
+            border-left: 2px solid #0F2C59;
+            padding-bottom: 10px;
+            padding-top: 5px;
+        }
+        .roadmap li::before { /* Timeline circle */
+            content: '';
+            position: absolute;
+            left: -8px;
+            top: 10px;
+            width: 14px;
+            height: 14px;
+            background-color: #0F2C59;
+            border-radius: 50%;
+            border: 2px solid #FFFFFF;
+        }
+         .roadmap li strong { /* Date/Event */
+            display: block;
+            color: #0F2C59;
+            font-weight: 600;
+            margin-bottom: 3px;
+            font-size: 15px;
+        }
+         .roadmap li ul { /* Inner list for bullet points */
+            list-style-type: none; /* Reset inner list style */
+            padding-left: 0;
+            margin-top: 5px;
+            margin-bottom: 0; /* Remove extra bottom margin */
+            border-left: none; /* Remove inner timeline bar */
+         }
+         .roadmap li ul li { /* Individual bullet point item */
+            margin-bottom: 5px;
+            padding-left: 15px; /* Indent bullet point */
+            border-left: none; /* Remove inner timeline bar */
+            padding-top: 0;
+            padding-bottom: 0;
+            position: relative;
+         }
+         .roadmap li ul li::before { /* Bullet point style */
+             content: '-'; /* Use hyphen as bullet */
+             position: absolute;
+             left: 0;
+             color: #333; /* Bullet color */
+             font-weight: bold;
+             top: 0px; /* Adjust vertical alignment */
+             width: auto; /* Reset size */
+             height: auto; /* Reset size */
+             background-color: transparent; /* Reset background */
+             border-radius: 0; /* Reset border-radius */
+             border: none; /* Reset border */
+         }
+
+        .references {
+            margin-top: 30px;
+            border-top: 1px solid #D3D3D3;
+            padding-top: 20px;
+        }
+        .references h2 {
+             margin-bottom: 15px;
+        }
+        .references ul {
+            list-style-type: none;
+            padding-left: 0;
+            font-size: 13px;
+            max-height: 300px; /* Limit height and enable scroll */
+             overflow-y: auto; /* Add scrollbar if content overflows */
+            border: 1px solid #EFEFEF;
+             padding: 15px; /* More padding */
+            background-color: #F8F9FA; /* Lighter grey */
+            border-radius: 4px;
+        }
+        .references li {
+            margin-bottom: 10px; /* More spacing */
+            padding-left: 0; /* Reset padding */
+        }
+         .references li::before {
+            content: ''; /* Remove default bullet */
+         }
+        .references a {
+            color: #005A9C; /* Standard link blue */
+            text-decoration: none;
+            display: block; /* Make link take full width */
+            word-break: break-all; /* Break long titles/URLs */
+        }
+        .references a:hover {
+            text-decoration: underline;
+            color: #003d69; /* Darker blue on hover */
+        }
+         .references .ref-date {
+             font-size: 11px;
+             color: #6c757d;
+             margin-left: 5px; /* Space between title and date */
+         }
+        .footer {
+            text-align: right;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #666;
+            border-top: 1px solid #D3D3D3;
+            padding-top: 15px;
+        }
+        /* Responsive adjustments */
+        @media (max-width: 992px) { /* Adjust breakpoint for better grid behavior */
+             .kpi-container {
+                 grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); /* Slightly smaller min width */
+             }
+        }
+
+        @media (max-width: 768px) {
+            body { font-size: 13px; }
+            .header { padding: 10px 15px; min-height: 50px; }
+            .header h1 { font-size: 18px; padding-right: 80px; margin-bottom: 3px;}
+            .header p { font-size: 12px; line-height: 1.4; }
+             .header-link { font-size: 12px; top: 50%; right: 15px; padding: 4px 8px; }
+            .tab-button { padding: 10px 12px; font-size: 14px; }
+            .tabs { white-space: nowrap; overflow-x: auto; } /* Allow horizontal scrolling for tabs */
+            .kpi-container { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; } /* Further adjust grid */
+             .kpi-card h3 { font-size: 14px; }
+             .kpi-card p.value { font-size: 20px; }
+             .kpi-card .value-change { font-size: 12px;}
+            h2 { font-size: 17px; }
+            .section { padding: 15px; }
+            .section h3 { font-size: 15px; }
+            .roadmap li { padding-left: 20px; }
+            .roadmap li::before { left: -7px; top: 8px; width: 12px; height: 12px;}
+            .roadmap li ul li { padding-left: 12px; } /* Adjust bullet indent */
+            .references ul { font-size: 12px; max-height: 250px; padding: 10px; }
+        }
+         @media (max-width: 480px) { /* Further adjustments for very small screens */
+             .container { padding: 15px; }
+             .header h1 { font-size: 16px; padding-right: 70px;}
+             /* Adjusted date format for mobile */
+             .header p { font-size: 11px; }
+             .header-link { font-size: 11px; padding: 3px 6px; right: 10px;}
+             .tab-button { font-size: 12px; padding: 8px 8px; }
+             .kpi-container { grid-template-columns: 1fr; } /* Stack KPIs */
+             .kpi-card { min-width: 0; } /* Reset min-width */
+             h2 { font-size: 16px; }
+             .section h3 { font-size: 14px; }
+             li { padding-left: 15px; }
+             li::before { top: 6px; }
+             .roadmap li ul li { padding-left: 10px; } /* Adjust bullet indent */
+             .references ul { font-size: 11px; }
+              .references .ref-date { display: inline; margin-left: 5px; margin-top: 0;} /* Keep date inline */
+         }
+
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="header">
+        <h1>디스플레이 산업 국내 기사 대시보드</h1>
+        <p>기간: 25-04-05 21:48 ~ 25-04-06 07:00 기사</p>
+        <a href="https://gwanwoodavidkim.github.io/News_Dashboard/" target="_blank" class="header-link">과거 기사</a>
+    </div>
+
+    <div class="tabs">
+        <button class="tab-button active" onclick="openTab(event, 'Key_KPI')">금일 핵심 지표</button>
+        <button class="tab-button" onclick="openTab(event, 'Display_Trend')">디스플레이 산업 동향</button>
+        <button class="tab-button" onclick="openTab(event, 'Customer_Trend')">고객 동향</button>
+        <button class="tab-button" onclick="openTab(event, 'Competitor_Trend')">경쟁사 동향</button>
+        <button class="tab-button" onclick="openTab(event, 'IT_Issue')">IT 산업계 주요 이슈</button>
+        <button class="tab-button" onclick="openTab(event, 'SCM_Trend')">SCM 동향</button>
+    </div>
+
+    <div id="Key_KPI" class="tab-content" style="display: block;">
+        <h2>금일 핵심 지표</h2>
+        <div class="kpi-container">
+             <div class="kpi-card">
+                 <h3>美 상호관세 (對中)</h3>
+                 <p class="value">54%</p>
+                 <p class="value-change">기존 20% + 상호관세 34%</p>
+            </div>
+            <div class="kpi-card">
+                <h3>美 상호관세 (對베트남)</h3>
+                <p class="value">46%</p>
+                <p class="value-change">삼성전자 주요 생산 거점</p>
+            </div>
+             <div class="kpi-card">
+                 <h3>美 상호관세 (對韓)</h3>
+                 <p class="value">26%</p>
+                 <p class="value-change">보편 10% + 상호관세 추정</p>
+             </div>
+            <div class="kpi-card">
+                <h3>Apple 주가 변동 (4/4)</h3>
+                <p class="value">-9.3%</p>
+                <p class="value-change negative">시총 3000억$ 증발 (관세 영향)</p>
+            </div>
+            <div class="kpi-card">
+                <h3>아이폰 가격 인상 전망</h3>
+                <p class="value">최대 +43%</p>
+                 <p class="value-change">프로 맥스 2300$(약 330만원) 예상</p>
+             </div>
+             <div class="kpi-card">
+                 <h3>Apple 연 순이익 감소 전망</h3>
+                 <p class="value">-330억$</p>
+                 <p class="value-change negative">관세 비용 미전가 시 (모건스탠리)</p>
+             </div>
+        </div>
+
+        <div class="section">
+            <h3>핵심 요약</h3>
+            <ul>
+                <li><span class="keyword">트럼프 행정부, 상호관세 부과 발표:</span> 전 세계 교역국 대상 '10%+α' 관세 적용 예정. 특히 애플/삼성전자 등 IT 기업들의 주요 생산 기지인 <span class="keyword">중국(총 54%)</span>, <span class="keyword">베트남(46%)</span>, 인도(26%), 한국(26%) 등에 고율 관세 부과로 글로벌 공급망 및 가격 정책에 큰 충격 예상.</li>
+                <li><span class="keyword">Apple 최대 타격 우려:</span> 아이폰 대부분을 중국 및 베트남 등 고율 관세 지역에서 생산하여 직격탄. 관세 비용 전가 시 <span class="keyword">아이폰 가격 최대 43% 폭등</span> (최상위 모델 약 330만원) 가능성 제기. 비용 미전가 시 연간 순이익 330억 달러 감소 추정. 관세 발표 후 <span class="keyword">주가 9.3% 급락</span>. 트럼프 1기 때와 달리 관세 면제 가능성 불투명.</li>
+                 <li><span class="keyword">삼성전자 영향 및 대응:</span> 주요 생산 거점 베트남(46%) 관세 부담 크지만, 인도(26%)/브라질(10%)/한국(26%) 등 생산기지 다변화로 대응 모색. 관세율이 더 높은 Apple 대비 <span class="keyword">상대적 가격 경쟁력 확보</span> 가능성 및 반사이익 기대 공존.</li>
+                <li><span class="keyword">부품 업계 영향:</span> 삼성전기, LG이노텍 등 베트남 생산 거점 부품 업체들, 세트업체 관세 부담 전가(단가 인하 압박) 및 <span class="keyword">고객사 이탈 가능성</span>에 긴장. (예: FC-BGA 고객사 일본 이전 가능성).</li>
+                 <li><span class="keyword">초슬림 스마트폰 경쟁:</span> 삼성전자, 초슬림폰 <span class="keyword">'갤럭시S25 엣지'</span> (5.8mm) 출시 준비 (5~6월 예상). 애플도 하반기 '아이폰17 에어' (5.5mm) 출시 전망, 프리미엄 시장 새 격전지 부상.</li>
+                 <li><span class="keyword">화웨이 부활:</span> 지난해 소비자 부문 매출 38.3% 성장. 자체 OS '하모니' 생태계 확장 및 중·고급형 신제품(노바14, 퓨라80 등) 출시로 시장 영향력 확대 시도.</li>
+            </ul>
+        </div>
+         <div class="section">
+            <h3>주요 시사점</h3>
+            <ul>
+                <li><span class="keyword">공급망 재편 가속화 및 불확실성 극대화:</span> 트럼프발 상호관세는 특정 국가를 넘어 글로벌 IT 공급망 전체를 뒤흔들며 기업들의 생산 전략 전면 재검토 불가피. 탈중국 대안으로 부상했던 베트남 등 동남아 국가마저 고율 관세 대상이 되면서 <span class="keyword">리스크 분산 전략의 복잡성</span> 증대.</li>
+                <li><span class="keyword">가격 vs. 수익성 딜레마 심화:</span> 관세 비용을 소비자에게 전가할 경우 (특히 Apple) 가격 경쟁력 약화 및 수요 위축 불가피. 비용 흡수 시 기업 수익성에 심각한 타격. 삼성전자는 생산기지 다변화로 <span class="keyword">대응 유연성</span>은 높으나, 관세 부담 완전 해소는 어려움.</li>
+                 <li><span class="keyword">미중 기술 패권 경쟁 재점화 신호탄:</span> 이번 관세는 중국 견제 목적이 뚜렷하며, 애플 등 미국 기업조차 타격을 감수하는 강경책. 향후 <span class="keyword">기술 분야에서의 추가적인 제재나 갈등</span> 심화 가능성 내포.</li>
+                 <li><span class="keyword">프리미엄 스마트폰 시장 변화 촉진:</span> 관세로 인한 아이폰 가격 급등 가능성은 소비자들의 구매 결정에 영향. 삼성의 <span class="keyword">초슬림폰 선제 출시</span> 및 상대적 가격 우위 전략이 시장 점유율 변화를 가져올지 주목.</li>
+                 <li><span class="keyword">국내 부품업체 위기관리 능력 시험대:</span> 세트업체의 관세 부담 전가 압력과 경쟁 심화 속에서 <span class="keyword">기술 경쟁력 확보</span> 및 고객사 다변화 노력 더욱 중요. 특히 Apple 의존도 높은 LG이노텍 등은 리스크 관리 강화 필요.</li>
+             </ul>
+         </div>
+    </div>
+
+    <div id="Display_Trend" class="tab-content">
+        <h2>디스플레이 산업 동향</h2>
+         <div class="section">
+             <h3>시장/기술 동향</h3>
+            <ul>
+                <li><span class="keyword">초슬림 스마트폰 경쟁 예고:</span> 삼성전자 '갤럭시S25 엣지'(5.8mm 예상), 애플 '아이폰17 에어'(5.5mm 예상) 등 초슬림 폼팩터가 프리미엄 시장의 새로운 트렌드로 부상할 가능성. 이는 디스플레이 패널의 <span class="keyword">두께와 내구성</span> 등 기술적 요구사항 변화로 이어질 수 있음.</li>
+                 <li><span class="keyword">프리미엄폰 시장 중요성 증대:</span> 전체 스마트폰 수요 둔화 속 <span class="keyword">신흥시장 중심 프리미엄폰 수요 증가</span>. 초슬림폰 등 차별화된 제품으로 시장 공략 필요성 커짐.</li>
+                 <li>(기타 디스플레이 관련 기술/시장 직접 언급된 내용은 이번 기사 모음에서 제한적)</li>
+             </ul>
+        </div>
+         <div class="section">
+            <h3>국내 업체 동향</h3>
+             <ul>
+                 <li>(이번 기사 모음에서 삼성디스플레이, LG디스플레이 관련 직접적 동향 언급 제한적)</li>
+                 <li><span class="keyword">생산기지 다변화 활용:</span> 삼성전자는 미국의 관세 정책에 대응하기 위해 베트남 외 인도, 브라질, 한국 등 <span class="keyword">글로벌 생산기지를 탄력적으로 활용</span>할 것으로 예상됨. 특히 관세율이 상대적으로 낮은 브라질, 한국 공장의 대미 수출 기지 역할 가능성.</li>
+             </ul>
+         </div>
+    </div>
+
+    <div id="Customer_Trend" class="tab-content">
+        <h2>고객 동향</h2>
+        <div class="section">
+            <h3>Apple</h3>
+             <ul>
+                <li><span class="keyword">美 상호관세 직격탄:</span> 최대 생산기지 중국(총 54% 관세)과 주요 거점 베트남(46%), 인도(26%) 등 고율 관세 부과로 <span class="keyword">공급망 및 가격 정책</span>에 심각한 타격 예상. 관세 비용 전가 시 아이폰 가격 최대 43% (약 1.4배) 인상 가능성 제기 (예: 아이폰16 프로 맥스 $1599 → $2300).</li>
+                <li><span class="keyword">재무적 충격 및 주가 급락:</span> 관세 발표 후 주가 9.3% 폭락, 시가총액 약 3000억 달러 증발. 비용 미전가 시 연간 <span class="keyword">순이익 330억 달러 감소</span> 전망(모건 스탠리). 이는 주당순이익(EPS) 10-15% 감소 수준.</li>
+                <li><span class="keyword">관세 면제 불확실성:</span> 트럼프 1기 행정부 당시 일부 품목 면제받았으나, 이번에는 "어떠한 기업도 예외 없을 것"이라는 트럼프 발언으로 <span class="keyword">면제 가능성 낮게</span> 점쳐짐. 애플은 5년간 5000억 달러 미국 투자 및 2만 명 고용 계획 발표 등 협상 카드 준비했으나 효과 미지수.</li>
+                <li><span class="keyword">신제품 동향:</span> 하반기 초슬림폰 <span class="keyword">'아이폰17 에어'</span> (약 5.5mm 두께) 출시 예상. 가격은 약 900달러 전망되나 관세 영향으로 변동 가능성 큼.</li>
+                <li><span class="keyword">판매 부진 우려 심화:</span> 최근 아이폰16 AI 기능 반응 미흡 등 판매 부진 우려 속, 가격 인상 현실화 시 <span class="keyword">소비자 이탈 가속화</span> 및 시장 점유율 하락 가능성.</li>
+                <li><span class="keyword">공급망 전략 재검토 압박:</span> 현재 공급망 다변화(베트남, 인도 확대)에도 불구, 관세 영향 불가피. 장기적으로 미국 내 생산 이전 등 <span class="keyword">근본적인 공급망 변화</span> 필요성 제기되나 단기 해결책 아님.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>Samsung Electronics (고객사 관점)</h3>
+             <ul>
+                 <li><span class="keyword">美 관세 반사이익 기대?:</span> Apple 대비 상대적으로 낮은 관세율(한국 26% 등)과 생산기지 다변화로 <span class="keyword">가격 경쟁력 우위</span> 확보 가능성. Apple의 가격 인상 시 미국 시장 등에서 점유율 확대 기회 모색 가능.</li>
+                 <li><span class="keyword">초슬림폰 선점 전략:</span> 이르면 5월 '갤럭시S25 엣지' (5.8mm 예상) 출시로 초슬림폰 시장 <span class="keyword">선점 효과</span> 기대. 프리미엄 시장에서 새로운 수요 창출 및 Apple과의 격차 축소 시도.</li>
+                 <li><span class="keyword">리더십 변화:</span> 노태문 MX사업부장이 DX부문장 직무대행 겸임. 스마트폰 성공과 함께 가전/TV 사업 반등 이끌어야 하는 과제 안음. 갤럭시S25 엣지 성공 중요성 부각.</li>
+                 <li><span class="keyword">생산 거점 활용:</span> 베트남(관세 46%) 물량 비중 조절, 인도(26%)/브라질(10%)/한국(26%) 등 <span class="keyword">저관세 지역 생산기지 활용</span> 극대화 전략 예상.</li>
+            </ul>
+        </div>
+         <div class="section">
+             <h3>Huawei</h3>
+            <ul>
+                <li><span class="keyword">스마트폰 사업 반등:</span> 지난해 매출 22.4% 증가, 특히 소비자(스마트폰 포함) 부문 38.3% 성장. '메이트60' 시리즈 흥행 및 내수 애국 소비 영향. 지난해 <span class="keyword">스마트폰 출하량 35.8% 증가</span> (4840만대).</li>
+                <li><span class="keyword">독자 생태계 강화:</span> 자체 OS <span class="keyword">'하모니OS'</span> 적용 기기 10억대 돌파, 개발자 720만 명 참여. 구글 안드로이드 의존 탈피 가속화.</li>
+                 <li><span class="keyword">신제품 공세:</span> 이달 말 중급기 '노바 14 시리즈'(하모니OS 5.0 탑재), 플래그십 '퓨라(Pura) 80' 시리즈, 신규 폴더블폰 '퓨라X' 등 출시 예정.</li>
+            </ul>
+        </div>
+         <div class="section">
+             <h3>기타 고객사 (Microsoft 등)</h3>
+            <ul>
+                <li><span class="keyword">MS 창립 50주년 행사:</span> 전현직 CEO(빌 게이츠, 스티브 발머, 사티아 나델라) 코파일럿 인터뷰 진행. 과거 회고 및 <span class="keyword">AI 중심 미래 비전</span> 공유 (코파일럿의 역할 강조).</li>
+                <li>(HP, Dell, Lenovo, Meta 등 다른 고객사 관련 직접적 언급 제한적)</li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="Competitor_Trend" class="tab-content">
+        <h2>경쟁사 동향</h2>
+         <div class="section">
+             <h3>Samsung Display (SDC)</h3>
+             <ul>
+                 <li>(이번 기사 모음에서 SDC 관련 직접적 동향 언급 제한적)</li>
+             </ul>
+         </div>
+        <div class="section">
+            <h3>중국 패널 업체 (BOE, CSOT, Visionox 등)</h3>
+             <ul>
+                 <li>(이번 기사 모음에서 중국 경쟁사 관련 직접적 동향 언급 제한적)</li>
+             </ul>
+        </div>
+         <div class="section">
+             <h3>기타 경쟁사 (Sharp, JDI, AUO, Innolux 등)</h3>
+             <ul>
+                 <li><span class="keyword">일본 FC-BGA 업체 반사이익?:</span> 삼성전기의 베트남 FC-BGA 공장(관세 46%) 대비 일본 이비덴/신코덴키(관세 24% 추정)가 <span class="keyword">가격 경쟁력</span>에서 유리해질 수 있다는 관측 제기.</li>
+                 <li>(그 외 Sharp, JDI, AUO, Innolux 등 직접적 언급 제한적)</li>
+             </ul>
+         </div>
+    </div>
+
+    <div id="IT_Issue" class="tab-content">
+        <h2>IT 산업계 주요 이슈</h2>
+        <div class="section">
+            <h3>트럼프 행정부 상호관세 부과 및 파급 효과</h3>
+            <ul>
+                <li><span class="keyword">글로벌 공급망 충격:</span> 미국이 전 세계 교역국 대상 '10%+α' 상호관세 부과 발표. 특히 <span class="keyword">중국(총 54%)</span>, 베트남(46%), 인도(26%), 한국(26%) 등 아시아 주요 IT 생산기지에 고율 관세 적용으로 글로벌 공급망 대혼란 및 비용 상승 불가피.</li>
+                <li><span class="keyword">기술주 동반 폭락:</span> 관세 발표 직후 애플(-9.3%), 아마존(-9.0%), 메타(-9.0%), 엔비디아(-7.8%) 등 주요 기술주 급락. 시장 불확실성 증폭.</li>
+                 <li><span class="keyword">소비자 가격 인상 압력 ('폰플레이션' 심화):</span> Apple 등 생산비용 증가를 소비자에게 전가할 가능성 큼. 아이폰 가격 <span class="keyword">최대 43% 인상</span> 전망 등 스마트폰, 노트북 등 IT 기기 가격 전반 상승 우려.</li>
+                 <li><span class="keyword">공급망 재편 불가피성 증대:</span> 기존 중국 중심 또는 탈중국(동남아) 전략 모두 리스크 노출. 기업들은 미국 내 생산 확대, 멕시코 등 인접국 활용, 제3지역 모색 등 <span class="keyword">공급망 전략 전면 재검토</span> 압박 심화.</li>
+                 <li><span class="keyword">미국 자국 기업도 타격:</span> 애플, 나이키 등 해외 생산 의존도가 높은 미국 기업들도 관세 부과로 직접적인 타격 예상.</li>
+                 <li><span class="keyword">부품업체 연쇄 타격:</span> 세트(완제품)업체의 관세 부담이 부품 단가 인하 압력, 공급량 감소, 고객사 이탈 등으로 이어져 <span class="keyword">삼성전기, LG이노텍</span> 등 국내 부품업체에도 간접적 영향 우려.</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>프리미엄 스마트폰 시장 동향</h3>
+             <ul>
+                <li><span class="keyword">초슬림 경쟁 본격화:</span> 삼성 '갤럭시S25 엣지' (5.8mm 예상)와 애플 '아이폰17 에어' (5.5mm 예상) 출시로 <span class="keyword">휴대성과 디자인</span>을 강조한 초슬림 폼팩터가 새로운 경쟁 영역으로 부상.</li>
+                <li><span class="keyword">시장 점유율 경쟁 심화:</span> 2024년 프리미엄폰(600달러 이상) 시장 점유율 Apple 67%, 삼성 18%. 삼성은 초슬림폰 등 신규 라인업으로 <span class="keyword">Apple과의 격차 축소</span> 시도.</li>
+                <li><span class="keyword">가격 민감도 증가 가능성:</span> 트럼프 관세로 인한 아이폰 가격 인상 가능성은 소비자들이 <span class="keyword">가격 대비 성능 및 디자인</span> 요소를 더욱 중요하게 고려하게 만들 수 있음.</li>
+            </ul>
+        </div>
+         <div class="section">
+             <h3>AI 기술 동향</h3>
+             <ul>
+                 <li><span class="keyword">MS 코파일럿 중심 전략:</span> MS, 창립 50주년 행사에서 AI 비서 '코파일럿'의 중요성 강조. 모든 사용자의 <span class="keyword">AI 동반자</span>로 발전시키는 비전 제시.</li>
+                 <li><span class="keyword">Apple AI 기능 논란 지속:</span> 아이폰16 '애플 인텔리전스' 기능에 대한 기대치 미충족 및 <span class="keyword">가격 인상 가능성</span>과 맞물려 소비자 반응 주목.</li>
+             </ul>
+         </div>
+    </div>
+
+    <div id="SCM_Trend" class="tab-content">
+        <h2>SCM 동향</h2>
+        <div class="section">
+            <h3>미국 상호관세 영향</h3>
+            <ul>
+                <li><span class="keyword">생산기지 리스크 부각:</span> 베트남(관세 46%), 중국(54%), 인도네시아(32%) 등 주요 생산 거점 고율 관세 부과로 해당 지역 생산 의존도 높은 기업 <span class="keyword">비용 증가 및 가격 경쟁력 약화</span> 우려. (예: 삼성전자, 삼성전기, LG이노텍 베트남 공장)</li>
+                <li><span class="keyword">부품 공급망 영향:</span> 세트업체의 관세 부담이 부품 <span class="keyword">단가 인하 압박</span>으로 이어질 가능성. 부품 공급량 감소 및 고객사의 저관세 지역 경쟁사(예: 일본 FC-BGA 업체) 이전 가능성 제기.</li>
+                <li><span class="keyword">생산기지 다변화 전략 재검토:</span> 삼성전자 등은 관세율이 상대적으로 낮은 인도(26%), 브라질(10%), 한국(26%) 등으로 <span class="keyword">생산 물량 조정</span> 또는 이전 검토 가능성. 베트남 생산 물량을 한국 내수용으로 돌리고, 한국 생산 물량을 대미 수출용으로 전환하는 시나리오 등 거론.</li>
+                <li><span class="keyword">Apple 공급망 압박 심화 가능성:</span> Apple은 높은 관세 부담을 상쇄하기 위해 LG이노텍 등 <span class="keyword">부품 공급사에 가격 인하 압력</span>을 가중시킬 수 있음. 이는 지난해 중국 업체 진입으로 수익성 악화를 겪은 LG이노텍에 추가 부담 요인.</li>
+            </ul>
+        </div>
+         <div class="section">
+             <h3>주요 부품사 동향 (삼성전기, LG이노텍)</h3>
+             <ul>
+                 <li><span class="keyword">삼성전기:</span> 베트남 공장에서 FC-BGA(AMD 등 공급), 카메라 모듈 생산. 관세 영향으로 신규 고객 확보 및 <span class="keyword">추가 수주에 제동</span> 걸릴 우려. 일본 경쟁사 대비 가격 경쟁력 약화 가능성.</li>
+                 <li><span class="keyword">LG이노텍:</span> 베트남 공장에서 생산한 카메라 모듈을 중국 폭스콘(아이폰 제조)으로 수출. Apple의 관세 부담 증가로 인한 <span class="keyword">부품가 하락 압박</span> 재현 우려.</li>
+             </ul>
+         </div>
+          <div class="section">
+              <h3>기타 SCM 관련 뉴스</h3>
+             <ul>
+                 <li>(이번 기사 모음에서 장비/소재 업체 관련 직접적인 SCM 동향 언급 제한적)</li>
+             </ul>
+          </div>
+    </div>
+
+    <div class="roadmap">
+        <h2>주요 일정 로드맵 (예상 포함)</h2>
+         <ul>
+             <li>
+                 <strong>2025년 4월 9일</strong>
+                 <ul>
+                     <li>- 미국 상호관세 발효 예정</li>
+                 </ul>
+            </li>
+            <li>
+                 <strong>2025년 4월 말</strong>
+                 <ul>
+                    <li>- 화웨이 '노바 14 시리즈' 출시 예정</li>
+                 </ul>
+             </li>
+             <li>
+                 <strong>2025년 5월~6월 (예상)</strong>
+                 <ul>
+                    <li>- 삼성전자 '갤럭시 S25 엣지' 언팩 행사 예상 (기존 4월에서 연기)</li>
+                 </ul>
+            </li>
+             <li>
+                 <strong>2025년 7월 말 (예상)</strong>
+                 <ul>
+                    <li>- 삼성전자 차기 폴더블 스마트폰 공개 예상 (관세 영향 주목)</li>
+                 </ul>
+            </li>
+            <li>
+                <strong>2025년 하반기</strong>
+                <ul>
+                    <li>- Apple '아이폰 17 시리즈' (아이폰17 에어 포함) 공개/출시 예정 (관세 영향 가격 변동 주목)</li>
+                    <li>- 화웨이 플래그십 '퓨라(Pura) 80' 시리즈 공개 예상</li>
+                    <li>- 화웨이 폴더블폰 '퓨라X' 글로벌 출시 전망</li>
+                </ul>
+            </li>
+            <li>
+                 <strong>2025년 (미정)</strong>
+                 <ul>
+                     <li>- 삼성전기, 베트남 공장 FC-BGA 추가 수주 활동 (관세 영향 변수)</li>
+                 </ul>
+            </li>
+         </ul>
+    </div>
+
+    <div class="references">
+      <h2>참고 기사 목록</h2>
+      <ul>
+          <li><a href="https://n.news.naver.com/mnews/article/001/0015313187?sid=101" target="_blank">美, 애플에 관세 면제설 '모락'…삼성 기댈 곳은 전 세계 공장</a><span class="ref-date">(2025-04-06 07:00)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/001/0015313173?sid=101" target="_blank">동남아 덮친 '트럼프 관세'…삼성전기·LG이노텍도 '초긴장'</a><span class="ref-date">(2025-04-06 06:30)</span></li>
+          <li><a href="https://www.businesspost.co.kr/BP?command=article_view&num=390136" target="_blank">어깨 무거운 삼성전자 노태문, 초슬림폰 '갤럭시S25 엣지'로 애플 사냥 ...</a><span class="ref-date">(2025-04-06 06:20)</span></li>
+          <li><a href="https://it.chosun.com/news/articleView.html?idxno=2023092137832" target="_blank">'관세 늪' 美 시장… 아이폰 보다 갤럭시가 유리(?)</a><span class="ref-date">(2025-04-06 06:00)</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/030/0003300454?sid=105" target="_blank">정상 궤도 오른 화웨이 스마트폰, 올해도 중·고급폰 연달아 출시</a><span class="ref-date">(2025-04-06 01:51)</span></li>
+          <li><a href="https://www.betanews.net/article/view/beta202504050021" target="_blank">관세 충격, 아이폰 17 프로 가격 2300달러까지 치솟을 수도...</a><span class="ref-date">(2025-04-05 22:54)</span></li>
+          <li><a href="https://www.tfmedia.co.kr/news/article.html?no=184223" target="_blank">'아이폰16' 애플, 관세 직격탄 맞고 가격 급등</a><span class="ref-date">(2025-04-05 22:54)</span></li>
+          <li><a href="https://www.jemin.com/news/articleView.html?idxno=794463" target="_blank">'아이폰16' 애플, 관세 직격탄 맞고 가격 급등</a><span class="ref-date">(2025-04-05 22:54)</span></li>
+          <li><a href="https://www.betanews.net/article/view/beta202504050020" target="_blank">트럼프 관세로 애플 순이익 330억 달러 감소 전망: 글로벌 공급망에 직...</a><span class="ref-date">(2025-04-05 22:28)</span></li>
+          <li><a href="https://www.betanews.net/article/view/beta202504050019" target="_blank">마이크로소프트 전현직 CEO 3인, 코파일럿 인터뷰에서 과거와 미래를 논...</a><span class="ref-date">(2025-04-05 22:04)</span></li>
+          <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=560264" target="_blank">관세 직격탄 애플 '흔들'…아이폰17보다 지금 아이폰16이 더 낫다</a><span class="ref-date">(2025-04-05 21:48)</span></li>
+      </ul>
+    </div>
+
+    <div class="footer">
+        출처: MCI 팀
+    </div>
+
+</div>
+
+<script>
+    function openTab(evt, tabName) {
+        var i, tabcontent, tabbuttons;
+        tabcontent = document.getElementsByClassName("tab-content");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
+        }
+        tabbuttons = document.getElementsByClassName("tab-button");
+        for (i = 0; i < tabbuttons.length; i++) {
+            tabbuttons[i].className = tabbuttons[i].className.replace(" active", "");
+        }
+        // Check if the element exists before trying to set its display style
+        const targetTab = document.getElementById(tabName);
+        if (targetTab) {
+             targetTab.style.display = "block";
+         }
+         // Ensure the event target exists before adding the active class
+         if (evt && evt.currentTarget) {
+            evt.currentTarget.className += " active";
+         }
+    }
+
+    // Activate the first tab by default when the page loads
+    document.addEventListener('DOMContentLoaded', (event) => {
+        // Find the first tab button
+        const firstTabButton = document.querySelector('.tab-button');
+        if(firstTabButton) {
+             // Simulate a click on the first tab button
+             // This ensures the openTab function runs and sets the correct display and active states
+             firstTabButton.click();
+         } else {
+             // Fallback: If no tab button exists, manually display the first tab content if it exists
+             const firstTabContent = document.querySelector('.tab-content');
+             if (firstTabContent) {
+                 firstTabContent.style.display = 'block';
+             }
+         }
+    });
+</script>
+
+</body>
+</html>
