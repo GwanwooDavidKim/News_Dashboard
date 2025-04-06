@@ -169,6 +169,17 @@
             font-size: 10px;
             top: 7px; /* Adjust vertical alignment */
         }
+        /* Style for updated list items */
+        li.updated-item {
+            background-color: #f0f8ff; /* AliceBlue - subtle highlight */
+            padding-top: 2px;
+            padding-bottom: 2px;
+            border-radius: 3px; /* Optional: slightly rounded corners */
+        }
+         li.updated-item::before {
+             color: #ff8c00; /* DarkOrange - indicate update */
+         }
+
         .section {
             margin-bottom: 25px;
             padding: 20px; /* More padding */
@@ -200,35 +211,8 @@
         .roadmap h2 {
             margin-bottom: 20px;
         }
-        .roadmap-item {
-            margin-bottom: 15px;
-            padding-left: 25px;
-            position: relative;
-            border-left: 2px solid #0F2C59;
-            padding-bottom: 10px;
-            padding-top: 5px;
-        }
-         .roadmap-item::before {
-            content: '';
-            position: absolute;
-            left: -8px;
-            top: 10px;
-            width: 14px;
-            height: 14px;
-            background-color: #0F2C59;
-            border-radius: 50%;
-            border: 2px solid #FFFFFF;
-        }
-        .roadmap-item strong {
-            display: block;
-            color: #0F2C59;
-            font-weight: 600;
-            margin-bottom: 3px;
-            font-size: 15px;
-        }
-         .roadmap-item span {
-            font-size: 14px;
-            color: #555;
+        .roadmap-item { /* Keep original styles for container if needed */
+             margin-bottom: 15px;
          }
          /* Use ul/li for roadmap items for proper bullet formatting */
         .roadmap ul {
@@ -254,6 +238,10 @@
             border-radius: 50%;
             border: 2px solid #FFFFFF;
         }
+        /* Mark updated roadmap items */
+         .roadmap li.updated-item::before {
+             background-color: #ff8c00; /* DarkOrange */
+         }
          .roadmap li strong { /* Date/Event */
             display: block;
             color: #0F2C59;
@@ -275,6 +263,7 @@
             padding-top: 0;
             padding-bottom: 0;
             position: relative;
+            background-color: transparent !important; /* Ensure bullets inside updated items don't get bg color */
          }
          .roadmap li ul li::before { /* Bullet point style */
              content: '-'; /* Use hyphen as bullet */
@@ -315,6 +304,13 @@
         }
          .references li::before {
             content: ''; /* Remove default bullet */
+         }
+         /* Style for newly added references */
+        .references li.updated-item {
+             background-color: #f0f8ff; /* AliceBlue - subtle highlight */
+             padding-left: 5px; /* Slight indent to show highlight */
+             margin-left: -5px; /* Counteract padding */
+             border-radius: 3px;
          }
         .references a {
             color: #005A9C; /* Standard link blue */
@@ -379,6 +375,8 @@
              .section h3 { font-size: 14px; }
              li { padding-left: 15px; }
              li::before { top: 6px; }
+             /* Ensure updated item highlighting doesn't break layout */
+             li.updated-item { padding-top: 1px; padding-bottom: 1px; }
              .roadmap li ul li { padding-left: 10px; } /* Adjust bullet indent */
              .references ul { font-size: 11px; }
               .references .ref-date { display: inline; margin-left: 5px; margin-top: 0;} /* Keep date inline */
@@ -391,7 +389,7 @@
 <div class="container">
     <div class="header">
         <h1>디스플레이 산업 국내 기사 대시보드</h1>
-        <p>기간: 25-04-05 21:48 ~ 25-04-06 07:00 기사</p>
+        <p>기간: 25-04-05 21:48 ~ 25-04-06 16:58 기사</p>
         <a href="https://gwanwoodavidkim.github.io/News_Dashboard/" target="_blank" class="header-link">과거 기사</a>
     </div>
 
@@ -415,12 +413,16 @@
             <div class="kpi-card">
                 <h3>美 상호관세 (對베트남)</h3>
                 <p class="value">46%</p>
-                <p class="value-change">삼성전자 주요 생산 거점</p>
+                <p class="value-change negative">트럼프 0% 언급, 불확실성↑</p>
             </div>
              <div class="kpi-card">
                  <h3>美 상호관세 (對韓)</h3>
-                 <p class="value">26%</p>
-                 <p class="value-change">보편 10% + 상호관세 추정</p>
+                 <p class="value">25%</p> <p class="value-change">보편 10% + 상호관세 15%</p>
+             </div>
+             <div class="kpi-card">
+                 <h3>삼성 공급망 인권관리 순위</h3>
+                 <p class="value">세계 1위</p>
+                 <p class="value-change positive">KnowTheChain 평가 (61점)</p>
              </div>
             <div class="kpi-card">
                 <h3>Apple 주가 변동 (4/4)</h3>
@@ -430,34 +432,40 @@
             <div class="kpi-card">
                 <h3>아이폰 가격 인상 전망</h3>
                 <p class="value">최대 +43%</p>
-                 <p class="value-change">프로 맥스 2300$(약 330만원) 예상</p>
+                 <p class="value-change">프로 맥스 2300$(약 336만원) 예상</p>
              </div>
              <div class="kpi-card">
-                 <h3>Apple 연 순이익 감소 전망</h3>
-                 <p class="value">-330억$</p>
-                 <p class="value-change negative">관세 비용 미전가 시 (모건스탠리)</p>
+                <h3>LGI 1Q 영업익 전망</h3>
+                <p class="value">1300억원↑</p>
+                <p class="value-change positive">기존 1000억→상향 (애플 선주문)</p>
+             </div>
+             <div class="kpi-card">
+                 <h3>美 ITC 판정 (對BOE)</h3>
+                 <p class="value">영업비밀 침해</p>
+                 <p class="value-change negative">잠정 결론, 수입금지 권고</p>
              </div>
         </div>
 
         <div class="section">
             <h3>핵심 요약</h3>
             <ul>
-                <li><span class="keyword">트럼프 행정부, 상호관세 부과 발표:</span> 전 세계 교역국 대상 '10%+α' 관세 적용 예정. 특히 애플/삼성전자 등 IT 기업들의 주요 생산 기지인 <span class="keyword">중국(총 54%)</span>, <span class="keyword">베트남(46%)</span>, 인도(26%), 한국(26%) 등에 고율 관세 부과로 글로벌 공급망 및 가격 정책에 큰 충격 예상.</li>
-                <li><span class="keyword">Apple 최대 타격 우려:</span> 아이폰 대부분을 중국 및 베트남 등 고율 관세 지역에서 생산하여 직격탄. 관세 비용 전가 시 <span class="keyword">아이폰 가격 최대 43% 폭등</span> (최상위 모델 약 330만원) 가능성 제기. 비용 미전가 시 연간 순이익 330억 달러 감소 추정. 관세 발표 후 <span class="keyword">주가 9.3% 급락</span>. 트럼프 1기 때와 달리 관세 면제 가능성 불투명.</li>
-                 <li><span class="keyword">삼성전자 영향 및 대응:</span> 주요 생산 거점 베트남(46%) 관세 부담 크지만, 인도(26%)/브라질(10%)/한국(26%) 등 생산기지 다변화로 대응 모색. 관세율이 더 높은 Apple 대비 <span class="keyword">상대적 가격 경쟁력 확보</span> 가능성 및 반사이익 기대 공존.</li>
-                <li><span class="keyword">부품 업계 영향:</span> 삼성전기, LG이노텍 등 베트남 생산 거점 부품 업체들, 세트업체 관세 부담 전가(단가 인하 압박) 및 <span class="keyword">고객사 이탈 가능성</span>에 긴장. (예: FC-BGA 고객사 일본 이전 가능성).</li>
-                 <li><span class="keyword">초슬림 스마트폰 경쟁:</span> 삼성전자, 초슬림폰 <span class="keyword">'갤럭시S25 엣지'</span> (5.8mm) 출시 준비 (5~6월 예상). 애플도 하반기 '아이폰17 에어' (5.5mm) 출시 전망, 프리미엄 시장 새 격전지 부상.</li>
-                 <li><span class="keyword">화웨이 부활:</span> 지난해 소비자 부문 매출 38.3% 성장. 자체 OS '하모니' 생태계 확장 및 중·고급형 신제품(노바14, 퓨라80 등) 출시로 시장 영향력 확대 시도.</li>
+                <li><span class="keyword">트럼프 행정부, 상호관세 부과 발표:</span> 전 세계 교역국 대상 '10%+α' 관세 적용 예정(韓 25%, 中 54%, 印 26%). 특히 <span class="keyword">베트남(46%)</span>에 고율 관세 부과했으나, 트럼프가 <span class="keyword">SNS 통해 0% 관세 가능성 언급</span>하며 정책 불확실성 증폭.</li>
+                <li class="updated-item"><span class="keyword">삼성전자 위상 강화:</span> 국제 NGO 'KnowTheChain' 평가에서 애플, TSMC 등을 제치고 <span class="keyword">공급망 인권 관리 부문 세계 1위</span>(61점) 차지. ESG 경영 노력 인정.</li>
+                <li><span class="keyword">Apple 최대 타격 우려 지속:</span> 고율 관세 지역 생산 비중 높아 직격탄. <span class="keyword">아이폰 가격 최대 43% 인상</span> 가능성 및 순이익 감소 전망 여전. 관세 면제 가능성 낮게 점쳐지나, 과거 전례 및 트럼프의 변덕 가능성 상존.</li>
+                 <li class="updated-item"><span class="keyword">SDC, 아이패드 OLED 공략 강화:</span> 애플 <span class="keyword">아이패드 프로 13인치 모델 OLED 공급 승인</span> 획득. 11인치 이어 전 모델 공급 가능해져 LGD와 경쟁 심화 예상. 2026년형 아이패드 미니용 OLED도 개발 중.</li>
+                 <li class="updated-item"><span class="keyword">BOE, 美 제재 위기:</span> 미국 ITC 조사국, BOE의 삼성디스플레이 <span class="keyword">OLED 영업비밀 침해 잠정 결론</span> 및 관련 제품 수입 금지 권고. 최종 결정 시 미국 시장 진출 차질 불가피.</li>
+                 <li><span class="keyword">국내 부품사 영향 혼재:</span> LG이노텍, 관세 발효 전 <span class="keyword">애플의 카메라모듈 선주문</span> 증가로 1분기 이익 전망 상향(1000억→1300억). 반면, 베트남 관세 불확실성 및 장기적 단가 인하 압박 우려 공존. KH바텍, 폴더블 힌지 및 전장부품 성장 기대.</li>
+                 <li><span class="keyword">IT 시장 경쟁 구도 변화:</span> 삼성, AI 기능 탑재 '갤럭시 탭 S10 FE' 출시로 애플 아이패드 에어와 경쟁. 구글도 AI폰 '픽셀 9a' 출시 예정 등 <span class="keyword">가성비 AI 하드웨어</span> 경쟁 가열.</li>
             </ul>
         </div>
          <div class="section">
             <h3>주요 시사점</h3>
             <ul>
-                <li><span class="keyword">공급망 재편 가속화 및 불확실성 극대화:</span> 트럼프발 상호관세는 특정 국가를 넘어 글로벌 IT 공급망 전체를 뒤흔들며 기업들의 생산 전략 전면 재검토 불가피. 탈중국 대안으로 부상했던 베트남 등 동남아 국가마저 고율 관세 대상이 되면서 <span class="keyword">리스크 분산 전략의 복잡성</span> 증대.</li>
-                <li><span class="keyword">가격 vs. 수익성 딜레마 심화:</span> 관세 비용을 소비자에게 전가할 경우 (특히 Apple) 가격 경쟁력 약화 및 수요 위축 불가피. 비용 흡수 시 기업 수익성에 심각한 타격. 삼성전자는 생산기지 다변화로 <span class="keyword">대응 유연성</span>은 높으나, 관세 부담 완전 해소는 어려움.</li>
-                 <li><span class="keyword">미중 기술 패권 경쟁 재점화 신호탄:</span> 이번 관세는 중국 견제 목적이 뚜렷하며, 애플 등 미국 기업조차 타격을 감수하는 강경책. 향후 <span class="keyword">기술 분야에서의 추가적인 제재나 갈등</span> 심화 가능성 내포.</li>
-                 <li><span class="keyword">프리미엄 스마트폰 시장 변화 촉진:</span> 관세로 인한 아이폰 가격 급등 가능성은 소비자들의 구매 결정에 영향. 삼성의 <span class="keyword">초슬림폰 선제 출시</span> 및 상대적 가격 우위 전략이 시장 점유율 변화를 가져올지 주목.</li>
-                 <li><span class="keyword">국내 부품업체 위기관리 능력 시험대:</span> 세트업체의 관세 부담 전가 압력과 경쟁 심화 속에서 <span class="keyword">기술 경쟁력 확보</span> 및 고객사 다변화 노력 더욱 중요. 특히 Apple 의존도 높은 LG이노텍 등은 리스크 관리 강화 필요.</li>
+                <li><span class="keyword">관세 정책 불확실성 증대:</span> 트럼프의 베트남 관세 관련 <span class="keyword">돌발 발언</span>은 예측 불가능성을 높여 기업들의 장기 공급망 전략 수립 어렵게 함. 실제 정책 변화 여부 지속 모니터링 필요.</li>
+                 <li class="updated-item"><span class="keyword">ESG 경영 중요성 부각:</span> 삼성전자의 공급망 인권 관리 1위 평가는 <span class="keyword">글로벌 공급망에서 ESG 요소</span>가 기업 경쟁력 및 평판에 미치는 영향력 커지고 있음을 시사.</li>
+                 <li><span class="keyword">기술 경쟁 및 특허 분쟁 격화:</span> SDC의 아이패드 OLED 공급 확대 및 BOE 상대 ITC 잠정 승소는 <span class="keyword">첨단 디스플레이 기술 주도권</span> 및 지식재산권 보호의 중요성 강조. 기술 유출 방지 및 법적 대응 역량 강화 필요.</li>
+                <li><span class="keyword">부품업체, 단기 실적과 장기 리스크 공존:</span> LG이노텍 사례처럼 단기적 수혜(선주문) 가능성 있으나, 관세 장기화 시 <span class="keyword">원가 압박 및 고객사 다변화 요구</span> 증대. 핵심 기술력 기반 경쟁력 확보 및 리스크 관리 병행 필수.</li>
+                 <li><span class="keyword">가격 경쟁력 변수 부상:</span> 아이폰 가격 인상 가능성 속에서 삼성, 구글 등의 <span class="keyword">가성비 AI 제품 출시</span>는 소비자 선택에 영향 미칠 수 있음. '프리미엄 = 고가' 공식 흔들릴 가능성.</li>
              </ul>
          </div>
     </div>
@@ -467,16 +475,24 @@
          <div class="section">
              <h3>시장/기술 동향</h3>
             <ul>
-                <li><span class="keyword">초슬림 스마트폰 경쟁 예고:</span> 삼성전자 '갤럭시S25 엣지'(5.8mm 예상), 애플 '아이폰17 에어'(5.5mm 예상) 등 초슬림 폼팩터가 프리미엄 시장의 새로운 트렌드로 부상할 가능성. 이는 디스플레이 패널의 <span class="keyword">두께와 내구성</span> 등 기술적 요구사항 변화로 이어질 수 있음.</li>
-                 <li><span class="keyword">프리미엄폰 시장 중요성 증대:</span> 전체 스마트폰 수요 둔화 속 <span class="keyword">신흥시장 중심 프리미엄폰 수요 증가</span>. 초슬림폰 등 차별화된 제품으로 시장 공략 필요성 커짐.</li>
-                 <li>(기타 디스플레이 관련 기술/시장 직접 언급된 내용은 이번 기사 모음에서 제한적)</li>
+                <li><span class="keyword">초슬림 스마트폰 경쟁 예고:</span> 삼성전자 '갤럭시S25 엣지'(5.8mm 예상), 애플 '아이폰17 에어'(5.5mm 예상) 등 초슬림 폼팩터가 프리미엄 시장의 새로운 트렌드로 부상할 가능성.</li>
+                <li class="updated-item"><span class="keyword">IT 기기 OLED 확대 가속:</span> 애플, 아이패드 프로 전 모델(11/13인치) OLED 탑재 이어 <span class="keyword">아이패드 미니(2026년 목표)</span>에도 삼성D OLED 패널 채택 검토. 스마트폰 외 태블릿 등 중형 OLED 시장 성장 본격화.</li>
+                 <li class="updated-item"><span class="keyword">투스택 탠덤 기술 경쟁:</span> 아이패드 프로 OLED에 적용된 투스택 탠덤 구조, <span class="keyword">삼성D 양산 능력 개선</span>으로 13인치 모델 공급 가능해짐. LGD와의 기술 및 양산 경쟁 심화.</li>
              </ul>
         </div>
          <div class="section">
             <h3>국내 업체 동향</h3>
              <ul>
-                 <li>(이번 기사 모음에서 삼성디스플레이, LG디스플레이 관련 직접적 동향 언급 제한적)</li>
-                 <li><span class="keyword">생산기지 다변화 활용:</span> 삼성전자는 미국의 관세 정책에 대응하기 위해 베트남 외 인도, 브라질, 한국 등 <span class="keyword">글로벌 생산기지를 탄력적으로 활용</span>할 것으로 예상됨. 특히 관세율이 상대적으로 낮은 브라질, 한국 공장의 대미 수출 기지 역할 가능성.</li>
+                 <li class="updated-item"><span class="keyword">삼성디스플레이:</span> 애플 <span class="keyword">아이패드 프로 13인치 OLED 공급 승인</span> (5월 양산 예정). 목표 물량 11/13인치 합쳐 350만대 수준 추정. 13인치용 재료세트 'T2 프라임' 적용 계획. 2026년형 아이패드 미니용 싱글 스택 OLED도 개발 중.</li>
+                 <li class="updated-item"><span class="keyword">LG디스플레이:</span> 기존 아이패드 프로 11/13인치 공급 유지하나, 삼성D의 13인치 진입으로 <span class="keyword">물량 경쟁 심화</span> 예상. 베트남 하이퐁 OLED 설비 확장 투자 지속.</li>
+                 <li class="updated-item"><span class="keyword">미국 관세 불확실성 완화?:</span> 트럼프 대통령의 베트남 관세 0% 언급으로 베트남 생산 비중 높은 <span class="keyword">삼성D, LGD의 관세 부담 리스크 감소</span> 기대감 부상. 단, 정책 확정 전까지 불확실성 상존.</li>
+             </ul>
+         </div>
+         <div class="section">
+             <h3>해외 업체 동향</h3>
+             <ul>
+                 <li class="updated-item"><span class="keyword">BOE (중국):</span> 미국 ITC 조사국으로부터 삼성D OLED <span class="keyword">영업비밀 침해 잠정 결론 및 수입 금지 권고</span> 받음. 최종 확정 시 미국 내 OLED 패널 판매 중단 위기. 공급망 인권 관리 평가 최하위(45위, 0점) 기록.</li>
+                 <li>(CSOT, Sharp, JDI 등 기타 업체 동향은 이번 기사 모음에서 제한적)</li>
              </ul>
          </div>
     </div>
@@ -486,36 +502,36 @@
         <div class="section">
             <h3>Apple</h3>
              <ul>
-                <li><span class="keyword">美 상호관세 직격탄:</span> 최대 생산기지 중국(총 54% 관세)과 주요 거점 베트남(46%), 인도(26%) 등 고율 관세 부과로 <span class="keyword">공급망 및 가격 정책</span>에 심각한 타격 예상. 관세 비용 전가 시 아이폰 가격 최대 43% (약 1.4배) 인상 가능성 제기 (예: 아이폰16 프로 맥스 $1599 → $2300).</li>
-                <li><span class="keyword">재무적 충격 및 주가 급락:</span> 관세 발표 후 주가 9.3% 폭락, 시가총액 약 3000억 달러 증발. 비용 미전가 시 연간 <span class="keyword">순이익 330억 달러 감소</span> 전망(모건 스탠리). 이는 주당순이익(EPS) 10-15% 감소 수준.</li>
-                <li><span class="keyword">관세 면제 불확실성:</span> 트럼프 1기 행정부 당시 일부 품목 면제받았으나, 이번에는 "어떠한 기업도 예외 없을 것"이라는 트럼프 발언으로 <span class="keyword">면제 가능성 낮게</span> 점쳐짐. 애플은 5년간 5000억 달러 미국 투자 및 2만 명 고용 계획 발표 등 협상 카드 준비했으나 효과 미지수.</li>
-                <li><span class="keyword">신제품 동향:</span> 하반기 초슬림폰 <span class="keyword">'아이폰17 에어'</span> (약 5.5mm 두께) 출시 예상. 가격은 약 900달러 전망되나 관세 영향으로 변동 가능성 큼.</li>
-                <li><span class="keyword">판매 부진 우려 심화:</span> 최근 아이폰16 AI 기능 반응 미흡 등 판매 부진 우려 속, 가격 인상 현실화 시 <span class="keyword">소비자 이탈 가속화</span> 및 시장 점유율 하락 가능성.</li>
-                <li><span class="keyword">공급망 전략 재검토 압박:</span> 현재 공급망 다변화(베트남, 인도 확대)에도 불구, 관세 영향 불가피. 장기적으로 미국 내 생산 이전 등 <span class="keyword">근본적인 공급망 변화</span> 필요성 제기되나 단기 해결책 아님.</li>
+                <li><span class="keyword">美 상호관세 직격탄 및 불확실성:</span> 중국(54%), 베트남(46%), 인도(26%) 등 주요 생산국 고율 관세 부과. 트럼프의 <span class="keyword">베트남 관세 0% 언급</span>으로 일부 완화 기대감 있으나 여전히 불확실. 가격 최대 43% 인상 가능성 및 수익성 악화 우려 지속.</li>
+                <li><span class="keyword">관세 면제 가능성?:</span> 트럼프 1기 당시 면제/유예 전례 있어 이번에도 가능성 제기되나, 트럼프의 강경 발언으로 <span class="keyword">실현 가능성 낮게</span> 점쳐짐. 애플의 미국 투자 약속 등이 변수.</li>
+                <li class="updated-item"><span class="keyword">아이패드 OLED 라인업 강화:</span> 아이패드 프로 11/13인치 모델에 SDC/LGD OLED 패널 동시 채택. 2026년 출시 목표 <span class="keyword">아이패드 미니</span>에도 삼성D OLED 패널 탑재 검토 중.</li>
+                <li class="updated-item"><span class="keyword">태블릿 신제품 출시:</span> M3 칩 탑재한 <span class="keyword">아이패드 에어 (11/13인치) 출시</span>. 삼성 갤럭시 탭 S10 FE와 경쟁 구도.</li>
+                <li><span class="keyword">AI 기능 및 경쟁:</span> '애플 인텔리전스' 한국어 등 지원 확대했으나 기능 제약 및 고가 정책으로 구글 픽셀 9a 등 <span class="keyword">가성비 AI 기기</span>와의 경쟁 심화 예상. 아이폰16e, '가성비 나쁜 폰' 비판 직면.</li>
+                <li><span class="keyword">기타:</span> 포항 애플 디벨로퍼 아카데미 팸투어 진행. 공급망 인권 관리 평가 5위 (46점) 기록.</li>
             </ul>
         </div>
         <div class="section">
             <h3>Samsung Electronics (고객사 관점)</h3>
              <ul>
-                 <li><span class="keyword">美 관세 반사이익 기대?:</span> Apple 대비 상대적으로 낮은 관세율(한국 26% 등)과 생산기지 다변화로 <span class="keyword">가격 경쟁력 우위</span> 확보 가능성. Apple의 가격 인상 시 미국 시장 등에서 점유율 확대 기회 모색 가능.</li>
-                 <li><span class="keyword">초슬림폰 선점 전략:</span> 이르면 5월 '갤럭시S25 엣지' (5.8mm 예상) 출시로 초슬림폰 시장 <span class="keyword">선점 효과</span> 기대. 프리미엄 시장에서 새로운 수요 창출 및 Apple과의 격차 축소 시도.</li>
-                 <li><span class="keyword">리더십 변화:</span> 노태문 MX사업부장이 DX부문장 직무대행 겸임. 스마트폰 성공과 함께 가전/TV 사업 반등 이끌어야 하는 과제 안음. 갤럭시S25 엣지 성공 중요성 부각.</li>
-                 <li><span class="keyword">생산 거점 활용:</span> 베트남(관세 46%) 물량 비중 조절, 인도(26%)/브라질(10%)/한국(26%) 등 <span class="keyword">저관세 지역 생산기지 활용</span> 극대화 전략 예상.</li>
+                 <li><span class="keyword">美 관세 반사이익 기대 유지:</span> Apple 대비 낮은 관세율 및 생산기지 다변화로 상대적 가격 경쟁력 확보 가능성.</li>
+                 <li><span class="keyword">초슬림폰 선점 전략:</span> '갤럭시S25 엣지' (5.8mm) 출시 임박, 초슬림폰 시장 선점 및 프리미엄 시장 공략 강화.</li>
+                 <li class="updated-item"><span class="keyword">공급망 관리 능력 인정:</span> 국제 NGO 평가에서 공급망 인권 관리 <span class="keyword">글로벌 ICT 기업 중 1위</span> 차지, ESG 경영 성과 부각.</li>
+                 <li class="updated-item"><span class="keyword">태블릿 신제품 출시:</span> AI 기능 탑재한 <span class="keyword">'갤럭시 탭 S10 FE' 시리즈</span> 국내 출시. 애플 아이패드 에어와 경쟁.</li>
+                 <li class="updated-item"><span class="keyword">폴더블폰 힌지 공급망:</span> KH바텍, 삼성 폴더블폰 힌지 혁신 및 신규 라인업(트리폴드 등) 확대에 따른 수혜 기대.</li>
             </ul>
         </div>
          <div class="section">
-             <h3>Huawei</h3>
+             <h3>Google</h3>
             <ul>
-                <li><span class="keyword">스마트폰 사업 반등:</span> 지난해 매출 22.4% 증가, 특히 소비자(스마트폰 포함) 부문 38.3% 성장. '메이트60' 시리즈 흥행 및 내수 애국 소비 영향. 지난해 <span class="keyword">스마트폰 출하량 35.8% 증가</span> (4840만대).</li>
-                <li><span class="keyword">독자 생태계 강화:</span> 자체 OS <span class="keyword">'하모니OS'</span> 적용 기기 10억대 돌파, 개발자 720만 명 참여. 구글 안드로이드 의존 탈피 가속화.</li>
-                 <li><span class="keyword">신제품 공세:</span> 이달 말 중급기 '노바 14 시리즈'(하모니OS 5.0 탑재), 플래그십 '퓨라(Pura) 80' 시리즈, 신규 폴더블폰 '퓨라X' 등 출시 예정.</li>
+                <li class="updated-item"><span class="keyword">AI폰 '픽셀 9a' 출시 임박:</span> 499달러 가격에 최신 텐서 G4 칩 및 AI 기능(매직 에디트, 제미니 어시스턴트) 탑재. 삼성 갤럭시 A56, 애플 아이폰16e 등과 <span class="keyword">중저가 AI폰 시장</span> 경쟁 예고.</li>
             </ul>
         </div>
          <div class="section">
-             <h3>기타 고객사 (Microsoft 등)</h3>
+             <h3>기타 고객사 (Microsoft, Meta, HP, Dell 등)</h3>
             <ul>
-                <li><span class="keyword">MS 창립 50주년 행사:</span> 전현직 CEO(빌 게이츠, 스티브 발머, 사티아 나델라) 코파일럿 인터뷰 진행. 과거 회고 및 <span class="keyword">AI 중심 미래 비전</span> 공유 (코파일럿의 역할 강조).</li>
-                <li>(HP, Dell, Lenovo, Meta 등 다른 고객사 관련 직접적 언급 제한적)</li>
+                <li><span class="keyword">MS 코파일럿 중심 전략:</span> AI 비서 '코파일럿' 기능 강화 및 AI PC 생태계 확장 지속.</li>
+                <li class="updated-item"><span class="keyword">Meta VR/AR:</span> 저가형 VR 헤드셋 '퀘스트 3S' 출시 준비 (10월 예상). AR 글래스 '오리온' 개발 지속.</li>
+                <li>(HP, Dell 등 PC 제조사들은 AI PC 시장 경쟁 중이나 이번 기사 모음에서 구체적 언급 제한적)</li>
             </ul>
         </div>
     </div>
@@ -525,19 +541,30 @@
          <div class="section">
              <h3>Samsung Display (SDC)</h3>
              <ul>
-                 <li>(이번 기사 모음에서 SDC 관련 직접적 동향 언급 제한적)</li>
+                 <li class="updated-item"><span class="keyword">아이패드 프로 13인치 공급 승인:</span> Apple로부터 아이패드 프로 13인치 모델용 OLED 패널 공급 승인 획득 (5월 양산 시작 예정). 기존 11인치에 이어 13인치까지 공급하며 <span class="keyword">IT용 OLED 시장 지배력 강화</span> 시도. LGD와의 경쟁 심화 예상.</li>
+                 <li class="updated-item"><span class="keyword">차세대 아이패드 미니 OLED 개발:</span> 2026년 출시 목표인 아이패드 미니용 8.5인치 <span class="keyword">싱글 스택 OLED</span> 패널 개발 중.</li>
+                 <li class="updated-item"><span class="keyword">BOE 상대 ITC 소송 우위:</span> 미국 ITC 조사국, BOE의 SDC OLED <span class="keyword">영업비밀 침해 잠정 결론</span> 및 수입 금지 권고. 법적 분쟁에서 유리한 고지 점령.</li>
+                 <li class="updated-item"><span class="keyword">베트남 생산기지 리스크 완화?:</span> 트럼프의 베트남 관세 0% 언급으로 <span class="keyword">베트남 OLED 공장 운영</span> 관련 불확실성 일부 해소 기대감.</li>
+            </ul>
+         </div>
+          <div class="section">
+            <h3>LG Display (LGD)</h3>
+             <ul>
+                 <li><span class="keyword">아이패드 프로 OLED 경쟁 심화:</span> 기존 공급하던 11/13인치 모델 중 13인치에 삼성D 진입으로 <span class="keyword">물량 확보 경쟁</span> 더욱 치열해질 전망.</li>
+                 <li><span class="keyword">베트남 생산기지 투자 지속:</span> 하이퐁 OLED 생산 설비 확장 투자 진행 중. 트럼프의 베트남 관세 관련 발언으로 <span class="keyword">리스크 완화 기대감</span> 있으나 상황 주시 필요.</li>
              </ul>
          </div>
         <div class="section">
             <h3>중국 패널 업체 (BOE, CSOT, Visionox 등)</h3>
              <ul>
-                 <li>(이번 기사 모음에서 중국 경쟁사 관련 직접적 동향 언급 제한적)</li>
+                 <li class="updated-item"><span class="keyword">BOE:</span> 미국 ITC 조사국으로부터 삼성D OLED <span class="keyword">영업비밀 침해 잠정 결론 및 수입 금지 권고</span> 받음. 미국 시장 판로 막힐 위기. 공급망 인권 관리 평가 최하위(45위, 0점) 기록하며 ESG 리스크도 부각.</li>
+                 <li>(CSOT, Visionox 등 기타 중국 업체 동향은 이번 기사 모음에서 제한적)</li>
              </ul>
         </div>
          <div class="section">
              <h3>기타 경쟁사 (Sharp, JDI, AUO, Innolux 등)</h3>
              <ul>
-                 <li><span class="keyword">일본 FC-BGA 업체 반사이익?:</span> 삼성전기의 베트남 FC-BGA 공장(관세 46%) 대비 일본 이비덴/신코덴키(관세 24% 추정)가 <span class="keyword">가격 경쟁력</span>에서 유리해질 수 있다는 관측 제기.</li>
+                 <li><span class="keyword">일본 FC-BGA 업체 반사이익?:</span> 삼성전기의 베트남 FC-BGA 공장 관세 리스크 부각 시, 일본 이비덴/신코덴키 등 저관세 지역 업체가 <span class="keyword">가격 경쟁력</span>에서 유리해질 가능성 제기.</li>
                  <li>(그 외 Sharp, JDI, AUO, Innolux 등 직접적 언급 제한적)</li>
              </ul>
          </div>
@@ -548,27 +575,25 @@
         <div class="section">
             <h3>트럼프 행정부 상호관세 부과 및 파급 효과</h3>
             <ul>
-                <li><span class="keyword">글로벌 공급망 충격:</span> 미국이 전 세계 교역국 대상 '10%+α' 상호관세 부과 발표. 특히 <span class="keyword">중국(총 54%)</span>, 베트남(46%), 인도(26%), 한국(26%) 등 아시아 주요 IT 생산기지에 고율 관세 적용으로 글로벌 공급망 대혼란 및 비용 상승 불가피.</li>
-                <li><span class="keyword">기술주 동반 폭락:</span> 관세 발표 직후 애플(-9.3%), 아마존(-9.0%), 메타(-9.0%), 엔비디아(-7.8%) 등 주요 기술주 급락. 시장 불확실성 증폭.</li>
-                 <li><span class="keyword">소비자 가격 인상 압력 ('폰플레이션' 심화):</span> Apple 등 생산비용 증가를 소비자에게 전가할 가능성 큼. 아이폰 가격 <span class="keyword">최대 43% 인상</span> 전망 등 스마트폰, 노트북 등 IT 기기 가격 전반 상승 우려.</li>
-                 <li><span class="keyword">공급망 재편 불가피성 증대:</span> 기존 중국 중심 또는 탈중국(동남아) 전략 모두 리스크 노출. 기업들은 미국 내 생산 확대, 멕시코 등 인접국 활용, 제3지역 모색 등 <span class="keyword">공급망 전략 전면 재검토</span> 압박 심화.</li>
-                 <li><span class="keyword">미국 자국 기업도 타격:</span> 애플, 나이키 등 해외 생산 의존도가 높은 미국 기업들도 관세 부과로 직접적인 타격 예상.</li>
-                 <li><span class="keyword">부품업체 연쇄 타격:</span> 세트(완제품)업체의 관세 부담이 부품 단가 인하 압력, 공급량 감소, 고객사 이탈 등으로 이어져 <span class="keyword">삼성전기, LG이노텍</span> 등 국내 부품업체에도 간접적 영향 우려.</li>
+                <li><span class="keyword">글로벌 교역 충격 지속:</span> 전 세계 대상 '10%+α' 상호관세 부과 발표(4/2) 후 금융시장 충격 (S&P500 5조$ 증발). 4/9부터 국가별 차등 관세(韓 25%, 中 54%, 印 26% 등) 적용 예정.</li>
+                <li class="updated-item"><span class="keyword">베트남 관세 불확실성 증폭:</span> 트럼프, 베트남(46% 예정)에 대해 4일 <span class="keyword">SNS 통해 '관세 0' 희망 언급</span>. 정책 방향 급선회 가능성 시사하며 관련 기업(삼성, LG 등) 및 부품 공급망 불확실성 가중.</li>
+                <li><span class="keyword">기술주 변동성 확대:</span> 관세 발표 후 애플, MS, 엔비디아 등 주요 기술주 급락. 불확실성 지속되며 <span class="keyword">투자 심리 위축</span> 및 자금 이동 가능성 (암호화폐 시장 반사이익 주장도 나옴).</li>
+                <li><span class="keyword">가격 인상 압력 및 소비자 부담 증가:</span> 아이폰 최대 43% 가격 인상 가능성 등 IT 기기 <span class="keyword">'관세발 인플레이션'</span> 우려 확산. 닌텐도 스위치2 미국 사전예약 연기 등 영향 가시화.</li>
+                <li><span class="keyword">공급망 재편 및 리스크 관리 중요성 증대:</span> 기업들, 관세 회피 위해 생산기지 이전(멕시코 등)/다변화/미국 내 생산 확대 등 <span class="keyword">전략 재검토 가속화</span>. 공급망 인권 관리 등 ESG 요소도 중요 변수로 부상 (삼성 1위 평가).</li>
             </ul>
         </div>
         <div class="section">
-            <h3>프리미엄 스마트폰 시장 동향</h3>
+            <h3>AI 기술 동향 및 경쟁</h3>
              <ul>
-                <li><span class="keyword">초슬림 경쟁 본격화:</span> 삼성 '갤럭시S25 엣지' (5.8mm 예상)와 애플 '아이폰17 에어' (5.5mm 예상) 출시로 <span class="keyword">휴대성과 디자인</span>을 강조한 초슬림 폼팩터가 새로운 경쟁 영역으로 부상.</li>
-                <li><span class="keyword">시장 점유율 경쟁 심화:</span> 2024년 프리미엄폰(600달러 이상) 시장 점유율 Apple 67%, 삼성 18%. 삼성은 초슬림폰 등 신규 라인업으로 <span class="keyword">Apple과의 격차 축소</span> 시도.</li>
-                <li><span class="keyword">가격 민감도 증가 가능성:</span> 트럼프 관세로 인한 아이폰 가격 인상 가능성은 소비자들이 <span class="keyword">가격 대비 성능 및 디자인</span> 요소를 더욱 중요하게 고려하게 만들 수 있음.</li>
+                <li><span class="keyword">Apple AI 기능 논란 및 경쟁 심화:</span> '애플 인텔리전스' 한국어 지원 불구, 기능 제약 및 고가 정책으로 비판. 삼성(갤럭시 A 시리즈), 구글(픽셀 9a) 등 <span class="keyword">중저가 AI폰 출시</span>로 경쟁 가열.</li>
+                 <li><span class="keyword">MS AI 생태계 확장:</span> '코파일럿+' PC 파트너십 강화 등 AI 서비스 및 하드웨어 생태계 확장 지속.</li>
+                 <li class="updated-item"><span class="keyword">챗GPT 사용량 급증 및 저작권 논란:</span> '지브리 스타일' 이미지 생성 유행 등으로 국내 DAU 317만 돌파 등 사용량 급증. 반면, <span class="keyword">일본 등에서 저작권 침해 논란</span> 가열.</li>
             </ul>
         </div>
          <div class="section">
-             <h3>AI 기술 동향</h3>
+             <h3>기타 IT 산업 이슈</h3>
              <ul>
-                 <li><span class="keyword">MS 코파일럿 중심 전략:</span> MS, 창립 50주년 행사에서 AI 비서 '코파일럿'의 중요성 강조. 모든 사용자의 <span class="keyword">AI 동반자</span>로 발전시키는 비전 제시.</li>
-                 <li><span class="keyword">Apple AI 기능 논란 지속:</span> 아이폰16 '애플 인텔리전스' 기능에 대한 기대치 미충족 및 <span class="keyword">가격 인상 가능성</span>과 맞물려 소비자 반응 주목.</li>
+                <li class="updated-item"><span class="keyword">라인야후 사태 일단락:</span> 라인야후, 日 정부 행정지도 관련 마지막 보고서 제출. 네이버 단기 지분 매각 계획 없음 재확인. 기술적 위탁 관계는 지속 정리 중.</li>
              </ul>
          </div>
     </div>
@@ -578,23 +603,25 @@
         <div class="section">
             <h3>미국 상호관세 영향</h3>
             <ul>
-                <li><span class="keyword">생산기지 리스크 부각:</span> 베트남(관세 46%), 중국(54%), 인도네시아(32%) 등 주요 생산 거점 고율 관세 부과로 해당 지역 생산 의존도 높은 기업 <span class="keyword">비용 증가 및 가격 경쟁력 약화</span> 우려. (예: 삼성전자, 삼성전기, LG이노텍 베트남 공장)</li>
-                <li><span class="keyword">부품 공급망 영향:</span> 세트업체의 관세 부담이 부품 <span class="keyword">단가 인하 압박</span>으로 이어질 가능성. 부품 공급량 감소 및 고객사의 저관세 지역 경쟁사(예: 일본 FC-BGA 업체) 이전 가능성 제기.</li>
-                <li><span class="keyword">생산기지 다변화 전략 재검토:</span> 삼성전자 등은 관세율이 상대적으로 낮은 인도(26%), 브라질(10%), 한국(26%) 등으로 <span class="keyword">생산 물량 조정</span> 또는 이전 검토 가능성. 베트남 생산 물량을 한국 내수용으로 돌리고, 한국 생산 물량을 대미 수출용으로 전환하는 시나리오 등 거론.</li>
-                <li><span class="keyword">Apple 공급망 압박 심화 가능성:</span> Apple은 높은 관세 부담을 상쇄하기 위해 LG이노텍 등 <span class="keyword">부품 공급사에 가격 인하 압력</span>을 가중시킬 수 있음. 이는 지난해 중국 업체 진입으로 수익성 악화를 겪은 LG이노텍에 추가 부담 요인.</li>
+                <li><span class="keyword">생산기지 리스크 지속 및 완화 기대 공존:</span> 베트남(46%), 중국(54%) 등 고율 관세 부과로 해당 지역 생산 의존도 높은 부품사(삼성전기, LG이노텍 등) <span class="keyword">비용 증가 및 단가 압박</span> 우려 여전.</li>
+                <li class="updated-item"><span class="keyword">베트남 관세 불확실성:</span> 트럼프 대통령의 '베트남 관세 0' 언급으로 <span class="keyword">최악의 시나리오 회피 가능성</span> 제기. 삼성D/LGD 등 베트남 투자 기업들 및 부품사들 상황 주시. 정책 확정 시 SCM 전략 급변 가능.</li>
+                <li><span class="keyword">공급망 재편 가속화 압력:</span> 불확실성 속에서 기업들은 관세율 낮은 지역(한국, 인도, 브라질 등)으로 <span class="keyword">생산 물량 조정</span> 및 다변화 전략 지속 검토. 멕시코 기지 활용도 증가 예상.</li>
+                <li><span class="keyword">Apple 공급망 압박:</span> 관세 부담 완화 위해 Apple이 LG이노텍 등 공급사에 <span class="keyword">단가 인하 요구</span> 가능성 상존. 특히 LG이노텍은 관세 발효 전 선주문 증가로 1분기 실적 호조 예상되나 장기적 압박 우려.</li>
             </ul>
         </div>
          <div class="section">
-             <h3>주요 부품사 동향 (삼성전기, LG이노텍)</h3>
+             <h3>주요 부품사 동향</h3>
              <ul>
-                 <li><span class="keyword">삼성전기:</span> 베트남 공장에서 FC-BGA(AMD 등 공급), 카메라 모듈 생산. 관세 영향으로 신규 고객 확보 및 <span class="keyword">추가 수주에 제동</span> 걸릴 우려. 일본 경쟁사 대비 가격 경쟁력 약화 가능성.</li>
-                 <li><span class="keyword">LG이노텍:</span> 베트남 공장에서 생산한 카메라 모듈을 중국 폭스콘(아이폰 제조)으로 수출. Apple의 관세 부담 증가로 인한 <span class="keyword">부품가 하락 압박</span> 재현 우려.</li>
+                 <li><span class="keyword">삼성전기:</span> 베트남 FC-BGA/카메라모듈 공장 관세 리스크. 신규 수주 영향 및 일본 경쟁사(이비덴/신코덴키) 반사이익 가능성 주시 필요.</li>
+                 <li class="updated-item"><span class="keyword">LG이노텍:</span> 1분기 영업이익 전망치 상향 조정 (1000억→1300억). <span class="keyword">관세 발효 전 Apple의 카메라모듈 선주문</span> 영향. 단, 베트남 관세 불확실성 및 장기적 단가 압박 리스크 공존.</li>
+                 <li class="updated-item"><span class="keyword">KH바텍:</span> 삼성전자 폴더블폰 힌지 혁신 및 신규 라인업(트리폴드 등) 확대 수혜 기대. <span class="keyword">전장 부품 시장 진출</span>(4분기 매출 시작 예상)로 신성장 동력 확보 전망. 2025년 역대 최고 실적 기대 (대신증권).</li>
              </ul>
          </div>
           <div class="section">
-              <h3>기타 SCM 관련 뉴스</h3>
+              <h3>소재/기타 SCM</h3>
              <ul>
-                 <li>(이번 기사 모음에서 장비/소재 업체 관련 직접적인 SCM 동향 언급 제한적)</li>
+                  <li class="updated-item"><span class="keyword">삼성전자 공급망 인권 관리 1위:</span> 국제 NGO 'KnowTheChain' 평가 결과, <span class="keyword">글로벌 ICT 기업 중 최고점(61점)</span> 기록. 지속적인 관리 및 정보 공개 노력 인정. (Apple 5위, LG전자 12위, SK하이닉스 19위, BOE 45위)</li>
+                 <li>(솔루스첨단소재, 코이즈 등 기타 소재 업체 동향은 이번 기사 모음에서 제한적)</li>
              </ul>
           </div>
     </div>
@@ -605,9 +632,22 @@
              <li>
                  <strong>2025년 4월 9일</strong>
                  <ul>
-                     <li>- 미국 상호관세 발효 예정</li>
+                     <li>- 미국 상호관세 발효 예정 (베트남 등 변동 가능성 주시)</li>
                  </ul>
             </li>
+             <li class="updated-item">
+                <strong>2025년 4월 10일</strong>
+                 <ul>
+                    <li>- 구글 '픽셀 9a' 미국 출시 예정</li>
+                    <li>- 중국, 미국산 제품 보복관세(34%) 부과 예정</li>
+                 </ul>
+             </li>
+             <li class="updated-item">
+                 <strong>2025년 4월 23일</strong>
+                 <ul>
+                    <li>- LG이노텍 1분기 실적 발표 예정</li>
+                 </ul>
+             </li>
             <li>
                  <strong>2025년 4월 말</strong>
                  <ul>
@@ -615,30 +655,42 @@
                  </ul>
              </li>
              <li>
+                 <strong>2025년 5월 (예상)</strong>
+                 <ul>
+                    <li>- 삼성디스플레이, 아이패드 프로 13인치 OLED 양산/납품 시작</li>
+                 </ul>
+            </li>
+            <li>
                  <strong>2025년 5월~6월 (예상)</strong>
                  <ul>
-                    <li>- 삼성전자 '갤럭시 S25 엣지' 언팩 행사 예상 (기존 4월에서 연기)</li>
+                    <li>- 삼성전자 '갤럭시 S25 엣지' 언팩 행사 예상</li>
                  </ul>
             </li>
              <li>
                  <strong>2025년 7월 말 (예상)</strong>
                  <ul>
-                    <li>- 삼성전자 차기 폴더블 스마트폰 공개 예상 (관세 영향 주목)</li>
+                    <li>- 삼성전자 차기 폴더블 스마트폰 공개 예상</li>
                  </ul>
             </li>
             <li>
                 <strong>2025년 하반기</strong>
                 <ul>
-                    <li>- Apple '아이폰 17 시리즈' (아이폰17 에어 포함) 공개/출시 예정 (관세 영향 가격 변동 주목)</li>
+                    <li>- Apple '아이폰 17 시리즈' (아이폰17 에어 포함) 공개/출시 예정</li>
                     <li>- 화웨이 플래그십 '퓨라(Pura) 80' 시리즈 공개 예상</li>
                     <li>- 화웨이 폴더블폰 '퓨라X' 글로벌 출시 전망</li>
                 </ul>
             </li>
-            <li>
-                 <strong>2025년 (미정)</strong>
+            <li class="updated-item">
+                 <strong>2025년 Q4 (예상)</strong>
                  <ul>
-                     <li>- 삼성전기, 베트남 공장 FC-BGA 추가 수주 활동 (관세 영향 변수)</li>
+                    <li>- KH바텍, 전장 부품 매출 시작</li>
                  </ul>
+            </li>
+            <li>
+                <strong>2026년 (예상)</strong>
+                <ul>
+                     <li class="updated-item">- Apple, 아이패드 미니 OLED 모델 출시 가능성 (삼성D 패널)</li>
+                </ul>
             </li>
          </ul>
     </div>
@@ -646,6 +698,36 @@
     <div class="references">
       <h2>참고 기사 목록</h2>
       <ul>
+          <li class="updated-item"><a href="https://www.asiatoday.co.kr/view.php?key=20250406010003332" target="_blank">관세폭탄 전 막차탔다? LG이노텍 1분기 이익전망치 1000억->1300억</a><span class="ref-date">(2025-04-06 16:58)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/088/0000940341?sid=101" target="_blank">상호관세 스마트폰 시장에도 '치명타'…애플 이번에도 면세?</a><span class="ref-date">(2025-04-06 16:38)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/241/0003426650?sid=101" target="_blank">토코보, 하루 종일 촉촉한 ‘애플 듀이 핏 쿠션’ 출시… 올리브영 론칭...</a><span class="ref-date">(2025-04-06 16:05)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/031/0000922224?sid=101" target="_blank">삼성전자, 애플·TSMC 제치고 '공급망 인권관리' 세계 1위</a><span class="ref-date">(2025-04-06 15:52)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/029/0002946218?sid=101" target="_blank">트럼프, 베트남은 관세 0 언급에…삼성·LG 부품사 반사이익 기대감</a><span class="ref-date">(2025-04-06 15:48)</span></li>
+          <li class="updated-item"><a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=334337" target="_blank">KH바텍, 폴더블폰 힌지 혁신과 전장 부품 진출로 올해 역대 최고 실적 예...</a><span class="ref-date">(2025-04-06 15:40)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/003/0013167016?sid=102" target="_blank">글로벌 인재에 포항의 매력을 '애플 디벨로퍼 아카데미' 팸투어 개최</a><span class="ref-date">(2025-04-06 15:39)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/032/0003361528?sid=101" target="_blank">미 ‘닌텐도’ 사전예약 밀리고, “전자제품 미리 사라” 목소리도</a><span class="ref-date">(2025-04-06 15:34)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/030/0003300527?sid=105" target="_blank">삼성디스플레이, 아이패드 프로 13인치 OLED 승인...LGD와 경쟁</a><span class="ref-date">(2025-04-06 15:31)</span></li>
+          <li class="updated-item"><a href="http://www.metroseoul.co.kr/article/20250406500214" target="_blank">동남아 흔든 트럼프發 '고율관세'…삼성·LG 등 전자업계 '초비상'</a><span class="ref-date">(2025-04-06 14:44)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/665/0000004791?sid=105" target="_blank">'가성비 나쁜 가성비폰' 아이폰16e, 24개월 무이자라고 살까</a><span class="ref-date">(2025-04-06 14:43)</span></li>
+          <li class="updated-item"><a href="http://www.shinailbo.co.kr/news/articleView.html?idxno=2032859" target="_blank">삼성전자, 글로벌 ICT '공급망 인권관리' 압도적 1위</a><span class="ref-date">(2025-04-06 14:16)</span></li>
+          <li class="updated-item"><a href="https://www.newscj.com/news/articleView.html?idxno=3254593" target="_blank">트럼프 10% 관세 시작… 아이폰 수백만원 될 수도</a><span class="ref-date">(2025-04-06 14:16)</span></li>
+          <li class="updated-item"><a href="http://www.metroseoul.co.kr/article/20250406500198" target="_blank">'가성비 AI 폰,노트북 시대'... 구글·메타·MS 공세에 삼성·애플 '수성...</a><span class="ref-date">(2025-04-06 14:06)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/009/0005471458?sid=101" target="_blank">삼성 vs 애플, 태블릿 맞붙는다…갤탭의 가성비 전략 통할까</a><span class="ref-date">(2025-04-06 13:58)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/421/0008176070?sid=105" target="_blank">글로벌 스마트폰거점 관세폭탄…너도나도 지브리풍[뉴스잇(IT)쥬]</a><span class="ref-date">(2025-04-06 12:02)</span></li>
+          <li class="updated-item"><a href="https://www.getnews.co.kr/news/articleView.html?idxno=815016" target="_blank">트럼프 관세로 동남아 진출 삼성전기·LG이노텍도 '초긴장'</a><span class="ref-date">(2025-04-06 11:36)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/014/0005331748?sid=101" target="_blank">애플보다 위 삼성전자, '공급망 인권 관리' 글로벌 ICT 기업 중 1위</a><span class="ref-date">(2025-04-06 11:21)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/015/0005115515?sid=101" target="_blank">삼성전자, 애플, 아마존 다 제쳤다…공급망 인권 관리 1위</a><span class="ref-date">(2025-04-06 10:59)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/422/0000728326?sid=101" target="_blank">동남아 덮친 트럼프 고관세…삼성전기·LG이노텍 등 부품업체 '비상'</a><span class="ref-date">(2025-04-06 10:50)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/014/0005331736?sid=101" target="_blank">교원 웰스 '슬림원', 독일 '레드닷 어워드' 본상 수상</a><span class="ref-date">(2025-04-06 10:30)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/011/0004470592?sid=101" target="_blank">삼성전자, 공급망 인권 관리 글로벌 ICT 기업 1위</a><span class="ref-date">(2025-04-06 10:30)</span></li>
+          <li class="updated-item"><a href="http://www.smedaily.co.kr/news/articleView.html?idxno=322455" target="_blank">베트남 46% 관세폭탄에 삼성전기·LG이노텍 비상</a><span class="ref-date">(2025-04-06 09:54)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/243/0000075851?sid=101" target="_blank">상호관세, '이곳'만 면제 혜택?…트럼프에 거액 약속도</a><span class="ref-date">(2025-04-06 09:48)</span></li>
+          <li class="updated-item"><a href="https://n.news.naver.com/mnews/article/029/0002946103?sid=101" target="_blank">“애플·아마존 제쳤다”…삼성전자, `공급망 인권 관리` ICT 기업 1위</a><span class="ref-date">(2025-04-06 09:42)</span></li>
+          <li class="updated-item"><a href="https://www.sentv.co.kr/article/view/sentv202504060013" target="_blank">동남아 덮친 트럼프발 상호관세에 전자 부품업계 초긴장</a><span class="ref-date">(2025-04-06 09:34)</span></li>
+          <li class="updated-item"><a href="http://coinreaders.com/154073" target="_blank">MS·애플·엔비디아 1조 달러 증발…자금은 암호화폐로 이동 중?</a><span class="ref-date">(2025-04-06 09:06)</span></li>
+          <li class="updated-item"><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=560284" target="_blank">[테크인사이드]아이폰16에 비친 트럼프 관세 폭탄의 충격</a><span class="ref-date">(2025-04-06 08:38)</span></li>
+          <li class="updated-item"><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=560238" target="_blank">트럼프 관세 폭풍에...삼성·LG '글로벌 생산 네트워크' 위기감 고조</a><span class="ref-date">(2025-04-06 08:00)</span></li>
+          <li class="updated-item"><a href="http://www.g-enews.com/ko-kr/news/article/news_all/202504060754377346fbbec65dfb_1/article.html" target="_blank">[속보] 美 ITC, BOE의 삼성 영업비밀 침해 잠정 결론... 수입 금지 권고</a><span class="ref-date">(2025-04-06 07:56)</span></li>
           <li><a href="https://n.news.naver.com/mnews/article/001/0015313187?sid=101" target="_blank">美, 애플에 관세 면제설 '모락'…삼성 기댈 곳은 전 세계 공장</a><span class="ref-date">(2025-04-06 07:00)</span></li>
           <li><a href="https://n.news.naver.com/mnews/article/001/0015313173?sid=101" target="_blank">동남아 덮친 '트럼프 관세'…삼성전기·LG이노텍도 '초긴장'</a><span class="ref-date">(2025-04-06 06:30)</span></li>
           <li><a href="https://www.businesspost.co.kr/BP?command=article_view&num=390136" target="_blank">어깨 무거운 삼성전자 노태문, 초슬림폰 '갤럭시S25 엣지'로 애플 사냥 ...</a><span class="ref-date">(2025-04-06 06:20)</span></li>
@@ -657,7 +739,7 @@
           <li><a href="https://www.betanews.net/article/view/beta202504050020" target="_blank">트럼프 관세로 애플 순이익 330억 달러 감소 전망: 글로벌 공급망에 직...</a><span class="ref-date">(2025-04-05 22:28)</span></li>
           <li><a href="https://www.betanews.net/article/view/beta202504050019" target="_blank">마이크로소프트 전현직 CEO 3인, 코파일럿 인터뷰에서 과거와 미래를 논...</a><span class="ref-date">(2025-04-05 22:04)</span></li>
           <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=560264" target="_blank">관세 직격탄 애플 '흔들'…아이폰17보다 지금 아이폰16이 더 낫다</a><span class="ref-date">(2025-04-05 21:48)</span></li>
-      </ul>
+          </ul>
     </div>
 
     <div class="footer">
