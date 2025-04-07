@@ -300,6 +300,14 @@
             border-top: 1px solid #D3D3D3;
             padding-top: 15px;
         }
+        .update-mark {
+            font-size: 10px;
+            color: #E67E22; /* Orange color for update mark */
+            font-weight: bold;
+            margin-left: 5px;
+            vertical-align: super;
+        }
+
 
         /* Responsive adjustments */
         @media (max-width: 992px) { /* Adjust breakpoint for better grid behavior */
@@ -350,7 +358,7 @@
 <div class="container">
     <div class="header">
         <h1>디스플레이 산업 국내 기사 대시보드</h1>
-        <p>기간: 25-04-06 17:14 ~ 25-04-07 07:00 기사</p>
+        <p>기간: 25-04-06 17:14 ~ 25-04-07 12:58 기사</p>
         <a href="https://gwanwoodavidkim.github.io/News_Dashboard/" target="_blank" class="header-link">과거 기사</a>
     </div>
 
@@ -377,9 +385,9 @@
                 <p class="value-change">삼성전자 등 주요 생산 거점</p>
             </div>
              <div class="kpi-card">
-                <h3>Micro LED 공정 혁신</h3>
-                <p class="value">SITRAB</p>
-                 <p class="value-change">ETRI 개발, 비용 100배 절감 기대</p>
+                <h3>삼성 2025 AI TV 라인업</h3>
+                <p class="value">61개</p>
+                 <p class="value-change positive">34개 → 61개 모델로 확대 <span class="update-mark">(update)</span></p>
              </div>
             <div class="kpi-card">
                 <h3>Apple 주가 (4/3~4)</h3>
@@ -392,20 +400,26 @@
                  <p class="value-change">프로 맥스 336만원 예상</p>
             </div>
              <div class="kpi-card">
-                 <h3>삼성 파운드리 3nm 수율</h3>
-                 <p class="value">미흡</p>
-                 <p class="value-change negative">엑시노스 2500 탑재 불발</p>
+                 <h3>삼성 TV 연간 판매 목표</h3>
+                 <p class="value">4천만대</p>
+                 <p class="value-change">20년 연속 1위 목표 유지 <span class="update-mark">(update)</span></p>
+             </div>
+             <div class="kpi-card">
+                 <h3>美 ITC 예비 판정 (vs BOE)</h3>
+                 <p class="value">SDC 유리</p>
+                 <p class="value-change positive">조사국, 삼성 영업비밀 침해 인정 <span class="update-mark">(update)</span></p>
              </div>
         </div>
 
         <div class="section">
             <h3>핵심 요약</h3>
             <ul>
-                <li><span class="keyword">트럼프 행정부 상호관세 부과:</span> 주요 교역국 대상 10% 보편 관세 + 국가별 차등 상호관세 부과 (중국 34%, 베트남 46%, 한국 25% 등). 아시아 생산 거점 중심의 글로벌 공급망에 큰 충격 예상.</li>
-                <li><span class="keyword">Apple, 관세 직격탄:</span> 주력 생산 기지인 중국(총 54%) 및 베트남(46%)의 고율 관세로 원가 부담 급증. 주가 급락(-16%) 및 시총 3조 달러 하회. 아이폰 가격 최대 43% 인상 전망 (프로 맥스 약 336만원). 관세 면제 여부 불투명.</li>
-                <li><span class="keyword">삼성전자 영향 및 전략:</span> 베트남(46%) 등 생산 거점 관세 부담 존재하나, Apple 대비 낮은 세율 및 생산 기지 다변화(인도 26%, 한국 25% 등)로 상대적 반사이익 기대 공존. 폴더블 라인업 강화 (보급형 FE, 트리플 G폴드) 및 엑시노스 부활 노력(수율 문제 난항) 지속.</li>
-                <li><span class="keyword">디스플레이 업계 동향:</span> 8세대 OLED 투자 본격화 (삼성D 주도, BOE/Visionox 등 中 업체 추격). 엘에이티 등 국내 장비 업체 수혜 기대. Micro LED 공정 혁신 기술(ETRI SITRAB) 개발 등 차세대 기술 경쟁 심화.</li>
-                <li><span class="keyword">IT 산업 전반:</span> 관세 여파로 Apple, 삼성 등 주요 기업 부품사에 단가 인하 압박 가능성 증대. 글로벌 공급망 재편 및 생산 비용 상승으로 소비자 가격 인상(폰플레이션 등) 우려 확산.</li>
+                <li><span class="keyword">트럼프 행정부 상호관세 부과:</span> 주요 교역국 대상 10% 보편 관세 + 국가별 차등 상호관세 부과 (중국 34%, 베트남 46%, 한국 26% 등). 아시아 생산 거점 중심의 글로벌 공급망에 큰 충격 예상. 9일 발효.</li>
+                <li><span class="keyword">Apple, 관세 직격탄:</span> 주력 생산 기지인 중국(총 54%) 및 베트남(46%)의 고율 관세로 원가 부담 급증. 주가 급락(-16%) 및 시총 3조 달러 하회. 아이폰 가격 최대 43% 인상 전망 (프로 맥스 약 336만원). 관세 면제 여부 불투명하나 가능성 제기. 생산거점 브라질(10% 관세) 확대 검토.</li>
+                <li><span class="keyword">삼성전자, AI TV 전략 강화:</span> 'Unbox & Discover 2025' 개최, AI TV 라인업 61개 모델로 대폭 확대(QLED, 더프레임 포함). Neo QLED 115형/100형 추가. AI 기능(홈 인사이트, 실시간 번역 등) 강화. 국내 OLED TV 1위 목표 제시. 연간 TV 4천만대 판매 목표. <span class="update-mark">(update)</span></li>
+                <li><span class="keyword">디스플레이 업계 동향:</span> 8세대 OLED 투자 본격화 (삼성D 주도, BOE/Visionox 등 中 업체 추격). 삼성D, 아이패드 미니/프로 13형 OLED 공급 확대. 美 ITC 조사국, BOE의 삼성D 영업비밀 침해 인정 및 수입금지 권고 (예비판결 5/1 예정). <span class="update-mark">(update)</span></li>
+                <li><span class="keyword">IT 산업 전반:</span> 관세 여파로 부품사 단가 인하 압박 및 수익성 악화 우려. 공급망 재편(멕시코, 인도, 브라질 등) 가속화. 메타버스, 생성형 AI 융합 가속화.</li>
+                <li><span class="keyword">삼성 리더십 변화:</span> 故 한종희 부회장 별세 후 노태문 MX사업부장, DX부문장 직무대행 임명. 기존 사업 전략 유지 전망. <span class="update-mark">(update)</span></li>
             </ul>
         </div>
          <div class="section">
@@ -414,8 +428,9 @@
                 <li><span class="keyword">공급망 리스크 현실화:</span> 지정학적 리스크(美 관세)가 글로벌 공급망에 즉각적이고 광범위한 영향. 특정 국가 의존도 높은 기업(Apple 등)의 취약성 노출. 생산 기지 다변화 및 리쇼어링 압력 가중.</li>
                 <li><span class="keyword">원가 부담 전가 딜레마:</span> 관세로 인한 원가 상승분을 기업이 흡수할지(수익성 악화) 또는 소비자에게 전가할지(가격 경쟁력 저하, 수요 위축) 기업들의 전략적 선택 요구. 특히 고가 제품(스마트폰 등) 시장 영향 클 듯.</li>
                 <li><span class="keyword">국내 부품사 영향 주시:</span> 삼성전자, Apple 등 주요 고객사의 관세 부담이 국내 부품사(삼성D, LGD, LG이노텍, 삼성전기 등) 단가 인하 압력으로 이어질 가능성. 고객사 의존도 높은 기업 수익성 악화 우려.</li>
-                <li><span class="keyword">기술 경쟁 심화:</span> 8세대 OLED 투자, Micro LED 기술 개발 등 차세대 디스플레이 주도권 경쟁 가속화. 삼성의 자체 AP(엑시노스) 경쟁력 확보(수율 개선) 시급.</li>
-                <li><span class="keyword">시장 불확실성 증대:</span> 관세 정책의 변동성, 기업별 대응 전략 차이, 소비자 반응 등 예측 어려운 변수 다수 존재. 기업들의 신속하고 유연한 대응 능력 중요성 부각.</li>
+                <li><span class="keyword">기술 경쟁 심화:</span> 8세대 OLED 투자, Micro LED 기술 개발 등 차세대 디스플레이 주도권 경쟁 가속화. 삼성의 자체 AP(엑시노스) 경쟁력 확보(수율 개선) 시급. AI 기능 경쟁 TV 시장으로 확산. <span class="update-mark">(update)</span></li>
+                <li><span class="keyword">시장 불확실성 증대:</span> 관세 정책의 변동성, 기업별 대응 전략 차이, 소비자 반응 등 예측 어려운 변수 다수 존재. 기업들의 신속하고 유연한 대응 능력 중요성 부각. Apple 관세 면제 여부가 삼성 등 경쟁사에 큰 변수. <span class="update-mark">(update)</span></li>
+                <li><span class="keyword">특허/영업비밀 분쟁 격화:</span> 삼성D-BOE 간 OLED 소송전 심화. 기술 보호 및 경쟁 우위 확보 위한 법적 대응 중요성 증대. ITC 판결 주목. <span class="update-mark">(update)</span></li>
              </ul>
          </div>
     </div>
@@ -427,9 +442,15 @@
             <ul>
                 <li><span class="keyword">8세대 OLED 투자 본격화:</span> 삼성디스플레이의 첫 투자 이후 중국 BOE, 비전옥스 등 투자 준비 중. 관련 장비/소재 시장 확대 기대.</li>
                 <li><span class="keyword">Micro LED 기술 혁신:</span> ETRI, 전사/접합 동시 수행 신소재 'SITRAB' 개발. 공정 단축 및 비용 대폭 절감(장비 1/10, 소재/수리 1/100) 기대.</li>
-                <li><span class="keyword">폴더블 기술 진화:</span> 삼성전자, 화면 두 번 접는 트리플 폴더블폰(G폴드) 출시 임박 관측. 기존 플립/폴드 외 새로운 폼팩터 확장 시도. 화웨이 '메이트 XT' 출시 선례 있으나 완성도 이슈.</li>
+                <li><span class="keyword">폴더블 기술 진화:</span> 삼성전자, 화면 두 번 접는 트리플 폴더블폰(G폴드, 코드명 Q7M) 출시 임박 관측 (GSMA DB 등록). 기존 플립/폴드 외 새로운 폼팩터 확장 시도. <span class="update-mark">(update)</span></li>
                 <li><span class="keyword">유리 기판 기술:</span> Apple, 아이폰 20주년(2027년) 모델에 '단일 유리판' 디자인 적용 가능성 제기 (블룸버그). 내구성 문제 극복 과제.</li>
-            </ul>
+                <li><span class="keyword">차량용 OLED:</span> 한국 기업(SDC, LGD) 점유율 1위(32.5%) 유지하나 중국(29.8%) 추격 거셈. <span class="update-mark">(update)</span></li>
+                <li><span class="keyword">노트북 OLED:</span> 삼성 점유율(76.5%) 여전히 높으나 중국(에버디스플레이 17.9%) 급성장. <span class="update-mark">(update)</span></li>
+                <li><span class="keyword">스마트폰 OLED:</span> 출하량 기준 중국(44.8%)이 한국(55.1%) 추격, 역전 임박. 매출 기준은 한국(63.2%) 우위 유지 (프리미엄 집중). <span class="update-mark">(update)</span></li>
+                <li><span class="keyword">차세대 마이크로 OLED:</span> 중국(시드텍, BOE 등) 선제적 투자 강화. 한국은 R&D 단계. 시장 선점 경쟁 예고. <span class="update-mark">(update)</span></li>
+                <li><span class="keyword">메타버스 디스플레이:</span> XR 헤드셋 경쟁 심화 (Apple Vision Pro, Meta Quest 등). 고해상도, 고효율 디스플레이 요구 증대. 마이크로 OLED 중요성 부각. <span class="update-mark">(update)</span></li>
+                <li><span class="keyword">QD 기술:</span> 삼성전자, QLED TV 통해 퀀텀닷 기술 경쟁력 강조 (무카드뮴 인듐포스파이드 상용화 선도). <span class="update-mark">(update)</span></li>
+             </ul>
         </div>
          <div class="section">
             <h3>국내 업체 동향 (제조사 외)</h3>
@@ -446,35 +467,41 @@
             <h3>Apple</h3>
             <ul>
                 <li><span class="keyword">관세 직격탄 및 가격 인상 압력:</span> 중국(총 54%), 베트남(46%) 등 주요 생산지 고율 관세 부과로 아이폰 원가 급등 (WSJ 분석: 부품 원가 550$ → 850$). 소비자 가격 최대 43% 인상(프로맥스 336만원) 또는 이익 감소 불가피. 주가 16% 급락 (3~4일).</li>
-                <li><span class="keyword">공급망 재편 및 대응:</span> 팀 쿡 CEO, 트럼프 1기 관세 면제 이끌었으나 이번엔 불투명. 인도(26% 관세) 등 생산 비중 확대, 통신사 보조금 증가, 공급사 단가 인하 압박 등 다양한 대응책 모색 중.</li>
+                <li><span class="keyword">공급망 재편 및 대응:</span> 팀 쿡 CEO, 트럼프 1기 관세 면제 이끌었으나 이번엔 불투명 ("예외 많지 않을 것"). 관세 면제 가능성 제기 (모건스탠리 20%, 니덤 등 긍정적). 인도(26% 관세) 등 생산 비중 확대. 브라질(10% 관세) 아이폰 생산 시설 확장 검토 (아이폰16 프로 생산 포함). <span class="update-mark">(update)</span></li>
                 <li><span class="keyword">신제품 및 기술 전략:</span>
-                    - <span class="keyword">아이폰 17:</span> 에어 모델(초슬림 디자인 시작점), 프로 모델(카메라 섬 확대, 구글 픽셀 유사 디자인 루머), 20주년 기념 대담한 디자인 및 폴더블 버전 계획 (블룸버그).
-                    - <span class="keyword">아이패드:</span> M3 칩 탑재 아이패드 에어 7세대 출시(10일). AI 기능(애플 인텔리전스) 탑재.
-                    - <span class="keyword">장기 비전:</span> 아이폰 20주년(2027년) '단일 유리판' 디자인 목표 (Jony Ive 구상).
+                    - <span class="keyword">아이폰 17:</span> 에어 모델(초슬림 디자인 시작점), 프로 모델(카메라 섬 확대 디자인 루머 있으나, 기존 삼각 배열 유지 전망 - 마크 거먼). <span class="update-mark">(update)</span>
+                    - <span class="keyword">아이폰 20주년(2027년):</span> 폴더블 아이폰 및 '단일 유리판' 디자인의 새로운 프로 모델 준비 중 (블룸버그). <span class="update-mark">(update)</span>
+                    - <span class="keyword">아이패드:</span> M3 칩 탑재 아이패드 에어 7세대 출시(10일). 차세대 아이패드 미니에 삼성 OLED 패널 탑재 테스트 중 (60Hz LTPS 예상). <span class="update-mark">(update)</span>
+                    - <span class="keyword">AI 전략:</span> AI 기반 건강 코치 '프로젝트 멀베리' 개발 중 (내년 출시 가능성). AI 스마트홈 허브 출시 2026년으로 연기 (시리 지연 영향). <span class="update-mark">(update)</span>
+                    - <span class="keyword">iOS 18.5:</span> WWDC 25(6/9~13) 이전 공개 가능성 (마크 거먼). <span class="update-mark">(update)</span>
                 </li>
-                <li><span class="keyword">시장 동향:</span> 미국 스마트폰 점유율 65%(23년 4분기) 압도적 1위. 애플페이 국내 도입 임박. 갤럭시 AI 대비 AI 기능(실시간 통역 등) 열세 지적.</li>
+                <li><span class="keyword">시장 동향:</span> 미국 스마트폰 점유율 65%(23년 4분기) 압도적 1위. 애플페이 국내 도입 임박.</li>
+                <li><span class="keyword">기타:</span> 유선 라이트닝 이어폰 수요 여전 (충전 불필요, 지연 없음 장점). <span class="update-mark">(update)</span></li>
             </ul>
         </div>
         <div class="section">
             <h3>Samsung Electronics (고객사 관점)</h3>
              <ul>
-                 <li><span class="keyword">관세 영향:</span> 베트남(46%) 등 주요 생산 거점 관세 영향 받으나, Apple 대비 낮은 세율(한국 25%, 인도 26%) 및 생산 기지 다변화로 상대적 유리 관측.</li>
+                 <li><span class="keyword">관세 영향:</span> 베트남(46%) 등 주요 생산 거점 관세 영향 받으나, Apple 대비 낮은 세율(한국 26%, 인도 27%) 및 생산 기지 다변화(멕시코 등 10개 거점)로 상대적 유리. 북미향 TV 대부분 멕시코 생산으로 관세 영향 제한적. <span class="update-mark">(update)</span></li>
+                 <li><span class="keyword">TV 전략:</span> 2025년형 AI TV 라인업 61개 모델로 대폭 확대 (AI 홈, AI 어시스턴트, AI 시청 최적화). Neo QLED 115형/100형, OLED 42형~83형 등 라인업 강화. 국내 OLED TV 1위 목표 제시. 연간 4천만대 판매 목표. <span class="update-mark">(update)</span></li>
                  <li><span class="keyword">스마트폰 전략:</span>
-                    - <span class="keyword">폴더블:</span> 역성장(23년 -33%) 돌파 위해 보급형 'Z플립7 FE', 트리플 폴더블 'G폴드' 출시 추진.
+                    - <span class="keyword">폴더블:</span> 역성장(23년 -33%) 돌파 위해 보급형 'Z플립7 FE', 트리플 폴더블 'G폴드(Q7M)' 출시 추진.
                     - <span class="keyword">슬림폰:</span> '갤럭시 S25 엣지' 5월 13일 공개 전망 (두께 5.8mm).
                     - <span class="keyword">AP 전략:</span> 엑시노스(2500/2600) 부활 노력 중이나 3nm/2nm 수율 문제로 플래그십(S25, 엣지, 폴더블) 탑재 불투명. 퀄컴 스냅드래곤 의존 지속.
+                    - <span class="keyword">AI 경쟁력:</span> '갤럭시 AI S24' 기능(실시간 통역 등) 우위 평가 (챗GPT, IR52 장영실상). <span class="update-mark">(update)</span>
                  </li>
-                 <li><span class="keyword">기타:</span> '갤럭시 AI S24' 세계 최초 AI폰으로 IR52 장영실상 수상. 애플페이 대응 위한 삼성페이 전략 강화. 공급망 인권 관리 글로벌 ICT 기업 중 1위 평가(노우더체인).</li>
+                 <li><span class="keyword">기타:</span> 애플페이 대응 위한 삼성페이 전략 강화. 공급망 인권 관리 글로벌 ICT 기업 중 1위 평가(노우더체인). 故 한종희 부회장 별세, 노태문 사장 DX부문장 직무대행 임명. <span class="update-mark">(update)</span> 가정용 로봇 '볼리' 상반기 출시 예정. <span class="update-mark">(update)</span></li>
             </ul>
         </div>
         <div class="section">
              <h3>기타 고객사 (Microsoft, Meta, Dell, HP, Lenovo, Huawei 등)</h3>
             <ul>
-                <li><span class="keyword">MS:</span> 이메일 피싱 공격 주의 경고 (PDF/QR코드 악용). (특정 동향 외 언급 없음)</li>
-                <li><span class="keyword">Meta:</span> (이번 기사 내용에서 직접적인 언급 없음)</li>
+                <li><span class="keyword">MS:</span> 삼성 TV에 코파일럿 탑재 협력 진행 중. <span class="update-mark">(update)</span> 이메일 피싱 공격 주의 경고 (PDF/QR코드 악용).</li>
+                <li><span class="keyword">Meta:</span> 최신 AI 모델 '라마4' (스카우트, 매버릭) 공개. <span class="update-mark">(update)</span> 메타버스 기기 경쟁 (Quest). <span class="update-mark">(update)</span></li>
                 <li><span class="keyword">Dell/HP:</span> AI PC 신제품 출시 등 시장 공략 강화.</li>
                 <li><span class="keyword">Lenovo:</span> 미국 스마트폰 시장 점유율 3위(10%, 23년 4분기).</li>
                 <li><span class="keyword">Huawei:</span> 지난해 트리플 폴더블폰 '메이트 XT' 출시했으나 완성도 문제 지적.</li>
+                <li><span class="keyword">Google:</span> 삼성 AI TV에 '구글 캐스트' 상반기 내 탑재 예정. <span class="update-mark">(update)</span> 딥마인드, 5~10년 내 AGI 등장 및 위험성 경고. <span class="update-mark">(update)</span></li>
             </ul>
         </div>
     </div>
@@ -484,32 +511,37 @@
          <div class="section">
              <h3>Samsung Display (SDC)</h3>
              <ul>
-                 <li><span class="keyword">Apple 공급망 지위:</span> 아이폰 OLED 패널 주요 공급사. Apple의 관세 부담으로 인한 단가 인하 압박 가능성 상존.</li>
-                 <li><span class="keyword">베트남 생산 거점:</span> OLED 디스플레이 주력 생산 기지. 미국의 對베트남 상호관세(46%) 영향 주목. 8.6세대 OLED 공장 투자(18억 달러) 진행 중.</li>
-                 <li><span class="keyword">고객사 의존도:</span> 삼성전자 및 Apple향 매출 비중 80% 상회 추정. 고객사 리스크에 민감.</li>
+                 <li><span class="keyword">Apple 공급망 지위:</span> 아이폰 OLED 패널 주요 공급사. 차세대 아이패드 미니용 OLED 패널 테스트 공급. 아이패드 프로 13인치 OLED 품질 인증 통과, 5월 양산/납품 시작. <span class="update-mark">(update)</span> Apple 관세 부담으로 인한 단가 인하 압박 가능성 상존.</li>
+                 <li><span class="keyword">생산 및 투자:</span> 베트남 8.6세대 OLED 공장 투자(18억 달러) 진행 중. 對베트남 관세(46%) 영향 주목.</li>
+                 <li><span class="keyword">기술 리더십:</span> 무카드뮴 QD 기술 상용화 선도 (노벨상 기여 평가). 차량용 OLED 시장 강자. <span class="update-mark">(update)</span></li>
+                 <li><span class="keyword">소송전:</span> 美 ITC 조사국, BOE의 삼성D 영업비밀 침해 인정 및 수입금지 권고 (예비판결 5/1 예정). 텍사스 법원 소송도 진행 중. <span class="update-mark">(update)</span></li>
             </ul>
          </div>
         <div class="section">
             <h3>LG Display (LGD)</h3>
              <ul>
                  <li><span class="keyword">Apple 공급망 지위:</span> 아이폰 OLED 패널 공급사. Apple향 매출 의존도 54% 수준. 단가 인하 압박 가능성.</li>
-                 <li><span class="keyword">베트남 생산 거점:</span> 하이퐁 공장에서 TV/가전용 패널 생산, 일부 북미 공급. OLED 패널 생산. 對베트남 관세(46%) 영향 우려.</li>
-                 <li><span class="keyword">차세대 기술:</span> (이번 기사 내용에서 직접적인 언급 없음)</li>
+                 <li><span class="keyword">생산 및 투자:</span> 베트남 하이퐁 공장 운영 (對베트남 관세 46% 영향). 광저우 LCD 공장 CSOT에 매각 완료. <span class="update-mark">(update)</span> OLED 투자 지속 (연 2조원대). <span class="update-mark">(update)</span></li>
+                 <li><span class="keyword">시장 점유율:</span> 글로벌 OLED TV 시장 12년 연속 1위 (23년 52.4%). 삼성의 국내 77인치 이상 OLED 점유율 60% 주장에 반박 (자사 데이터 기준 1/3 수준). <span class="update-mark">(update)</span> 차량용 하이엔드 디스플레이 1위 유지. <span class="update-mark">(update)</span></li>
+                 <li><span class="keyword">신제품:</span> 2025년형 AI OLED TV 유럽 8개국 출시 (총 20여개국 확대). <span class="update-mark">(update)</span></li>
              </ul>
         </div>
         <div class="section">
             <h3>중국 패널 업체 (BOE, CSOT, Visionox, Tianma 등)</h3>
              <ul>
-                 <li><span class="keyword">BOE:</span> 8세대 OLED 투자 준비 중. (이번 기사 내용에서 직접적인 언급 없음)</li>
-                 <li><span class="keyword">CSOT:</span> (이번 기사 내용에서 직접적인 언급 없음)</li>
+                 <li><span class="keyword">BOE:</span> 8세대 OLED 투자 준비 중. 美 ITC 조사국으로부터 삼성D 영업비밀 침해 판정 (수입금지 권고). 공급망 인권 관리 평가 최하위(0점). 마이크로 LED 생산 시작. <span class="update-mark">(update)</span></li>
+                 <li><span class="keyword">CSOT:</span> LG디스플레이 광저우 8.5세대 LCD 공장 인수 공식 완료. 대형 LCD 점유율 22.9% 확대 전망. <span class="update-mark">(update)</span></li>
                  <li><span class="keyword">Visionox:</span> 8세대 OLED 투자 준비 중.</li>
-                 <li><span class="keyword">Tianma:</span> (이번 기사 내용에서 직접적인 언급 없음)</li>
+                 <li><span class="keyword">기타 중국 업체 (Everdisplay, SidTek 등):</span> 노트북 OLED, 마이크로 OLED 등에서 점유율 확대 및 투자 강화. <span class="update-mark">(update)</span></li>
              </ul>
         </div>
          <div class="section">
              <h3>기타 경쟁사 (Sharp, JDI, AUO, Innolux 등)</h3>
              <ul>
-                 <li>(이번 기사 내용에서 직접적인 언급 없음)</li>
+                 <li><span class="keyword">JDI:</span> OLED 기술 개발 중단 선언. <span class="update-mark">(update)</span></li>
+                 <li><span class="keyword">Sharp:</span> (언급 없음)</li>
+                 <li><span class="keyword">AUO:</span> 삼성전자에 TV/모니터용 LCD 패널 공급. <span class="update-mark">(update)</span></li>
+                 <li><span class="keyword">Innolux:</span> (언급 없음)</li>
              </ul>
          </div>
     </div>
@@ -519,23 +551,21 @@
         <div class="section">
             <h3>트럼프 행정부 상호관세 부과 및 파급 효과</h3>
             <ul>
-                <li><span class="keyword">정책 내용:</span> 全 교역국 대상 10% 보편 관세 + 국가별 상호관세 (주요 대상: 중국 34%, 베트남 46%, 태국 36%, 인도 26%, 한국 25%, EU 20% 등). 9일 발효 예정.</li>
-                <li><span class="keyword">목표:</span> 아시아 생산기지 통한 우회 수출 차단 및 자국 제조업 보호 강화.</li>
-                <li><span class="keyword">시장 충격:</span> Apple(-16%), Nvidia, Amazon 등 빅테크 주가 급락. 글로벌 공급망 재편 압력 증대.</li>
-                <li><span class="keyword">영향:</span>
-                    - <span class="keyword">가격 인상:</span> 스마트폰(아이폰 최대+43%), 가전 등 소비재 가격 상승 불가피 전망 ('폰플레이션').
-                    - <span class="keyword">기업 부담:</span> 제조 원가 상승, 공급망 재편 비용, 수익성 악화 우려. 부품사 단가 인하 압박 가능성.
-                    - <span class="keyword">공급망 변화:</span> 탈중국 가속화되나 베트남/인도 등 대안 지역도 고율 관세 부과. 멕시코, 미국 내 생산 등 재검토 필요.
-                    - <span class="keyword">예외 적용 불확실:</span> 트럼프 1기 때와 달리 Apple 등 자국 기업 관세 면제/유예 혜택 축소 가능성 시사 ("예외 많지 않을 것").
-                </li>
+                <li><span class="keyword">글로벌 교역 충격:</span> 전 세계 대상 '10% 보편 + 국가별 상호관세' 부과 (중국 34%, 베트남 46%, 인도 27%, 한국 26% 등). 아시아 생산기지 고율 관세 적용으로 글로벌 공급망 대혼란. 9일 발효.</li>
+                <li><span class="keyword">기술주 동반 폭락:</span> 관세 발표 후 애플(-16%), 아마존, 메타, 엔비디아, 테슬라 등 빅테크 주가 급락.</li>
+                <li><span class="keyword">가격 인상 압력:</span> Apple 등 생산비용 증가로 소비자 가격 전가 가능성. 아이폰 가격 최대 43% 인상(프로 맥스 336만원) 전망 등 '폰플레이션' 심화 우려. 미국 소비자, 가격 인상 전 전자제품 구매 고려 (스마트폰 48%). <span class="update-mark">(update)</span></li>
+                <li><span class="keyword">공급망 재편 불가피:</span> 기존 중국 중심 또는 탈중국(동남아) 전략 모두 리스크 노출. 기업들, 미국 내 생산 확대, 멕시코 활용(관세 예외 가능성), 브라질(10% 관세) 등 제3지역 모색. 생산지 운영 유연성 중요. <span class="update-mark">(update)</span></li>
+                <li><span class="keyword">美 자국 기업 타격 및 면제 가능성:</span> 애플 등 해외 생산 의존 높은 미국 기업들도 관세 직격탄. 트럼프 1기 때 면제 사례 있어 이번에도 가능성 제기되나 불확실. 면제 시 삼성 등 경쟁사 역차별 우려. <span class="update-mark">(update)</span></li>
             </ul>
         </div>
         <div class="section">
-            <h3>AI 기술 동향</h3>
+            <h3>AI 기술 동향 및 경쟁</h3>
             <ul>
-                 <li><span class="keyword">온디바이스 AI 확산:</span> 삼성 '갤럭시 AI S24'(실시간 통역 등 기능 우위 평가), Apple '애플 인텔리전스'(아이패드 에어 등 탑재), 구글 '픽셀' 등 스마트폰 탑재 경쟁 심화.</li>
-                 <li><span class="keyword">AI PC 시장:</span> HP, Dell 등 AI 기능 탑재 PC 출시하며 기업 시장(AX 전환) 공략 강화.</li>
-                 <li><span class="keyword">AI 칩 경쟁:</span> 삼성 엑시노스 수율 문제, 퀄컴 스냅드래곤 강세 지속. Nvidia GPU 조립 (미국/멕시코 비중 확대).</li>
+                <li><span class="keyword">AI TV 경쟁 심화:</span> 삼성전자(Neo QLED, OLED 등 61개 모델), LG전자(OLED 중심) AI 기능 강화 신제품 출시. 실시간 번역, 콘텐츠 추천, 스마트홈 연동 등 기능 경쟁. <span class="update-mark">(update)</span></li>
+                <li><span class="keyword">온디바이스 AI 확산:</span> 삼성 '갤럭시 AI S24'(실시간 통역 등 기능 우위 평가), Apple '애플 인텔리전스'(아이패드 에어 등 탑재), 구글 '픽셀' 등 스마트폰 탑재 경쟁 심화.</li>
+                <li><span class="keyword">AI PC 시장:</span> HP, Dell 등 AI 기능 탑재 PC 출시하며 기업 시장(AX 전환) 공략 본격화.</li>
+                <li><span class="keyword">생성형 AI 발전 및 우려:</span> 메타 '라마4' 공개. 챗GPT, 스마트폰 선호도 평가 (삼성>애플). 구글 딥마인드, 5~10년 내 AGI 출현 및 인류 위협 가능성 경고. 메타버스 콘텐츠 제작(Roblox, Unity, Zepeto 등)에 생성형 AI 활용 증대. <span class="update-mark">(update)</span></li>
+                <li><span class="keyword">AI 헬스케어:</span> Apple, AI 기반 건강 코치 '프로젝트 멀베리' 개발 중 (2025년 출시 목표). 의료 AI 활용 위험성 경고도 존재 (ECRI). <span class="update-mark">(update)</span></li>
             </ul>
         </div>
          <div class="section">
@@ -543,7 +573,9 @@
              <ul>
                  <li><span class="keyword">애플페이 국내 도입 임박:</span> 삼성페이와의 경쟁 구도 변화 주목.</li>
                  <li><span class="keyword">폴더블폰 시장:</span> 삼성 주춤 속 경쟁사 추격. 삼성, 보급형/트리플 폴더블로 반격 준비. 시장 자체 성장세 둔화 전망(카운터포인트).</li>
-                 <li><span class="keyword">슬림폰 경쟁 예고:</span> 삼성 갤럭시 S25 엣지, Apple 아이폰 17 에어 등 출시 예정.</li>
+                 <li><span class="keyword">슬림폰 경쟁 예고:</span> 삼성 갤럭시 S25 엣지(5.8mm), Apple 아이폰 17 에어 등 출시 예정.</li>
+                 <li><span class="keyword">메타버스 현황:</span> 시장 성장 전망(2030년 4904억 달러) 불구, 디바이스 가격/콘텐츠 부족 등 확산 제약 존재. 생성형 AI 융합, 산업 메타버스 도입 등 새로운 돌파구 모색 중. <span class="update-mark">(update)</span></li>
+                 <li><span class="keyword">구독 경제 확산:</span> IT/콘텐츠 구독 서비스 지출 증가 추세. 삼성 TV 구독 모델 이용률 50% 상회. <span class="update-mark">(update)</span></li>
              </ul>
          </div>
     </div>
@@ -553,17 +585,18 @@
         <div class="section">
             <h3>주요 기업 SCM 전략 및 동향</h3>
             <ul>
-                <li><span class="keyword">Apple:</span> 중국(Foxconn 등), 인도, 베트남 중심의 글로벌 공급망 운영. 관세 부과로 생산 거점 다변화(인도 확대 등) 및 비용 절감(공급사 압박) 압력 가중. 부품은 한국(디스플레이, 메모리), 일본(카메라, 낸드), 대만(AP), 미국(통신칩 설계), 중국(배터리, 프레임) 등 다국적 조달.</li>
-                <li><span class="keyword">삼성전자:</span> 베트남(스마트폰 절반), 인도(30%), 한국(구미), 브라질, 인도네시아 등 생산 기지 다변화. 관세 영향 분산 시도. 자체 AP(엑시노스) 개발 및 파운드리 생산 노력 지속하나 수율 문제로 퀄컴 의존. 부품 계열사(삼성D, 삼성전기) 활용. 글로벌 공급망 인권 관리 1위 평가.</li>
+                <li><span class="keyword">Apple:</span> 중국(Foxconn 등), 인도, 베트남 중심의 글로벌 공급망 운영. 관세 부과로 생산 거점 다변화 압력 가중 (인도 확대, 브라질 확장 검토). 부품은 한국(디스플레이, 메모리), 일본(카메라, 낸드), 대만(AP), 미국(통신칩 설계), 중국(배터리, 프레임) 등 다국적 조달. 관세 면제 여부 불투명, 공급사 단가 압박 가능성.</li>
+                <li><span class="keyword">삼성전자:</span> 베트남(스마트폰 절반), 인도(30%), 한국(구미), 브라질, 인도네시아, 멕시코(TV 주력) 등 10개 생산 기지 다변화 운영. 관세 영향 분산 시도. 자체 AP(엑시노스) 개발 및 파운드리 생산 노력 지속하나 수율 문제로 퀄컴 의존. 부품 계열사(삼성D, 삼성전기) 활용. 글로벌 공급망 인권 관리 1위 평가. TV용 LCD 패널 중국(CSOT 등)/대만(AUO) 의존 불가피하나 자체 기술로 차별화 시도. <span class="update-mark">(update)</span></li>
                 <li><span class="keyword">LG전자/LG 계열사:</span> 베트남(하이퐁 등) 주요 생산 거점(TV, 가전, 카메라모듈 등). 북미 시장 공급 위해 멕시코 생산 기지 활용 및 미국 테네시 공장 확장 준비(관세 대응).</li>
                 <li><span class="keyword">Nvidia:</span> GPU 등 완제품 조립, 중국/대만 비중 축소하고 멕시코/미국 비중 확대 추세 (관세 대응).</li>
+                <li><span class="keyword">기타 (효성, LS 등):</span> 베트남 생산 거점 운영 기업들, 對베트남 관세(46%) 영향 주시. 생산지 조정 및 미국 거점 확대 등 대응 모색. <span class="update-mark">(update)</span></li>
             </ul>
         </div>
          <div class="section">
              <h3>국내 부품/장비 업체 동향</h3>
              <ul>
-                 <li><span class="keyword">삼성디스플레이:</span> 베트남에 8.6세대 OLED 투자 진행 중. 삼성전자/Apple 의존도 높음(80% 이상).</li>
-                 <li><span class="keyword">LG디스플레이:</span> 베트남 생산 거점 운영. Apple 의존도 54%.</li>
+                 <li><span class="keyword">삼성디스플레이:</span> 베트남에 8.6세대 OLED 투자 진행 중. 삼성전자/Apple 의존도 높음(80% 이상). Apple 아이패드 미니/프로 13형 OLED 공급. 美 ITC, BOE 상대 영업비밀 침해 소송 유리한 국면. <span class="update-mark">(update)</span></li>
+                 <li><span class="keyword">LG디스플레이:</span> 베트남 생산 거점 운영. Apple 의존도 54%. 광저우 LCD 공장 CSOT 매각 완료. <span class="update-mark">(update)</span></li>
                  <li><span class="keyword">LG이노텍:</span> 주력 제품(카메라 모듈) Apple 공급(매출 의존도 81%). 베트남 등 생산 거점 운영. 관세 발효 전 Apple 선주문으로 1분기 실적 개선 기대. 휴머노이드 로봇 부품 사업 준비.</li>
                  <li><span class="keyword">삼성전기:</span> 카메라 모듈, MLCC 등 생산. 베트남 생산 거점 운영. 삼성전자 의존도 29%.</li>
                  <li><span class="keyword">엘에이티 (LAT):</span> 8세대 OLED용 마스크 스퍼터, 패널이송 장비 공급. 해외 고객사 및 국내 디스플레이 업체 납품. 코스닥 이전 상장 추진.</li>
@@ -575,7 +608,7 @@
                <h3>미국 관세 영향</h3>
               <ul>
                   <li><span class="keyword">단가 인하 압박 우려:</span> 삼성전자, Apple 등 완제품 제조사가 관세 부담을 부품 협력사에 전가할 가능성 제기. 특히 Apple/삼성 의존도 높은 국내 부품사(삼성D, LGD, LG이노텍, 삼성전기 등) 수익성 악화 우려.</li>
-                  <li><span class="keyword">공급망 재편 가속화:</span> 관세 회피 위한 고객사의 생산 거점 이전/다변화 요구에 부품사들도 동반 이동 또는 대응 필요성 증대.</li>
+                  <li><span class="keyword">공급망 재편 가속화:</span> 관세 회피 위한 고객사의 생산 거점 이전(미국, 멕시코, 브라질 등) 또는 다변화 가속화 전망. 부품사들도 동반 이동 또는 대응 필요.</li>
                   <li><span class="keyword">불확실성 증대:</span> 관세 정책 변동성, 고객사별 대응 전략 차이 등으로 부품 공급 물량 및 가격 예측 어려움 가중.</li>
                </ul>
            </div>
@@ -585,37 +618,49 @@
         <h2>주요 일정 로드맵 (예상 포함)</h2>
          <div class="roadmap-item">
             <strong>2025년 4월</strong>
-             <span>- 미국 상호관세 발효 예정 (9일)</span>
-             <span>- 애플 아이패드 에어 7세대 출시 (10일)</span>
+             <span>- 미국 상호관세 발효 (9일) <span class="update-mark">(update)</span></span>
+             <span>- 애플 아이패드 에어 7세대 출시 (10일) <span class="update-mark">(update)</span></span>
+             <span>- 삼성전자 2025년형 AI TV 국내 출시 (7일) <span class="update-mark">(update)</span></span>
+        </div>
+        <div class="roadmap-item">
+            <strong>2025년 5월</strong>
+             <span>- 美 ITC, 삼성D-BOE OLED 소송 예비판결 예정 (1일) <span class="update-mark">(update)</span></span>
+             <span>- 삼성전자 '갤럭시 S25 엣지' 공개 예상 (13일)</span>
+             <span>- 삼성디스플레이, 아이패드 프로 13형 OLED 양산/납품 시작 예상 <span class="update-mark">(update)</span></span>
+        </div>
+        <div class="roadmap-item">
+            <strong>2025년 상반기</strong>
+             <span>- 삼성전자, 가정용 로봇 '볼리' 출시 예정 <span class="update-mark">(update)</span></span>
+             <span>- 삼성 AI TV, 구글 캐스트 탑재 예정 <span class="update-mark">(update)</span></span>
         </div>
          <div class="roadmap-item">
-            <strong>2025년 5월</strong>
-             <span>- 삼성전자 '갤럭시 S25 엣지' 공개 전망 (13일)</span>
+            <strong>2025년 6월</strong>
+             <span>- Apple WWDC 2025 개최 (9일~13일), iOS 19 등 공개 예상 <span class="update-mark">(update)</span></span>
         </div>
         <div class="roadmap-item">
             <strong>2025년 하반기</strong>
-             <span>- 삼성전자 갤럭시 Z폴드7 / Z플립7 / Z플립7 FE / G폴드 출시 예상</span>
+             <span>- 삼성전자 갤럭시 Z 폴드7 / Z플립7 / Z플립7 FE / G폴드(트리폴드) 출시 예상</span>
              <span>- Apple 아이폰 17 시리즈 공개/출시 예정</span>
              <span>- 엘에이티 코스닥 이전 상장 추진 (연말 또는 내년)</span>
         </div>
          <div class="roadmap-item">
             <strong>2026년</strong>
-            <span>- 삼성전자 갤럭시 S26 시리즈 출시 (엑시노스 2600 탑재 목표, 2nm 공정)</span>
-            <span>- Apple 아이폰 17 에어 출시 예상 (초슬림 디자인)</span>
-            <span>- Apple 아이패드 미니 OLED 모델 출시 가능성</span>
-            <span>- LG이노텍 휴머노이드 로봇 부품 양산 시작 예상</span>
+             <span>- 삼성전자 갤럭시 S26 시리즈 출시 (엑시노스 2600 탑재 목표, 2nm 공정)</span>
+             <span>- Apple 아이패드 미니/에어 OLED 모델 출시 가능성</span>
+             <span>- Apple 스마트홈 허브 출시 가능성 <span class="update-mark">(update)</span></span>
+             <span>- LG이노텍 휴머노이드 로봇 부품 양산 시작 예상</span>
          </div>
-          <div class="roadmap-item">
-            <strong>2027년</strong>
-             <span>- Apple 아이폰 20주년 모델 출시 예상 ('유리판' 디자인 가능성)</span>
+         <div class="roadmap-item">
+             <strong>2027년</strong>
+             <span>- Apple 아이폰 20주년 기념 모델 출시 예상 (폴더블, 신규 프로 디자인) <span class="update-mark">(update)</span></span>
          </div>
-         </div>
+     </div>
 
     <div class="references">
       <h2>참고 기사 목록</h2>
       <ul>
           <li><a href="http://www.seoulwire.com/news/articleView.html?idxno=645626" target="_blank">[삼성카드 승부수②] 애플페이 도입 임박…삼성페이의 전략은? (2025-04-07 07:00)</a> <span class="ref-date">2025-04-07</span></li>
-          <li><a href="https://n.news.naver.com/mnews/article/018/0005980896?sid=105" target="_blank">최종 목표는 '유리판 아이폰' 20주년 깜짝놀랄 변화 준비 [모닝폰] (2025-04-07 06:30)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/018/0005980896?sid=105" target="_blank">유리구두 신은 아이폰 나오나 깜짝놀랄 변화 준비[모닝폰] (2025-04-07 06:30)</a> <span class="ref-date">2025-04-07</span></li>
           <li><a href="https://n.news.naver.com/mnews/article/366/0001067235?sid=105" target="_blank">“단가 인하 압박 거세진다”… 트럼프 관세에 삼성·애플 부품사 ‘초... (2025-04-07 06:01)</a> <span class="ref-date">2025-04-07</span></li>
           <li><a href="https://n.news.naver.com/mnews/article/030/0003300575?sid=105" target="_blank">엘에이티 “마스크 스퍼터로 8세대 OLED 공략” (2025-04-07 06:01)</a> <span class="ref-date">2025-04-07</span></li>
           <li><a href="https://n.news.naver.com/mnews/article/014/0005331976?sid=105" target="_blank">아이폰 17, 가격 뛰는데 디자인 이렇게 나온다고? [1일IT템] (2025-04-07 06:01)</a> <span class="ref-date">2025-04-07</span></li>
@@ -626,7 +671,7 @@
           <li><a href="https://n.news.naver.com/mnews/article/023/0003897945?sid=105" target="_blank">아이폰 원가 550→850달러… 중국을 때렸는데 애플이 운다 (2025-04-07 01:05)</a> <span class="ref-date">2025-04-07</span></li>
           <li><a href="https://n.news.naver.com/mnews/article/025/0003432261?sid=101" target="_blank">‘333만원 아이폰’ 현실화? 삼성전자 계산 분주 (2025-04-07 00:02)</a> <span class="ref-date">2025-04-07</span></li>
           <li><a href="https://n.news.naver.com/mnews/article/016/0002453300?sid=105" target="_blank">“삼성 결국 미쳤다” 핫도그나 접어라, 조롱받던 접는폰…‘두 번’ 접... (2025-04-06 20:41)</a> <span class="ref-date">2025-04-06</span></li>
-          <li><a href="https://n.news.naver.com/mnews/article/018/0005980808?sid=101" target="_blank">대부분 중국산 아이폰 관세 어쩌나…미리 사자 (2025-04-06 19:00)</a> <span class="ref-date">2025-04-06</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/018/0005980808?sid=101" target="_blank">아이폰 미리 사자 관세 폭탄에 334만원 될 수도 (2025-04-06 19:00)</a> <span class="ref-date">2025-04-06</span></li>
           <li><a href="https://www.ajunews.com/view/20250406145327065" target="_blank">트럼프 관세에 흔들리는 韓수출기지… 스마트폰·가전 '사정권' (2025-04-06 18:32)</a> <span class="ref-date">2025-04-06</span></li>
           <li><a href="https://n.news.naver.com/mnews/article/658/0000102968?sid=101" target="_blank">대화면에 가성비까지, 삼성·애플 또 붙었다…태블릿 PC 패권 다툼 (2025-04-06 18:20)</a> <span class="ref-date">2025-04-06</span></li>
           <li><a href="https://n.news.naver.com/mnews/article/025/0003432216?sid=101" target="_blank">336만원 될 것 트럼프가 밀어올린 아이폰값, 삼성 영향은 (2025-04-06 18:18)</a> <span class="ref-date">2025-04-06</span></li>
@@ -636,7 +681,105 @@
           <li><a href="https://n.news.naver.com/mnews/article/015/0005115650?sid=104" target="_blank">아이폰 부품 원가 550달러, 관세 붙이니 847달러 (2025-04-06 17:55)</a> <span class="ref-date">2025-04-06</span></li>
           <li><a href="https://n.news.naver.com/mnews/article/009/0005471566?sid=105" target="_blank">[iR52 장영실상] AI 탑재 스마트폰 심봤다 (2025-04-06 17:26)</a> <span class="ref-date">2025-04-06</span></li>
           <li><a href="http://www.hellodd.com/news/articleView.html?idxno=107474" target="_blank">ETRI 1등 기술이전···'올해의 연구자상' 엄용성 박사 선정 (2025-04-06 17:14)</a> <span class="ref-date">2025-04-06</span></li>
-          </ul>
+          <li><a href="https://www.newsquest.co.kr/news/articleView.html?idxno=242839" target="_blank">[현장] 삼성전자 올해 TV 4000만대 판매…AI·올레드·초대형으로 승부... (2025-04-07 12:58)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.webeconomy.co.kr/news/article.html?no=1172665" target="_blank">삼성전자, 2025년형 TV 신제품 라인업 공개… AI TV 시대 선언 (2025-04-07 12:58)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/030/0003300762?sid=105" target="_blank">[포토] NEO QLED 115형 소개하는 용석우 사장 (2025-04-07 12:50)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/030/0003300761?sid=105" target="_blank">[포토] 삼성 NEO QLED 115형 선봬 (2025-04-07 12:50)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.newscj.com/news/articleView.html?idxno=3254898" target="_blank">삼성전자, 2025년형 TV 신제품 공개… 새로운 경험 세계 열 것 (2025-04-07 12:48)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/629/0000379785?sid=101" target="_blank">한종희 없는 삼성 TV는…용석우 세계 최고 정신 이어간다 (2025-04-07 12:45)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/366/0001067349?sid=105" target="_blank">삼성전자 “韓 OLED TV 1위 목표”… 10개 생산 거점으로 美 관세 대응 (2025-04-07 12:44)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.newsway.co.kr/news/view?ud=2025040712402583295" target="_blank">삼성, 2025년형 TV 라인업 공개…용석우 영원한 1등 이어갈 것(종합) (2025-04-07 12:44)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.nextdaily.co.kr/news/articleView.html?idxno=236844" target="_blank">삼성전자 'Unbox&amp;Discover 2025' 개최…AI TV 신제품 라인업 공개 (2025-04-07 12:42)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://it.chosun.com/news/articleView.html?idxno=2023092137924" target="_blank">삼성 'OLED 77형 점유율 60%' 주장에 LG전자 사실 아냐 (2025-04-07 12:16)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/021/0002701422?sid=101" target="_blank">‘OLED AI TV’ 대결 격화… 삼성 “국내 1위 목표” LG “1위 지킬 것” (2025-04-07 12:09)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/021/0002701421?sid=101" target="_blank">美, 애플에 관세 면제해 줄 가능성… 삼성 스마트폰 ‘역차별’ 당할 우... (2025-04-07 12:06)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/018/0005981440?sid=101" target="_blank">OLED 1등 할 것…삼성, 'OLED 집중' AI TV 판 바꾼다 (2025-04-07 12:02)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.shinailbo.co.kr/news/articleView.html?idxno=2033165" target="_blank">LG전자, 신형 OLED TV 유럽 출격…'5대 AI'로 1위 수성 (2025-04-07 11:58)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://kbench.com/?q=node/266243" target="_blank">애플, OLED 패널 탑재 차기 '아이패드 미니' 테스트 중 (2025-04-07 11:56)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/119/0002942206?sid=101" target="_blank">삼성전자 美 관세, 경쟁사보다 영향 작아...AI TV 시대 연다 (2025-04-07 11:56)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.businesspost.co.kr/BP?command=article_view&num=390252" target="_blank">[현장] 삼성전자 2025형 AI TV 대거 출시, 용석우 중급 제품 확대로 중... (2025-04-07 11:54)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.jemin.com/news/articleView.html?idxno=794669" target="_blank">아이폰 20주년 폴더블과 신형 프로 모델 준비 중 (2025-04-07 11:54)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.tfmedia.co.kr/news/article.html?no=184455" target="_blank">아이폰 20주년 폴더블과 신형 프로 모델 준비 중 (2025-04-07 11:54)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://kr.aving.net/news/articleView.html?idxno=1798824" target="_blank">애플 아이폰 17 시리즈, 유출된 사진과 다르다... 논란의 '카메라 섬' 디... (2025-04-07 11:52)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.fntimes.com/html/view.php?ud=2025040711425920887492587736_18" target="_blank">삼성전자 vs LG전자, 올해 AI TV 대전 빅뱅 (2025-04-07 11:52)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.sisajournal-e.com/news/articleView.html?idxno=410809" target="_blank">중국 추격, 관세에도 물량 늘린다···삼성, 올해 TV 출하 4000만대 목... (2025-04-07 11:50)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.ebn.co.kr/news/articleView.html?idxno=1658240" target="_blank">[현장] 삼성전자 올해 OLED TV 1등 달성…영원한 1등 기조 유지 (2025-04-07 11:46)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.ajunews.com/view/20250407113758498" target="_blank">삼성전자 국내 OLED TV 1위 자신··· 美관세 영향 크지 않아 (2025-04-07 11:44)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://it.chosun.com/news/articleView.html?idxno=2023092137918" target="_blank">삼성전자 OLED TV 경쟁력 최고…올해 韓서 1등하겠다 (2025-04-07 11:42)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/016/0002453693?sid=101" target="_blank">삼성 “올해 국내 OLED TV 1위 오를것” (2025-04-07 11:35)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=560386" target="_blank">애플 스마트홈 허브 출시, 2026년으로 연기 (2025-04-07 11:34)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.etoday.co.kr/news/view/2459699" target="_blank">“올해 ‘4000만 대’ TV 출하 목표”…삼성전자, ‘프리미엄·중저가’... (2025-04-07 11:34)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.etoday.co.kr/news/view/2459699" target="_blank">[종합]“올해 ‘4000만 대’ TV 출하 목표”…삼성전자, ‘프리미엄·중... (2025-04-07 11:34)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.efnews.co.kr/news/articleView.html?idxno=119141" target="_blank">삼성전자, 2025년형 TV 신제품 라인업 공개… 진정한 AI TV 시대 선언 (2025-04-07 11:32)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.econonews.co.kr/news/articleView.html?idxno=382614" target="_blank">삼성전자 국내 OLED TV 1위 할 것…OLED 풀라인업 갖추고 막강한 AI 탑재... (2025-04-07 11:32)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.insight.co.kr/news/498038" target="_blank">유리판 아이폰 나오나... 아이폰, 20주년 기념 디자인 싹 바뀐다 (2025-04-07 11:30)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.techm.kr/news/articleView.html?idxno=137988" target="_blank">삼성전자 OLED TV, 2025년 국내 1위 달성 (2025-04-07 11:28)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.tournews21.com/news/articleView.html?idxno=97834" target="_blank">LG전자, OLED TV 시장 13년 연속 1위 정조준 (2025-04-07 11:28)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/016/0002453669?sid=101" target="_blank">교원 웰스 ‘슬림원’ 레드닷 어워드 본상 (2025-04-07 11:26)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/016/0002453667?sid=105" target="_blank">인건비 절감하려 현지공장 세웠는데…관세폭탄에 비명 [직격탄 맞은 亞... (2025-04-07 11:26)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.newspim.com/news/view/20250407000326" target="_blank">아이폰 부품 관세 붙이니 550→847달러...가격 인상 될까 (2025-04-07 11:25)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.businesspost.co.kr/BP?command=article_view&num=390245" target="_blank">애플 트럼프 '관세 폭탄'에도 증권가 신뢰 굳건, 아이폰 세금 면제 가능... (2025-04-07 11:24)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.ekn.kr/web/view.php?key=20250407026424327" target="_blank">삼성·LG전자, OLED 시장서 ‘AI TV’ 정면승부 (2025-04-07 11:24)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.youthdaily.co.kr/news/article.html?no=182050" target="_blank">진정한 AI TV 시대…삼성전자, TV 신제품 라인업 공개 (2025-04-07 11:24)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/421/0008177474?sid=101" target="_blank">삼성전자, AI·구독 쌍끌이…국내 OLED TV 1위 등극 목표 (2025-04-07 11:19)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/001/0015314809?sid=101" target="_blank">삼성전자 국내 OLED TV 1위 할 것…OLED 풀라인업 구축(종합) (2025-04-07 11:16)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.weeklytoday.com/news/articleView.html?idxno=689080" target="_blank">[위클리오늘] 삼성전자, 'Unbox &amp; Discover 2025' 개최···2025년형 TV 신... (2025-04-07 11:12)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.kdfnews.com/news/articleView.html?idxno=153685" target="_blank">삼성전자, 2025년형 TV 신제품 라인업 공개 (2025-04-07 11:08)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.consumernews.co.kr/news/articleView.html?idxno=729903" target="_blank">[현장] 삼성전자 'AI TV' 시대 선포, 라인업 34개→61개...글로벌 프리미... (2025-04-07 11:02)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.aitimes.kr/news/articleView.html?idxno=34514" target="_blank">삼성전자, 2025년형 TV 신제품 라인업 공개… 진정한 AI TV 시대 선언 (2025-04-07 11:00)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.ezyeconomy.com/news/articleView.html?idxno=210979" target="_blank">삼성전자, 2025년형 TV 신제품 라인업 공개… 진정한 AI TV 시대 선언 (2025-04-07 10:58)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.1conomynews.co.kr/news/articleView.html?idxno=40129" target="_blank">삼성전자, TV 신제품 라인업 공개…14개 시리즈 61개 모델 AI 적용 (2025-04-07 10:58)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.hansbiz.co.kr/news/articleView.html?idxno=742806" target="_blank">삼성전자, 2025년형 TV 신제품 라인업 공개…AI 경험 확대 (2025-04-07 10:54)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.cnet.co.kr/view/?no=20250407104254" target="_blank">애플, AI 기반 '건강 코치' 개발 중…내년 출시 가능성 (2025-04-07 10:50)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.cnet.co.kr/view/?no=20250407101857" target="_blank">삼성전자, 2025년형 TV 신제품 라인업…새로운 AI 경험 제시 (2025-04-07 10:50)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/421/0008177319?sid=101" target="_blank">'115형 네오 QLED TV' 소개하는 용석우 삼성전자 영상디스플레이사업부... (2025-04-07 10:50)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/421/0008177312?sid=101" target="_blank">115형 네오 QLED TV 선보인 삼성전자 (2025-04-07 10:48)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/421/0008177310?sid=101" target="_blank">'이것이 바로 115형 네오 QLED TV' (2025-04-07 10:48)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.smarttoday.co.kr/news/articleView.html?idxno=77368" target="_blank">삼성전자, 2025년형 TV신제품 라인업 공개 (2025-04-07 10:44)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/016/0002453562?sid=105" target="_blank">인건비 절감하려 현지공장 세웠는데…관세 유탄에 비명[비즈360] (2025-04-07 10:42)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.businessplus.kr/news/articleView.html?idxno=84994" target="_blank">삼성전자, 2025년형 TV 신제품 라인업 공개…진정한 AI TV 시대 (2025-04-07 10:36)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.widedaily.com/news/articleView.html?idxno=264257" target="_blank">진정한 AI TV 왔다…삼성전자, 올해 TV 라인업 공개 (2025-04-07 10:36)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.shinailbo.co.kr/news/articleView.html?idxno=2032974" target="_blank">기대 이상 경험 제공 삼성전자 용석우, 진정한 AI TV시대 선언 (2025-04-07 10:34)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=560342" target="_blank">애플, 브라질서 아이폰 생산 확대 검토…트럼프 관세 대응 (2025-04-07 10:32)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/030/0003300689?sid=105" target="_blank">美 ITC 조사국 “BOE, 삼성D 영업비밀 침해...수입금지 조치 필요” (2025-04-07 10:31)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/053/0000049112?sid=101" target="_blank">아이폰 한대에 330만원?... 관세폭탄에 40% 뛸 수도 (2025-04-07 10:30)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.newslock.co.kr/news/articleView.html?idxno=107091" target="_blank">TV도 AI 시대... 삼성전자, 2025년형 신제품으로 AI TV 대중화 선언 (2025-04-07 10:28)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.lcnews.co.kr/news/articleView.html?idxno=98351" target="_blank">삼성전자, 2025년형 TV 신제품 라인업 공개 (2025-04-07 10:28)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.tfmedia.co.kr/news/article.html?no=184410" target="_blank">삼성전자, 'AI 기능 대폭 강화' 2025년형 TV 신제품 대거 공개 (2025-04-07 10:28)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.thefairnews.co.kr/news/articleView.html?idxno=44820" target="_blank">삼성전자, AI TV 시대 선언...신제품 61개 모델 출시 (2025-04-07 10:26)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://news.einfomax.co.kr/news/articleView.html?idxno=4350009" target="_blank">AI TV로 '20년 연속 1위' 조준…삼성전자, 신제품 대거 공개 (2025-04-07 10:26)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.4th.kr/news/articleView.html?idxno=2082561" target="_blank">진정한 AI TV 시대..삼성전자, 2025년형 TV 신제품 라인업 공개 (2025-04-07 10:24)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.ilovepc.co.kr/news/articleView.html?idxno=53853" target="_blank">진정한 AI TV 시대 … 삼성전자 '2025형' 라인업 공개 [디지털포스트 ... (2025-04-07 10:22)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=560370" target="_blank">2027년 아이폰 20주년 기념 모델 나온다…신개념 프로·폴더블 기대 (2025-04-07 10:20)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.seoulwire.com/news/articleView.html?idxno=645804" target="_blank">역대 가장 얇은 갤럭시 S25 엣지' 5월 13일 공개…가격은 (2025-04-07 10:16)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=560342" target="_blank">트럼프 '관세폭탄' 피하자.. 애플, 브라질 아이폰 생산 시설 확장할 듯 (2025-04-07 10:14)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=560341" target="_blank">아이폰17 에어, 역대급 슬림 디자인…프로 맥스와 비교해보니 (2025-04-07 10:14)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.eroun.net/news/articleView.html?idxno=55151" target="_blank">삼성전자, 2025년형 TV 신제품 라인업 공개… 진정한 AI TV 시대 선언 (2025-04-07 10:12)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://dealsite.co.kr/articles/139482" target="_blank">삼성전자, 2025년형 TV 신제품 라인업 공개…AI 경험 강화 (2025-04-07 10:12)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.seoultimes.news/news/article.html?no=2000069679" target="_blank">삼성전자, TV 신제품 라인업 공개…진정한 AI TV 시대 선언 (2025-04-07 10:06)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.newsdream.kr/news/articleView.html?idxno=81039" target="_blank">삼성전자, 2025년형 TV 신제품 라인업 공개… 진정한 AI TV 시대 선언 (2025-04-07 10:06)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/031/0000922328?sid=105" target="_blank">삼성전자, 올해 'AI TV' 라인업 대폭 강화…34개서 61개로 확대 (2025-04-07 10:05)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/374/0000433707?sid=101" target="_blank">실시간 번역하고 더 커졌다…삼성전자, 2025 AI TV 라인업 공개 (2025-04-07 10:03)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.opinionnews.co.kr/news/articleView.html?idxno=115325" target="_blank">삼성전자, 2025년형 TV 신제품 라인업 공개… 진정한 AI TV 시대 선언 (2025-04-07 10:02)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://theviewers.co.kr/View.aspx?No=3604373" target="_blank">삼성전자, TV 신제품 라인업 공개…“진정한 AI TV 시대 선언” (2025-04-07 10:02)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://news.appstory.co.kr/tech18016" target="_blank">충전과 지연 스트레스 없는 모락 글랜 라이트닝 8핀 아이폰 이어폰 (2025-04-07 10:00)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.etoday.co.kr/news/view/2459550" target="_blank">진정한 AI TV 시대 열었다…삼성전자, TV 신제품 라인업 공개 (2025-04-07 10:00)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.goodkyung.com/news/articleView.html?idxno=261575" target="_blank">진정한 AI TV 시대 개막...삼성전자, 2025년형 TV 신제품 공개 (2025-04-07 10:00)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://thetracker.co.kr/View.aspx?No=3604485" target="_blank">진정한 AI TV 시대 개막...삼성전자, 2025년형 TV 신제품 공개 (2025-04-07 09:57)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.autodaily.co.kr/news/articleView.html?idxno=529827" target="_blank">두 번 접는 폰 진짜 나온다 삼성, 트리폴드 폰 '갤럭시 G' 출시 임박? (2025-04-07 09:50)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/366/0001067281?sid=105" target="_blank">LG전자, 신형 AI OLED TV 유럽 8개국서 본격 출시 (2025-04-07 09:38)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.newspim.com/news/view/20250407000199" target="_blank">삼성 QLED 없었다면 노벨상도 없었다...삼성의 소재 혁명 (2025-04-07 09:34)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.ilovepc.co.kr/news/articleView.html?idxno=53847" target="_blank">갤S26 울트라 S펜, 내장 대신 부착 [디지털포스트 모닝픽] (2025-04-07 09:20)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.smartfn.co.kr/news/articleView.html?idxno=106372" target="_blank">아이폰 원가 '300달러' 껑충…삼성 '비켜갈 수 있을까' (2025-04-07 09:12)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://biz.newdaily.co.kr/site/data/html/2025/04/07/2025040700046.html" target="_blank">성층권 도달한 OLED 기술력 … 유럽 TV 시장 '파죽지세' (2025-04-07 09:08)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/015/0005115754?sid=101" target="_blank">아이폰 330만원? 빨리 사두자…소비자들 난리난 까닭 (2025-04-07 08:45)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://n.news.naver.com/mnews/article/092/0002369573?sid=105" target="_blank">애플, '20주년’ 맞아 아이폰 확 바꾼다 (2025-04-07 08:43)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.digitalbizon.com/news/articleView.html?idxno=2339516" target="_blank">메타버스… 현황과 트렌드 (2025-04-07 08:24)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504031520394040101141" target="_blank">[더벨][삼성전자 리더십 재편]노태문 직대, DX부문 첫 실적·후속인사 '... (2025-04-07 08:02)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="https://www.epnc.co.kr/news/articleView.html?idxno=314848" target="_blank">위기의 K-디스플레이, OLED 마저 중국에 넘어가나 (2025-04-07 08:00)</a> <span class="ref-date">2025-04-07</span></li>
+          <li><a href="http://www.g-enews.com/ko-kr/news/article/news_all/202504070722426194fbbec65dfb_1/article.html" target="_blank">챗GPT 아이폰보다 삼성 갤럭시가 더 좋아…AI의 선택 (2025-04-07 07:30)</a> <span class="ref-date">2025-04-07</span></li>
+
+        </ul>
     </div>
 
     <div class="footer">
