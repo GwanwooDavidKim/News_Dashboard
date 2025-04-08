@@ -7,7 +7,7 @@
     <title> 디스플레이 산업 국내 기사 대시보드 </title>
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
     <style>
-        /* dashboard_sample.txt의 스타일을 기반으로 Tailwind 클래스로 대체 및 커스텀 스타일 추가 */
+        /* dashboard_sample.txt의 스타일 적용 */
         body {
             font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;
             line-height: 1.6;
@@ -442,7 +442,7 @@
     <div class="container">
         <div class="header">
             <h1> 디스플레이 산업 국내 기사 대시보드 </h1>
-            <p> 기간: 25-04-07 07:00 ~ 25-04-08 09:00 기사 </p>
+            <p> 최신 국내 디스플레이 산업 기사 요약 </p>
             <a href="https://gwanwoodavidkim.github.io/News_Dashboard/" target="_blank" class="header-link"> 과거 기사 </a>
         </div>
 
@@ -459,306 +459,229 @@
             <h2> 금일 핵심 지표 </h2>
             <div class="kpi-container">
                 <div class="kpi-card">
-                    <h3> LGD LTPO OLED 점유율 </h3>
-                    <p class="value">28.9%</p>
-                    <p class="value-change positive"> 2024년 매출 기준, 역대 최고 </p>
+                    <h3> 삼성디스플레이 OLED 동향 </h3>
+                    <p class="value"> 긍정적 </p>
+                    <p class="value-change positive"> 아이패드 프로 공급 등 </p>
                 </div>
                 <div class="kpi-card">
-                    <h3> 삼성D 아이패드 Pro 공급 </h3>
-                    <p class="value"> 13인치 </p>
-                    <p class="value-change"> 5월 양산/납품 시작 </p>
+                    <h3> LG디스플레이 OLED 동향 </h3>
+                    <p class="value"> 점유율 상승 </p>
+                    <p class="value-change positive"> LTPO 점유율 증가 </p>
                 </div>
-                <div class="kpi-card">
-                    <h3> BOE 영업비밀 침해 리스크 </h3>
-                    <p class="value"> 美 ITC </p>
-                    <p class="value-change negative"> 조사국, 수입금지 권고 </p>
+                 <div class="kpi-card">
+                    <h3> 중국 디스플레이 동향 </h3>
+                    <p class="value"> 리스크 증가 </p>
+                    <p class="value-change negative"> BOE 소송 리스크 등 </p>
                 </div>
-                <div class="kpi-card">
-                    <h3> Apple 주가 변동 (3일) </h3>
-                    <p class="value">-19%</p>
-                    <p class="value-change negative"> 시총 6380억$ 증발 (관세 영향) </p>
+                 <div class="kpi-card">
+                    <h3> Apple 동향 (관세 영향) </h3>
+                    <p class="value"> 주가 하락 </p>
+                    <p class="value-change negative"> 관세 영향으로 가격 인상 압력 </p>
                 </div>
-                <div class="kpi-card">
-                    <h3> 아이폰 가격 인상 전망 </h3>
-                    <p class="value">+30~40%</p>
-                    <p class="value-change negative"> Pro Max 2300$/333만원 예상 </p>
+                 <div class="kpi-card">
+                    <h3> 삼성전자 동향 </h3>
+                    <p class="value"> 실적 호조 </p>
+                    <p class="value-change positive"> 갤럭시 S25 흥행 등 </p>
                 </div>
-                <div class="kpi-card">
-                    <h3> 삼성전자 1Q 잠정실적 </h3>
-                    <p class="value"> 6.6조 </p>
-                    <p class="value-change positive"> 영업익, 시장 전망치 상회 </p>
                 </div>
-            </div>
 
             <div class="section">
                 <h3> 핵심 요약 </h3>
                 <ul>
-                    <li><span class="keyword"> 트럼프 상호관세 영향 심화: </span> Apple 최대 타격 (中 54%, 越 46%, 印 26% 등 고율 관세), 주가 3일간
-                        19% 폭락. 아이폰 가격 최대 40% 인상 압력 및 공급망 재편(브라질 등) 불가피. 삼성전자도 베트남(46%) 리스크에 노출. </li>
-                    <li><span class="keyword"> Apple, 관세 회피 전략 모색: </span> 인도 생산 아이폰의 미국 공급 확대 추진 중이나 단기적 조치일 가능성.
-                        브라질(10% 관세) 생산 확대도 검토. 과거 관세 면제 사례 재현 여부 주목. </li>
-                    <li><span class="keyword"> 삼성전자 1분기 실적 선방: </span> 갤럭시 S25 시리즈 흥행으로 시장 전망치 상회 (매출 79조, 영업익 6.6조).
-                        하반기 메모리 반등 및 파운드리 적자 축소 기대. </li>
-                    <li><span class="keyword"> OLED 기술 경쟁 치열: </span> LGD, 스마트폰 LTPO OLED 점유율 확대(28.9%). 삼성D, 아이패드 프로
-                        13인치 OLED 공급 개시. BOE는 삼성D 상대 영업비밀 침해 소송 리스크 부각 (美 ITC 조사국 불리한 의견). </li>
-                    <li><span class="keyword"> IT 기기 동향 변화: </span> 삼성 '갤럭시 S25 엣지' 5월 출시 전망. 애플 '아이폰 17 에어' 목업 등장 등 슬림형
-                        디자인 경쟁 예고. AI PC 경쟁 지속. </li>
-                    <li><span class="keyword"> 공급망 리스크 증대: </span> 관세 부담으로 부품사(LG이노텍 등) 단가 인하 압박 가능성. 생산 거점 다변화 및 안정성 확보
-                        중요성 부각. </li>
-                </ul>
+                    <li><span class="keyword">삼성디스플레이:</span> 아이패드 프로 13인치 OLED 공급, BOE 상대 영업비밀 침해 소송에서 유리한 입장 확보.</li>
+                     <li><span class="keyword">LG디스플레이:</span> 스마트폰용 LTPO OLED 점유율 확대 (28.9% 달성), 애플 공급 비중 증가.</li>
+                     <li><span class="keyword">중국 업체(BOE):</span> LCD 시장 지배력 강화 (LGD 광저우 공장 인수 완료), 삼성 상대 영업비밀 침해 소송 리스크 부각 (美 ITC 조사국 수입금지 권고).</li>
+                     <li><span class="keyword">Apple:</span> 美 상호관세 정책으로 심각한 타격 예상 (中 54%, 越 46% 등), 주가 급락 및 아이폰 가격 인상 압력. 관세 회피 위해 인도 생산 물량 확대 검토.</li>
+                     <li><span class="keyword">삼성전자:</span> 갤럭시 S25 시리즈 흥행으로 1분기 실적 호조. 美 상호관세 (베트남 46%) 리스크 존재. 차기 슬림폰 '갤럭시 S25 엣지' 출시 전망.</li>
+                    </ul>
             </div>
             <div class="section">
                 <h3> 주요 시사점 </h3>
                 <ul>
-                    <li><span class="keyword"> 지정학적 리스크 상시화: </span> 미-중 무역 갈등 및 트럼프 행정부의 관세 정책으로 글로벌 공급망 불확실성 극대화. 기업들의
-                        생산 전략 유연성 및 리스크 관리 능력 중요. </li>
-                    <li><span class="keyword"> 가격 정책 딜레마: </span> 관세 비용 전가 시 소비자 가격 급등 및 판매 부진 우려. 미전가 시 기업 수익성 악화.
-                        Apple의 가격 정책 및 관세 협상 결과가 시장에 큰 영향 미칠 전망. </li>
-                    <li><span class="keyword"> 기술 리더십 경쟁 심화: </span> OLED, 마이크로 LED 등 차세대 디스플레이 기술 경쟁 가속화. 중국의 추격 속에서 국내
-                        기업의 기술 초격차 유지 및 신시장 선점 중요. </li>
-                    <li><span class="keyword"> AI 기술 적용 확대: </span> 스마트폰, TV 등 주요 IT 기기에 AI 기능 탑재 보편화. AI 기반 사용자 경험 차별화
-                        및 생태계 구축 경쟁 본격화. </li>
-                </ul>
+                    <li><span class="keyword">미-중 무역 갈등 심화:</span> 트럼프 행정부의 상호관세 정책으로 글로벌 공급망 불확실성 증대, 특히 중국 의존도가 높은 Apple에 큰 타격. 삼성전자도 베트남 관세 리스크.</li>
+                    <li><span class="keyword">가격 인상 압력:</span> 관세 부담 전가 시 IT 기기 가격 급등 가능성. Apple 아이폰 가격 최대 40% 인상 전망.</li>
+                    <li><span class="keyword">OLED 기술 경쟁 지속:</span> 삼성D, LGD의 기술 리더십 유지 속 BOE의 추격 및 법적 분쟁 심화. IT 기기 OLED 채용 확대 추세.</li>
+                    <li><span class="keyword">공급망 재편 가속화:</span> 관세 리스크 회피 위한 생산 기지 다변화(인도, 브라질 등) 모색 활발.</li>
+                     <li><span class="keyword">AI 기술 적용 확대:</span> 스마트폰, TV 등 주요 기기에 AI 기능 탑재가 보편화되며 사용자 경험 경쟁 심화.</li>
+                    </ul>
             </div>
         </div>
 
         <div id="Display_Trend" class="tab-content">
             <h2> 디스플레이 산업 동향 </h2>
-            <div class="section">
+             <div class="section">
                 <h3> 시장/기술 동향 </h3>
                 <ul>
-                    <li><span class="keyword"> LCD 시장 재편 지속: </span> CSOT의 LGD 광저우 LCD 라인 인수 완료(4/1)로 중국 업체의 LCD 시장 지배력
-                        강화. 국내 기업 LCD 사업 축소 가속화. </li>
-                    <li><span class="keyword"> OLED 기술 경쟁 심화: </span> LGD, 스마트폰용 LTPO OLED 시장 점유율 확대 (24년 28.9%, vs 23년
-                        25.0%). 삼성D, 아이패드 프로 13인치 OLED 공급 개시(5월). BOE는 삼성D 상대 영업비밀 침해 소송 리스크 부각(美 ITC). </li>
-                    <li><span class="keyword"> 퀀텀닷 기술 발전: </span> 삼성전자, 카드뮴 없는 퀀텀닷 상용화(2015년) 성공. 자발광 퀀텀닷 등 미래 기술 R&D
-                        지속. 2023년 퀀텀닷 노벨상 수상 배경에 삼성의 상용화 기여 평가. </li>
-                    <li><span class="keyword"> 마이크로 LED 동향: </span> 삼성전자, RGB 마이크로 LED TV 115인치 출시 예정. 중국(BOE, 시드텍 등)은
-                        마이크로 OLED 투자 확대하며 차세대 시장 선점 시도. </li>
-                    <li><span class="keyword"> IT 기기 OLED 채택 확대: </span> 노트북 등 IT 기기 중심으로 OLED 패널 채택 증가 추세. </li>
-                </ul>
+                    <li><span class="keyword">LCD 시장:</span> 중국(CSOT)의 LGD 광저우 LCD 라인 인수 완료로 중국 지배력 강화, 국내 기업 사업 축소.</li>
+                    <li><span class="keyword">OLED 기술:</span> LGD, 스마트폰 LTPO OLED 점유율 확대. 삼성D, 아이패드 프로 OLED 공급 시작. BOE, 삼성D 상대 소송 리스크.</li>
+                    <li><span class="keyword">퀀텀닷 기술:</span> 삼성전자, 카드뮴 없는 퀀텀닷 상용화 주도 및 미래 기술 R&D 지속.</li>
+                    <li><span class="keyword">마이크로 LED/OLED:</span> 삼성전자, RGB 마이크로 LED TV 출시 예정. 중국 업체들 마이크로 OLED 투자 확대.</li>
+                    <li><span class="keyword">IT 기기 OLED 채용:</span> 노트북 등 IT 기기 중심으로 OLED 패널 채택 증가 추세.</li>
+                 </ul>
             </div>
-            <div class="section">
+             <div class="section">
                 <h3> 국내 업체 동향 </h3>
                 <ul>
-                    <li><span class="keyword"> LG디스플레이: </span> 광저우 LCD 공장 CSOT 매각 완료. 스마트폰용 LTPO OLED 점유율 확대 및 애플 공급 비중
-                        30% 돌파. 차량용 하이엔드 OLED 시장 1위 유지. </li>
-                    <li><span class="keyword"> 삼성디스플레이: </span> 아이패드 프로 13인치 OLED 공급 시작. BOE 상대 영업비밀 침해 소송 적극 대응 (美 ITC
-                        및 텍사스 법원). 퀀텀닷 기술 리더십 강조. </li>
-                </ul>
+                    <li><span class="keyword">LG디스플레이:</span> 광저우 LCD 공장 매각 완료. 스마트폰용 LTPO OLED 점유율 및 Apple 공급 비중 확대. 차량용 OLED 1위 유지.</li>
+                    <li><span class="keyword">삼성디스플레이:</span> 아이패드 프로 13인치 OLED 공급 시작. BOE 상대 영업비밀 침해 소송 적극 대응. 퀀텀닷 기술 리더십 강조.</li>
+                 </ul>
             </div>
-        </div>
+            </div>
 
         <div id="Customer_Trend" class="tab-content">
             <h2> 고객 동향 </h2>
             <div class="section">
-                <h3>Apple</h3>
-                <ul>
-                    <li><span class="keyword"> 美 상호관세 직격탄: </span> 주요 생산 거점(中 54%, 越 46%, 印 26%) 고율 관세 부과로 공급망 및 가격 경쟁력에
-                        심각한 타격 예상. </li>
-                    <li><span class="keyword"> 주가 급락 및 가격 인상 압력: </span> 관세 여파로 3거래일간 주가 19% 폭락, 시총 약 940조원 증발. 아이폰 가격
-                        최대 30~40% 인상 가능성 제기(Pro Max 2300$/333만원). </li>
-                    <li><span class="keyword"> 공급망 전략 수정 불가피: </span> 중국 의존도(90%) 축소 시급. 인도 생산 아이폰의 미국 공급 확대 추진(관세 회피
-                        목적). 브라질(관세 10%) 생산 확대 검토. 관세 면제 협상 가능성 주목. </li>
-                    <li><span class="keyword"> 신제품 및 기술 동향: </span> 아이폰17 에어(초슬림) 목업 등장. 아이폰17 프로 후면 카메라 모듈 커질 듯. 차기
-                        아이패드 미니 OLED(삼성D) 탑재 테스트 중. 2027년(20주년) 폴더블 아이폰 및 새 디자인 프로 모델 출시 가능성. 스마트홈 허브 출시 2026년 연기설. AI
-                        건강 코치 서비스 개발 중. </li>
-                    <li><span class="keyword"> 기타: </span> 영국 정부의 아이클라우드 백도어 요구 소송 승소. 바이낸스 통해 애플페이 연동 지원. </li>
+                <h3> Apple </h3>
+                 <ul>
+                    <li><span class="keyword">美 상호관세 영향:</span> 주요 생산 거점(중국 54%, 베트남 46%, 인도 26%) 고율 관세 부과로 공급망 및 가격 경쟁력에 심각한 타격.</li>
+                    <li><span class="keyword">가격/주가:</span> 관세 여파로 주가 3일간 19% 폭락. 아이폰 가격 최대 30-40% 인상 압력 (Pro Max 2300달러 예상).</li>
+                    <li><span class="keyword">공급망 재편:</span> 중국 의존도 축소 시급. 인도 생산 아이폰의 미국 공급 확대 추진. 브라질(관세 10%) 생산 확대 검토.</li>
+                    <li><span class="keyword">신제품/기술:</span> 아이폰17 에어(초슬림) 목업 등장. 아이폰17 프로 후면 카메라 모듈 확대 예상. 차기 아이패드 미니 OLED 탑재 테스트 중. 2027년 폴더블 아이폰 및 새 디자인 프로 모델 출시 가능성. AI 건강 코치 서비스 개발 중.</li>
+                    <li><span class="keyword">기타:</span> 영국 정부 아이클라우드 백도어 요구 소송 승소. 바이낸스 통해 애플페이 연동 지원.</li>
                 </ul>
             </div>
             <div class="section">
-                <h3> Samsung Electronics (고객사/경쟁사 관점) </h3>
-                <ul>
-                    <li><span class="keyword"> 美 상호관세 영향: </span> 주력 생산지 베트남(46% 관세) 리스크 부각. 생산 거점 조정 필요성 제기(브라질 활용 검토).
-                        Apple 대비 타격 적으나 안심 불가. </li>
-                    <li><span class="keyword"> 스마트폰 사업: </span> 1분기 잠정 실적 호조(매출 79조/영업익 6.6조, 시장 전망치 상회). 갤럭시 S25 시리즈 흥행
-                        기여. 초슬림 '갤럭시 S25 엣지' 5월 13일 출시 전망. </li>
-                    <li><span class="keyword"> AI 기능 강화: </span> 갤럭시 구형 모델 대상 One UI 7 업데이트 시작(AI 셀렉트, 글쓰기 어시스트 등). 갤럭시
-                        S25에 제미나이 라이브(멀티모달 AI) 지원 예정. </li>
-                    <li><span class="keyword"> TV 사업: </span> 2025년형 AI TV 라인업 대거 공개(61개 모델). AI 홈/어시스턴트/시청 최적화 기능 강화.
-                        국내 OLED TV 1위 목표 선언. 115인치 네오 QLED 출시. </li>
-                    <li><span class="keyword"> 이미지센서: </span> 구글 픽셀10 및 중국 스마트폰(오포, 비보, 샤오미)에 삼성 이미지센서 채택 증가. 소니 추격 가속.
-                    </li>
-                    <li><span class="keyword"> 기타: </span> 갤S26 울트라 S펜 외부 부착 방식 검토설. </li>
+                 <h3> Samsung Electronics (고객사/경쟁사 관점) </h3>
+                 <ul>
+                     <li><span class="keyword">美 상호관세 영향:</span> 주력 생산지 베트남(46% 관세) 리스크 존재. 생산 거점 조정 필요성.</li>
+                     <li><span class="keyword">스마트폰:</span> 1분기 실적 호조 (갤럭시 S25 흥행 기여). '갤럭시 S25 엣지' 5월 출시 전망.</li>
+                     <li><span class="keyword">AI 기능:</span> 구형 모델 대상 One UI 7 업데이트(AI 기능 고도화). 갤럭시 S25에 제미나이 라이브 지원 예정.</li>
+                     <li><span class="keyword">TV 사업:</span> 2025년형 AI TV 라인업 대거 공개. 국내 OLED TV 1위 목표 선언. 115인치 네오 QLED 출시.</li>
+                     <li><span class="keyword">이미지센서:</span> 구글 픽셀10 및 중국 스마트폰향 공급 증가, 소니 추격.</li>
                 </ul>
             </div>
-            <div class="section">
+             <div class="section">
                 <h3> 기타 고객사 (Microsoft, Meta, Google 등) </h3>
-                <ul>
-                    <li><span class="keyword"> 빅테크 주가 변동성 확대: </span> 트럼프 관세 및 中 보복관세 우려로 기술주 전반 약세. (Apple 외 Tesla, MS
-                        등도 하락) </li>
-                    <li><span class="keyword"> AI 기술 경쟁: </span> MS, 코파일럿 비전(모바일 카메라/화면 분석) 발표. 메타, 라마4 시리즈 공개. Google
-                        딥마인드, AGI 위협 경고. 오픈AI, AI 전용 기기 개발 모색. </li>
+                 <ul>
+                    <li><span class="keyword">시장 동향:</span> 트럼프 관세 및 중국 보복 우려로 기술주 전반 약세.</li>
+                    <li><span class="keyword">AI 경쟁:</span> MS 코파일럿 비전 발표. 메타 라마4 공개. Google 딥마인드 AGI 위협 경고. 오픈AI, AI 전용 기기 개발 모색.</li>
                 </ul>
             </div>
-        </div>
+            </div>
 
         <div id="Competitor_Trend" class="tab-content">
-            <h2> 경쟁사 동향 </h2>
-            <div class="section">
-                <h3>Samsung Display (SDC)</h3>
+             <h2> 경쟁사 동향 </h2>
+             <div class="section">
+                 <h3> Samsung Display (SDC) </h3>
                 <ul>
-                    <li><span class="keyword"> Apple 공급 확대: </span> 아이패드 프로 13인치 OLED 패널 5월 양산/납품 시작 (품질 인증 통과). 차기 아이패드
-                        미니 OLED 공급 가능성 제기. </li>
-                    <li><span class="keyword"> BOE 견제 강화: </span> 美 ITC 조사국, BOE의 삼성D OLED 영업비밀 침해 가능성 제기하며 수입금지/행위중지 명령
-                        권고. 텍사스 법원에도 별도 소송 제기. </li>
-                    <li><span class="keyword"> 기술 리더십: </span> 무카드뮴 퀀텀닷 상용화 성공(2015년). 자발광 퀀텀닷 등 차세대 기술 개발 지속. </li>
+                    <li><span class="keyword">Apple 공급:</span> 아이패드 프로 13인치 OLED 5월 양산/납품 시작. 차기 아이패드 미니 OLED 공급 가능성.</li>
+                    <li><span class="keyword">BOE 견제:</span> 美 ITC 조사국, BOE의 삼성D OLED 영업비밀 침해 가능성 제기 및 수입금지 권고. 텍사스 법원 소송도 진행 중.</li>
+                    <li><span class="keyword">기술 리더십:</span> 퀀텀닷 기술력 강조.</li>
                 </ul>
             </div>
-            <div class="section">
-                <h3>LG Display (LGD)</h3>
-                <ul>
-                    <li><span class="keyword"> 모바일 OLED 성장: </span> 스마트폰용 LTPO OLED 시장 점유율 확대 (2024년 28.9%). Apple 공급 비중
-                        30% 돌파하며 수익성 개선 기대. </li>
-                    <li><span class="keyword"> LCD 사업 구조조정: </span> 중국 광저우 LCD 공장 CSOT에 공식 매각 완료(3월 말). OLED 중심 사업 재편
-                        가속화. </li>
-                    <li><span class="keyword"> 차량용 디스플레이 강점: </span> 하이엔드 차량용 OLED 시장 1위 유지. </li>
+             <div class="section">
+                <h3> LG Display (LGD) </h3>
+                 <ul>
+                    <li><span class="keyword">사업 재편:</span> 광저우 LCD 공장 CSOT 매각 완료.</li>
+                    <li><span class="keyword">OLED 경쟁력:</span> 스마트폰용 LTPO OLED 점유율 확대 (24년 28.9%), Apple 공급 비중 30% 돌파.</li>
+                    <li><span class="keyword">차량용 디스플레이:</span> 하이엔드 OLED 시장 1위 유지.</li>
+                     <li><span class="keyword">실적 전망:</span> 점유율 증가 및 감가상각 종료로 올해 턴어라운드 기대.</li>
                 </ul>
             </div>
-            <div class="section">
-                <h3> 중국 패널 업체 (BOE, CSOT, Tianma, Visionox 등) </h3>
+             <div class="section">
+                 <h3> BOE </h3>
                 <ul>
-                    <li><span class="keyword">BOE:</span> 삼성D 상대 OLED 영업비밀 침해 소송 리스크 심화 (美 ITC 조사국 불리한 의견). 마이크로 OLED 투자
-                        및 생산 시작 등 기술 추격 지속. </li>
-                    <li><span class="keyword">CSOT:</span> LGD 광저우 8.5세대 LCD 공장 인수 완료. LCD 시장 지배력 더욱 강화. </li>
-                    <li><span class="keyword"> LCD 시장 장악력 확대: </span> 가격 경쟁력 기반 점유율 확대 지속. 2024년 중국 LCD 점유율 49.7%(옴디아).
-                        상위 3사(BOE, CSOT, HKC) 점유율 66% 전망(트렌드포스). </li>
-                    <li><span class="keyword"> 마이크로 OLED 투자 경쟁: </span> BOE, 시드텍 등 차세대 디스플레이 시장 선점 위한 투자 확대. </li>
+                    <li><span class="keyword">LCD 시장:</span> LGD 광저우 공장 인수로 LCD 시장 지배력 강화.</li>
+                    <li><span class="keyword">법적 리스크:</span> 삼성D 상대 OLED 영업비밀 침해 소송 관련 美 ITC 조사국으로부터 수입금지/행위중지 명령 권고받음.</li>
+                    <li><span class="keyword">차세대 기술:</span> 마이크로 OLED 투자 확대하며 차세대 시장 선점 시도.</li>
                 </ul>
             </div>
-            <div class="section">
-                <h3> 기타 경쟁사 (Sharp, JDI, AUO, Innolux 등) </h3>
-                <ul>
-                    <li><span class="keyword">JDI:</span> OLED 기술 개발 중단 선언. 사실상 글로벌 디스플레이 시장 경쟁에서 퇴장 수순. </li>
-                    <li><span class="keyword"> 대만 업체 (AUO, Innolux): </span> LCD 시장 내 입지 축소. 삼성전자 등에 LCD 패널 공급은 지속.
-                    </li>
-                </ul>
-            </div>
-        </div>
+             </div>
 
         <div id="IT_Issue" class="tab-content">
             <h2> IT 산업계 주요 이슈 </h2>
-            <div class="section">
-                <h3> 트럼프 상호관세 및 미-중 무역갈등 </h3>
-                <ul>
-                    <li><span class="keyword"> 글로벌 교역 충격: </span> 아시아 생산기지 중심 고율 관세 부과(中 54%, 越 46%, 印 26% 등)로 공급망 불확실성
-                        증폭. </li>
-                    <li><span class="keyword"> 기술주 변동성 확대: </span> Apple 등 주요 빅테크 주가 급락. 관세 부담 및 실적 우려 반영. </li>
-                    <li><span class="keyword"> 가격 인상 압력: </span> 생산 비용 증가로 스마트폰 등 IT 기기 소비자 가격 인상 가능성 ('폰플레이션' 우려).
-                    </li>
-                    <li><span class="keyword"> 공급망 재편 가속화: </span> 중국 의존도 축소 및 생산 거점 다변화(브라질, 인도 등) 필요성 증대. </li>
+             <div class="section">
+                 <h3> AI 동향 </h3>
+                 <ul>
+                    <li><span class="keyword">AI 기능 통합 가속:</span> 삼성전자, LG전자 등 주요 TV 제조사들, AI 기능 대폭 강화한 신제품 출시 (실시간 번역, 콘텐츠 추천, 화질/음향 최적화 등).</li>
+                    <li><span class="keyword">스마트폰 AI 경쟁:</span> 삼성 갤럭시 AI 기능 업데이트 및 제미나이 라이브 지원. Apple, AI 건강 코치 서비스 개발 중.</li>
+                    <li><span class="keyword">AI 전용 기기 모색:</span> 오픈AI, 조니 아이브와 협력해 스크린 없는 AI 디바이스 개발 및 관련 스타트업 인수 검토.</li>
+                    <li><span class="keyword">생성형 AI 활용 확대:</span> 메타버스 플랫폼(제페토 등) 및 게임 엔진(유니티)에서 콘텐츠 제작 효율성 증대.</li>
+                </ul>
+            </div>
+             <div class="section">
+                <h3> 스마트폰/모바일 </h3>
+                 <ul>
+                     <li><span class="keyword">신제품 출시:</span> KT, '갤럭시 S25 크록스 토이스토리 에디션' 단독 출시. 삼성 '갤럭시 S25 엣지'(슬림폰) 5월 출시 전망.</li>
+                     <li><span class="keyword">디자인 트렌드:</span> 슬림형 디자인 경쟁 예고 (삼성 엣지, 아이폰17 에어). 아이폰17 프로 후면 카메라 모듈 확대 예상.</li>
+                     <li><span class="keyword">시장 동향:</span> 美 상호관세 영향으로 아이폰 가격 인상 우려 및 '패닉 바잉' 조짐. 구독형 아이폰 판매 가능성 제기.</li>
+                     <li><span class="keyword">OS 업데이트:</span> 삼성 One UI 7 업데이트 시작 (구형 모델 대상 AI 기능 확대). 애플 iOS 18.4, Matter 1.4 표준 지원 (로봇 청소기 연동).</li>
                 </ul>
             </div>
             <div class="section">
-                <h3> AI 기술 동향 및 경쟁 </h3>
-                <ul>
-                    <li><span class="keyword"> AI 기능 탑재 확산: </span> 스마트폰(삼성 갤럭시 AI, 애플 인텔리전스), TV(삼성/LG AI TV) 등 주요 기기에
-                        AI 기능 적용 보편화. </li>
-                    <li><span class="keyword"> 생성형 AI 발전: </span> 메타 라마4 공개. MS 코파일럿 비전(멀티모달) 발표. AI 기반 콘텐츠 제작 및 서비스 경쟁
-                        심화. </li>
-                    <li><span class="keyword"> AI 전용 기기 모색: </span> 오픈AI, 아이폰 디자이너 스타트업 인수 논의 등 새로운 AI 하드웨어 등장 가능성.
-                    </li>
-                    <li><span class="keyword"> AGI(범용인공지능) 논의: </span> 구글 딥마인드, 5~10년 내 AGI 등장 및 위협 가능성 경고. AI 안전 및 윤리
-                        문제 부각. </li>
+                 <h3> 스마트홈/가전 </h3>
+                 <ul>
+                    <li><span class="keyword">AI 기반 스마트홈:</span> 삼성/LG, AI TV를 중심으로 스마트홈 허브 기능 강화 (가전 제어, 모니터링, 맞춤형 추천).</li>
+                    <li><span class="keyword">오디오 시장 경쟁:</span> 삼성(하만), LG(엑스붐) 오디오 사업 강화. AI 스피커, 사운드바 등 스마트홈 플랫폼 경쟁 확장.</li>
+                    <li><span class="keyword">Matter 표준 확산:</span> iOS 18.4 업데이트로 로봇 청소기 등 Matter 지원 기기 연동성 강화.</li>
+                    <li><span class="keyword">애플 스마트홈 허브:</span> 출시 2026년으로 연기 가능성.</li>
                 </ul>
             </div>
-            <div class="section">
-                <h3> 반도체 시장 동향 </h3>
-                <ul>
-                    <li><span class="keyword"> D램 가격 상승세: </span> 범용 D램 현물 가격 상승 지속. 고성능 PC용 DDR5 가격도 2개월 연속 상승. </li>
-                    <li><span class="keyword"> 이미지센서 경쟁: </span> 삼성전자, 구글 및 중국 스마트폰 제조사 대상 공급 확대하며 소니 추격 가속. </li>
-                </ul>
             </div>
-            <div class="section">
-                <h3> 기타 IT 이슈 </h3>
-                <ul>
-                    <li><span class="keyword"> 데이터센터 전자파 공개: </span> 과기정통부, 데이터센터 전자파 측정 결과 공개 '전자파 신호등' 운영 발표. </li>
-                    <li><span class="keyword"> 게임 산업 동향: </span> 크래프톤 '인조이', 엔씨 '블소2'(중국) 등 신작 게임 흥행. </li>
-                    <li><span class="keyword"> 구독 서비스 증가: </span> IT 관련 구독 서비스 지출 증가 추세. 생성형 AI 유료 구독 급증. </li>
-                </ul>
-            </div>
-        </div>
 
-        <div id="SCM_Trend" class="tab-content">
+         <div id="SCM_Trend" class="tab-content">
             <h2> SCM 동향 </h2>
             <div class="section">
-                <h3> 美 상호관세 발 공급망 리스크 </h3>
-                <ul>
-                    <li><span class="keyword"> 생산 거점 리스크 부각: </span> Apple(中 54%, 越 46%, 印 26%), 삼성전자(越 46%) 등 아시아 주요 생산
-                        거점 고율 관세 부과로 공급망 안정성 위협. </li>
-                    <li><span class="keyword"> 공급망 재편 압력 가중: </span> 관세 회피 및 리스크 분산을 위한 생산 거점 다변화(브라질, 인도 등 저관세 지역) 및 미국
-                        내 생산 압력 동시 증가. </li>
-                    <li><span class="keyword"> 부품사 단가 인하 압박 가능성: </span> 완제품 업체(Apple, 삼성 등)의 비용 부담 증가로 LG디스플레이, LG이노텍 등
-                        국내 부품사에 단가 인하 압력 전가 가능성 제기. </li>
+                <h3> 미국 상호관세 영향 </h3>
+                 <ul>
+                     <li><span class="keyword">주요 생산 거점 타격:</span> 중국(54%), 베트남(46%), 인도(26%) 등 아시아 주요 생산기지에 고율 관세 부과.</li>
+                     <li><span class="keyword">Apple 공급망 리스크:</span> 아이폰 90% 이상을 중국에서 생산하는 Apple에 치명적. 가격 인상 압력 및 공급망 재편 불가피.</li>
+                     <li><span class="keyword">삼성전자 영향:</span> 주력 생산지 베트남(46%) 관세 리스크. 생산 거점 조정 필요성 제기 (브라질 등 저관세 지역 활용).</li>
+                     <li><span class="keyword">부품사 영향:</span> 완제품 제조사의 원가 부담 증가로 LG이노텍 등 부품사에 단가 인하 압박 가능성.</li>
+                </ul>
+            </div>
+             <div class="section">
+                <h3> 공급망 재편 움직임 </h3>
+                 <ul>
+                    <li><span class="keyword">탈중국 가속화:</span> Apple, 관세 회피 위해 인도 생산 아이폰의 미국 공급 확대 추진. 베트남 생산 비중도 증가 추세.</li>
+                    <li><span class="keyword">대안 생산지 부상:</span> 브라질(관세 10%) 등 저관세 국가가 새로운 생산 거점으로 검토됨.</li>
+                    <li><span class="keyword">국내 기업 전략:</span> 삼성전자, LG전자 등 글로벌 생산 네트워크(멕시코 등) 활용하여 관세 영향 최소화 시도.</li>
+                    <li><span class="keyword">LCD 패널 공급망:</span> LGD의 광저우 공장 매각 완료로 중국 업체의 LCD 패널 시장 지배력 강화. 국내 기업의 중국/대만 패널 의존도 심화.</li>
                 </ul>
             </div>
             <div class="section">
-                <h3> 주요 기업별 SCM 동향 </h3>
-                <ul>
-                    <li><span class="keyword">Apple SCM:</span> 중국 의존도(90%) 축소 시급. 인도 생산 아이폰의 미국 공급 확대 추진. 브라질(10% 관세)
-                        생산 확대 검토. 관세 면제 협상 여부 주목. </li>
-                    <li><span class="keyword"> Samsung SCM (전자/디스플레이): </span> 베트남(46% 관세) 생산 비중 높은 스마트폰 사업 리스크 관리 필요.
-                        생산 거점 조정 검토 (브라질 등). TV/가전은 멕시코 생산 비중 높아 영향 제한적. </li>
-                    <li><span class="keyword"> LG SCM (디스플레이/이노텍): </span> LGD, 광저우 LCD 공장 CSOT 매각 완료. LG이노텍, Apple
-                        의존도(81%) 높아 관세 영향 및 단가 압박 우려. 전장 등 신사업 통한 체질 개선 모색. </li>
+                 <h3> 기타 공급망 이슈 </h3>
+                 <ul>
+                    <li><span class="keyword">재고 관리:</span> 관세 발효 전 Apple 등 일부 기업, 미국 내 재고 비축 노력.</li>
+                    <li><span class="keyword">부품 공급:</span> 삼성 이미지센서, 구글 및 중국 스마트폰 제조사향 공급 확대. Apple, 차기 아이패드 미니용 삼성 OLED 패널 테스트 중.</li>
                 </ul>
             </div>
-            <div class="section">
-                <h3> 디스플레이 패널 공급망 변화 </h3>
-                <ul>
-                    <li><span class="keyword"> LCD 패널 공급망 재편: </span> LGD 광저우 공장 CSOT 매각 완료로 중국 업체의 LCD 시장 지배력 강화 (상위 3사
-                        점유율 66% 전망). 국내 TV 제조사의 중국산 패널 의존도 심화. </li>
-                    <li><span class="keyword"> OLED 패널 경쟁: </span> 삼성D, LGD가 프리미엄 시장 주도. BOE 등 중국 업체 추격 지속하나 기술 격차 및 특허
-                        리스크 존재. </li>
-                </ul>
             </div>
-            <div class="section">
-                <h3> 소재/부품 업체 동향 </h3>
-                <ul>
-                    <li><span class="keyword"> LG이노텍: </span> Apple 카메라 모듈 핵심 공급사. 관세 영향 속 FC-BGA, 유리기판 등 신사업 육성 중이나
-                        기술/고객 확보 과제. </li>
-                    <li> (뉴스 본문에 특정 소재/장비 업체의 구체적인 SCM 동향 언급 부족) </li>
-                </ul>
-            </div>
-        </div>
 
         <div class="references">
-            <h2>참고 기사 목록</h2>
+            <h2> 참고 기사 목록 </h2>
             <ul id="newsList">
+                <li>참고 기사를 불러오는 중...</li>
             </ul>
         </div>
+
         <div class="footer">
             출처: MCI 팀
         </div>
-
     </div>
+
     <script>
-        // 탭 기능 활성화 함수
+        // 탭 기능 구현 함수
         function openTab(evt, tabName) {
-            var i, tabcontent, tabbuttons;
-            // 모든 탭 콘텐츠 숨기기
+            var i, tabcontent, tablinks;
             tabcontent = document.getElementsByClassName("tab-content");
             for (i = 0; i < tabcontent.length; i++) {
                 tabcontent[i].style.display = "none";
             }
-            // 모든 탭 버튼 비활성화
-            tabbuttons = document.getElementsByClassName("tab-button");
-            for (i = 0; i < tabbuttons.length; i++) {
-                tabbuttons[i].className = tabbuttons[i].className.replace(" active", "");
+            tablinks = document.getElementsByClassName("tab-button");
+            for (i = 0; i < tablinks.length; i++) {
+                tablinks[i].className = tablinks[i].className.replace(" active", "");
             }
-            // 선택된 탭 콘텐츠 보이기 및 버튼 활성화
-            const targetTab = document.getElementById(tabName);
-            if (targetTab) {
-                targetTab.style.display = "block";
-            }
-            if (evt && evt.currentTarget) {
-                evt.currentTarget.className += " active";
-            }
+            document.getElementById(tabName).style.display = "block";
+            evt.currentTarget.className += " active";
         }
 
-        // === 참고 기사 로딩 함수 추가 ===
-        function loadNewsReferences() {
-            fetch('url_json.json') // url_json.json 파일 경로 확인 필요
+        // 참고 기사 목록 로딩 함수 (dashboard_sample.txt의 로직 반영)
+        // url_json.json 파일이 없으면 fetch에서 오류 발생할 수 있음
+        function loadNews() {
+            // url_json.json 파일이 같은 디렉토리에 있다고 가정
+            // 실제 경로에 맞게 수정 필요 ('./url_json.json' 또는 절대 경로)
+            fetch('./url_json.json') // dashboard_sample.txt 에 명시된 파일명 사용
                 .then(response => {
                     if (!response.ok) {
                         throw new Error(`HTTP error! status: ${response.status}`);
@@ -767,20 +690,30 @@
                 })
                 .then(data => {
                     const newsListElement = document.getElementById('newsList');
-                    if (!newsListElement) {
-                        console.error('Error: Element with ID "newsList" not found.');
-                        return;
+                    if (!newsListElement) return; // 요소가 없으면 중단
+
+                    newsListElement.innerHTML = ''; // 기존 목록 비우기
+
+                    // relevance_score 기준으로 내림차순 정렬 (높은 점수가 위로)
+                    // news_json.txt 데이터 형식을 참고하여 data가 배열이라고 가정
+                    const sortedData = data.sort((a, b) => b.relevance_score - a.relevance_score);
+
+                    // relevance_score가 30 이상인 기사만 필터링하여 최대 50개까지 표시
+                    const filteredData = sortedData.filter(item => item.relevance_score >= 30).slice(0, 50);
+
+                    if (filteredData.length === 0) {
+                         newsListElement.innerHTML = '<li>표시할 참고 기사가 없습니다.</li>';
+                         return;
                     }
 
-                    // 기존 목록 지우기 (새로 로드할 때마다 목록을 갱신하려면 주석 해제)
-                    // newsListElement.innerHTML = '';
-
-                    data.forEach(item => {
+                    filteredData.forEach(item => {
                         const li = document.createElement('li');
                         const a = document.createElement('a');
-
                         a.href = item.link;
-                        a.textContent = `${item.title} (${item.date})`; // 제목과 날짜 표시
+                        // title과 date를 함께 표시 (news_json.txt 데이터 형식에 맞춰 수정)
+                        // 예시: item 객체에 title과 date 속성이 있다고 가정
+                        const displayDate = item.date ? ` (${item.date})` : ''; // 날짜가 있으면 표시
+                        a.textContent = `${item.title}${displayDate}`;
                         a.target = "_blank"; // 새 탭에서 열기
                         a.rel = "noopener noreferrer"; // 보안 강화
 
@@ -789,32 +722,98 @@
                     });
                 })
                 .catch(error => {
-                    console.error('Error fetching or processing news data:', error);
+                    console.error('Error fetching or processing news data (url_json.json):', error);
                     const newsListElement = document.getElementById('newsList');
                     if (newsListElement) {
-                        newsListElement.innerHTML = '<li>참고 기사를 불러오는 중 오류가 발생했습니다.</li>';
+                        // url_json.json 로딩 실패 시 news_json.txt에서 직접 로드 시도 (선택적 구현)
+                        // loadNewsFromTextFile(); // 아래 함수 호출
+                        newsListElement.innerHTML = '<li>참고 기사(url_json.json)를 불러오는 중 오류가 발생했습니다.</li>';
                     }
                 });
         }
-        // ===============================
+
+        // news_json.txt에서 직접 뉴스 로드하는 함수 (대체 옵션)
+        function loadNewsFromTextFile() {
+             fetch('./news_json.txt') // news_json.txt 파일 경로
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.text(); // 텍스트로 읽기
+                })
+                .then(text => {
+                     try {
+                        const data = JSON.parse(text); // JSON 파싱
+                        const newsListElement = document.getElementById('newsList');
+                        if (!newsListElement) return;
+
+                        newsListElement.innerHTML = ''; // 기존 목록 비우기
+
+                         // relevance_score 기준으로 내림차순 정렬
+                        const sortedData = data.sort((a, b) => b.relevance_score - a.relevance_score);
+
+                         // relevance_score가 30 이상인 기사만 필터링하여 최대 50개까지 표시
+                        const filteredData = sortedData.filter(item => item.relevance_score >= 30).slice(0, 50);
+
+                        if (filteredData.length === 0) {
+                             newsListElement.innerHTML = '<li>표시할 참고 기사가 없습니다 (news_json.txt).</li>';
+                             return;
+                        }
+
+                        filteredData.forEach(item => {
+                            const li = document.createElement('li');
+                            const a = document.createElement('a');
+                            a.href = item.link;
+                            const displayDate = item.date ? ` (${item.date})` : '';
+                            a.textContent = `${item.title}${displayDate}`;
+                            a.target = "_blank";
+                            a.rel = "noopener noreferrer";
+
+                            li.appendChild(a);
+                            newsListElement.appendChild(li);
+                        });
+                    } catch (parseError) {
+                        console.error('Error parsing news_json.txt:', parseError);
+                        const newsListElement = document.getElementById('newsList');
+                        if (newsListElement) {
+                            newsListElement.innerHTML = '<li>참고 기사(news_json.txt) 파싱 중 오류가 발생했습니다.</li>';
+                        }
+                    }
+                })
+                .catch(error => {
+                    console.error('Error fetching or processing news data (news_json.txt):', error);
+                    const newsListElement = document.getElementById('newsList');
+                    if (newsListElement) {
+                        newsListElement.innerHTML = '<li>참고 기사(news_json.txt)를 불러오는 중 오류가 발생했습니다.</li>';
+                    }
+                });
+        }
+
 
         // 페이지 로드 시 첫 번째 탭 자동 활성화 및 참고 기사 로드
         document.addEventListener('DOMContentLoaded', (event) => {
-            // 첫 번째 탭 활성화
+            // 첫 번째 탭 활성화 시도
             const firstTabButton = document.querySelector('.tab-button');
             if (firstTabButton) {
-                firstTabButton.click();  // 첫 번째 탭 버튼 클릭 이벤트 발생
+                // 기본적으로 Key_KPI 탭이 active 상태이므로, 해당 콘텐츠를 먼저 보이게 함
+                const initialTabContent = document.getElementById('Key_KPI');
+                 if(initialTabContent) initialTabContent.style.display = 'block';
+
+                // 탭 클릭 이벤트 핸들러 설정 (실제 클릭 대신 초기 상태 설정)
+                // firstTabButton.click(); // 실제 클릭 대신 초기 상태만 설정
             } else {
-                // 탭 버튼이 없을 경우 첫 번째 탭 콘텐츠 직접 표시 (Fallback)
-                const firstTabContent = document.querySelector('.tab-content');
-                if (firstTabContent) {
-                    firstTabContent.style.display = 'block';
-                }
+                 // 탭 버튼이 없을 경우 첫 번째 탭 콘텐츠 직접 표시 (Fallback)
+                 const firstTabContent = document.querySelector('.tab-content');
+                 if(firstTabContent) firstTabContent.style.display = 'block';
             }
 
-            // 참고 기사 목록 로드 함수 호출
-            loadNewsReferences();
+             // 참고 기사 목록 로드 (url_json.json 우선 시도)
+            loadNews();
+            // 만약 url_json.json 로딩 실패 시 news_json.txt에서 로드하려면 loadNews 함수 내 catch 블록에서
+            // loadNewsFromTextFile() 함수를 호출하도록 수정해야 합니다.
+            // 현재는 url_json.json 로딩 로직만 반영되어 있습니다.
         });
+
     </script>
 
 </body>
