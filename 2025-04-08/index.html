@@ -20,62 +20,62 @@
             padding: 20px;
             background-color: #FFFFFF;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            position: relative; /* Needed for absolute positioning of the link */
+            position: relative;
         }
         .header {
-            background-color: #0F2C59; /* Deep Blue */
+            background-color: #0F2C59;
             color: #FFFFFF;
             padding: 15px 20px;
             margin-bottom: 20px;
             border-radius: 4px;
-            position: relative; /* To contain the absolute positioned link */
-             min-height: 60px; /* Ensure space for title and date */
-             display: flex;
-             flex-direction: column;
-             justify-content: center;
+            position: relative;
+            min-height: 60px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
         }
         .header h1 {
-            margin: 0 0 5px 0; /* Add bottom margin */
+            margin: 0 0 5px 0;
             font-size: 24px;
             font-weight: 600;
-            padding-right: 100px; /* Ensure title doesn't overlap with link */
+            padding-right: 100px;
             line-height: 1.2;
         }
         .header p {
             margin: 0;
             font-size: 14px;
-            word-break: keep-all; /* Prevent awkward breaks in date */
-            white-space: nowrap; /* Keep on one line initially */
-            overflow: hidden; /* Hide overflow */
-            text-overflow: ellipsis; /* Add ellipsis if too long */
+            word-break: keep-all;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
             line-height: 1.3;
         }
         .header-link {
-             position: absolute;
-             top: 50%; /* Center vertically */
-             right: 20px;
-             transform: translateY(-50%); /* Precise vertical centering */
-             color: white;
-             text-decoration: none;
-             font-size: 14px;
-             background-color: rgba(255, 255, 255, 0.1); /* Optional background */
-             padding: 5px 10px;
-             border-radius: 3px;
-         }
+            position: absolute;
+            top: 50%;
+            right: 20px;
+            transform: translateY(-50%);
+            color: white;
+            text-decoration: none;
+            font-size: 14px;
+            background-color: rgba(255, 255, 255, 0.1);
+            padding: 5px 10px;
+            border-radius: 3px;
+        }
         .header-link:hover {
             background-color: rgba(255, 255, 255, 0.2);
-            text-decoration: underline; /* Add underline on hover */
+            text-decoration: underline;
         }
         .tabs {
             overflow: hidden;
             border-bottom: 1px solid #D3D3D3;
             margin-bottom: 20px;
-            white-space: nowrap; /* Prevent tabs from wrapping */
-            overflow-x: auto; /* Allow horizontal scrolling for tabs if needed */
+            white-space: nowrap;
+            overflow-x: auto;
         }
         .tab-button {
             background-color: inherit;
-            display: inline-block; /* Use inline-block instead of float */
+            display: inline-block;
             border: none;
             outline: none;
             cursor: pointer;
@@ -83,20 +83,18 @@
             transition: 0.3s;
             font-size: 15px;
             font-weight: 500;
-            color: #555; /* Original inactive text color */
+            color: #555;
             border-bottom: 3px solid transparent;
         }
-        /* New Hover Colors */
         .tab-button:hover {
-            background-color: #E0EFFF; /* Light blue hover */
-            border-bottom: 3px solid #77AADD; /* Medium blue hover border */
-            color: #0056b3; /* Slightly darker blue text on hover */
+            background-color: #E0EFFF;
+            border-bottom: 3px solid #77AADD;
+            color: #0056b3;
         }
-        /* New Active Colors */
         .tab-button.active {
-            color: #007bff; /* Standard Bootstrap primary blue */
+            color: #007bff;
             border-bottom: 3px solid #007bff;
-            font-weight: 600; /* Make active tab text slightly bolder */
+            font-weight: 600;
         }
         .tab-content {
             display: none;
@@ -109,53 +107,53 @@
             to {opacity: 1;}
         }
         .kpi-container {
-            display: grid; /* Use grid for better control */
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); /* Responsive columns */
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
             gap: 15px;
             margin-bottom: 20px;
         }
         .kpi-card {
-            background-color: #F8F9FA; /* Lighter grey */
+            background-color: #F8F9FA;
             padding: 15px;
             border-radius: 4px;
             text-align: center;
-            border-left: 4px solid #0F2C59; /* Deep blue accent */
+            border-left: 4px solid #0F2C59;
             box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-            min-height: 110px; /* Ensure consistent height */
+            min-height: 110px;
             display: flex;
             flex-direction: column;
             justify-content: center;
         }
         .kpi-card h3 {
             margin: 0 0 8px 0;
-            font-size: 15px; /* Slightly smaller title */
+            font-size: 15px;
             color: #0F2C59;
             font-weight: 600;
         }
         .kpi-card p.value {
             margin: 0;
-            font-size: 22px; /* Larger value */
+            font-size: 22px;
             font-weight: bold;
-            color: #212529; /* Darker text */
+            color: #212529;
             line-height: 1.2;
         }
-         .kpi-card .value-change { /* Style for change indicator */
-            font-size: 13px; /* Smaller subtext */
+        .kpi-card .value-change {
+            font-size: 13px;
             margin-top: 5px;
-            color: #6C757D; /* Grey subtext */
-             line-height: 1.3;
-         }
+            color: #6C757D;
+            line-height: 1.3;
+        }
         .kpi-card .value-change.negative {
-             color: #D32F2F; /* Red for negative */
-             font-weight: 500;
-         }
+            color: #D32F2F;
+            font-weight: 500;
+        }
         .kpi-card .value-change.positive {
-             color: #388E3C; /* Green for positive */
-             font-weight: 500;
-         }
+            color: #388E3C;
+            font-weight: 500;
+        }
         h2 {
-            color: #0F2C59; /* Deep Blue */
-            border-bottom: 2px solid #E9ECEF; /* Lighter border */
+            color: #0F2C59;
+            border-bottom: 2px solid #E9ECEF;
             padding-bottom: 8px;
             margin-top: 25px;
             margin-bottom: 15px;
@@ -167,23 +165,23 @@
             padding-left: 0;
         }
         li {
-            margin-bottom: 12px; /* Slightly more spacing */
-            padding-left: 20px; /* Indent more */
+            margin-bottom: 12px;
+            padding-left: 20px;
             position: relative;
         }
         li::before {
-            content: '■';
+            content: '-';
             position: absolute;
             left: 0;
-            color: #007bff; /* Use active tab blue for bullet */
-            font-size: 10px;
-            top: 7px; /* Adjust vertical alignment */
+            color: #007bff;
+            font-size: 16px;
+            top: 4px;
         }
         .section {
             margin-bottom: 25px;
-            padding: 20px; /* More padding */
+            padding: 20px;
             background-color: #FFFFFF;
-            border: 1px solid #E9ECEF; /* Lighter border */
+            border: 1px solid #E9ECEF;
             border-radius: 4px;
             box-shadow: 0 1px 2px rgba(0,0,0,0.03);
         }
@@ -195,21 +193,21 @@
             font-weight: 600;
         }
         .keyword {
-            font-weight: bold; /* 글자를 굵게 표시 */
-            color: inherit; /* 부모 요소의 색상 상속 (기본 검정색) */
-            background-color: transparent; /* 배경색 투명하게 */
-            padding: 0; /* 패딩 제거 */
-            border-radius: 0; /* 둥근 테두리 제거 */
-            margin-right: 0; /* 오른쪽 마진 제거 */
-            white-space: normal; /* 줄 바꿈 허용 */
-            display: block; /* 키워드를 한 줄에 표시하고 다음 내용은 새 줄로 */
+            font-weight: bold;
+            color: inherit;
+            background-color: transparent;
+            padding: 0;
+            border-radius: 0;
+            margin-right: 0;
+            white-space: normal;
+            display: block;
         }
         .keyword::after {
-            content: ":"; /* 키워드 뒤에 콜론 추가 */
-            font-weight: bold; /* 콜론도 굵게 표시 */
-            margin-left: 5px; /* 콜론과 설명 사이 간격 */
+            content: ":";
+            font-weight: bold;
+            margin-left: 5px;
         }
-         .roadmap {
+        .roadmap {
             margin-top: 30px;
             border-top: 1px solid #D3D3D3;
             padding-top: 20px;
@@ -225,7 +223,7 @@
             padding-bottom: 10px;
             padding-top: 5px;
         }
-         .roadmap-item::before {
+        .roadmap-item::before {
             content: '';
             position: absolute;
             left: -8px;
@@ -243,61 +241,59 @@
             margin-bottom: 3px;
             font-size: 15px;
         }
-         .roadmap-item span {
+        .roadmap-item span {
             font-size: 14px;
             color: #555;
-            display: block; /* Ensure each item starts on a new line */
-            margin-bottom: 5px; /* Add spacing between bullet items */
-         }
-         /* Style for the bullet points requested within roadmap items */
+            display: block;
+            margin-bottom: 5px;
+        }
         .roadmap-item span::before {
-            content: "- "; /* Add the hyphen bullet */
-            margin-right: 5px; /* Space after the bullet */
-            color: inherit; /* Inherit color */
-            font-weight: normal; /* Normal weight */
-         }
-
+            content: "- ";
+            margin-right: 5px;
+            color: inherit;
+            font-weight: normal;
+        }
         .references {
             margin-top: 30px;
             border-top: 1px solid #D3D3D3;
             padding-top: 20px;
         }
         .references h2 {
-             margin-bottom: 15px;
+            margin-bottom: 15px;
         }
         .references ul {
             list-style-type: none;
             padding-left: 0;
             font-size: 13px;
             max-height: 300px;
-             overflow-y: auto;
+            overflow-y: auto;
             border: 1px solid #EFEFEF;
-             padding: 15px; /* More padding */
-            background-color: #F8F9FA; /* Lighter grey */
+            padding: 15px;
+            background-color: #F8F9FA;
             border-radius: 4px;
         }
         .references li {
-            margin-bottom: 10px; /* More spacing */
+            margin-bottom: 10px;
             padding-left: 0;
         }
-         .references li::before {
-            content: ''; /* Remove default bullet */
-         }
+        .references li::before {
+            content: '';
+        }
         .references a {
-            color: #005A9C; /* Standard link blue */
+            color: #005A9C;
             text-decoration: none;
             display: block;
             word-break: break-all;
         }
         .references a:hover {
             text-decoration: underline;
-            color: #003d69; /* Darker blue on hover */
+            color: #003d69;
         }
-         .references .ref-date {
-             font-size: 11px;
-             color: #6c757d;
-             margin-left: 5px;
-         }
+        .references .ref-date {
+            font-size: 11px;
+            color: #6c757d;
+            margin-left: 5px;
+        }
         .footer {
             text-align: right;
             margin-top: 30px;
@@ -307,46 +303,44 @@
             padding-top: 15px;
         }
 
-        /* Responsive adjustments */
-        @media (max-width: 992px) { /* Adjust breakpoint for better grid behavior */
-             .kpi-container {
-                 grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); /* Slightly smaller min width */
-             }
+        @media (max-width: 992px) {
+            .kpi-container {
+                grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+            }
         }
 
         @media (max-width: 768px) {
             body { font-size: 13px; }
             .header { padding: 10px 15px; min-height: 50px; }
             .header h1 { font-size: 18px; padding-right: 80px; margin-bottom: 3px;}
-            .header p { font-size: 12px; line-height: 1.4; white-space: normal; } /* Allow wrapping on mobile */
-             .header-link { font-size: 12px; top: 50%; right: 15px; padding: 4px 8px; }
+            .header p { font-size: 12px; line-height: 1.4; white-space: normal; }
+            .header-link { font-size: 12px; top: 50%; right: 15px; padding: 4px 8px; }
             .tab-button { padding: 10px 12px; font-size: 14px; }
-            /* .tabs { white-space: nowrap; overflow-x: auto; } */ /* Already applied above */
-            .kpi-container { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; } /* Further adjust grid */
-             .kpi-card h3 { font-size: 14px; }
-             .kpi-card p.value { font-size: 20px; }
-             .kpi-card .value-change { font-size: 12px;}
+            .kpi-container { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; }
+            .kpi-card h3 { font-size: 14px; }
+            .kpi-card p.value { font-size: 20px; }
+            .kpi-card .value-change { font-size: 12px;}
             h2 { font-size: 17px; }
             .section { padding: 15px; }
             .section h3 { font-size: 15px; }
-            .roadmap-item { padding-left: 20px; }
-            .roadmap-item::before { left: -7px; top: 8px; width: 12px; height: 12px;}
+            li { padding-left: 20px; }
+            li::before { left: -7px; top: 8px; width: 12px; height: 12px;}
             .references ul { font-size: 12px; max-height: 250px; padding: 10px; }
         }
-         @media (max-width: 480px) { /* Further adjustments for very small screens */
+         @media (max-width: 480px) {
              .container { padding: 15px; }
              .header h1 { font-size: 16px; padding-right: 70px;}
              .header p { font-size: 11px; }
              .header-link { font-size: 11px; padding: 3px 6px; right: 10px;}
              .tab-button { font-size: 12px; padding: 8px 8px; }
-             .kpi-container { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); } /* Stack KPIs nicely on small screens */
-             .kpi-card { min-width: 0; } /* Reset min-width */
+             .kpi-container { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); }
+             .kpi-card { min-width: 0; }
              h2 { font-size: 16px; }
              .section h3 { font-size: 14px; }
              li { padding-left: 15px; }
              li::before { top: 6px; }
              .references ul { font-size: 11px; }
-              .references .ref-date { display: inline; margin-left: 5px; margin-top: 0;} /* Keep date inline if possible */
+              .references .ref-date { display: inline; margin-left: 5px; margin-top: 0;}
          }
 
     </style>
@@ -379,28 +373,28 @@
             </div>
             <div class="kpi-card">
                 <h3>삼성전자 AI TV 출시</h3>
-                <p class="value">14개 시리즈 61개 모델</p>
-                <p class="value-change positive">AI 기능 강화, 라인업 확대</p>
+                <p class="value">61 모델</p>
+                <p class="value-change positive">14개 시리즈</p>
             </div>
              <div class="kpi-card">
-                <h3>OLED TV 시장 경쟁 심화</h3>
-                <p class="value">삼성 vs LG</p>
-                <p class="value-change">점유율 두고 신경전</p>
+                <h3>OLED TV 시장 경쟁</h3>
+                <p class="value">심화</p>
+                <p class="value-change">삼성 vs LG</p>
              </div>
             <div class="kpi-card">
-                <h3>아이폰 인도 생산 확대</h3>
-                <p class="value">미국 공급 50% 목표</p>
-                <p class="value-change">관세 부담 회피 위한 조치</p>
+                <h3>아이폰 인도 생산</h3>
+                <p class="value">확대</p>
+                <p class="value-change">미국 공급 50% 목표</p>
             </div>
             <div class="kpi-card">
-                <h3>LG이노텍, 애플 의존도 심화</h3>
-                <p class="value">매출 81%</p>
+                <h3>LG이노텍, 애플 의존</h3>
+                <p class="value">81%</p>
                 <p class="value-change">미국 관세에 '초긴장'</p>
             </div>
              <div class="kpi-card">
-                 <h3>삼성 폴더블폰 전략 수정</h3>
-                 <p class="value">보급형 FE 출시</p>
-                 <p class="value-change">역성장 돌파 위한 카드</p>
+                 <h3>삼성 폴더블폰 전략</h3>
+                 <p class="value">수정</p>
+                 <p class="value-change">보급형 FE 출시</p>
              </div>
         </div>
 
@@ -424,7 +418,7 @@
                 <li><span class="keyword">IT 기업 전략 변화</span>: 글로벌 경기 침체 우려 속 IT 기업들은 기술 혁신과 시장 변화 대응 위한 전략 모색, 특히 AI와 폴더블 기술이 중요 성장 동력으로 주목.</li>
                 <li><span class="keyword">부품 산업 리스크 관리</span>: 부품 산업에서 특정 고객사에 대한 높은 의존도는 위험 요소로 작용 가능, 공급망 다변화와 기술 경쟁력 확보 중요.</li>
              </ul>
-         </div>
+        </div>
     </div>
 
     <div id="Display_Trend" class="tab-content">
@@ -464,7 +458,7 @@
             </ul>
         </div>
         <div class="section">
-             <h3>기타 고객사 (Microsoft)</h3>
+            <h3>기타 고객사 (Microsoft)</h3>
             <ul>
                 <li><span class="keyword">'코파일럿 비전' 발표</span>: 안드로이드와 iOS용, 모바일 기기 카메라와 화면 통해 실시간 주변 환경 및 디지털 콘텐츠 인식·분석 AI 기능.</li>
             </ul>
@@ -473,7 +467,7 @@
 
     <div id="Competitor_Trend" class="tab-content">
         <h2>경쟁사 동향</h2>
-         <div class="section">
+        <div class="section">
              <h3>Samsung Display (SDC)</h3>
              <ul>
                  <li>(이번 기사 내용에서 직접적인 언급 없음)</li>
@@ -481,7 +475,7 @@
          </div>
         <div class="section">
             <h3>LG Display (LGD)</h3>
-             <ul>
+            <ul>
                  <li><span class="keyword">OLED TV 유럽 출시</span>: 2025년형 올레드 TV 라인업 유럽 8개국 본격 출시, 글로벌 시장 공략 속도.</li>
                  <li><span class="keyword">삼성과 점유율 신경전</span>: OLED TV 시장 점유율 두고 삼성전자와 신경전 벌임.</li>
              </ul>
@@ -536,13 +530,13 @@
          <div class="section">
              <h3>국내 부품/장비 업체 동향</h3>
              <ul>
-                 <li><span class="keyword">LG이노텍</span>: 애플 매출 의존도 높은 상황에서 미국 관세 정책 변화에 따른 영향 주시, 사업 포트폴리오 다각화 통해 수익성 개선 모색.</li>
+                <li><span class="keyword">LG이노텍</span>: 애플 매출 의존도 높은 상황에서 미국 관세 정책 변화에 따른 영향 주시, 사업 포트폴리오 다각화 통해 수익성 개선 모색.</li>
              </ul>
          </div>
          <div class="section">
                <h3>미국 관세 영향</h3>
               <ul>
-                  <li><span class="keyword">애플 공급망 타격</span>: 미국의 상호관세 정책 발효 시 중국 생산 의존도 높은 애플에 큰 타격 예상, 부품 공급망 전체에 영향 가능성 분석.</li>
+                 <li><span class="keyword">애플 공급망 타격</span>: 미국의 상호관세 정책 발효 시 중국 생산 의존도 높은 애플에 큰 타격 예상, 부품 공급망 전체에 영향 가능성 분석.</li>
                </ul>
            </div>
     </div>
@@ -557,7 +551,7 @@
          <div class="roadmap-item">
             <strong>2025년 5월</strong>
              <span>- 5월 20~21일: 구글 I/O 2025 개최, 안드로이드 16 공개 예상</span>
-             <span>- 5월 13일: 삼성전자 '갤럭시 S25 엣지' 공개 전망</span>
+            <span>- 5월 13일: 삼성전자 '갤럭시 S25 엣지' 공개 전망</span>
         </div>
         <div class="roadmap-item">
             <strong>2025년 6~7월</strong>
@@ -565,13 +559,13 @@
         </div>
         <div class="roadmap-item">
             <strong>2025년 7월</strong>
-             <span>- 삼성전자 갤럭시 Z 폴드·플립7과 함께 One UI 8 출시 전망</span>
+            <span>- 삼성전자 갤럭시 Z 폴드·플립7과 함께 One UI 8 출시 전망</span>
         </div>
          <div class="roadmap-item">
             <strong>2025년 하반기</strong>
              <span>- 삼성전자 갤럭시 Z폴드7 / Z플립7 / Z플립7 FE / G폴드 출시 예상</span>
              <span>- Apple 아이폰 17 시리즈 공개/출시 예정</span>
-             <span>- 삼성전자 One UI 8.0, 갤럭시 S25 시리즈에 우선 베타 업데이트 예상</span>
+            <span>- 삼성전자 One UI 8.0, 갤럭시 S25 시리즈에 우선 베타 업데이트 예상</span>
         </div>
          <div class="roadmap-item">
             <strong>2026년</strong>
@@ -584,7 +578,7 @@
             <strong>2027년</strong>
              <span>- Apple 아이폰 20주년 모델 출시 예상 ('유리판' 디자인 가능성)</span>
          </div>
-         </div>
+    </div>
 
     <div class="references">
       <h2>참고 기사 목록</h2>
@@ -658,27 +652,20 @@
         for (i = 0; i < tabbuttons.length; i++) {
             tabbuttons[i].className = tabbuttons[i].className.replace(" active", "");
         }
-        // Check if the element exists before trying to set its display style
         const targetTab = document.getElementById(tabName);
         if (targetTab) {
              targetTab.style.display = "block";
         }
-         // Ensure the event target exists before adding the active class
          if (evt && evt.currentTarget) {
             evt.currentTarget.className += " active";
         }
     }
 
-    // Activate the first tab by default when the page loads
     document.addEventListener('DOMContentLoaded', (event) => {
-        // Find the first tab button
         const firstTabButton = document.querySelector('.tab-button');
         if(firstTabButton) {
-             // Simulate a click on the first tab button
-             // This ensures the openTab function runs and sets the correct display and active states
              firstTabButton.click();
          } else {
-             // Fallback: If no tab button exists, manually display the first tab content if it exists
              const firstTabContent = document.querySelector('.tab-content');
              if (firstTabContent) {
                  firstTabContent.style.display = 'block';
