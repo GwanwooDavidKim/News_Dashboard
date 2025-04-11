@@ -1,5 +1,455 @@
 [
     {
+        "title": "삼성 파이낸스 플러스, 亞 넘어 아프리카 확대...금융그룹 '소팍'과 협력",
+        "date": "2025-04-11 13:00",
+        "link": "https://www.theguru.co.kr/news/article.html?no=85724"
+    },
+    {
+        "title": "LG디스플레이, 中 LCD공장 매각대금 2조 2000억원 확정",
+        "date": "2025-04-11 12:42",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7109366"
+    },
+    {
+        "title": "LG Display Sells Guangzhou Plant to TCL's CSOT, Exiting Large LCD Market ...",
+        "date": "2025-04-11 12:42",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=239674"
+    },
+    {
+        "title": "애플, 전세기 띄웠다…관세 피하려 인도서 아이폰 150만 대 공수",
+        "date": "2025-04-11 12:41",
+        "link": "https://n.news.naver.com/mnews/article/586/0000101166?sid=101"
+    },
+    {
+        "title": "中 공장 매각→2.2兆 확보한 LG디스플레이… OLED 사업 고도화 속도 낸다",
+        "date": "2025-04-11 12:20",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=224167"
+    },
+    {
+        "title": "애플, 관세 피하기 '꼼수' … 전세기로 아이폰 150만대 들여와",
+        "date": "2025-04-11 12:04",
+        "link": "https://www.newdaily.co.kr/site/data/html/2025/04/11/2025041100183.html"
+    },
+    {
+        "title": "앱개발자 70% 인앱결제 과도한 수수료가 가장 문제",
+        "date": "2025-04-11 12:02",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092138291"
+    },
+    {
+        "title": "“화물기 띄워 인도서 아이폰 150만대 공수” 관세전쟁에 애플 ‘미션 ...",
+        "date": "2025-04-11 11:59",
+        "link": "https://n.news.naver.com/mnews/article/032/0003362736?sid=104"
+    },
+    {
+        "title": "“관세 피하려 애플 아이폰 150만대 인도→미국 긴급 공수”",
+        "date": "2025-04-11 11:58",
+        "link": "https://n.news.naver.com/mnews/article/082/0001320759?sid=101"
+    },
+    {
+        "title": "2026년 애플 폴더블 제품 원년 될까? 아이폰·아이패드 폴드 2종 출시 가...",
+        "date": "2025-04-11 11:56",
+        "link": "https://kbench.com/?q=node/266447"
+    },
+    {
+        "title": "애플, 전세기 동원해 인도서 150만대 아이폰 미국 공수",
+        "date": "2025-04-11 11:52",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15635770"
+    },
+    {
+        "title": "“美행 전세기 탄 아이폰”, 애플 인도서 생산한 150만대 공수",
+        "date": "2025-04-11 11:36",
+        "link": "https://n.news.naver.com/mnews/article/021/0002702501?sid=104"
+    },
+    {
+        "title": "애플, 관세 피하려 전세기로 인도서 아이폰 150만대 美에 공수...미국...",
+        "date": "2025-04-11 11:34",
+        "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=223315"
+    },
+    {
+        "title": "LGD, 中 광저우 LCD 공장 매각대금 2조2466억원 확정",
+        "date": "2025-04-11 11:24",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092138287"
+    },
+    {
+        "title": "시리 출시 미룬 애플, 미·캐나다서 집단소송 당해",
+        "date": "2025-04-11 11:24",
+        "link": "https://n.news.naver.com/mnews/article/092/0002370289?sid=105"
+    },
+    {
+        "title": "인앱결제 가장 큰 문제는 과도한 수수료…애플, 10% 인상",
+        "date": "2025-04-11 11:24",
+        "link": "https://n.news.naver.com/mnews/article/422/0000730124?sid=105"
+    },
+    {
+        "title": "애플, 관세 피하려 전세기로 인도서 아이폰 150만대 미국에 공수",
+        "date": "2025-04-11 11:23",
+        "link": "https://n.news.naver.com/mnews/article/052/0002178731?sid=104"
+    },
+    {
+        "title": "[단독]삼성전자 아우 삼성디스플레이도 성과급 기준 손본다",
+        "date": "2025-04-11 11:20",
+        "link": "https://n.news.naver.com/mnews/article/018/0005985223?sid=101"
+    },
+    {
+        "title": "애플, 관세 피하려 전세기 6대 띄웠다…인도서 아이폰 150만대 긴급 공...",
+        "date": "2025-04-11 11:20",
+        "link": "https://www.ajunews.com/view/20250411111402619"
+    },
+    {
+        "title": "앱 개발자 70.4% “인앱결제 가장 큰 문제는 과도한 수수료”",
+        "date": "2025-04-11 11:17",
+        "link": "https://n.news.naver.com/mnews/article/009/0005474725?sid=105"
+    },
+    {
+        "title": "LGD, 中 광저우 공장 매각대금 2.2조원 확정",
+        "date": "2025-04-11 11:16",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=323142"
+    },
+    {
+        "title": "애플, 미국 관세 피하기 위해 전세기 동원 아이폰 150만대 공수",
+        "date": "2025-04-11 11:12",
+        "link": "https://n.news.naver.com/mnews/article/366/0001068508?sid=105"
+    },
+    {
+        "title": "애플, 전세기까지 띄웠다…'아이폰 150만대' 인도서 긴급 공수",
+        "date": "2025-04-11 11:10",
+        "link": "https://n.news.naver.com/mnews/article/015/0005118003?sid=105"
+    },
+    {
+        "title": "“인앱결제 가장 큰 문제는 과도한 수수료”…애플 비중 10% 증가",
+        "date": "2025-04-11 11:07",
+        "link": "https://n.news.naver.com/mnews/article/005/0001769299?sid=105"
+    },
+    {
+        "title": "애플, 관세 피하려 전세기로 인도서 아이폰 150만 대 미국에 공수",
+        "date": "2025-04-11 11:01",
+        "link": "https://n.news.naver.com/mnews/article/055/0001248457?sid=104"
+    },
+    {
+        "title": "마이크로닉스, 자연의 감성 담은 '위즈맥스 우드리안 프로·맥스' 발매",
+        "date": "2025-04-11 11:00",
+        "link": "https://www.cnet.co.kr/view/?no=20250411104247"
+    },
+    {
+        "title": "삼성디스플레이, 4년 연속 무분규 임단협 타결···평균 인상률 5.1%",
+        "date": "2025-04-11 10:54",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2262809"
+    },
+    {
+        "title": "'자연의 감성 담았다' 마이크로닉스, WIZMAX 우드리안 프로·맥스 출시",
+        "date": "2025-04-11 10:54",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=53934"
+    },
+    {
+        "title": "“애플, 관세 피하려 인도에서 생산된 아이폰 전세기로 미국에 공수”",
+        "date": "2025-04-11 10:54",
+        "link": "https://n.news.naver.com/mnews/article/056/0011929879?sid=104"
+    },
+    {
+        "title": "애플 '탈중국' 가속…인도에 쏠리는 아이폰 거점 중심축",
+        "date": "2025-04-11 10:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561148"
+    },
+    {
+        "title": "애플, 인도산 아이폰 600톤 공수…관세 폭탄 대피처",
+        "date": "2025-04-11 10:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561145"
+    },
+    {
+        "title": "“애플, 관세 피하려 전세기로 인도서 아이폰 150만대 美에 공수”",
+        "date": "2025-04-11 10:50",
+        "link": "https://n.news.naver.com/mnews/article/022/0004026864?sid=104"
+    },
+    {
+        "title": "애플, 관세 피하려 인도서 아이폰 150만대 긴급 공수",
+        "date": "2025-04-11 10:50",
+        "link": "https://n.news.naver.com/mnews/article/015/0005117993?sid=104"
+    },
+    {
+        "title": "애플, 관세 피하려 전세기로 인도서 아이폰 150만대 美에 공수",
+        "date": "2025-04-11 10:38",
+        "link": "https://n.news.naver.com/mnews/article/001/0015324151?sid=104"
+    },
+    {
+        "title": "앱 개발자, 인앱결제 가장 큰 문제는 과도한 수수료",
+        "date": "2025-04-11 10:36",
+        "link": "http://www.intn.co.kr/news/articleView.html?idxno=2042880"
+    },
+    {
+        "title": "'자연의 감성 담았다' 마이크로닉스, WIZMAX 우드리안 프로·맥스 출시",
+        "date": "2025-04-11 10:34",
+        "link": "https://www.thisisgame.com/webzine/game/nboard/225/?n=209837"
+    },
+    {
+        "title": "LG디스플레이, 中 광저우 LCD 공장 매각대금 2.2조원 확정",
+        "date": "2025-04-11 10:32",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=691575"
+    },
+    {
+        "title": "인앱결제 가장 큰 문제 과도한 수수료…애플 1년새 10% 인상",
+        "date": "2025-04-11 10:30",
+        "link": "https://n.news.naver.com/mnews/article/001/0015324125?sid=105"
+    },
+    {
+        "title": "LG디스플레이 광저우 공장, 매각대금 2조2천억원 확정",
+        "date": "2025-04-11 10:30",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=94772"
+    },
+    {
+        "title": "LG디스플레이, 광저우 공장 매각 대금 2조2466억 확정",
+        "date": "2025-04-11 10:28",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=264766"
+    },
+    {
+        "title": "관세는 피하자...애플 인도산 아이폰 600t 어치 美로 서둘러 공수",
+        "date": "2025-04-11 10:22",
+        "link": "https://n.news.naver.com/mnews/article/014/0005334593?sid=101"
+    },
+    {
+        "title": "LG디스플레이 광저우 공장 매각대금 2.2조원 확정…“실적 개선 기대”",
+        "date": "2025-04-11 10:15",
+        "link": "https://n.news.naver.com/mnews/article/081/0003532717?sid=101"
+    },
+    {
+        "title": "앱 개발자들 인앱결제 가장 큰 문제는 과도한 수수료",
+        "date": "2025-04-11 10:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561109"
+    },
+    {
+        "title": "앱 개발자 인앱결제, 과도한 수수료가 문제…소비자 편해서",
+        "date": "2025-04-11 10:11",
+        "link": "https://n.news.naver.com/mnews/article/421/0008186936?sid=105"
+    },
+    {
+        "title": "크로스오버존, 게이밍 모니터 겜존맛 특가딜 행사 진행",
+        "date": "2025-04-11 10:10",
+        "link": "https://kbench.com/?q=node/266436"
+    },
+    {
+        "title": "[기자수첩] 편리함이 만든 판옵티콘, 스마트홈의 그림자",
+        "date": "2025-04-11 10:08",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=524056"
+    },
+    {
+        "title": "앱 마켓서 월 평균 1만3317원 소비…애플 앱스토어 매출 10%↑",
+        "date": "2025-04-11 10:05",
+        "link": "https://n.news.naver.com/mnews/article/011/0004472951?sid=105"
+    },
+    {
+        "title": "작년 유료콘텐츠에 월 평균 1.3만원 지출…앱 마켓들, 수수료 26% 떼갔다",
+        "date": "2025-04-11 10:04",
+        "link": "https://n.news.naver.com/mnews/article/374/0000434608?sid=101"
+    },
+    {
+        "title": "LG디스플레이 광저우 공장 매각대금 2조2천억원 확정…OLED 사업 투자 본...",
+        "date": "2025-04-11 09:50",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15635616"
+    },
+    {
+        "title": "국내 앱마켓 거래 규모 8조…거래 수수료 최대 26% 떼갔다",
+        "date": "2025-04-11 09:49",
+        "link": "https://n.news.naver.com/mnews/article/003/0013177778?sid=105"
+    },
+    {
+        "title": "앱 개발자들 “인앱결제 가장 큰 문제는 과도한 수수료”",
+        "date": "2025-04-11 09:42",
+        "link": "https://www.mediapen.com/news/view/1006203"
+    },
+    {
+        "title": "LG디스플레이, 중국 광저우 공장 매각 대금 2.2조원 확정",
+        "date": "2025-04-11 09:41",
+        "link": "https://n.news.naver.com/mnews/article/005/0001769265?sid=101"
+    },
+    {
+        "title": "트럼프 관세에 '중국만 예외'…삼성·구글 피하고 애플은 맞았다",
+        "date": "2025-04-11 09:40",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=264734"
+    },
+    {
+        "title": "개발자 10명 중 7명 인앱결제 수수료 과도…애플 앱 심사지연도 도마",
+        "date": "2025-04-11 09:40",
+        "link": "https://n.news.naver.com/mnews/article/014/0005334557?sid=105"
+    },
+    {
+        "title": "앱 개발자, 인앱결제 가장 큰 문제는 과도한 수수료",
+        "date": "2025-04-11 09:40",
+        "link": "https://n.news.naver.com/mnews/article/018/0005985061?sid=105"
+    },
+    {
+        "title": "개발자 70.4% 인앱결제 가장 큰 문제는 과도한 수수료",
+        "date": "2025-04-11 09:36",
+        "link": "https://www.etoday.co.kr/news/view/2461147"
+    },
+    {
+        "title": "LG디스플레이, 中 LCD 공장 매각대금 2.2조 확정",
+        "date": "2025-04-11 09:34",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=174875"
+    },
+    {
+        "title": "개발자들 내가 만든 앱, 구글·애플이 거부…이유도 몰라",
+        "date": "2025-04-11 09:33",
+        "link": "https://n.news.naver.com/mnews/article/277/0005576445?sid=105"
+    },
+    {
+        "title": "[더벨]삼성·LG 'OLED TV' 확전에 정철동 웃는다",
+        "date": "2025-04-11 09:32",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504101322019440108972"
+    },
+    {
+        "title": "LG디스플레이 '광저우 LCD 공장' 매각대금 2.2조 확정",
+        "date": "2025-04-11 09:31",
+        "link": "https://n.news.naver.com/mnews/article/374/0000434594?sid=101"
+    },
+    {
+        "title": "LG디스플레이 광저우 공장 매각대금 2.2조원 확정…LCD 사업 종료",
+        "date": "2025-04-11 09:30",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=646552"
+    },
+    {
+        "title": "LG디스플레이, 中 광저우 공장 매각대금 2.2조원 확정",
+        "date": "2025-04-11 09:28",
+        "link": "https://n.news.naver.com/mnews/article/366/0001068459?sid=105"
+    },
+    {
+        "title": "중국에 판 LG디스플레이 광저우 공장, 매각대금 2.2조원 확정",
+        "date": "2025-04-11 09:22",
+        "link": "https://n.news.naver.com/mnews/article/422/0000730074?sid=101"
+    },
+    {
+        "title": "LG디스플레이 광저우 공장 2조2466억 매각…OLED 경쟁력 강화",
+        "date": "2025-04-11 09:20",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=115579"
+    },
+    {
+        "title": "LG디스플레이, 中 광저우 LCD 공장 매각대금 2.2조원 확정",
+        "date": "2025-04-11 09:20",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=185179"
+    },
+    {
+        "title": "LG디스플레이, 광저우 공장 매각대금 2조2천억원 확정",
+        "date": "2025-04-11 09:20",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=38092"
+    },
+    {
+        "title": "국내 앱 개발자 70.4% 앱마켓 수수료 과도하다",
+        "date": "2025-04-11 09:18",
+        "link": "https://n.news.naver.com/mnews/article/092/0002370255?sid=105"
+    },
+    {
+        "title": "미국서 아이폰 만들면…생산비용 90% 증가",
+        "date": "2025-04-11 09:17",
+        "link": "https://n.news.naver.com/mnews/article/092/0002370253?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 광저우 LCD 공장 매각 대금 2조2466억 원 확정",
+        "date": "2025-04-11 09:10",
+        "link": "https://www.etoday.co.kr/news/view/2461124"
+    },
+    {
+        "title": "LG디스플레이 광저우 공장, 매각대금 2조2천억원 확정",
+        "date": "2025-04-11 09:08",
+        "link": "https://www.socialvalue.kr/news/view/1065571504408286"
+    },
+    {
+        "title": "애플, 관세 피해 아이폰 150만대 인도에서 공수 …현지 공장도 주7일 특...",
+        "date": "2025-04-11 09:06",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=47690"
+    },
+    {
+        "title": "LG디스플레이 中광저우 LCD 공장, 매각대금 2.2조원 확정",
+        "date": "2025-04-11 09:04",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=182447"
+    },
+    {
+        "title": "LG디스플레이, 광저우 LCD 공장 매각대금 2.2조원 확정",
+        "date": "2025-04-11 09:02",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1202880"
+    },
+    {
+        "title": "구글, TED 컨퍼런스에서 AR 스마트 안경 프로토타입 공개",
+        "date": "2025-04-11 09:02",
+        "link": "https://kbench.com/?q=node/266430"
+    },
+    {
+        "title": "LG디스플레이, 중국 LCD 공장 2.2조에 매각…OLED 전환 속도낸다",
+        "date": "2025-04-11 09:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005576399?sid=101"
+    },
+    {
+        "title": "따뜻한 봄, '가볍지만 강력한' IT 디바이스에 주목, 로지텍 무선 게이밍...",
+        "date": "2025-04-11 09:00",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=529995"
+    },
+    {
+        "title": "[Who Is ?] 이청 삼성디스플레이 대표이사 사장",
+        "date": "2025-04-11 08:40",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=390918"
+    },
+    {
+        "title": "中에 판 LG디스플레이 광저우 공장, 매각대금 2조2천억원 확정",
+        "date": "2025-04-11 08:39",
+        "link": "https://n.news.naver.com/mnews/article/001/0015323818?sid=101"
+    },
+    {
+        "title": "﻿아이폰으로 로봇청소기 제어…로보락, 스마트홈 표준 '매터' 지원",
+        "date": "2025-04-11 08:38",
+        "link": "http://www.mhj21.com/166049"
+    },
+    {
+        "title": "[더벨][이사회로 간 기업인]애플 CEO가 나이키 사외이사…한국 이사회와...",
+        "date": "2025-04-11 08:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504031917280880103430"
+    },
+    {
+        "title": "삼성 '폴드·Z플립 7' 5월부터 양산…'엑시노스2500' 탑재가 관건 [biz-플...",
+        "date": "2025-04-11 07:35",
+        "link": "https://n.news.naver.com/mnews/article/011/0004472886?sid=101"
+    },
+    {
+        "title": "삼성, 2nm 공정 수율 40% 달성...TSMC 바짝 추격",
+        "date": "2025-04-11 07:10",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/20250411065938385fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "애플, 인도서 ‘아이폰 공수’ 화물 전세기 6대 띄운 이유는?",
+        "date": "2025-04-11 07:08",
+        "link": "https://n.news.naver.com/mnews/article/018/0005984904?sid=101"
+    },
+    {
+        "title": "[2024년 귀속 법인세 분석] 2차전지·소부장 피엔티, 2차전지 침체 속 '매...",
+        "date": "2025-04-11 07:03",
+        "link": "https://n.news.naver.com/mnews/article/123/0002356780?sid=101"
+    },
+    {
+        "title": "美 기술주 급락…애플·메타·비트코인까지 '관세 쇼크'",
+        "date": "2025-04-11 07:02",
+        "link": "https://www.tokenpost.kr/news/market/236963"
+    },
+    {
+        "title": "애플 폴더블폰 출시, 접히는 아이패드도 함께 나오나 [모닝폰]",
+        "date": "2025-04-11 06:54",
+        "link": "https://n.news.naver.com/mnews/article/018/0005984903?sid=105"
+    },
+    {
+        "title": "‘진짜 美 아이폰 가격 500만원 찍겠는걸’…美·中 관세戰 격화에 애플...",
+        "date": "2025-04-11 06:48",
+        "link": "https://n.news.naver.com/mnews/article/016/0002455689?sid=101"
+    },
+    {
+        "title": "미중 무역전쟁 격화에 애플도 4％↓ 시총 1위는 유지",
+        "date": "2025-04-11 06:32",
+        "link": "https://n.news.naver.com/mnews/article/421/0008186540?sid=104"
+    },
+    {
+        "title": "트럼프, 상호관세 90일 유예…삼성 '웃고' 애플 '울상'",
+        "date": "2025-04-11 06:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1658841"
+    },
+    {
+        "title": "트럼프 관세에 '중국만 예외'…삼성·구글 피하고 애플은 맞았다",
+        "date": "2025-04-11 06:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013177437?sid=105"
+    },
+    {
         "title": "아이폰 차라리 미국서 생산? 전문가 “500만원 될 것”",
         "date": "2025-04-11 03:21",
         "link": "https://n.news.naver.com/mnews/article/021/0002702384?sid=104"
@@ -515,14 +965,14 @@
         "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025041011235564416ed0c62d49_1/article.html"
     },
     {
-        "title": "삼성디스플레이, 2025년 임단협 체결…평균 임금 5.1%↑",
-        "date": "2025-04-10 11:44",
-        "link": "https://n.news.naver.com/mnews/article/366/0001068200?sid=105"
-    },
-    {
         "title": "4년 연속 무분규…삼성디스플레이, '임금 인상률 5.1%' 임단협 체결",
         "date": "2025-04-10 11:44",
         "link": "https://n.news.naver.com/mnews/article/117/0003931034?sid=103"
+    },
+    {
+        "title": "삼성디스플레이, 2025년 임단협 체결…평균 임금 5.1%↑",
+        "date": "2025-04-10 11:44",
+        "link": "https://n.news.naver.com/mnews/article/366/0001068200?sid=105"
     },
     {
         "title": "삼성디스플레이, 올해 임단협 체결 평균 임금 5.1%↑",
@@ -725,14 +1175,14 @@
         "link": "https://n.news.naver.com/mnews/article/015/0005117383?sid=101"
     },
     {
-        "title": "역대급 내구성 갖춘 ‘갤럭시 S25 시리즈’, 기술력으로 승부수 던지며...",
-        "date": "2025-04-10 08:01",
-        "link": "https://n.news.naver.com/mnews/article/009/0005473880?sid=101"
-    },
-    {
         "title": "갤럭시 S25 시리즈, 탄탄한 내구성으로 상반기 흥행 이어간다",
         "date": "2025-04-10 08:01",
         "link": "https://n.news.naver.com/mnews/article/020/0003627318?sid=101"
+    },
+    {
+        "title": "역대급 내구성 갖춘 ‘갤럭시 S25 시리즈’, 기술력으로 승부수 던지며...",
+        "date": "2025-04-10 08:01",
+        "link": "https://n.news.naver.com/mnews/article/009/0005473880?sid=101"
     },
     {
         "title": "마이크로바이옴 전문가 경미니가 전하는 건강 맞춤 식단 ②",
@@ -758,11 +1208,6 @@
         "title": "'곳간 역대 최대' 아나패스, 현금 활용법은",
         "date": "2025-04-10 07:02",
         "link": "https://dealsite.co.kr/articles/139517"
-    },
-    {
-        "title": "'아이폰 500만원' 위기, 일단 숨돌렸다 [모닝폰]",
-        "date": "2025-04-10 07:02",
-        "link": "https://n.news.naver.com/mnews/article/018/0005983704?sid=105"
     },
     {
         "title": "[경제인사이드] 트럼프발 관세 쇼크 본격화… 韓기업들 산업별로 희비 ...",
