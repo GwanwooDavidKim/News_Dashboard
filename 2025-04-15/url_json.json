@@ -1,1 +1,847 @@
-
+[
+    {
+        "title": "트럼프 발목 잡은 '아이폰 패닉'…중국 생산인프라 대체불가",
+        "date": "2025-04-15 04:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005180439?sid=101"
+    },
+    {
+        "title": "애플, 1분기 아이폰 출하량 10% 늘려…“관세 대비 미국 내 재고 비축”",
+        "date": "2025-04-15 03:54",
+        "link": "https://n.news.naver.com/mnews/article/056/0011931649?sid=104"
+    },
+    {
+        "title": "애플, 1분기 아이폰 출하량 10% 급증… “美 관세 대응 전략”",
+        "date": "2025-04-15 01:51",
+        "link": "https://n.news.naver.com/mnews/article/366/0001069337?sid=105"
+    },
+    {
+        "title": "애플, 1분기 아이폰 출하량 10% 증가…관세 대비 재고 비축",
+        "date": "2025-04-15 01:23",
+        "link": "https://n.news.naver.com/mnews/article/001/0015329821?sid=104"
+    },
+    {
+        "title": "모니터용 OLED 3년 새 20배 성장",
+        "date": "2025-04-15 00:34",
+        "link": "https://n.news.naver.com/mnews/article/023/0003899493?sid=105"
+    },
+    {
+        "title": "애플, 1분기 글로벌 스마트폰 판매 1위...삼성은 2위",
+        "date": "2025-04-15 00:25",
+        "link": "https://www.newspim.com/news/view/20250414001033"
+    },
+    {
+        "title": "중국 생산 딜레마에 빠진 애플, 미국산 아이폰은 먼 꿈?",
+        "date": "2025-04-15 00:01",
+        "link": "https://n.news.naver.com/mnews/article/025/0003434101?sid=101"
+    },
+    {
+        "title": "애플, 삼성 제치고 1분기 글로벌 스마트폰 판매량 1위",
+        "date": "2025-04-14 22:12",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025041421173853533bc914ac71_1/article.html"
+    },
+    {
+        "title": "기사회생 애플,또다시中관세로 삼성 유리해져로비 먹혔나?",
+        "date": "2025-04-14 21:54",
+        "link": "https://n.news.naver.com/mnews/article/015/0005119168?sid=101"
+    },
+    {
+        "title": "삼성 자체 칩 '엑시노스', 갤럭시탭 S10 FE에서 부활...역대 갤탭 시리즈...",
+        "date": "2025-04-14 21:10",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=325518"
+    },
+    {
+        "title": "애플 아이폰, 올 1분기 삼성 제치고 글로벌 1위 차지",
+        "date": "2025-04-14 20:37",
+        "link": "https://n.news.naver.com/mnews/article/015/0005119166?sid=101"
+    },
+    {
+        "title": "한국디스플레이산업협회, '45.5억원' 투입 무기발광 사업 추진단 설치",
+        "date": "2025-04-14 20:10",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=262094"
+    },
+    {
+        "title": "애플, 한국서 미신고 영업하는 해외 가상자산사업자 앱 접속 차단",
+        "date": "2025-04-14 19:54",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=391278"
+    },
+    {
+        "title": "닌텐도 스위치2, 관세 면제 제외...145% 관세 충격 예상",
+        "date": "2025-04-14 19:46",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025041419421189440c8c1c064d_1/article.html"
+    },
+    {
+        "title": "구글·애플 앱마켓 갑질 여전…인앱결제 강제 금지법 실효성 '도마 위...",
+        "date": "2025-04-14 19:30",
+        "link": "https://www.ajunews.com/view/20250414153405232"
+    },
+    {
+        "title": "한숨 돌리나 했는데… 트럼프 스마트폰·컴퓨터 상호관세 면제 아냐",
+        "date": "2025-04-14 19:28",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=524269"
+    },
+    {
+        "title": "삼성디스플레이가 이끈 OLED 모니터 시장… 첫 10억 달러 돌파 '눈앞'",
+        "date": "2025-04-14 19:10",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3257655"
+    },
+    {
+        "title": "'비전프로' 쓴맛 본 애플, 스마트 글라스에 ‘올인'하나",
+        "date": "2025-04-14 19:10",
+        "link": "https://n.news.naver.com/mnews/article/011/0004474010?sid=105"
+    },
+    {
+        "title": "웰투시인베, 애플 아이폰 부품사 에스아이플렉스 인수",
+        "date": "2025-04-14 18:36",
+        "link": "https://n.news.naver.com/mnews/article/009/0005476195?sid=101"
+    },
+    {
+        "title": "OLED 강국 위상 공고히…디스플레이협회, 무기발광 사업 추진단 설치",
+        "date": "2025-04-14 18:22",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=691849"
+    },
+    {
+        "title": "애플 앱스토어, 미신고 가상자산사업자 국내 접속 차단",
+        "date": "2025-04-14 18:21",
+        "link": "https://n.news.naver.com/mnews/article/215/0001205748?sid=101"
+    },
+    {
+        "title": "美 '관세 유예'에 아시아 '기술주 상승'세… '애플 공급망' 반등 주도",
+        "date": "2025-04-14 18:19",
+        "link": "https://n.news.naver.com/mnews/article/123/0002356989?sid=104"
+    },
+    {
+        "title": "구글·애플 앱 수수료만 30%…관세 산정엔 빠져",
+        "date": "2025-04-14 18:16",
+        "link": "https://n.news.naver.com/mnews/article/374/0000435037?sid=101"
+    },
+    {
+        "title": "금융위 “애플 앱스토어에서 국외 미신고 가상자산앱 차단”",
+        "date": "2025-04-14 18:09",
+        "link": "https://n.news.naver.com/mnews/article/014/0005335721?sid=101"
+    },
+    {
+        "title": "中의존의 덫…삼성은 제조기지 이전했는데 탈중국 못한 애플, 왜",
+        "date": "2025-04-14 18:03",
+        "link": "https://n.news.naver.com/mnews/article/025/0003434051?sid=101"
+    },
+    {
+        "title": "웰투시, ‘애플 아이폰 부품사’ 에스아이플렉스 인수 [시그널]",
+        "date": "2025-04-14 17:58",
+        "link": "https://n.news.naver.com/mnews/article/011/0004473977?sid=101"
+    },
+    {
+        "title": "금융당국 애플 앱스토어에 등록된 미신고 외국 가상자산업자 앱 14개, ...",
+        "date": "2025-04-14 17:50",
+        "link": "https://n.news.naver.com/mnews/article/138/0002194625?sid=105"
+    },
+    {
+        "title": "FIU, 애플 앱 중 미신고 해외 가상자산사업자 접속차단",
+        "date": "2025-04-14 17:44",
+        "link": "https://n.news.naver.com/mnews/article/374/0000435030?sid=101"
+    },
+    {
+        "title": "금융위, 구글 이어 애플 앱서도 미신고 가상자산사업자 국내 접속 차단",
+        "date": "2025-04-14 17:40",
+        "link": "https://www.newspim.com/news/view/20250414000962"
+    },
+    {
+        "title": "애플 앱에서도 국외 미신고 가상자산사업자 국내 접속 차단",
+        "date": "2025-04-14 17:34",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025041417294112129"
+    },
+    {
+        "title": "애플, 구글에 이어 국외 미신고 가상자산사업자 앱 접속 차단",
+        "date": "2025-04-14 17:31",
+        "link": "https://n.news.naver.com/mnews/article/001/0015329568?sid=101"
+    },
+    {
+        "title": "팀 쿡이 시간을 쏟는 유일한 제품...애플, 스마트 안경 개발에 집중",
+        "date": "2025-04-14 17:29",
+        "link": "https://n.news.naver.com/mnews/article/050/0000089287?sid=101"
+    },
+    {
+        "title": "美 트럼프 변덕에 출렁이는 스마트폰 업계…관세 불확실성은 '현재·미...",
+        "date": "2025-04-14 17:29",
+        "link": "https://n.news.naver.com/mnews/article/138/0002194623?sid=105"
+    },
+    {
+        "title": "관세 유예? 시간 더 줘도 애플이 중국 못 버리는 이유 쿡의 핵심 역량...",
+        "date": "2025-04-14 17:27",
+        "link": "https://n.news.naver.com/mnews/article/008/0005180319?sid=104"
+    },
+    {
+        "title": "선익시스템, 59억 규모 OLED 연구용 증착장비 공급",
+        "date": "2025-04-14 17:10",
+        "link": "https://news.dealsitetv.com/articles/153359"
+    },
+    {
+        "title": "애플 앱스토어도 국외 미신고 가상자산사업자 접속 차단",
+        "date": "2025-04-14 17:10",
+        "link": "https://n.news.naver.com/mnews/article/030/0003303258?sid=101"
+    },
+    {
+        "title": "LCD는 끝났다? OLED 올인한 삼성·LG…놓쳐버린 LCD, 中이 주웠다",
+        "date": "2025-04-14 17:06",
+        "link": "http://www.metroseoul.co.kr/article/20250414500587"
+    },
+    {
+        "title": "스마트폰 제외 아냐… 트럼프 관세 변덕에 삼성·애플 '한숨'",
+        "date": "2025-04-14 17:03",
+        "link": "https://n.news.naver.com/mnews/article/417/0001070822?sid=105"
+    },
+    {
+        "title": "애플 지도, 안드로이드 웹 버전 공식 지원 시작",
+        "date": "2025-04-14 16:58",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=795738"
+    },
+    {
+        "title": "애플 지도, 안드로이드 웹 버전 공식 지원 시작",
+        "date": "2025-04-14 16:58",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=185681"
+    },
+    {
+        "title": "롯데카드 회원 전용 쇼핑몰 '띵샵', 프리미엄 제품 전용관 '엣지'(Edge) 개...",
+        "date": "2025-04-14 16:56",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=243281"
+    },
+    {
+        "title": "애플, '비전 프로' 실패 각성… 가격·무게 개선한 2세대 개발 속도",
+        "date": "2025-04-14 16:48",
+        "link": "https://n.news.naver.com/mnews/article/417/0001070812?sid=105"
+    },
+    {
+        "title": "트럼프 관세 변경은 '애플 구하기'…대중관세에 쓰러질 위기였다",
+        "date": "2025-04-14 16:47",
+        "link": "https://n.news.naver.com/mnews/article/421/0008191995?sid=104"
+    },
+    {
+        "title": "美 상호관세 면제에 삼성·애플관련株 동반강세…하이닉스는 하락[핫종...",
+        "date": "2025-04-14 16:36",
+        "link": "https://n.news.naver.com/mnews/article/421/0008191950?sid=101"
+    },
+    {
+        "title": "[카드 &amp; NOW] KB국민카드, 결제 인프라로 사회협력…돌봄과 상생 실천 등",
+        "date": "2025-04-14 16:26",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1659163"
+    },
+    {
+        "title": "15만원 냉장고·39만원 게이밍폰…초가성비 제품 '불티'",
+        "date": "2025-04-14 16:26",
+        "link": "https://n.news.naver.com/mnews/article/015/0005118973?sid=101"
+    },
+    {
+        "title": "소비자 외면으로 부진하는 XR… 메타·삼성·애플, `차세대`로 재도약 이...",
+        "date": "2025-04-14 16:12",
+        "link": "https://n.news.naver.com/mnews/article/029/0002947981?sid=105"
+    },
+    {
+        "title": "LG전자, 日 의료용 모니터 시장 도전장…철옹성 뚫는다",
+        "date": "2025-04-14 16:11",
+        "link": "https://n.news.naver.com/mnews/article/029/0002947980?sid=101"
+    },
+    {
+        "title": "애플 인도·베트남으로 생산장비 이전 수개월째 지연, 중국 세관심사 강...",
+        "date": "2025-04-14 16:04",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=391217"
+    },
+    {
+        "title": "미·중 2차 무역전쟁…중국 물량 취소한 아마존, 인도로 옮기는 애플",
+        "date": "2025-04-14 16:02",
+        "link": "https://n.news.naver.com/mnews/article/015/0005118949?sid=104"
+    },
+    {
+        "title": "LX세미콘, 늘어나는 DDI 경쟁 업체…차량용 방열기판 언제 장착?",
+        "date": "2025-04-14 15:50",
+        "link": "https://news.mtn.co.kr/news-detail/2025041414512814183"
+    },
+    {
+        "title": "파인엠텍 주가 활짝... 2차전지 수주로 실적 반전 시동",
+        "date": "2025-04-14 15:46",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=336413"
+    },
+    {
+        "title": "애플, 차세대 비전 프로 개발 중…더 가볍고, 더 싸게",
+        "date": "2025-04-14 15:45",
+        "link": "https://n.news.naver.com/mnews/article/421/0008191780?sid=105"
+    },
+    {
+        "title": "안드로이드에서 애플 지도 사용 가능…웹 버전 정식 출시",
+        "date": "2025-04-14 15:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561450"
+    },
+    {
+        "title": "애플, 비전 프로 실패에도 차세대 제품 개발… 웨어러블·스마트 안경 경...",
+        "date": "2025-04-14 15:34",
+        "link": "https://n.news.naver.com/mnews/article/366/0001069269?sid=105"
+    },
+    {
+        "title": "'비전 프로' 쓴 맛 본 애플, 헤드셋 2종 추가 준비",
+        "date": "2025-04-14 15:24",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202504141149044352c5fa75ef86_1/article.html"
+    },
+    {
+        "title": "디스플레이협회, 무기발광 사업 추진단 설립…생태계 본격 재편",
+        "date": "2025-04-14 15:20",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1228268"
+    },
+    {
+        "title": "애플, '더 가볍고 저렴한' 비전 프로 개발 중",
+        "date": "2025-04-14 15:18",
+        "link": "https://kbench.com/?q=node/266522"
+    },
+    {
+        "title": "한숨 돌렸더니 품목 관세…디스플레이도 美 공장 지으라고?",
+        "date": "2025-04-14 15:17",
+        "link": "https://n.news.naver.com/mnews/article/421/0008191651?sid=101"
+    },
+    {
+        "title": "韓 디스플레이 업계, 'OLED 초격차·무기발광DP 선점' 나선다",
+        "date": "2025-04-14 15:16",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=138286"
+    },
+    {
+        "title": "애플 '더 가볍고 저렴한' AR 안경 개발 집중",
+        "date": "2025-04-14 15:10",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092138429"
+    },
+    {
+        "title": "이번엔 '증강현실 안경'에 꽂힌 애플 팀 쿡…제품 개발 매우 열중",
+        "date": "2025-04-14 15:09",
+        "link": "https://n.news.naver.com/mnews/article/015/0005118896?sid=105"
+    },
+    {
+        "title": "[분량재송] 10년 전에 멈춘 XR 경험...이미지 개선이 선제적 해결과제",
+        "date": "2025-04-14 15:08",
+        "link": "https://n.news.naver.com/mnews/article/029/0002947962?sid=105"
+    },
+    {
+        "title": "OLED monitor boom bolsters Samsung, LG despite China push",
+        "date": "2025-04-14 15:00",
+        "link": "https://n.news.naver.com/mnews/article/044/0000268827?sid=104"
+    },
+    {
+        "title": "스마트폰 별도 관세…오락가락 트럼프에 고심 커지는 삼성·애플",
+        "date": "2025-04-14 14:54",
+        "link": "https://n.news.naver.com/mnews/article/421/0008191548?sid=105"
+    },
+    {
+        "title": "롯데카드, 띵샵에 프리미엄 제품 전용관 '엣지' 오픈",
+        "date": "2025-04-14 14:50",
+        "link": "http://www.nongaek.com/news/articleView.html?idxno=90984"
+    },
+    {
+        "title": "삼성디스플레이, 애플 첫 폴더블 아이폰에 독점 공급",
+        "date": "2025-04-14 14:42",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=242325"
+    },
+    {
+        "title": "트럼프 정부 '리쇼어링 관세' 의지 뚜렷, 삼성전자 애플 경쟁 판도에 변...",
+        "date": "2025-04-14 14:40",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=391216"
+    },
+    {
+        "title": "디스플레이협회, 무기발광 디스플레이 사업 추진단 운영",
+        "date": "2025-04-14 14:40",
+        "link": "https://n.news.naver.com/mnews/article/119/0002944877?sid=101"
+    },
+    {
+        "title": "美, 전자제품 관세 물린다…韓 부품사도 타격 우려",
+        "date": "2025-04-14 14:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=264971"
+    },
+    {
+        "title": "롯데카드, 디지로카앱 띵샵에 프리미엄 제품 전용관 '엣지(Edge)' 오픈",
+        "date": "2025-04-14 14:36",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=100624"
+    },
+    {
+        "title": "한숨 돌리나 했는데…아이폰 관세 곧 발표 [테크톡톡]",
+        "date": "2025-04-14 14:33",
+        "link": "https://n.news.naver.com/mnews/article/215/0001205700?sid=101"
+    },
+    {
+        "title": "8년간 45.5억 투입 디스플레이산업협회, 무기발광 사업추진단 설치",
+        "date": "2025-04-14 14:30",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=107780"
+    },
+    {
+        "title": "“이 노래는 뭘까?”… 안드로이드서 더 많이 쓴다는 애플 음악검색 앱...",
+        "date": "2025-04-14 14:29",
+        "link": "https://n.news.naver.com/mnews/article/366/0001069243?sid=105"
+    },
+    {
+        "title": "미국, 스마트폰·노트북 관세 없다…삼성전자에 호재될까",
+        "date": "2025-04-14 14:24",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=646868"
+    },
+    {
+        "title": "“이거에만 관심 있다니까요”...애플CEO 팀쿡이 푹 빠졌다는데",
+        "date": "2025-04-14 14:08",
+        "link": "https://n.news.naver.com/mnews/article/009/0005475859?sid=102"
+    },
+    {
+        "title": "美, 전자제품 관세 물린다…韓 부품사도 타격 우려",
+        "date": "2025-04-14 14:03",
+        "link": "https://n.news.naver.com/mnews/article/003/0013182189?sid=101"
+    },
+    {
+        "title": "LGD, '정철동 리더십' 업고 흑자전환 노린다",
+        "date": "2025-04-14 14:02",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=554394"
+    },
+    {
+        "title": "가격 장벽 넘지 못한 '애플 비전 프로', 몸값 낮춘 차세대 비전 프로 개...",
+        "date": "2025-04-14 13:52",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1799087"
+    },
+    {
+        "title": "OLED 강국 위상 강화…디스플레이산업협회 '무기발광 사업 추진단' 설치",
+        "date": "2025-04-14 13:52",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1659102"
+    },
+    {
+        "title": "마이크로 LED 핵심 기술 국산화 성공 라온텍 주가 방긋...차세대 디스플...",
+        "date": "2025-04-14 13:42",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=336338"
+    },
+    {
+        "title": "디스플레이협회, 미래 먹거리 '무기발광' 경쟁력 확보 나선다...추진단...",
+        "date": "2025-04-14 13:34",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=243256"
+    },
+    {
+        "title": "디스플레이산업협회, 무기발광 사업 추진단 설치…45.5억원 투입",
+        "date": "2025-04-14 13:34",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1203792"
+    },
+    {
+        "title": "애플 비전 프로 차기버전, 맥과 강력한 연결성 제공할듯",
+        "date": "2025-04-14 13:30",
+        "link": "https://www.betanews.net/article/view/beta202504140051"
+    },
+    {
+        "title": "디스플레이協 “무기발광 디스플레이 및 OLED 초격차 R&amp;D 지원”",
+        "date": "2025-04-14 13:24",
+        "link": "https://n.news.naver.com/mnews/article/030/0003303084?sid=105"
+    },
+    {
+        "title": "유티아이, 베트남 공장 확대 승부수… 폴더블폰 시장 대박 노린다",
+        "date": "2025-04-14 13:22",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=336330"
+    },
+    {
+        "title": "디스플레이산업협회, 무기발광 생태계 구축 추진단 가동",
+        "date": "2025-04-14 13:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561404"
+    },
+    {
+        "title": "[더벨][트럼프 제재 나비효과 '레드테크']삼성·LGD, 공장까지 내줬다 '...",
+        "date": "2025-04-14 13:12",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504031948161200107431"
+    },
+    {
+        "title": "애플, 1년새 아이폰 인도 생산 60% 늘려",
+        "date": "2025-04-14 13:12",
+        "link": "https://www.naeil.com/news/read/544714?ref=naver"
+    },
+    {
+        "title": "기술로 증명한 이 회사...애플 폴더블폰에 모니터용 OLED 패널 1위 꿰차",
+        "date": "2025-04-14 13:07",
+        "link": "https://n.news.naver.com/mnews/article/009/0005475819?sid=101"
+    },
+    {
+        "title": "애플은 '비전 프로'를 포기하지 않았다...궁극적 목표는 'AR 안경'",
+        "date": "2025-04-14 12:54",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=138269"
+    },
+    {
+        "title": "디스플레이산업협회, '미래 먹거리' 무기발광 사업 추진단 설치",
+        "date": "2025-04-14 12:00",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025041411231693913"
+    },
+    {
+        "title": "애플, 아이폰17 프로 최종 디자인 확정? 새로운 서드파티 케이스 사진 유...",
+        "date": "2025-04-14 11:54",
+        "link": "https://kbench.com/?q=node/266498"
+    },
+    {
+        "title": "Apple to Launch First Foldable iPhone with Samsung OLED Panels",
+        "date": "2025-04-14 11:46",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=239775"
+    },
+    {
+        "title": "애플 아이폰 17 에어, 드디어 '실사' 유출... 한 손에 쏙 담긴 애플 첫 ...",
+        "date": "2025-04-14 11:42",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1799075"
+    },
+    {
+        "title": "애플, 비전 프로 후속 모델 개발 가속화",
+        "date": "2025-04-14 11:42",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=185625"
+    },
+    {
+        "title": "애플, 비전 프로 후속 모델 개발 가속화",
+        "date": "2025-04-14 11:40",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=795665"
+    },
+    {
+        "title": "디스플레이협회, '무기발광 사업추진단' 설치…미래주도 박차",
+        "date": "2025-04-14 11:40",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2036992"
+    },
+    {
+        "title": "좋다 말았다…트럼프 변덕에 애플·삼성 '울상'",
+        "date": "2025-04-14 11:39",
+        "link": "https://n.news.naver.com/mnews/article/374/0000434935?sid=101"
+    },
+    {
+        "title": "500만원 짜리 화웨이폰이 40만대 팔렸다…삼성 '두번 접는 폰'도 흥행할...",
+        "date": "2025-04-14 11:34",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=264958"
+    },
+    {
+        "title": "애플, 스마트 안경 개발 중…비전프로 2세대도 준비",
+        "date": "2025-04-14 11:30",
+        "link": "https://n.news.naver.com/mnews/article/030/0003303025?sid=105"
+    },
+    {
+        "title": "[트럼프 스트레스] 혼란→안도→혼란 美 관세 之 행보에 스마트폰 ‘...",
+        "date": "2025-04-14 11:29",
+        "link": "https://n.news.naver.com/mnews/article/119/0002944805?sid=105"
+    },
+    {
+        "title": "스마트폰 일단 제외, 한숨 돌린 삼성·애플 [혼돈의 美 관세]",
+        "date": "2025-04-14 11:26",
+        "link": "https://n.news.naver.com/mnews/article/016/0002456854?sid=105"
+    },
+    {
+        "title": "모니터용 OLED 시장 커진다…삼성·LGD가 시장 주도",
+        "date": "2025-04-14 11:25",
+        "link": "https://n.news.naver.com/mnews/article/029/0002947915?sid=101"
+    },
+    {
+        "title": "'미래 먹거리' 무기발광 디스플레이 키운다…협회 추진단 출범",
+        "date": "2025-04-14 11:21",
+        "link": "https://n.news.naver.com/mnews/article/421/0008190957?sid=101"
+    },
+    {
+        "title": "유니씨앤씨, 삼성쇼킹데이 갤럭시북5 프로 블루밍데이즈 LIVE 진행",
+        "date": "2025-04-14 11:18",
+        "link": "https://kbench.com/?q=node/266499"
+    },
+    {
+        "title": "500만원 짜리 화웨이폰이 40만대 팔렸다…삼성 '두번 접는 폰'도 흥행할...",
+        "date": "2025-04-14 11:17",
+        "link": "https://n.news.naver.com/mnews/article/003/0013181776?sid=105"
+    },
+    {
+        "title": "애플, 차세대 ‘비전 프로 2’ 양산 착수…이번에는 성공할까?",
+        "date": "2025-04-14 11:16",
+        "link": "https://n.news.naver.com/mnews/article/123/0002356933?sid=004"
+    },
+    {
+        "title": "게이밍파워, ‘퓨어 화이트 대작전: 뮤지컬 소녀의 마법 모험’ 정식 서...",
+        "date": "2025-04-14 11:14",
+        "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=213176"
+    },
+    {
+        "title": "디스플레이산업협회, 정부와 '무기발광' 시장 선점 나서",
+        "date": "2025-04-14 11:12",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092138400"
+    },
+    {
+        "title": "애플, 상호관세 제외로 한숨 돌렸지만...아이폰17 어쩌나",
+        "date": "2025-04-14 11:10",
+        "link": "https://www.newspim.com/news/view/20250414000238"
+    },
+    {
+        "title": "디스플레이산업협회 '무기발광 사업추진단' 신설, 3500억 차기 디스플레...",
+        "date": "2025-04-14 11:10",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=391173"
+    },
+    {
+        "title": "'폴더블 1위' 삼성디스플레이, '접는 아이폰' 수주할까?",
+        "date": "2025-04-14 11:08",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=264949"
+    },
+    {
+        "title": "삼성 갤럭시 S25, 베타 수준에서 멈춰버린 One UI 7... 애플 정책 따라 하...",
+        "date": "2025-04-14 11:08",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1799074"
+    },
+    {
+        "title": "'미래 기술' 무기발광 디스플레이 R&amp;D 추진단 뜬다",
+        "date": "2025-04-14 11:08",
+        "link": "https://n.news.naver.com/mnews/article/018/0005987441?sid=101"
+    },
+    {
+        "title": "무기발광 생태계 허브 띄운다…OLED 초격차 R&amp;D도 본격화",
+        "date": "2025-04-14 11:03",
+        "link": "https://www.newspim.com/news/view/20250414000409"
+    },
+    {
+        "title": "애플·HP·델, 중국 생산 제품 대미 수출 중지… 중·미 무역전쟁 때문?",
+        "date": "2025-04-14 11:01",
+        "link": "https://n.news.naver.com/mnews/article/417/0001070664?sid=104"
+    },
+    {
+        "title": "삼성과 애플이 주도… 인도 생산 휴대폰 수출액 지난해 33조원 돌파했다",
+        "date": "2025-04-14 10:59",
+        "link": "https://n.news.naver.com/mnews/article/014/0005335431?sid=104"
+    },
+    {
+        "title": "한국디스플레이산업협회, 무기발광 기술 선점 나선다",
+        "date": "2025-04-14 10:59",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=554365"
+    },
+    {
+        "title": "팀 쿡 애플 CEO, AR 안경 개발에 집중… “더 싸고 가벼워”",
+        "date": "2025-04-14 10:56",
+        "link": "https://n.news.naver.com/mnews/article/030/0003303004?sid=104"
+    },
+    {
+        "title": "선점한 삼성전자와 쫓는 애플 AI 목장의 대결투 [IT+]",
+        "date": "2025-04-14 10:54",
+        "link": "https://n.news.naver.com/mnews/article/665/0000004837?sid=105"
+    },
+    {
+        "title": "韓 차세대 디스플레이 R&amp;D 본격화…패권경쟁 대응",
+        "date": "2025-04-14 10:52",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=175003"
+    },
+    {
+        "title": "큐소닉, 삼성 스마트 모니터 M7 네이버 쇼핑라이브 진행",
+        "date": "2025-04-14 10:52",
+        "link": "https://www.cnet.co.kr/view/?no=20250414102944"
+    },
+    {
+        "title": "'폴더블 1위' 삼성디스플레이, '접는 아이폰' 수주할까?",
+        "date": "2025-04-14 10:50",
+        "link": "https://n.news.naver.com/mnews/article/003/0013181550?sid=101"
+    },
+    {
+        "title": "정부-협회, 차세대 디스플레이 생태계 재편 '무기발광사업' 육성 맞손…...",
+        "date": "2025-04-14 10:46",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=224273"
+    },
+    {
+        "title": "롯데카드, 디지로카앱에 프리미엄 제품 전용관 '엣지' 오픈",
+        "date": "2025-04-14 10:46",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=226188"
+    },
+    {
+        "title": "[올댓차이나] 애플·HP·델, 중국 내륙서 제조 PC 대미 수출 중단",
+        "date": "2025-04-14 10:45",
+        "link": "https://n.news.naver.com/mnews/article/003/0013181512?sid=104"
+    },
+    {
+        "title": "컬러웨어, 크레용 스타일 애플 펜슬 프로 선보여",
+        "date": "2025-04-14 10:40",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=185604"
+    },
+    {
+        "title": "컬러웨어, 크레용 스타일 애플 펜슬 프로 선보여",
+        "date": "2025-04-14 10:38",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=795657"
+    },
+    {
+        "title": "롯데카드, 디지로카앱 띵샵에 프리미엄 제품 전용관 '엣지' 오픈",
+        "date": "2025-04-14 10:34",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=98940"
+    },
+    {
+        "title": "좋다 말았네…트럼프 변덕에 애플도 삼성도 '대혼란'",
+        "date": "2025-04-14 10:30",
+        "link": "https://n.news.naver.com/mnews/article/015/0005118768?sid=101"
+    },
+    {
+        "title": "큐소닉, 삼성 스마트 모니터 M7 43인치 흑백대전 라이브 진행",
+        "date": "2025-04-14 10:28",
+        "link": "https://kbench.com/?q=node/266491"
+    },
+    {
+        "title": "삼성디스플레이, 애플 첫 폴더블 아이폰 OLED 패널 '전량 수주'",
+        "date": "2025-04-14 10:24",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=82901"
+    },
+    {
+        "title": "삼성·LGD가 주도하는 '모니터용 OLED' 시장…올해 첫 10억달러 넘길 듯",
+        "date": "2025-04-14 10:20",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=646800"
+    },
+    {
+        "title": "다른 것엔 관심 없어…애플 '아이폰' 이을 차세대 제품 'AR 안경' 개발...",
+        "date": "2025-04-14 10:16",
+        "link": "https://n.news.naver.com/mnews/article/277/0005577366?sid=104"
+    },
+    {
+        "title": "모니터용 OLED 시장 커진다 … 삼성·LG, 혈투 예고",
+        "date": "2025-04-14 10:14",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/04/14/2025041400092.html"
+    },
+    {
+        "title": "삼성 '갤럭시 M56' 티저 공개… 4월 17일 정식 출시",
+        "date": "2025-04-14 10:14",
+        "link": "https://kbench.com/?q=node/266481"
+    },
+    {
+        "title": "큐소닉, 삼성 스마트 모니터 M7 43인치 흑백대전 라이브 진행",
+        "date": "2025-04-14 10:14",
+        "link": "https://www.betanews.net/article/view/beta202504140014"
+    },
+    {
+        "title": "애플, AR 글래스 개발 총력…메타와 경쟁 본격화",
+        "date": "2025-04-14 10:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561369"
+    },
+    {
+        "title": "컬러웨어, 크레용 스타일 애플 펜슬 출시…7가지 색상 옵션",
+        "date": "2025-04-14 10:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561351"
+    },
+    {
+        "title": "비전 프로 흥행 참패한 애플…더 싸고 가벼운 후속작 만든다",
+        "date": "2025-04-14 09:54",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=264915"
+    },
+    {
+        "title": "아이패드, 맥OS 닮아간다…애플, 아이패드OS 19 대대적 개편 예고",
+        "date": "2025-04-14 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561365"
+    },
+    {
+        "title": "롯데카드, 디지로카앱 띵샵에 프리미엄 제품 전용관 ‘엣지' 오픈",
+        "date": "2025-04-14 09:52",
+        "link": "https://www.viva100.com/article/20250414500387"
+    },
+    {
+        "title": "삼성전자, 상호 관세 면제? 부과?…오락가락 트럼프에 '혼란'",
+        "date": "2025-04-14 09:52",
+        "link": "http://theviewers.co.kr/View.aspx?No=3612374"
+    },
+    {
+        "title": "애플, 차세대 비전 프로 개발 박차…더 가볍고 저렴하게",
+        "date": "2025-04-14 09:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561332"
+    },
+    {
+        "title": "비전 프로 흥행 참패한 애플…더 싸고 가벼운 후속작 만든다",
+        "date": "2025-04-14 09:46",
+        "link": "https://n.news.naver.com/mnews/article/003/0013181224?sid=105"
+    },
+    {
+        "title": "최익준 올고른 대표, 고창서 기후변화 대응작목 애플망고 소개",
+        "date": "2025-04-14 09:44",
+        "link": "https://www.sentv.co.kr/article/view/sentv202504140038"
+    },
+    {
+        "title": "애플 차기 ‘iOS19’…맥북과 더 가까이",
+        "date": "2025-04-14 09:40",
+        "link": "https://n.news.naver.com/mnews/article/138/0002194550?sid=105"
+    },
+    {
+        "title": "스마트폰은 상호 관세 제외 한숨 돌린 삼성, 애플…불안감은 여전",
+        "date": "2025-04-14 09:35",
+        "link": "https://n.news.naver.com/mnews/article/016/0002456649?sid=105"
+    },
+    {
+        "title": "팀 쿡 애플 CEO, 증강현실 안경 제품 개발 매우 열중",
+        "date": "2025-04-14 09:34",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1203610"
+    },
+    {
+        "title": "AMD, 젠4 기반 '라이젠 8000 HX 시리즈' 출시로 모바일 게이밍 포트폴리...",
+        "date": "2025-04-14 09:30",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=53941"
+    },
+    {
+        "title": "LG 스타일러를 월 2만원에…롯데카드, 최대 ‘50개월 무이자’",
+        "date": "2025-04-14 09:29",
+        "link": "https://n.news.naver.com/mnews/article/016/0002456638?sid=101"
+    },
+    {
+        "title": "애플, 맥과 연결되는 비전 프로 개발 중",
+        "date": "2025-04-14 09:17",
+        "link": "https://n.news.naver.com/mnews/article/009/0005475664?sid=105"
+    },
+    {
+        "title": "스마트폰·노트북 관세 免했다 [디지털포스트 모닝픽]",
+        "date": "2025-04-14 09:12",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=53944"
+    },
+    {
+        "title": "삼성·LG, OLED 모니터 시장서 초격차 확대…시장 규모 10억달러 돌파하...",
+        "date": "2025-04-14 09:10",
+        "link": "https://sateconomy.co.kr/news/view/1065571158948155"
+    },
+    {
+        "title": "애플, 비전 프로 부진 딛고 '경량·저가형'·'기업용' 모델로 반격",
+        "date": "2025-04-14 09:08",
+        "link": "https://www.tokenpost.kr/news/tech/237632"
+    },
+    {
+        "title": "애플, 아이폰 인도 생산량 60% ↑…인도 비중 20%로 확대",
+        "date": "2025-04-14 09:00",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=816208"
+    },
+    {
+        "title": "“갤럭시 S22는 한 달 더 대기” 삼성, ‘원UI 7.0’ 공개[모닝폰]",
+        "date": "2025-04-14 08:55",
+        "link": "https://n.news.naver.com/mnews/article/018/0005987197?sid=105"
+    },
+    {
+        "title": "[미국주식] 관세전쟁 속, 눈물겨운 애플의 사투",
+        "date": "2025-04-14 08:48",
+        "link": "https://www.itooza.com/common/iview.php?no=2025041408450256647"
+    },
+    {
+        "title": "애플, 새 비전 프로 개발 중…가볍고 저렴하다",
+        "date": "2025-04-14 08:28",
+        "link": "https://n.news.naver.com/mnews/article/092/0002370428?sid=105"
+    },
+    {
+        "title": "삼성D가 이끈 '모니터용 OLED' 시장, 올해 첫 10억달러 넘길 듯",
+        "date": "2025-04-14 08:16",
+        "link": "https://n.news.naver.com/mnews/article/277/0005577208?sid=101"
+    },
+    {
+        "title": "모니터 OLED 시장, 올해 10억달러 돌파 전망… 삼성·LG '초격차' 유지",
+        "date": "2025-04-14 08:16",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1659046"
+    },
+    {
+        "title": "비전프로 쓴맛 본 애플, 스마트글래스 '올인'? [윤민혁의 실리콘밸리Vie...",
+        "date": "2025-04-14 08:12",
+        "link": "https://n.news.naver.com/mnews/article/011/0004473643?sid=105"
+    },
+    {
+        "title": "블룸버그 팀 쿡 애플 CEO, 증강현실 안경 제품 개발에 매우 열중",
+        "date": "2025-04-14 08:12",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=816187"
+    },
+    {
+        "title": "[IT썰] 가격 낮추고 가볍다...애플 '비전 프로 2세대' 개발 박차",
+        "date": "2025-04-14 08:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005179835?sid=105"
+    },
+    {
+        "title": "[테크인사이드] 속 빈 강정?...계속되는 애플의 AI 딜레마",
+        "date": "2025-04-14 07:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561307"
+    },
+    {
+        "title": "아이폰 17 프로, 카메라 디자인 대변화 예고…왜 애플은 전통을 깼을까...",
+        "date": "2025-04-14 07:18",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=530036"
+    },
+    {
+        "title": "LGD, 관측 깨고 '깜짝 실적' 청신호…'정철동 매직' 빛보나",
+        "date": "2025-04-14 07:10",
+        "link": "https://n.news.naver.com/mnews/article/421/0008190096?sid=101"
+    },
+    {
+        "title": "삼성전자, 튼튼한 스마트폰·탭 美 FCC 인증",
+        "date": "2025-04-14 07:02",
+        "link": "https://dealsite.co.kr/articles/139732"
+    }
+]
