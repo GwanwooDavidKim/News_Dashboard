@@ -1,6 +1,276 @@
 [
     {
-        "title": "애플, 美관세 발표 직전 인도서 '역대 최대 규모' 아이폰 공수",
+        "title": "경기침체·불확실성 확대에도 1분기 글로벌 스마트폰 시장 3% 성장",
+        "date": "2025-04-16 13:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=165698"
+    },
+    {
+        "title": "유니씨앤씨, 4월 16일 오후 6시 삼성전자 갤럭시북5 프로 쇼킹데이 LIVE ...",
+        "date": "2025-04-16 12:48",
+        "link": "https://kbench.com/?q=node/266594"
+    },
+    {
+        "title": "‘폴더블 UTG 글로벌 선도 기업’ 도우인시스, 코스닥 상장 예심 통과",
+        "date": "2025-04-16 12:42",
+        "link": "https://n.news.naver.com/mnews/article/018/0005989196?sid=101"
+    },
+    {
+        "title": "애플, 일반 테스터용 iOS 18.5 공개 베타 테스트 시작",
+        "date": "2025-04-16 12:40",
+        "link": "https://kbench.com/?q=node/266590"
+    },
+    {
+        "title": "애플, 관세 앞두고 지난달 인도서 역대 최대 규모 아이폰 공수",
+        "date": "2025-04-16 12:30",
+        "link": "https://n.news.naver.com/mnews/article/422/0000731586?sid=104"
+    },
+    {
+        "title": "삼성전자 노태문 사장 경영메시지 키워드...'신사업발굴과 실행력'",
+        "date": "2025-04-16 12:04",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=689927"
+    },
+    {
+        "title": "관세·AI 확산에 스마트폰시장 요동… 中, 틈새 노린다",
+        "date": "2025-04-16 11:48",
+        "link": "https://n.news.naver.com/mnews/article/021/0002703502?sid=105"
+    },
+    {
+        "title": "애플, M4 칩 탑재 '맥북 에어' 16일부터 국내 판매 시작",
+        "date": "2025-04-16 11:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561945"
+    },
+    {
+        "title": "삼성 엑시노스의 굴욕…이번엔 자사 폴더블폰 탑재될까?",
+        "date": "2025-04-16 11:34",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=265216"
+    },
+    {
+        "title": "폴더블 아이폰, '안보이는 카메라' 첫 도입할 듯",
+        "date": "2025-04-16 11:30",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=265212"
+    },
+    {
+        "title": "삼성 엑시노스의 굴욕…이번엔 자사 폴더블폰 탑재될까?",
+        "date": "2025-04-16 11:22",
+        "link": "https://n.news.naver.com/mnews/article/003/0013186724?sid=101"
+    },
+    {
+        "title": "폴더블 아이폰, '안보이는 카메라' 첫 도입할 듯",
+        "date": "2025-04-16 11:15",
+        "link": "https://n.news.naver.com/mnews/article/003/0013186707?sid=105"
+    },
+    {
+        "title": "서울 지하철 노선도 개편…서울알림체·OLED방식 적용",
+        "date": "2025-04-16 11:15",
+        "link": "https://n.news.naver.com/mnews/article/003/0013186705?sid=102"
+    },
+    {
+        "title": "트럼프 관세 피하자… 애플, 인도서 2조8천억원 규모 아이폰 공수",
+        "date": "2025-04-16 11:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092138566"
+    },
+    {
+        "title": "소니 손 뗀 8K 시장 … 삼성, 프리미엄 TV 고집하는 까닭",
+        "date": "2025-04-16 11:00",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/04/16/2025041600155.html"
+    },
+    {
+        "title": "화물 전세기도 투입...인도서 '역대 최대' 아이폰 공수한 애플 [지금이...",
+        "date": "2025-04-16 10:54",
+        "link": "https://n.news.naver.com/mnews/article/052/0002180844?sid=104"
+    },
+    {
+        "title": "폴더블 아이폰, 예상가 최대 328만원…2026년 출시 예정",
+        "date": "2025-04-16 10:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561911"
+    },
+    {
+        "title": "아이폰16e 출시 효과? 애플, 1분기 글로벌 판매 사상 첫 1위",
+        "date": "2025-04-16 10:34",
+        "link": "https://kbench.com/?q=node/266587"
+    },
+    {
+        "title": "애플, 엔터프라이즈 영업 총괄 퇴사⋯ 글로벌 세일즈 조직 개편 예고",
+        "date": "2025-04-16 10:32",
+        "link": "https://www.viva100.com/article/20250416500507"
+    },
+    {
+        "title": "애플이 AI 개선과 개인정보 보호를 동시에 실현하는 방법",
+        "date": "2025-04-16 10:26",
+        "link": "https://www.itworld.co.kr/article/3963266/애플이-ai-개선과-개인정보-보호를-동시에-실현하는-방.html"
+    },
+    {
+        "title": "폴더블폰 UTG 양산 성공 도우인시스, 코스닥 상장 예심 통과",
+        "date": "2025-04-16 10:26",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=683906"
+    },
+    {
+        "title": "도우인시스, 코스닥 상장 예심 통과",
+        "date": "2025-04-16 10:09",
+        "link": "https://www.newspim.com/news/view/20250416000231"
+    },
+    {
+        "title": "시냅틱스, 폴더블 OLED 디스플레이 위한 터치 컨트롤러 공개",
+        "date": "2025-04-16 10:08",
+        "link": "https://www.hellot.net/news/article.html?no=100332"
+    },
+    {
+        "title": "'관세폭탄' 대비…애플, 인도서 '아이폰' 사상 최대 물량 공수",
+        "date": "2025-04-16 10:04",
+        "link": "https://n.news.naver.com/mnews/article/629/0000382338?sid=101"
+    },
+    {
+        "title": "애플산부인과 검단점, 4월 30일 개원…여성 건강 주치의 역할 기대",
+        "date": "2025-04-16 10:00",
+        "link": "http://www.medisobizanews.com/news/articleView.html?idxno=124825"
+    },
+    {
+        "title": "애플, 트럼프 관세 앞두고 지난달 인도서 2조8천억원어치 아이폰 공수",
+        "date": "2025-04-16 09:50",
+        "link": "https://n.news.naver.com/mnews/article/422/0000731524?sid=104"
+    },
+    {
+        "title": "'맥 미니' 애플 빈티지 제품군에 추가",
+        "date": "2025-04-16 09:48",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=185954"
+    },
+    {
+        "title": "'맥 미니' 애플 빈티지 제품군에 추가",
+        "date": "2025-04-16 09:48",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=795955"
+    },
+    {
+        "title": "크로스오버존, 게이밍 모니터 이벤트 진행",
+        "date": "2025-04-16 09:48",
+        "link": "https://kbench.com/?q=node/266580"
+    },
+    {
+        "title": "'폴더블 UTG' 선도기업 도우인시스, 코스닥 상장 예심 통과",
+        "date": "2025-04-16 09:46",
+        "link": "https://n.news.naver.com/mnews/article/092/0002370795?sid=105"
+    },
+    {
+        "title": "'중국산 대신 인도산'…애플, 전세기 동원해 美에 아이폰 날랐다",
+        "date": "2025-04-16 09:37",
+        "link": "https://n.news.naver.com/mnews/article/421/0008195255?sid=104"
+    },
+    {
+        "title": "전세기까지 띄워 실어 나르더니…아이폰, 갤럭시와 '대혼전'",
+        "date": "2025-04-16 09:35",
+        "link": "https://n.news.naver.com/mnews/article/015/0005119849?sid=105"
+    },
+    {
+        "title": "아이폰 6s·인텔 맥 미니, 애플 빈티지 제품군 추가…지원 종료 수순",
+        "date": "2025-04-16 09:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561833"
+    },
+    {
+        "title": "폴더블 UTG 글로벌 탑티어 도우인시스, 코스닥 상장 예심 통과",
+        "date": "2025-04-16 09:26",
+        "link": "https://www.the-stock.kr/news/articleView.html?idxno=30411"
+    },
+    {
+        "title": "1분기 스마트폰 시장, 1% 성장··· 3분기 연속 둔화",
+        "date": "2025-04-16 09:26",
+        "link": "https://www.cio.com/article/3963230/1분기-스마트폰-시장-1-성장···-3분기-연속-둔화.html"
+    },
+    {
+        "title": "갤S25 출시됐는데도…애플, 1Q 판매량 삼성 첫 추월",
+        "date": "2025-04-16 09:12",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=265123"
+    },
+    {
+        "title": "‘관세 폭탄 피하자’ 애플, 지난달 인도서 역대 최다 아이폰 공수",
+        "date": "2025-04-16 09:12",
+        "link": "https://n.news.naver.com/mnews/article/032/0003363614?sid=104"
+    },
+    {
+        "title": "폴더블 아이폰, 300만원 상회…갤Z폴드6보다 50만원 비싸",
+        "date": "2025-04-16 09:02",
+        "link": "https://n.news.naver.com/mnews/article/092/0002370785?sid=105"
+    },
+    {
+        "title": "연말 출시 예정 애플 폴더블 아이폰에 삼성 OLED 스크린 단독 공급",
+        "date": "2025-04-16 08:56",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=530133"
+    },
+    {
+        "title": "요동치는 스마트폰 시장…애플, 삼성 제치고 첫 1위",
+        "date": "2025-04-16 08:56",
+        "link": "https://n.news.naver.com/mnews/article/014/0005336522?sid=105"
+    },
+    {
+        "title": "애플, 사용자 데이터로 AI 성능 개선…개인정보 보호까지 잡는다",
+        "date": "2025-04-16 08:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=561821"
+    },
+    {
+        "title": "애플 첫 폴더블 아이폰 출시 임박했나…가격 290만원 이상",
+        "date": "2025-04-16 08:43",
+        "link": "https://n.news.naver.com/mnews/article/138/0002194725?sid=105"
+    },
+    {
+        "title": "KH바텍, 스마트폰 넘어 미래차 부품까지...4분기 전장 사업 기대",
+        "date": "2025-04-16 08:16",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=336835"
+    },
+    {
+        "title": "애플워치11, 혈압 측정 기능 들어갈듯...카메라는 아직[모닝폰]",
+        "date": "2025-04-16 08:00",
+        "link": "https://n.news.naver.com/mnews/article/018/0005988837?sid=105"
+    },
+    {
+        "title": "악화일로 영풍그룹…오너가 경영 책임론 대두",
+        "date": "2025-04-16 08:00",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025041521443277136"
+    },
+    {
+        "title": "애플, 관세 부과 앞두고 인도서 전세기 6대 아이폰 공수",
+        "date": "2025-04-16 07:28",
+        "link": "https://n.news.naver.com/mnews/article/660/0000083460?sid=104"
+    },
+    {
+        "title": "애플, 1분기 글로벌 스마트폰 시장 1위 등극...1등 공신은 단연 아이폰1...",
+        "date": "2025-04-16 07:16",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=530122"
+    },
+    {
+        "title": "애플, 3월 인도서 20억달러어치 아이폰 공수…역대 최대",
+        "date": "2025-04-16 07:10",
+        "link": "https://n.news.naver.com/mnews/article/018/0005988814?sid=101"
+    },
+    {
+        "title": "군인·가상자산거래소·애플페이 금융권이 목 매는 이유",
+        "date": "2025-04-16 07:10",
+        "link": "https://n.news.naver.com/mnews/article/648/0000035358?sid=101"
+    },
+    {
+        "title": "애플, 지난달 인도서 2조8000억원어치 아이폰 공수…역대 최대",
+        "date": "2025-04-16 06:44",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=816563"
+    },
+    {
+        "title": "애플, 관세 피하려 인도서 아이폰 사상 최대 물량 공수",
+        "date": "2025-04-16 06:42",
+        "link": "https://n.news.naver.com/mnews/article/003/0013185927?sid=104"
+    },
+    {
+        "title": "애플, 전세기 6대 투입해 인도서 역대 최대 규모 아이폰 공수…왜?",
+        "date": "2025-04-16 06:19",
+        "link": "https://n.news.naver.com/mnews/article/009/0005477007?sid=101"
+    },
+    {
+        "title": "차세대 기술 '무기발광 디스플레이'···삼성D, '퀀텀닷' 기술에 미래 ...",
+        "date": "2025-04-16 06:10",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=262177"
+    },
+    {
+        "title": "갤S25 출시됐는데도…애플, 1Q 판매량 삼성 첫 추월",
+        "date": "2025-04-16 06:01",
+        "link": "https://n.news.naver.com/mnews/article/003/0013185915?sid=105"
+    },
+    {
+        "title": "애플, 전세기 6대 투입해 인도서 2조8천억 아이폰 공수 왜?",
         "date": "2025-04-16 04:10",
         "link": "https://n.news.naver.com/mnews/article/374/0000435292?sid=101"
     },
@@ -135,11 +405,6 @@
         "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=28621"
     },
     {
-        "title": "삼성 갤럭시, 불안불안한 ‘1위’…초슬림 ‘엣지’, 구원투수 될까",
-        "date": "2025-04-15 17:12",
-        "link": "https://www.ceoscoredaily.com/page/view/2025041516563742514"
-    },
-    {
         "title": "영풍전자마저…장형진 오너家, 줄줄이 어닝쇼크 '경영능력 빨간불'",
         "date": "2025-04-15 17:10",
         "link": "https://www.apnews.kr/news/articleView.html?idxno=3033778"
@@ -148,11 +413,6 @@
         "title": "영풍전자 2년 만에 매출 7202억→1843억 급락...장 씨 일가의 영풍‧코리...",
         "date": "2025-04-15 17:00",
         "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=730500"
-    },
-    {
-        "title": "[2025 과학의 날] 위기를 기회로, 한국 '기술 자립' 이끄는 화학연 코팅...",
-        "date": "2025-04-15 16:58",
-        "link": "https://www.joongdo.co.kr/web/view.php?key=20250415010005206"
     },
     {
         "title": "애플 아이폰 '충성고객 수요'도 불안, 미국 관세 부담에도 가격 인상에...",
@@ -283,6 +543,11 @@
         "title": "티로보틱스, 'AMR에 AI 탑재' 휴머노이드 로봇 개발 로드맵 공개",
         "date": "2025-04-15 14:52",
         "link": "https://n.news.naver.com/mnews/article/008/0005180791?sid=101"
+    },
+    {
+        "title": "[더벨][i-point]티로보틱스, AI 로드맵 공유…AMR·휴머노이드 접목",
+        "date": "2025-04-15 14:48",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504151432235040106640"
     },
     {
         "title": "애플 사용자 데이터로 AI 성능 개선, 개인정보 보호 위해 '합성 데이터'...",
@@ -630,38 +895,8 @@
         "link": "https://www.topstarnews.net/news/articleView.html?idxno=15638342"
     },
     {
-        "title": "전자제품 상호관세 면제에 동반 강세…애플 시총 3조달러 회복 [뉴욕증...",
-        "date": "2025-04-15 07:20",
-        "link": "https://n.news.naver.com/mnews/article/015/0005119211?sid=101"
-    },
-    {
-        "title": "시리야, 로보락 켜줘…中 가전, 애플·삼성·LG '생태계'에 도전장",
-        "date": "2025-04-15 07:15",
-        "link": "https://n.news.naver.com/mnews/article/421/0008192501?sid=101"
-    },
-    {
         "title": "삼성전자, '엑시노스2500' 놓고 복잡해진 셈법",
         "date": "2025-04-15 07:14",
         "link": "https://dealsite.co.kr/articles/139846"
-    },
-    {
-        "title": "애플, 1분기 아이폰 출하량 10% 증…주가 2%↑, 200달러 회복",
-        "date": "2025-04-15 07:06",
-        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=816404"
-    },
-    {
-        "title": "애플, 삼성 제치고 1분기 글로벌 스마트폰 판매 사상 첫 1위 [모닝폰]",
-        "date": "2025-04-15 07:04",
-        "link": "https://n.news.naver.com/mnews/article/018/0005987948?sid=105"
-    },
-    {
-        "title": "[4월14일] 일주일 내내 '사상 최악'...애플 수난 시대",
-        "date": "2025-04-15 07:00",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=169600"
-    },
-    {
-        "title": "美 소비자, ‘500만원짜리 아이폰’ 살 위기 일단 넘겼다?…애플 ‘시총...",
-        "date": "2025-04-15 07:00",
-        "link": "https://n.news.naver.com/mnews/article/016/0002457143?sid=101"
     }
 ]
