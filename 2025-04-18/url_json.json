@@ -1,5 +1,135 @@
 [
     {
+        "title": "애플, 美·中 상호관세 영향 못 피할 듯... TSMC 2나노 칩 탑재한 '아이...",
+        "date": "2025-04-18 11:26",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1799274"
+    },
+    {
+        "title": "우리집 TV가 퀀텀닷 없는 QLED?…美 언론, 中TV업체 허위광고 소송 보...",
+        "date": "2025-04-18 11:21",
+        "link": "https://n.news.naver.com/mnews/article/011/0004475637?sid=101"
+    },
+    {
+        "title": "20살 맞는 아이폰, 풀스크린 장착한다",
+        "date": "2025-04-18 11:16",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092138730"
+    },
+    {
+        "title": "모토로라 프리미엄 폴더블폰 '레이저 60 울트라' 전체 사양 유출",
+        "date": "2025-04-18 11:06",
+        "link": "https://kbench.com/?q=node/266673"
+    },
+    {
+        "title": "라이크벨, 세븐틴 조슈아 '폴더블 포토' 증정 이벤트 21일 진행",
+        "date": "2025-04-18 11:04",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=636497"
+    },
+    {
+        "title": "비전 프로 앱 개발에 시리를 쓴다고?…시대 앞서나간 애플",
+        "date": "2025-04-18 10:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=562326"
+    },
+    {
+        "title": "LG디스플레이, OLED 고도화·비용 절감으로 흑자전환 기대<신한투자證...",
+        "date": "2025-04-18 10:46",
+        "link": "https://www.news2day.co.kr/article/20250418500144"
+    },
+    {
+        "title": "애플의 '관세 피난처'로 부상하는 '브라질'…아이폰 16e 생산",
+        "date": "2025-04-18 10:43",
+        "link": "https://n.news.naver.com/mnews/article/138/0002194901?sid=105"
+    },
+    {
+        "title": "애플, 브라질서 아이폰16e 생산 중...탈중국 속도",
+        "date": "2025-04-18 10:41",
+        "link": "https://n.news.naver.com/mnews/article/092/0002371151?sid=105"
+    },
+    {
+        "title": "애플, 환경 성과 보고서 발표 “2015년 대비 온실가스 60% 감축”",
+        "date": "2025-04-18 10:40",
+        "link": "https://www.cio.com/article/3965079/애플-환경-성과-보고서-발표-2015년-대비-온실가스-60-감축.html"
+    },
+    {
+        "title": "iOS 생태계 노린 제로데이 2건 발견…애플 기기 업데이트 필요",
+        "date": "2025-04-18 10:36",
+        "link": "https://www.itworld.co.kr/article/3965071/ios-생태계-노린-제로데이-2건-발견-애플-기기-업데이트.html"
+    },
+    {
+        "title": "라이크벨, 세븐틴 조슈아 ‘폴더블 포토’ 증정 프로모션 진행",
+        "date": "2025-04-18 10:20",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=20250418101536198446a9e4dd7f_30"
+    },
+    {
+        "title": "삼성전자 6년 연속 게이밍 모니터 글로벌 1위",
+        "date": "2025-04-18 10:18",
+        "link": "http://www.globalepic.co.kr/view.php?ud=2025041709175244725ed985c7c5_29"
+    },
+    {
+        "title": "라이크벨, 세븐틴 조슈아 ‘폴더블 포토’ 증정 프로모션 진행",
+        "date": "2025-04-18 10:14",
+        "link": "https://www.fashionbiz.co.kr/article/215544"
+    },
+    {
+        "title": "라이크벨, 세븐틴 조슈아 '폴더블 포토' 증정 프로모션 진행",
+        "date": "2025-04-18 10:12",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=211879"
+    },
+    {
+        "title": "갤럭시 A56보다 더 얇고 가벼운 '갤럭시 M56' 공식 발표.. 가격 41만원",
+        "date": "2025-04-18 10:12",
+        "link": "https://kbench.com/?q=node/266667"
+    },
+    {
+        "title": "트럼프 관세 폭탄 피한 애플…팀 쿡의 '밑작업' 통했나",
+        "date": "2025-04-18 09:29",
+        "link": "https://n.news.naver.com/mnews/article/003/0013191471?sid=105"
+    },
+    {
+        "title": "도우인시스 상장 ‘초읽기’…최대주주 M&amp;A 행보에도 관심",
+        "date": "2025-04-18 09:22",
+        "link": "https://n.news.naver.com/mnews/article/015/0005120861?sid=101"
+    },
+    {
+        "title": "애플 첫 폴더블폰 '아이폰 폴드', 디스플레이 사양 유출",
+        "date": "2025-04-18 09:04",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=530222"
+    },
+    {
+        "title": "김택완 KOSSA 회장 오픈소스, 쓰는 것 넘어 '참여'해야 한국 SW 경쟁력 ...",
+        "date": "2025-04-18 09:00",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=201392"
+    },
+    {
+        "title": "삼성전자, 6년 연속 게이밍 모니터 글로벌 1위 달성",
+        "date": "2025-04-18 08:54",
+        "link": "https://www.sejungilbo.com/news/articleView.html?idxno=52794"
+    },
+    {
+        "title": "QLED TV에 QLED 기술 없다…뿔난 美소비자들, 中 기업들에 집단소송",
+        "date": "2025-04-18 08:28",
+        "link": "https://n.news.naver.com/mnews/article/277/0005579890?sid=101"
+    },
+    {
+        "title": "[더벨]삼성디스플레이, '7세대 폴더블폰' 패널 양산 돌입",
+        "date": "2025-04-18 08:12",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504162329253040101110"
+    },
+    {
+        "title": "애플을 구했다…팀 쿡 '조용한 협상력'에 시장도 환호 [종목+]",
+        "date": "2025-04-18 07:07",
+        "link": "https://n.news.naver.com/mnews/article/015/0005120809?sid=101"
+    },
+    {
+        "title": "M-7 중 애플만 1.39% 상승, 다시 시총 3조달러 근접",
+        "date": "2025-04-18 06:43",
+        "link": "https://n.news.naver.com/mnews/article/421/0008200261?sid=104"
+    },
+    {
+        "title": "삼성, 스마트폰 출하량 글로벌 1위 탈환",
+        "date": "2025-04-18 06:02",
+        "link": "https://n.news.naver.com/mnews/article/022/0004028730?sid=101"
+    },
+    {
         "title": "Korea's Display Industry Grows by 13.3%, But Faces Market Share Pressure ...",
         "date": "2025-04-18 00:06",
         "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=240195"
@@ -1010,6 +1140,11 @@
         "link": "https://n.news.naver.com/mnews/article/030/0003304217?sid=105"
     },
     {
+        "title": "삼성전자, 게이밍 모니터 6년 연속 글로벌 1위",
+        "date": "2025-04-17 09:46",
+        "link": "http://www.breaknews.com/1109907"
+    },
+    {
         "title": "최고의 몰입감 … 삼성 '게이밍모니터' 6년 연속 글로벌 1위",
         "date": "2025-04-17 09:46",
         "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54007"
@@ -1017,12 +1152,12 @@
     {
         "title": "삼성전자, 글로벌 게이밍 모니터 시장 6년 연속 1위",
         "date": "2025-04-17 09:44",
-        "link": "https://www.jemin.com/news/articleView.html?idxno=796121"
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=186150"
     },
     {
         "title": "삼성전자, 글로벌 게이밍 모니터 시장 6년 연속 1위",
         "date": "2025-04-17 09:44",
-        "link": "https://www.tfmedia.co.kr/news/article.html?no=186150"
+        "link": "https://www.jemin.com/news/articleView.html?idxno=796121"
     },
     {
         "title": "삼성전자, 게이밍 모니터 시장서 6년 연속 글로벌 1위",
@@ -1115,14 +1250,14 @@
         "link": "http://www.newslock.co.kr/news/articleView.html?idxno=107582"
     },
     {
-        "title": "삼성전자, 6년 연속 게이밍 모니터 글로벌 1위 달성",
-        "date": "2025-04-17 09:28",
-        "link": "https://www.eroun.net/news/articleView.html?idxno=55569"
-    },
-    {
         "title": "삼성전자, 글로벌 게이밍 모니터 '6년 연속' 1위",
         "date": "2025-04-17 09:28",
         "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2038963"
+    },
+    {
+        "title": "삼성전자, 6년 연속 게이밍 모니터 글로벌 1위 달성",
+        "date": "2025-04-17 09:28",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=55569"
     },
     {
         "title": "삼성전자, 6년 연속 게이밍 모니터 글로벌 1위···북미서도 역대 최고...",
