@@ -1,1 +1,792 @@
-
+[
+    {
+        "title": "원하는 스크린 직접 선택…삼성 ‘무빙스타일’로 TV급 화질을 어디서나...",
+        "date": "2025-04-30 05:00",
+        "link": "https://www.etoday.co.kr/news/view/2466220"
+    },
+    {
+        "title": "[초점] 애플 투자자들, 아이폰 판매 둔화 속 관세·AI 전략에 우려 확산",
+        "date": "2025-04-30 01:02",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025042921465879609a1f309431_1/article.html"
+    },
+    {
+        "title": "[야식 뭐 먹지?] 풍미 그대로 담은 잠바주스 '리얼 애플망고 스무디'",
+        "date": "2025-04-29 22:36",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=694074"
+    },
+    {
+        "title": "앱코, 마그네슘 합금 바디의 초경량 게이밍 마우스 ‘MG10A’ 공개",
+        "date": "2025-04-29 22:04",
+        "link": "https://www.betanews.net/article/view/beta202504290116"
+    },
+    {
+        "title": "'보급형폰 경쟁' 가열…삼성 '저렴한 폴더블폰'·애플 '아이폰 17e' 출시...",
+        "date": "2025-04-29 21:00",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=794015"
+    },
+    {
+        "title": "지난해 차량용 OLED 패널 출하량 2배 '껑충' … 올해도 성장 지속",
+        "date": "2025-04-29 20:18",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=67607"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 선보여",
+        "date": "2025-04-29 19:40",
+        "link": "http://www.lawissue.co.kr/view.php?ud=202504291936029209204ead0791_12"
+    },
+    {
+        "title": "앱코, 마그네슘 합금 바디의 초경량 게이밍 마우스 ‘MG10A’ 공개",
+        "date": "2025-04-29 19:20",
+        "link": "https://kbench.com/?q=node/267032"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 19:00",
+        "link": "https://mdtoday.co.kr/news/view/1065594484228857"
+    },
+    {
+        "title": "올해 차량 OLED 출하량 19% 상승 유비리서치",
+        "date": "2025-04-29 18:26",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=35510"
+    },
+    {
+        "title": "애플, 中시장점유율 1위서 5위로 뚝",
+        "date": "2025-04-29 18:01",
+        "link": "https://n.news.naver.com/mnews/article/009/0005484843?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 새 BI 'QD-OLED' 브랜드 강화",
+        "date": "2025-04-29 17:41",
+        "link": "https://n.news.naver.com/mnews/article/009/0005484778?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 'BI' 공개",
+        "date": "2025-04-29 17:36",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=35507"
+    },
+    {
+        "title": "'SKT 엑소더스'에 보조금 대란 조짐…LGU+도 '공짜 갤S25' 던졌다",
+        "date": "2025-04-29 17:33",
+        "link": "https://n.news.naver.com/mnews/article/003/0013213994?sid=105"
+    },
+    {
+        "title": "[리뷰] 전문가용 모니터에 가성비·성능·품질까지 아낌없이 다 담은 에...",
+        "date": "2025-04-29 16:54",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1799627"
+    },
+    {
+        "title": "New brand identity for QD-OLED tech",
+        "date": "2025-04-29 16:26",
+        "link": "https://www.koreatimes.co.kr/path/A2025042915470003031"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 브랜딩 강화…BI 상표 출원한다",
+        "date": "2025-04-29 16:18",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=245950"
+    },
+    {
+        "title": "애플, 아이폰 20주년 기념작 '폴더블 아이폰' 2027년 출시",
+        "date": "2025-04-29 16:12",
+        "link": "https://kbench.com/?q=node/267025"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 선봬",
+        "date": "2025-04-29 16:08",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=145517"
+    },
+    {
+        "title": "[AT 산업 단신] 삼성전자·LG전자·삼성디스플레이·LS전선",
+        "date": "2025-04-29 16:00",
+        "link": "https://www.asiatime.co.kr/article/20250429500379"
+    },
+    {
+        "title": "삼성디스플레이, 고유의 BI로 QD-OLED 마케팅에 차별화",
+        "date": "2025-04-29 15:58",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=89204"
+    },
+    {
+        "title": "인천국제공항, 면세점 정보 실시간 제공 애플리케이션 출시",
+        "date": "2025-04-29 15:44",
+        "link": "https://www.viva100.com/article/20250429501304"
+    },
+    {
+        "title": "삼성디스플레이, 'QD-OLED' BI 공개…상표 출원 추진",
+        "date": "2025-04-29 15:38",
+        "link": "http://www.metroseoul.co.kr/article/20250429500499"
+    },
+    {
+        "title": "LG전자 TV사업 올해 적자 전환 모드, 박형세 프리미엄 LCD TV로 돌파구",
+        "date": "2025-04-29 15:30",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=393300"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시…6월 중순까지 한...",
+        "date": "2025-04-29 15:30",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=635421"
+    },
+    {
+        "title": "뉴큐브게임즈 '펫펫고' 애플스토어 무료 인기 1위",
+        "date": "2025-04-29 15:30",
+        "link": "https://game.donga.com/117098/"
+    },
+    {
+        "title": "애플 에어태그 2 곧 출시? 기대되는 업그레이드와 출시 일정",
+        "date": "2025-04-29 15:28",
+        "link": "https://www.betanews.net/article/view/beta202504290036"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 15:28",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=46409"
+    },
+    {
+        "title": "믿을 건 갤럭시 뿐…삼성, 10년만에 '엣지'로 승부수",
+        "date": "2025-04-29 15:25",
+        "link": "https://n.news.naver.com/mnews/article/215/0001207617?sid=101"
+    },
+    {
+        "title": "시장조사업체 2024년 차량용 OLED 출하량, 전년 대비 126% 증가",
+        "date": "2025-04-29 15:22",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=393311"
+    },
+    {
+        "title": "작년 차량용 OLED 패널 출하량 248만대…전년비 126%↑",
+        "date": "2025-04-29 15:14",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1210571"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용 여름 신제품 5종 출시",
+        "date": "2025-04-29 15:10",
+        "link": "https://n.news.naver.com/mnews/article/243/0000077193?sid=101"
+    },
+    {
+        "title": "뉴큐브게임즈 '펫펫고' 출시 이틀만에 애플 앱스토어 인기 1위 달성",
+        "date": "2025-04-29 15:10",
+        "link": "http://gamefocus.co.kr/detail.php?number=165200"
+    },
+    {
+        "title": "폴 바셋, 저칼로리 요거트 음료 3종 출시…애플망고·딸기·블루베리 구...",
+        "date": "2025-04-29 15:10",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=635485"
+    },
+    {
+        "title": "애플, AI폰 성능 강화…메모리 3사, D램 공급 더 치열해진다",
+        "date": "2025-04-29 15:03",
+        "link": "https://n.news.naver.com/mnews/article/003/0013213330?sid=101"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 14:42",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=71845"
+    },
+    {
+        "title": "메타버스는 우리에 대해 많은 걸 알고 있다",
+        "date": "2025-04-29 14:42",
+        "link": "https://www.forbeskorea.co.kr/news/articleView.html?idxno=400076"
+    },
+    {
+        "title": "애플, 저렴한 가격대 AI 스마트 글라스 개발 중",
+        "date": "2025-04-29 14:36",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092139513"
+    },
+    {
+        "title": "삼성D, 신규 QD-OLED BI 공개…차별화 마케팅",
+        "date": "2025-04-29 14:26",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2045456"
+    },
+    {
+        "title": "삼성디스플레이, ‘QD-OLED’ BI 공개…상표 출원 준비",
+        "date": "2025-04-29 14:24",
+        "link": "https://n.news.naver.com/mnews/article/009/0005484515?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 'BI' 공개",
+        "date": "2025-04-29 14:18",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1234018"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 14:18",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3262875"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 선보여",
+        "date": "2025-04-29 14:14",
+        "link": "http://www.lawissue.co.kr/view.php?ud=20250429141108793204ead0791_12"
+    },
+    {
+        "title": "[영상] LG디스플레이, 2분기 연속 흑자 배경은?",
+        "date": "2025-04-29 14:10",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=35495"
+    },
+    {
+        "title": "車 디스플레이 성장세…OLED는 126% ‘껑충’",
+        "date": "2025-04-29 14:08",
+        "link": "https://n.news.naver.com/mnews/article/018/0006001115?sid=101"
+    },
+    {
+        "title": "삼성전기 2025년 1분기 실적발표 컨퍼런스콜 전문",
+        "date": "2025-04-29 14:08",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=35493"
+    },
+    {
+        "title": "애플힙에 힙딥까지 가려면…런지·스쿼트에 지방흡입으로 효과 100배",
+        "date": "2025-04-29 13:56",
+        "link": "https://www.koreahealthlog.com/news/articleView.html?idxno=51637"
+    },
+    {
+        "title": "여름, 망고로 물들다!...잠바주스, 애플망고 활용 신제품 5종 출시",
+        "date": "2025-04-29 13:54",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=155370"
+    },
+    {
+        "title": "일본 스마트폰 시장 잡아라…삼성 '갤럭시 앰버서더' 가동",
+        "date": "2025-04-29 13:52",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1661048"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED BI 공개 … 차별화 마케팅",
+        "date": "2025-04-29 13:36",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/04/29/2025042900073.html"
+    },
+    {
+        "title": "삼성디스플레이 'QD-OLED' BI 공개…상표 출원 준비",
+        "date": "2025-04-29 13:26",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=324917"
+    },
+    {
+        "title": "비보 차기 폴더블폰 '스냅드래곤 8 3세대' 탑재하고 3분기 출시?",
+        "date": "2025-04-29 13:08",
+        "link": "https://kbench.com/?q=node/267009"
+    },
+    {
+        "title": "[자동차잘알] 차량용 OLED 패널 출하량 급증, 프리미엄 자동차 시장의 주...",
+        "date": "2025-04-29 13:04",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=498762"
+    },
+    {
+        "title": "[과학산책] 박막 트랜지스터가 뭐지?",
+        "date": "2025-04-29 13:04",
+        "link": "https://www.naeil.com/news/read/546436?ref=naver"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED BI 공개…“기술 브랜딩 강화”",
+        "date": "2025-04-29 13:02",
+        "link": "https://n.news.naver.com/mnews/article/030/0003308121?sid=105"
+    },
+    {
+        "title": "유니씨앤씨, 네이버 X 삼성전자 갤럭시북5 프로 특선물 LIVE 진행",
+        "date": "2025-04-29 12:52",
+        "link": "https://kbench.com/?q=node/267010"
+    },
+    {
+        "title": "애플, 아이폰 17 시제품 최종 테스트 완료... 초슬림한 '에어' 모델 램 ...",
+        "date": "2025-04-29 12:50",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1799610"
+    },
+    {
+        "title": "애플, 개발자·일반 테스터용 'iOS 18.5' 최신 베타 출시",
+        "date": "2025-04-29 12:48",
+        "link": "https://kbench.com/?q=node/267006"
+    },
+    {
+        "title": "모바일 오토 배틀러 '펫펫고', 애플 앱스토어 인기 순위 1위 등극",
+        "date": "2025-04-29 12:26",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=239365"
+    },
+    {
+        "title": "‘가전 생태계’ 구축한 샤오미, 中 스마트폰 점유율 1위도 탈환",
+        "date": "2025-04-29 12:10",
+        "link": "https://n.news.naver.com/mnews/article/018/0006001028?sid=101"
+    },
+    {
+        "title": "Samsung Display unveils brand identity for QD-OLED tech",
+        "date": "2025-04-29 12:09",
+        "link": "https://n.news.naver.com/mnews/article/044/0000269437?sid=104"
+    },
+    {
+        "title": "애플, 아이폰 생산 기지 인도로 전환",
+        "date": "2025-04-29 12:04",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15651699"
+    },
+    {
+        "title": "‘꿈의 디스플레이’ iLED 마저… 중국 특허, 한국의 2배",
+        "date": "2025-04-29 12:02",
+        "link": "https://n.news.naver.com/mnews/article/021/0002706360?sid=101"
+    },
+    {
+        "title": "잠바주스, 애플망고 활용 여름 신제품 5종 출시",
+        "date": "2025-04-29 11:48",
+        "link": "https://www.bigtanews.co.kr/article/view/big202504290015"
+    },
+    {
+        "title": "삼성디스플레이, 'QD-OLED' BI 공개",
+        "date": "2025-04-29 11:34",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065579817995288"
+    },
+    {
+        "title": "'펫펫고', 출시 이틀만에 애플 앱스토어 인기 1위 달성!",
+        "date": "2025-04-29 11:30",
+        "link": "https://www.thisisgame.com/webzine/game/nboard/225/?n=210984"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 선봬",
+        "date": "2025-04-29 11:28",
+        "link": "https://www.cnbnews.com/news/article.html?no=722849"
+    },
+    {
+        "title": "삼성디스플레이 QD-올레드 BI 상표 출원…기술 차별화",
+        "date": "2025-04-29 11:26",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=266309"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED BI 공개",
+        "date": "2025-04-29 11:23",
+        "link": "https://n.news.naver.com/mnews/article/016/0002464371?sid=101"
+    },
+    {
+        "title": "지난해 車 OLED 패널 출하량 248만대…프리미엄 수요 영향",
+        "date": "2025-04-29 11:21",
+        "link": "https://n.news.naver.com/mnews/article/277/0005585394?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 기술 신규 BI 공개",
+        "date": "2025-04-29 11:16",
+        "link": "https://www.mediapen.com/news/view/1011360"
+    },
+    {
+        "title": "애플, '아이폰17 프로' 반사 방지 디스플레이 탑재 계획 취소?",
+        "date": "2025-04-29 11:12",
+        "link": "https://kbench.com/?q=node/267003"
+    },
+    {
+        "title": "지난해 차량용 OLED 출하량 248만대…전년비 126% ↑",
+        "date": "2025-04-29 11:10",
+        "link": "https://n.news.naver.com/mnews/article/031/0000928408?sid=105"
+    },
+    {
+        "title": "풍부한 색 표현력 상징···삼성디스플레이, QD-OLED 'BI' 출원",
+        "date": "2025-04-29 11:02",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2270748"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 11:02",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=82994"
+    },
+    {
+        "title": "Samsung Display Unveils QD-OLED Technology Brand",
+        "date": "2025-04-29 11:00",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=241131"
+    },
+    {
+        "title": "기술력·완성도 입증 삼성 OLED TV···프리미엄 주도권 강화",
+        "date": "2025-04-29 10:55",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2270604"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치 8 시리즈 블루투스 인증 획득... 회전 베젤 탑재...",
+        "date": "2025-04-29 10:52",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1799602"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 여름 신제품 5종 선보여",
+        "date": "2025-04-29 10:52",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000071244"
+    },
+    {
+        "title": "작년 차량용 OLED 출하량 2배 늘어…올해도 성장 지속",
+        "date": "2025-04-29 10:51",
+        "link": "https://n.news.naver.com/mnews/article/029/0002951414?sid=101"
+    },
+    {
+        "title": "삼성전자, 서울·부산에 '갤럭시 AI' 어린이 체험장 선봬",
+        "date": "2025-04-29 10:42",
+        "link": "http://www.globalepic.co.kr/view.php?ud=202504280941076315ed985c7c5_29"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 'BI' 공개...차별화 마케팅 나선다",
+        "date": "2025-04-29 10:40",
+        "link": "http://thetracker.co.kr/View.aspx?No=3630315"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 10:38",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=89182"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 브랜드 아이덴티티 공개",
+        "date": "2025-04-29 10:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=563930"
+    },
+    {
+        "title": "애플페이로 열차표 산다…코레일, NFC 단말기 도입",
+        "date": "2025-04-29 10:35",
+        "link": "https://n.news.naver.com/mnews/article/662/0000067484?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 기술 브랜드 공개",
+        "date": "2025-04-29 10:33",
+        "link": "https://n.news.naver.com/mnews/article/011/0004479670?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 전용 BI 상표 출원…‘프리미엄 화질’ 정체성...",
+        "date": "2025-04-29 10:30",
+        "link": "https://sateconomy.co.kr/news/view/1065571659201341"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 선보여",
+        "date": "2025-04-29 10:28",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=752903"
+    },
+    {
+        "title": "지난해 車 OLED 패널 출하량 126% 급증… 프리미엄 채용 늘어",
+        "date": "2025-04-29 10:28",
+        "link": "https://www.ajunews.com/view/20250429102456382"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 'BI' 공개",
+        "date": "2025-04-29 10:24",
+        "link": "https://n.news.naver.com/mnews/article/008/0005187427?sid=101"
+    },
+    {
+        "title": "알파스캔, 180Hz Fast IPS 게이밍 모니터 27G42 출시기념 할인 행사 진행",
+        "date": "2025-04-29 10:24",
+        "link": "https://kbench.com/?q=node/266996"
+    },
+    {
+        "title": "차량용 OLED 디스플레이 출하량↑…올해 300만대 돌파 전망",
+        "date": "2025-04-29 10:18",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1661039"
+    },
+    {
+        "title": "삼성디스플레이, 'QD-OLED' BI 공개…상표 출원 준비",
+        "date": "2025-04-29 10:16",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=338190"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 10:16",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=441957"
+    },
+    {
+        "title": "차량용 OLED, 지난해 출하량 2배 '껑충'…올해도 성장 지속",
+        "date": "2025-04-29 10:16",
+        "link": "https://n.news.naver.com/mnews/article/092/0002372547?sid=105"
+    },
+    {
+        "title": "작년 車 OLED 패널 출하량 248만대, 126%↑…프리미엄 수요 영향",
+        "date": "2025-04-29 10:14",
+        "link": "https://n.news.naver.com/mnews/article/001/0015358199?sid=101"
+    },
+    {
+        "title": "CJ프레시웨이, 냉동과일 라인업 강화…애플망고·골드망고 출시",
+        "date": "2025-04-29 10:12",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=245078"
+    },
+    {
+        "title": "실증 인프라 지원하는 '메타버스 테스트 랩'…“ICT신기술 콘텐츠 개발...",
+        "date": "2025-04-29 10:09",
+        "link": "https://n.news.naver.com/mnews/article/030/0003307990?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 신규 BI 공개...프리미엄 대형 시장 공략",
+        "date": "2025-04-29 10:08",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=244128"
+    },
+    {
+        "title": "애플 아이폰17 양산 앞두고 먹구름, 미국 관세와 중국 '애국소비'로 이...",
+        "date": "2025-04-29 10:08",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=393231"
+    },
+    {
+        "title": "삼성디스플레이 QD-올레드 BI 상표 출원…기술 차별화",
+        "date": "2025-04-29 10:01",
+        "link": "https://n.news.naver.com/mnews/article/003/0013212108?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 'BI(Brand Identity)' 공개",
+        "date": "2025-04-29 10:00",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=78889"
+    },
+    {
+        "title": "삼성디스플레이 'QD-OLED' 브랜드 BI 공개, 상표출원 준비 중",
+        "date": "2025-04-29 10:00",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=393215"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 09:58",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=393227"
+    },
+    {
+        "title": "삼성디스플레이, 'QD-OLED' BI 공개…상표 출원 준비",
+        "date": "2025-04-29 09:57",
+        "link": "https://n.news.naver.com/mnews/article/215/0001207560?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 브랜딩 강화…BI 공개",
+        "date": "2025-04-29 09:56",
+        "link": "https://n.news.naver.com/mnews/article/029/0002951367?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED ‘BI’ 공개",
+        "date": "2025-04-29 09:54",
+        "link": "https://www.cnbnews.com/news/article.html?no=722770"
+    },
+    {
+        "title": "애플, 비전 프로 후속작 연내 출시 되려나…더 싸고 가벼워진다",
+        "date": "2025-04-29 09:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=563902"
+    },
+    {
+        "title": "애플 스마트 글래스, 메타 레이밴 넘으려면…AI·카메라 관건",
+        "date": "2025-04-29 09:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=563897"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 'BI' 공개",
+        "date": "2025-04-29 09:48",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=176042"
+    },
+    {
+        "title": "삼성디스플레이, 'QD-OLED' 독자 브랜드 BI 공개…프리미엄 화질 경쟁력...",
+        "date": "2025-04-29 09:45",
+        "link": "https://n.news.naver.com/mnews/article/138/0002195525?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 전용 BI 공개",
+        "date": "2025-04-29 09:44",
+        "link": "https://www.newspim.com/news/view/20250429000068"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 차별화 마케팅…신규 BI 공개",
+        "date": "2025-04-29 09:42",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=686185"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 'BI' 공개",
+        "date": "2025-04-29 09:34",
+        "link": "https://www.dizzotv.com/site/data/html_dir/2025/04/29/2025042980028.html"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 마케팅 강화…새 브랜드 공개",
+        "date": "2025-04-29 09:32",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=138933"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 기술 브랜드 'BI' 공개",
+        "date": "2025-04-29 09:32",
+        "link": "https://n.news.naver.com/mnews/article/117/0003937859?sid=103"
+    },
+    {
+        "title": "삼성D, QD-OLED 브랜드 아이덴티티 공개",
+        "date": "2025-04-29 09:31",
+        "link": "https://n.news.naver.com/mnews/article/031/0000928327?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 차별화 마케팅 시동···새 BI 공개",
+        "date": "2025-04-29 09:24",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=263018"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 선봬",
+        "date": "2025-04-29 09:22",
+        "link": "http://theviewers.co.kr/View.aspx?No=3630156"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 새로운 'BI' 공개",
+        "date": "2025-04-29 09:18",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025042908244281666ed0c62d49_1/article.html"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 정체성 확립⋯ “상표 출원 준비 중”",
+        "date": "2025-04-29 09:18",
+        "link": "https://www.viva100.com/article/20250429500159"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 09:18",
+        "link": "https://n.news.naver.com/mnews/article/018/0006000719?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 기술 브랜드 공개",
+        "date": "2025-04-29 09:16",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092139485"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 'BI' 공개",
+        "date": "2025-04-29 09:15",
+        "link": "https://n.news.naver.com/mnews/article/001/0015357982?sid=101"
+    },
+    {
+        "title": "'아이폰' 관련 美 생산품 5%뿐…글로벌 공급망 벗어나기 '산 넘어 산'",
+        "date": "2025-04-29 09:14",
+        "link": "https://n.news.naver.com/mnews/article/138/0002195512?sid=105"
+    },
+    {
+        "title": "코레일, 아이폰 '애플페이' 간편결제 시행",
+        "date": "2025-04-29 09:14",
+        "link": "http://www.ikld.kr/news/articleView.html?idxno=312447"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 09:13",
+        "link": "https://n.news.naver.com/mnews/article/421/0008220308?sid=101"
+    },
+    {
+        "title": "애플의 딜레마, 미국산 아이폰 가격 3,500달러 육박 전망",
+        "date": "2025-04-29 09:12",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202504290854569028fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 09:10",
+        "link": "https://www.webeconomy.co.kr/news/article.html?no=1192465"
+    },
+    {
+        "title": "삼성디스플레이, 'QD-OLED' 기술 브랜드 BI 공개",
+        "date": "2025-04-29 09:04",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=644757"
+    },
+    {
+        "title": "독보적 화질 가치 알린다…삼성D, QD-OLED BI 공개 '차별화 마케팅'",
+        "date": "2025-04-29 09:02",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=225336"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 09:02",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=67549"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 09:02",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=78854"
+    },
+    {
+        "title": "SPC 잠바주스, 애플망고 활용한 여름 신제품 5종 출시",
+        "date": "2025-04-29 09:00",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=385766"
+    },
+    {
+        "title": "삼성D, QD-OLED 'BI' 공개...풍부한 색 표현력 담았다",
+        "date": "2025-04-29 08:52",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=210801"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 브랜딩 강화…차별화 마케팅",
+        "date": "2025-04-29 08:42",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=693877"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 기술 브랜드 공개…상표 출원 준비",
+        "date": "2025-04-29 08:42",
+        "link": "https://n.news.naver.com/mnews/article/092/0002372499?sid=105"
+    },
+    {
+        "title": "아이폰17, '긁힘·반사 방지' 안되나…애플, 사실상 포기",
+        "date": "2025-04-29 08:41",
+        "link": "https://n.news.naver.com/mnews/article/092/0002372498?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 'QD-OLED' BI 공개…브랜딩 강화",
+        "date": "2025-04-29 08:36",
+        "link": "https://www.sentv.co.kr/article/view/sentv202504290008"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 기술 브랜드 공개…상표 출원 준비",
+        "date": "2025-04-29 08:36",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1210176"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 'BI' 공개",
+        "date": "2025-04-29 08:36",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=746722"
+    },
+    {
+        "title": "삼성D, QD-OLED 기술 브랜드 BI 공개",
+        "date": "2025-04-29 08:35",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=555909"
+    },
+    {
+        "title": "첫글자 'Q' 청색 그라데이션으로 풍부한 색표현력 삼성D 'QD-OLED' 브랜드...",
+        "date": "2025-04-29 08:34",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=108569"
+    },
+    {
+        "title": "[Who Is ?] 정해린 삼성물산 리조트부문 및 삼성웰스토리 대표이사 사장",
+        "date": "2025-04-29 08:34",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=393192"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 기술 브랜드 'BI' 공개",
+        "date": "2025-04-29 08:27",
+        "link": "https://n.news.naver.com/mnews/article/119/0002950590?sid=101"
+    },
+    {
+        "title": "삼성D, 'QD-OLED' 기술 브랜드 공개",
+        "date": "2025-04-29 08:26",
+        "link": "https://www.etoday.co.kr/news/view/2466329"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 브랜딩 강화… BI 공개",
+        "date": "2025-04-29 08:24",
+        "link": "https://n.news.naver.com/mnews/article/366/0001073133?sid=105"
+    },
+    {
+        "title": "[더벨][이사회 분석/삼성전자]초격차 설계자로 꾸린 '코어' 보드 멤버",
+        "date": "2025-04-29 08:22",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504221539068360103871"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 신규 브랜드 공개",
+        "date": "2025-04-29 08:18",
+        "link": "https://www.ajunews.com/view/20250429081551187"
+    },
+    {
+        "title": "[더벨][티로보틱스 줌인]SK온 수주 첫 성과 발판, 북미 누적 수주고 600억",
+        "date": "2025-04-29 08:18",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202504250045079870104052"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 차별화 마케팅 나선다…BI 공개",
+        "date": "2025-04-29 08:15",
+        "link": "https://n.news.naver.com/mnews/article/001/0015357811?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 'QD-OLED' BI 공개…상표 출원 준비",
+        "date": "2025-04-29 08:14",
+        "link": "https://n.news.naver.com/mnews/article/421/0008220147?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 'QD-OLED' 기술 브랜드 공개",
+        "date": "2025-04-29 08:13",
+        "link": "https://n.news.naver.com/mnews/article/277/0005585124?sid=101"
+    },
+    {
+        "title": "삼성D, QD-OLED 기술 브랜드 BI 공개",
+        "date": "2025-04-29 08:12",
+        "link": "https://n.news.naver.com/mnews/article/018/0006000625?sid=101"
+    },
+    {
+        "title": "[IT썰]아이폰4 화이트 출시 14주년…'안테나 게이트' 터진 그때 그 시절",
+        "date": "2025-04-29 08:10",
+        "link": "https://n.news.naver.com/mnews/article/008/0005187303?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 'BI' 공개…기술 브랜딩 강화",
+        "date": "2025-04-29 08:06",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1660984"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED 'Brand Identity' 공개",
+        "date": "2025-04-29 07:52",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=340158"
+    },
+    {
+        "title": "삼성디스플레이, QD-OLED BI 공개",
+        "date": "2025-04-29 07:46",
+        "link": "https://n.news.naver.com/mnews/article/016/0002464079?sid=101"
+    }
+]
