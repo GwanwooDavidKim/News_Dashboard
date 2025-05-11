@@ -1,1 +1,567 @@
-
+[
+    {
+        "title": "시그니엘 서울, 여름 시즌 애플망고 디저트 프로모션 운영",
+        "date": "2025-05-12 02:42",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=170684"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ 게이밍 모니터 ‘오디세이 OLED’ 출시",
+        "date": "2025-05-12 00:52",
+        "link": "https://n.news.naver.com/mnews/article/023/0003904540?sid=105"
+    },
+    {
+        "title": "‘갤Z 7월 투입’ 노태문…불안한 ‘엑시노스’가 고민",
+        "date": "2025-05-12 00:02",
+        "link": "http://www.fntimes.com/html/view.php?ud=20250510025048780dd55077bc2_18"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지, 내구성 강화 신소재 '코닝 고릴라 글라스 세라믹...",
+        "date": "2025-05-11 23:28",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=530952"
+    },
+    {
+        "title": "시그니엘 서울, 여름 시즌 애플망고 디저트 프로모션",
+        "date": "2025-05-11 22:32",
+        "link": "https://n.news.naver.com/mnews/article/382/0001196292?sid=103"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 21:30",
+        "link": "https://www.betanews.net/article/view/beta202505110009"
+    },
+    {
+        "title": "[써볼까]삼성전자, 오디세이 OLED G6…500Hz OLED 게이밍 모니터",
+        "date": "2025-05-11 20:12",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=754576"
+    },
+    {
+        "title": "삼성, 세계 첫 500㎐ ‘OLED 게이밍 모니터’ 출시",
+        "date": "2025-05-11 20:08",
+        "link": "https://n.news.naver.com/mnews/article/022/0004034505?sid=101"
+    },
+    {
+        "title": "삼성전자, 게이밍 최고급 사양 대거 탑재한 세계 최초 500Hz OLED 게이밍 ...",
+        "date": "2025-05-11 19:36",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=488108"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 19:24",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=646323"
+    },
+    {
+        "title": "애플워치 시들한 사이… AI 앞세운 '갤워치8' 뜬다",
+        "date": "2025-05-11 18:35",
+        "link": "https://n.news.naver.com/mnews/article/014/0005347821?sid=105"
+    },
+    {
+        "title": "삼성, 세계최초 500㎐ 게이밍모니터 출시",
+        "date": "2025-05-11 18:35",
+        "link": "https://n.news.naver.com/mnews/article/014/0005347823?sid=105"
+    },
+    {
+        "title": "AI가 검색엔진 대체할 것 애플의 말, 애플이라 걸러 들어야 한다 [IT큐...",
+        "date": "2025-05-11 17:58",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=695346"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 출시... 오디세이 G6 공개",
+        "date": "2025-05-11 17:48",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=420844"
+    },
+    {
+        "title": "주름 없는 화면, 고급 힌지… 차원이 다른 애플 폴더블 아이폰, 2026년...",
+        "date": "2025-05-11 17:42",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=530940"
+    },
+    {
+        "title": "'LG 한판 붙자' 삼성까지 뛰어들었다…2030 푹 빠진 가전",
+        "date": "2025-05-11 17:33",
+        "link": "https://n.news.naver.com/mnews/article/015/0005130251?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 17:26",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=231880"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ ‘OLED 게이밍 모니터’ 출시",
+        "date": "2025-05-11 16:59",
+        "link": "https://n.news.naver.com/mnews/article/081/0003540279?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ 'OLED 게이밍 모니터' 출시",
+        "date": "2025-05-11 16:48",
+        "link": "http://www.metroseoul.co.kr/article/20250511500181"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '500Hz OLED' 게이밍 모니터 내놨다",
+        "date": "2025-05-11 16:42",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3034853"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 출격",
+        "date": "2025-05-11 15:20",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2050142"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ 'OLED 게이밍 모니터' 출시",
+        "date": "2025-05-11 15:20",
+        "link": "https://www.hellot.net/news/article.html?no=101164"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 15:09",
+        "link": "https://n.news.naver.com/mnews/article/031/0000931166?sid=105"
+    },
+    {
+        "title": "삼성전자, 500Hz 'OLED 게이밍 모니터' 출시",
+        "date": "2025-05-11 14:40",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=341382"
+    },
+    {
+        "title": "삼성, 500Hz OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 14:31",
+        "link": "https://n.news.naver.com/mnews/article/382/0001196232?sid=105"
+    },
+    {
+        "title": "세계 최초 500Hz…삼성전자, 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 14:30",
+        "link": "https://n.news.naver.com/mnews/article/092/0002373779?sid=105"
+    },
+    {
+        "title": "혁명적으로 슬림한 '갤럭시 S25 엣지'... 내구성은 더 혁명적이다",
+        "date": "2025-05-11 14:22",
+        "link": "https://www.insight.co.kr/news/502471"
+    },
+    {
+        "title": "시들해진 애플워치 인기…삼성, AI 건강관리 강화로 차별화",
+        "date": "2025-05-11 14:18",
+        "link": "https://n.news.naver.com/mnews/article/014/0005347722?sid=105"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 14:14",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=526203"
+    },
+    {
+        "title": "‘최고급 사양 대거 탑재’ 삼성전자, 세계 최초 500㎐ OLED 게이밍 모니...",
+        "date": "2025-05-11 14:09",
+        "link": "https://n.news.naver.com/mnews/article/468/0001145871?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 14:08",
+        "link": "http://www.fieldnews.kr/news/articleView.html?idxno=16599"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 13:40",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=844298"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 13:38",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=184756"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 13:30",
+        "link": "https://n.news.naver.com/mnews/article/009/0005490195?sid=101"
+    },
+    {
+        "title": "슬림폰 전성시대 서막 열린다…다가오는 `갤럭시S25 엣지`는 [김영욱의...",
+        "date": "2025-05-11 13:28",
+        "link": "https://n.news.naver.com/mnews/article/029/0002953670?sid=105"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 13:23",
+        "link": "https://n.news.naver.com/mnews/article/029/0002953667?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 13:22",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=695339"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 출시로 게임 경험 혁신",
+        "date": "2025-05-11 13:10",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=500451"
+    },
+    {
+        "title": "삼성전자, 게이밍 모니터 '오디세이 올레드 G6' 출시...세계 최초 500Hz...",
+        "date": "2025-05-11 13:06",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=244675"
+    },
+    {
+        "title": "삼성전자, 500Hz 초고주사율 OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 13:04",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=139477"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 출시...세계 최초",
+        "date": "2025-05-11 12:58",
+        "link": "https://www.mediapen.com/news/view/1014282"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 12:56",
+        "link": "http://www.thepowernews.co.kr/news/articleView.html?idxno=155679"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ ‘OLED 게이밍 모니터’ 출시",
+        "date": "2025-05-11 12:45",
+        "link": "https://n.news.naver.com/mnews/article/144/0001038727?sid=105"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 12일부터 글로벌 순차 출시",
+        "date": "2025-05-11 12:30",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=394543"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 12:05",
+        "link": "https://n.news.naver.com/mnews/article/215/0001208804?sid=101"
+    },
+    {
+        "title": "삼성전자, 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 11:55",
+        "link": "https://n.news.naver.com/mnews/article/421/0008242614?sid=101"
+    },
+    {
+        "title": "삼성전자, 게이밍 모니터 출시",
+        "date": "2025-05-11 11:55",
+        "link": "https://n.news.naver.com/mnews/article/421/0008242615?sid=101"
+    },
+    {
+        "title": "車·모니터 파고드는 OLED…삼성D·LGD, 실적 ‘훈풍’",
+        "date": "2025-05-11 11:54",
+        "link": "https://www.ekn.kr/web/view.php?key=20250511029055437"
+    },
+    {
+        "title": "'게임의 신이 되다'...삼성, 500Hz OLED 게이밍 모니터 '오디세이 OLED G6'...",
+        "date": "2025-05-11 11:36",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=156013"
+    },
+    {
+        "title": "삼성전자, 세계 첫 500㎐ 'OLED 게이밍 모니터' 선보여",
+        "date": "2025-05-11 11:30",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=246175"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 11:30",
+        "link": "https://www.newspim.com/news/view/20250511000027"
+    },
+    {
+        "title": "삼성 갤럭시 S25 엣지, 신소재 '코닝 고릴라 글라스 세라믹 2' 탑재",
+        "date": "2025-05-11 11:30",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1288434"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 11:24",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1237161"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 11:22",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=20250511085124986993cd542464_23"
+    },
+    {
+        "title": "삼성전자, 게이밍 모니터 '오디세이 OLED G6' 출시..500Hz OLED",
+        "date": "2025-05-11 11:22",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=80436"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz ‘OLED 게이밍 모니터’ 출시",
+        "date": "2025-05-11 11:12",
+        "link": "https://n.news.naver.com/mnews/article/119/0002954670?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '500Hz' OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 11:09",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=556792"
+    },
+    {
+        "title": "삼성전자, '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 11:08",
+        "link": "https://www.kbsm.net/news/view.php?idx=474383"
+    },
+    {
+        "title": "한달 만에 日 찾는 이재용 회장…삼성, '갤럭시 AI'로 열도 공략 정조준",
+        "date": "2025-05-11 11:02",
+        "link": "https://n.news.naver.com/mnews/article/293/0000067154?sid=101"
+    },
+    {
+        "title": "LG전자, 日 70형 이상 OLED TV 1위 차지",
+        "date": "2025-05-11 11:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003311109?sid=105"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz '올레드 게이밍 모니터' 출시",
+        "date": "2025-05-11 10:54",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092140346"
+    },
+    {
+        "title": "삼성전자, 세계 최초 ‘1초에 500번 이미지 표시’ OLED 모니터 출시",
+        "date": "2025-05-11 10:52",
+        "link": "https://n.news.naver.com/mnews/article/366/0001076122?sid=105"
+    },
+    {
+        "title": "[뉴템] 삼성전자, 500Hz OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 10:51",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196263?sid=105"
+    },
+    {
+        "title": "삼성·LG디, 고휘도·고효율 OLED로 기술격차 더 벌린다",
+        "date": "2025-05-11 10:48",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1237092"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 세계 첫 출시",
+        "date": "2025-05-11 10:43",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000071885"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 10:36",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=90352"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 10:36",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=333890"
+    },
+    {
+        "title": "삼성전자, 세계 첫 500㎐ OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 10:34",
+        "link": "http://theviewers.co.kr/View.aspx?No=3641816"
+    },
+    {
+        "title": "삼성전자, 세계 첫 500㎐ 'OLED 게이밍 모니터' 출시",
+        "date": "2025-05-11 10:34",
+        "link": "https://n.news.naver.com/mnews/article/277/0005590398?sid=101"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 10:30",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=201881"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 모니터 '오디세이 G6' 출시",
+        "date": "2025-05-11 10:30",
+        "link": "https://n.news.naver.com/mnews/article/011/0004483772?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ 'OLED 게이밍 모니터' 출시",
+        "date": "2025-05-11 10:22",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=820187"
+    },
+    {
+        "title": "삼성전자, 500Hz 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 10:22",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=795301"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 출시…아시아 시장 급성...",
+        "date": "2025-05-11 10:17",
+        "link": "https://n.news.naver.com/mnews/article/422/0000739320?sid=105"
+    },
+    {
+        "title": "삼성전자, 500Hz 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 10:10",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1662222"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '500㎐ OLED 게이밍 모니터' 출시",
+        "date": "2025-05-11 10:01",
+        "link": "https://n.news.naver.com/mnews/article/079/0004022589?sid=105"
+    },
+    {
+        "title": "[기자의 눈] 애플 폴더블폰 시장 진입···삼성전자 “위기를 기회로”",
+        "date": "2025-05-11 10:00",
+        "link": "https://www.ekn.kr/web/view.php?key=20250510025045196"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 10:00",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=87169"
+    },
+    {
+        "title": "세계 최초 500㎐ 적용… 삼성, 게이밍 모니터 선두 굳힌다",
+        "date": "2025-05-11 09:54",
+        "link": "https://www.ajunews.com/view/20250511095108151"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 09:53",
+        "link": "https://n.news.naver.com/mnews/article/001/0015380232?sid=101"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 09:53",
+        "link": "https://n.news.naver.com/mnews/article/001/0015380235?sid=101"
+    },
+    {
+        "title": "“게이머 취향 저격”⋯ 삼성전자, ‘오디세이 OLED G6’ 출시",
+        "date": "2025-05-11 09:48",
+        "link": "https://www.viva100.com/article/20250511500081"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 09:46",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3268159"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 09:44",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025051108543023916ed0c62d49_1/article.html"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 09:44",
+        "link": "https://www.webeconomy.co.kr/news/article.html?no=1200731"
+    },
+    {
+        "title": "삼성전자, 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 09:41",
+        "link": "https://n.news.naver.com/mnews/article/421/0008242338?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 09:41",
+        "link": "https://n.news.naver.com/mnews/article/008/0005192188?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 첫 500Hz OLED 게이밍 모니터 공개",
+        "date": "2025-05-11 09:36",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=26800"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz '오디세이 OLED G6' 출시...게이밍 최고급 사...",
+        "date": "2025-05-11 09:34",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=732014"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 09:30",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=263666"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 09:28",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=176672"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 09:18",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=67996"
+    },
+    {
+        "title": "삼성전자, 독보적 몰입감 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출...",
+        "date": "2025-05-11 09:16",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=530939"
+    },
+    {
+        "title": "삼성전자 500Hz OLED 게이밍 모니터 출시...세계 최초",
+        "date": "2025-05-11 09:14",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2085469"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ 'OLED 게이밍 모니터' 출시",
+        "date": "2025-05-11 09:14",
+        "link": "https://www.etoday.co.kr/news/view/2469267"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 09:13",
+        "link": "https://n.news.naver.com/mnews/article/003/0013233636?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz 올레드 게이밍 모니터 출시",
+        "date": "2025-05-11 09:09",
+        "link": "https://n.news.naver.com/mnews/article/082/0001325072?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 08:58",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=226004"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 08:54",
+        "link": "https://n.news.naver.com/mnews/article/018/0006010297?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 08:54",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=748588"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 08:48",
+        "link": "http://www.datanews.co.kr/news/article.html?no=138572"
+    },
+    {
+        "title": "압도적 몰입감 삼성전자, 세계 최초 500Hz 'OLED 게이밍 모니터' 출시",
+        "date": "2025-05-11 08:45",
+        "link": "https://n.news.naver.com/mnews/article/117/0003941762?sid=105"
+    },
+    {
+        "title": "애플, '구글 기본검색 수익' 연 28조원 포기하나",
+        "date": "2025-05-11 08:44",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=146967"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 08:40",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=387252"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ 'OLED 게이밍 모니터' 출시",
+        "date": "2025-05-11 08:33",
+        "link": "https://n.news.naver.com/mnews/article/001/0015380118?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 첫 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 선봬",
+        "date": "2025-05-11 08:32",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=211783"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 08:22",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=79911"
+    },
+    {
+        "title": "삼성전자, 세계최초 500Hz OLED 게이밍 모니터 '오디세이 G6' 출시",
+        "date": "2025-05-11 08:16",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=642308"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 08:16",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=342887"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 출시",
+        "date": "2025-05-11 08:14",
+        "link": "https://www.raonnews.com/news/article.html?no=47106"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-11 08:12",
+        "link": "https://n.news.naver.com/mnews/article/014/0005347613?sid=105"
+    },
+    {
+        "title": "[N2 뷰] 스마트폰 성장 변곡점 맞아 삼성전자 '슬림' 애플 '폴더블'로 승...",
+        "date": "2025-05-11 07:02",
+        "link": "https://www.news2day.co.kr/article/20250509500247"
+    },
+    {
+        "title": "“생애 첫 TV로 중국산?” 더 독해진 TCL, 한국에 신제품 무더기 투하[비...",
+        "date": "2025-05-11 07:00",
+        "link": "https://n.news.naver.com/mnews/article/016/0002469249?sid=101"
+    }
+]
