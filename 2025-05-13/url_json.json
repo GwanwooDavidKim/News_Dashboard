@@ -1,1 +1,622 @@
-
+[
+    {
+        "title": "새 아이폰에 국산 부품 대거 탑재⋯中 추격 제동 [ET의 칩스토리]",
+        "date": "2025-05-13 05:00",
+        "link": "https://www.etoday.co.kr/news/view/2468807"
+    },
+    {
+        "title": "아이폰17, 가격 인상 검토…3년 만에 기본가 오르나",
+        "date": "2025-05-13 04:52",
+        "link": "https://n.news.naver.com/mnews/article/422/0000739841?sid=101"
+    },
+    {
+        "title": "“애플, 아이폰 가격 인상 검토”…새 기능 추가보다 관세 영향?",
+        "date": "2025-05-13 04:42",
+        "link": "https://n.news.naver.com/mnews/article/374/0000440045?sid=104"
+    },
+    {
+        "title": "'애플' 아이폰 가격인상 검토…관세 부담 확대 영향",
+        "date": "2025-05-13 04:38",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15664010"
+    },
+    {
+        "title": "“애플, 아이폰 가격 인상 검토”…새 기능 추가보다 관세 영향인듯",
+        "date": "2025-05-13 04:00",
+        "link": "https://n.news.naver.com/mnews/article/056/0011949727?sid=104"
+    },
+    {
+        "title": "애플, 아이폰 가격인상 검토…새 기능 추가보다 관세 영향인듯",
+        "date": "2025-05-13 03:54",
+        "link": "https://n.news.naver.com/mnews/article/001/0015383864?sid=104"
+    },
+    {
+        "title": "삼성, 초슬림폰 ‘갤럭시 S25 엣지’ 공개...150만원대 가격 유력",
+        "date": "2025-05-13 03:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006011950?sid=105"
+    },
+    {
+        "title": "애플, 결국 아이폰 가격 인상하나…트럼프는 팀 쿡이 美 공장 많이 세...",
+        "date": "2025-05-13 01:44",
+        "link": "https://n.news.naver.com/mnews/article/293/0000067215?sid=105"
+    },
+    {
+        "title": "애플, 올가을 아이폰 신제품 가격 인상 검토",
+        "date": "2025-05-13 01:33",
+        "link": "https://www.newspim.com/news/view/20250512001491"
+    },
+    {
+        "title": "중국 내 외국산 휴대폰 3월 출하량 50% 급감…아이폰 포함 외국산 스마...",
+        "date": "2025-05-13 01:02",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025051219561343549a1f309431_1/article.html"
+    },
+    {
+        "title": "애플, 아이폰 가격 인상 검토… 美·中 관세에도 '정치 영향 아니다'",
+        "date": "2025-05-13 00:44",
+        "link": "https://www.tokenpost.kr/news/tech/246872"
+    },
+    {
+        "title": "'갤럭시 S25 엣지' 13일 공개일...사전예약·가격은?",
+        "date": "2025-05-13 00:16",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3272778"
+    },
+    {
+        "title": "WSJ 애플, 올 가을 출시 모델 가격인상 검토",
+        "date": "2025-05-12 22:36",
+        "link": "https://n.news.naver.com/mnews/article/015/0005130905?sid=101"
+    },
+    {
+        "title": "애플, 아이폰 디자인 개편 속 가격 인상도 검토",
+        "date": "2025-05-12 21:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565685"
+    },
+    {
+        "title": "애플, 아이폰 가격 인상 검토…“중국산 제품 관세 때문은 아냐”",
+        "date": "2025-05-12 19:34",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025051219315656079a1f309431_1/article.html"
+    },
+    {
+        "title": "애플, 아이폰 가격 인상 검토…관세 대신 비용 부담 요인",
+        "date": "2025-05-12 19:34",
+        "link": "https://www.tokenpost.kr/news/breaking/246770"
+    },
+    {
+        "title": "'5㎜ 초슬림 스마트폰 시장 잡아라'…삼성·애플, 주도권 경쟁 '가열'",
+        "date": "2025-05-12 19:30",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=795380"
+    },
+    {
+        "title": "2027년 애플 르네상스 개막…폴더블 아이폰·스마트 글래스 출시",
+        "date": "2025-05-12 19:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565615"
+    },
+    {
+        "title": "삼성D, 베트남 박닌성 투자 인증서 수령...차세대 디스플레이 생산 강...",
+        "date": "2025-05-12 19:22",
+        "link": "https://n.news.naver.com/mnews/article/014/0005348517?sid=101"
+    },
+    {
+        "title": "[뉴스줌인] 삼성 오디세이 OLED G6 게이밍 모니터, 500Hz의 의미는?",
+        "date": "2025-05-12 19:06",
+        "link": "https://it.donga.com/106931/"
+    },
+    {
+        "title": "에이아이비즈, '초격차 스타트업 1000+' Micro DIPS 선정",
+        "date": "2025-05-12 18:06",
+        "link": "https://n.news.naver.com/mnews/article/008/0005192962?sid=101"
+    },
+    {
+        "title": "삼성 초박형 스마트폰 '갤럭시 S25 엣지' 이렇게 나온다",
+        "date": "2025-05-12 17:30",
+        "link": "https://n.news.naver.com/mnews/article/003/0013236962?sid=105"
+    },
+    {
+        "title": "[DD퇴근길] 세상에서 가장 얇은 폰…삼성, '갤럭시 언팩'서 보여준다",
+        "date": "2025-05-12 17:18",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196377?sid=105"
+    },
+    {
+        "title": "Visionox, V5 라인에 'ViP+FMM' 병행 투자 확정",
+        "date": "2025-05-12 17:06",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=316343"
+    },
+    {
+        "title": "띠링, 돈 잘 쓸게요…해외 '애플페이 몰카' 챌린지 논란",
+        "date": "2025-05-12 17:03",
+        "link": "https://n.news.naver.com/mnews/article/422/0000739721?sid=102"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-12 16:50",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290371942230"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-12 16:38",
+        "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=404984"
+    },
+    {
+        "title": "QD-OLED, 프리미엄 넘고 대중화로…삼성D, 모니터 시장 확장 속도",
+        "date": "2025-05-12 16:32",
+        "link": "https://www.newspim.com/news/view/20250512001075"
+    },
+    {
+        "title": "인텔리전스 탑재 애플, 2027년 '폴더블 아이폰·스마트 안경' 등 신제...",
+        "date": "2025-05-12 16:26",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=530994"
+    },
+    {
+        "title": "애플, 2027년 '제품 르네상스' 선언…풀글래스 아이폰부터 AI 로봇까지 ...",
+        "date": "2025-05-12 16:24",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092140443"
+    },
+    {
+        "title": "LG디스플레이 OLED TV 패널 수요 증가, 정철동 대형 OLED 사업 올해 첫 흑...",
+        "date": "2025-05-12 16:18",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=394696"
+    },
+    {
+        "title": "더 가볍게, 더 얇게...스마트폰 '슬림' 경쟁 불붙는다",
+        "date": "2025-05-12 16:10",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=246820"
+    },
+    {
+        "title": "500Hz로 몰입감 극대화···삼성전자, 초격차 OLED로 게임 수요 정조준",
+        "date": "2025-05-12 16:05",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2275700"
+    },
+    {
+        "title": "[데일리픽] 알트코인 시즌 임박 가능성…MS-오픈AI, 투자 계약 조건 재협...",
+        "date": "2025-05-12 16:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565629"
+    },
+    {
+        "title": "[신SW상품대상 5월 추천작]지엔아이티 '혼합현실(MR) 기반 안전점검 프로...",
+        "date": "2025-05-12 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003311621?sid=105"
+    },
+    {
+        "title": "삼성·애플, '탈 퀄컴' 본격화…자체 칩 생태계 구축 나서",
+        "date": "2025-05-12 15:54",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092140433"
+    },
+    {
+        "title": "애플 AI 전략, 2027년까지 미완성…아이폰19 기다려야",
+        "date": "2025-05-12 15:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565612"
+    },
+    {
+        "title": "LG전자, MLED 상표권 출원…차세대 마이크로LED 선점",
+        "date": "2025-05-12 15:48",
+        "link": "https://n.news.naver.com/mnews/article/018/0006011703?sid=101"
+    },
+    {
+        "title": "삼성, 내년 갤S26에 '엣지' 라인업 포함...플러스 모델 대체할 듯",
+        "date": "2025-05-12 15:44",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=35812"
+    },
+    {
+        "title": "D-1 애플보다 먼저 삼성이 띄운 초슬림폰 경쟁",
+        "date": "2025-05-12 15:43",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196364?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, '30년간 시력을 선물하다'",
+        "date": "2025-05-12 15:38",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=53426"
+    },
+    {
+        "title": "[D-1]'슬림폰' 경쟁 포문 여는 삼성 갤럭시S25엣지...비수기 2분기 실적...",
+        "date": "2025-05-12 15:37",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=326410"
+    },
+    {
+        "title": "[영상] 화면이 대체 몇 개?…폴더블 멀티 모니터 ‘화제’",
+        "date": "2025-05-12 15:27",
+        "link": "https://n.news.naver.com/mnews/article/092/0002373903?sid=105"
+    },
+    {
+        "title": "[영상] 산기평 무기발광 디스플레이 국책과제 '삐걱'",
+        "date": "2025-05-12 15:14",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=35809"
+    },
+    {
+        "title": "애플, 오는 9월 전체 커브드 글래스 스크링 아이폰 출",
+        "date": "2025-05-12 15:11",
+        "link": "https://n.news.naver.com/mnews/article/123/0002358827?sid=004"
+    },
+    {
+        "title": "韓 디스플레이, '아이폰17'용 OLED 공급 본격화…美 관세 변수",
+        "date": "2025-05-12 15:03",
+        "link": "https://n.news.naver.com/mnews/article/092/0002373902?sid=105"
+    },
+    {
+        "title": "대형에 갇힌 'LGD' vs 소형에 오른 '삼성D'···그 결과는?",
+        "date": "2025-05-12 15:00",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2275603"
+    },
+    {
+        "title": "삼성D, 13인치 아이패드 OLED 양산 돌입…LGD와 경쟁",
+        "date": "2025-05-12 14:56",
+        "link": "https://n.news.naver.com/mnews/article/030/0003311564?sid=105"
+    },
+    {
+        "title": "[SKT 유심 해킹 사태] 초슬림폰 '갤럭시S25 엣지' 출격…번호이동 시장 ...",
+        "date": "2025-05-12 14:40",
+        "link": "https://n.news.naver.com/mnews/article/030/0003311539?sid=105"
+    },
+    {
+        "title": "'초슬림 승부 본격화'…삼성전자 갤럭시 S25 엣지 공개 D-1",
+        "date": "2025-05-12 14:31",
+        "link": "https://www.newspim.com/news/view/20250512000867"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 ‘오디세이 OLED G6’ 출시",
+        "date": "2025-05-12 14:28",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=176961"
+    },
+    {
+        "title": "글로벌 IT 공룡도 인정한 기술력... 아이씨에이치, 인도 시장 석권 '청신...",
+        "date": "2025-05-12 14:26",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=343196"
+    },
+    {
+        "title": "유니씨앤씨, 5월 12일 오후 7시, 삼성전자 갤럭시북5 프로 가정의 달 특...",
+        "date": "2025-05-12 14:24",
+        "link": "https://kbench.com/?q=node/267329"
+    },
+    {
+        "title": "러시아뷰티 유통점유율 42% 골드애플과 '네오젠' 알렸다 아우딘퓨쳐스...",
+        "date": "2025-05-12 14:14",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=108980"
+    },
+    {
+        "title": "애플, 2027년까지 스마트 글래스 시장 진출…메타 레이밴에 도전장",
+        "date": "2025-05-12 14:10",
+        "link": "https://kbench.com/?q=node/267326"
+    },
+    {
+        "title": "최원준 시험대 '갤S25 엣지' 공개 D-1…삼성, 애플에 앞서 '초슬림' 선점",
+        "date": "2025-05-12 13:58",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1662326"
+    },
+    {
+        "title": "삼성전자 세계 첫 500Hz OLED 게이밍 모니터 출시",
+        "date": "2025-05-12 13:56",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=237962"
+    },
+    {
+        "title": "2027년 애플 르네상스 온다…신제품 대거 출시",
+        "date": "2025-05-12 13:50",
+        "link": "https://n.news.naver.com/mnews/article/092/0002373894?sid=105"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-12 13:44",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1288575"
+    },
+    {
+        "title": "교황 레오 14세는 IT 덕후?...첫 공식 미사서 애플워치 착용",
+        "date": "2025-05-12 13:41",
+        "link": "https://n.news.naver.com/mnews/article/092/0002373891?sid=105"
+    },
+    {
+        "title": "삼성전자, 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-12 13:30",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1063966"
+    },
+    {
+        "title": "퀄컴 의존도 줄이는 삼성·애플…비용 절감이 핵심",
+        "date": "2025-05-12 13:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565573"
+    },
+    {
+        "title": "초슬림 '갤럭시S25 엣지' 영국서 가격 유출.. 205만원부터 시작",
+        "date": "2025-05-12 13:14",
+        "link": "https://kbench.com/?q=node/267325"
+    },
+    {
+        "title": "애플, 6월 공개 앞둔 'iOS 19' 와이파이 동기화 등 신규 기능 대거 담는...",
+        "date": "2025-05-12 13:12",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1799915"
+    },
+    {
+        "title": "갤럭시 이렇게 얇아진다고…아이폰만 쓰던 1020 여심 '폭발'",
+        "date": "2025-05-12 12:56",
+        "link": "https://n.news.naver.com/mnews/article/015/0005130551?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시Z 폴드7'에 혁신 기술 '올인'…역대급 두께·베젤 적용",
+        "date": "2025-05-12 11:54",
+        "link": "https://kbench.com/?q=node/267317"
+    },
+    {
+        "title": "애플, 2027년 ‘제품 르네상스’ 예고…AI·폴더블·로봇까지 전방위 확...",
+        "date": "2025-05-12 11:41",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196329?sid=105"
+    },
+    {
+        "title": "TSMC 2나노 파운드리 물량 애플이 선점, 올해 매출 기여도 '사상 최대' 전...",
+        "date": "2025-05-12 11:36",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=394657"
+    },
+    {
+        "title": "[단독] 삼성전자 올 가을 '갤럭시S25 FE'에 엑시노스 작년 버전 탑재, 엑...",
+        "date": "2025-05-12 11:36",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=394645"
+    },
+    {
+        "title": "메타·삼성도 관심···어드밴스트뷰, 나노 LED로 XR 시장 승부수",
+        "date": "2025-05-12 11:34",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=411687"
+    },
+    {
+        "title": "Samsung Electronics Launches World's First 500Hz OLED Gaming Monitor",
+        "date": "2025-05-12 11:34",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=241975"
+    },
+    {
+        "title": "애플 아이폰 혁신 한계? AI·폴더블 트렌드에 밀려",
+        "date": "2025-05-12 11:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565503"
+    },
+    {
+        "title": "애플, 스마트폰 출하량 13% 성장…삼성전자와 점유율 1%P 접전",
+        "date": "2025-05-12 11:14",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=316309"
+    },
+    {
+        "title": "스마트폰 '두께 경쟁' 점화…삼성전자, '갤S25 엣지'로 선공",
+        "date": "2025-05-12 11:10",
+        "link": "https://n.news.naver.com/mnews/article/629/0000388978?sid=105"
+    },
+    {
+        "title": "MZ가 기다리는 '애플페이 확산' 수수료 부담이 발목 잡나",
+        "date": "2025-05-12 11:01",
+        "link": "https://n.news.naver.com/mnews/article/629/0000388973?sid=101"
+    },
+    {
+        "title": "접는 건 한 물 갔다, 이젠 두께 초슬림 갤럭시 폰, 2분기 실적부진 전...",
+        "date": "2025-05-12 11:00",
+        "link": "https://radio.ytn.co.kr/program/?f=2&id=102501&s_mcd=0206&s_hcd=15"
+    },
+    {
+        "title": "美中 전쟁 모드 끝, 대화 모드 진입?무시무시한 145% 폭탄 관세, 80%까지...",
+        "date": "2025-05-12 11:00",
+        "link": "https://radio.ytn.co.kr/program/?f=2&id=102500&s_mcd=0206&s_hcd=15"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 FE에 미디어텍 '디멘시티' 칩 탑재한다... 구형 엑...",
+        "date": "2025-05-12 10:50",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1799908"
+    },
+    {
+        "title": "접는 건 한 물 갔다, 이젠 두께 초슬림 갤럭시 폰, 2분기 실적부진 전...",
+        "date": "2025-05-12 10:47",
+        "link": "https://n.news.naver.com/mnews/article/052/0002191822?sid=101"
+    },
+    {
+        "title": "“스마트폰 슬림 전쟁, 서막 연다”…갤S25 엣지 공개 D-1",
+        "date": "2025-05-12 10:43",
+        "link": "https://n.news.naver.com/mnews/article/009/0005490583?sid=101"
+    },
+    {
+        "title": "스코넥, 드래곤플라이와 '스페셜포스 VR' 개발 착수",
+        "date": "2025-05-12 10:42",
+        "link": "https://dealsite.co.kr/articles/141199"
+    },
+    {
+        "title": "[자막뉴스] 속 터지는 유심 대안?...SKT 사태에 남몰래 웃는 삼성·애플",
+        "date": "2025-05-12 10:39",
+        "link": "https://n.news.naver.com/mnews/article/052/0002191798?sid=101"
+    },
+    {
+        "title": "美中 전쟁 모드 끝, 대화 모드 진입?무시무시한 145% 폭탄 관세, 80%까지...",
+        "date": "2025-05-12 10:37",
+        "link": "https://n.news.naver.com/mnews/article/052/0002191821?sid=101"
+    },
+    {
+        "title": "애플워치 울트라3, 3가지 예상 신기능…5G·위성·혈압",
+        "date": "2025-05-12 10:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565508"
+    },
+    {
+        "title": "시계광 교황?…레오 14세, 롤렉스 이어 애플워치 착용 포착",
+        "date": "2025-05-12 10:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565511"
+    },
+    {
+        "title": "소니 PS5, 애플페이 결제 지원…아이폰·아이패드로 간편 인증",
+        "date": "2025-05-12 10:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565509"
+    },
+    {
+        "title": "인증 한 번으로 OK…애플 iOS 19, 공공 와이파이 자동 동기화 기능 도입",
+        "date": "2025-05-12 10:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565502"
+    },
+    {
+        "title": "애플, 2027년 20주년 맞아 '올글래스 아이폰' 출시 예정",
+        "date": "2025-05-12 10:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=565500"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-12 10:28",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=71864"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지' 공개 임박...스마트폰 시장 새로운 바람 일...",
+        "date": "2025-05-12 10:28",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=211795"
+    },
+    {
+        "title": "[더벨][로보락이 쏘아올린 작은 공]'스마트홈 한축으로 부상' 삼성·애플...",
+        "date": "2025-05-12 10:22",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505071013221520108235"
+    },
+    {
+        "title": "중국 OLED 패널 시장 동향",
+        "date": "2025-05-12 10:20",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=228732"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-12 10:20",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=213198"
+    },
+    {
+        "title": "퍼플렉시티 AI의 조용한 부상",
+        "date": "2025-05-12 10:20",
+        "link": "https://www.itworld.co.kr/article/3982541/퍼플렉시티-ai의-조용한-부상.html"
+    },
+    {
+        "title": "[수리불가 사회上] 고장 나면 끝? '수리할 권리'를 찾아서",
+        "date": "2025-05-12 10:16",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=115512"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 출시",
+        "date": "2025-05-12 09:58",
+        "link": "https://www.ltn.kr/news/articleView.html?idxno=48420"
+    },
+    {
+        "title": "애플 2027년 '통유리 아이폰' 출시 전망, 폴더블과 스마트글라스도 출격...",
+        "date": "2025-05-12 09:56",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=394611"
+    },
+    {
+        "title": "LG유플러스, 갤럭시 A16 기반 '갤럭시 버디 4' 국내 출시.. 39만9300원",
+        "date": "2025-05-12 09:46",
+        "link": "https://kbench.com/?q=node/267302"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz OLED 게이밍 모니터 ‘오디세이 OLED G6’ 출시",
+        "date": "2025-05-12 09:42",
+        "link": "https://www.cnbnews.com/news/article.html?no=724806"
+    },
+    {
+        "title": "갤럭시 워치 8 시리즈, 워치 울트라 비슷한 사각형 디자인 도입?",
+        "date": "2025-05-12 09:32",
+        "link": "https://kbench.com/?q=node/267301"
+    },
+    {
+        "title": "아우딘퓨쳐스, 러시아 뷰티 스토어 ‘골드애플’ 성료...미국 이어 러시...",
+        "date": "2025-05-12 09:27",
+        "link": "https://n.news.naver.com/mnews/article/014/0005348006?sid=101"
+    },
+    {
+        "title": "아우딘퓨쳐스, 러시아 뷰티 스토어 '골드애플' 성료…미국 이어 15조 러...",
+        "date": "2025-05-12 09:22",
+        "link": "https://n.news.naver.com/mnews/article/277/0005590712?sid=101"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500Hz 초고주사율 적용 게이밍 모니터 ‘오디세이...",
+        "date": "2025-05-12 09:20",
+        "link": "http://www.breaknews.com/1115676"
+    },
+    {
+        "title": "아우딘퓨쳐스, 러시아 뷰티 스토어 '골드애플' 행사 성료",
+        "date": "2025-05-12 09:17",
+        "link": "https://n.news.naver.com/mnews/article/003/0013235039?sid=101"
+    },
+    {
+        "title": "빙수부터 케이크까지…서울 최고층 타워에서 맛보는 애플망고 디저트",
+        "date": "2025-05-12 09:15",
+        "link": "https://n.news.naver.com/mnews/article/009/0005490485?sid=103"
+    },
+    {
+        "title": "삼성전자, 세계 최초 500㎐ OLED 게이밍 모니터 출시",
+        "date": "2025-05-12 09:14",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=72175"
+    },
+    {
+        "title": "애플, 폼팩터 혁신 속도...폴더블 이어 커브드 아이폰 출시 '만지작'",
+        "date": "2025-05-12 09:04",
+        "link": "https://www.theguru.co.kr/news/article.html?no=86832"
+    },
+    {
+        "title": "[더벨][i-point]아우딘퓨쳐스, 골드 애플과 '네오젠 뷰티 브런치' 맞손",
+        "date": "2025-05-12 09:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505120847080540101624"
+    },
+    {
+        "title": "쿠팡, 애플·삼성·LG 총출동…80% 폭탄세일 개시",
+        "date": "2025-05-12 08:58",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=26835"
+    },
+    {
+        "title": "[더벨][유증&amp;디테일]'OLED 소부장' 풍원정밀, FMM 양산 위한 자금확보",
+        "date": "2025-05-12 08:48",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505091459137160101021"
+    },
+    {
+        "title": "[인터뷰] 기술로 경험의 경계를 넓히다…오디세이 3D로 바꾸는 모니터 ...",
+        "date": "2025-05-12 08:46",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=60374"
+    },
+    {
+        "title": "0.03ms 응답속도 삼성전자, 세계최초 500Hz 게이밍모니터 '오디세이 OL...",
+        "date": "2025-05-12 08:36",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=108956"
+    },
+    {
+        "title": "폴더블부터 로봇까지...애플, 2027년 혁신 예고",
+        "date": "2025-05-12 08:30",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=146989"
+    },
+    {
+        "title": "[오늘의 증시리포트] 롯데에너지머티리얼즈. 드디어 적정재고에 근접",
+        "date": "2025-05-12 08:14",
+        "link": "https://www.etoday.co.kr/news/view/2469402"
+    },
+    {
+        "title": "[IT썰] 손목에 설마 애플워치?…'미국인 교황' 레오 14세 또 파격",
+        "date": "2025-05-12 08:11",
+        "link": "https://n.news.naver.com/mnews/article/008/0005192402?sid=105"
+    },
+    {
+        "title": "애플, 6월 9일 WWDC 2025 개최... iOS 19부터 '애플 인텔리전스'까지 대변...",
+        "date": "2025-05-12 08:10",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=530964"
+    },
+    {
+        "title": "[더벨][도우인시스 IPO]삼성 의존도 '양날의 검'…시장 의구심 해소 필요",
+        "date": "2025-05-12 08:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505081047476080109214"
+    },
+    {
+        "title": "맥OS처럼 바뀌나? 애플, 6월 출시될 '아이패드OS 19' 신기능 4가지는?",
+        "date": "2025-05-12 08:08",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=530958"
+    },
+    {
+        "title": "지지부진 애플페이…결제시장 '갈라파고스화' 우려",
+        "date": "2025-05-12 08:06",
+        "link": "http://www.metroseoul.co.kr/article/20250512500003"
+    },
+    {
+        "title": "애플워치 딱 기다려 확 달라질 갤럭시워치8[모닝폰]",
+        "date": "2025-05-12 08:00",
+        "link": "https://n.news.naver.com/mnews/article/018/0006011107?sid=105"
+    },
+    {
+        "title": "[D터뷰] 최현순 코윈테크 대표 로보틱스 역량 강화…OHMS·MRS 신사업 확...",
+        "date": "2025-05-12 08:00",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196283?sid=105"
+    },
+    {
+        "title": "[진격의 삼성디스플레이] IT·차량 OLED로 다각화 박차…수익성은 '아직...",
+        "date": "2025-05-12 07:02",
+        "link": "https://dealsite.co.kr/articles/141062"
+    },
+    {
+        "title": "트럼프 ‘관세폭탄’에 中 LCD 감산 돌입…삼성·LG, OLED로 다시 패권 ...",
+        "date": "2025-05-12 07:02",
+        "link": "https://www.ceoscoredaily.com/page/view/2025050913485256187"
+    },
+    {
+        "title": "삼성, 500Hz OLED 게이밍 모니터 '오디세이 OLED G6' 출시",
+        "date": "2025-05-12 07:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=168331"
+    }
+]
