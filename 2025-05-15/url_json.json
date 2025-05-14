@@ -1,1 +1,657 @@
-
+[
+    {
+        "title": "불붙는 이동식 TV 시장… LG ‘스윙’ 출격, 삼성도 신제품 출시 예고",
+        "date": "2025-05-15 03:03",
+        "link": "https://n.news.naver.com/mnews/article/020/0003635006?sid=101"
+    },
+    {
+        "title": "관세 앞서 미리 수입…3월 미국 내 스마트폰 출하 30% 급증",
+        "date": "2025-05-15 00:36",
+        "link": "https://n.news.naver.com/mnews/article/015/0005132043?sid=101"
+    },
+    {
+        "title": "점자 입력·실시간 자막… 장애인 돕는 스마트폰",
+        "date": "2025-05-15 00:31",
+        "link": "https://n.news.naver.com/mnews/article/023/0003905189?sid=105"
+    },
+    {
+        "title": "합천군, 2025년산 애플수박 첫 출하식 개최",
+        "date": "2025-05-14 21:54",
+        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=609642"
+    },
+    {
+        "title": "“내 마음 알지?”…손가락도 필요없다, 뇌파만으로 움직이게 한다는 애...",
+        "date": "2025-05-14 20:54",
+        "link": "https://n.news.naver.com/mnews/article/009/0005492647?sid=105"
+    },
+    {
+        "title": "애플, 2026년 주요 제품 업그레이드 계획 공개",
+        "date": "2025-05-14 20:50",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=801518"
+    },
+    {
+        "title": "달성군의회, 애플수박 첫 출하 현장 격려",
+        "date": "2025-05-14 20:48",
+        "link": "https://www.ksmnews.co.kr/news/view.php?idx=540310"
+    },
+    {
+        "title": "‘비전 프로’ XR 생태계 확장하는 ‘애플’…삼성, 하반기 도전장 내민...",
+        "date": "2025-05-14 18:10",
+        "link": "https://www.etoday.co.kr/news/view/2469671"
+    },
+    {
+        "title": "합천군, 애플수박 본격 출하 돌입",
+        "date": "2025-05-14 17:52",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=434269"
+    },
+    {
+        "title": "ISTE, HBM 시장 커진다... 올해 PECVD 장비 매출 발생 목표",
+        "date": "2025-05-14 17:48",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=35947"
+    },
+    {
+        "title": "MSI, 컴퓨텍스 2025서 AI 및 친환경 기술로 노트북, 핸드헬드 다관왕 달...",
+        "date": "2025-05-14 17:44",
+        "link": "https://m.sports.naver.com/esports/article/442/0000182328"
+    },
+    {
+        "title": "애플 뇌파로 아이폰 조작… 머스크와 경쟁",
+        "date": "2025-05-14 17:43",
+        "link": "https://n.news.naver.com/mnews/article/009/0005492529?sid=105"
+    },
+    {
+        "title": "어려울 땐 자회사가 효자? LG전자, 디스플레이·이노텍에 거는 기대",
+        "date": "2025-05-14 17:40",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=492472"
+    },
+    {
+        "title": "LG디스플레이, SID 2025서 세계 최고 기술로 미래 시장 정조준",
+        "date": "2025-05-14 17:36",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=448224"
+    },
+    {
+        "title": "애플, 중국서 아이폰 최대 30% 할인…화웨이·샤오미와 경쟁 심화",
+        "date": "2025-05-14 17:32",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4355873"
+    },
+    {
+        "title": "사진 3장으로 3D 모델 뚝딱…애플, 3D AI 모델 공개",
+        "date": "2025-05-14 17:24",
+        "link": "https://n.news.naver.com/mnews/article/092/0002374297?sid=105"
+    },
+    {
+        "title": "[더벨][i-point]탑런토탈솔루션, '양산 안정화·수익성 회복' 기대감",
+        "date": "2025-05-14 17:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505141643049400105734"
+    },
+    {
+        "title": "애플, 중국서 아이폰 최대 30% 약 50만원 파격 할인",
+        "date": "2025-05-14 17:02",
+        "link": "https://n.news.naver.com/mnews/article/374/0000440495?sid=104"
+    },
+    {
+        "title": "476만 잔 팔린 투썸플레이스 '아샷추', 이번엔 민트·애플로 돌아왔다",
+        "date": "2025-05-14 17:00",
+        "link": "https://www.insight.co.kr/news/503000"
+    },
+    {
+        "title": "폰 한 대에 200만원 시대…아빠들은 운다",
+        "date": "2025-05-14 16:50",
+        "link": "https://n.news.naver.com/mnews/article/029/0002954632?sid=105"
+    },
+    {
+        "title": "2026년 애플 주요 제품 업글…아이폰 폴드·맥북 프로·비전 에어 온다",
+        "date": "2025-05-14 16:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566117"
+    },
+    {
+        "title": "애플, 하반기 아이폰 자막·음성에 한국어 지원한다",
+        "date": "2025-05-14 16:46",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092140667"
+    },
+    {
+        "title": "애플, 스타트업과 뇌 임플란트로 아이폰 제어 기술 도입",
+        "date": "2025-05-14 16:42",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202505141615561200"
+    },
+    {
+        "title": "탑런토탈솔루션, 1분기 매출 1268억…부품 공급 안정화 유지",
+        "date": "2025-05-14 16:35",
+        "link": "https://n.news.naver.com/mnews/article/003/0013242015?sid=101"
+    },
+    {
+        "title": "[이슈플러스] 아이폰 라인업도 달라진다",
+        "date": "2025-05-14 16:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003312483?sid=105"
+    },
+    {
+        "title": "애플, 20주년 아이폰 확 바뀐다…기술·공급망 개편 착수",
+        "date": "2025-05-14 16:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003312482?sid=105"
+    },
+    {
+        "title": "합천군, 애플수박 출하 시작…전국 생산량 65% 차지",
+        "date": "2025-05-14 16:26",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1147022"
+    },
+    {
+        "title": "코웨이, 풀스크린 LCD 디스플레이 적용한 '아이콘 프로 정수기' 출시",
+        "date": "2025-05-14 16:26",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=526553"
+    },
+    {
+        "title": "손 안 써도 된다... 애플, 뇌파로 아이폰 조작 기술 개발 중",
+        "date": "2025-05-14 16:20",
+        "link": "https://www.insight.co.kr/news/503018"
+    },
+    {
+        "title": "대구 달성군의회, 애플수박 첫 출하 현장 방문… 생산 농가 격려",
+        "date": "2025-05-14 16:20",
+        "link": "https://www.kbmaeil.com/article/20250514500469"
+    },
+    {
+        "title": "달성군의회, 애플수박 첫 출하 현장 방문",
+        "date": "2025-05-14 16:16",
+        "link": "https://www.kbsm.net/news/view.php?idx=475000"
+    },
+    {
+        "title": "中 아이폰16 최대 50만원 파격 할인…소비 진작 총력",
+        "date": "2025-05-14 16:11",
+        "link": "https://n.news.naver.com/mnews/article/018/0006013561?sid=101"
+    },
+    {
+        "title": "애플, 뇌파로 아이폰 조작하는 기술 개발 나선다",
+        "date": "2025-05-14 16:10",
+        "link": "https://n.news.naver.com/mnews/article/028/0002745828?sid=101"
+    },
+    {
+        "title": "나무가, 슬림 카메라 모듈 구현 'OIS 액추에이터' 개발",
+        "date": "2025-05-14 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003312458?sid=105"
+    },
+    {
+        "title": "“얇아야 산다”…SKT 해킹發 eSIM 붐, 초슬림폰 시장 흔든다",
+        "date": "2025-05-14 16:00",
+        "link": "https://n.news.naver.com/mnews/article/009/0005492416?sid=101"
+    },
+    {
+        "title": "MSI 노트북 X G마켓 협업, '스타필드 하남 팝업스토어' 오픈",
+        "date": "2025-05-14 16:00",
+        "link": "https://m.sports.naver.com/esports/article/442/0000182324"
+    },
+    {
+        "title": "레노버, '테크월드 상하이 2025'서 초고성능 게이밍 노트북 '리전 9i' 공...",
+        "date": "2025-05-14 15:59",
+        "link": "https://m.sports.naver.com/esports/article/442/0000182323"
+    },
+    {
+        "title": "삼성전자 베트남 스마트폰 시장 1위… 애플·중국 브랜드 맹추격은 부담",
+        "date": "2025-05-14 15:57",
+        "link": "https://n.news.naver.com/mnews/article/014/0005349532?sid=101"
+    },
+    {
+        "title": "애플 아이폰16 중국에서 판매 부진에 파격 할인, 정가 대비 판매가 대폭...",
+        "date": "2025-05-14 15:56",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=395082"
+    },
+    {
+        "title": "애플, '아이폰 17' 출시가 인상 검토…3년 만에 '아이폰 가격' 오르나",
+        "date": "2025-05-14 15:50",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3274545"
+    },
+    {
+        "title": "경남 합천서 애플수박 본격 출하 시작",
+        "date": "2025-05-14 15:43",
+        "link": "https://n.news.naver.com/mnews/article/662/0000068610?sid=102"
+    },
+    {
+        "title": "애플, '한국어 자막·음성 명령' 지원…장애인 접근성 대폭 강화",
+        "date": "2025-05-14 15:42",
+        "link": "http://www.metroseoul.co.kr/article/20250514500354"
+    },
+    {
+        "title": "애플, 아이폰17 가격 인상?",
+        "date": "2025-05-14 15:30",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1089862"
+    },
+    {
+        "title": "애플, 구형 아이패드 보안 취약점 수정 '아이패드OS 17.7.7' 출시",
+        "date": "2025-05-14 15:22",
+        "link": "https://kbench.com/?q=node/267418"
+    },
+    {
+        "title": "국내 게임업체 2025년 1분기 실적 정리",
+        "date": "2025-05-14 15:22",
+        "link": "https://www.gameshot.net/common/con_view.php?code=GA6824355cb7816"
+    },
+    {
+        "title": "한국, 아이폰 가격 폭탄 터진다…'초유의 사태' 벌어진 이유",
+        "date": "2025-05-14 15:20",
+        "link": "https://n.news.naver.com/mnews/article/015/0005131767?sid=105"
+    },
+    {
+        "title": "레노버, 리전 9i 공개…게이머·개발자 겨냥 AI 게이밍북",
+        "date": "2025-05-14 14:54",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196548?sid=105"
+    },
+    {
+        "title": "애플은 가격 인상 검토...삼성전자, 남몰래 웃는 이유",
+        "date": "2025-05-14 14:50",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=247294"
+    },
+    {
+        "title": "레노버, 상하이서 고성능 게이밍 노트북 '리전 9i' 공개",
+        "date": "2025-05-14 14:50",
+        "link": "https://n.news.naver.com/mnews/article/030/0003312403?sid=105"
+    },
+    {
+        "title": "합천군, 애플수박 본격 출하",
+        "date": "2025-05-14 14:42",
+        "link": "https://www.news2day.co.kr/article/20250514500135"
+    },
+    {
+        "title": "애플, 뇌파로 아이폰 조작하는 기술 도입한다",
+        "date": "2025-05-14 14:33",
+        "link": "https://n.news.naver.com/mnews/article/050/0000090802?sid=101"
+    },
+    {
+        "title": "생각만으로 아이폰 조작한다?...애플, 머스크와 한판 뜨겠다는 이 기술",
+        "date": "2025-05-14 14:30",
+        "link": "https://n.news.naver.com/mnews/article/009/0005492325?sid=104"
+    },
+    {
+        "title": "'갤 S25 엣지 사전예약' 시작에 속 타는 SKT…가입자 유치 힘쓰는 KT·LGU...",
+        "date": "2025-05-14 14:21",
+        "link": "https://www.newspim.com/news/view/20250514000832"
+    },
+    {
+        "title": "코웨이 LCD 터치 스크린 '아이콘 프로 정수기' 출시…편의성↑",
+        "date": "2025-05-14 14:14",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1662711"
+    },
+    {
+        "title": "애플, 생각만으로 아이폰 사용하는 법 연구한다",
+        "date": "2025-05-14 14:12",
+        "link": "https://byline.network/?p=9004111222564233"
+    },
+    {
+        "title": "[합천소식]군, 애플수박 본격 출하 등",
+        "date": "2025-05-14 13:42",
+        "link": "https://n.news.naver.com/mnews/article/003/0013241247?sid=102"
+    },
+    {
+        "title": "AI도, 뇌파 조작도 역부족…진짜 필요한 건 '아이폰 반등'",
+        "date": "2025-05-14 13:40",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=48075"
+    },
+    {
+        "title": "삼성전자, 초슬림 스마트폰 '갤럭시 S25 엣지' 공개",
+        "date": "2025-05-14 13:36",
+        "link": "https://www.todayeconomic.com/news/article.html?no=27303"
+    },
+    {
+        "title": "합천군, 애플수박 본격 출하 돌입",
+        "date": "2025-05-14 13:32",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160284486032894"
+    },
+    {
+        "title": "“애플 비전프로 잡을까”..삼성, 오사카 엑스포서 ‘프로젝트 무한’ ...",
+        "date": "2025-05-14 13:29",
+        "link": "https://n.news.naver.com/mnews/article/009/0005492273?sid=101"
+    },
+    {
+        "title": "애플, AI로 아이폰 배터리 수명 관리...9월 출시 iOS 19부터",
+        "date": "2025-05-14 13:22",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202505141117469780"
+    },
+    {
+        "title": "더 얇고 더 똑똑하게!...이번엔 스마트폰 '두께 경쟁'",
+        "date": "2025-05-14 13:16",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202505141116487276"
+    },
+    {
+        "title": "“청각 장애인도 OK”…아이폰 실시간 자막·음성 명령에 한국어 지원",
+        "date": "2025-05-14 13:14",
+        "link": "https://n.news.naver.com/mnews/article/009/0005492262?sid=101"
+    },
+    {
+        "title": "투썸플레이스, '아샷추' 신맛 추가...애플·민트 2종 여름 출격",
+        "date": "2025-05-14 12:46",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=421322"
+    },
+    {
+        "title": "“애플, 뇌파로 아이폰 제어하는 기술 연구”… 머스크와 경쟁 예고",
+        "date": "2025-05-14 12:10",
+        "link": "https://n.news.naver.com/mnews/article/366/0001076969?sid=105"
+    },
+    {
+        "title": "애플, 하반기 중 아이폰 실시간 자막·음성 명령에 한국어 지원",
+        "date": "2025-05-14 12:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001076966?sid=105"
+    },
+    {
+        "title": "생각만으로 아이폰 제어 애플, 기술 개발 착수",
+        "date": "2025-05-14 11:51",
+        "link": "https://n.news.naver.com/mnews/article/018/0006013273?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 美 ‘SID 2025’ 참가…세계 최고 기술로 미래 시장 정조...",
+        "date": "2025-05-14 11:40",
+        "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065577064520531"
+    },
+    {
+        "title": "삼성전자, 日오사카서 대중 앞 XR 헤드셋 '프로젝트 무한' 첫 시연",
+        "date": "2025-05-14 11:36",
+        "link": "https://n.news.naver.com/mnews/article/277/0005592229?sid=101"
+    },
+    {
+        "title": "'제품 르네상스 열린다?' 애플, 2027년 신제품 대거 출시 [영상]",
+        "date": "2025-05-14 11:26",
+        "link": "https://n.news.naver.com/mnews/article/030/0003312252?sid=105"
+    },
+    {
+        "title": "사진 3장으로 뚝딱…애플, 3D 장면 생성 AI '매트릭스3D' 공개",
+        "date": "2025-05-14 11:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566069"
+    },
+    {
+        "title": "레노버, 테크월드 상하이서 AI 게이밍 노트북 '리전 9i' 공개",
+        "date": "2025-05-14 11:10",
+        "link": "https://www.cnet.co.kr/view/?no=20250514102636"
+    },
+    {
+        "title": "애플, 2027년 에어팟에 AI 카메라 탑재 계획",
+        "date": "2025-05-14 11:04",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=801234"
+    },
+    {
+        "title": "애플 비전 프로, 새로운 접근성 기능 공개",
+        "date": "2025-05-14 11:02",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=801232"
+    },
+    {
+        "title": "생각으로 아이폰 제어…애플도 뛰어든 '뇌 임플란트' 경쟁",
+        "date": "2025-05-14 10:57",
+        "link": "https://n.news.naver.com/mnews/article/008/0005193805?sid=104"
+    },
+    {
+        "title": "레노버, '테크월드 상하이 2025'서 초고성능 게이밍 노트북 '리전 9i' 공...",
+        "date": "2025-05-14 10:52",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54372"
+    },
+    {
+        "title": "레노버, 초고성능 게이밍 노트북 '리전 9i' 공개",
+        "date": "2025-05-14 10:48",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=139646"
+    },
+    {
+        "title": "애플 “뇌파로 아이폰 제어”...뇌 임플란트 기술 도입 준비 중",
+        "date": "2025-05-14 10:47",
+        "link": "https://n.news.naver.com/mnews/article/030/0003312216?sid=104"
+    },
+    {
+        "title": "“애플, 스타트업과 뇌 임플란트로 아이폰 제어 기술 도입”",
+        "date": "2025-05-14 10:38",
+        "link": "https://n.news.naver.com/mnews/article/056/0011950849?sid=104"
+    },
+    {
+        "title": "뇌파로 아이폰 제어… 애플, '뇌 임플란트' 개발 착수",
+        "date": "2025-05-14 10:34",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092140607"
+    },
+    {
+        "title": "합천군, 애플수박 본격 출하",
+        "date": "2025-05-14 10:30",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3274169"
+    },
+    {
+        "title": "레노버, '테크월드 상하이 2025'서 초고성능 게이밍 노트북 '리전 9i' 공...",
+        "date": "2025-05-14 10:28",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=316451"
+    },
+    {
+        "title": "레노버 '테크월드 상하이 2025'서 초고성능 게이밍 노트북 '리전 9i' 공개",
+        "date": "2025-05-14 10:24",
+        "link": "http://gamefocus.co.kr/detail.php?number=165513"
+    },
+    {
+        "title": "'中업체와 각축' 삼성폰, 베트남서 1등한 이유…고가 모델 잘팔리는 시...",
+        "date": "2025-05-14 10:23",
+        "link": "https://n.news.naver.com/mnews/article/015/0005131628?sid=105"
+    },
+    {
+        "title": "레노버, 테크월드 상하이 2025서 초고성능 게이밍 노트북 리전 9i 공개",
+        "date": "2025-05-14 10:22",
+        "link": "https://kbench.com/?q=node/267389"
+    },
+    {
+        "title": "AI 게이밍 노트북 새기준…레노버 '리전 9i' 공개",
+        "date": "2025-05-14 10:22",
+        "link": "https://n.news.naver.com/mnews/article/421/0008249166?sid=105"
+    },
+    {
+        "title": "애플, 접근성 개선하는 ‘손쉬운 사용 기능’ 공개",
+        "date": "2025-05-14 10:10",
+        "link": "https://byline.network/?p=9004111222564186"
+    },
+    {
+        "title": "[더벨][하이테크 소부장 리포트]원익그룹, DDI 진출 4년차…삼성D 공급 ...",
+        "date": "2025-05-14 10:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505121535157320108750"
+    },
+    {
+        "title": "[더벨]삼성전자, 갤럭시 엣지 모델 첫 출시 '생산지 분산'",
+        "date": "2025-05-14 10:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505131102570480104713"
+    },
+    {
+        "title": "애플 앱스토어에 접근성 라벨 도입 예고…장애인 사용자 편의성↑",
+        "date": "2025-05-14 10:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566035"
+    },
+    {
+        "title": "합천군, '고품질 소형 수박의 선두주자' 애플수박 본격 출하",
+        "date": "2025-05-14 10:05",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2276589"
+    },
+    {
+        "title": "눈 대신 본다…애플 비전 프로에 접근성 기능 추가",
+        "date": "2025-05-14 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566005"
+    },
+    {
+        "title": "애플 에어팟에 AI 카메라 장착하려나…2027년 출시설",
+        "date": "2025-05-14 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566002"
+    },
+    {
+        "title": "애플, 뇌파로 아이폰 제어하는 기술 개발…싱크론과 협력",
+        "date": "2025-05-14 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566023"
+    },
+    {
+        "title": "모토로라 첫 플래그십 폴더블폰 '레이저 60 울트라' 인도 출시.. 가격 16...",
+        "date": "2025-05-14 09:50",
+        "link": "https://kbench.com/?q=node/267383"
+    },
+    {
+        "title": "투썸플레이스, 누적 500만 잔 판매된 ‘아샷추’… 애플·민트맛 출시",
+        "date": "2025-05-14 09:42",
+        "link": "https://n.news.naver.com/mnews/article/020/0003634791?sid=101"
+    },
+    {
+        "title": "애플, “손 없이도 아이폰 사용”… 뇌 임플란트 기술 도입",
+        "date": "2025-05-14 09:38",
+        "link": "https://n.news.naver.com/mnews/article/123/0002358953?sid=101"
+    },
+    {
+        "title": "'5.8mm' 삼성 갤럭시S25 엣지 사전예약…이통3사 공시지원금 최대 25만원",
+        "date": "2025-05-14 09:26",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=79375"
+    },
+    {
+        "title": "[AT이커머스]식봄·오아시스마켓·쿠팡·11번가",
+        "date": "2025-05-14 09:24",
+        "link": "https://www.asiatime.co.kr/article/20250514500059"
+    },
+    {
+        "title": "뇌파로 아이폰 조작한다…애플, '뇌 임플란트' 도입 추진",
+        "date": "2025-05-14 09:16",
+        "link": "https://n.news.naver.com/mnews/article/277/0005592006?sid=104"
+    },
+    {
+        "title": "생각만으로 아이폰·비전프로 조작 애플, BCI 기술 공식 채택",
+        "date": "2025-05-14 09:12",
+        "link": "https://www.theguru.co.kr/news/article.html?no=86919"
+    },
+    {
+        "title": "마이크로소프트, 약 7천명 구조조정 단행…2023년 이후 최대 규모",
+        "date": "2025-05-14 09:10",
+        "link": "https://n.news.naver.com/mnews/article/092/0002374151?sid=105"
+    },
+    {
+        "title": "애플 뇌-컴퓨터 연결 기술 추진, 하나증권 솔본 네오펙트 링크제니시스...",
+        "date": "2025-05-14 09:10",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=394958"
+    },
+    {
+        "title": "'5.8mm' 역대 가장 슬림한 갤럭시…MZ세대 노린다",
+        "date": "2025-05-14 09:01",
+        "link": "https://n.news.naver.com/mnews/article/057/0001886155?sid=101"
+    },
+    {
+        "title": "뇌파로 아이폰 제어…애플, 싱크론과 BCI 기술 개발 착수",
+        "date": "2025-05-14 09:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=168608"
+    },
+    {
+        "title": "[AT 산업 단신] 삼성전자·LG전자·삼성디스플레이·LG디스플레이",
+        "date": "2025-05-14 08:54",
+        "link": "https://www.asiatime.co.kr/article/20250513500437"
+    },
+    {
+        "title": "애플, 스타트업과 뇌 임플란트로 아이폰 제어 기술 도입",
+        "date": "2025-05-14 08:52",
+        "link": "https://n.news.naver.com/mnews/article/055/0001257758?sid=104"
+    },
+    {
+        "title": "생각만으로 기계 제어... 애플, 뇌파 기술 도입 [지금이뉴스]",
+        "date": "2025-05-14 08:52",
+        "link": "https://n.news.naver.com/mnews/article/052/0002192757?sid=004"
+    },
+    {
+        "title": "손쉬운 사용 최우선…애플, 장애인 지원 신기능 공개",
+        "date": "2025-05-14 08:48",
+        "link": "https://n.news.naver.com/mnews/article/092/0002374144?sid=105"
+    },
+    {
+        "title": "[영상] 초슬림·고성능 다 잡았다···삼성전자, 갤럭시 S25 엣지로 슬...",
+        "date": "2025-05-14 08:45",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=232212"
+    },
+    {
+        "title": "레노버, 상하이서 초고성능 게이밍 노트북 '리전 9i' 공개.. RTX 5090 탑재",
+        "date": "2025-05-14 08:45",
+        "link": "https://n.news.naver.com/mnews/article/014/0005349185?sid=105"
+    },
+    {
+        "title": "뇌파로 아이폰 제어…애플, 아이폰에 마인드 컨트롤 기능 추가",
+        "date": "2025-05-14 08:44",
+        "link": "https://n.news.naver.com/mnews/article/092/0002374143?sid=105"
+    },
+    {
+        "title": "삼성전자, 애플에 선제 공격?..'S25 엣지' 선보여",
+        "date": "2025-05-14 08:42",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=147109"
+    },
+    {
+        "title": "'5.8㎜' 초슬림, 성능은 '울트라급'…베일 벗은 갤럭시 S25 엣지",
+        "date": "2025-05-14 08:24",
+        "link": "https://n.news.naver.com/mnews/article/011/0004485010?sid=101"
+    },
+    {
+        "title": "애플, 구형 홈앱 아키텍처 강제 종료… 구버전 기기는 스마트홈 제어 불...",
+        "date": "2025-05-14 08:10",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531044"
+    },
+    {
+        "title": "'애플' 뇌 임플란트 기술 도입 추진…싱크론 협력에 시장 주목",
+        "date": "2025-05-14 08:08",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15665438"
+    },
+    {
+        "title": "애플, 스타트업과 뇌 임플란트로 아이폰 제어 기술 도입",
+        "date": "2025-05-14 08:06",
+        "link": "https://n.news.naver.com/mnews/article/052/0002192743?sid=104"
+    },
+    {
+        "title": "“이 정도면 괴물 중에 괴물”…군살 완전히 걷어낸 갤럭시, 공책보다도...",
+        "date": "2025-05-14 08:03",
+        "link": "https://n.news.naver.com/mnews/article/009/0005491986?sid=105"
+    },
+    {
+        "title": "생각만으로 아이폰 조작...애플, 뇌파 기술 도입",
+        "date": "2025-05-14 08:03",
+        "link": "https://n.news.naver.com/mnews/article/215/0001209141?sid=004"
+    },
+    {
+        "title": "갤럭시 엣지 드디어 공개…삼성·애플 '타이밍 대전' 개막",
+        "date": "2025-05-14 08:00",
+        "link": "https://n.news.naver.com/mnews/article/241/0003436968?sid=105"
+    },
+    {
+        "title": "가전 대세 '이동식TV'…삼성, 가성비로 LG에 도전장",
+        "date": "2025-05-14 08:00",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=749046"
+    },
+    {
+        "title": "애플, 실시간 자막·음성 명령에 한국어 지원…장애인 접근성 확대",
+        "date": "2025-05-14 07:52",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1662617"
+    },
+    {
+        "title": "애플, 뇌파로 아이폰 제어하는 기술 도입할 듯",
+        "date": "2025-05-14 07:42",
+        "link": "https://n.news.naver.com/mnews/article/029/0002954394?sid=104"
+    },
+    {
+        "title": "애플, 하반기 실시간 자막·음성 명령에 한국어 지원",
+        "date": "2025-05-14 07:39",
+        "link": "https://n.news.naver.com/mnews/article/422/0000740217?sid=104"
+    },
+    {
+        "title": "애플, 머스크랑 맞대결?…WSJ 뇌파로 아이폰 제어 기술 도입",
+        "date": "2025-05-14 07:33",
+        "link": "https://n.news.naver.com/mnews/article/374/0000440327?sid=104"
+    },
+    {
+        "title": "삼성전자, '갤럭시 S25 엣지'로 초슬림 혁신 승부수",
+        "date": "2025-05-14 07:30",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=26996"
+    },
+    {
+        "title": "아이폰 가격 인상 임박…애플, 관세 피해 '혁신' 내세워",
+        "date": "2025-05-14 07:30",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=26990"
+    },
+    {
+        "title": "애플, 하반기에 아이폰 실시간 자막·음성 명령에 한국어 지원",
+        "date": "2025-05-14 07:26",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=820682"
+    },
+    {
+        "title": "애플, 스타트업과 뇌 임플란트로 아이폰 제어 기술 도입",
+        "date": "2025-05-14 07:24",
+        "link": "https://n.news.naver.com/mnews/article/001/0015386515?sid=104"
+    },
+    {
+        "title": "애플, 올 하반기 아이폰 실시간 자막·음성 명령에 한국어 지원",
+        "date": "2025-05-14 07:14",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=643093"
+    },
+    {
+        "title": "삼성 갤S25 엣지, '슬림폰' 신호탄…폴더블폰 기대감 커져",
+        "date": "2025-05-14 07:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008248623?sid=105"
+    }
+]
