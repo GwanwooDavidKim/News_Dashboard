@@ -1,1 +1,482 @@
-
+[
+    {
+        "title": "트럼프, 애플 인도 생산 확대에 경고…“이제 미국에 공장 세울 때”",
+        "date": "2025-05-16 04:42",
+        "link": "https://www.tokenpost.kr/news/policy/248274"
+    },
+    {
+        "title": "많이 봐줬다…트럼프 애플, 인도 말고 미국서 만들어라",
+        "date": "2025-05-16 04:23",
+        "link": "https://n.news.naver.com/mnews/article/374/0000440832?sid=104"
+    },
+    {
+        "title": "애플 기기 당 20달러 '시리 합의금' 보상 신청하세요",
+        "date": "2025-05-16 04:10",
+        "link": "https://www.radiokorea.com/news/article.php?uid=473946"
+    },
+    {
+        "title": "트럼프, 애플 인도 이전 제동… “아이폰은 미국에서 만들어야”",
+        "date": "2025-05-16 02:12",
+        "link": "https://www.tokenpost.kr/news/tech/248239"
+    },
+    {
+        "title": "트럼프 애플에 미국에 공장 짓길 바라…수년간 참고 봐줬다",
+        "date": "2025-05-16 01:49",
+        "link": "https://n.news.naver.com/mnews/article/421/0008253918?sid=104"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 애플 앱스토어 매출 1위 달성",
+        "date": "2025-05-16 01:18",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=239896"
+    },
+    {
+        "title": "트럼프, 애플 압박…팀 쿡, 인도 말고 미국서 생산하라",
+        "date": "2025-05-16 01:07",
+        "link": "https://n.news.naver.com/mnews/article/293/0000067406?sid=101"
+    },
+    {
+        "title": "'5.8㎜ 초슬림' 갤S25 엣지, 사전판매 시작... 가격·혜택은?",
+        "date": "2025-05-15 22:50",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1089547"
+    },
+    {
+        "title": "히어360·하이퍼엑스 손잡았다…게이밍 오디오 '진짜 몰입' 온다",
+        "date": "2025-05-15 22:14",
+        "link": "https://www.tokenpost.kr/news/tech/248157"
+    },
+    {
+        "title": "[영상] 애플이 뇌를 읽는다? 생각으로 아이폰 조작하는 BCI 기술 공개 예...",
+        "date": "2025-05-15 22:00",
+        "link": "https://www.theguru.co.kr/news/article.html?no=86950"
+    },
+    {
+        "title": "트럼프 애플, 인도서 만들지 말고 미국서 만들라…팀 쿡에 '직설 경고...",
+        "date": "2025-05-15 21:35",
+        "link": "https://www.newspim.com/news/view/20250515001481"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간만에 애플 앱스토어 매출 1위 달...",
+        "date": "2025-05-15 21:18",
+        "link": "http://gamefocus.co.kr/detail.php?number=165597"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스' 출시 첫날 애플 매출 1위 등극",
+        "date": "2025-05-15 21:06",
+        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=339809"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스'도 통했다…애플 앱스토어 매출 1위 쾌거",
+        "date": "2025-05-15 20:52",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=109598"
+    },
+    {
+        "title": "넷마블 ‘세븐나이츠 리버스’, 출시 7시간 만에 애플 앱스토어 매출 1...",
+        "date": "2025-05-15 20:42",
+        "link": "https://www.kukinews.com/article/view/kuk202505150289"
+    },
+    {
+        "title": "세븐나이츠 리버스, 출시 7시간 만에 애플 앱스토어 매출 1위",
+        "date": "2025-05-15 20:40",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=39555"
+    },
+    {
+        "title": "인니, 전 세계 스마트폰에 ‘불법 광물’ 공급",
+        "date": "2025-05-15 20:10",
+        "link": "https://n.news.naver.com/mnews/article/607/0000002655?sid=102"
+    },
+    {
+        "title": "넷마블, 세븐나이츠 리버스 출시 7시간만에 애플 매출 1위 달성",
+        "date": "2025-05-15 20:06",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=755536"
+    },
+    {
+        "title": "日, 구글·애플의 앱 스토어 독점 행위 금지 가이드라인 발표",
+        "date": "2025-05-15 19:30",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025051519273958130c8c1c064d_1/article.html"
+    },
+    {
+        "title": "삼성페이, 무수수료·광범위 호환성으로 국내 간편결제 시장 장악",
+        "date": "2025-05-15 19:20",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=636762"
+    },
+    {
+        "title": "태블릿, 가성비가 뜬다지만… 삼성, AI·프리미엄에 더 힘준다",
+        "date": "2025-05-15 18:46",
+        "link": "https://n.news.naver.com/mnews/article/014/0005350286?sid=105"
+    },
+    {
+        "title": "“밤에 켜진 모니터 더 자연스럽게 보여준다” 벤큐, 스크린바 헤일로 ...",
+        "date": "2025-05-15 18:36",
+        "link": "https://it.donga.com/106951/"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간만 애플 앱스토어 매출 1위",
+        "date": "2025-05-15 18:22",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=177103"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간 만에 애플 앱스토어 매출 1위",
+        "date": "2025-05-15 18:14",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=715960"
+    },
+    {
+        "title": "LCD 패널 가격 하락·OLED TV 수요 증가…삼성·LG TV 사업 숨통 트이나",
+        "date": "2025-05-15 18:12",
+        "link": "https://www.ceoscoredaily.com/page/view/2025051514090045261"
+    },
+    {
+        "title": "'갤럭시 S25' 효과 톡톡…삼성전자 1분기 매출 절반이 '스마트폰'",
+        "date": "2025-05-15 18:12",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=795972"
+    },
+    {
+        "title": "'삼성전자' 1분기 5대 매출처에 '알파벳' 포함…스마트폰 점유율 20.4%로...",
+        "date": "2025-05-15 18:12",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15667516"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간만에 애플 앱스토어 매출 1위",
+        "date": "2025-05-15 18:06",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=141393"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간 만에 애플 매출 1위 등극",
+        "date": "2025-05-15 18:01",
+        "link": "https://m.sports.naver.com/esports/article/347/0000186541"
+    },
+    {
+        "title": "초슬림 '갤럭시S25 엣지' 유럽서 흥행 성공할까?",
+        "date": "2025-05-15 17:58",
+        "link": "https://kbench.com/?q=node/267483"
+    },
+    {
+        "title": "'세나'의 부활, '세븐나이츠 리버스' 출시 당일 애플 매출 1위",
+        "date": "2025-05-15 17:58",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202505151753343154c5fa75ef86_1/article.html"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간 만에 애플 매출 1위",
+        "date": "2025-05-15 17:56",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1239370"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간 만에 애플 앱스토어 매출 1위",
+        "date": "2025-05-15 17:55",
+        "link": "https://www.psnews.co.kr/news/articleView.html?idxno=2095840"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 애플 앱스토어 매출 1위···출시 7시간만",
+        "date": "2025-05-15 17:54",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=109877"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간만에 애플 앱스토어 매출 1위 달...",
+        "date": "2025-05-15 17:54",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=44634"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간 만에 애플 앱스토어 매출 1위 ...",
+        "date": "2025-05-15 17:52",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=185220"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간 만에 애플 앱스토어 매출 1위 ...",
+        "date": "2025-05-15 17:52",
+        "link": "https://www.newspim.com/news/view/20250515001376"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간만에 애플 매출 1위",
+        "date": "2025-05-15 17:51",
+        "link": "https://n.news.naver.com/mnews/article/003/0013244796?sid=105"
+    },
+    {
+        "title": "세븐나이츠 리버스, 정식 출시 7시간만에 애플 앱스토어 매출 1위 기록",
+        "date": "2025-05-15 17:50",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=244497"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간만에 애플 앱스토어 매출 1위",
+        "date": "2025-05-15 17:44",
+        "link": "https://game.donga.com/117325/"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간만에 애플 앱스토어 매출 1위",
+        "date": "2025-05-15 17:44",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=171199"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스'출시 7시간만에 애플 앱스토어 매출 1위 달성",
+        "date": "2025-05-15 17:44",
+        "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=405205"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간 만에 애플 앱스토어 매출 1위 ...",
+        "date": "2025-05-15 17:42",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=526638"
+    },
+    {
+        "title": "넷마블 ‘세븐나이츠 리버스’, 출시 7시간 만에 애플 앱스토어 매출 1...",
+        "date": "2025-05-15 17:42",
+        "link": "https://www.viva100.com/article/20250515501517"
+    },
+    {
+        "title": "넷마블 ‘세븐나이츠 리버스’, 출시 7시간만에 애플 앱스토어 매출 1위",
+        "date": "2025-05-15 17:40",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000072257"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 애플 앱스토어 매출 1위",
+        "date": "2025-05-15 17:38",
+        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6898130"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스' 출시 7시간만에 애플 앱스토어 매출 1위 달...",
+        "date": "2025-05-15 17:36",
+        "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=213835"
+    },
+    {
+        "title": "넷마블 '세븐나이츠 리버스', 출시 7시간 만에 애플 매출 1위",
+        "date": "2025-05-15 17:34",
+        "link": "https://www.gameple.co.kr/news/articleView.html?idxno=212996"
+    },
+    {
+        "title": "유니씨앤씨, 5월 16일 오전 11시, 가정의 달 특집 삼성전자 갤럭시북5 프...",
+        "date": "2025-05-15 17:28",
+        "link": "https://kbench.com/?q=node/267484"
+    },
+    {
+        "title": "인도에서 아이폰 더 많이 만든다는 애플, 트럼프 “하지마”[글로벌 왓...",
+        "date": "2025-05-15 17:23",
+        "link": "https://n.news.naver.com/mnews/article/011/0004485799?sid=104"
+    },
+    {
+        "title": "SKT 해킹 사태, '이심 전환' 가속…초슬림폰 경쟁 불붙나",
+        "date": "2025-05-15 17:20",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=177054"
+    },
+    {
+        "title": "삼성전자 매출 절반이 스마트폰…스마트폰 평균 가격 11% 껑충",
+        "date": "2025-05-15 17:14",
+        "link": "https://n.news.naver.com/mnews/article/009/0005493231?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤Z폴드7 백플레이트에 티타늄 적용 계획",
+        "date": "2025-05-15 17:10",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=35989"
+    },
+    {
+        "title": "애플, 차기 '에어팟 프로 3' 출시 준비 정황 포착",
+        "date": "2025-05-15 17:00",
+        "link": "https://kbench.com/?q=node/267478"
+    },
+    {
+        "title": "시인성 높은 대화면으로 차량 내비게이션 사용하는 방법",
+        "date": "2025-05-15 17:00",
+        "link": "https://news.appstory.co.kr/daily18211"
+    },
+    {
+        "title": "삼성 ‘개발자 몫 확대’ vs 애플 ‘프리미엄 전략 고수’...글로벌 앱마...",
+        "date": "2025-05-15 16:55",
+        "link": "https://n.news.naver.com/mnews/article/009/0005493199?sid=101"
+    },
+    {
+        "title": "삼성 '프로젝트 무한' 출시 예고…XR 회복세 이을까",
+        "date": "2025-05-15 16:46",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=177041"
+    },
+    {
+        "title": "눈 피로 줄이는 조명 혁신 벤큐, '스크린바 헤일로 2' 공개",
+        "date": "2025-05-15 16:26",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092140786"
+    },
+    {
+        "title": "달성군의회, 애플수박 첫 출하 현장 방문",
+        "date": "2025-05-15 16:24",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2053064"
+    },
+    {
+        "title": "[르포]애플 기기로 디지털 교육 전환…덕성여중 가보니",
+        "date": "2025-05-15 16:23",
+        "link": "https://n.news.naver.com/mnews/article/421/0008253281?sid=105"
+    },
+    {
+        "title": "애플도 '연 2회 전략' 가세…출하 구조 흔들리는 삼성·LG 디스플레이·...",
+        "date": "2025-05-15 16:22",
+        "link": "https://www.newspim.com/news/view/20250515001194"
+    },
+    {
+        "title": "[종목리포트] ‘꿈의 OLED’ 현실로… 청색 인광 기술 상용화 눈앞",
+        "date": "2025-05-15 16:17",
+        "link": "https://n.news.naver.com/mnews/article/374/0000440756?sid=101"
+    },
+    {
+        "title": "'제품 적용성' 보여준 LGD vs '신기술' 선보인 삼성D...SID2025서 갈린 전...",
+        "date": "2025-05-15 15:42",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=326585"
+    },
+    {
+        "title": "[AT 산업 단신] 삼성전자·대한전선·LS일렉트릭·샤오미코리아",
+        "date": "2025-05-15 15:38",
+        "link": "https://www.asiatime.co.kr/article/20250515500332"
+    },
+    {
+        "title": "울트라와 동일 카메라 쓴 S25 엣지, 초슬림 비밀은 바로 이것",
+        "date": "2025-05-15 15:38",
+        "link": "https://www.betanews.net/article/view/beta202505150087"
+    },
+    {
+        "title": "아이폰 20주년 기념작, 프레임·베젤 모두 사라지나",
+        "date": "2025-05-15 15:28",
+        "link": "https://kbench.com/?q=node/267471"
+    },
+    {
+        "title": "충북 주요 상장사 1분기 실적은?",
+        "date": "2025-05-15 15:10",
+        "link": "https://www.jbnews.com/news/articleView.html?idxno=1476368"
+    },
+    {
+        "title": "[글로벌] 손 안 대고 아이폰 조작...애플, '뇌파 인터페이스' 기술 개발...",
+        "date": "2025-05-15 15:02",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=139739"
+    },
+    {
+        "title": "삼성전자 파운드리 인텔 추격 허용하나, 2위 놓고 2나노 고객사 유치 경...",
+        "date": "2025-05-15 14:52",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=395246"
+    },
+    {
+        "title": "애플 폴더블 아이폰, 프로 맥스 대체하는 신규 라인업으로 출시 예정",
+        "date": "2025-05-15 14:28",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=801705"
+    },
+    {
+        "title": "[더벨][i-point]'고수익 제품군 중심' 아나패스, 영업이익률 대폭 개선",
+        "date": "2025-05-15 14:28",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505151415188080101392"
+    },
+    {
+        "title": "칼럼 | 트럼프에게 굴복하지 않은 마이크로소프트의 역설",
+        "date": "2025-05-15 14:06",
+        "link": "https://www.cio.com/article/3986113/칼럼-트럼프에게-굴복하지-않은-마이크로소프트의.html"
+    },
+    {
+        "title": "아나패스, 1분기 영업이익률 16.1% 달성",
+        "date": "2025-05-15 14:06",
+        "link": "https://www.sentv.co.kr/article/view/sentv202505150144"
+    },
+    {
+        "title": "아나패스, 1분기 영업이익률 16.1%…고수익 제품 중심 전략 성과",
+        "date": "2025-05-15 14:03",
+        "link": "https://n.news.naver.com/mnews/article/215/0001209348?sid=101"
+    },
+    {
+        "title": "초슬림∙초경량 디자인에 견고한 내구성과 강력한 카메라 탑재...삼성전...",
+        "date": "2025-05-15 13:58",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=71888"
+    },
+    {
+        "title": "기대작이긴 한데…삼성 '초슬림폰' 문제작 우려 나온 까닭",
+        "date": "2025-05-15 13:49",
+        "link": "https://n.news.naver.com/mnews/article/015/0005132241?sid=105"
+    },
+    {
+        "title": "[초점] 삼성·애플, '초슬림 스마트폰' 주도권 가져올까",
+        "date": "2025-05-15 13:16",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=79413"
+    },
+    {
+        "title": "함안군, 지역특화품목 육성단지 조성사업 공모에 최종 선정…애플망고...",
+        "date": "2025-05-15 13:02",
+        "link": "https://www.viva100.com/article/20250515500658"
+    },
+    {
+        "title": "피트니스 트래커 그 이상…잘 알려지지 않은 애플 워치의 숨은 기능 10가...",
+        "date": "2025-05-15 12:40",
+        "link": "https://www.itworld.co.kr/article/3986066/피트니스-트래커-그-이상잘-알려지지-않은-애플-워.html"
+    },
+    {
+        "title": "삼성·애플, 스마트폰 인도 생산 부쩍 늘었다 … '트럼프 관세' 영향",
+        "date": "2025-05-15 11:18",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/05/15/2025051500144.html"
+    },
+    {
+        "title": "삼성전자, 'S25 엣지'로 초슬림폰 시장 공략…하반기 애플도 참전",
+        "date": "2025-05-15 11:16",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=128041"
+    },
+    {
+        "title": "美·中 관세 전쟁에 아이폰17 비싸진다?…삼성 ‘엣지’ 웃는다",
+        "date": "2025-05-15 11:15",
+        "link": "https://n.news.naver.com/mnews/article/119/0002956510?sid=105"
+    },
+    {
+        "title": "애플, 올해 안에 뇌파로 아이폰 제어하는 기술 공개 예정",
+        "date": "2025-05-15 10:50",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531123"
+    },
+    {
+        "title": "“손 사용 안 해도 돼”… 애플, 비전프로 눈으로 스크롤 하는 기능 개...",
+        "date": "2025-05-15 10:46",
+        "link": "https://n.news.naver.com/mnews/article/030/0003312651?sid=104"
+    },
+    {
+        "title": "폴더블 아이폰…'프로 맥스' 대체할 최상위 모델로 포지셔닝",
+        "date": "2025-05-15 10:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566295"
+    },
+    {
+        "title": "애플 비전 프로에 '아이 스크롤' 기능 들어갈까…시선만으로 앱 조작",
+        "date": "2025-05-15 10:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566292"
+    },
+    {
+        "title": "무이자 할부부터 고금리 예금까지…애플 카드가 특별한 이유",
+        "date": "2025-05-15 10:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566254"
+    },
+    {
+        "title": "합천 ‘애플수박’ 출하",
+        "date": "2025-05-15 10:28",
+        "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1460687"
+    },
+    {
+        "title": "알파스캔, LG IPS Black 패널 탑재한 34인치 울트라와이드 신제품 출시",
+        "date": "2025-05-15 10:14",
+        "link": "https://kbench.com/?q=node/267430"
+    },
+    {
+        "title": "게임부터 자동차·TV까지 다 덮는다···LG디스플레이 4세대 OLED 전면전",
+        "date": "2025-05-15 10:10",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2277103"
+    },
+    {
+        "title": "마이크로소프트 유럽에서 대규모 벌금 피할까, EU 당국 '트럼프 눈치' 본...",
+        "date": "2025-05-15 10:10",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=395202"
+    },
+    {
+        "title": "코웨이, '아이콘 프로 정수기' 출시…풀스크린 LCD 디스플레이 적용",
+        "date": "2025-05-15 10:02",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=636663"
+    },
+    {
+        "title": "[더벨][탑런토탈솔루션 줌인]장비사 인수 마침표, 글로벌 소부장 로드맵...",
+        "date": "2025-05-15 08:52",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505141608231640108180"
+    },
+    {
+        "title": "애플 비전 프로, 이제 눈으로 화면 스크롤한다",
+        "date": "2025-05-15 08:46",
+        "link": "https://n.news.naver.com/mnews/article/092/0002374323?sid=105"
+    },
+    {
+        "title": "애플, 3D 생성 AI '매트릭스3D' 공개...2D 사진으로 3D 물체·장면 재구...",
+        "date": "2025-05-15 08:22",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531101"
+    },
+    {
+        "title": "대구 달성군의회, 애플수박 첫 출하 현장 찾아",
+        "date": "2025-05-15 07:46",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1216137"
+    }
+]
