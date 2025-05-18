@@ -1,1 +1,407 @@
-
+[
+    {
+        "title": "기술의 K디스플레이, 프리미엄 IT 기기 파트너로 부상",
+        "date": "2025-05-19 05:00",
+        "link": "https://www.etoday.co.kr/news/view/2470796"
+    },
+    {
+        "title": "美 빅테크의 중국 사랑… R&amp;D센터 짓고 알리바바와 제휴",
+        "date": "2025-05-19 01:52",
+        "link": "https://n.news.naver.com/mnews/article/023/0003905910?sid=105"
+    },
+    {
+        "title": "[초점] 애플이 키운 중국, 세계 기술 패권 위협한다",
+        "date": "2025-05-19 01:02",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025051820153987089a1f309431_1/article.html"
+    },
+    {
+        "title": "“저걸 누가 사?” 손에 든 ‘정체’ 조롱받았는데…삼성 ‘위협’, 충...",
+        "date": "2025-05-18 21:30",
+        "link": "https://n.news.naver.com/mnews/article/016/0002472727?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널로 SID서 '올해의 우수논문' 선정",
+        "date": "2025-05-18 19:54",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=238189"
+    },
+    {
+        "title": "미국 아이폰에 알리바바 AI 탑재는 이적 행위",
+        "date": "2025-05-18 19:26",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=170527"
+    },
+    {
+        "title": "대기업 '날고' 중견기업 '휘청'…중견기업 1분기 영업익 2.7%↓",
+        "date": "2025-05-18 19:14",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1022070"
+    },
+    {
+        "title": "초슬림폰 경쟁 서막 올랐다…갤S25 엣지 출격, 아이폰 17 에어 채비",
+        "date": "2025-05-18 18:31",
+        "link": "https://n.news.naver.com/mnews/article/658/0000107431?sid=101"
+    },
+    {
+        "title": "애플·알리바바 AI 제휴…엔비디아는 中에 R&amp;D센터",
+        "date": "2025-05-18 18:20",
+        "link": "https://n.news.naver.com/mnews/article/015/0005133350?sid=104"
+    },
+    {
+        "title": "LGD OLED 패널 연구 '올해의 우수논문'",
+        "date": "2025-05-18 18:17",
+        "link": "https://n.news.naver.com/mnews/article/015/0005133342?sid=101"
+    },
+    {
+        "title": "수수료에 발목… 쑥 들어간 애플페이 도입",
+        "date": "2025-05-18 18:07",
+        "link": "https://n.news.naver.com/mnews/article/014/0005351072?sid=101"
+    },
+    {
+        "title": "LGD 4세대 OLED 패널 연구, SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 17:52",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=177209"
+    },
+    {
+        "title": "관세 탓? 가격 올리지마…월마트 압박나선 트럼프",
+        "date": "2025-05-18 17:48",
+        "link": "https://n.news.naver.com/mnews/article/011/0004486690?sid=104"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 '올해의 우수논문' 선정",
+        "date": "2025-05-18 17:28",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=139825"
+    },
+    {
+        "title": "애플·알리바바 AI 제휴에 中 역량 커지나… 美 정부 우려 고조",
+        "date": "2025-05-18 17:22",
+        "link": "https://n.news.naver.com/mnews/article/366/0001078185?sid=105"
+    },
+    {
+        "title": "'초격차는 결국 사람' 삼성, 애플ㆍ아마존 출신 특급 인재 대거 영입",
+        "date": "2025-05-18 17:22",
+        "link": "https://www.etoday.co.kr/news/view/2471409"
+    },
+    {
+        "title": "삼성전자, 글로벌 인재 대거 영입...애플·지멘스·GM 등 출신 전진 배치",
+        "date": "2025-05-18 16:38",
+        "link": "https://n.news.naver.com/mnews/article/009/0005494390?sid=105"
+    },
+    {
+        "title": "미국 정부 '애플-알리바바 AI 협약' 우려, 애플 임원 직접 만나 따져물어",
+        "date": "2025-05-18 16:26",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=395576"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 기술, SID 우수논문 선정",
+        "date": "2025-05-18 16:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566695"
+    },
+    {
+        "title": "LGD, 4세대 OLED 패널 연구 성과…SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 16:18",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=339261"
+    },
+    {
+        "title": "LGD, 4세대 OLED 패널 연구…SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 15:52",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2053950"
+    },
+    {
+        "title": "LGD 4세대 OLED 패널 신기술, SID 우수 논문 선정",
+        "date": "2025-05-18 15:21",
+        "link": "https://n.news.naver.com/mnews/article/001/0015395993?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 논문 ‘SID 올해의 우수논문’ 선정",
+        "date": "2025-05-18 15:14",
+        "link": "https://n.news.naver.com/mnews/article/119/0002957598?sid=101"
+    },
+    {
+        "title": "LG디스플레이 '4세대 OLED 연구', SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 14:42",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1240008"
+    },
+    {
+        "title": "고흥군, 애플망고 품질 높이는 ‘현장 기술처방’ 가동",
+        "date": "2025-05-18 14:42",
+        "link": "https://www.geconomy.co.kr/news/article.html?no=299398"
+    },
+    {
+        "title": "애플 출신 '특급인재' 삼성으로…이재용 '기술 초격차' 속도",
+        "date": "2025-05-18 14:37",
+        "link": "https://n.news.naver.com/mnews/article/015/0005133234?sid=101"
+    },
+    {
+        "title": "대기업은 ‘훨훨’ 중견기업은 ‘역성장’ 늪에",
+        "date": "2025-05-18 14:34",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=845490"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED로 ‘SID 올해의 우수논문’ 수상",
+        "date": "2025-05-18 14:26",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=845485"
+    },
+    {
+        "title": "LG디스플레이, SID 2025서 '올해의 논문' 선정…4세대 OLED 기술력 입증",
+        "date": "2025-05-18 14:16",
+        "link": "http://www.metroseoul.co.kr/article/20250518500150"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 성과 SID 올해 우수논문 선정",
+        "date": "2025-05-18 14:00",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=450193"
+    },
+    {
+        "title": "LGD 4세대 OLED 패널, 세계 최대 디스플레이학회서 '올해의 논문' 선정",
+        "date": "2025-05-18 13:56",
+        "link": "https://n.news.naver.com/mnews/article/015/0005133224?sid=101"
+    },
+    {
+        "title": "'많이 봐줬다'...트럼프, “애플, 인도 말고 미국에서 만들어라” 공개...",
+        "date": "2025-05-18 13:46",
+        "link": "https://n.news.naver.com/mnews/article/050/0000090960?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 연구성과 SID '우수논문' 선정",
+        "date": "2025-05-18 13:36",
+        "link": "https://n.news.naver.com/mnews/article/031/0000933075?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 기술로 SID '우수논문' 선정",
+        "date": "2025-05-18 13:14",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=526747"
+    },
+    {
+        "title": "LGD 4세대 OLED 연구 성과, SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 13:12",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=696261"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 연구 성과…SID ‘올해의 우수논문’ 선...",
+        "date": "2025-05-18 12:14",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025051809435473506ed0c62d49_1/article.html"
+    },
+    {
+        "title": "LGD, SID서 '4세대 OLED' 논문 우수 선정…최대 휘도 4000니트 구현",
+        "date": "2025-05-18 12:12",
+        "link": "https://www.newspim.com/news/view/20250518000074"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 연구 성과...SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 11:50",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=232731"
+    },
+    {
+        "title": "삼성·애플 ‘관세 불확실성’ 제품 가격 인상 압박 커진다",
+        "date": "2025-05-18 11:48",
+        "link": "https://www.ekn.kr/web/view.php?key=20250518026067579"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 신기술, 세계 최고 학회서 '우수논문' 선정",
+        "date": "2025-05-18 11:36",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1663174"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED로 SID 우수논문···휘도·효율 모두 잡았다...",
+        "date": "2025-05-18 11:30",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2278288"
+    },
+    {
+        "title": "“버티면 본전”…이달 테슬라·애플 몰린 서학개미 ‘눈물의 물타기’...",
+        "date": "2025-05-18 11:24",
+        "link": "https://n.news.naver.com/mnews/article/009/0005494287?sid=101"
+    },
+    {
+        "title": "네이버페이, 애플 국내 서비스에 간편결제 도입",
+        "date": "2025-05-18 11:10",
+        "link": "https://n.news.naver.com/mnews/article/029/0002955322?sid=105"
+    },
+    {
+        "title": "LGD 4세대 OLED 패널 신기술, 국제정보디스플레이학회 우수논문 선정",
+        "date": "2025-05-18 11:01",
+        "link": "https://n.news.naver.com/mnews/article/448/0000528404?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 연구 성과 'SID 올해의 우수논문' 선정",
+        "date": "2025-05-18 10:56",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=224512"
+    },
+    {
+        "title": "에픽게임즈 포트나이트, 美·EU 아이폰서 이용 불가",
+        "date": "2025-05-18 10:54",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2086142"
+    },
+    {
+        "title": "애플, 알리바바와 손잡고 AI 탑재?…美 정치권·안보국 '경고' 무산위기",
+        "date": "2025-05-18 10:50",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196800?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 연구 ‘SID 올해의 우수논문’ 선정",
+        "date": "2025-05-18 10:46",
+        "link": "https://n.news.naver.com/mnews/article/366/0001078078?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널, SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 10:44",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=796174"
+    },
+    {
+        "title": "에픽 애플, 포트나이트 복귀 막아… 법원에 강제명령 요청",
+        "date": "2025-05-18 10:38",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092140974"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 연구 성과 SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 10:30",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=344802"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 연구 성과 SID ‘올해의 우수논문’ 선정",
+        "date": "2025-05-18 10:30",
+        "link": "https://www.webeconomy.co.kr/news/article.html?no=1206330"
+    },
+    {
+        "title": "LGD 4세대 OLED, 세계 최대 디스플레이 학회 '올해의 우수논문'",
+        "date": "2025-05-18 10:26",
+        "link": "https://n.news.naver.com/mnews/article/011/0004486578?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 기술로 SID 우수논문 선정",
+        "date": "2025-05-18 10:26",
+        "link": "https://n.news.naver.com/mnews/article/009/0005494255?sid=105"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 연구, SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 10:23",
+        "link": "https://n.news.naver.com/mnews/article/008/0005195556?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 논문 'SID 올해의 우수논문' 선정",
+        "date": "2025-05-18 10:20",
+        "link": "https://www.socialvalue.kr/news/view/1065575863942528"
+    },
+    {
+        "title": "LGD 4세대 OLED 연구, SID `올해의 우수논문` 선정",
+        "date": "2025-05-18 10:12",
+        "link": "https://n.news.naver.com/mnews/article/029/0002955293?sid=101"
+    },
+    {
+        "title": "LGD, '4세대 OLED 패널' SID 올해의 우수논문 선정",
+        "date": "2025-05-18 10:08",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=557534"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 기술 논문 SID '우수논문' 선정",
+        "date": "2025-05-18 10:05",
+        "link": "https://n.news.naver.com/mnews/article/277/0005594166?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 성과 SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 10:04",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=242493"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 연구 성과 SID ‘올해의 우수논문’ 선정",
+        "date": "2025-05-18 10:02",
+        "link": "https://www.sentv.co.kr/article/view/sentv202505180013"
+    },
+    {
+        "title": "LG디스, 4세대 OLED로 SID ‘올해의 우수논문’ 선정",
+        "date": "2025-05-18 10:02",
+        "link": "https://www.viva100.com/article/20250518500177"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 패널, 'SID 올해의 우수논문' 선정",
+        "date": "2025-05-18 10:02",
+        "link": "https://www.ajunews.com/view/20250518092212490"
+    },
+    {
+        "title": "LGD, SID ‘올해의 우수논문’ 선정…4세대 OLED 성과",
+        "date": "2025-05-18 10:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006017230?sid=101"
+    },
+    {
+        "title": "LGD 4세대 OLED 패널, SID 우수논문 선정",
+        "date": "2025-05-18 10:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003313305?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 연구 성과SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 10:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002374679?sid=105"
+    },
+    {
+        "title": "LGD 4세대 OLED 패널 신기술, 국제정보디스플레이학회 우수논문",
+        "date": "2025-05-18 10:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015395354?sid=101"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 연구, SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 10:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008257429?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 연구 성과 SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 10:00",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=80630"
+    },
+    {
+        "title": "LG디스플레이 4세대 OLED 패널, SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 10:00",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=226522"
+    },
+    {
+        "title": "LGD, 4세대 OLED 패널 연구성과 SID ‘올해의 우수논문’ 선정",
+        "date": "2025-05-18 10:00",
+        "link": "https://www.etoday.co.kr/news/view/2471321"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 연구 성과 SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 10:00",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=185379"
+    },
+    {
+        "title": "LGD, 4세대 OLED 패널 연구 성과로 SID '올해의 우수논문' 선정",
+        "date": "2025-05-18 10:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=212517"
+    },
+    {
+        "title": "LG디스플레이, OLED 패널 신기술 연구 논문 '올해의 우수논문'선정",
+        "date": "2025-05-18 10:00",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=91056"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 논문 'SID 우수논문' 선정",
+        "date": "2025-05-18 09:46",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=27442"
+    },
+    {
+        "title": "책 대신 '아이패드'로 수업을…디지털이 바꾼 교실 풍경은",
+        "date": "2025-05-18 09:35",
+        "link": "https://n.news.naver.com/mnews/article/092/0002374677?sid=105"
+    },
+    {
+        "title": "꿈의 OLED '마지막 퍼즐' 청색 인광 패널 어떤 모습인가?...LG디스플레이...",
+        "date": "2025-05-18 09:22",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=326651"
+    },
+    {
+        "title": "진짜 얇고 가볍네...'삼성 갤럭시S25엣지' 무거운 스마트폰 때문에 부...",
+        "date": "2025-05-18 09:22",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=326649"
+    },
+    {
+        "title": "대기업 '날고' 중견기업 '휘청' ...... 중견기업 1분기 영업익 2.7%↓",
+        "date": "2025-05-18 09:10",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=68360"
+    },
+    {
+        "title": "아이패드·애플워치·스벅쿠폰..KT, 소상공인 서비스 가입 고객에게 각...",
+        "date": "2025-05-18 09:00",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2086126"
+    },
+    {
+        "title": "포트나이트 차단한 애플, 격화하는 인앱 수수료 분쟁",
+        "date": "2025-05-18 08:00",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=48111"
+    }
+]
