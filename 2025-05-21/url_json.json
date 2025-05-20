@@ -1,1 +1,1412 @@
-
+[
+    {
+        "title": "구글, 삼성과 함께 ‘젠틀몬스터’ 스마트 안경 만든다",
+        "date": "2025-05-21 04:39",
+        "link": "https://n.news.naver.com/mnews/article/023/0003906385?sid=105"
+    },
+    {
+        "title": "사랑해 하이닉스 젠슨 황, HBM에 사인",
+        "date": "2025-05-21 04:15",
+        "link": "https://n.news.naver.com/mnews/article/008/0005196907?sid=101"
+    },
+    {
+        "title": "라온텍, 0.24인치 1440x1440 엘코스 개발...샘플 공급",
+        "date": "2025-05-21 01:32",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=36168"
+    },
+    {
+        "title": "LG전자, 1분기 글로벌 OLED TV 시장 52% 점유율로 1위 수성",
+        "date": "2025-05-21 01:06",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=326774"
+    },
+    {
+        "title": "에이수스, ‘컴퓨텍스 2025’서 AI 대중화 위한차세대 혁신 기술 및 몰입...",
+        "date": "2025-05-21 00:29",
+        "link": "https://n.news.naver.com/mnews/article/144/0001040986?sid=105"
+    },
+    {
+        "title": "[컴퓨텍스 2025] AI 친구 'GIMATE'랑 함께, 보다 똑똑하고 세련되게 나아...",
+        "date": "2025-05-21 00:26",
+        "link": "https://kbench.com/?q=node/267625"
+    },
+    {
+        "title": "삼성디스플레이, 대만 '컴퓨텍스' 첫 참가… 차세대 OLED 대거 선봬",
+        "date": "2025-05-20 22:42",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3272018"
+    },
+    {
+        "title": "삼성D, 컴퓨텍스서 '옥사이드 IT OLED' 첫 공개...IT 8G 라인서 양산 계획",
+        "date": "2025-05-20 22:40",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=36164"
+    },
+    {
+        "title": "“한국 압도적 1위였는데, 이게 웬 날벼락” 꼴찌 추락…‘충격’에 빠...",
+        "date": "2025-05-20 21:31",
+        "link": "https://n.news.naver.com/mnews/article/016/0002473947?sid=105"
+    },
+    {
+        "title": "LG전자, 신흥시장 HVAC 공략 가속…OLED TV도 1위 순항",
+        "date": "2025-05-20 21:23",
+        "link": "https://n.news.naver.com/mnews/article/011/0004487680?sid=101"
+    },
+    {
+        "title": "LG전자, 1분기 글로벌 OLED TV 시장 점유율 52.1%로 1위 수성",
+        "date": "2025-05-20 21:08",
+        "link": "http://www.segyebiz.com/newsView/20250520518891?OutUrl=naver"
+    },
+    {
+        "title": "[종합] 삼성전자, 1분기 TV 세계 1위 유지…LG전자는 OLED TV 1위",
+        "date": "2025-05-20 21:04",
+        "link": "https://www.etoday.co.kr/news/view/2472154"
+    },
+    {
+        "title": "中 샤오미, 3나노칩 개발…“애플·퀄컴·미디어텍에 이어 세계 네번째...",
+        "date": "2025-05-20 20:56",
+        "link": "https://n.news.naver.com/mnews/article/119/0002958721?sid=104"
+    },
+    {
+        "title": "“세상이 변한게 ‘체감’ 됩니다”…아시아 최대 IT 박람회 최대 화두...",
+        "date": "2025-05-20 20:42",
+        "link": "https://n.news.naver.com/mnews/article/009/0005495932?sid=105"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 1위",
+        "date": "2025-05-20 20:28",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=81310"
+    },
+    {
+        "title": "삼성D, 대만 컴퓨텍스 첫 참가…차세대 디스플레이 대거 공개",
+        "date": "2025-05-20 20:08",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025052010532710896ed0c62d49_1/article.html"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 1위…'13년 연속 1위' 청신호",
+        "date": "2025-05-20 20:08",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025052013372863176ed0c62d49_1/article.html"
+    },
+    {
+        "title": "MSI 모니터가 플레이엑스포에 온다!",
+        "date": "2025-05-20 19:46",
+        "link": "https://m.sports.naver.com/esports/article/442/0000182524"
+    },
+    {
+        "title": "MSI, 컴퓨텍스 2025에서 PC 조립 마니아를 위한 신제품 공개",
+        "date": "2025-05-20 19:25",
+        "link": "https://m.sports.naver.com/esports/article/442/0000182523"
+    },
+    {
+        "title": "'갤럭시 S25 엣지' 돌풍은 아직…단통법 끝나는 7월 '기대감'",
+        "date": "2025-05-20 19:10",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=796417"
+    },
+    {
+        "title": "MSI, 컴퓨텍스 2025서 AI 기술과 협업한 신규 클로 전격 공개",
+        "date": "2025-05-20 19:07",
+        "link": "https://m.sports.naver.com/esports/article/442/0000182522"
+    },
+    {
+        "title": "SK하이닉스 사랑해 HBM에 사인 남긴 젠슨황…삼성D는 신제품 공개",
+        "date": "2025-05-20 19:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005196859?sid=101"
+    },
+    {
+        "title": "에이수스, 컴퓨텍스 2025서 차세대 혁신 기술 및 게이밍 제품 대거 공개",
+        "date": "2025-05-20 18:56",
+        "link": "https://m.sports.naver.com/esports/article/442/0000182521"
+    },
+    {
+        "title": "삼성전자, 1분기 TV 세계 1위 유지…LG전자는 OLED TV 1위(종합)",
+        "date": "2025-05-20 18:42",
+        "link": "https://n.news.naver.com/mnews/article/001/0015400972?sid=101"
+    },
+    {
+        "title": "LG전자, 1분기 글로벌 OLED TV 시장 1위…점유율 52%",
+        "date": "2025-05-20 18:28",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=87619"
+    },
+    {
+        "title": "더 얇고 빠르고 선명한 OLED 삼성D 차세대 기술로 亞 홀린다",
+        "date": "2025-05-20 18:16",
+        "link": "https://n.news.naver.com/mnews/article/014/0005352301?sid=101"
+    },
+    {
+        "title": "LG전자, 1분기 글로벌 OLED TV 시장 1위 수성",
+        "date": "2025-05-20 18:16",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7112654"
+    },
+    {
+        "title": "LG전자, OLED TV 점유율 52% 돌파…13년 연속 1위 순항",
+        "date": "2025-05-20 18:16",
+        "link": "https://www.fetv.co.kr/news/article.html?no=192423"
+    },
+    {
+        "title": "[컴퓨텍스 2025] MSI 클로 만져보니··· ‘게이밍 UMPC 시대 도래’",
+        "date": "2025-05-20 18:13",
+        "link": "https://n.news.naver.com/mnews/article/020/0003636220?sid=105"
+    },
+    {
+        "title": "[컴퓨텍스 2025] MSI, 디자인·최신 성능 담은 신상 노트북 선보여",
+        "date": "2025-05-20 18:12",
+        "link": "https://n.news.naver.com/mnews/article/020/0003636219?sid=105"
+    },
+    {
+        "title": "AI·디자인·가격까지…프리미엄 스마트폰 경쟁 서막, 승부수는",
+        "date": "2025-05-20 18:04",
+        "link": "https://www.kpinews.kr/newsView/1065601151578015"
+    },
+    {
+        "title": "모니터가 눈동자 인식해 절전 … 생성AI 기기도 쏟아져",
+        "date": "2025-05-20 17:58",
+        "link": "https://n.news.naver.com/mnews/article/009/0005495840?sid=101"
+    },
+    {
+        "title": "MS 한달째 시총1위…애플과 격차 더 벌려",
+        "date": "2025-05-20 17:58",
+        "link": "https://n.news.naver.com/mnews/article/009/0005495847?sid=101"
+    },
+    {
+        "title": "폭스콘, 인도에 2.1조원 추가 투자...애플의 인도 내 아이폰 생산 확대...",
+        "date": "2025-05-20 17:57",
+        "link": "https://www.newspim.com/news/view/20250520001128"
+    },
+    {
+        "title": "글로벌 OLED TV 점유율 LG전자, 52%로 '넘버원'",
+        "date": "2025-05-20 17:51",
+        "link": "https://n.news.naver.com/mnews/article/009/0005495806?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 컴퓨텍스 2025에서 차세대 저전력 기술 선보여",
+        "date": "2025-05-20 17:50",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=804122"
+    },
+    {
+        "title": "유니씨앤씨, 5월 21일 오전 11시, 네이버 x 삼성전자 갤럭시북5 아울렛위...",
+        "date": "2025-05-20 17:50",
+        "link": "https://kbench.com/?q=node/267619"
+    },
+    {
+        "title": "삼성D, 차세대 IT OLED ‘UT One’ 첫 공개…전력·무게·두께 30%↓",
+        "date": "2025-05-20 17:48",
+        "link": "https://n.news.naver.com/mnews/article/081/0003542725?sid=101"
+    },
+    {
+        "title": "MSI 모니터가 플레이엑스포에 떴다! AI 게이밍 시연부터 탐방 구매 혜택...",
+        "date": "2025-05-20 17:48",
+        "link": "https://kbench.com/?q=node/267618"
+    },
+    {
+        "title": "MSI, 컴퓨텍스 2025서 미래 혁신 선도.. AI 기술과 협업, 신규 클로 전격...",
+        "date": "2025-05-20 17:44",
+        "link": "https://kbench.com/?q=node/267617"
+    },
+    {
+        "title": "애플, 아이폰 울트라 모델 출시 전망",
+        "date": "2025-05-20 17:42",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=804113"
+    },
+    {
+        "title": "삼성디스플레이 고효율 'UT 원' 첫선…젠슨 황, SK 부스 찾아 우린 원팀...",
+        "date": "2025-05-20 17:39",
+        "link": "https://n.news.naver.com/mnews/article/011/0004487588?sid=101"
+    },
+    {
+        "title": "LG전자 OLED TV, 1분기 세계 점유율 52%로 1위",
+        "date": "2025-05-20 17:34",
+        "link": "https://www.viva100.com/article/20250520501464"
+    },
+    {
+        "title": "애플 자체 챗봇, 챗GPT와 동등 평가",
+        "date": "2025-05-20 17:34",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=804108"
+    },
+    {
+        "title": "애플 앱스토어 수수료 개편 가능성",
+        "date": "2025-05-20 17:24",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=804102"
+    },
+    {
+        "title": "[판매농협이 간다] 충북 진천 초평농협 ‘애플수박’, 지역 대표 소득작...",
+        "date": "2025-05-20 17:21",
+        "link": "https://n.news.naver.com/mnews/article/662/0000069036?sid=102"
+    },
+    {
+        "title": "삼성디스플레이, 대만 '컴퓨텍스' 첫 참가…차세대 OLED 공개",
+        "date": "2025-05-20 17:20",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=246546"
+    },
+    {
+        "title": "도우인시스, '중앙 얇게 식각' UTG 기술 개발한다",
+        "date": "2025-05-20 17:20",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=36146"
+    },
+    {
+        "title": "애플 아이폰 폴드, 갤럭시 Z 폴드6과의 차별화된 사양 공개",
+        "date": "2025-05-20 17:20",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=804100"
+    },
+    {
+        "title": "20주년 기념 아이폰 어떻게 나올까…루머 총정리",
+        "date": "2025-05-20 17:18",
+        "link": "https://n.news.naver.com/mnews/article/092/0002375034?sid=105"
+    },
+    {
+        "title": "에이수스 '컴퓨텍스 2025'서 AI 대중화 위한 차세대 혁신 기술 및 몰입형...",
+        "date": "2025-05-20 17:14",
+        "link": "http://gamefocus.co.kr/detail.php?number=165734"
+    },
+    {
+        "title": "애플 공인 서비스센터, 전문성·수리비 논란에 소비자 불만 고조",
+        "date": "2025-05-20 17:14",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=804094"
+    },
+    {
+        "title": "[AT 산업단신]SK하이닉스·LG전자·삼성전자",
+        "date": "2025-05-20 17:04",
+        "link": "https://www.asiatime.co.kr/article/20250520500397"
+    },
+    {
+        "title": "“이건 상상도 못했다” 키보드 없는 폴더블 노트북 나왔다…가격 봤더...",
+        "date": "2025-05-20 17:03",
+        "link": "https://n.news.naver.com/mnews/article/016/0002473873?sid=105"
+    },
+    {
+        "title": "POSTECH, 화면이 곧 스피커…세계 최초 '픽셀 단위 멀티 사운드 OLED' 구현",
+        "date": "2025-05-20 16:50",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=497339"
+    },
+    {
+        "title": "LG OLED TV 1분기 선두 굳건히…프리미엄 시장 확대",
+        "date": "2025-05-20 16:46",
+        "link": "https://n.news.naver.com/mnews/article/241/0003438649?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 한계없는 ‘OLED 엣지’ 선보여",
+        "date": "2025-05-20 16:45",
+        "link": "https://n.news.naver.com/mnews/article/021/0002710826?sid=101"
+    },
+    {
+        "title": "MSI x NVIDIA의 RTX 50 체험존을 플레이엑스포에서 만나자!",
+        "date": "2025-05-20 16:44",
+        "link": "https://m.sports.naver.com/esports/article/442/0000182515"
+    },
+    {
+        "title": "'아이폰 제조업체' 폭스콘, 인도에 2조1천억원 추가 투자",
+        "date": "2025-05-20 16:42",
+        "link": "https://n.news.naver.com/mnews/article/001/0015400731?sid=104"
+    },
+    {
+        "title": "삼성전자, 전략 리더십 재정비 AI 중심 ‘뉴삼성’ 본격 시동",
+        "date": "2025-05-20 16:39",
+        "link": "https://n.news.naver.com/mnews/article/009/0005495721?sid=004"
+    },
+    {
+        "title": "LG전자, 1분기에도 OLED TV '세계 1위'",
+        "date": "2025-05-20 16:30",
+        "link": "https://www.bigtanews.co.kr/article/view/big202505200020"
+    },
+    {
+        "title": "에이수스, 컴퓨텍스서 AI 기술·게이밍 제품 선보인다 [컴퓨텍스 2025]",
+        "date": "2025-05-20 16:28",
+        "link": "https://n.news.naver.com/mnews/article/014/0005352218?sid=105"
+    },
+    {
+        "title": "애플 ‘인앱 결제’ 놓고 설왕설래… 스포티파이는 되고 포트나이트는...",
+        "date": "2025-05-20 16:23",
+        "link": "https://n.news.naver.com/mnews/article/366/0001078675?sid=105"
+    },
+    {
+        "title": "[컴퓨텍스] 에이수스, AI 대중화 위한 혁신 기술·몰입형 게이밍 제품 대...",
+        "date": "2025-05-20 16:20",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=316762"
+    },
+    {
+        "title": "블룸버그 애플, 첫 AI 챗봇으로 챗GPT 아닌 '구글 제미나이' 선호",
+        "date": "2025-05-20 16:20",
+        "link": "http://www.todaykorea.co.kr/news/articleView.html?idxno=329545"
+    },
+    {
+        "title": "LG전자, 1분기에도 OLED TV 세계 1위",
+        "date": "2025-05-20 16:18",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=326773"
+    },
+    {
+        "title": "비트코인 시총 2조 달러 돌파…구글·메타 제치고 애플도 넘볼까",
+        "date": "2025-05-20 16:16",
+        "link": "http://coinreaders.com/161239"
+    },
+    {
+        "title": "삼성디스플레이, '컴퓨텍스' 차세대 OLED 공개",
+        "date": "2025-05-20 16:14",
+        "link": "https://www.mediapen.com/news/view/1016628"
+    },
+    {
+        "title": "LG전자, 1분기 글로벌 OLED TV 점유율 52.1% '1위'...13년 연속 세계 1위 ...",
+        "date": "2025-05-20 16:14",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=401922"
+    },
+    {
+        "title": "LG전자, 1분기 세계 OLED TV 시장 1위…점유율 52%",
+        "date": "2025-05-20 16:14",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=341982"
+    },
+    {
+        "title": "에이수스, 컴퓨텍스 2025 참가... 차세대 AI 및 게이밍 PC 제품군 공개",
+        "date": "2025-05-20 16:12",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1800263"
+    },
+    {
+        "title": "소비전력·두께·무게 30% 줄였다…삼성D, 'UT One' 첫 공개",
+        "date": "2025-05-20 16:06",
+        "link": "https://n.news.naver.com/mnews/article/008/0005196718?sid=101"
+    },
+    {
+        "title": "LG전자, 1·4분기도 OLED TV 세계 1위 유지…전년比 출하량 12.4%↑",
+        "date": "2025-05-20 16:05",
+        "link": "https://n.news.naver.com/mnews/article/014/0005352200?sid=101"
+    },
+    {
+        "title": "LG전자, 1Q OLED TV 점유율 52%…'13년 연속 세계 1위' 청신호",
+        "date": "2025-05-20 16:04",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3035222"
+    },
+    {
+        "title": "LG전자, 올해 1분기 OLED TV 세계 점유율 52%로 1위",
+        "date": "2025-05-20 16:02",
+        "link": "https://www.mediapen.com/news/view/1016648"
+    },
+    {
+        "title": "LG전자, 1Q 글로벌 OLED TV 점유율 52% 돌파···13년 연속 1위 '시동'",
+        "date": "2025-05-20 15:45",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2279385"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 점유율 52.1%…13년 연속 세계 1위 목표",
+        "date": "2025-05-20 15:44",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=263519"
+    },
+    {
+        "title": "삼성디스플레이, ‘1㎐ 저전력 OLED’ 최초 공개… IT 패널 판도 흔든다",
+        "date": "2025-05-20 15:16",
+        "link": "https://www.socialvalue.kr/news/view/1065593572582800"
+    },
+    {
+        "title": "LG전자, 1분기 글로벌 OLED TV 시장 압도적 1위…출하량 12.4%↑",
+        "date": "2025-05-20 15:15",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=694308"
+    },
+    {
+        "title": "애플, 베트남 아이폰 출하량 급증…1분기 전년동기비 37%↑ '업계 최고'",
+        "date": "2025-05-20 15:14",
+        "link": "http://www.insidevina.com/news/articleView.html?idxno=31018"
+    },
+    {
+        "title": "LG전자 1분기 전 세계 OLED TV 시장 1위 '수성'",
+        "date": "2025-05-20 15:06",
+        "link": "http://www.koit.co.kr/news/articleView.html?idxno=130402"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 점유율 52.1%…13년 연속 1위 순항",
+        "date": "2025-05-20 15:06",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=156773"
+    },
+    {
+        "title": "LG전자, OLED TV 출하량 12.4% 증가… 리더십 공고히",
+        "date": "2025-05-20 15:06",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=652061"
+    },
+    {
+        "title": "삼성 OLED TV, '지싱크+프리싱크'로 게이밍 시장 정조준",
+        "date": "2025-05-20 15:02",
+        "link": "https://www.insight.co.kr/news/503741"
+    },
+    {
+        "title": "OLED의 제왕, LG... 1분기 글로벌 점유율 52%로 13년 연속 1위 청신호",
+        "date": "2025-05-20 14:58",
+        "link": "https://www.insight.co.kr/news/503739"
+    },
+    {
+        "title": "하나의 화면에서 서로 다른 소리 듣는다 POSTECH, 다채널 사운드 통합...",
+        "date": "2025-05-20 14:54",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=105396"
+    },
+    {
+        "title": "삼성디스플레이, 컴퓨텍스 출격…한계 없는 'OLED 엣지' 눈길",
+        "date": "2025-05-20 14:52",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1240866"
+    },
+    {
+        "title": "[재계는 지금] LG전자, 1분기 OLED TV 점유율 세계 1위 수성 外",
+        "date": "2025-05-20 14:52",
+        "link": "https://dealsite.co.kr/articles/141778"
+    },
+    {
+        "title": "LG전자, OLED TV 세계 1위 유지…1분기 점유율 52%",
+        "date": "2025-05-20 14:51",
+        "link": "https://n.news.naver.com/mnews/article/629/0000391467?sid=105"
+    },
+    {
+        "title": "[위클리오늘] LG전자, 1분기에도 OLED TV 압도적 세계 1위···출하량 12...",
+        "date": "2025-05-20 14:42",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=697659"
+    },
+    {
+        "title": "삼성D, 컴퓨텍스서 차세대 OLED 대거 공개",
+        "date": "2025-05-20 14:38",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=326742"
+    },
+    {
+        "title": "[포토] 대만 컴퓨텍스에서 삼성디스플레이의 160PPI 확인하세요",
+        "date": "2025-05-20 14:36",
+        "link": "https://n.news.naver.com/mnews/article/030/0003314154?sid=105"
+    },
+    {
+        "title": "LG전자, 올해 1분기 OLED TV 시장 1위...점유율 52.1%",
+        "date": "2025-05-20 14:36",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=248425"
+    },
+    {
+        "title": "[포토] 삼성디스플레이, 대만 '컴퓨텍스'서 차세대 OLED 대거 공개",
+        "date": "2025-05-20 14:35",
+        "link": "https://n.news.naver.com/mnews/article/030/0003314151?sid=105"
+    },
+    {
+        "title": "[포토] 컴퓨텍스에서 즐기는 삼성디스플레이",
+        "date": "2025-05-20 14:35",
+        "link": "https://n.news.naver.com/mnews/article/030/0003314150?sid=105"
+    },
+    {
+        "title": "앱스토어 수수료 30% 시대 끝나나…앱 생태계 변화 바람",
+        "date": "2025-05-20 14:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567078"
+    },
+    {
+        "title": "아이폰 폴드 주요 사양 공개…갤럭시·픽셀과 뭐가 다를까",
+        "date": "2025-05-20 14:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567082"
+    },
+    {
+        "title": "폴더블폰 '두께 전쟁' 본격화…中 아너, '매직 V5' 다음달 출시 예고",
+        "date": "2025-05-20 14:32",
+        "link": "https://kbench.com/?q=node/267605"
+    },
+    {
+        "title": "부커스, 애플 앱스토어∙구글 플레이스토어 '도서' 분야 인기 순위 1위 ...",
+        "date": "2025-05-20 14:32",
+        "link": "http://www.it-b.co.kr/news/articleView.html?idxno=81940"
+    },
+    {
+        "title": "삼성전자, 1분기 TV 매출 1위···LG전자 OLED TV 점유율 1위",
+        "date": "2025-05-20 14:28",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=110281"
+    },
+    {
+        "title": "애플, ‘카플레이 울트라’ 공개···아이폰+자동차 통합 강화",
+        "date": "2025-05-20 14:26",
+        "link": "https://www.cio.com/article/3989932/애플-카플레이-카플레이-울트라로-진화···아.html"
+    },
+    {
+        "title": "中 '잉크젯 OLED' 포트폴리오 확대…수율 극복했나 예의주시",
+        "date": "2025-05-20 14:24",
+        "link": "https://n.news.naver.com/mnews/article/421/0008262200?sid=101"
+    },
+    {
+        "title": "삼성전자-TCL TV 출하량 격차 상반기 좁혀진다",
+        "date": "2025-05-20 14:22",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=36128"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 시장 점유율 52.1% 기록하며 13년 연속 세계 1위",
+        "date": "2025-05-20 14:22",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=39737"
+    },
+    {
+        "title": "아이폰發 유심 교체 '러시' 오나...성우전자, SKT 수혜株로 방긋",
+        "date": "2025-05-20 14:22",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=345437"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 패널 연구 성과 SID ‘올해의 우수논문’ 선정",
+        "date": "2025-05-20 14:20",
+        "link": "https://www.swtvnews.com/news/newsview.php?ncode=1065582983566186"
+    },
+    {
+        "title": "대륙의 실수? 대륙의 쇼크…샤오미, 첨단 '3나노칩' 독자 개발",
+        "date": "2025-05-20 14:18",
+        "link": "https://n.news.naver.com/mnews/article/025/0003442153?sid=101"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 1위…프리미엄 제품군 '최강'",
+        "date": "2025-05-20 14:16",
+        "link": "https://n.news.naver.com/mnews/article/011/0004487465?sid=101"
+    },
+    {
+        "title": "픽셀 하나하나가 스피커로...감각의 경계를 넘다",
+        "date": "2025-05-20 14:16",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=135211"
+    },
+    {
+        "title": "MS 윈도우 비켜... 중국 화웨이, 자체 OS 탑재 노트북도 내놨다",
+        "date": "2025-05-20 14:11",
+        "link": "https://n.news.naver.com/mnews/article/469/0000865694?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 'UT One' 첫 공개…초박형 OLED로 IT 공략",
+        "date": "2025-05-20 14:06",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=334418"
+    },
+    {
+        "title": "LG전자, OLED TV 점유율 52.1%…13년째 1위 굳히기",
+        "date": "2025-05-20 14:06",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=334416"
+    },
+    {
+        "title": "LG전자, 13년 연속 OLED TV 1등 '순항'…1분기 점유율 52%",
+        "date": "2025-05-20 14:04",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=139931"
+    },
+    {
+        "title": "애플 AI 챗봇 개발…내부 테스트서 챗GPT 버금간다 평가",
+        "date": "2025-05-20 14:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567073"
+    },
+    {
+        "title": "애플 아이폰 울트라 출시설 '모락모락'…라인업 개편 가능성",
+        "date": "2025-05-20 14:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567070"
+    },
+    {
+        "title": "삼성디스플레이, 대만 컴퓨텍스 첫 참가…차세대 올레드 총출동",
+        "date": "2025-05-20 14:01",
+        "link": "https://n.news.naver.com/mnews/article/374/0000441510?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, '컴퓨텍스 2025' 참가…IT OLED 확대",
+        "date": "2025-05-20 13:50",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=139928"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 점유율 52%로 1위",
+        "date": "2025-05-20 13:50",
+        "link": "https://n.news.naver.com/mnews/article/022/0004036970?sid=101"
+    },
+    {
+        "title": "‘점유율 30%’ 회복한 삼성 TV… LG는 OLED 13년 연속 1위 ‘순항’",
+        "date": "2025-05-20 13:49",
+        "link": "https://n.news.naver.com/mnews/article/029/0002955942?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 컴퓨텍스서 저전력 'UT One' 기술 공개",
+        "date": "2025-05-20 13:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567068"
+    },
+    {
+        "title": "LG전자 1분기 OLED TV 글로벌 1위…출하량 점유율 52.1%",
+        "date": "2025-05-20 13:42",
+        "link": "https://n.news.naver.com/mnews/article/008/0005196590?sid=101"
+    },
+    {
+        "title": "LG전자, 1분기 세계 OLED TV 시장 1위…점유율 52%",
+        "date": "2025-05-20 13:42",
+        "link": "https://n.news.naver.com/mnews/article/031/0000933703?sid=105"
+    },
+    {
+        "title": "삼성D 컴퓨텍스 첫 참가, 한계 없는 'OLED 엣지' 선보여",
+        "date": "2025-05-20 13:40",
+        "link": "https://hobbyen-news.com/news/view/1065587934318231"
+    },
+    {
+        "title": "LG전자, 1Q OLED TV 출하량 기준 52.1% 세계 1위",
+        "date": "2025-05-20 13:40",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=756170"
+    },
+    {
+        "title": "두께·무게·소비전력 모두 30%↓ 삼성D, 컴퓨텍스서 IT OLED '유티 원'...",
+        "date": "2025-05-20 13:36",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=109425"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 1위…'13년 연속 1위' 차지",
+        "date": "2025-05-20 13:34",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=750408"
+    },
+    {
+        "title": "“애플 전 시리 책임자, 챗GPT 대신 제미나이 선호했다“",
+        "date": "2025-05-20 13:31",
+        "link": "https://n.news.naver.com/mnews/article/366/0001078610?sid=105"
+    },
+    {
+        "title": "삼성 갤럭시 워치 8 시리즈, 中 3C 인증 획득",
+        "date": "2025-05-20 13:30",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=63844"
+    },
+    {
+        "title": "'제2회 뉴데일리 퓨처코리아 포럼' 자리해주신 분들 ['제2회 뉴데일리 퓨...",
+        "date": "2025-05-20 13:28",
+        "link": "https://www.newdaily.co.kr/site/data/html/2025/05/20/2025052000192.html"
+    },
+    {
+        "title": "OLED 픽셀마다 다른 소리 스피커 없이 낸다",
+        "date": "2025-05-20 13:16",
+        "link": "https://n.news.naver.com/mnews/article/584/0000032436?sid=105"
+    },
+    {
+        "title": "LG전자, 1분기에도 OLED TV 압도적 세계 1위",
+        "date": "2025-05-20 13:04",
+        "link": "https://hobbyen-news.com/news/view/1065585718606035"
+    },
+    {
+        "title": "LG, 올레드 TV 왕좌 지켰다...13년 연속 시장점유율 1위",
+        "date": "2025-05-20 12:58",
+        "link": "https://n.news.naver.com/mnews/article/243/0000078279?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, '차세대 OLED' 대만 출격",
+        "date": "2025-05-20 12:56",
+        "link": "https://n.news.naver.com/mnews/article/277/0005595396?sid=101"
+    },
+    {
+        "title": "직접 경험하는 차세대 게이밍! MSI x NVIDIA 지포스 RTX 50 체험존 플레이...",
+        "date": "2025-05-20 12:48",
+        "link": "https://kbench.com/?q=node/267602"
+    },
+    {
+        "title": "제이씨현, 24형 144Hz 게이밍 모니터 출시 기념 99,000원 특가 행사 진행",
+        "date": "2025-05-20 12:40",
+        "link": "https://kbench.com/?q=node/267600"
+    },
+    {
+        "title": "[컴퓨텍스25] '초박형 OLED' 들고 온 삼성D AI 기업 주목",
+        "date": "2025-05-20 12:26",
+        "link": "https://n.news.naver.com/mnews/article/119/0002958436?sid=101"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 출하량 세계 1위...점유율 52.1%",
+        "date": "2025-05-20 12:22",
+        "link": "https://www.hellot.net/news/article.html?no=101467"
+    },
+    {
+        "title": "Samsung Display Makes Debut at Computex, Unveiling Next-generation IT OLE...",
+        "date": "2025-05-20 12:10",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=242698"
+    },
+    {
+        "title": "옴디아 출하량 기준 1분기 전 세계 OLED TV 시장서 LG전자 과반",
+        "date": "2025-05-20 12:06",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=238275"
+    },
+    {
+        "title": "만삭 몸으로 자격증 따자 돌아온 말 여자는 남자 갈비뼈로 만든 거 몰...",
+        "date": "2025-05-20 12:06",
+        "link": "https://n.news.naver.com/mnews/article/047/0002474009?sid=101"
+    },
+    {
+        "title": "픽셀마다 서로 다른 소리 동시에 내는 OLED 개발",
+        "date": "2025-05-20 11:52",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202505201138252273"
+    },
+    {
+        "title": "직접 경험하는 차세대 게이밍, MSI x NVIDIA 지포스 RTX 50 체험존 플레이...",
+        "date": "2025-05-20 11:48",
+        "link": "https://www.thisisgame.com/webzine/game/nboard/225/?n=212243"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 점유율 52%… 글로벌 1위 유지",
+        "date": "2025-05-20 11:46",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=345398"
+    },
+    {
+        "title": "LG전자는 어떻게 OLED TV 시장 점유율 52%를 달성했나?",
+        "date": "2025-05-20 11:46",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=379638"
+    },
+    {
+        "title": "LG전자, 1분기에도 OLED TV 세계 1위…출하량 12.4% 증가",
+        "date": "2025-05-20 11:44",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=44903"
+    },
+    {
+        "title": "LG전자 OLED TV는 역시 LG 1분기 출하량 1위",
+        "date": "2025-05-20 11:44",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2025052011405245525ed985c7c5_23"
+    },
+    {
+        "title": "삼성디스플레이, 전력 30% 줄인 차세대 OLED 'UT One' 첫 공개",
+        "date": "2025-05-20 11:40",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=115763"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 시장 점유율 52.1% 기록",
+        "date": "2025-05-20 11:40",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=283357"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 시장 점유율 52.1%…13년 연속 선두",
+        "date": "2025-05-20 11:33",
+        "link": "https://n.news.naver.com/mnews/article/117/0003944935?sid=105"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 점유율 52%…13년 연속 1위",
+        "date": "2025-05-20 11:32",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=339377"
+    },
+    {
+        "title": "LG, OLED TV 글로벌 점유율 52.1%···13년 연속 세계 1위 순항",
+        "date": "2025-05-20 11:30",
+        "link": "https://www.raonnews.com/news/article.html?no=47397"
+    },
+    {
+        "title": "삼성디스플레이, 컴퓨텍스 첫 참가…차세대 IT OLED 공개",
+        "date": "2025-05-20 11:27",
+        "link": "https://n.news.naver.com/mnews/article/011/0004487411?sid=101"
+    },
+    {
+        "title": "LG 올레드 TV, 1분기 점유율 52.1%...글로벌 1위 유지",
+        "date": "2025-05-20 11:26",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=96547"
+    },
+    {
+        "title": "삼성D, ‘컴퓨텍스 2025’서 OLED 신기술 공개",
+        "date": "2025-05-20 11:24",
+        "link": "https://n.news.naver.com/mnews/article/016/0002473670?sid=101"
+    },
+    {
+        "title": "두께 7.3mm…화웨이, 초슬림형 폴더블 노트북 공개",
+        "date": "2025-05-20 11:21",
+        "link": "https://n.news.naver.com/mnews/article/092/0002374960?sid=105"
+    },
+    {
+        "title": "시리 업그레이드조차 무산… 애플 인텔리전스 개발 차질에 내부 위기 확...",
+        "date": "2025-05-20 11:20",
+        "link": "https://www.itworld.co.kr/article/3989837/시리-업그레이드조차-무산-애플-인텔리전스-개발.html"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 점유율 52.1%…13년 연속 1위 굳히기",
+        "date": "2025-05-20 11:20",
+        "link": "http://www.metroseoul.co.kr/article/20250520500108"
+    },
+    {
+        "title": "삼성, OLED TV 지싱크 호환 인증…게이밍 성능 한층 강화",
+        "date": "2025-05-20 11:20",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=105354"
+    },
+    {
+        "title": "애플 아이폰, 시리 대신 다른 생성형 AI 호출할 수 있나",
+        "date": "2025-05-20 11:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567041"
+    },
+    {
+        "title": "삼성디스플레이, 대만 '컴퓨텍스'서 차세대 OLED 대거 공개",
+        "date": "2025-05-20 11:19",
+        "link": "https://n.news.naver.com/mnews/article/001/0015399527?sid=101"
+    },
+    {
+        "title": "LG전자, 1분기에도 OLED TV 세계 1위…점유율 52%, 압도적",
+        "date": "2025-05-20 11:19",
+        "link": "https://n.news.naver.com/mnews/article/009/0005495448?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 컴퓨텍스 참가…‘UT One’ 첫 공개",
+        "date": "2025-05-20 11:12",
+        "link": "https://www.cnbnews.com/news/article.html?no=726698"
+    },
+    {
+        "title": "LG전자, 1분기에도 OLED TV 압도적 세계 1위",
+        "date": "2025-05-20 11:10",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=422128"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 출하량 점유율 52%…글로벌 1위",
+        "date": "2025-05-20 11:10",
+        "link": "http://www.it-b.co.kr/news/articleView.html?idxno=81936"
+    },
+    {
+        "title": "애플 '아이폰 17', 모든 것이 바뀐다?…카메라부터 가격까지 루머 총정...",
+        "date": "2025-05-20 11:10",
+        "link": "https://www.cnet.co.kr/view/?no=20250520110506"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 시장 점유율 52%..13년 연속 1위",
+        "date": "2025-05-20 11:08",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2086312"
+    },
+    {
+        "title": "삼성디스플레이, '컴퓨텍스 2025' 첫 참가···차세대 OLED 기술 대거 공...",
+        "date": "2025-05-20 11:02",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=91268"
+    },
+    {
+        "title": "LG전자, 1Q OLED TV 글로벌 점유율 52%…13년 연속 1위",
+        "date": "2025-05-20 11:02",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=117577"
+    },
+    {
+        "title": "삼성디스플레이, 아시아 최대 IT 박람회 참가해 OLED 기술력 선봬",
+        "date": "2025-05-20 11:00",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577855597343"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계1위···13년연속 기록 순항 중",
+        "date": "2025-05-20 11:00",
+        "link": "https://www.cnet.co.kr/view/?no=20250520101452"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 점유율 52%로 세계 1위",
+        "date": "2025-05-20 10:58",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3271647"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 1위…'13년 연속 1위' 도전",
+        "date": "2025-05-20 10:58",
+        "link": "https://n.news.naver.com/mnews/article/448/0000528881?sid=101"
+    },
+    {
+        "title": "LG전자 OLED TV, 1분기 출하량 점유율 52.1%로 세계 1위",
+        "date": "2025-05-20 10:56",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=434364"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 출하량 세계 1위…점유율 52.1%",
+        "date": "2025-05-20 10:54",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092141125"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 점유율 52.5%…세계 1위 굳히기",
+        "date": "2025-05-20 10:52",
+        "link": "https://n.news.naver.com/mnews/article/215/0001209874?sid=101"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 1위…출하량 점유율 52%",
+        "date": "2025-05-20 10:52",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=84627"
+    },
+    {
+        "title": "LG전자, 1분기에도 OLED TV 압도적 세계 1위 출하량 12.4% 증가, '13년 연...",
+        "date": "2025-05-20 10:50",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=60847"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 1위…출하량 12.4%↑",
+        "date": "2025-05-20 10:48",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=647806"
+    },
+    {
+        "title": "13년 연속 세계 1위 찍은 한국기업…독주체제 이상무 “올레드 TV는 역시...",
+        "date": "2025-05-20 10:47",
+        "link": "https://n.news.naver.com/mnews/article/009/0005495404?sid=105"
+    },
+    {
+        "title": "삼성D, `컴퓨텍스`서 소비전력·무게 줄인 차세대 OLED 공개",
+        "date": "2025-05-20 10:46",
+        "link": "https://n.news.naver.com/mnews/article/029/0002955867?sid=101"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 출하량 점유율 52.1%...'13년 연속 1위' 순항",
+        "date": "2025-05-20 10:45",
+        "link": "https://n.news.naver.com/mnews/article/092/0002374943?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 대만 '컴퓨텍스'서 차세대 OLED 대거 공개",
+        "date": "2025-05-20 10:42",
+        "link": "https://n.news.naver.com/mnews/article/001/0015399381?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 대만 '컴퓨텍스'서 차세대 OLED 대거 공개",
+        "date": "2025-05-20 10:42",
+        "link": "https://n.news.naver.com/mnews/article/001/0015399382?sid=101"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 1위…출하량 점유율 52.1%",
+        "date": "2025-05-20 10:42",
+        "link": "https://n.news.naver.com/mnews/article/030/0003314011?sid=105"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 시장점유율 52%…13년 연속 세계 1위 보인다",
+        "date": "2025-05-20 10:39",
+        "link": "https://n.news.naver.com/mnews/article/016/0002473595?sid=101"
+    },
+    {
+        "title": "[컴퓨텍스 '25] 레인보우로보틱스 양팔로봇 댄스",
+        "date": "2025-05-20 10:38",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1663425"
+    },
+    {
+        "title": "대만 컴퓨텍스 첫 출격 삼성D, 비장의 카드는 'UT One'",
+        "date": "2025-05-20 10:36",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4356616"
+    },
+    {
+        "title": "LG전자, OLED TV 세계 1위... 1분기 출하량 12.4% 증가",
+        "date": "2025-05-20 10:34",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=47690"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 1위… ‘13년 연속 선두’ 순항",
+        "date": "2025-05-20 10:34",
+        "link": "https://n.news.naver.com/mnews/article/366/0001078557?sid=105"
+    },
+    {
+        "title": "삼성D, 대만 컴퓨텍스 첫 참가...'전력·무게·두께 30% 줄인 OLED' 전시",
+        "date": "2025-05-20 10:32",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=245209"
+    },
+    {
+        "title": "삼성디스플레이 컴퓨텍스 신고식 … 한계 없는 'OLED 엣지' 눈길",
+        "date": "2025-05-20 10:32",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/05/20/2025052000060.html"
+    },
+    {
+        "title": "[컴퓨텍스 2025] 삼성디스플레이, OLED로 대만 PC 공략 정조준",
+        "date": "2025-05-20 10:32",
+        "link": "https://www.ajunews.com/view/20250520082408693"
+    },
+    {
+        "title": "삼성디스플레이, 소비전력·무게·두께 30% 줄인 차세대 IT OLED 공개",
+        "date": "2025-05-20 10:32",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=395822"
+    },
+    {
+        "title": "삼성D 컴퓨텍스 첫 진출, ‘차세대 OLED’ 기술로 승부수",
+        "date": "2025-05-20 10:32",
+        "link": "https://www.viva100.com/article/20250520500408"
+    },
+    {
+        "title": "LG전자, 1분기 글로벌 OLED TV 시장 점유율 1위 달성",
+        "date": "2025-05-20 10:32",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065576294385621"
+    },
+    {
+        "title": "삼성D, 컴퓨텍스 첫 출격…차세대 OLED 기술력 뽐낸다 [컴퓨텍스2025]",
+        "date": "2025-05-20 10:31",
+        "link": "https://n.news.naver.com/mnews/article/014/0005351972?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 소비전력·두께 30% 줄인 IT용 OLED 'UT One' 첫 공개",
+        "date": "2025-05-20 10:31",
+        "link": "https://n.news.naver.com/mnews/article/092/0002374935?sid=105"
+    },
+    {
+        "title": "삼성D, 컴퓨텍스서 30% 얇아진 'UT One' OLED 첫 공개",
+        "date": "2025-05-20 10:31",
+        "link": "https://n.news.naver.com/mnews/article/031/0000933642?sid=105"
+    },
+    {
+        "title": "삼성D, 컴퓨텍스 첫 참가…'초박형 OLED' UT One 공개",
+        "date": "2025-05-20 10:31",
+        "link": "https://n.news.naver.com/mnews/article/018/0006018861?sid=101"
+    },
+    {
+        "title": "삼성D, 대만 IT 박람회서 저전력 OLED 신기술 공개",
+        "date": "2025-05-20 10:31",
+        "link": "https://n.news.naver.com/mnews/article/016/0002473583?sid=101"
+    },
+    {
+        "title": "컴퓨텍스 첫 참가한 삼성디스플레이… IT OLED 시장 정조준",
+        "date": "2025-05-20 10:31",
+        "link": "https://n.news.naver.com/mnews/article/366/0001078554?sid=105"
+    },
+    {
+        "title": "삼성D, 컴퓨텍스 첫 참가, 한계 없는 'OLED 엣지' 선보여",
+        "date": "2025-05-20 10:30",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=80795"
+    },
+    {
+        "title": "삼성D, 컴퓨텍스 첫 참가…한계 없는 'OLED 엣지' 선봬",
+        "date": "2025-05-20 10:30",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2054857"
+    },
+    {
+        "title": "삼성D, 컴퓨텍스 첫 출격…초박형 'UT One'으로 OLED 패권 굳힌다",
+        "date": "2025-05-20 10:30",
+        "link": "https://www.newspim.com/news/view/20250520000052"
+    },
+    {
+        "title": "삼성디스플레이, 대만 ‘컴퓨텍스 2025’ 첫 참가…차세대 IT OLED 기술력...",
+        "date": "2025-05-20 10:30",
+        "link": "https://www.ceoscoredaily.com/page/view/2025052009445667303"
+    },
+    {
+        "title": "삼성D, 컴퓨텍스 첫 참가…한계 없는 'OLED 엣지' 선봬",
+        "date": "2025-05-20 10:30",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=696468"
+    },
+    {
+        "title": "삼성D, 컴퓨텍스 첫 참가...차세대 기술 선보인다",
+        "date": "2025-05-20 10:30",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=212684"
+    },
+    {
+        "title": "[컴퓨텍스 2025] '첫 참가' 삼성디스플레이, IT용 올레드 'UT 원' 공개",
+        "date": "2025-05-20 10:30",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196929?sid=105"
+    },
+    {
+        "title": "삼성D, 더 가볍고 전력 효율 높인 차세대 IT OLED 전시 [컴퓨텍스 2025]",
+        "date": "2025-05-20 10:30",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092141101"
+    },
+    {
+        "title": "삼성디스플레이, 대만 '컴퓨텍스'서 차세대 OLED 대거 공개",
+        "date": "2025-05-20 10:30",
+        "link": "https://n.news.naver.com/mnews/article/001/0015399320?sid=101"
+    },
+    {
+        "title": "삼성D, 대만서도 OLED 기술력 뽐내…얇고 가벼운 ‘UT 원’ 공개 [컴퓨텍...",
+        "date": "2025-05-20 10:30",
+        "link": "https://www.etoday.co.kr/news/view/2471841"
+    },
+    {
+        "title": "[컴퓨텍스 '25] 삼성디스플레이 첫 참가…차세대 OLED 기술 총출동",
+        "date": "2025-05-20 10:30",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1663382"
+    },
+    {
+        "title": "차세대 IT OLED 'UT One' 첫선…삼성D, 대만 컴퓨텍스 참가",
+        "date": "2025-05-20 10:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0008261456?sid=105"
+    },
+    {
+        "title": "삼성D, 아시아 최대 IT 전시 첫 데뷔…초저전력 OLED 기술 공개",
+        "date": "2025-05-20 10:30",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=177319"
+    },
+    {
+        "title": "삼성D, 소비전력·무게·두께 모두 30% 줄인 차세대 IT OLED 전시",
+        "date": "2025-05-20 10:30",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2279068"
+    },
+    {
+        "title": "삼성디스플레이, '컴퓨텍스 2025'서 차세대 OLED 기술 공개",
+        "date": "2025-05-20 10:30",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1218360"
+    },
+    {
+        "title": "얇은데, 효율까지···삼성D, 소비전력 30% 줄인 초박형 디스플레이 ...",
+        "date": "2025-05-20 10:30",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=557729"
+    },
+    {
+        "title": "삼성디스플레이, 컴퓨텍스 첫 참가…'OLED 엣지' 선보여",
+        "date": "2025-05-20 10:30",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=796412"
+    },
+    {
+        "title": "삼성D, 소비전략 30% 절감 'UT One' 첫 공개…컴퓨텍스 첫 참가",
+        "date": "2025-05-20 10:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0008261457?sid=101"
+    },
+    {
+        "title": "삼성D 컴퓨텍스 참가, 차세대 저전력 기술 'UT One' 처음 공개",
+        "date": "2025-05-20 10:30",
+        "link": "http://www.datanews.co.kr/news/article.html?no=138723"
+    },
+    {
+        "title": "삼성D, 컴퓨텍스 첫 참가…차세대 올레드 기술 'UT One' 공개",
+        "date": "2025-05-20 10:30",
+        "link": "https://n.news.naver.com/mnews/article/003/0013252882?sid=101"
+    },
+    {
+        "title": "“OLED는 LG”…LG전자, OLED TV 점유율 52.1% ‘압도적 1위’",
+        "date": "2025-05-20 10:30",
+        "link": "https://www.ceoscoredaily.com/page/view/2025052010240656516"
+    },
+    {
+        "title": "LG전자,1분기 OLED TV 점유율 52%… 글로벌 1위 유지",
+        "date": "2025-05-20 10:30",
+        "link": "https://n.news.naver.com/mnews/article/015/0005134071?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 컴퓨텍스서 IT 최적화 'OLED 솔루션' 선보여",
+        "date": "2025-05-20 10:30",
+        "link": "https://www.dizzotv.com/site/data/html_dir/2025/05/20/2025052080020.html"
+    },
+    {
+        "title": "애플, 아이패드OS 17.7.7 서명 중단.. 17.7.8 업데이트 재출시",
+        "date": "2025-05-20 10:30",
+        "link": "https://kbench.com/?q=node/267589"
+    },
+    {
+        "title": "삼성디스플레이, 컴퓨텍스 첫 참가...'UT One' 공개",
+        "date": "2025-05-20 10:27",
+        "link": "http://thetracker.co.kr/View.aspx?No=3651403"
+    },
+    {
+        "title": "LG전자, 1분기 글로벌 OLED TV 시장 점유율 52.1%로 1위 수성 ... 출하량 ...",
+        "date": "2025-05-20 10:26",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=68456"
+    },
+    {
+        "title": "HP 게이밍 노트북 오멘 16 쿠팡 사전예약 시작 프로모션",
+        "date": "2025-05-20 10:26",
+        "link": "https://kbench.com/?q=node/267592"
+    },
+    {
+        "title": "[글로벌] 애플-알리바바 AI 협력에 미국 반발...기술 종속 우려 커진다",
+        "date": "2025-05-20 10:26",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=139908"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 1위…13년 연속 정상",
+        "date": "2025-05-20 10:24",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1218373"
+    },
+    {
+        "title": "LG전자, 1분기에도 OLED TV 세계 1위…“출하량 12.4% 증가”",
+        "date": "2025-05-20 10:24",
+        "link": "https://www.sentv.co.kr/article/view/sentv202505200050"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 1위…출하량 점유율 52.1%",
+        "date": "2025-05-20 10:23",
+        "link": "https://n.news.naver.com/mnews/article/421/0008261434?sid=101"
+    },
+    {
+        "title": "LG전자, OLED TV 점유율 52%…글로벌 1위 잇는다",
+        "date": "2025-05-20 10:20",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=177321"
+    },
+    {
+        "title": "LG전자, 올 1분기도 OLED TV 시장 석권...52% 점유율로 독주",
+        "date": "2025-05-20 10:18",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1240699"
+    },
+    {
+        "title": "LG전자, 1분기 글로벌 OLED TV 점유율 52% 점유율…압도적 1위",
+        "date": "2025-05-20 10:16",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=796408"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 1위…'13년 연속 1위' 순항",
+        "date": "2025-05-20 10:15",
+        "link": "https://n.news.naver.com/mnews/article/001/0015399270?sid=101"
+    },
+    {
+        "title": "LG전자, OLED TV 점유율 52%로 세계 1위 수성",
+        "date": "2025-05-20 10:15",
+        "link": "https://www.newspim.com/news/view/20250520000207"
+    },
+    {
+        "title": "LG전자, 글로벌 OLED TV 점유율 52%…“13년 연속 1위 순항”",
+        "date": "2025-05-20 10:15",
+        "link": "https://n.news.naver.com/mnews/article/029/0002955844?sid=101"
+    },
+    {
+        "title": "LG전자, OLED TV 세계 시장 점유율 52.1%…13년 연속 1위 ‘청신호’",
+        "date": "2025-05-20 10:14",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=177758"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 1위…점유율 52%",
+        "date": "2025-05-20 10:12",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1663416"
+    },
+    {
+        "title": "비싼 TV는 여기서 사요…전 세계 홀린 LG전자, 선두 '유지'",
+        "date": "2025-05-20 10:11",
+        "link": "https://n.news.naver.com/mnews/article/015/0005134057?sid=101"
+    },
+    {
+        "title": "LG전자, 1분기에도 OLED TV 압도적 세계 1위…'13년 연속 세계 1위' 순항",
+        "date": "2025-05-20 10:10",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=226656"
+    },
+    {
+        "title": "LG전자, OLED TV 1분기 점유율 52%…'세계 1위' 굳혔다",
+        "date": "2025-05-20 10:09",
+        "link": "https://n.news.naver.com/mnews/article/277/0005595254?sid=101"
+    },
+    {
+        "title": "LG전자 OLED TV, 1분기 52% 점유율 기록···압도적 세계 1위",
+        "date": "2025-05-20 10:06",
+        "link": "https://www.tournews21.com/news/articleView.html?idxno=102318"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 점유율 1위··· 13년 연속 선두",
+        "date": "2025-05-20 10:06",
+        "link": "https://www.ajunews.com/view/20250520100156846"
+    },
+    {
+        "title": "화웨이도 노트북 접는다…‘메이트 폴드’ 공개 '하모니 OS' 확산",
+        "date": "2025-05-20 10:04",
+        "link": "https://n.news.naver.com/mnews/article/138/0002196916?sid=105"
+    },
+    {
+        "title": "[더벨][thebell interview]수익성 개선 집중, 포트폴리오 다각화 자신",
+        "date": "2025-05-20 10:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505191555565160104866"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 출하량 1위⋯전년比 12.4%↑",
+        "date": "2025-05-20 10:02",
+        "link": "https://www.etoday.co.kr/news/view/2471913"
+    },
+    {
+        "title": "[단독]삼성전자 베트남, 1분기 순이익 39% 급감…9년 만에 최저치",
+        "date": "2025-05-20 10:02",
+        "link": "https://www.socialvalue.kr/news/view/1065574567412235"
+    },
+    {
+        "title": "LG전자, 1Q 'OLED TV' 세계 1위…'13년 연속' 코앞",
+        "date": "2025-05-20 10:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006018824?sid=101"
+    },
+    {
+        "title": "LG전자, 1분기에도 OLED TV 13년 연속 1위...출하량 12.4% 증가",
+        "date": "2025-05-20 10:00",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000072488"
+    },
+    {
+        "title": "LG Display's Next-Gen OLED Research Wins 'Distinguished Paper' at SID Con...",
+        "date": "2025-05-20 10:00",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=141511"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 압도적 세계 1위",
+        "date": "2025-05-20 09:58",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=80823"
+    },
+    {
+        "title": "LG디스플레이, 4세대 OLED 신기술 논문 '올해의 우수논문' 선정",
+        "date": "2025-05-20 09:58",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=141509"
+    },
+    {
+        "title": "LG전자, 1분기 글로벌 OLED TV 시장 '1위'",
+        "date": "2025-05-20 09:57",
+        "link": "http://thetracker.co.kr/View.aspx?No=3651387"
+    },
+    {
+        "title": "LG전자, 1Q 글로벌 OLED TV 출하량 1위...13년 연속 선두 수성 청신호",
+        "date": "2025-05-20 09:56",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=212699"
+    },
+    {
+        "title": "LG전자 1분기 글로벌 OLED TV 점유율 52%, 전년보다 출하량 12.4% 증가",
+        "date": "2025-05-20 09:56",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=395810"
+    },
+    {
+        "title": "LG전자, OLED TV 점유율 1위 수성...글로벌 리더십 이어간다",
+        "date": "2025-05-20 09:56",
+        "link": "https://n.news.naver.com/mnews/article/119/0002958307?sid=101"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 세계 점유율 52.1%…13년 연속 1위 순항",
+        "date": "2025-05-20 09:56",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=246502"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 글로벌 점유율 52.1% 1위. 출하량 12.4% 증가",
+        "date": "2025-05-20 09:54",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531285"
+    },
+    {
+        "title": "포스텍, 픽셀형 로컬 멀티 스피커 기능의 다채널 사운드 통합 OLED 기술 ...",
+        "date": "2025-05-20 09:54",
+        "link": "https://n.news.naver.com/mnews/article/030/0003313946?sid=105"
+    },
+    {
+        "title": "LG전자, 1분기 OLED TV 출하량 12.4% 증가 부동의 세계 1위 수성",
+        "date": "2025-05-20 09:52",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=242651"
+    },
+    {
+        "title": "화웨이, 세계 최초 폴더블 노트북 '메이트북 폴드 얼티밋 디자인' 출시",
+        "date": "2025-05-20 09:38",
+        "link": "https://kbench.com/?q=node/267581"
+    },
+    {
+        "title": "고화질 OLED 디스플레이, 고품질 소리까지 시각+청각 위치별 통합 디스...",
+        "date": "2025-05-20 09:32",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=554373"
+    },
+    {
+        "title": "[더벨][Company Watch]'원가율 개선' 티로보틱스, 진공이송모듈 흑자전환...",
+        "date": "2025-05-20 09:32",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505191715243800101439"
+    },
+    {
+        "title": "고화질 OLED 디스플레이, 고품질 소리까지 시각+청각 위치별 통합 디스...",
+        "date": "2025-05-20 09:20",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=135197"
+    },
+    {
+        "title": "밸브 차세대 VR 헤드셋 '데카드' 완성도 호평 …출시 일정은 미정",
+        "date": "2025-05-20 09:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566980"
+    },
+    {
+        "title": "삼성전자 2025년형 OLED TV, 엔비디아 '지싱크 호환' 인증 획득",
+        "date": "2025-05-20 09:14",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=229152"
+    },
+    {
+        "title": "샤오미, 자체 칩 개발? … 퀼컴 삼성전자를 보라 [디지털포스트 모닝...",
+        "date": "2025-05-20 09:14",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54461"
+    },
+    {
+        "title": "애플 시리의 첫 AI, 원래는 챗GPT가 아니었다? 제미나이 탑재 주장 무시...",
+        "date": "2025-05-20 09:00",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531272"
+    },
+    {
+        "title": "바이오기업 프로티나, 기업공개 추진",
+        "date": "2025-05-20 08:55",
+        "link": "https://n.news.naver.com/mnews/article/215/0001209842?sid=101"
+    },
+    {
+        "title": "애플 전 시리 책임자, 챗GPT보다 제미나이 선택 주장…결국 퇴짜",
+        "date": "2025-05-20 08:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566963"
+    },
+    {
+        "title": "화웨이, '삼성보다 빠르게' 폴더블 노트북 시장 진출...자체 SoC 탑재 눈...",
+        "date": "2025-05-20 08:48",
+        "link": "https://www.theguru.co.kr/news/article.html?no=87145"
+    },
+    {
+        "title": "애플 AI 전략 변화 우려…챗GPT 대신 제미나이 선호로 내부 의견 갈려",
+        "date": "2025-05-20 08:38",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15671686"
+    },
+    {
+        "title": "접을 수 있는 ‘아이폰 폴드’ 주요 사양 나왔다",
+        "date": "2025-05-20 08:34",
+        "link": "https://n.news.naver.com/mnews/article/092/0002374911?sid=105"
+    },
+    {
+        "title": "[컴퓨텍스 2025] 삼성디스플레이 첫 참가…저전력 'UT One' 첫 공개",
+        "date": "2025-05-20 08:20",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=226631"
+    },
+    {
+        "title": "[영상] 우리 애플망고 농장이 달라졌어요 (Feat. 스마트싱스 프로)",
+        "date": "2025-05-20 08:14",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=60817"
+    },
+    {
+        "title": "애플 전 시리 책임자, 첫 AI모델에 챗GPT 대신 제미나이 선호",
+        "date": "2025-05-20 08:04",
+        "link": "https://n.news.naver.com/mnews/article/001/0015399011?sid=104"
+    },
+    {
+        "title": "[IT썰]애플 외부결제 풀릴까…스포티파이 앱내 오디오북 구매 허용",
+        "date": "2025-05-20 07:40",
+        "link": "https://n.news.naver.com/mnews/article/008/0005196356?sid=105"
+    },
+    {
+        "title": "화웨이, 자체 OS 탑재 초슬림 폴더블 노트북 '메이트북 폴드' 공개",
+        "date": "2025-05-20 07:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=566940"
+    },
+    {
+        "title": "애플, 신제품 2회 출시 검토…LGD·삼성D '호재'",
+        "date": "2025-05-20 07:14",
+        "link": "https://dealsite.co.kr/articles/141678"
+    },
+    {
+        "title": "갤럭시 S25 엣지 써보니 배터리·카메라 의외네.. 가격 변수 [1일IT템]",
+        "date": "2025-05-20 07:00",
+        "link": "https://n.news.naver.com/mnews/article/014/0005351828?sid=105"
+    }
+]
