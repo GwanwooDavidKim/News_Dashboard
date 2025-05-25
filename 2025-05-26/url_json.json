@@ -1,1 +1,302 @@
-
+[
+    {
+        "title": "[단독]삼성전자, 북미서 1분기 OLED TV 첫 '1위'",
+        "date": "2025-05-26 04:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003315572?sid=105"
+    },
+    {
+        "title": "[단독]“매출 500억중 수수료 140억”… 韓게임사, 美서 애플 상대 첫 소...",
+        "date": "2025-05-26 03:04",
+        "link": "https://n.news.naver.com/mnews/article/020/0003637338?sid=102"
+    },
+    {
+        "title": "휴대폰도 관세 25%",
+        "date": "2025-05-26 00:56",
+        "link": "https://n.news.naver.com/mnews/article/023/0003907308?sid=105"
+    },
+    {
+        "title": "영업익 64% 떠받쳤는데… 삼성전자 모바일까지 빨간불",
+        "date": "2025-05-26 00:51",
+        "link": "https://n.news.naver.com/mnews/article/023/0003907249?sid=105"
+    },
+    {
+        "title": "“뉴욕 언팩 코앞인데” 삼성·애플 발목 잡는 ‘폰 25% 관세’",
+        "date": "2025-05-26 00:01",
+        "link": "https://n.news.naver.com/mnews/article/025/0003443300?sid=101"
+    },
+    {
+        "title": "통화·번역 기본에 얼굴·음성 인식까지…1000弗 넘는 스마트안경, 삼국...",
+        "date": "2025-05-25 23:52",
+        "link": "https://n.news.naver.com/mnews/article/009/0005498294?sid=105"
+    },
+    {
+        "title": "애플, 카카오페이 이용자 개인정보 고지 누락으로 과징금 처분",
+        "date": "2025-05-25 22:08",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025052521100147910b8d776efa_1/article.html"
+    },
+    {
+        "title": "인도로 눈 돌리는 애플에 거듭 경고…트럼프 “삼성도 해당”",
+        "date": "2025-05-25 21:13",
+        "link": "https://n.news.naver.com/mnews/article/032/0003371848?sid=101"
+    },
+    {
+        "title": "'갤럭시 S25 엣지', 출시 타이밍 최악?···트럼프發 25% 관세 불똥",
+        "date": "2025-05-25 19:44",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2281363"
+    },
+    {
+        "title": "AI가 바꿔놓은 웨어러블 대세...삼성·애플, 스마트 글라스 출시 ‘속...",
+        "date": "2025-05-25 19:32",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025052511104023936ed0c62d49_1/article.html"
+    },
+    {
+        "title": "“해외생산 아이폰 25% 관세… 삼성도 해당”",
+        "date": "2025-05-25 18:53",
+        "link": "https://n.news.naver.com/mnews/article/022/0004038233?sid=104"
+    },
+    {
+        "title": "트럼프 모든 스마트폰에 25% 관세 부과",
+        "date": "2025-05-25 18:44",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=510918"
+    },
+    {
+        "title": "위기의 아이폰... 생산기지 美 이전 가능할까?[글로벌 리포트]",
+        "date": "2025-05-25 18:36",
+        "link": "https://n.news.naver.com/mnews/article/014/0005354296?sid=105"
+    },
+    {
+        "title": "[기획] OLED만 집중 韓, XR 기술 뒤쳐져… 생태계 진입 `빨간불`",
+        "date": "2025-05-25 18:35",
+        "link": "https://n.news.naver.com/mnews/article/029/0002957071?sid=101"
+    },
+    {
+        "title": "프라이버시냐 통제냐 애플, 텍사스 '앱스토어 책임법안' 거부권 요청",
+        "date": "2025-05-25 18:27",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2281350"
+    },
+    {
+        "title": "트럼프 아이폰에 25% 관세…삼성도 불똥",
+        "date": "2025-05-25 18:24",
+        "link": "https://n.news.naver.com/mnews/article/015/0005136261?sid=104"
+    },
+    {
+        "title": "美 공장 없는 갤럭시, 관세 현실화땐 가격 40% 오를수도[트럼프 스마트...",
+        "date": "2025-05-25 18:20",
+        "link": "https://n.news.naver.com/mnews/article/014/0005354263?sid=105"
+    },
+    {
+        "title": "'25% 관세경고' 트럼프, 삼성폰도 콕 찍어…美 공장 건설 '노골적 압박'",
+        "date": "2025-05-25 17:45",
+        "link": "https://n.news.naver.com/mnews/article/011/0004489383?sid=101"
+    },
+    {
+        "title": "삼성 엣지 출시…통신사, 갤럭시 S25 지원금 상향",
+        "date": "2025-05-25 17:41",
+        "link": "https://n.news.naver.com/mnews/article/014/0005354223?sid=105"
+    },
+    {
+        "title": "사업 구조전환 성공…하반기 본격 상승궤도 오를 것 [애널리스트 뷰]",
+        "date": "2025-05-25 17:39",
+        "link": "https://n.news.naver.com/mnews/article/011/0004489375?sid=101"
+    },
+    {
+        "title": "OLED 혁신 통했다…LGD 올 실적 턴어라운드 원년 [스타즈 IR]",
+        "date": "2025-05-25 17:38",
+        "link": "https://n.news.naver.com/mnews/article/011/0004489372?sid=101"
+    },
+    {
+        "title": "[단독]韓 게임유통사, “매출 500억중 140억 수수료” 美 애플 상대 소송",
+        "date": "2025-05-25 17:38",
+        "link": "https://n.news.naver.com/mnews/article/020/0003637224?sid=102"
+    },
+    {
+        "title": "구글·메타·애플 …'스마트안경 삼국지' 개막",
+        "date": "2025-05-25 17:32",
+        "link": "https://n.news.naver.com/mnews/article/009/0005498173?sid=105"
+    },
+    {
+        "title": "美관세 타깃 된 '스마트폰'… 삼성, 하반기 불확실성 커졌다",
+        "date": "2025-05-25 17:32",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250526010012456"
+    },
+    {
+        "title": "뉴욕 언팩 코앞인데…삼성·애플 발목 잡는 '스마트폰 25% 관세'",
+        "date": "2025-05-25 17:29",
+        "link": "https://n.news.naver.com/mnews/article/025/0003443255?sid=101"
+    },
+    {
+        "title": "삼성 갤럭시, 日서 AOS 인기 1위했지만…'보급형'에 그친 영광",
+        "date": "2025-05-25 17:00",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025052512010078103b60030fa2_1/article.html"
+    },
+    {
+        "title": "통신사, 갤럭시 S25 시리즈 공시지원금 상향",
+        "date": "2025-05-25 16:38",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3273623"
+    },
+    {
+        "title": "삼성도 겨냥한 트럼프式 관세 폭탄, 스마트폰값 오르나",
+        "date": "2025-05-25 16:23",
+        "link": "https://n.news.naver.com/mnews/article/018/0006023399?sid=101"
+    },
+    {
+        "title": "[통신25시]갤럭시 S25 엣지 출시에…KT·SKT, 기존 모델 지원금 최대 70만...",
+        "date": "2025-05-25 15:58",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025052515562882208"
+    },
+    {
+        "title": "트럼프 삼성전자·애플에 스마트폰 25% 관세, 6월 말 시행될 수도",
+        "date": "2025-05-25 15:48",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=396522"
+    },
+    {
+        "title": "삼성 엣지 출시·7월 언팩 앞두고…갤럭시 S25 지원금 상향",
+        "date": "2025-05-25 15:38",
+        "link": "https://n.news.naver.com/mnews/article/422/0000743641?sid=101"
+    },
+    {
+        "title": "애플, 텍사스주에 '앱스토어 책임법안' 거부권 행사 요청",
+        "date": "2025-05-25 15:34",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1663980"
+    },
+    {
+        "title": "통신사, 갤럭시 S25 엣지 출시에 공시지원금 대폭 인상",
+        "date": "2025-05-25 15:34",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1242528"
+    },
+    {
+        "title": "SKT·KT, 갤S25 시리즈 공시지원금 상향 '최대 80만원'",
+        "date": "2025-05-25 15:32",
+        "link": "https://n.news.naver.com/mnews/article/018/0006023388?sid=105"
+    },
+    {
+        "title": "갤럭시·아이폰 'AI 지우개' 비교하니…삼성은 유용, 애플은 추상화",
+        "date": "2025-05-25 15:09",
+        "link": "https://n.news.naver.com/mnews/article/421/0008271901?sid=105"
+    },
+    {
+        "title": "삼성 스마트폰, 신흥시장서 반등…스마트워치, AI·헬스케어로 ‘재도약...",
+        "date": "2025-05-25 15:00",
+        "link": "https://www.ekn.kr/web/view.php?key=20250525022290132"
+    },
+    {
+        "title": "삼성 엣지 출시·7월 언팩에…통신사, 갤럭시 S25 지원금 상향",
+        "date": "2025-05-25 14:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=567833"
+    },
+    {
+        "title": "아이폰이 싸졌다? 신작 아이폰17에 숨은 新프리미엄 전략 [IT+]",
+        "date": "2025-05-25 14:20",
+        "link": "https://n.news.naver.com/mnews/article/665/0000005075?sid=105"
+    },
+    {
+        "title": "‘인도 생산’ 늘리는 애플에 ‘25% 관세’ 경고한 트럼프···삼성도 콕...",
+        "date": "2025-05-25 14:17",
+        "link": "https://n.news.naver.com/mnews/article/032/0003371716?sid=101"
+    },
+    {
+        "title": "트럼프 ‘휴대폰 25%’ 관세쇼크…커지는 인도 회의론",
+        "date": "2025-05-25 14:05",
+        "link": "https://n.news.naver.com/mnews/article/016/0002475881?sid=104"
+    },
+    {
+        "title": "애플, 텍사스주 사용자 확인의무화 법안 거부권 행사 요청",
+        "date": "2025-05-25 13:55",
+        "link": "https://n.news.naver.com/mnews/article/029/0002956993?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 엣지 출시...기존 모델 지원금 70만원으로 올려",
+        "date": "2025-05-25 13:54",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=157095"
+    },
+    {
+        "title": "통신사, '갤럭시 S25' 시리즈 지원금 상향",
+        "date": "2025-05-25 13:42",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=648568"
+    },
+    {
+        "title": "삼성 엣지 출시·7월 언팩에…통신사, 갤럭시 S25 지원금 상향",
+        "date": "2025-05-25 13:27",
+        "link": "https://n.news.naver.com/mnews/article/055/0001260869?sid=101"
+    },
+    {
+        "title": "링크솔루션 공모·도우인시스 수요예측[증시캘린더]",
+        "date": "2025-05-25 13:17",
+        "link": "https://n.news.naver.com/mnews/article/018/0006023083?sid=101"
+    },
+    {
+        "title": "갤엣지 출시·7월 언팩 앞두고 재고 소진…갤럭시 S25 지원금 상향",
+        "date": "2025-05-25 13:11",
+        "link": "https://n.news.naver.com/mnews/article/374/0000442361?sid=101"
+    },
+    {
+        "title": "출시하자마자 샀는데…5개월만에 지원금 3배 올랐다",
+        "date": "2025-05-25 13:06",
+        "link": "https://n.news.naver.com/mnews/article/215/0001210438?sid=004"
+    },
+    {
+        "title": "'삼성전자' 갤럭시 S25 엣지 출시에 통신 3사 지원금 최대 80만5천 원까지...",
+        "date": "2025-05-25 12:54",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15676706"
+    },
+    {
+        "title": "통신사, '갤럭시 S25' 시리즈 지원금 상향",
+        "date": "2025-05-25 12:42",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1663973"
+    },
+    {
+        "title": "[BUTECH 2025] 더 이상 단순 작업 ‘NO’...‘협업’ 넘어 ‘가치’ 더하...",
+        "date": "2025-05-25 12:36",
+        "link": "https://www.hellot.net/news/article.html?no=101627"
+    },
+    {
+        "title": "갤럭시 S25 엣지 출시에 통신사들 공시지원금 '상향 조정'",
+        "date": "2025-05-25 12:34",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=502576"
+    },
+    {
+        "title": "삼성 엣지 출시·7월 언팩에…통신사, 갤럭시 S25 지원금 상향",
+        "date": "2025-05-25 12:22",
+        "link": "https://n.news.naver.com/mnews/article/001/0015409200?sid=105"
+    },
+    {
+        "title": "화웨이 폴더블 노트북 만져보니 미쳤네.. 왜? [1일IT템]",
+        "date": "2025-05-25 12:11",
+        "link": "https://n.news.naver.com/mnews/article/014/0005354135?sid=105"
+    },
+    {
+        "title": "맥북 색감이 외부 모니터에 그대로…애플 전용 모니터 '벤큐 MA시리즈...",
+        "date": "2025-05-25 12:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002197297?sid=105"
+    },
+    {
+        "title": "애플 vs 갤럭시 AI 비교해봤더니…1600만 조회수 기록한 영상 화제",
+        "date": "2025-05-25 11:33",
+        "link": "https://n.news.naver.com/mnews/article/023/0003907176?sid=105"
+    },
+    {
+        "title": "애플, 美텍사스 주지사에 '앱스토어 책임법안' 거부권 행사 요청",
+        "date": "2025-05-25 10:44",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=190483"
+    },
+    {
+        "title": "AI 위기론 애플, 보름후 WWDC서 반전 카드 꺼낼까",
+        "date": "2025-05-25 10:18",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=751422"
+    },
+    {
+        "title": "애플·삼성 스마트폰, 미국서 제조 안 하면 25% 관세…트럼프 경고",
+        "date": "2025-05-25 09:00",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=264173"
+    },
+    {
+        "title": "뜨거운 감자 '애플 앱스토어 책임법안'…美 텍사스 주의회 압도적 통과",
+        "date": "2025-05-25 08:48",
+        "link": "https://www.sentv.co.kr/article/view/sentv202505250002"
+    },
+    {
+        "title": "[공모주달력]SK하이닉스 디자인하우스 '싸이닉솔루션' 수요예측",
+        "date": "2025-05-25 07:30",
+        "link": "https://n.news.naver.com/mnews/article/648/0000036444?sid=101"
+    }
+]
