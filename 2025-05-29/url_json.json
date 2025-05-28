@@ -1,1 +1,787 @@
-
+[
+    {
+        "title": "애플, 아이패드도 '셀프 수리' 서비스 확대",
+        "date": "2025-05-29 03:38",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=806681"
+    },
+    {
+        "title": "'애플' 셀프 수리 프로그램, 아이패드까지 확대…65개 제품·34개국 지원",
+        "date": "2025-05-29 03:22",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15680743"
+    },
+    {
+        "title": "애플 셀프 수리 프로그램 확대…아이폰·맥 이어 아이패드까지",
+        "date": "2025-05-29 03:03",
+        "link": "https://n.news.naver.com/mnews/article/422/0000744732?sid=104"
+    },
+    {
+        "title": "애플 아이폰·맥에 이어 아이패드도 '셀프 수리' 하세요",
+        "date": "2025-05-29 02:43",
+        "link": "https://n.news.naver.com/mnews/article/001/0015417923?sid=104"
+    },
+    {
+        "title": "“일단 인도산 아이폰으로 버텼는데”…애플, 트럼프 어깃장에 ‘노심...",
+        "date": "2025-05-28 21:31",
+        "link": "https://n.news.naver.com/mnews/article/009/0005500337?sid=101"
+    },
+    {
+        "title": "韓게임사 100곳 수수료 환수신청…구글·애플 통행세 과도해(종합)",
+        "date": "2025-05-28 19:23",
+        "link": "https://n.news.naver.com/mnews/article/003/0013271907?sid=105"
+    },
+    {
+        "title": "솔루스첨단소재 OLED 신규 발광 소재 고객사 승인 완료...국내 시장 진...",
+        "date": "2025-05-28 18:28",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=355703"
+    },
+    {
+        "title": "진에어, 애플월렛 모바일 탑승권 서비스..편의성 ‘업’",
+        "date": "2025-05-28 18:26",
+        "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=57387"
+    },
+    {
+        "title": "솔루스첨단소재, OLED 신규 유기재료 소재 양산 준비 돌입",
+        "date": "2025-05-28 18:16",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=170211"
+    },
+    {
+        "title": "트럼프 불편하든 말든 메이드 인 인디아… 애플판 '마이 웨이' [Global]",
+        "date": "2025-05-28 17:54",
+        "link": "https://n.news.naver.com/mnews/article/665/0000005096?sid=105"
+    },
+    {
+        "title": "갤럭시 지우개 VS 아이폰 클린업 비교해봤더니 'AI폰 뜻밖의 반전'",
+        "date": "2025-05-28 17:54",
+        "link": "https://news.mtn.co.kr/news-detail/2025052816414693377"
+    },
+    {
+        "title": "진에어, 애플월렛 모바일 탑승권 서비스 실시",
+        "date": "2025-05-28 17:52",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=172314"
+    },
+    {
+        "title": "샤오미, 애플 제치고 ‘웨어러블 밴드’ 시장 세계 1위… 화웨이도 3위...",
+        "date": "2025-05-28 17:45",
+        "link": "https://n.news.naver.com/mnews/article/366/0001080974?sid=105"
+    },
+    {
+        "title": "아이폰 '메이드 인 인디아' 시대",
+        "date": "2025-05-28 17:45",
+        "link": "https://n.news.naver.com/mnews/article/009/0005500207?sid=104"
+    },
+    {
+        "title": "삼성·애플 꺼내든 초슬림폰…'플러스 모델' 대체하나",
+        "date": "2025-05-28 17:44",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=797356"
+    },
+    {
+        "title": "닌텐도·갤럭시 잡은 삼성 파운드리...구형 공정 경쟁 더 치열해진다",
+        "date": "2025-05-28 17:32",
+        "link": "https://n.news.naver.com/mnews/article/025/0003444171?sid=101"
+    },
+    {
+        "title": "美, 앱 다운 때 연령확인…애플·구글 타격",
+        "date": "2025-05-28 17:32",
+        "link": "https://n.news.naver.com/mnews/article/015/0005137810?sid=104"
+    },
+    {
+        "title": "기술로 경계를 넘다 마이크로소프트의 포용 혁신 전략",
+        "date": "2025-05-28 17:30",
+        "link": "https://www.ablenews.co.kr/news/articleView.html?idxno=221722"
+    },
+    {
+        "title": "4월 '인도산' 아이폰 대미 수출 76% ↑...美·中이 '아이폰 인도 생산' ...",
+        "date": "2025-05-28 17:28",
+        "link": "https://www.newspim.com/news/view/20250528001094"
+    },
+    {
+        "title": "충남 'OLED 디스플레이 초격차' 시동 건다",
+        "date": "2025-05-28 17:27",
+        "link": "https://n.news.naver.com/mnews/article/015/0005137805?sid=102"
+    },
+    {
+        "title": "삼성전자, 'One UI 8' 하반기 폴더블에 첫 탑재",
+        "date": "2025-05-28 17:22",
+        "link": "https://www.newspim.com/news/view/20250528001100"
+    },
+    {
+        "title": "정태영 현대카드 부회장 애플페이 결제 국내 정착…고객 관점에서 고민...",
+        "date": "2025-05-28 17:18",
+        "link": "https://www.ajunews.com/view/20250528163812334"
+    },
+    {
+        "title": "구글·애플 '30% 수수료' 환수 신청 게임사 100곳 돌파..불공정 관행 ...",
+        "date": "2025-05-28 17:12",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=79781"
+    },
+    {
+        "title": "손목 시장도 앗아간 샤오미…애플워치 제치고 글로벌 1위",
+        "date": "2025-05-28 17:10",
+        "link": "https://n.news.naver.com/mnews/article/003/0013271602?sid=105"
+    },
+    {
+        "title": "[DD퇴근길] 네이버·사우디 합작법인 출범…지도 슈퍼앱 구축",
+        "date": "2025-05-28 17:04",
+        "link": "https://n.news.naver.com/mnews/article/138/0002197540?sid=105"
+    },
+    {
+        "title": "애플, 게임 전용 앱 출시·개발사 인수…게임 사업 본격화",
+        "date": "2025-05-28 17:02",
+        "link": "https://n.news.naver.com/mnews/article/092/0002376117?sid=105"
+    },
+    {
+        "title": "진에어, 애플월렛 탑승권 도입…모바일 체크인 확대",
+        "date": "2025-05-28 16:56",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1664508"
+    },
+    {
+        "title": "엑시노스, 삼성전자 DS 반등 선봉 선다…플립7 시험대",
+        "date": "2025-05-28 16:32",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=177840"
+    },
+    {
+        "title": "진에어, 애플월렛 모바일 탑승권 서비스 실시",
+        "date": "2025-05-28 16:28",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=327550"
+    },
+    {
+        "title": "아이폰17 에어 vs S25 엣지, 최종 승자는?",
+        "date": "2025-05-28 16:26",
+        "link": "https://n.news.naver.com/mnews/article/123/0002360083?sid=004"
+    },
+    {
+        "title": "삼성, '특허괴물' 넷리스트에 또 소송…이번엔 HBM",
+        "date": "2025-05-28 16:24",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1263406&inflow=N"
+    },
+    {
+        "title": "백악관, 애플에 관세 부담 소비자 전가 말라…미·중 무역긴장 속 압...",
+        "date": "2025-05-28 16:12",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15680246"
+    },
+    {
+        "title": "`인앱결제` 도전받는 애플, 안전성 강조…지난해 90억달러 부정 거래 막...",
+        "date": "2025-05-28 15:55",
+        "link": "https://n.news.naver.com/mnews/article/029/0002957962?sid=105"
+    },
+    {
+        "title": "애플, 아이폰에 '2억 화소' 카메라 탑재하나… “테스트 중”",
+        "date": "2025-05-28 15:55",
+        "link": "https://n.news.naver.com/mnews/article/030/0003316817?sid=104"
+    },
+    {
+        "title": "‘트럼프 눈총’ 애플, 아이폰 인도 출하량 중국분 웃돌아",
+        "date": "2025-05-28 15:52",
+        "link": "https://www.etoday.co.kr/news/view/2474428"
+    },
+    {
+        "title": "삼성전자, 폴더블 신작에 '엑시노스' 탑재…스마트폰 두뇌 전략 변하나...",
+        "date": "2025-05-28 15:48",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=697703"
+    },
+    {
+        "title": "진에어, '애플월렛' 앱 모바일탑승권 서비스 진행",
+        "date": "2025-05-28 15:46",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=653375"
+    },
+    {
+        "title": "'게이머 무시' 오해받던 애플…게임 앱 출시에 비디오게임사 인수 [글로...",
+        "date": "2025-05-28 15:43",
+        "link": "https://n.news.naver.com/mnews/article/014/0005356003?sid=105"
+    },
+    {
+        "title": "진에어, '애플월렛' 탑승권 서비스 시작",
+        "date": "2025-05-28 15:39",
+        "link": "https://n.news.naver.com/mnews/article/215/0001210826?sid=101"
+    },
+    {
+        "title": "“애플, 내달 9일 게임 전용 앱 첫 공개”",
+        "date": "2025-05-28 15:34",
+        "link": "https://www.etoday.co.kr/news/view/2474449"
+    },
+    {
+        "title": "백악관, 애플에 관세 압박 “소비자 아닌 애플이 부담해야”",
+        "date": "2025-05-28 15:34",
+        "link": "https://n.news.naver.com/mnews/article/056/0011960348?sid=104"
+    },
+    {
+        "title": "진에어, 애플월렛 모바일 탑승권 서비스 실시",
+        "date": "2025-05-28 15:32",
+        "link": "https://www.etoday.co.kr/news/view/2474456"
+    },
+    {
+        "title": "진에어, 애플월렛 모바일 탑승권 서비스 선보여",
+        "date": "2025-05-28 15:27",
+        "link": "https://n.news.naver.com/mnews/article/076/0004281601?sid=101"
+    },
+    {
+        "title": "애플, 픽셀 경쟁 뛰어들까…2억 화소 카메라 달린 아이폰 개발 추진",
+        "date": "2025-05-28 15:24",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=268646"
+    },
+    {
+        "title": "90억 달러 피해 막아…애플, 앱스토어 안전성 강화 '앞장'",
+        "date": "2025-05-28 15:22",
+        "link": "https://n.news.naver.com/mnews/article/092/0002376088?sid=105"
+    },
+    {
+        "title": "백악관, 애플에 '관세 부담 소비자 전가말라' 압박",
+        "date": "2025-05-28 15:22",
+        "link": "https://n.news.naver.com/mnews/article/374/0000443048?sid=104"
+    },
+    {
+        "title": "관세 핑계로 아이폰 가격 올리지마…애플 압박하는 미 백악관",
+        "date": "2025-05-28 15:22",
+        "link": "https://n.news.naver.com/mnews/article/015/0005137691?sid=105"
+    },
+    {
+        "title": "백악관, 애플에 '관세 부담 전가말라' 압박",
+        "date": "2025-05-28 15:15",
+        "link": "https://n.news.naver.com/mnews/article/001/0015416851?sid=104"
+    },
+    {
+        "title": "진에어, 애플월렛 모바일 탑승권 서비스 시행",
+        "date": "2025-05-28 15:10",
+        "link": "https://www.asiatime.co.kr/article/20250528500277"
+    },
+    {
+        "title": "진에어, '애플월렛' 모바일 탑승권 서비스 개시",
+        "date": "2025-05-28 15:10",
+        "link": "http://theviewers.co.kr/View.aspx?No=3660429"
+    },
+    {
+        "title": "애플, 연내 게임 전용 앱 출시… WWDC서 첫 공개 예정",
+        "date": "2025-05-28 15:04",
+        "link": "https://n.news.naver.com/mnews/article/366/0001080877?sid=105"
+    },
+    {
+        "title": "종이 탑승권 안녕…진에어, 애플월렛 모바일 탑승권 서비스 실시",
+        "date": "2025-05-28 15:04",
+        "link": "https://n.news.naver.com/mnews/article/015/0005137680?sid=101"
+    },
+    {
+        "title": "애플, 게임 전용 앱 공개하고 게임 스튜디오 인수",
+        "date": "2025-05-28 14:57",
+        "link": "https://n.news.naver.com/mnews/article/009/0005499982?sid=105"
+    },
+    {
+        "title": "진에어, 애플월렛 모바일 탑승권 서비스 개시",
+        "date": "2025-05-28 14:50",
+        "link": "https://n.news.naver.com/mnews/article/277/0005599710?sid=101"
+    },
+    {
+        "title": "진에어, '애플월렛' 모바일 탑승권 서비스 실시",
+        "date": "2025-05-28 14:50",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1243889"
+    },
+    {
+        "title": "중국 LCD 모니터 시장 동향",
+        "date": "2025-05-28 14:45",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=229331"
+    },
+    {
+        "title": "애플, 역사상 첫 게임사 인수... '스니키 사스콰치'의 RAC7 품에 안아",
+        "date": "2025-05-28 14:40",
+        "link": "https://m.sports.naver.com/esports/article/439/0000030870"
+    },
+    {
+        "title": "[기업진단] 트럼프, 스마트폰에도 관세 부과…삼성전자, 美공장 세울까",
+        "date": "2025-05-28 14:38",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=454802"
+    },
+    {
+        "title": "진에어, 애플월렛 모바일 탑승권 서비스 실시",
+        "date": "2025-05-28 14:38",
+        "link": "https://www.sentv.co.kr/article/view/sentv202505280120"
+    },
+    {
+        "title": "진에어 모바일 탑승권, 이젠 애플월렛 앱에 보관하세요!",
+        "date": "2025-05-28 14:36",
+        "link": "https://www.tournews21.com/news/articleView.html?idxno=103472"
+    },
+    {
+        "title": "LGD, 작년 대형 OLED 기판 투입능력 28% 확대",
+        "date": "2025-05-28 14:32",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=36462"
+    },
+    {
+        "title": "산 넘어 산 애플, 텍사스·머스크도 돌아섰다 [윤민혁의 실리콘밸리View...",
+        "date": "2025-05-28 14:32",
+        "link": "https://n.news.naver.com/mnews/article/011/0004490715?sid=105"
+    },
+    {
+        "title": "애플, 작년 20억弗 이상 부정 거래 막았다…위험 앱 200만건 차단",
+        "date": "2025-05-28 14:32",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=268614"
+    },
+    {
+        "title": "진에어, 애플월렛 모바일 탑승권 서비스 실시",
+        "date": "2025-05-28 14:32",
+        "link": "https://www.newspim.com/news/view/20250528000725"
+    },
+    {
+        "title": "진에어, 애플월렛 모바일 탑승권 서비스 실시",
+        "date": "2025-05-28 14:32",
+        "link": "https://n.news.naver.com/mnews/article/016/0002477635?sid=101"
+    },
+    {
+        "title": "위더피플, 구글·애플 수수료 30% 환수 신청 게임사 100개 돌파...5월 29일...",
+        "date": "2025-05-28 14:28",
+        "link": "https://n.news.naver.com/mnews/article/092/0002376063?sid=105"
+    },
+    {
+        "title": "진에어, 애플월렛 앱 보관 서비스 시행",
+        "date": "2025-05-28 14:20",
+        "link": "https://n.news.naver.com/mnews/article/014/0005355927?sid=101"
+    },
+    {
+        "title": "'대륙의 늑대' 샤오미 일냈다...애플 제치고 4년 만에 워치 1위 탈환",
+        "date": "2025-05-28 14:08",
+        "link": "https://n.news.naver.com/mnews/article/008/0005200447?sid=105"
+    },
+    {
+        "title": "빅테크 횡포 그만 게임사 100곳, 구글·애플 수수료 환수 나서",
+        "date": "2025-05-28 14:08",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=250005"
+    },
+    {
+        "title": "삼성 갤워치 세계 1분기 출하량 급증…하반기 갤럭시 워치8로 공세",
+        "date": "2025-05-28 14:04",
+        "link": "https://n.news.naver.com/mnews/article/030/0003316738?sid=105"
+    },
+    {
+        "title": "진에어, 애플월렛 모바일 탑승권 서비스 실시",
+        "date": "2025-05-28 14:04",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=423445"
+    },
+    {
+        "title": "진에어(LJ), 애플월렛 모바일 탑승권 서비스 실시",
+        "date": "2025-05-28 14:04",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1065360"
+    },
+    {
+        "title": "애플, 픽셀 경쟁 뛰어들까…2억 화소 카메라 달린 아이폰 개발 추진",
+        "date": "2025-05-28 14:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013270661?sid=105"
+    },
+    {
+        "title": "인도산 아이폰 대미 수출 4월 76% 급증… 계속 이어질지는 미지수",
+        "date": "2025-05-28 13:59",
+        "link": "https://n.news.naver.com/mnews/article/014/0005355905?sid=101"
+    },
+    {
+        "title": "미국서 안 만들면 관세 폭탄…셈법 복잡해진 '삼성·애플'",
+        "date": "2025-05-28 13:56",
+        "link": "http://www.metroseoul.co.kr/article/20250528500286"
+    },
+    {
+        "title": "취미에 지갑 닫는 덕후 없다…'게이밍 모니터' 나 홀로 쑥쑥",
+        "date": "2025-05-28 13:55",
+        "link": "https://n.news.naver.com/mnews/article/421/0008279092?sid=101"
+    },
+    {
+        "title": "솔루스첨단소재, TV용 녹색 인광 호스트 양산 승인",
+        "date": "2025-05-28 13:47",
+        "link": "https://n.news.naver.com/mnews/article/030/0003316720?sid=105"
+    },
+    {
+        "title": "애플, '스니키 사스쿼치' 개발사 RAC7 인수...설립 후 최초 사례 '눈길'",
+        "date": "2025-05-28 13:20",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=240323"
+    },
+    {
+        "title": "[특징주] 구글·삼성 'XR 무한 프로젝트' 출시 임박...케이쓰리아이, XR ...",
+        "date": "2025-05-28 12:58",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202505281243377523edf69f862c_1/article.html"
+    },
+    {
+        "title": "선익시스템, 삼성SDI 중국법인에 65억 규모 OLED 장비 공급 완료",
+        "date": "2025-05-28 12:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568398"
+    },
+    {
+        "title": "애플, 올해부터 2027년까지 매년 아이폰 디자인 변경한다... 어떻게 변하...",
+        "date": "2025-05-28 12:30",
+        "link": "https://www.insight.co.kr/news/504816"
+    },
+    {
+        "title": "애플, 삼성 따라 아이폰에 '2억 화소 카메라' 탑재 검토... 갤럭시 울트...",
+        "date": "2025-05-28 12:12",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1800525"
+    },
+    {
+        "title": "'생생정보', 제주 애플망고 수확의 달인을 만나다",
+        "date": "2025-05-28 12:02",
+        "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=488671"
+    },
+    {
+        "title": "애플 '아이폰 미국 생산' 결국 현실화 가능성, 가격 1500달러로 상승 ...",
+        "date": "2025-05-28 11:34",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=396966"
+    },
+    {
+        "title": "美 텍사스, 앱 이용자 연령 확인 의무화… 애플·구글 과도한 규제",
+        "date": "2025-05-28 11:30",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092141676"
+    },
+    {
+        "title": "마이크로닉스, 호두나무 PC 케이스 'WIZMAX 우드리안' 사전 예약 개시",
+        "date": "2025-05-28 11:28",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54584"
+    },
+    {
+        "title": "애플, 클라우드 게이밍용 신규 게임 플랫폼 공개한다... 출시 임박한 '닌...",
+        "date": "2025-05-28 11:26",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1800522"
+    },
+    {
+        "title": "Solus Advanced Materials Enters OLED Market with Green Phosphorescent Hos...",
+        "date": "2025-05-28 11:24",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=243333"
+    },
+    {
+        "title": "켐토피아 탄소관리 플랫폼 '카본슬림', 글로벌 인증기관 'LRQA'와 'SGS'로부...",
+        "date": "2025-05-28 11:08",
+        "link": "http://www.bizwnews.com/news/articleView.html?idxno=103931"
+    },
+    {
+        "title": "낫싱 CEO 애플, 더 이상 혁신은 없다…앱 중심으로 시장 진화할 것",
+        "date": "2025-05-28 11:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568382"
+    },
+    {
+        "title": "퀄컴 “우리 모뎀이 애플보다 빠르다”",
+        "date": "2025-05-28 11:00",
+        "link": "https://byline.network/?p=9004111222565733"
+    },
+    {
+        "title": "애플, 게임 전용 앱 출시 예정…다음 달 첫 공개",
+        "date": "2025-05-28 10:56",
+        "link": "https://www.ajunews.com/view/20250528100913908"
+    },
+    {
+        "title": "AI 비서 탑재한 스마트안경",
+        "date": "2025-05-28 10:56",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=327483"
+    },
+    {
+        "title": "솔루스첨단소재 “OLED 신규 발광 소재 고객사 승인 완료”",
+        "date": "2025-05-28 10:55",
+        "link": "https://n.news.naver.com/mnews/article/018/0006025577?sid=101"
+    },
+    {
+        "title": "애플, WWDC서 ‘솔라리움’으로 주목받을 수 있을까",
+        "date": "2025-05-28 10:54",
+        "link": "https://byline.network/?p=9004111222565612"
+    },
+    {
+        "title": "애플, 첫 게임 스튜디오 인수…RAC7과 애플 아케이드 강화",
+        "date": "2025-05-28 10:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568371"
+    },
+    {
+        "title": "아이폰17 에어, 갤럭시 S25 엣지 넘어설까? 초슬림 스마트폰 경쟁",
+        "date": "2025-05-28 10:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568364"
+    },
+    {
+        "title": "삼성, 폴더블에 엑시노스 승부수 … 성능이 흥행 가른다",
+        "date": "2025-05-28 10:50",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/05/28/2025052800164.html"
+    },
+    {
+        "title": "애플, 앱스토어 규정으로 5년간 90억달러 사기 피해 방지…인앱결제 규...",
+        "date": "2025-05-28 10:46",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15679853"
+    },
+    {
+        "title": "백악관 국가경제위원장 아이폰 관세로 애플에 피해 주고 싶지 않다",
+        "date": "2025-05-28 10:46",
+        "link": "https://www.ajunews.com/view/20250528092547849"
+    },
+    {
+        "title": "솔루스첨단소재, OLED 신규 발광소재 양산 돌입",
+        "date": "2025-05-28 10:44",
+        "link": "https://n.news.naver.com/mnews/article/029/0002957834?sid=101"
+    },
+    {
+        "title": "삼성 갤럭시 Z 플립 7, 스냅드래곤·엑시노스 병행 탑재... 한국만 또 '원...",
+        "date": "2025-05-28 10:40",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1800518"
+    },
+    {
+        "title": "애플 창립 이후 최초로 게임사 인수, 주인공은 소규모 2인 스튜디오",
+        "date": "2025-05-28 10:40",
+        "link": "https://game.donga.com/117509/"
+    },
+    {
+        "title": "국방 분야에 메타버스 활용 전략 [김홍유의 산업의 窓]",
+        "date": "2025-05-28 10:39",
+        "link": "https://n.news.naver.com/mnews/article/050/0000091431?sid=101"
+    },
+    {
+        "title": "켐토피아, 공급망까지 아우른 통합 탄소관리 플랫폼 '카본슬림'으로 국...",
+        "date": "2025-05-28 10:34",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=822761"
+    },
+    {
+        "title": "애플, '게임 전용 앱' 연내 출시…콘솔에 맞서는 플랫폼 강화 전략",
+        "date": "2025-05-28 10:30",
+        "link": "https://www.newspim.com/news/view/20250528000238"
+    },
+    {
+        "title": "솔루스첨단소재, 신규 OLED 발광소재 양산 준비 돌입",
+        "date": "2025-05-28 10:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568338"
+    },
+    {
+        "title": "애플, 작년 20억弗 이상 부정 거래 막았다…위험 앱 200만건 차단",
+        "date": "2025-05-28 10:19",
+        "link": "https://n.news.naver.com/mnews/article/003/0013269769?sid=105"
+    },
+    {
+        "title": "애플, 9월 게임 전용 앱 출시…엑스박스처럼 작동",
+        "date": "2025-05-28 10:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568365"
+    },
+    {
+        "title": "삼성전자, 스마트워치 시장 폭풍 성장 … 절대강자 중국 넘을까",
+        "date": "2025-05-28 10:14",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/05/28/2025052800120.html"
+    },
+    {
+        "title": "솔루스첨단소재, 신규 OLED 발광소재 '그린인광 호스트' 시장 진출",
+        "date": "2025-05-28 10:13",
+        "link": "https://n.news.naver.com/mnews/article/092/0002376008?sid=105"
+    },
+    {
+        "title": "KH바텍 주가 9,560원→목표가 1만5천원, 폴더블폰 급성장으로 '역대 최고...",
+        "date": "2025-05-28 10:08",
+        "link": "http://www.globalepic.co.kr/view.php?ud=2025052810052063905ebfd494dd_29"
+    },
+    {
+        "title": "애플, 게임 전용 앱 만든다…다음 달 첫 공개",
+        "date": "2025-05-28 10:03",
+        "link": "https://n.news.naver.com/mnews/article/215/0001210765?sid=004"
+    },
+    {
+        "title": "[특징주]솔루스첨단소재, 밸류업지수 포함·OLED신소재 양산 소식에↑",
+        "date": "2025-05-28 10:02",
+        "link": "https://n.news.naver.com/mnews/article/277/0005599455?sid=101"
+    },
+    {
+        "title": "애플 팀 쿡의 '위험한 도박'...4월 인도서 美로 수출 아이폰  76% 급증",
+        "date": "2025-05-28 09:56",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=653305"
+    },
+    {
+        "title": "솔루스첨단소재, 신규 OLED 발광소재 ‘그린인광호스트’ 시장 진출",
+        "date": "2025-05-28 09:50",
+        "link": "https://n.news.naver.com/mnews/article/011/0004490576?sid=101"
+    },
+    {
+        "title": "아이폰17 에어, 티타늄 대신 알루미늄 채택…내구성 우려",
+        "date": "2025-05-28 09:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568343"
+    },
+    {
+        "title": "솔루스첨단소재, 신규 발광소재 ‘그린인광 호스트’ 양산 준비 돌입",
+        "date": "2025-05-28 09:48",
+        "link": "https://n.news.naver.com/mnews/article/016/0002477349?sid=101"
+    },
+    {
+        "title": "애플 초슬림 '아이폰17 에어' 티타늄 대신 알루미늄 프레임 사용하나",
+        "date": "2025-05-28 09:48",
+        "link": "https://kbench.com/?q=node/267861"
+    },
+    {
+        "title": "솔루스첨단소재, OLED 청색인광 호스트 양산 준비…고효율·장수명으로...",
+        "date": "2025-05-28 09:45",
+        "link": "https://n.news.naver.com/mnews/article/138/0002197487?sid=105"
+    },
+    {
+        "title": "[주니어전자]애플, 강제 '인앱결제' 도전받자 이용자 보호기능 부각",
+        "date": "2025-05-28 09:38",
+        "link": "https://n.news.naver.com/mnews/article/030/0003316542?sid=102"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z플립 7 '엑시노스 2500' 탑재",
+        "date": "2025-05-28 09:38",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=83771"
+    },
+    {
+        "title": "애플, 게임 전용 앱 내달 공개…게임 허브 입지 강화",
+        "date": "2025-05-28 09:33",
+        "link": "https://n.news.naver.com/mnews/article/448/0000530709?sid=104"
+    },
+    {
+        "title": "아이폰18부터 노치 사라진다? 디스플레이 속 페이스ID 탑재되나",
+        "date": "2025-05-28 09:30",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531605"
+    },
+    {
+        "title": "애플, 게임 전용 앱 출시 예정…다음 달 첫 공개",
+        "date": "2025-05-28 09:27",
+        "link": "https://n.news.naver.com/mnews/article/448/0000530707?sid=104"
+    },
+    {
+        "title": "솔루스첨단소재, '그린인광 호스트'로 OLED 핵심층 정조준",
+        "date": "2025-05-28 09:20",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1664383"
+    },
+    {
+        "title": "솔루스첨단소재, OLED 신규 발광소재 양산 돌입 포트폴리오 확대",
+        "date": "2025-05-28 09:20",
+        "link": "https://n.news.naver.com/mnews/article/421/0008277982?sid=101"
+    },
+    {
+        "title": "바지 뒷주머니 넣고 다녀도 될까…가나초콜릿만큼 얇은 '갤S25 엣지'",
+        "date": "2025-05-28 09:18",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=268536"
+    },
+    {
+        "title": "솔루스첨단소재, 신규 발광소재 '그린인광 호스트' 양산 준비",
+        "date": "2025-05-28 09:14",
+        "link": "http://www.e2news.com/news/articleView.html?idxno=320130"
+    },
+    {
+        "title": "애플, 게임 전용 앱 출시 예정…게임 허브 입지 강화",
+        "date": "2025-05-28 09:10",
+        "link": "https://n.news.naver.com/mnews/article/001/0015415370?sid=104"
+    },
+    {
+        "title": "애플, 사상 첫 게임 개발사 인수…독자 게임 생태계 육성 나선다",
+        "date": "2025-05-28 09:08",
+        "link": "https://www.theguru.co.kr/news/article.html?no=87498"
+    },
+    {
+        "title": "솔루스첨단소재, 신규 발광소재 '그린인광 호스트' 양산 준비",
+        "date": "2025-05-28 09:05",
+        "link": "https://n.news.naver.com/mnews/article/001/0015415366?sid=105"
+    },
+    {
+        "title": "애플, '탈중국' 가속…4월 美수입 인도산 아이폰 76% 급증",
+        "date": "2025-05-28 08:59",
+        "link": "https://n.news.naver.com/mnews/article/277/0005599335?sid=101"
+    },
+    {
+        "title": "백악관 국가경제위원장 아이폰 관세, 애플 타격 의도 아냐 우려 일축",
+        "date": "2025-05-28 08:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=568294"
+    },
+    {
+        "title": "계산기 두드려봐도 '이익 쥐꼬리'...불타올랐던 애플페이 도입 시큰둥",
+        "date": "2025-05-28 08:50",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1222055"
+    },
+    {
+        "title": "합천군, 애플수박 싱가포르 첫 수출 선적식 가져",
+        "date": "2025-05-28 08:44",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1243555"
+    },
+    {
+        "title": "애플, 4월 인도산 아이폰 300만대 미국으로 수입...전년比 76% ↑",
+        "date": "2025-05-28 08:43",
+        "link": "https://n.news.naver.com/mnews/article/023/0003907789?sid=101"
+    },
+    {
+        "title": "트럼프 관세 피해라 美수입 인도산 아이폰, 중국산 3배 넘어",
+        "date": "2025-05-28 08:27",
+        "link": "https://n.news.naver.com/mnews/article/008/0005200211?sid=104"
+    },
+    {
+        "title": "애플, 아이폰에 2억 화소 카메라 테스트 중",
+        "date": "2025-05-28 08:26",
+        "link": "https://n.news.naver.com/mnews/article/092/0002375961?sid=105"
+    },
+    {
+        "title": "현대차證 “피엔에이치테크, 올해 실적 부진… 투자 의견·목표가 하향...",
+        "date": "2025-05-28 08:22",
+        "link": "https://n.news.naver.com/mnews/article/366/0001080690?sid=101"
+    },
+    {
+        "title": "[더벨][도우인시스 IPO]UTG 경쟁력 증명에 집중…상장 일정은 지연",
+        "date": "2025-05-28 08:12",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505261502388280103234"
+    },
+    {
+        "title": "[더벨][아이티켐 IPO]2000억대 밸류 예상, 설비투자 '최우선'",
+        "date": "2025-05-28 08:12",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505261502079280105259"
+    },
+    {
+        "title": "애플, 앱스토어 규정의 '보호 기능' 강조",
+        "date": "2025-05-28 08:10",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=40122"
+    },
+    {
+        "title": "애플, 강제해온 '인앱결제 체제' 도전받자 이용자 보호 강조",
+        "date": "2025-05-28 08:08",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=61271"
+    },
+    {
+        "title": "애플, 강제해온 ‘인앱결제 체제’ 도전받자 이용자 보호기능 부각",
+        "date": "2025-05-28 08:08",
+        "link": "https://n.news.naver.com/mnews/article/056/0011960019?sid=104"
+    },
+    {
+        "title": "트럼프 '애플·삼성' 때리기…이러다 中스마트폰 기업만 키울판",
+        "date": "2025-05-28 08:02",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025052615402916639"
+    },
+    {
+        "title": "출하 둔화에도 '거거익선'…삼성전자, 중대형 태블릿만 고집하는 이유",
+        "date": "2025-05-28 08:02",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025052715282422894"
+    },
+    {
+        "title": "삼성·구글 'AI 동맹' 강화…오픈AI는 '하드웨어 야망'",
+        "date": "2025-05-28 07:58",
+        "link": "https://n.news.naver.com/mnews/article/031/0000935812?sid=105"
+    },
+    {
+        "title": "존 햄이 부자 이웃을 터는 이유... ‘프렌즈 &amp; 네이버스’ (애플TV+, 티빙...",
+        "date": "2025-05-28 07:55",
+        "link": "https://m.entertain.naver.com/article/438/0000073184"
+    },
+    {
+        "title": "4월 미국 수입 인도산 아이폰 76% 급증...중국산 아이폰의 3배 넘어",
+        "date": "2025-05-28 07:52",
+        "link": "https://n.news.naver.com/mnews/article/052/0002198730?sid=104"
+    },
+    {
+        "title": "[더벨]삼성D vs BOE, 소송전 마침표 또는 장기화 '갈림길'",
+        "date": "2025-05-28 07:48",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505271201477600106631"
+    },
+    {
+        "title": "애플, 강제해온 '인앱결제 체제' 도전받자 이용자 보호기능 부각",
+        "date": "2025-05-28 07:42",
+        "link": "https://n.news.naver.com/mnews/article/001/0015415224?sid=104"
+    },
+    {
+        "title": "美텍사스, 앱 다운로드 연령확인 의무화…애플 저지 실패",
+        "date": "2025-05-28 07:36",
+        "link": "https://n.news.naver.com/mnews/article/029/0002957749?sid=104"
+    },
+    {
+        "title": "신한카드, 애플페이 도입 '갈림길'…박창훈 대표의 선택은?",
+        "date": "2025-05-28 07:30",
+        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=171533"
+    },
+    {
+        "title": "[DDI사 점검] 갈길 먼 원익 DDI 시너지…삼성D 공급망 진입 관건",
+        "date": "2025-05-28 07:16",
+        "link": "https://dealsite.co.kr/articles/142207"
+    },
+    {
+        "title": "삼성전자, 미국 고객 만족도 조사 '애플' 눌렀다... 5G 스마트폰 부문 '...",
+        "date": "2025-05-28 07:00",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=454474"
+    },
+    {
+        "title": "4월 美수입 인도산 아이폰 76% ↑…중국산 대비 3배 이상",
+        "date": "2025-05-28 07:00",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=822967"
+    }
+]
