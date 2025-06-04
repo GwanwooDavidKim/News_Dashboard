@@ -1,1 +1,562 @@
-
+[
+    {
+        "title": "삼성 '갤럭시 Z폴드-플립7', 하드웨어·OS 대변신",
+        "date": "2025-06-05 05:00",
+        "link": "https://www.etoday.co.kr/news/view/2474665"
+    },
+    {
+        "title": "삼성 스마트폰, 올해 '0% 성장' 전망…애플 아이폰도 '뚝'",
+        "date": "2025-06-05 04:11",
+        "link": "https://n.news.naver.com/mnews/article/374/0000444231?sid=104"
+    },
+    {
+        "title": "애플(AAPL), 더 이상 '매수' 아니다… 밸류·AI·수요 삼중악재",
+        "date": "2025-06-05 04:06",
+        "link": "https://www.tokenpost.kr/news/market/254445"
+    },
+    {
+        "title": "삼성 스마트폰 올해 '0% 제로 성장' 전망, 中화웨이는 11% 성장",
+        "date": "2025-06-05 03:36",
+        "link": "https://n.news.naver.com/mnews/article/008/0005203604?sid=104"
+    },
+    {
+        "title": "美 관세 불확실성에…애플·삼성 스마트폰 출하량 타격 전망",
+        "date": "2025-06-05 03:00",
+        "link": "https://n.news.naver.com/mnews/article/293/0000068201?sid=105"
+    },
+    {
+        "title": "애플·삼성 올해 출하량 예상보다 줄 것…미 관세 영향",
+        "date": "2025-06-05 02:44",
+        "link": "https://n.news.naver.com/mnews/article/422/0000746705?sid=101"
+    },
+    {
+        "title": "'애플'·'삼성' 스마트폰 출하 성장률 전망 하락…미국 관세 불확실성 ...",
+        "date": "2025-06-05 02:38",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15687303"
+    },
+    {
+        "title": "트럼프 관세 여파에 삼성·애플 올해 스마트폰 출하 타격",
+        "date": "2025-06-04 22:36",
+        "link": "https://www.newspim.com/news/view/20250604001454"
+    },
+    {
+        "title": "카운터포인트 올해 스마트폰 출하 4.2% 증가 → 1.9% 증가",
+        "date": "2025-06-04 20:24",
+        "link": "https://n.news.naver.com/mnews/article/015/0005140798?sid=101"
+    },
+    {
+        "title": "신한카드, 애플페이 약관 심사 승인 받았다…삼성페이와 수수료 비교해...",
+        "date": "2025-06-04 20:02",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15687085"
+    },
+    {
+        "title": "애플, WWDC25 앞서 '2025 애플 디자인 어워드' 수상작 발표...혁신과 탁...",
+        "date": "2025-06-04 19:18",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=35150"
+    },
+    {
+        "title": "‘구글 안드로이드 XRㆍ레이-밴 메타’ 스마트 안경 시장이 움직인다",
+        "date": "2025-06-04 18:20",
+        "link": "https://it.donga.com/107049/"
+    },
+    {
+        "title": "플레이기어, 애플워치 갤럭시워치 모두 지원하는 멀티 고속 무선충전기...",
+        "date": "2025-06-04 18:02",
+        "link": "https://kbench.com/?q=node/268079"
+    },
+    {
+        "title": "애플 '폴더블 아이폰' 공정·패키징 바뀐 A20 칩 탑재",
+        "date": "2025-06-04 17:54",
+        "link": "https://kbench.com/?q=node/268076"
+    },
+    {
+        "title": "가장 얇은 삼성 신작 '갤폴드7' 내달 출격",
+        "date": "2025-06-04 17:43",
+        "link": "https://n.news.naver.com/mnews/article/009/0005503680?sid=105"
+    },
+    {
+        "title": "OLED 발광재료 매출, 1분기 中이 韓 사상 첫 추월",
+        "date": "2025-06-04 17:22",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202506041343493330760"
+    },
+    {
+        "title": "카드사 애플페이 도입 확산…손익 셈법 '복잡'",
+        "date": "2025-06-04 17:16",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=798357"
+    },
+    {
+        "title": "삼성전자, 폴더블폰 최초 '울트라' 모델 출시하나?",
+        "date": "2025-06-04 17:16",
+        "link": "https://kbench.com/?q=node/268075"
+    },
+    {
+        "title": "'애플의 혁신' 어디갔나? AI 헬스케어에선 ‘제자리걸음’",
+        "date": "2025-06-04 17:08",
+        "link": "https://n.news.naver.com/mnews/article/296/0000090106?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드 7' 티저 공개···'초박형·울트라급 성능'",
+        "date": "2025-06-04 17:01",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=559270"
+    },
+    {
+        "title": "삼성, 신형 폴더블폰 '갤럭시 Z 폴드7' 내달 출시 예고",
+        "date": "2025-06-04 16:54",
+        "link": "https://n.news.naver.com/mnews/article/448/0000532604?sid=101"
+    },
+    {
+        "title": "OLED 발광 재료 시장 지속 성장한다…“2029년까지 연평균 6.7% 성장”",
+        "date": "2025-06-04 16:52",
+        "link": "https://www.ceoscoredaily.com/page/view/2025060416502246718"
+    },
+    {
+        "title": "삼성전자, 내달 출시할 갤럭시Z 폴드7…'울트라급' 성능 예고",
+        "date": "2025-06-04 16:50",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1225324"
+    },
+    {
+        "title": "비보 폴더블폰 'X 폴드5' 실물 사진 공개.. 아이폰16 프로 맥스 두께 비...",
+        "date": "2025-06-04 16:38",
+        "link": "https://kbench.com/?q=node/268074"
+    },
+    {
+        "title": "삼성 갤럭시Z 폴드7, 울트라 성능 두께도 '역대급'···가장 얇은 폴더...",
+        "date": "2025-06-04 16:36",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2285727"
+    },
+    {
+        "title": "애플, 디자인 어워드 수상작 공개… 韓 스타트업도 포함",
+        "date": "2025-06-04 16:23",
+        "link": "https://n.news.naver.com/mnews/article/366/0001082831?sid=105"
+    },
+    {
+        "title": "삼성 '갤럭시Z 폴드7' 더 큰 커버·폴더블 디스플레이 탑재 확정",
+        "date": "2025-06-04 16:16",
+        "link": "https://kbench.com/?q=node/268073"
+    },
+    {
+        "title": "3시간 오류·유료화 검토...1700만명 이용자 삼성페이, 이대로 괜찮은가",
+        "date": "2025-06-04 16:08",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=381611"
+    },
+    {
+        "title": "삼성전자, 차세대 갤럭시 폴더블폰 티저 영상 공개 '울트라급' 예고",
+        "date": "2025-06-04 16:04",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=246079"
+    },
+    {
+        "title": "OLED 발광재료 시장, 2029년 5조원 규모로 성장 전망",
+        "date": "2025-06-04 16:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1225274"
+    },
+    {
+        "title": "이르면 내달부터 신한카드서 '애플페이' 사용 가능하다",
+        "date": "2025-06-04 15:56",
+        "link": "https://www.insight.co.kr/news/505863"
+    },
+    {
+        "title": "삼성전자, 폴드7 '울트라'급 성능으로...7월 출시",
+        "date": "2025-06-04 15:52",
+        "link": "https://n.news.naver.com/mnews/article/215/0001211554?sid=101"
+    },
+    {
+        "title": "삼성전자 `갤럭시 Z 폴드`, 더 크고 더 얇게 돌아온다",
+        "date": "2025-06-04 15:45",
+        "link": "https://n.news.naver.com/mnews/article/029/0002959341?sid=105"
+    },
+    {
+        "title": "LG디스플레이, OLED 원가 경쟁력 강화 총력",
+        "date": "2025-06-04 15:44",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025060414484274729"
+    },
+    {
+        "title": "삼성전자, '울트라'급 고성능 폴더블폰 '갤Z 폴드 7' 다음달 출시 예고",
+        "date": "2025-06-04 15:43",
+        "link": "https://n.news.naver.com/mnews/article/117/0003950022?sid=105"
+    },
+    {
+        "title": "얇은데, 더 강하다... 삼성 초슬림폰 '갤럭시S25 엣지'를 접어보니 (영...",
+        "date": "2025-06-04 15:40",
+        "link": "https://www.insight.co.kr/news/505841"
+    },
+    {
+        "title": "OLED 발광재료 시장, 2029년까지 연평균 6.7% 성장 전망 ... 1분기 중국...",
+        "date": "2025-06-04 15:38",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=69187"
+    },
+    {
+        "title": "한양대 정재경 교수, 수직집적 가능한 '삼진로직소자' 개발",
+        "date": "2025-06-04 15:30",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=89294"
+    },
+    {
+        "title": "한양대 정재경 교수, 수직집적 가능한 '삼진로직소자' 개발",
+        "date": "2025-06-04 15:30",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=136324"
+    },
+    {
+        "title": "슬림 디자인에 울트라급 성능? 삼성전자 '갤럭시Z폴드7' 티저 공개",
+        "date": "2025-06-04 15:26",
+        "link": "https://n.news.naver.com/mnews/article/629/0000395831?sid=105"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드7’ 다음 달 출시 예고",
+        "date": "2025-06-04 15:16",
+        "link": "https://n.news.naver.com/mnews/article/082/0001329073?sid=101"
+    },
+    {
+        "title": "삼성전자, AI 강화한 폴더블폰 '갤럭시 Z 폴드7' 7월 공개 임박",
+        "date": "2025-06-04 15:04",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=317472"
+    },
+    {
+        "title": "삼성전자, 다음달 갤럭시 Z 폴드7 출시… 울트라급 될 것",
+        "date": "2025-06-04 14:52",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/06/04/2025060400292.html"
+    },
+    {
+        "title": "삼성 폴더블 신제품 ‘갤Z 폴드 7’ 내달 출격…‘울트라’급 성능 예고",
+        "date": "2025-06-04 14:42",
+        "link": "https://www.ceoscoredaily.com/page/view/2025060414302743134"
+    },
+    {
+        "title": "애플, WWDC서 '홈패드' 깜짝 공개할까…홈OS 전망 주목",
+        "date": "2025-06-04 14:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569413"
+    },
+    {
+        "title": "애플 WWDC 앞두고 iOS 26 기대감↑…'리빙 글라스' 주목",
+        "date": "2025-06-04 14:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569406"
+    },
+    {
+        "title": "삼성전자, '울트라'급 고성능 갖춘 갤 폴드7 다음달 출시",
+        "date": "2025-06-04 14:33",
+        "link": "https://n.news.naver.com/mnews/article/015/0005140544?sid=101"
+    },
+    {
+        "title": "OLED 발광재료 시장, 2029년 37.2억 달러까지 성장 전망",
+        "date": "2025-06-04 14:32",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=317470"
+    },
+    {
+        "title": "삼성전자, 울트라 모델급 폴더블폰 신작 내달 출시",
+        "date": "2025-06-04 14:30",
+        "link": "http://www.econotelling.com/news/articleView.html?idxno=16997"
+    },
+    {
+        "title": "韓 스타트업 스케치소프트, 애플 디자인 어워드 수상",
+        "date": "2025-06-04 14:02",
+        "link": "https://n.news.naver.com/mnews/article/092/0002376936?sid=105"
+    },
+    {
+        "title": "‘우드리안 시리즈의 정점’ 마이크로닉스, WIZMAX 우드리안 울트라 출...",
+        "date": "2025-06-04 13:38",
+        "link": "https://kbench.com/?q=node/268059"
+    },
+    {
+        "title": "애플, `2025 애플 디자인 어워드` 수상작 발표",
+        "date": "2025-06-04 13:35",
+        "link": "https://n.news.naver.com/mnews/article/029/0002959281?sid=105"
+    },
+    {
+        "title": "OLED 발광재료 시장, 2029년까지 연평균 6.7% 성장 전망",
+        "date": "2025-06-04 13:24",
+        "link": "https://www.hellot.net/news/article.html?no=101962"
+    },
+    {
+        "title": "삼성, '울트라급' 폴더블폰 '갤Z폴드7' 내달 출시",
+        "date": "2025-06-04 13:21",
+        "link": "https://n.news.naver.com/mnews/article/030/0003318730?sid=105"
+    },
+    {
+        "title": "2026년, 당신 주머니에 들어올 '그것'의 정체",
+        "date": "2025-06-04 13:12",
+        "link": "https://platum.kr/archives/262323"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z폴드 7' 실루엣 공개 … '울트라' 경험 펼치다",
+        "date": "2025-06-04 13:12",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=69175"
+    },
+    {
+        "title": "켐토피아 ‘카본슬림’, 글로벌 인증 동시 획득...탄소 관리 기술력 입...",
+        "date": "2025-06-04 12:58",
+        "link": "https://www.hellot.net/news/article.html?no=101964"
+    },
+    {
+        "title": "2025 포춘 글로벌 500대 기업 발표…애플, 한 계단 하락",
+        "date": "2025-06-04 12:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569401"
+    },
+    {
+        "title": "TSMC vs 삼성전자, 2nm 독주 체제 vs 수율·고객 '이중 난제'",
+        "date": "2025-06-04 12:54",
+        "link": "https://n.news.naver.com/mnews/article/123/0002360528?sid=004"
+    },
+    {
+        "title": "삼성, 폴더블 신작 '갤럭시Z 폴드7' 내달 초 뉴욕서 언팩",
+        "date": "2025-06-04 12:51",
+        "link": "https://n.news.naver.com/mnews/article/011/0004493316?sid=101"
+    },
+    {
+        "title": "‘100달러 미만 가성비폰’이 시장 이끈다···카운터포인트, 2025년 1분...",
+        "date": "2025-06-04 12:10",
+        "link": "https://www.cio.com/article/4001397/100달러-미만-가성비폰이-시장-이끈다···카운터.html"
+    },
+    {
+        "title": "애플워치 등 웨어러블 맹신 금물…의료기기와 달라",
+        "date": "2025-06-04 12:00",
+        "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1163798&ref=naverpc"
+    },
+    {
+        "title": "애플, 아이폰 17 일반·에어에 '반쪽짜리' 디스플레이 업그레이드... 가...",
+        "date": "2025-06-04 11:54",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1800721"
+    },
+    {
+        "title": "OLED 재료 시장, 1분기 中이 韓 추월…하반기엔 되찾을 것 [소부장디과...",
+        "date": "2025-06-04 11:48",
+        "link": "https://n.news.naver.com/mnews/article/138/0002197889?sid=105"
+    },
+    {
+        "title": "삼성전자, 폴더블 신작 '갤럭시 Z 폴드7' 내달 출시 예고",
+        "date": "2025-06-04 11:44",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=65254"
+    },
+    {
+        "title": "삼성 초슬림폰 갤럭시 'S25 엣지', 반응 시원찮다? 판매량 공개 않는 이...",
+        "date": "2025-06-04 11:30",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=531831"
+    },
+    {
+        "title": "삼성전자, '울트라급' 폴더블 신작 '갤럭시 Z 폴드7' 내달 출시 예고",
+        "date": "2025-06-04 11:20",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=186581"
+    },
+    {
+        "title": "역대급 업데이트…애플 iOS 19, 이렇게 나온다",
+        "date": "2025-06-04 11:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569389"
+    },
+    {
+        "title": "삼성전자, 7월 둘 째주 갤럭시 언팩 이벤트 개최하나.. 폴더블폰 3종 발...",
+        "date": "2025-06-04 11:12",
+        "link": "https://kbench.com/?q=node/268049"
+    },
+    {
+        "title": "삼성전자·애플, 차세대 디바이스도 '가성비' 중심 경쟁 불가피",
+        "date": "2025-06-04 11:10",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=412280"
+    },
+    {
+        "title": "“어디까지 구부러지는 거예요”…초슬림폰 갤럭시S25 엣지, 접어봤더니",
+        "date": "2025-06-04 11:07",
+        "link": "https://n.news.naver.com/mnews/article/009/0005503337?sid=101"
+    },
+    {
+        "title": "Samsung’s entry reshapes OLED premium TV market",
+        "date": "2025-06-04 10:59",
+        "link": "https://n.news.naver.com/mnews/article/009/0005503327?sid=104"
+    },
+    {
+        "title": "OLED 발광재료 시장, 2029년까지 연평균 6.7% 성장",
+        "date": "2025-06-04 10:57",
+        "link": "https://n.news.naver.com/mnews/article/029/0002959233?sid=101"
+    },
+    {
+        "title": "삼성,'울트라급' 폴더블 신작 '갤럭시 Z 폴드7' 내달 출시 예고",
+        "date": "2025-06-04 10:52",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=83914"
+    },
+    {
+        "title": "올해 OLED 발광재료 사용량 삼성디스플레이가 전체의 40% 전망, 연평균 ...",
+        "date": "2025-06-04 10:50",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=397827"
+    },
+    {
+        "title": "마이크로닉스, 고사양 시스템 위한 위즈맥스 '우드리안 울트라' 출시",
+        "date": "2025-06-04 10:50",
+        "link": "https://www.cnet.co.kr/view/?no=20250604103105"
+    },
+    {
+        "title": "금감원, 신한카드 ‘애플페이’ 약관 승인…하반기 출시 임박",
+        "date": "2025-06-04 10:49",
+        "link": "https://n.news.naver.com/mnews/article/056/0011964435?sid=101"
+    },
+    {
+        "title": "삼성 XR 헤드셋 '프로젝트 무한', 온라인에 사양 유출... 메타·애플 긴...",
+        "date": "2025-06-04 10:44",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1800716"
+    },
+    {
+        "title": "‘울트라 성능’ 넣은 갤럭시 폴더블폰 내달 출시",
+        "date": "2025-06-04 10:30",
+        "link": "https://n.news.naver.com/mnews/article/658/0000109233?sid=101"
+    },
+    {
+        "title": "삼성전자, 울트라급 성능에 AI 기능 탑재한 폴더블폰 신제품 출시 예고",
+        "date": "2025-06-04 10:28",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=733853"
+    },
+    {
+        "title": "2025 애플 디자인 어워드 수상작 공개…비전 프로 앱 강세",
+        "date": "2025-06-04 10:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569334"
+    },
+    {
+        "title": "마이크로닉스, WIZMAX 우드리안 울트라 출시",
+        "date": "2025-06-04 10:26",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54651"
+    },
+    {
+        "title": "애플 신제품 없어요…소송 폭탄 피하려 힘 뺐나",
+        "date": "2025-06-04 10:18",
+        "link": "https://n.news.naver.com/mnews/article/015/0005140430?sid=105"
+    },
+    {
+        "title": "아너 폴더블폰 '매직 V5' 스냅드래곤 8 엘리트 오버클럭 버전 탑재",
+        "date": "2025-06-04 10:16",
+        "link": "https://kbench.com/?q=node/268038"
+    },
+    {
+        "title": "OLED 발광재료 시장, 2029년까지 5조원 규모로 성장 전망",
+        "date": "2025-06-04 10:13",
+        "link": "https://n.news.naver.com/mnews/article/031/0000937612?sid=105"
+    },
+    {
+        "title": "이프랜드, 컬러버스, 제페토 휘청: 메타버스서 '하차하는' 기업들",
+        "date": "2025-06-04 10:10",
+        "link": "https://n.news.naver.com/mnews/article/665/0000005144?sid=105"
+    },
+    {
+        "title": "'울트라급' 폴더블 신작 온다…내달 출시 예고",
+        "date": "2025-06-04 10:10",
+        "link": "https://n.news.naver.com/mnews/article/215/0001211494?sid=004"
+    },
+    {
+        "title": "한국 '스케치소프트', 애플 디자인 어워드 수상…3D 드로잉 앱 '페더' 선...",
+        "date": "2025-06-04 10:10",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15686374"
+    },
+    {
+        "title": "[K바이오 뉴프런티어 (10)] 메디씽큐 수술용 스마트 안경, 초소형 디지...",
+        "date": "2025-06-04 10:01",
+        "link": "https://n.news.naver.com/mnews/article/015/0005140411?sid=105"
+    },
+    {
+        "title": "“中 OLED 발광재료 매출액, 사상 최초로 한국 기업 추월",
+        "date": "2025-06-04 09:56",
+        "link": "https://n.news.naver.com/mnews/article/366/0001082656?sid=105"
+    },
+    {
+        "title": "삼성전자, 내달 초 '울트라급' 성능 폴더블폰 공개…뉴욕서 언팩 행사",
+        "date": "2025-06-04 09:50",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1245880"
+    },
+    {
+        "title": "유비리서치 1분기 OLED 재료 시장 中이 韓 추월...매년 6.7% 성장 전망",
+        "date": "2025-06-04 09:47",
+        "link": "https://n.news.naver.com/mnews/article/092/0002376875?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드 7' 티저 공개.. 울트라급 성능과 얇은 두께 강...",
+        "date": "2025-06-04 09:47",
+        "link": "https://n.news.naver.com/mnews/article/014/0005358846?sid=105"
+    },
+    {
+        "title": "삼성전자, 울트라 모델 급 폴더블 폰 공개… 내달 출시 예정",
+        "date": "2025-06-04 09:46",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=349241"
+    },
+    {
+        "title": "한국 스타트업 스케치소프트 개발 앱, 애플 디자인 어워드 수상",
+        "date": "2025-06-04 09:46",
+        "link": "https://n.news.naver.com/mnews/article/374/0000444068?sid=101"
+    },
+    {
+        "title": "한국 스타트업 스케치소프트 개발 앱, 애플 디자인 어워드 수상",
+        "date": "2025-06-04 09:39",
+        "link": "https://n.news.naver.com/mnews/article/001/0015430811?sid=104"
+    },
+    {
+        "title": "삼성 '갤럭시 Z폴드 7' 실루엣 공개…'울트라' 더했다",
+        "date": "2025-06-04 09:33",
+        "link": "https://n.news.naver.com/mnews/article/003/0013284695?sid=105"
+    },
+    {
+        "title": "애플 '아이폰17' 디스플레이, 프로모션 기술 빠질듯",
+        "date": "2025-06-04 09:28",
+        "link": "https://kbench.com/?q=node/268035"
+    },
+    {
+        "title": "‘폴더블도 울트라로 간다’…삼성, Z 폴드7에 최고사양 탑재 예고",
+        "date": "2025-06-04 09:26",
+        "link": "https://sateconomy.co.kr/news/view/1065572247652950"
+    },
+    {
+        "title": "中 OLED 발광재료 시장 韓 추월… 애플 신제품에 하반기 다시 역전",
+        "date": "2025-06-04 09:10",
+        "link": "https://www.ajunews.com/view/20250604090721787"
+    },
+    {
+        "title": "삼성, '울트라급' 폴더블 신작 '갤럭시 Z 폴드7' 내달 출시 예고",
+        "date": "2025-06-04 09:04",
+        "link": "https://n.news.naver.com/mnews/article/001/0015430668?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시Z 폴드7' 티저 공개.. '울트라' 경험 강조",
+        "date": "2025-06-04 09:04",
+        "link": "https://kbench.com/?q=node/268034"
+    },
+    {
+        "title": "OLED 발광재료 시장, 1Q 4.9억달러…中 패널업체 매출 첫 韓 추월",
+        "date": "2025-06-04 09:04",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1665143"
+    },
+    {
+        "title": "[더벨][케이엔제이 줌인]심호섭 대표 앞으로 10년, 혁신소재·부품기술...",
+        "date": "2025-06-04 08:58",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202506020747085200107662"
+    },
+    {
+        "title": "애플 WWDC 2025, 발표 분량 축소",
+        "date": "2025-06-04 08:38",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=808871"
+    },
+    {
+        "title": "삼성전자, ‘울트라 경험’ 예고…강화된 '갤럭시 Z 폴드7' 나온다",
+        "date": "2025-06-04 08:38",
+        "link": "https://www.etoday.co.kr/news/view/2476124"
+    },
+    {
+        "title": "OLED 발광재료 시장, 2029년까지 연평균 6.7% 성장 전망",
+        "date": "2025-06-04 08:36",
+        "link": "https://n.news.naver.com/mnews/article/001/0015430594?sid=101"
+    },
+    {
+        "title": "애플, WWDC 발표 분량 줄인다…소프트웨어 완성도에 집중",
+        "date": "2025-06-04 08:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=569273"
+    },
+    {
+        "title": "구글 'I/O' 이어 애플 'WWDC' 임박…'스마트 안경' 경쟁 점화",
+        "date": "2025-06-04 08:00",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=649983"
+    },
+    {
+        "title": "[더벨][삼성전자 DX 시프트]경영진 세대교체 돌입, 노태문 체제 연착륙...",
+        "date": "2025-06-04 07:48",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202505271559596800103757"
+    },
+    {
+        "title": "'OLED 올인' 韓, 차세대 마이크로 디스플레이 개발 뒷전",
+        "date": "2025-06-04 07:12",
+        "link": "https://dealsite.co.kr/articles/142534"
+    },
+    {
+        "title": "'애플페이' 확산?…새 정부서 추진력 붙을까",
+        "date": "2025-06-04 07:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013284363?sid=101"
+    }
+]
