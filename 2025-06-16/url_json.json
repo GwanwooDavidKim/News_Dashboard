@@ -1,1 +1,557 @@
-
+[
+    {
+        "title": "헤어플러스, 여름철 두피 고민 잡는 '오프레시 애플비니거' 라인 전격 출...",
+        "date": "2025-06-16 00:00",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=40865"
+    },
+    {
+        "title": "2나노 시대 성큼…TSMC·삼성, 초미세 공정 주도권 경쟁 본격",
+        "date": "2025-06-15 23:58",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=335580"
+    },
+    {
+        "title": "동진쎄미켐, 세계 OLED 시장에 특허 수출...머크와 라이선스 체결",
+        "date": "2025-06-15 22:16",
+        "link": "https://www.hellot.net/news/article.html?no=102249"
+    },
+    {
+        "title": "이게 몰입이지…삼성, 英 '오디세이 3D' 행사 트위치 4만 동접",
+        "date": "2025-06-15 21:52",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3036225"
+    },
+    {
+        "title": "이러다 中에도 넘어가면 어쩌나…구글 이어 애플도 '고정밀 지도 데이...",
+        "date": "2025-06-15 20:36",
+        "link": "https://n.news.naver.com/mnews/article/092/0002378198?sid=105"
+    },
+    {
+        "title": "삼성전자, 런던서 '오디세이 3D' 글로벌 공개, 현장 반응 '폭발'",
+        "date": "2025-06-15 20:16",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=532228"
+    },
+    {
+        "title": "TSMC·삼성전자 2나노 박차…주도권 경쟁 시작",
+        "date": "2025-06-15 19:56",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1265191&inflow=N"
+    },
+    {
+        "title": "CU, 국민 간식 이삭토스트와 콜라보 RMR 시리즈 출시",
+        "date": "2025-06-15 19:44",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=89640"
+    },
+    {
+        "title": "스마트폰의 종말?…오픈AI '노스크린 AI'로 제2 혁명 이끈다[글로벌리포...",
+        "date": "2025-06-15 19:17",
+        "link": "https://n.news.naver.com/mnews/article/014/0005363389?sid=101"
+    },
+    {
+        "title": "AI 혁신 가뜩이나 늦었는데 오픈AI 추격까지… 애플 어쩌나",
+        "date": "2025-06-15 19:17",
+        "link": "https://n.news.naver.com/mnews/article/014/0005363390?sid=101"
+    },
+    {
+        "title": "독도 다케시마라 불렀던 애플, 구글 이어 '지도 내놓으라' 압박 한국이...",
+        "date": "2025-06-15 18:52",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=699802"
+    },
+    {
+        "title": "‘반투명 아이콘’ 도입한다…애플 모바일 운영체제 12년 만에 개편",
+        "date": "2025-06-15 18:50",
+        "link": "https://n.news.naver.com/mnews/article/658/0000110368?sid=101"
+    },
+    {
+        "title": "삼성전자, 런던서 '오디세이 게이밍 모니터' 글로벌 팬 행사 열어",
+        "date": "2025-06-15 18:50",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=235744"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 신제품 행사 진행",
+        "date": "2025-06-15 18:50",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=110357"
+    },
+    {
+        "title": "[단독] 통상갈등 틈탄 애플 지도반출 요구 가세[고정밀 지도 대응 시험...",
+        "date": "2025-06-15 18:32",
+        "link": "https://n.news.naver.com/mnews/article/014/0005363346?sid=105"
+    },
+    {
+        "title": "구글 이어 애플까지···'고정밀 韓 지도' 해외 유출 논란 재점화",
+        "date": "2025-06-15 18:20",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2289982"
+    },
+    {
+        "title": "D램 주도권 탈환·美 관세… 삼성전자, 리스크 관리 초점",
+        "date": "2025-06-15 17:50",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250616010006924"
+    },
+    {
+        "title": "구글에 이어 애플까지…정부에 '고정밀 지도 데이터' 요구",
+        "date": "2025-06-15 17:42",
+        "link": "https://n.news.naver.com/mnews/article/015/0005144769?sid=105"
+    },
+    {
+        "title": "애플, 고정밀지도 반출 문의…구글 이어 韓 지도 노리나",
+        "date": "2025-06-15 17:39",
+        "link": "https://n.news.naver.com/mnews/article/030/0003321772?sid=101"
+    },
+    {
+        "title": "삼성, 영국서 ‘오디세이’ 게이밍 모니터 팬들과 소통",
+        "date": "2025-06-15 17:34",
+        "link": "https://n.news.naver.com/mnews/article/382/0001203630?sid=105"
+    },
+    {
+        "title": "애플, 정부에 '고정밀 지도 데이터 국외 반출' 문의",
+        "date": "2025-06-15 17:31",
+        "link": "https://n.news.naver.com/mnews/article/421/0008312516?sid=101"
+    },
+    {
+        "title": "삼성·TSMC, 2나노 양산 카운트다운…GAA 경쟁 `2라운드`",
+        "date": "2025-06-15 17:10",
+        "link": "https://n.news.naver.com/mnews/article/029/0002961405?sid=101"
+    },
+    {
+        "title": "中 태블릿도 OLED 전환 본격화…삼성·LGD 기회-위협 공존",
+        "date": "2025-06-15 17:09",
+        "link": "https://n.news.naver.com/mnews/article/029/0002961404?sid=101"
+    },
+    {
+        "title": "이엘피, 마이크로 LED 타고 '훨훨'… 디스플레이 검사장비 시장 선도",
+        "date": "2025-06-15 16:58",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=351720"
+    },
+    {
+        "title": "비전옥스, '비(非) FMM' 상용화에 역량 집중",
+        "date": "2025-06-15 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003321758?sid=105"
+    },
+    {
+        "title": "TSMC·삼성전자 하반기 2나노 양산 돌입…파운드리 주도권 경쟁",
+        "date": "2025-06-15 15:40",
+        "link": "https://n.news.naver.com/mnews/article/088/0000953368?sid=101"
+    },
+    {
+        "title": "[단독] 애플, '고정밀 지도 반출' 공세 가담하나",
+        "date": "2025-06-15 15:14",
+        "link": "https://n.news.naver.com/mnews/article/014/0005363284?sid=105"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 신제품 체험 행사",
+        "date": "2025-06-15 14:56",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=84185"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 '오디세이 게이밍 모니터' 행사 개최",
+        "date": "2025-06-15 14:44",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=120798"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 행사 개최",
+        "date": "2025-06-15 14:44",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=849850"
+    },
+    {
+        "title": "'3D모니터'서 'AI 가이드'까지…유럽서 첨단기술 뽐낸 삼성",
+        "date": "2025-06-15 14:43",
+        "link": "https://n.news.naver.com/mnews/article/011/0004497071?sid=105"
+    },
+    {
+        "title": "삼성전자, 영국서 해외 팬들과 오디세이 게이밍 모니터 신제품 행사 진...",
+        "date": "2025-06-15 14:00",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1292635"
+    },
+    {
+        "title": "'페이 독점' 깨지나…애플페이, 이커머스로 확대",
+        "date": "2025-06-15 13:58",
+        "link": "https://n.news.naver.com/mnews/article/030/0003321736?sid=101"
+    },
+    {
+        "title": "CU, 이삭토스트와 콜라보 RMR 시리즈 선보여",
+        "date": "2025-06-15 13:56",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000073977"
+    },
+    {
+        "title": "삼성전자, 英 글로벌 팬과 오디세이 게이밍 모니터 판촉행사",
+        "date": "2025-06-15 13:53",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000073976"
+    },
+    {
+        "title": "삼성전자, 英서 '오디세이 게이밍 모니터' 신제품 체험 행사",
+        "date": "2025-06-15 12:54",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1249194"
+    },
+    {
+        "title": "44세 장윤주, 아찔 ‘애플힙’ 자랑…‘이 운동’이 좋다고?",
+        "date": "2025-06-15 12:53",
+        "link": "https://n.news.naver.com/mnews/article/296/0000090415?sid=103"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 오디세이 게이밍 모니터 신제품 체험 ...",
+        "date": "2025-06-15 12:44",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=202506151240277260be44c0aacd_30"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 신제품 체험 행사",
+        "date": "2025-06-15 12:36",
+        "link": "https://n.news.naver.com/mnews/article/144/0001046478?sid=105"
+    },
+    {
+        "title": "런던 달군 삼성전자 오디세이…글로벌 팬과 3D 게이밍 몰입 체험",
+        "date": "2025-06-15 12:22",
+        "link": "https://n.news.naver.com/mnews/article/119/0002967952?sid=101"
+    },
+    {
+        "title": "삼성전자, 英서 '오디세이 게이밍 모니터' 행사 진행",
+        "date": "2025-06-15 11:54",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=699778"
+    },
+    {
+        "title": "CU-이삭토스트 협업…RMR 시리즈 출시",
+        "date": "2025-06-15 11:52",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=528677"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 팬들과 소통…전세계 생중계",
+        "date": "2025-06-15 11:50",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=799618"
+    },
+    {
+        "title": "[IT픽] 대륙이 '불모지' 한국에 내딛은 한 발...'샤오미 15 울트라' 써보...",
+        "date": "2025-06-15 11:40",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=252639"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 행사 진행...전세계 생중계...",
+        "date": "2025-06-15 11:38",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=462115"
+    },
+    {
+        "title": "삼성전자 영국서 '게이밍 모니터' 체험 행사, 오디세이의 압도적 경험...",
+        "date": "2025-06-15 11:26",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=399101"
+    },
+    {
+        "title": "삼성전자, 英서 오디세이 게이밍 모니터 행사…캐드렐·조지 클라키 등...",
+        "date": "2025-06-15 11:22",
+        "link": "http://www.metroseoul.co.kr/article/20250615500099"
+    },
+    {
+        "title": "삼성전자, 런던서 '오디세이 게이밍 모니터' 신제품 체험 행사",
+        "date": "2025-06-15 11:13",
+        "link": "https://n.news.naver.com/mnews/article/421/0008312019?sid=101"
+    },
+    {
+        "title": "삼성전자, 런던서 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-15 11:10",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=83259"
+    },
+    {
+        "title": "삼성전자, 英서 오디세이 게이밍 모니터 체험 행사",
+        "date": "2025-06-15 11:10",
+        "link": "https://n.news.naver.com/mnews/article/030/0003321692?sid=105"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 행사",
+        "date": "2025-06-15 11:06",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2067413"
+    },
+    {
+        "title": "게이머 4만명 몰렸다…삼성, 英 런던서 '오디세이' 글로벌 체험행사",
+        "date": "2025-06-15 11:06",
+        "link": "https://www.newspim.com/news/view/20250615000053"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-15 10:54",
+        "link": "https://n.news.naver.com/mnews/article/138/0002198554?sid=105"
+    },
+    {
+        "title": "삼성전자, 런던서 '오디세이' 팬들과 3D 게이밍 체험 행사 열어",
+        "date": "2025-06-15 10:54",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=158701"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 팬과 만나…전세계 생중계",
+        "date": "2025-06-15 10:54",
+        "link": "https://n.news.naver.com/mnews/article/015/0005144679?sid=101"
+    },
+    {
+        "title": "TSMC·삼성, 파운드리 '2나노' 경쟁 가속…하반기 양산 예정",
+        "date": "2025-06-15 10:50",
+        "link": "https://n.news.naver.com/mnews/article/079/0004034866?sid=101"
+    },
+    {
+        "title": "CU, 이삭토스트와 손잡고 RMR 시리즈 출시",
+        "date": "2025-06-15 10:46",
+        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=108823"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 신제품 행사",
+        "date": "2025-06-15 10:42",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=239151"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 신제품 체험 행사",
+        "date": "2025-06-15 10:34",
+        "link": "https://n.news.naver.com/mnews/article/448/0000535053?sid=101"
+    },
+    {
+        "title": "삼성전자, 글로벌 팬들과 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-15 10:32",
+        "link": "https://n.news.naver.com/mnews/article/022/0004043636?sid=101"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 팬들과 소통…전세계 중계",
+        "date": "2025-06-15 10:31",
+        "link": "https://n.news.naver.com/mnews/article/003/0013303773?sid=101"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-15 10:24",
+        "link": "https://www.webeconomy.co.kr/news/article.html?no=1226936"
+    },
+    {
+        "title": "삼성전자, 英서 오디세이 게이밍 모니터 신제품 체험 행사",
+        "date": "2025-06-15 10:24",
+        "link": "https://n.news.naver.com/mnews/article/421/0008311959?sid=101"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 신제품 체험 행사",
+        "date": "2025-06-15 10:24",
+        "link": "https://n.news.naver.com/mnews/article/421/0008311961?sid=101"
+    },
+    {
+        "title": "삼성전자, 영국서 '게이밍 모니터' 신제품 체험 행사",
+        "date": "2025-06-15 10:24",
+        "link": "https://n.news.naver.com/mnews/article/421/0008311956?sid=101"
+    },
+    {
+        "title": "삼성전자, 英서 글로벌 팬들과 오디세이 게이밍 모니터 행사",
+        "date": "2025-06-15 10:22",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2088223"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-15 10:16",
+        "link": "https://n.news.naver.com/mnews/article/001/0015449831?sid=105"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-15 10:16",
+        "link": "https://n.news.naver.com/mnews/article/001/0015449827?sid=105"
+    },
+    {
+        "title": "컴투스 '서머너즈 워: 러쉬', 국내 애플 인기 1위 등극",
+        "date": "2025-06-15 10:10",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=110340"
+    },
+    {
+        "title": "CU, ‘국민 간식’이삭토스트와 손잡고 RMR 시리즈 7종 출시",
+        "date": "2025-06-15 10:10",
+        "link": "https://www.viva100.com/article/20250615500248"
+    },
+    {
+        "title": "“폴더블폰이 이렇게 얇다고”…기대작 ‘갤럭시Z폴드7’ 추정 사진 유...",
+        "date": "2025-06-15 10:03",
+        "link": "https://n.news.naver.com/mnews/article/009/0005508835?sid=105"
+    },
+    {
+        "title": "TSMC·삼성 파운드리 '2나노' 경쟁 하반기 승부",
+        "date": "2025-06-15 10:02",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=328941"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-15 10:00",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=89637"
+    },
+    {
+        "title": "애플의 '추론 모델 한계' 논문 논란...AI 뒤처진 애플의 꼼수",
+        "date": "2025-06-15 09:56",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=171194"
+    },
+    {
+        "title": "삼성전자, 영국서 '게이밍 모니터' 신제품 체험 행사 열어",
+        "date": "2025-06-15 09:54",
+        "link": "https://n.news.naver.com/mnews/article/008/0005207560?sid=101"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 체험 행사 개최",
+        "date": "2025-06-15 09:50",
+        "link": "https://n.news.naver.com/mnews/article/029/0002961259?sid=101"
+    },
+    {
+        "title": "지에프씨생명과학 공모·도우인시스 수요예측[증시캘린더]",
+        "date": "2025-06-15 09:48",
+        "link": "https://n.news.naver.com/mnews/article/018/0006040028?sid=101"
+    },
+    {
+        "title": "삼성전자 게임 모니터는 '오디세이'…英 체험 마케팅 확대",
+        "date": "2025-06-15 09:44",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=140898"
+    },
+    {
+        "title": "삼성전자, 英서 오디세이 게이밍 모니터 신제품 체험 행사",
+        "date": "2025-06-15 09:42",
+        "link": "https://www.ajunews.com/view/20250615093918880"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-15 09:34",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3281553"
+    },
+    {
+        "title": "삼성전자 직접 체험해야 제대로 느낄 수 있는 '오디세이 3D' 압도적 경...",
+        "date": "2025-06-15 09:32",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3003455"
+    },
+    {
+        "title": "삼성, ‘오디세이 언베일드 2025’ 행사 개최…게이밍 모니터 신제품 체...",
+        "date": "2025-06-15 09:31",
+        "link": "https://n.news.naver.com/mnews/article/366/0001085400?sid=105"
+    },
+    {
+        "title": "삼성전자, 英서 오디세이 게이밍 모니터 체험 행사 진행",
+        "date": "2025-06-15 09:28",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025061509030156196ed0c62d49_1/article.html"
+    },
+    {
+        "title": "삼성전자, 英서 오디세이 게이밍 모니터 신제품 체험 행사",
+        "date": "2025-06-15 09:26",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142540"
+    },
+    {
+        "title": "애플이 잃어버린 것, 구글이 되찾은 것 [정혜진의 라스트컴퍼니]",
+        "date": "2025-06-15 09:23",
+        "link": "https://n.news.naver.com/mnews/article/011/0004497014?sid=105"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 체험 행사",
+        "date": "2025-06-15 09:18",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=178875"
+    },
+    {
+        "title": "CU, 이삭토스트 메뉴 '편의점화'...RMR 시리즈 출시",
+        "date": "2025-06-15 09:14",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=29908"
+    },
+    {
+        "title": "삼성전자, 영국서 '오디세이 게이밍 모니터' 신제품 체험 행사 성료",
+        "date": "2025-06-15 09:10",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=228060"
+    },
+    {
+        "title": "애플도 비중 100% 달성…스마트폰용 OLED 채택률 꾸준히 확대",
+        "date": "2025-06-15 09:06",
+        "link": "https://n.news.naver.com/mnews/article/092/0002378145?sid=105"
+    },
+    {
+        "title": "국내 스마트폰 1Q 출하량 전년 比 1.8%↑···폴더블 이탈 늘어",
+        "date": "2025-06-15 09:02",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=412517"
+    },
+    {
+        "title": "파리바게뜨, 여름 시즌 '인생크림빵 애플망고' 출시",
+        "date": "2025-06-15 09:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=214871"
+    },
+    {
+        "title": "삼성전자, 영국서 '게이밍 모니터' 체험 행사 진행",
+        "date": "2025-06-15 08:54",
+        "link": "https://n.news.naver.com/mnews/article/018/0006039989?sid=101"
+    },
+    {
+        "title": "4만명 동접 '오디세이 언베일드'···삼성전자, 영국서 게이밍 모니터...",
+        "date": "2025-06-15 08:52",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=265702"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 신제품 체험 행사",
+        "date": "2025-06-15 08:48",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=69597"
+    },
+    {
+        "title": "삼성, 런던서 ‘오디세이 언베일드’ 개최⋯ 글로벌 팬들과 게이밍 모니...",
+        "date": "2025-06-15 08:46",
+        "link": "https://www.viva100.com/article/20250615500081"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 오디세이 게이밍 모니터 행사",
+        "date": "2025-06-15 08:44",
+        "link": "https://n.news.naver.com/mnews/article/277/0005607626?sid=101"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-15 08:40",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=391926"
+    },
+    {
+        "title": "삼성전자, 영국 런던에서 오디세이 언베일드 행사 개최",
+        "date": "2025-06-15 08:40",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=814241"
+    },
+    {
+        "title": "英서 글로벌 팬들과 소통…삼성전자, 오디세이 게이밍 모니터 행사 진...",
+        "date": "2025-06-15 08:38",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=187346"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 오디세이 게이밍 모니터 신제품 체험 ...",
+        "date": "2025-06-15 08:30",
+        "link": "https://www.etoday.co.kr/news/view/2478769"
+    },
+    {
+        "title": "'2나노 칩' 원가 압박에… 삼성, OLED도 中 공급사 첫 검토",
+        "date": "2025-06-15 08:26",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202506150823272574fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 '오디세이 게이밍 모니터 행사' 진행",
+        "date": "2025-06-15 08:26",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=83250"
+    },
+    {
+        "title": "CU, 국민 간식 '이삭토스트'와 콜라보 RMR 시리즈 선 봬",
+        "date": "2025-06-15 08:20",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=83249"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 신제품 체험 행사",
+        "date": "2025-06-15 08:18",
+        "link": "https://n.news.naver.com/mnews/article/001/0015449737?sid=101"
+    },
+    {
+        "title": "삼성전자, 英서 글로벌 팬들과 오디세이 게이밍 모니터 행사",
+        "date": "2025-06-15 08:14",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=651566"
+    },
+    {
+        "title": "삼성전자, 글로벌 팬들과 함께한 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-15 08:12",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=215018"
+    },
+    {
+        "title": "삼성전자, 英서 '오디세이 언베일드' 진행…무안경 3D 모니터 전면에",
+        "date": "2025-06-15 08:12",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1666414"
+    },
+    {
+        "title": "삼성전자, 4년 끌어온 美 터치스크린 특허 분쟁… 재판 직전 합의",
+        "date": "2025-06-15 07:28",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202506150719412549fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "삼성전자 1분기 스마트폰 생산 6400만 대...전 분기 대비 21% 급증",
+        "date": "2025-06-15 07:18",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202506150648401778fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "[N2 뷰] '날아가는' 갤럭시 AI, '기어가는' 애플 인텔리전스",
+        "date": "2025-06-15 07:02",
+        "link": "https://www.news2day.co.kr/article/20250612500136"
+    },
+    {
+        "title": "[특파원시선] 트럼프 대통령과 애플 무지개",
+        "date": "2025-06-15 07:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015449676?sid=104"
+    }
+]
