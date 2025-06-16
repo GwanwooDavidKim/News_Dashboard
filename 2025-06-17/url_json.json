@@ -1,1 +1,827 @@
-
+[
+    {
+        "title": "알리바바, 애플 '맞춤' 새 AI 모델 출시…애플 中 부활 신호탄 될까",
+        "date": "2025-06-17 04:24",
+        "link": "https://n.news.naver.com/mnews/article/374/0000446132?sid=104"
+    },
+    {
+        "title": "고정밀 지도 국외반출… 구글 이어 애플도 요구",
+        "date": "2025-06-17 03:07",
+        "link": "https://n.news.naver.com/mnews/article/020/0003641818?sid=101"
+    },
+    {
+        "title": "아이폰-애플워치도 대중교통 찍고 탄다",
+        "date": "2025-06-17 03:04",
+        "link": "https://n.news.naver.com/mnews/article/020/0003641731?sid=101"
+    },
+    {
+        "title": "자동차용 QD-LED 조명으로 기술력 입증",
+        "date": "2025-06-17 03:02",
+        "link": "https://n.news.naver.com/mnews/article/020/0003641707?sid=101"
+    },
+    {
+        "title": "트럼프 가족기업, 67만원 저가 ‘트럼프 모바일’ 출시 예고...‘의문투...",
+        "date": "2025-06-17 02:46",
+        "link": "https://n.news.naver.com/mnews/article/023/0003911485?sid=105"
+    },
+    {
+        "title": "아이폰 17 시리즈, 9월 18일 출시 유력…8K 촬영·48MP 망원 등 대폭 업그...",
+        "date": "2025-06-17 01:02",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025061617280765269a1f309431_1/article.html"
+    },
+    {
+        "title": "[기업] 아이폰·애플워치에서도 티머니 쓴다...애플페이와 연동",
+        "date": "2025-06-17 00:37",
+        "link": "https://n.news.naver.com/mnews/article/052/0002206533?sid=101"
+    },
+    {
+        "title": "엑스로메다, 국내 최초 VR 셀럽 화보 브랜드 ‘VROOK’ 론칭",
+        "date": "2025-06-17 00:21",
+        "link": "https://m.entertain.naver.com/article/144/0001046790"
+    },
+    {
+        "title": "아이폰으로 티머니 교통카드 쓴다...애플페이 연동 시기는?",
+        "date": "2025-06-17 00:16",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3300206"
+    },
+    {
+        "title": "[Today’s PICK] 버스 탈 때 폰으로 결제…아이폰·애플워치도 된다",
+        "date": "2025-06-17 00:01",
+        "link": "https://n.news.naver.com/mnews/article/025/0003448443?sid=105"
+    },
+    {
+        "title": "RP1, ‘메타버스 브라우저’ 공개… 웹같은 XR 생태계 현실로",
+        "date": "2025-06-16 22:52",
+        "link": "https://www.tokenpost.kr/news/tech/258031"
+    },
+    {
+        "title": "“아이폰으로 갈아타도 될까”…애플페이로 버스·지하철 탑승 가능해진...",
+        "date": "2025-06-16 21:27",
+        "link": "https://n.news.naver.com/mnews/article/009/0005509798?sid=105"
+    },
+    {
+        "title": "[Q&amp;AI] 애플페이와 티머니 연동, 어떻게 하는 걸까",
+        "date": "2025-06-16 20:59",
+        "link": "https://n.news.naver.com/mnews/article/092/0002378387?sid=105"
+    },
+    {
+        "title": "“이러면 다들 아이폰 산다” 교통카드 놓고 와서 지각, 난리였는데…확...",
+        "date": "2025-06-16 20:40",
+        "link": "https://n.news.naver.com/mnews/article/016/0002485642?sid=105"
+    },
+    {
+        "title": "티머니와 연동…아이폰·애플워치로도 대중교통 탑승",
+        "date": "2025-06-16 20:39",
+        "link": "https://n.news.naver.com/mnews/article/032/0003376543?sid=101"
+    },
+    {
+        "title": "엑스로메다, 국내 최초 VR 셀럽 화보 브랜드 ‘VROOK’ 론칭",
+        "date": "2025-06-16 19:29",
+        "link": "https://www.venturesquare.net/973150"
+    },
+    {
+        "title": "애플 인도 공급망, 현지 부가가치 20% 넘어서...'이정표적 의미'",
+        "date": "2025-06-16 19:21",
+        "link": "https://www.newspim.com/news/view/20250616000994"
+    },
+    {
+        "title": "아이폰으로 대중교통 탄다… 애플페이·티머니 연동",
+        "date": "2025-06-16 18:35",
+        "link": "https://n.news.naver.com/mnews/article/014/0005363958?sid=105"
+    },
+    {
+        "title": "“아이폰 유저들 소리질러”…드디어 애플페이로 지하철·버스 탄다",
+        "date": "2025-06-16 18:29",
+        "link": "https://n.news.naver.com/mnews/article/011/0004497618?sid=101"
+    },
+    {
+        "title": "애플도 고정밀 지도 국외반출 문의…구글 요청은 8월까지 결정",
+        "date": "2025-06-16 18:17",
+        "link": "https://n.news.naver.com/mnews/article/020/0003641637?sid=102"
+    },
+    {
+        "title": "미래 세대 공략하는 신한카드, 애플·SOL페이로 1020 정조준",
+        "date": "2025-06-16 18:16",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250616010007444"
+    },
+    {
+        "title": "LG디스플레이도 中기술 베끼기에 칼 뺐다",
+        "date": "2025-06-16 18:14",
+        "link": "https://n.news.naver.com/mnews/article/015/0005145301?sid=101"
+    },
+    {
+        "title": "'아이폰 역차별' 끝?···티머니, 애플페이 연동으로 '대중교통' 이용 ...",
+        "date": "2025-06-16 18:10",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2290608"
+    },
+    {
+        "title": "애플페이로 대중교통 탄다…티머니, 하반기 연동 서비스",
+        "date": "2025-06-16 18:05",
+        "link": "https://n.news.naver.com/mnews/article/015/0005145284?sid=103"
+    },
+    {
+        "title": "삼성전자 갤럭시 워치8, 미밴드·애플워치 사이 파고든다",
+        "date": "2025-06-16 18:04",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=317967"
+    },
+    {
+        "title": "[재계 투데이] 삼성전자, 반고흐 미술관과 파트너십 체결 外",
+        "date": "2025-06-16 18:04",
+        "link": "https://news.dealsitetv.com/articles/155603"
+    },
+    {
+        "title": "LG디스플레이, 중국 티안마에 美 특허침해 소송",
+        "date": "2025-06-16 17:58",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=266840"
+    },
+    {
+        "title": "유니씨앤씨, 검증된 프리미엄, 삼성 갤럭시북5 프로 올인원PC 특가 슈퍼...",
+        "date": "2025-06-16 17:46",
+        "link": "https://kbench.com/?q=node/268425"
+    },
+    {
+        "title": "영업재개한 SKT…보완 대폭 강화한 ‘이것’으로 승부본다",
+        "date": "2025-06-16 17:44",
+        "link": "https://n.news.naver.com/mnews/article/011/0004497564?sid=105"
+    },
+    {
+        "title": "[금융 라운지] 티머니도 애플페이 … 고민 커지는 카드사",
+        "date": "2025-06-16 17:38",
+        "link": "https://n.news.naver.com/mnews/article/009/0005509659?sid=101"
+    },
+    {
+        "title": "[기획] 지하철·버스도 애플페이 OK… 결제시장 지각변동 예고",
+        "date": "2025-06-16 17:36",
+        "link": "https://n.news.naver.com/mnews/article/029/0002961697?sid=105"
+    },
+    {
+        "title": "미국, 베트남에 中부품 비중 축소하라 압박",
+        "date": "2025-06-16 17:27",
+        "link": "https://n.news.naver.com/mnews/article/018/0006041314?sid=101"
+    },
+    {
+        "title": "맥북 프로, 내년엔 확 바뀐다…주요 변화 3가지",
+        "date": "2025-06-16 17:23",
+        "link": "https://n.news.naver.com/mnews/article/092/0002378360?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 中 티안마 상대 美서 첫 특허 소송",
+        "date": "2025-06-16 17:16",
+        "link": "https://sateconomy.co.kr/news/view/1065597394566709"
+    },
+    {
+        "title": "파리바게뜨, 여름 시즌 ‘인생크림빵 애플망고’ 출시",
+        "date": "2025-06-16 17:16",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160295133613581"
+    },
+    {
+        "title": "[특파원칼럼] 애플이 '최악의 위기' 맞은 진짜 이유",
+        "date": "2025-06-16 17:14",
+        "link": "https://n.news.naver.com/mnews/article/009/0005509638?sid=110"
+    },
+    {
+        "title": "삼성전자-한솔케미칼, 새로운 QD 필름 개발 돌입",
+        "date": "2025-06-16 17:12",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=37083"
+    },
+    {
+        "title": "애플 아이폰 및 애플워치에서 티머니 교통카드 서비스 시작",
+        "date": "2025-06-16 17:12",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=815113"
+    },
+    {
+        "title": "초슬림폰 갤S25 엣지까지…'AI 철옹성' 다지는 삼성전자",
+        "date": "2025-06-16 17:10",
+        "link": "https://n.news.naver.com/mnews/article/138/0002198663?sid=105"
+    },
+    {
+        "title": "삼성폰 부러웠던 한가지 이유 사라졌네…이제 아이폰·애플워치로 찍...",
+        "date": "2025-06-16 17:10",
+        "link": "https://n.news.naver.com/mnews/article/003/0013306425?sid=105"
+    },
+    {
+        "title": "삼성 폴드7, '이 디자인'으로 전세계 사로잡는다",
+        "date": "2025-06-16 17:08",
+        "link": "https://www.betanews.net/article/view/beta202506160086"
+    },
+    {
+        "title": "애플페이, 티머니 연동 '대중교통' 이용 가능 기대감 'UP'",
+        "date": "2025-06-16 17:06",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=228147"
+    },
+    {
+        "title": "베트남 수일 내 美상무와 온라인 회담…무역협상 해결할 것(종합)",
+        "date": "2025-06-16 17:04",
+        "link": "https://n.news.naver.com/mnews/article/001/0015452360?sid=104"
+    },
+    {
+        "title": "티머니, 애플페이 연동 공식화…아이폰·애플워치에 찾아옵니다 발표",
+        "date": "2025-06-16 16:56",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15698777"
+    },
+    {
+        "title": "LGD, 中 티얀마 상대 美서 특허 소송",
+        "date": "2025-06-16 16:55",
+        "link": "https://n.news.naver.com/mnews/article/030/0003322187?sid=105"
+    },
+    {
+        "title": "올림플래닛, 국내 최초 VR 셀럽 화보 브랜드 ‘VROOK’",
+        "date": "2025-06-16 16:54",
+        "link": "https://n.news.naver.com/mnews/article/009/0005509597?sid=101"
+    },
+    {
+        "title": "'혁신은 어디에' 애플, 퍼스트 무버서 삼성 추격자로 내려앉나",
+        "date": "2025-06-16 16:42",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=119069"
+    },
+    {
+        "title": "[기업] 아이폰·애플워치에서도 티머니 쓴다...애플페이와 연동",
+        "date": "2025-06-16 16:40",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202506161605492802"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-16 16:36",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160291245736996"
+    },
+    {
+        "title": "'비보 X 폴드5' 폴더블폰 사상 최대 용량 '6000mAh' 배터리 탑재",
+        "date": "2025-06-16 16:36",
+        "link": "https://kbench.com/?q=node/268416"
+    },
+    {
+        "title": "시장조사업체 올해도 OLED 모니터 급성장, 삼성·LG디스플레이 수혜",
+        "date": "2025-06-16 16:34",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=399276"
+    },
+    {
+        "title": "애플 메시지 앱 '제로클릭' 취약점 악용…파라곤 스파이웨어로 언론인 ...",
+        "date": "2025-06-16 16:30",
+        "link": "https://www.dailysecu.com/news/articleView.html?idxno=167005"
+    },
+    {
+        "title": "아이폰 찍고 버스·지하철 탄다…티머니, 애플페이와 연동",
+        "date": "2025-06-16 16:26",
+        "link": "https://n.news.naver.com/mnews/article/422/0000750003?sid=102"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 팬들과 '게이밍 모니터' 행사 개최",
+        "date": "2025-06-16 16:22",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=37081"
+    },
+    {
+        "title": "'中 도둑질 더는 못 참아'…삼성 이어 LG도 칼 빼들었다",
+        "date": "2025-06-16 16:19",
+        "link": "https://n.news.naver.com/mnews/article/015/0005145194?sid=101"
+    },
+    {
+        "title": "OLED 모니터 올해도 쑥쑥…출하량 전망, 280만→340만 대 상향",
+        "date": "2025-06-16 16:18",
+        "link": "https://n.news.naver.com/mnews/article/421/0008314528?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 中 티안마 특허 침해 소송 …기술 탈취 본격 대응",
+        "date": "2025-06-16 16:18",
+        "link": "https://www.ajunews.com/view/20250616160650069"
+    },
+    {
+        "title": "아이티켐, '의약품 원료+OLED' 실적 성장…2108억 IPO 시동",
+        "date": "2025-06-16 16:17",
+        "link": "https://n.news.naver.com/mnews/article/008/0005208152?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 中 티안마 상대 첫 특허 소송..글로벌 기술 패권 수호하...",
+        "date": "2025-06-16 16:16",
+        "link": "http://kpenews.com/View.aspx?No=3679373"
+    },
+    {
+        "title": "티머니 애플페이 연동, 아이폰·애플워치에 탑재",
+        "date": "2025-06-16 16:12",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=112175"
+    },
+    {
+        "title": "애플, '아이폰·애플워치'도 티머니 교통카드 서비스 가능...세부 일정은...",
+        "date": "2025-06-16 16:10",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=532276"
+    },
+    {
+        "title": "LG디스플레이, 텍사스서 中 티안마 상대 OLED 특허 소송",
+        "date": "2025-06-16 16:10",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=93974"
+    },
+    {
+        "title": "기술 탈취 더는 못 참아…LG디스플레이, 中 티엔마에 특허침해 소송",
+        "date": "2025-06-16 16:02",
+        "link": "https://www.newspim.com/news/view/20250616000816"
+    },
+    {
+        "title": "LG디스플레이, 中 티엔마에 특허소송…13년 협상 불구 답없다",
+        "date": "2025-06-16 16:02",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=270000"
+    },
+    {
+        "title": "LG Display files patent suit in U.S. against China's Tianma Microelectron...",
+        "date": "2025-06-16 16:01",
+        "link": "https://n.news.naver.com/mnews/article/001/0015452133?sid=104"
+    },
+    {
+        "title": "애플페이로 대중교통 탄다…티머니 애플페이와 연동",
+        "date": "2025-06-16 15:54",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=71862"
+    },
+    {
+        "title": "LG디스플레이, 中 티안마 상대 첫 특허침해 소송",
+        "date": "2025-06-16 15:48",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1229973"
+    },
+    {
+        "title": "“AI 모델 정확도 다룬 애플 논문, 실험 설계부터 틀렸다”",
+        "date": "2025-06-16 15:42",
+        "link": "https://byline.network/?p=9004111222567494"
+    },
+    {
+        "title": "LGD, 中 티엔마에 특허소송…13년 협상 끝, 강력 대응",
+        "date": "2025-06-16 15:40",
+        "link": "https://n.news.naver.com/mnews/article/003/0013306049?sid=101"
+    },
+    {
+        "title": "삼성전자 '폴더블 언팩' 코앞…트럼프發 관세 대응 ‘난항’",
+        "date": "2025-06-16 15:34",
+        "link": "https://www.asiatime.co.kr/article/20250616500355"
+    },
+    {
+        "title": "삼성만 되는 거 아니었어? 아이폰도 이제 '삑' 찍고 탄다",
+        "date": "2025-06-16 15:34",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=101260"
+    },
+    {
+        "title": "아이폰도 교통카드 된다 티머니, 애플페이 도입 공식화",
+        "date": "2025-06-16 15:32",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=246653"
+    },
+    {
+        "title": "엑스로메다, VR 셀럽 화보 브랜드 '브이룩' 론칭",
+        "date": "2025-06-16 15:26",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=317955"
+    },
+    {
+        "title": "이제 아이폰 대고 버스·지하철 탄다…애플페이에 티머니 도입",
+        "date": "2025-06-16 15:24",
+        "link": "https://n.news.naver.com/mnews/article/028/0002751211?sid=105"
+    },
+    {
+        "title": "LGD, 中 티안마에 기술 침해 소송…기술·인력 탈취에 제동",
+        "date": "2025-06-16 15:08",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4360373"
+    },
+    {
+        "title": "애플도 고정밀 지도 반출 검토…“美 빅테크, 韓 공간정보 삼키나” 우...",
+        "date": "2025-06-16 14:58",
+        "link": "https://n.news.naver.com/mnews/article/138/0002198642?sid=004"
+    },
+    {
+        "title": "[팩플] 이제 아이폰 찍고 버스 탄다... 애플페이·티머니 연동",
+        "date": "2025-06-16 14:47",
+        "link": "https://n.news.naver.com/mnews/article/025/0003448316?sid=105"
+    },
+    {
+        "title": "애플페이, 티머니 연동 공식화…서비스 시점은 미정",
+        "date": "2025-06-16 14:44",
+        "link": "https://news.mtn.co.kr/news-detail/2025061614035060281"
+    },
+    {
+        "title": "“빠르면 한 달” 아이폰으로 교통카드 태그",
+        "date": "2025-06-16 14:34",
+        "link": "https://www.kukinews.com/article/view/kuk202506160126"
+    },
+    {
+        "title": "아이폰 교통카드 시대 '성큼'…티머니, 애플페이 공식 지원 예고",
+        "date": "2025-06-16 14:30",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=116542"
+    },
+    {
+        "title": "[AT 산업 단신] 삼성전자·LG전자·㈜한화",
+        "date": "2025-06-16 14:30",
+        "link": "https://www.asiatime.co.kr/article/20250616500284"
+    },
+    {
+        "title": "[FreeView] '리퀴드 글래스'는 단순한 미적 취향이 아니다...가장 '애플스...",
+        "date": "2025-06-16 14:26",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=140945"
+    },
+    {
+        "title": "드디어 아이폰으로 지하철 탄다…애플페이 '삑', 티머니와 연동",
+        "date": "2025-06-16 14:26",
+        "link": "https://n.news.naver.com/mnews/article/008/0005208047?sid=105"
+    },
+    {
+        "title": "카드업계, 상반기 애플페이 확산 가능성 '뚝'",
+        "date": "2025-06-16 14:24",
+        "link": "http://www.metroseoul.co.kr/article/20250616500330"
+    },
+    {
+        "title": "성능과 휴대성 모두 잡은 16형 게이밍 노트북 ‘ASUS TUF F16’, 쿠팡 사...",
+        "date": "2025-06-16 14:24",
+        "link": "https://kbench.com/?q=node/268405"
+    },
+    {
+        "title": "티머니, 애플페이 연동으로 아이폰·애플워치 대중교통 결제 지원 예정",
+        "date": "2025-06-16 14:18",
+        "link": "https://platum.kr/archives/263377"
+    },
+    {
+        "title": "애플페이 국내 출시 2년 만에 교통카드 사용 가능해지나…언제부터?",
+        "date": "2025-06-16 14:16",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=494334"
+    },
+    {
+        "title": "애플 에어팟 프로3, 2026년 출시 전망…새로운 기능은?",
+        "date": "2025-06-16 14:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=571108"
+    },
+    {
+        "title": "아이폰·애플워치서도 티머니 교통카드 쓴다...세부 일정은 미정",
+        "date": "2025-06-16 14:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=571140"
+    },
+    {
+        "title": "애플페이 뛰어드는 카드사들…현대카드 도입 이후 성과는",
+        "date": "2025-06-16 14:00",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=462810"
+    },
+    {
+        "title": "아이폰 대고 버스·지하철 타세요…교통카드 지원 초읽기",
+        "date": "2025-06-16 14:00",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=269962"
+    },
+    {
+        "title": "애플페이로 버스 탄다…국내 상륙 2년 만에 티머니와 연동",
+        "date": "2025-06-16 13:57",
+        "link": "https://n.news.naver.com/mnews/article/030/0003322020?sid=101"
+    },
+    {
+        "title": "아이폰 교통카드 시대 열린다… 티머니, 애플페이 연동 예고",
+        "date": "2025-06-16 13:48",
+        "link": "https://n.news.naver.com/mnews/article/366/0001085722?sid=102"
+    },
+    {
+        "title": "﻿삼성-LG 가전을 같은 앱으로 제어하려면 이렇게![이럴땐 이렇게!]",
+        "date": "2025-06-16 13:48",
+        "link": "https://it.donga.com/107097/"
+    },
+    {
+        "title": "아이폰·애플워치로도 '티머니 교통카드' 쓴다… 애플페이 연동",
+        "date": "2025-06-16 13:44",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250616001340034"
+    },
+    {
+        "title": "애플, 인도産 아이폰 수출 전략 변경.. 대부분 물량 미국에 공급",
+        "date": "2025-06-16 13:44",
+        "link": "https://kbench.com/?q=node/268403"
+    },
+    {
+        "title": "애플 사용자 염원 이뤄진다. 아이폰도 '교통카드' 지원... 티머니-애플페...",
+        "date": "2025-06-16 13:40",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1801189"
+    },
+    {
+        "title": "[새내기 상장사 점검] 밸류업 탑런토탈솔루션, 몸값 재평가 '시동'",
+        "date": "2025-06-16 13:30",
+        "link": "https://www.newstof.com/news/articleView.html?idxno=28808"
+    },
+    {
+        "title": "먼 미래 준비하는 애플, '잘하는 것 하자' 통할까",
+        "date": "2025-06-16 13:29",
+        "link": "https://n.news.naver.com/mnews/article/047/0002477462?sid=101"
+    },
+    {
+        "title": "삼성 갤럭시 Z 폴드 7, 더 얇아진다... 초슬림 디자인 강조한 홍보물 유...",
+        "date": "2025-06-16 13:24",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1801186"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-16 13:24",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=215281"
+    },
+    {
+        "title": "올림플래닛 `엑스로메다`, 국내 최초 VR 셀럽 화보 브랜드 `브이룩` 론칭",
+        "date": "2025-06-16 13:22",
+        "link": "https://n.news.naver.com/mnews/article/029/0002961583?sid=105"
+    },
+    {
+        "title": "티머니, 애플페이와 연동... 이제 아이폰 유저도 지갑 없이 대중교통 탄...",
+        "date": "2025-06-16 13:22",
+        "link": "https://www.insight.co.kr/news/507279"
+    },
+    {
+        "title": "애플페이, 2년 숙원 '교통카드 지원' 해결",
+        "date": "2025-06-16 13:18",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1666557"
+    },
+    {
+        "title": "애플, M2 맥 미니 전원 불량 무상 수리 지원",
+        "date": "2025-06-16 13:12",
+        "link": "https://www.jemin.com/news/articleView.html?idxno=814945"
+    },
+    {
+        "title": "아이폰으로 버스·지하철 탄다…티머니, '애플페이' 도입",
+        "date": "2025-06-16 13:08",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7115533"
+    },
+    {
+        "title": "삼성전자, 영국서 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-16 13:06",
+        "link": "https://www.kbsm.net/news/view.php?idx=478627"
+    },
+    {
+        "title": "한국 진출한 오픈AI, 제2의 '아이폰 혁명' 꿈꾸나 [권상집의 논전(論戰)...",
+        "date": "2025-06-16 13:00",
+        "link": "https://n.news.naver.com/mnews/article/586/0000105377?sid=101"
+    },
+    {
+        "title": "화면 속 잃어버린 ‘아이 컨택’을 되살리는 기술의 진화",
+        "date": "2025-06-16 12:46",
+        "link": "https://www.itworld.co.kr/article/4007202/화면-속-잃어버린-아이-컨택을-되살리는-방법.html"
+    },
+    {
+        "title": "아이폰 유저들 환호…티머니·애플페이, 드디어 대중교통 연동?",
+        "date": "2025-06-16 12:34",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=408415"
+    },
+    {
+        "title": "아이폰 사용자들 환호…이제 버스 탈 때 지갑 필요 없다",
+        "date": "2025-06-16 12:14",
+        "link": "https://www.wikitree.co.kr/articles/1058050"
+    },
+    {
+        "title": "애플페이로 대중교통 이용 가능해진다..티머니 애플페이와 연동",
+        "date": "2025-06-16 11:58",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=97753"
+    },
+    {
+        "title": "티머니 '애플페이' 도입 전망…아이폰으로 교통카드 지원",
+        "date": "2025-06-16 11:45",
+        "link": "https://n.news.naver.com/mnews/article/629/0000398735?sid=101"
+    },
+    {
+        "title": "엑스로메다, VR 셀럽 화보 브랜드 '브이룩' 론칭",
+        "date": "2025-06-16 11:31",
+        "link": "https://n.news.naver.com/mnews/article/092/0002378286?sid=105"
+    },
+    {
+        "title": "엑스로메다, 국내 최초 VR 셀럽 화보 브랜드 ‘VROOK’ 론칭",
+        "date": "2025-06-16 11:29",
+        "link": "https://n.news.naver.com/mnews/article/366/0001085690?sid=105"
+    },
+    {
+        "title": "드디어 아이폰을 대중교통에 이용…티머니, 애플페이 도입 예고",
+        "date": "2025-06-16 11:24",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025061611212862093b60030fa2_1/article.html"
+    },
+    {
+        "title": "'아이폰 교통카드' 현실로…티머니-애플, 연동 임박",
+        "date": "2025-06-16 11:24",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=187394"
+    },
+    {
+        "title": "삼성, 갤럭시 워치용 'One UI 8' 본격 테스트 돌입... 핵심적인 변화 포...",
+        "date": "2025-06-16 11:20",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1801174"
+    },
+    {
+        "title": "티머니, '애플페이' 연동 발표.. 출시 시기는 미정",
+        "date": "2025-06-16 11:20",
+        "link": "https://kbench.com/?q=node/268389"
+    },
+    {
+        "title": "M2 맥 미니 전원 불량…애플, 무상 수리 지원한다",
+        "date": "2025-06-16 11:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=571088"
+    },
+    {
+        "title": "드디어...이제 아이폰·애플워치도 교통카드 된다 [지금이뉴스]",
+        "date": "2025-06-16 11:18",
+        "link": "https://n.news.naver.com/mnews/article/052/0002206235?sid=101"
+    },
+    {
+        "title": "이제 아이폰도 찍고 탄다···애플페이, 티머니 연동 ‘대중교통’ 이...",
+        "date": "2025-06-16 11:11",
+        "link": "https://n.news.naver.com/mnews/article/032/0003376418?sid=101"
+    },
+    {
+        "title": "티머니, 애플페이 도입키로… 버스·지하철 결제 적용",
+        "date": "2025-06-16 11:08",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142572"
+    },
+    {
+        "title": "LG디스플레이 북미 스마트폰 제조사에 폴더블 OLED 패널 공급할 듯, 정철...",
+        "date": "2025-06-16 10:54",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=399176"
+    },
+    {
+        "title": "애플, 韓 5천분의 1 고정밀지도 반출 요청…빅테크 잇단 '콜'",
+        "date": "2025-06-16 10:54",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=84189"
+    },
+    {
+        "title": "티머니, 애플페이 지원 예고…아이폰으로 대중교통 이용 시대 열린다",
+        "date": "2025-06-16 10:52",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=799729"
+    },
+    {
+        "title": "애플 스마트글라스 '모듈형 설계' 채택 가능성, 디자인과 배터리 교체에...",
+        "date": "2025-06-16 10:52",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=399190"
+    },
+    {
+        "title": "애플페이로 대중교통 탄다…티머니와 연동",
+        "date": "2025-06-16 10:51",
+        "link": "https://n.news.naver.com/mnews/article/092/0002378270?sid=105"
+    },
+    {
+        "title": "아이폰 '애플페이 티머니 지원' 예고에 누리꾼들 기대감 UP",
+        "date": "2025-06-16 10:50",
+        "link": "https://www.asiatime.co.kr/article/20250616500133"
+    },
+    {
+        "title": "애플페이, 대중교통 탑승 가능해 진다",
+        "date": "2025-06-16 10:50",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=266727"
+    },
+    {
+        "title": "“애플페이로 버스 탄다”…티머니, 출시 시점은 ‘쉬쉬’",
+        "date": "2025-06-16 10:44",
+        "link": "https://n.news.naver.com/mnews/article/018/0006040955?sid=105"
+    },
+    {
+        "title": "삼성 최신 중급폰 '갤럭시 A56' 하반기 미국 출시 정황 포착",
+        "date": "2025-06-16 10:44",
+        "link": "https://kbench.com/?q=node/268386"
+    },
+    {
+        "title": "아이폰 대고 버스·지하철 타세요…교통카드 지원 초읽기",
+        "date": "2025-06-16 10:43",
+        "link": "https://n.news.naver.com/mnews/article/003/0013305036?sid=105"
+    },
+    {
+        "title": "올림플래닛, VR 화보 브랜드 '브이룩' 론칭",
+        "date": "2025-06-16 10:32",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202506160856508643c5fa75ef86_1/article.html"
+    },
+    {
+        "title": "이제 아이폰으로도 버스·지하철 탄다…티머니 애플페이 연동",
+        "date": "2025-06-16 10:29",
+        "link": "https://n.news.naver.com/mnews/article/088/0000953478?sid=101"
+    },
+    {
+        "title": "[기업] 아이폰·애플워치에서도 티머니 쓴다...애플페이와 연동",
+        "date": "2025-06-16 10:23",
+        "link": "https://n.news.naver.com/mnews/article/052/0002206151?sid=101"
+    },
+    {
+        "title": "애플, 2026년 맥북 프로 디자인 확 바꾼다…어떻게 달라질까?",
+        "date": "2025-06-16 10:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=571047"
+    },
+    {
+        "title": "아이폰 찍고 대중교통 탄다…애플페이, 티머니와 연동",
+        "date": "2025-06-16 10:21",
+        "link": "https://n.news.naver.com/mnews/article/469/0000870562?sid=101"
+    },
+    {
+        "title": "애플 iOS 26 잠금화면, 애플뮤직 독점 깨진다…서드파티 음악 앱도 지원",
+        "date": "2025-06-16 10:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=571043"
+    },
+    {
+        "title": "폭스콘 인도발 아이폰 97% 미국으로 수출…애플, 트럼프 관세 대응",
+        "date": "2025-06-16 10:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=571040"
+    },
+    {
+        "title": "티머니, 애플페이 지원한다.. 태그리스 결제도 시범 운영",
+        "date": "2025-06-16 10:18",
+        "link": "https://n.news.naver.com/mnews/article/014/0005363568?sid=105"
+    },
+    {
+        "title": "애플, 아이폰XS 구형폰 분류…아이패드 5세대 단종",
+        "date": "2025-06-16 10:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=571025"
+    },
+    {
+        "title": "애플페이로 버스·지하철 탄다…티머니 아이폰·애플워치에 찾아와",
+        "date": "2025-06-16 10:04",
+        "link": "https://n.news.naver.com/mnews/article/277/0005607998?sid=102"
+    },
+    {
+        "title": "삼성전자, 영국서 글로벌 팬들과 오디세이 게이밍 모니터 행사 진행",
+        "date": "2025-06-16 10:02",
+        "link": "https://www.cnbnews.com/news/article.html?no=731755"
+    },
+    {
+        "title": "[오늘 뭐했니?] 삼성전자",
+        "date": "2025-06-16 10:00",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=35205"
+    },
+    {
+        "title": "아이폰·애플워치도 티머니 된다…애플페이 연동",
+        "date": "2025-06-16 09:54",
+        "link": "https://n.news.naver.com/mnews/article/015/0005144979?sid=105"
+    },
+    {
+        "title": "엑스로메다, 국내 최초 VR 셀럽 화보 브랜드 ‘VROOK’ 론칭",
+        "date": "2025-06-16 09:53",
+        "link": "https://n.news.naver.com/mnews/article/018/0006040888?sid=101"
+    },
+    {
+        "title": "티머니, ‘애플페이’ 공식 지원 예고",
+        "date": "2025-06-16 09:52",
+        "link": "https://byline.network/?p=9004111222567413"
+    },
+    {
+        "title": "AI 경쟁서 뒤처진 애플, 앱스토어서 앱 검색 개선으로 만회할까",
+        "date": "2025-06-16 09:47",
+        "link": "https://n.news.naver.com/mnews/article/092/0002378234?sid=105"
+    },
+    {
+        "title": "크로스오버, 알리익스프레스 썸머세일 진행",
+        "date": "2025-06-16 09:44",
+        "link": "https://kbench.com/?q=node/268380"
+    },
+    {
+        "title": "아이폰 찍고 지하철 탄다...애플페이 출시 2년만",
+        "date": "2025-06-16 09:44",
+        "link": "https://n.news.naver.com/mnews/article/215/0001212809?sid=004"
+    },
+    {
+        "title": "애플페이, 티머니 연동 된다…아이폰·애플워치 등",
+        "date": "2025-06-16 09:42",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=651841"
+    },
+    {
+        "title": "애플페이도 대중교통 결제 가능해진다…티머니와 연동",
+        "date": "2025-06-16 09:42",
+        "link": "https://n.news.naver.com/mnews/article/374/0000445947?sid=103"
+    },
+    {
+        "title": "아이폰·애플워치에서도 티머니 쓴다…애플페이 도입",
+        "date": "2025-06-16 09:40",
+        "link": "https://n.news.naver.com/mnews/article/421/0008313099?sid=105"
+    },
+    {
+        "title": "애플페이로 대중교통 탄다…티머니 애플페이와 연동",
+        "date": "2025-06-16 09:36",
+        "link": "https://n.news.naver.com/mnews/article/001/0015450821?sid=105"
+    },
+    {
+        "title": "[단독]애플페이로도 티머니 된다",
+        "date": "2025-06-16 09:26",
+        "link": "https://n.news.naver.com/mnews/article/030/0003321840?sid=101"
+    },
+    {
+        "title": "[카드사 CFO 성적표] [현대카드] 일관된 재무 전략 영향, 경영 안정성 '...",
+        "date": "2025-06-16 09:22",
+        "link": "https://dealsite.co.kr/articles/142116"
+    },
+    {
+        "title": "폴더블폰 시들 … 1분기 출하량 5만대, 57.5%↓ [디지털포스트 모닝픽]",
+        "date": "2025-06-16 09:20",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=54806"
+    },
+    {
+        "title": "[iN The Scene]“오디세이로 게임 즐겨요”…삼성전자, 영국서 게이밍 모...",
+        "date": "2025-06-16 08:58",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=73372"
+    },
+    {
+        "title": "엑스로메다, VR 셀럽 화보 브랜드 '브이룩' 론칭",
+        "date": "2025-06-16 08:50",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=202824"
+    },
+    {
+        "title": "LG디스플레이 OLED 사업재편, 흑자구조로 체질 바꿨다",
+        "date": "2025-06-16 08:48",
+        "link": "http://datanews.co.kr/news/article.html?no=139113"
+    },
+    {
+        "title": "애플, 내년 얇아진 맥북 출시? 바뀌는점 3가지[모닝폰]",
+        "date": "2025-06-16 08:46",
+        "link": "https://n.news.naver.com/mnews/article/018/0006040771?sid=105"
+    },
+    {
+        "title": "삼성전자, 반고흐 미술관과 파트너십 체결…英서 오디세이 게이밍 모니...",
+        "date": "2025-06-16 08:14",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=760615"
+    },
+    {
+        "title": "[더벨][로보틱스 지형도 재편]AMR 힘싣는 레인보우로보틱스, 자율주행·...",
+        "date": "2025-06-16 08:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202506111359580640103485"
+    },
+    {
+        "title": "[출근길 포인트] 이스라엘, 이란 핵 시설이어 가스전 공습…한국 경제·...",
+        "date": "2025-06-16 07:30",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=252794"
+    }
+]
