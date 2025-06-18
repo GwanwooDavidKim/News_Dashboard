@@ -1,1 +1,542 @@
-
+[
+    {
+        "title": "애플, 내년 프리미엄 폴더블폰 선보인다",
+        "date": "2025-06-19 04:40",
+        "link": "https://n.news.naver.com/mnews/article/374/0000446659?sid=104"
+    },
+    {
+        "title": "[기고] K디스플레이 지킬 전략",
+        "date": "2025-06-19 04:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005209470?sid=110"
+    },
+    {
+        "title": "디자인까지 공들인 스마트 안경, 스마트폰 대체하나",
+        "date": "2025-06-19 00:37",
+        "link": "https://n.news.naver.com/mnews/article/023/0003911876?sid=105"
+    },
+    {
+        "title": "무료 와이파이 연결했다가 탈탈… 해외만?… 국내도 안심 못한다",
+        "date": "2025-06-19 00:06",
+        "link": "https://n.news.naver.com/mnews/article/005/0001784094?sid=101"
+    },
+    {
+        "title": "美 가전·스마트폰 관세, 韓 점유율 침해 우려↑",
+        "date": "2025-06-19 00:00",
+        "link": "https://www.junggi.co.kr/article/articleView.html?no=34121"
+    },
+    {
+        "title": "[따져보니] 애플도 구글도 달라는 韓고정밀 지도 뭐길래?",
+        "date": "2025-06-18 21:37",
+        "link": "https://n.news.naver.com/mnews/article/448/0000536077?sid=101"
+    },
+    {
+        "title": "[단독] 서울시 애플페이, 기후동행카드 적용 막지 않을 것",
+        "date": "2025-06-18 19:16",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=273923"
+    },
+    {
+        "title": "메타, '오클리' 스마트 안경 출시...이번엔 고글형",
+        "date": "2025-06-18 18:44",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=171446"
+    },
+    {
+        "title": "티머니, 애플페이 도입키로… 현대카드 ‘선점효과’ 수혜 전망",
+        "date": "2025-06-18 17:56",
+        "link": "https://www.ceoscoredaily.com/page/view/2025061816091001950"
+    },
+    {
+        "title": "더이상 두고볼 수 없는 지경…삼성·LG, 中 상대 특허소송 '전면전'",
+        "date": "2025-06-18 17:48",
+        "link": "https://news.mtn.co.kr/news-detail/2025061816450823839"
+    },
+    {
+        "title": "OLED TV 판 커진다…삼성 판매 140% 급증",
+        "date": "2025-06-18 17:47",
+        "link": "https://n.news.naver.com/mnews/article/009/0005511040?sid=101"
+    },
+    {
+        "title": "거창군청소년방과후아카데미, 삼성디스플레이 진로·직업체험 실시",
+        "date": "2025-06-18 17:45",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=438162"
+    },
+    {
+        "title": "LG디스플레이, ‘흑자전환’ 배수진…OLED에 1.2兆 투자",
+        "date": "2025-06-18 17:34",
+        "link": "https://www.sentv.co.kr/article/view/sentv202506180114"
+    },
+    {
+        "title": "AI로봇서 OLED까지…삼성·LG, 전략투자도 경쟁",
+        "date": "2025-06-18 17:30",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1265584&inflow=N"
+    },
+    {
+        "title": "새 정부 출범 후 첫 조단위 투자…LG디스플레이, OLED에 1조 베팅",
+        "date": "2025-06-18 17:28",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=267132"
+    },
+    {
+        "title": "中 BOE, 애플 후속작 승인 불투명…LGD 투자 확신 키운 ‘기술 격차’",
+        "date": "2025-06-18 17:18",
+        "link": "https://n.news.naver.com/mnews/article/029/0002962315?sid=101"
+    },
+    {
+        "title": "김경일 시장 “LG디스플레이 7000억 투자…첨단산업도시 도약”",
+        "date": "2025-06-18 17:06",
+        "link": "https://n.news.naver.com/mnews/article/277/0005609645?sid=102"
+    },
+    {
+        "title": "삼성·LG, 게임용 OLED 호조에 ‘함박웃음’",
+        "date": "2025-06-18 16:52",
+        "link": "https://www.ekn.kr/web/view.php?key=20250618024517844"
+    },
+    {
+        "title": "경기도, 파주에 LCD 7천억원 OLED 신기술 투자유치",
+        "date": "2025-06-18 16:50",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1148369"
+    },
+    {
+        "title": "긴장감 흐른 삼성 전략회의…폴더블폰·HBM 사활 건다",
+        "date": "2025-06-18 16:48",
+        "link": "https://n.news.naver.com/mnews/article/018/0006042784?sid=101"
+    },
+    {
+        "title": "위기 속 '독한 삼성' DNA 재정비…삼성전자, 글로벌 전략회의 개최",
+        "date": "2025-06-18 16:18",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=30689"
+    },
+    {
+        "title": "파주시, LG디스플레이 7천억 투자 유치… 첨단산업 도시 전환 '탄력'",
+        "date": "2025-06-18 16:18",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=302267"
+    },
+    {
+        "title": "LG디스플레이, LTPO 캐파 확대·CoE 도입에 약 7000억원 투자",
+        "date": "2025-06-18 16:16",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1231188"
+    },
+    {
+        "title": "[이슈+] LG디스플레이, OLED 전환 가속…1.26조 설비 투자로 승부 건다",
+        "date": "2025-06-18 16:16",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=335725"
+    },
+    {
+        "title": "“지도 반출, 구글은 조건, 애플은 수용”…달라진 태도에 정부 ‘고민...",
+        "date": "2025-06-18 16:08",
+        "link": "http://www.metroseoul.co.kr/article/20250618500439"
+    },
+    {
+        "title": "삼성전자, 갤S25 엣지 이어 폴드·플립7도 '초슬림'",
+        "date": "2025-06-18 16:04",
+        "link": "https://n.news.naver.com/mnews/article/031/0000941317?sid=105"
+    },
+    {
+        "title": "삼성전자 파운드리, 2위 자리 언제까지 지킬 수 있을까",
+        "date": "2025-06-18 16:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=318072"
+    },
+    {
+        "title": "파주시, LG디스플레이 7000억 원 규모 투자유치",
+        "date": "2025-06-18 15:59",
+        "link": "https://n.news.naver.com/mnews/article/021/0002716937?sid=102"
+    },
+    {
+        "title": "애플, 이르면 2027년 아이폰에 신규 LTPO OLED 적용 검토",
+        "date": "2025-06-18 15:58",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=37192"
+    },
+    {
+        "title": "삼성전자 MX, 실적 견인하는 효자인데...'삼중고' 시달려",
+        "date": "2025-06-18 15:58",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=253438"
+    },
+    {
+        "title": "[산업 브리핑] 한글과컴퓨터·LG디스플레이·SK렌터카",
+        "date": "2025-06-18 15:52",
+        "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=86710"
+    },
+    {
+        "title": "LG디스플레이 총 7000억 원 규모의 유기발광다이오드(OLED) 신기술 설비...",
+        "date": "2025-06-18 15:50",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=850539"
+    },
+    {
+        "title": "'정철동 매직', LGD에서도 통했다···수익성 개선 넘어 경영 정상화 모...",
+        "date": "2025-06-18 15:50",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=560445"
+    },
+    {
+        "title": "이제 더는 물러설 수 없다…한·중 디스플레이 '특허 전쟁' 격화",
+        "date": "2025-06-18 15:44",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=494479"
+    },
+    {
+        "title": "거창군청소년방과후아카데미, 삼성디스플레이 진로·직업체험 실시",
+        "date": "2025-06-18 15:38",
+        "link": "https://www.newsgn.com/news/articleView.html?idxno=488436"
+    },
+    {
+        "title": "삼성·퀄컴, 산업용 XR 플랫폼 주도권 경쟁...'현실과 디지털' 경계 허문...",
+        "date": "2025-06-18 15:32",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=215475"
+    },
+    {
+        "title": "파주시, LG디스플레이 7,000억 원 규모 투자 유치···첨단 산업도시 도...",
+        "date": "2025-06-18 15:20",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=509668"
+    },
+    {
+        "title": "2019년 일본에 수출규제 당했던 한국, 제조장비 ‘두뇌’ 국산화 성공",
+        "date": "2025-06-18 15:20",
+        "link": "https://n.news.naver.com/mnews/article/032/0003377009?sid=101"
+    },
+    {
+        "title": "파주시, LG디스플레이 7000억 투자 유치 성과",
+        "date": "2025-06-18 15:19",
+        "link": "https://www.newspim.com/news/view/20250618000641"
+    },
+    {
+        "title": "파주시, LG디스플레이 7천억 규모 OLED 설비 투자 유치… 첨단산업도시...",
+        "date": "2025-06-18 15:18",
+        "link": "http://www.metroseoul.co.kr/article/20250618500352"
+    },
+    {
+        "title": "'티머니 연동' 애플페이에 고민 깊어진 카드사…고객확보·수익성 셈법...",
+        "date": "2025-06-18 15:14",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=119186"
+    },
+    {
+        "title": "파주시, LG 디스플레이 7000억 원 규모 투자 유치",
+        "date": "2025-06-18 15:10",
+        "link": "https://n.news.naver.com/mnews/article/119/0002969363?sid=102"
+    },
+    {
+        "title": "정철동 LG디스플레이, 올해는 도약의 해…1.26조원 투자 의결 [재계 동...",
+        "date": "2025-06-18 15:08",
+        "link": "https://www.newspost.kr/news/articleView.html?idxno=215169"
+    },
+    {
+        "title": "교통카드 되는 애플페이...카드사 도입 속도낼까",
+        "date": "2025-06-18 15:06",
+        "link": "http://www.segyebiz.com/newsView/20250618512439?OutUrl=naver"
+    },
+    {
+        "title": "[통신25시]SKT 전용폰 '와이드·퀀텀' 출격 준비…역대급 대란 올 듯",
+        "date": "2025-06-18 15:04",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025061814154127513"
+    },
+    {
+        "title": "전통과 혁신, 공예와 예술의 경지에 오른 루이 비통 땅부르",
+        "date": "2025-06-18 15:00",
+        "link": "https://www.esquirekorea.co.kr/article/1883250"
+    },
+    {
+        "title": "파주시, 첨단 산업도시 도약 발판 마련",
+        "date": "2025-06-18 14:58",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1157711"
+    },
+    {
+        "title": "[위클리오늘] 파주시, 엘지(LG)디스플레이 7,000억 원 규모 투자 유치",
+        "date": "2025-06-18 14:56",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=703755"
+    },
+    {
+        "title": "[단독] 삼성전자의 하반기 승부수…XR '프로젝트 무한' 9월 출격",
+        "date": "2025-06-18 14:54",
+        "link": "https://www.newspim.com/news/view/20250618000586"
+    },
+    {
+        "title": "구글 이어 애플도 '고정밀 지도' 반출 요구… '지도 주권' 시험대 오른 ...",
+        "date": "2025-06-18 14:48",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142711"
+    },
+    {
+        "title": "中 BOE '8K 120㎐' LCD 연내 양산…삼성·LG 모니터 탑재되나",
+        "date": "2025-06-18 14:46",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092142709"
+    },
+    {
+        "title": "파주시, LG디스플레이 7000억원 투자 유치",
+        "date": "2025-06-18 14:44",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2069586"
+    },
+    {
+        "title": "LGD, 기존 인프라 고도화에 1.2조원 베팅...삼성과 다른 OLED 해법",
+        "date": "2025-06-18 14:42",
+        "link": "https://news.mtn.co.kr/news-detail/2025061809541987051"
+    },
+    {
+        "title": "파주시, LG디스플레이 7000억 원 규모 투자 유치",
+        "date": "2025-06-18 14:38",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1250588"
+    },
+    {
+        "title": "中 태블릿 1위 화웨이…정부 보조금 판도 바꿨다",
+        "date": "2025-06-18 14:33",
+        "link": "https://n.news.naver.com/mnews/article/030/0003323004?sid=105"
+    },
+    {
+        "title": "'애망빙'에 손이 가는 계절…애플망고에 풍부한 항산화 성분, 여름철 '이...",
+        "date": "2025-06-18 14:29",
+        "link": "https://n.news.naver.com/mnews/article/076/0004289372?sid=103"
+    },
+    {
+        "title": "[마켓+]애플페이·티머니 협업 '저변 확대' 기회 될까",
+        "date": "2025-06-18 14:28",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=89919"
+    },
+    {
+        "title": "파주에 LG디스플레이 7천억 OLED 신기술 투자 유치",
+        "date": "2025-06-18 14:23",
+        "link": "https://n.news.naver.com/mnews/article/666/0000075883?sid=100"
+    },
+    {
+        "title": "파주시, LG디스플레이 7,000억 원 투자 이끌어…첨단 디지털 산업지 도약",
+        "date": "2025-06-18 14:20",
+        "link": "https://www.wikitree.co.kr/articles/1058658"
+    },
+    {
+        "title": "파주시, LG디스플레이 7000억원 규모 투자 유치…첨단 산업도시 도약 발...",
+        "date": "2025-06-18 14:10",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2291571"
+    },
+    {
+        "title": "샤오미, 올해도 삼성 견제?…갤럭시 언팩 직전 폴더블폰 신작 낸다",
+        "date": "2025-06-18 13:52",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=270216"
+    },
+    {
+        "title": "'M2 맥 미니' 전원이 켜지지 않나요? 애플, 무상 수리 서비스 제공",
+        "date": "2025-06-18 13:38",
+        "link": "https://kbench.com/?q=node/268507"
+    },
+    {
+        "title": "샤오미, 올해도 삼성 견제?…갤럭시 언팩 직전 폴더블폰 신작 낸다",
+        "date": "2025-06-18 13:33",
+        "link": "https://n.news.naver.com/mnews/article/003/0013310482?sid=105"
+    },
+    {
+        "title": "경기도, 7000억원 규모 OLED 신기술 투자 유치",
+        "date": "2025-06-18 13:01",
+        "link": "https://n.news.naver.com/mnews/article/002/0002393536?sid=102"
+    },
+    {
+        "title": "긴 침묵 깬 LG디스플레이, 조 단위 투자로 OLED 전면전",
+        "date": "2025-06-18 12:44",
+        "link": "https://n.news.naver.com/mnews/article/119/0002969270?sid=101"
+    },
+    {
+        "title": "LG Display Commits 1.3 Trillion Won to Next-generation OLED Technologies",
+        "date": "2025-06-18 12:18",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=244879"
+    },
+    {
+        "title": "SKT, 영업 재개 맞춰 양자보안폰 '갤럭시퀀텀6' 출시…가입자 반등 가능...",
+        "date": "2025-06-18 12:00",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=141040"
+    },
+    {
+        "title": "LG디스플레이, 1.26조원 규모 OLED 투자발표…기술 차별화로 미래 시장 ...",
+        "date": "2025-06-18 11:30",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=103646"
+    },
+    {
+        "title": "OLED 모니터 시장, 올해 69% 성장전망…삼성·LG, 中과 초격차 승부수 [투...",
+        "date": "2025-06-18 11:29",
+        "link": "https://n.news.naver.com/mnews/article/016/0002486666?sid=101"
+    },
+    {
+        "title": "LG, 李정부 첫 조 단위 국내 투자…다른 그룹도 보따리 풀까 [투자 물꼬...",
+        "date": "2025-06-18 11:27",
+        "link": "https://n.news.naver.com/mnews/article/016/0002486659?sid=101"
+    },
+    {
+        "title": "김동연의 '투자유치 목표 100조' 탄력...파주 LG디스플레이 7천억 OLED 신...",
+        "date": "2025-06-18 11:26",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=826706"
+    },
+    {
+        "title": "구광모 OLED 승부수 … 李정부 첫 투자 선물에 LG 위상 높아지나",
+        "date": "2025-06-18 11:24",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/06/18/2025061800187.html"
+    },
+    {
+        "title": "파주 LG디스플레이, 7000억 규모 OLED 신기술 설비 투자 선언",
+        "date": "2025-06-18 11:23",
+        "link": "https://n.news.naver.com/mnews/article/421/0008318311?sid=102"
+    },
+    {
+        "title": "서울시의회 윤영희 티머니 애플페이, 늦지 않은 시일 내 론칭 기대",
+        "date": "2025-06-18 11:20",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=273837"
+    },
+    {
+        "title": "정철동號 LG디스플레이, OLED 강화 속도…적자 끊고 흑자 기지개",
+        "date": "2025-06-18 11:14",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1666927"
+    },
+    {
+        "title": "LG Display pushes OLED dominance with reshoring strategy",
+        "date": "2025-06-18 11:11",
+        "link": "https://n.news.naver.com/mnews/article/009/0005510709?sid=104"
+    },
+    {
+        "title": "디엔티바이오, 독자 개발 탄소 양자점(CQDs) 양산체제 구축",
+        "date": "2025-06-18 11:04",
+        "link": "http://www.kdpress.co.kr/news/articleView.html?idxno=138573"
+    },
+    {
+        "title": "교통카드 시장 판도 바꾼다… 에이텍모빌리티, '티머니+애플페이'로 도...",
+        "date": "2025-06-18 10:34",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=352501"
+    },
+    {
+        "title": "LG Display to invest $900 mn in next-gen OLED facilities in Korea",
+        "date": "2025-06-18 10:32",
+        "link": "https://n.news.naver.com/mnews/article/009/0005510656?sid=104"
+    },
+    {
+        "title": "LG, 李정부 첫 조 단위 국내 투자…다른 그룹도 보따리 풀까",
+        "date": "2025-06-18 10:27",
+        "link": "https://n.news.naver.com/mnews/article/016/0002486548?sid=101"
+    },
+    {
+        "title": "LG Display shifts focus to OLED with $900 m investment",
+        "date": "2025-06-18 10:26",
+        "link": "https://n.news.naver.com/mnews/article/023/0003911741?sid=104"
+    },
+    {
+        "title": "4개월 만에 결과···알리바바 AI로 中 '애플 인텔리전스' 先 탑재 임...",
+        "date": "2025-06-18 10:18",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=237051"
+    },
+    {
+        "title": "타포, 구형 가전도 스마트하게 사용하는 ‘Tapo H110 IR 리모컨’ 출시",
+        "date": "2025-06-18 10:10",
+        "link": "http://www.boannews.com/media/view.asp?idx=137711&kind="
+    },
+    {
+        "title": "샤오미, 차기 폴더블폰 '믹스 플립2' 6월 출시 공식화",
+        "date": "2025-06-18 10:06",
+        "link": "https://kbench.com/?q=node/268481"
+    },
+    {
+        "title": "[ER매트릭스] 과거를 팔아 미래를 산다 LGD 1.26조 OLED 승부수 행간은...",
+        "date": "2025-06-18 10:00",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=700183"
+    },
+    {
+        "title": "최신 플래그십부터 실속형 모델까지 다양한 스펙트럼을 갖춘 ‘삼성전자...",
+        "date": "2025-06-18 10:00",
+        "link": "https://news.appstory.co.kr/daily18296"
+    },
+    {
+        "title": "기술 차별화로 경쟁력 제고…LGD, OLED 신기술에 1조2600억원 투자",
+        "date": "2025-06-18 10:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=172250"
+    },
+    {
+        "title": "LG디스플레이, OLED 신기술에 1.2조원 투자…“디스플레이 시장 주도권 ...",
+        "date": "2025-06-18 09:58",
+        "link": "https://www.kukinews.com/article/view/kuk202506180043"
+    },
+    {
+        "title": "추억이 사라진다…애플, 맥OS 26 타호 '미키마우스 손' 커서 삭제",
+        "date": "2025-06-18 09:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=571565"
+    },
+    {
+        "title": "LG디스플레이, 차세대 OLED 신기술 개발에 1조2600억원 투자한다",
+        "date": "2025-06-18 09:46",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=436210"
+    },
+    {
+        "title": "LG디스플레이, OLED 신기술에 1조 2천억 원 투자… 경쟁력 강화 나선다",
+        "date": "2025-06-18 09:46",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=30851"
+    },
+    {
+        "title": "미·중 디커플링 최전선 베트남, 관세 압박에 '공급망 위기'",
+        "date": "2025-06-18 09:46",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=231436"
+    },
+    {
+        "title": "[영상] 삼성 '갤럭시 M36' 새로운 티저 영상 공개",
+        "date": "2025-06-18 09:42",
+        "link": "https://kbench.com/?q=node/268479"
+    },
+    {
+        "title": "[오늘의 증시리포트] 레인보우로보틱스, K-로봇 대체 불가한 밸류체인...",
+        "date": "2025-06-18 09:30",
+        "link": "https://www.etoday.co.kr/news/view/2479749"
+    },
+    {
+        "title": "LG디스플레이, 中 버리고 파주에 1.2조 투자···OLED 승부수",
+        "date": "2025-06-18 09:25",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2291350"
+    },
+    {
+        "title": "LG디스플레이, OLED 신기술에 1조 2600억원 투자...프리미엄 제품 개발...",
+        "date": "2025-06-18 09:16",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=236079"
+    },
+    {
+        "title": "한양證 파인엠텍, 폴더블 新시장 개화 최대 수혜주...ESS납품 이력도 긍...",
+        "date": "2025-06-18 09:10",
+        "link": "https://n.news.naver.com/mnews/article/014/0005364714?sid=101"
+    },
+    {
+        "title": "구글·애플, 고정밀 지도 반출 시도… 국내 산업에 미칠 파장은?",
+        "date": "2025-06-18 09:00",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=829973"
+    },
+    {
+        "title": "LG디스플레이, OLED 신기술 개발에 1조2600억원 투자",
+        "date": "2025-06-18 08:50",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=343355"
+    },
+    {
+        "title": "[클릭 e종목]파인엠텍, 폴더블폰 시장 구조적 전환…상승 여력 크다",
+        "date": "2025-06-18 08:45",
+        "link": "https://n.news.naver.com/mnews/article/277/0005609171?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 아무리 힘들어도 1조2600억원 OLED 신규투자 결의",
+        "date": "2025-06-18 08:34",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=427186"
+    },
+    {
+        "title": "“韓기업 지원해 달라 李 ‘자원부국’과 릴레이 회담…와이퍼 -97%·계...",
+        "date": "2025-06-18 08:18",
+        "link": "https://n.news.naver.com/mnews/article/011/0004498240?sid=101"
+    },
+    {
+        "title": "드디어 교통카드 지원하는 애플페이…카드사 수혜는 '미지수'",
+        "date": "2025-06-18 08:06",
+        "link": "https://www.news2day.co.kr/article/20250617500262"
+    },
+    {
+        "title": "[주니어전자]LG디스플레이, 차세대 OLED에 1조3000억원 투입…새 정부 첫...",
+        "date": "2025-06-18 08:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003322724?sid=102"
+    },
+    {
+        "title": "'AI 혁신' 실패한 애플…삼성전자, 반사이익 얻을까",
+        "date": "2025-06-18 08:00",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=652165"
+    },
+    {
+        "title": "트럼프도 무릎꿇게 한 중국 '희토류', 공급망 다변화 선택 아닌 '필수'",
+        "date": "2025-06-18 08:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=318010"
+    },
+    {
+        "title": "웨어러블기기 점유율 6% 삼성, '디지털 헬스'로 선두 애플 따라잡는다.",
+        "date": "2025-06-18 07:50",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=532332"
+    },
+    {
+        "title": "성사된 '애플페이·티머니' 연동...카드업계 반사이익 기대감 '솔솔'",
+        "date": "2025-06-18 07:00",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=755589"
+    }
+]
