@@ -1,1 +1,317 @@
-
+[
+    {
+        "title": "[초점] 트럼프는 美서 아이폰 생산하라지만…애플, 인도서 생산 확대하...",
+        "date": "2025-07-01 01:02",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025063020421922909a1f309431_1/article.html"
+    },
+    {
+        "title": "전 마이크로소프트 제작자 엑스박스 게임기는 끝났다",
+        "date": "2025-06-30 21:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=573913"
+    },
+    {
+        "title": "[마켓인]가동률 끌어올린 LG이노텍, 원가율 개선 ‘청신호’",
+        "date": "2025-06-30 19:48",
+        "link": "https://n.news.naver.com/mnews/article/018/0006053218?sid=105"
+    },
+    {
+        "title": "애플, 차세대 XR 기기 개발 프로젝트 7개 가동",
+        "date": "2025-06-30 18:30",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=37596"
+    },
+    {
+        "title": "터치패널 관련주, '봄바람 살랑살랑' 이미지스·일진디스플",
+        "date": "2025-06-30 18:20",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=232459"
+    },
+    {
+        "title": "삼성전자 스마트폰 관세부과에 신제품 흥행 ‘빨간불’ ...정부 대책은?",
+        "date": "2025-06-30 18:18",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025063015213065456ed0c62d49_1/article.html"
+    },
+    {
+        "title": "폴더블 성장 발목 잡은 갤럭시Z플립…엑시노스와 동반 반등 시동",
+        "date": "2025-06-30 18:16",
+        "link": "https://www.ajunews.com/view/20250630134713536"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 흑자전환 전망...하이엔드 OLED로 승부수",
+        "date": "2025-06-30 17:34",
+        "link": "http://www.lkp.news/news/articleView.html?idxno=66066"
+    },
+    {
+        "title": "대한골프협회, 애플리케이션 출시",
+        "date": "2025-06-30 17:32",
+        "link": "https://m.sports.naver.com/golf/article/241/0003448725"
+    },
+    {
+        "title": "실적 감소 신한카드, 현대카드 이어 애플페이 등록됐다",
+        "date": "2025-06-30 17:28",
+        "link": "https://www.tleaves.co.kr/news/articleView.html?idxno=7798"
+    },
+    {
+        "title": "삼성전자 '갤럭시Z 폴드7' 가장 얇은 폴더블폰 될 듯, 성능도 갤럭시S25...",
+        "date": "2025-06-30 17:22",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=401277"
+    },
+    {
+        "title": "삼성의 새 폴더블폰, 흉측한 '이것' 빼냈다",
+        "date": "2025-06-30 17:22",
+        "link": "https://www.betanews.net/article/view/beta202506300093"
+    },
+    {
+        "title": "샤오미發 중저가폰 경쟁···이통3사 전용 '갤럭시'와 맞불",
+        "date": "2025-06-30 16:48",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=113267"
+    },
+    {
+        "title": "이엘피, 삼성디스플레이와 42억원 규모 공급계약 체결",
+        "date": "2025-06-30 16:41",
+        "link": "https://n.news.naver.com/mnews/article/018/0006053089?sid=101"
+    },
+    {
+        "title": "대한골프협회, 애플리케이션 ‘KGA’ 출시",
+        "date": "2025-06-30 16:26",
+        "link": "https://m.sports.naver.com/golf/article/382/0001207092"
+    },
+    {
+        "title": "애플 'EU앱스토어 결제수수료' 15%로 인하 더블유게임즈 '유럽시장 수...",
+        "date": "2025-06-30 16:26",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=111194"
+    },
+    {
+        "title": "늦은 감은 있지만...대한골프협회, 애플리케이션 출시",
+        "date": "2025-06-30 16:25",
+        "link": "https://m.sports.naver.com/golf/article/109/0005339660"
+    },
+    {
+        "title": "대한골프협회, 애플리케이션 KGA 출시",
+        "date": "2025-06-30 16:20",
+        "link": "https://www.viva100.com/article/20250630501412"
+    },
+    {
+        "title": "美 보건부 장관 모든 미국인이 애플워치 착용하길 희망",
+        "date": "2025-06-30 16:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=573879"
+    },
+    {
+        "title": "대한골프협회, ‘KGA’ 애플리케이션 출시",
+        "date": "2025-06-30 16:10",
+        "link": "https://www.kukinews.com/article/view/kuk202506300156"
+    },
+    {
+        "title": "'밝기'의 LG, '색감'의 삼성...프리미엄 고사양 디스플레이 경쟁 본격화",
+        "date": "2025-06-30 15:56",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=216188"
+    },
+    {
+        "title": "퍼플렉시티 품으면… 'AI 허약한' 애플은 애플스러워질까",
+        "date": "2025-06-30 15:46",
+        "link": "https://n.news.naver.com/mnews/article/665/0000005321?sid=105"
+    },
+    {
+        "title": "출시 임박 갤럭시 Z 플립·프로 7, '슬림 &amp; 와이드' 디자인 갖는다... 폴...",
+        "date": "2025-06-30 15:38",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1801651"
+    },
+    {
+        "title": "[AT 산업 단신] 삼성전자·LG전자·LG디스플레이",
+        "date": "2025-06-30 15:32",
+        "link": "https://www.asiatime.co.kr/article/20250630500326"
+    },
+    {
+        "title": "[AT 산업 단신] LS마린솔루션·샤오미코리아·소니코리아",
+        "date": "2025-06-30 15:32",
+        "link": "https://www.asiatime.co.kr/article/20250630500333"
+    },
+    {
+        "title": "LG전자, 일본 TV 시장서 점유율 확대… 프리미엄 전략으로 틈새 공략",
+        "date": "2025-06-30 15:26",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592336754341"
+    },
+    {
+        "title": "LG전자, 휴대폰 AS 지원 종료... 30년 만에 스마트폰 사업 완전 철수",
+        "date": "2025-06-30 15:21",
+        "link": "https://n.news.naver.com/mnews/article/366/0001088746?sid=105"
+    },
+    {
+        "title": "통신3사, 30% 집토끼 지킨다···'가성비' 전용폰으로 여름 전면전",
+        "date": "2025-06-30 15:01",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2296693"
+    },
+    {
+        "title": "애플 새 XR 등장은 내후년? 삼성·구글 '프로젝트 무한' 호재",
+        "date": "2025-06-30 14:50",
+        "link": "https://n.news.naver.com/mnews/article/011/0004503130?sid=105"
+    },
+    {
+        "title": "FS리서치 “파인엠텍, 북미 대표 기업 폴더블폰용 힌지 공급 양산 준비...",
+        "date": "2025-06-30 14:35",
+        "link": "https://n.news.naver.com/mnews/article/014/0005370129?sid=101"
+    },
+    {
+        "title": "“애플 새 iOS 26에 아직 공개 안 한 신기능 있다”",
+        "date": "2025-06-30 14:20",
+        "link": "https://byline.network/?p=9004111222569232"
+    },
+    {
+        "title": "애플, 갤럭시 링 판매 부진에도 스마트 반지 출시?",
+        "date": "2025-06-30 14:04",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1801640"
+    },
+    {
+        "title": "삼성페이가 압도한 국내 모바일 결제 시장…애플페이 힘 못쓰는 이유는",
+        "date": "2025-06-30 14:00",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=640266"
+    },
+    {
+        "title": "폴더블 수요 폭증 대비…유티아이, 전환사채로 생산력 확장",
+        "date": "2025-06-30 13:56",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=355576"
+    },
+    {
+        "title": "LG전자 휴대폰 AS도 종료…30년 사업 마침표",
+        "date": "2025-06-30 13:35",
+        "link": "https://n.news.naver.com/mnews/article/030/0003326617?sid=105"
+    },
+    {
+        "title": "中 아너, 차기 폴더블폰 '매직 V5' 64MP 잠망경 카메라 탑재 확인",
+        "date": "2025-06-30 12:50",
+        "link": "https://kbench.com/?q=node/268860"
+    },
+    {
+        "title": "'슬로우 모션'의 원조는 삼성...애플보다 8개월 앞선 기술력",
+        "date": "2025-06-30 12:46",
+        "link": "https://www.raonnews.com/news/article.html?no=48519"
+    },
+    {
+        "title": "애플, EU서 앱 수수료 10%대로 인하…한국선 30% 유지 논란",
+        "date": "2025-06-30 12:14",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=430325"
+    },
+    {
+        "title": "마크 거먼 애플 스마트링, 웨어러블 시장 재점화 가능성",
+        "date": "2025-06-30 11:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=573777"
+    },
+    {
+        "title": "사피엔반도체, 메타·애플 AR 글라스 붐에 '마이크로LED 특급' 급부상",
+        "date": "2025-06-30 11:50",
+        "link": "http://www.globalepic.co.kr/view.php?ud=2025063011095525595ebfd494dd_29"
+    },
+    {
+        "title": "애플 스마트링 출시해 웨어러블 반등 필요 지적, 블룸버그 삼성전자도...",
+        "date": "2025-06-30 11:44",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=401147"
+    },
+    {
+        "title": "애플 공급사 렌즈테크, 홍콩 상장 통해 최대 8천억원 조달",
+        "date": "2025-06-30 11:18",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092143310"
+    },
+    {
+        "title": "LG디스플레이, 2분기 다시 적자…올 하반기는 좋아질까?",
+        "date": "2025-06-30 11:14",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=271166"
+    },
+    {
+        "title": "LGD, eLEAP 방식 OLED 양산 가능성 검토",
+        "date": "2025-06-30 10:52",
+        "link": "https://dealsite.co.kr/articles/143634"
+    },
+    {
+        "title": "Samsung and LG Bolster OLED TV Lineups Amid Chinese Competition Surge",
+        "date": "2025-06-30 10:52",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=245815"
+    },
+    {
+        "title": "토스터도 말귀 알아듣는 시대…마이크로소프트의 SLM 뮤",
+        "date": "2025-06-30 10:46",
+        "link": "https://www.itworld.co.kr/article/4014380/토스터도-말귀-알아듣는-시대마이크로소프트의-slm.html"
+    },
+    {
+        "title": "LG디스플레이, 2분기 다시 적자…올 하반기는 좋아질까?",
+        "date": "2025-06-30 10:39",
+        "link": "https://n.news.naver.com/mnews/article/003/0013332851?sid=101"
+    },
+    {
+        "title": "아이패드에 맥OS를 탑재하지 않는 이유…애플 SW 수석 부사장 인터뷰",
+        "date": "2025-06-30 10:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=573744"
+    },
+    {
+        "title": "삼성, 언팩 이벤트에서 3단 폴더블폰 공개하나? 출시는 10월 이후",
+        "date": "2025-06-30 10:18",
+        "link": "https://kbench.com/?q=node/268852"
+    },
+    {
+        "title": "애플, 헤드셋·스마트글라스 7종 개발 중…2025년부터 출시",
+        "date": "2025-06-30 10:16",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=573729"
+    },
+    {
+        "title": "애플, iOS 26에 실시간 번역·와이파이 동기화 기능 추가 예고",
+        "date": "2025-06-30 10:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=573709"
+    },
+    {
+        "title": "아이폰17 프로, 애플 로고 위치 또 바뀐다…케이스 제조사도 대응",
+        "date": "2025-06-30 10:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=573692"
+    },
+    {
+        "title": "애플, 아이폰17 프로 로고 위치 바꿀 수도",
+        "date": "2025-06-30 09:40",
+        "link": "https://n.news.naver.com/mnews/article/092/0002380105?sid=105"
+    },
+    {
+        "title": "애플 3년간 ‘비전·글래스’ 쏟아낸다…7종 XR 기기 로드맵 포착",
+        "date": "2025-06-30 09:39",
+        "link": "https://n.news.naver.com/mnews/article/138/0002199612?sid=105"
+    },
+    {
+        "title": "2025년 1분기 AR/VR 시장 18.1% 반등···IDC “메타 퀘스트 3 시리즈가...",
+        "date": "2025-06-30 09:20",
+        "link": "https://www.cio.com/article/4013929/2025년-1분기-ar-vr-시장-18-1-반등···idc-메타-퀘스트-3-시리즈가.html"
+    },
+    {
+        "title": "케이생명과학, 블루애플자산운용과 나스닥 상장 컨설팅 계약",
+        "date": "2025-06-30 09:06",
+        "link": "https://www.sentv.co.kr/article/view/sentv202506300010"
+    },
+    {
+        "title": "애플의 ‘F1’, 흥행 시동…첫 주말 북미 5560만 달러 수익",
+        "date": "2025-06-30 08:35",
+        "link": "https://n.news.naver.com/mnews/article/009/0005516722?sid=105"
+    },
+    {
+        "title": "애플, 스마트 글래스·비전 헤드셋 7개 준비",
+        "date": "2025-06-30 08:34",
+        "link": "https://n.news.naver.com/mnews/article/092/0002380091?sid=105"
+    },
+    {
+        "title": "[모바일 On] 애플, 아이폰 출시 20주년 맞아 풀스크린 아이폰 선보이나...",
+        "date": "2025-06-30 07:40",
+        "link": "https://kidd.co.kr/news/242200"
+    },
+    {
+        "title": "삼성 MX 사업부, S25에 마이크론 D램 60% 탑재…DS는 40%",
+        "date": "2025-06-30 07:16",
+        "link": "https://dealsite.co.kr/articles/143784"
+    },
+    {
+        "title": "삼성 '갤S25 울트라', 2년 새 탄소배출 30%↓",
+        "date": "2025-06-30 07:16",
+        "link": "https://dealsite.co.kr/articles/143791"
+    },
+    {
+        "title": "'초슬림폰' 트렌드…갤 폴드7, S펜 방식 애플처럼",
+        "date": "2025-06-30 07:14",
+        "link": "https://dealsite.co.kr/articles/143699"
+    },
+    {
+        "title": "'가격보다 성능' 프리미엄 게이밍 모니터, 4년 만에 OLED가 점령",
+        "date": "2025-06-30 07:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005214357?sid=101"
+    }
+]
