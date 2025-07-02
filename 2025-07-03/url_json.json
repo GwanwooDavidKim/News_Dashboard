@@ -1,1 +1,542 @@
-
+[
+    {
+        "title": "AI 도입으로 ‘혁신’… 첨단 R&amp;D 장비 국산화 나선다",
+        "date": "2025-07-03 00:37",
+        "link": "https://n.news.naver.com/mnews/article/023/0003914674?sid=101"
+    },
+    {
+        "title": "폭스콘, 인도 아이폰 공장서 중국 인력 철수…애플에 악재",
+        "date": "2025-07-03 00:21",
+        "link": "https://n.news.naver.com/mnews/article/293/0000069359?sid=105"
+    },
+    {
+        "title": "2025 XR &amp; 메타버스 페어 도쿄 개막! NIPA 공동관서 한국 디지털 콘텐츠...",
+        "date": "2025-07-02 22:56",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1801758"
+    },
+    {
+        "title": "충전기 꽂은 스마트폰, 베개 아래 넣고 자면 안 돼… 애플도 경고",
+        "date": "2025-07-02 22:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003327727?sid=104"
+    },
+    {
+        "title": "[IT큐레이션] 삼성 엑시노스 사가는 해피엔딩일까?",
+        "date": "2025-07-02 21:22",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=701997"
+    },
+    {
+        "title": "정철동 LG디플 사장의 승부수 통할까",
+        "date": "2025-07-02 21:01",
+        "link": "https://n.news.naver.com/mnews/article/024/0000098244?sid=101"
+    },
+    {
+        "title": "'새콤달달' 산청 애플망고 수확 한창",
+        "date": "2025-07-02 19:32",
+        "link": "https://www.gnnews.co.kr/news/articleView.html?idxno=613170"
+    },
+    {
+        "title": "신세계면세점, 스위스 ‘마이크로 킥보드’ 동북아 면세점 최초 오픈",
+        "date": "2025-07-02 18:56",
+        "link": "https://magazine.hankyung.com/job-joy/article/202507024698d"
+    },
+    {
+        "title": "신세계면세점, 스위스 '마이크로 킥보드' 동북아 면세점 최초 오픈",
+        "date": "2025-07-02 18:12",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=530172"
+    },
+    {
+        "title": "'갤럭시Z7' 가격 동결 무게… 삼성, 폴더블폰 왕좌 굳힌다",
+        "date": "2025-07-02 17:58",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250703010001580"
+    },
+    {
+        "title": "에이서, 게이밍 노트북 ‘니트로 V 16’ 전국 롯데하이마트 163개 지점 입...",
+        "date": "2025-07-02 17:54",
+        "link": "https://www.betanews.net/article/view/beta202507020065"
+    },
+    {
+        "title": "애플, 폴더블 아이폰 초기 프로토타입 개발 착수",
+        "date": "2025-07-02 17:52",
+        "link": "https://kbench.com/?q=node/268994"
+    },
+    {
+        "title": "[전매포토] '새콤달달' 지리산 청정골 산청 애플망고 수확 한창",
+        "date": "2025-07-02 17:48",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1162406"
+    },
+    {
+        "title": "포토-지리산 청정골 산청 애플망고 수확 한창",
+        "date": "2025-07-02 17:44",
+        "link": "http://www.gndomin.com/news/articleView.html?idxno=439800"
+    },
+    {
+        "title": "비수기 들어선 삼성전기·LG이노텍…하반기 성장성은 유효",
+        "date": "2025-07-02 17:40",
+        "link": "https://n.news.naver.com/mnews/article/138/0002199866?sid=004"
+    },
+    {
+        "title": "신세계면세점, 킥보드 원조 '마이크로' 동북아 면세점 최초 입점",
+        "date": "2025-07-02 17:28",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=302580"
+    },
+    {
+        "title": "첨단혁신장비 얼라이언스 출범…첨단장비 생태계 구축 본격화",
+        "date": "2025-07-02 17:22",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=758968"
+    },
+    {
+        "title": "삼성·LG, 아이폰 17 OLED 패널 초도 물량 전량 공급 전망",
+        "date": "2025-07-02 17:17",
+        "link": "http://www.seoulfn.com/news/articleView.html?idxno=561844"
+    },
+    {
+        "title": "신세계면세점, 업계 최초 스위스 '마이크로 킥보드' 입점",
+        "date": "2025-07-02 17:14",
+        "link": "https://n.news.naver.com/mnews/article/008/0005216121?sid=101"
+    },
+    {
+        "title": "[오늘의 특가] 쿠팡 로켓배송 입점 기념... 기가바이트 4K QD OLED 165Hz 게...",
+        "date": "2025-07-02 17:10",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=134831"
+    },
+    {
+        "title": "신세계면세점, 스위스 '마이크로 킥보드' 매장 오픈",
+        "date": "2025-07-02 17:08",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=95894"
+    },
+    {
+        "title": "[사진뉴스] 산청 애플망고 수확",
+        "date": "2025-07-02 17:06",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=940849"
+    },
+    {
+        "title": "삼성전자 2분기 영업이익 6조 밑도나, 하반기 HBM·폴더블폰이 올해 실적...",
+        "date": "2025-07-02 17:02",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=401674"
+    },
+    {
+        "title": "‘AI 탑재’ 강조하는 스마트폰, 제조사 별로 어떤 기능 있나",
+        "date": "2025-07-02 17:00",
+        "link": "https://byline.network/?p=9004111222569658"
+    },
+    {
+        "title": "[포토] 산청서 자라는 새콤달달 애플망고",
+        "date": "2025-07-02 16:50",
+        "link": "https://www.newsgn.com/news/articleView.html?idxno=491043"
+    },
+    {
+        "title": "[포토] 투명 마이크로 LED 디스플레이에 눈이 가네",
+        "date": "2025-07-02 16:48",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2297934"
+    },
+    {
+        "title": "삼성 중급폰 '갤럭시 A56' 유럽서 인기.. A55 모델보다 12% ↑",
+        "date": "2025-07-02 16:44",
+        "link": "https://kbench.com/?q=node/268989"
+    },
+    {
+        "title": "신세계免, 스위스 ‘마이크로 킥보드’ 국내 면세점 첫선",
+        "date": "2025-07-02 16:42",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202507021638109470056c162803_1/article.html"
+    },
+    {
+        "title": "신세계면세점, 스위스 '마이크로 킥보드' 동북아 면세점 최초 오픈",
+        "date": "2025-07-02 16:38",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=111327"
+    },
+    {
+        "title": "[포토] 삼성전자 투명 마이크로 LED 디스플레이",
+        "date": "2025-07-02 16:36",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2297932"
+    },
+    {
+        "title": "[단독] 용석우·천옌순 中서 전격회동…삼성-BOE '거래재개' 신호탄",
+        "date": "2025-07-02 16:32",
+        "link": "https://n.news.naver.com/mnews/article/030/0003327697?sid=105"
+    },
+    {
+        "title": "[포토] 신세계면세점, 스위스 ‘마이크로 킥보드’ 동북아 면세점 최초...",
+        "date": "2025-07-02 16:28",
+        "link": "https://www.etoday.co.kr/news/view/2484253"
+    },
+    {
+        "title": "[기획]초슬림 이어 폴더블폰까지…삼성폰, 경쟁력 강화 드라이브",
+        "date": "2025-07-02 16:24",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1255953"
+    },
+    {
+        "title": "[기획]폴더블폰 판 커진다…中 맹추격에 애플도 가세",
+        "date": "2025-07-02 16:24",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1255923"
+    },
+    {
+        "title": "[포토] 이것이 퀀텀닷 디스플레이",
+        "date": "2025-07-02 16:24",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2297931"
+    },
+    {
+        "title": "[기획]삼성, 언팩서 웨어러블 혁신 총출동…워치8·XR헤드셋 공개",
+        "date": "2025-07-02 16:24",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1255928"
+    },
+    {
+        "title": "나노코리아 2025, 첨단 나노기술 미래 조망",
+        "date": "2025-07-02 16:24",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=200413"
+    },
+    {
+        "title": "연구장비 국산화 생태계 조성 '첨단혁신장비 얼라이언스' 출범",
+        "date": "2025-07-02 16:22",
+        "link": "https://www.mtnews.net/news/articleView.html?idxno=22064"
+    },
+    {
+        "title": "'언팩 미리보기'…삼성전자 갤폴드7·플립7, 더 얇고 더 강력한 성능",
+        "date": "2025-07-02 16:17",
+        "link": "https://n.news.naver.com/mnews/article/421/0008346715?sid=105"
+    },
+    {
+        "title": "첨단 연구장비 국산화 집중…산학연 전문가 ‘얼라이언스’ 출범",
+        "date": "2025-07-02 16:05",
+        "link": "https://n.news.naver.com/mnews/article/029/0002965604?sid=105"
+    },
+    {
+        "title": "첨단연구장비 국산화 박차…산학연 드림팀 ‘얼라이언스’ 출범",
+        "date": "2025-07-02 16:01",
+        "link": "https://n.news.naver.com/mnews/article/021/0002719983?sid=101"
+    },
+    {
+        "title": "신세계면세점, 스위스 '마이크로 킥보드' 매장 선봬",
+        "date": "2025-07-02 16:00",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2298071"
+    },
+    {
+        "title": "[포토] 마이크로 LED 디스플레이 수놓은 화분",
+        "date": "2025-07-02 16:00",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2297929"
+    },
+    {
+        "title": "과기부, '첨단혁신장비 연합' 출범식 개최...첨단기술 생태계 구축 본격...",
+        "date": "2025-07-02 16:00",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=216387"
+    },
+    {
+        "title": "BOE, 이달 초순 삼성전자 TV 사업부 재방문",
+        "date": "2025-07-02 15:34",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=37682"
+    },
+    {
+        "title": "신세계면세점, 스위스 마이크로 킥보드 매장 오픈..동북아 면세점 최초",
+        "date": "2025-07-02 15:30",
+        "link": "http://kpenews.com/View.aspx?No=3699076"
+    },
+    {
+        "title": "애플, 일반 테스터용 'iOS 18.6' 퍼블릭 베타 2 출시",
+        "date": "2025-07-02 15:28",
+        "link": "https://kbench.com/?q=node/268986"
+    },
+    {
+        "title": "신세계면세점, '마이크로 킥보드' 동북아 최초 오픈",
+        "date": "2025-07-02 15:26",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=758898"
+    },
+    {
+        "title": "새콤달달 지리산 청정골 산청 애플망고 수확 한창",
+        "date": "2025-07-02 15:26",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=640688"
+    },
+    {
+        "title": "신세계면세점, 스위스 '마이크로 킥보드' 매장 오픈",
+        "date": "2025-07-02 15:14",
+        "link": "https://n.news.naver.com/mnews/article/014/0005371477?sid=101"
+    },
+    {
+        "title": "신세계免, 스위스 '마이크로 킥보드' 동북아 면세점 최초 오픈",
+        "date": "2025-07-02 15:10",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=227565"
+    },
+    {
+        "title": "첨단연구장비 국산화 본격화, 산학연 '얼라이언스' 출범",
+        "date": "2025-07-02 15:10",
+        "link": "http://www.e2news.com/news/articleView.html?idxno=321086"
+    },
+    {
+        "title": "더 얇고 가벼워진 ‘폴드·플립7’ 출격 예고..AI 기반 ‘일상 혁신’ 가...",
+        "date": "2025-07-02 15:06",
+        "link": "http://kpenews.com/View.aspx?No=3698816"
+    },
+    {
+        "title": "신세계면세점, 스위스 '마이크로 킥보드' 동북아 면세점 최초 오픈",
+        "date": "2025-07-02 15:04",
+        "link": "https://news.mtn.co.kr/news-detail/2025070215014166377"
+    },
+    {
+        "title": "신세계免, ‘마이크로 킥보드’ 동북아 면세점 최초 오픈",
+        "date": "2025-07-02 14:58",
+        "link": "https://n.news.naver.com/mnews/article/016/0002493793?sid=101"
+    },
+    {
+        "title": "발키리 VK87 MIST, 저소음축 적용 기계식 게이밍 키보드 출시",
+        "date": "2025-07-02 14:58",
+        "link": "https://kbench.com/?q=node/268981"
+    },
+    {
+        "title": "신세계면세점, 스위스 '마이크로 킥보드' 동북아 면세점 최초 오픈",
+        "date": "2025-07-02 14:57",
+        "link": "https://n.news.naver.com/mnews/article/119/0002974727?sid=101"
+    },
+    {
+        "title": "신세계免, 스위스 '마이크로 킥보드' 국내 면세점 최초 오픈",
+        "date": "2025-07-02 14:51",
+        "link": "https://n.news.naver.com/mnews/article/031/0000945271?sid=101"
+    },
+    {
+        "title": "신세계면세점, ‘마이크로 킥보드’ 동북아 면세점 최초 오픈",
+        "date": "2025-07-02 14:46",
+        "link": "https://www.fetv.co.kr/news/article.html?no=195717"
+    },
+    {
+        "title": "자동차 관세와 달랐다...6월 말 예고한 스마트폰 관세 '깜깜이'",
+        "date": "2025-07-02 14:42",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=255874"
+    },
+    {
+        "title": "[포토]지리산 청정골 산청 애플망고 수확 한창",
+        "date": "2025-07-02 14:40",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2297953"
+    },
+    {
+        "title": "다산코퍼레이션, '발키리 VK87 MIST' 저소음축 기계식 게이밍 키보드 출...",
+        "date": "2025-07-02 14:34",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55106"
+    },
+    {
+        "title": "노벨상 받은 '바웬디' 교수, 12일 부산서 '청소년' 특강 나선다",
+        "date": "2025-07-02 14:22",
+        "link": "https://www.etoday.co.kr/news/view/2484161"
+    },
+    {
+        "title": "‘화학 소재’ 보원케미칼, 상장 주관사에 BNK증권",
+        "date": "2025-07-02 14:21",
+        "link": "https://n.news.naver.com/mnews/article/009/0005518323?sid=101"
+    },
+    {
+        "title": "[단독]삼성디스플레이, 美 OLED 소송 판정승 … BOE 영업비밀 침해 인정...",
+        "date": "2025-07-02 14:12",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/07/02/2025070200245.html"
+    },
+    {
+        "title": "신세계면세점, 스위스 ‘마이크로 킥보드’ 동북아 최초 오픈",
+        "date": "2025-07-02 14:12",
+        "link": "https://www.sentv.co.kr/article/view/sentv202507020113"
+    },
+    {
+        "title": "신세계免, 스위스 '마이크로 킥보드' 동북아 면세점 최초 오픈",
+        "date": "2025-07-02 14:00",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=656655"
+    },
+    {
+        "title": "신세계면세점, 스위스 마이크로 킥보드 오픈 킥보드라는 단어를 만든....",
+        "date": "2025-07-02 13:58",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=160135"
+    },
+    {
+        "title": "[포토] ‘새콤달달’ 지리산 청정골 산청 애플망고 수확 한창",
+        "date": "2025-07-02 13:54",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2077226"
+    },
+    {
+        "title": "신세계면세점, '마이크로 킥보드' 동북아 면세점 최초 오픈",
+        "date": "2025-07-02 13:50",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=84724"
+    },
+    {
+        "title": "삼성디스플레이, 전 직원에 신제품 '갤Z플립7' 지급",
+        "date": "2025-07-02 13:38",
+        "link": "https://n.news.naver.com/mnews/article/374/0000449304?sid=101"
+    },
+    {
+        "title": "과기정통부, 첨단혁신장비 얼라이언스 출범…장비 국산화 생태계 구축",
+        "date": "2025-07-02 13:31",
+        "link": "https://n.news.naver.com/mnews/article/119/0002974688?sid=105"
+    },
+    {
+        "title": "산학연 모여 혁신장비 생태계 구축…첨단연구장비 국산화 '시동'",
+        "date": "2025-07-02 13:30",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250702010001034"
+    },
+    {
+        "title": "첨단연구장비 국산화 산·학·연 협력…'첨단혁신장비 얼라이언스' 출범",
+        "date": "2025-07-02 13:11",
+        "link": "https://n.news.naver.com/mnews/article/030/0003327570?sid=105"
+    },
+    {
+        "title": "첨단연구장비 국산화 본격화…산학연 '얼라이언스' 출범",
+        "date": "2025-07-02 13:10",
+        "link": "https://n.news.naver.com/mnews/article/001/0015483241?sid=105"
+    },
+    {
+        "title": "첨단혁신장비 얼라이언스 출범…국내외 생태계 구축",
+        "date": "2025-07-02 13:10",
+        "link": "https://n.news.naver.com/mnews/article/003/0013338583?sid=105"
+    },
+    {
+        "title": "﻿보원케미칼, 코스닥 상장 추진...주관사로 BNK투자증권 선정",
+        "date": "2025-07-02 13:06",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1237629"
+    },
+    {
+        "title": "삼성디스플레이 등 12개 AEO 업체, 관세조사 면제 혜택",
+        "date": "2025-07-02 12:48",
+        "link": "https://www.taxtimes.co.kr/news/article.html?no=270364"
+    },
+    {
+        "title": "'보급형 맥북 에어' 나온다... 애플이 만들고 있다는 저가형 13인치 맥북",
+        "date": "2025-07-02 12:38",
+        "link": "https://www.insight.co.kr/news/509532"
+    },
+    {
+        "title": "블루죤 쿠팡 로켓배송 입점 기념 '기가바이트' 32인치 4K 게이밍 모니터...",
+        "date": "2025-07-02 11:38",
+        "link": "http://gamefocus.co.kr/detail.php?number=167008"
+    },
+    {
+        "title": "중국 이어 애플까지…폴더블폰 시장 대격변 예고",
+        "date": "2025-07-02 11:37",
+        "link": "https://n.news.naver.com/mnews/article/016/0002493690?sid=105"
+    },
+    {
+        "title": "역대 가장 얇은 ‘두께’…폴더블폰 새 역사 쓴다",
+        "date": "2025-07-02 11:37",
+        "link": "https://n.news.naver.com/mnews/article/016/0002493688?sid=105"
+    },
+    {
+        "title": "삼성전자, ‘관세 쇼크’에 폴더블·XR·AI 생태계로 맞불",
+        "date": "2025-07-02 11:25",
+        "link": "https://n.news.naver.com/mnews/article/119/0002974658?sid=105"
+    },
+    {
+        "title": "보원케미칼, 코스닥 상장 본격 추진…BNK투자증권 주관",
+        "date": "2025-07-02 10:56",
+        "link": "https://n.news.naver.com/mnews/article/018/0006054507?sid=101"
+    },
+    {
+        "title": "삼성 '폴드·플립 7세대' 공개 D-7…접는 프리미엄 폰 시장 리더 수성",
+        "date": "2025-07-02 10:54",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1668962"
+    },
+    {
+        "title": "보원케미칼, 코스닥 상장 추진…주관사로 BNK투자증권 선정",
+        "date": "2025-07-02 10:54",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=431120"
+    },
+    {
+        "title": "삼성 보급형 폰 갤럭시A56, 유럽 시장서 AI 기능 업고 판매 호조",
+        "date": "2025-07-02 10:49",
+        "link": "https://n.news.naver.com/mnews/article/421/0008345552?sid=105"
+    },
+    {
+        "title": "보원케미칼, 코스닥 상장 추진…주관사로 BNK투자증권 선정",
+        "date": "2025-07-02 10:47",
+        "link": "https://n.news.naver.com/mnews/article/015/0005152474?sid=101"
+    },
+    {
+        "title": "비전OS 26, ‘공간 컴퓨팅’의 진짜 의미에 눈뜨다",
+        "date": "2025-07-02 10:36",
+        "link": "https://www.itworld.co.kr/article/4015722/비전os-26-공간-컴퓨팅의-진짜-의미에-눈뜨다.html"
+    },
+    {
+        "title": "[리얼푸드] 콘래드 서울, 빙수 2종 선봬…“제주 애플망고, 호지팥빙수...",
+        "date": "2025-07-02 10:26",
+        "link": "https://www.realfoods.co.kr/article/10522580?ref=naver"
+    },
+    {
+        "title": "지리산 청정 햇살 품은 '산청 애플망고' 첫 수확",
+        "date": "2025-07-02 10:24",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=634167"
+    },
+    {
+        "title": "블루밍데이즈 디지털 어워즈, 삼성전자 갤럭시북 올인원 프로 단 1시간...",
+        "date": "2025-07-02 10:20",
+        "link": "https://kbench.com/?q=node/268961"
+    },
+    {
+        "title": "필립스, USB-C로 진화한 240Hz QD-OLED 게이밍 모니터 32M2N8900 출시",
+        "date": "2025-07-02 10:02",
+        "link": "http://gamefocus.co.kr/detail.php?number=166991"
+    },
+    {
+        "title": "롯데하이마트 163개 지점서 게이밍 노트북 '에이서 니트로 V16' 만난다",
+        "date": "2025-07-02 10:02",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55099"
+    },
+    {
+        "title": "보다 강력해진 14인치 제피러스, 에이수스 ROG Zephyrus G14 (2025) GA403",
+        "date": "2025-07-02 10:02",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55097"
+    },
+    {
+        "title": "'새콤달달' 지리산 청정골 산청 '애플망고' 수확 한창",
+        "date": "2025-07-02 10:00",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3314470"
+    },
+    {
+        "title": "애플 폴더블 아이폰 시제품 생산, 삼성전자 판매 위축에 '불안한 출발' ...",
+        "date": "2025-07-02 09:56",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=401579"
+    },
+    {
+        "title": "지리산 청정골 산청 애플망고 수확",
+        "date": "2025-07-02 09:43",
+        "link": "https://n.news.naver.com/mnews/article/003/0013337824?sid=102"
+    },
+    {
+        "title": "얇긴 얇은 데 가격이 좀…갤럭시Z폴드7 통할까 [IT+]",
+        "date": "2025-07-02 09:33",
+        "link": "https://n.news.naver.com/mnews/article/665/0000005333?sid=105"
+    },
+    {
+        "title": "전직 비전 프로 엔지니어, 애플 기밀 빼돌려 스냅으로?…소송전 돌입",
+        "date": "2025-07-02 09:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=574238"
+    },
+    {
+        "title": "“건강 문제로 사직했는데…애플, 전직 비전 프로 엔지니어 ‘기술유출...",
+        "date": "2025-07-02 09:16",
+        "link": "https://n.news.naver.com/mnews/article/138/0002199799?sid=105"
+    },
+    {
+        "title": "[더벨][코스닥 CB 프리즘]유티아이, 실적 부진에도 발행사 우위 조달",
+        "date": "2025-07-02 09:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202506251053516720104721"
+    },
+    {
+        "title": "[더벨][Company Watch]탑런토탈솔루션, 박영근 단독 대표체제 전환",
+        "date": "2025-07-02 09:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507011921174240103444"
+    },
+    {
+        "title": "애플 새 운영 체제 'iOS 26' 주요 특징은?[모닝폰]",
+        "date": "2025-07-02 08:41",
+        "link": "https://n.news.naver.com/mnews/article/018/0006054274?sid=105"
+    },
+    {
+        "title": "“다음 플랫폼은 스마트 글래스.‘저 사람 이름은 뭐야’를 묻게 됐다”",
+        "date": "2025-07-02 08:40",
+        "link": "http://www.datanews.co.kr/news/article.html?no=139404"
+    },
+    {
+        "title": "콘래드 서울, 여름 한정 '애플망고·호지팥빙수' 선봬",
+        "date": "2025-07-02 08:24",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=430934"
+    },
+    {
+        "title": "애플, 내년 아이폰 두뇌 탑재한 보급형 맥북…젊은 소비자 겨냥",
+        "date": "2025-07-02 08:03",
+        "link": "https://n.news.naver.com/mnews/article/138/0002199792?sid=105"
+    },
+    {
+        "title": "삼성D, 폴더블 1위 복귀…애플 폴더블폰으로 격차 벌린다",
+        "date": "2025-07-02 07:02",
+        "link": "https://dealsite.co.kr/articles/143879"
+    }
+]
