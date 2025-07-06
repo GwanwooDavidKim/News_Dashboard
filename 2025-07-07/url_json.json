@@ -1,1 +1,632 @@
-
+[
+    {
+        "title": "12년 전 구글도 포기했다 트럼프와 애플이 새겨야 할 교훈",
+        "date": "2025-07-07 05:00",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=48860"
+    },
+    {
+        "title": "[초점] '미국산' 스마트폰 가능할까…구글의 ‘모토X’ 실험이 남긴 교...",
+        "date": "2025-07-07 04:00",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025070617491981249a1f309431_1/article.html"
+    },
+    {
+        "title": "삼성 OLED TV, 美·英서 잇단 호평…테크 매체들 줄줄이 최고점'",
+        "date": "2025-07-07 03:38",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3037074"
+    },
+    {
+        "title": "삼성 OLED TV, 영국·미국 IT 매체 극찬 올해 최고의 TV 선정",
+        "date": "2025-07-06 23:00",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533107"
+    },
+    {
+        "title": "삼성 OLED TV, 美·英 테크매체서 호평",
+        "date": "2025-07-06 21:44",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=515562"
+    },
+    {
+        "title": "KAIST, 마이크로 OLED로 난치성 뇌질환 치료 방법론 제시",
+        "date": "2025-07-06 19:56",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=377001"
+    },
+    {
+        "title": "中 미니 LED 물량 공세 맞서… 韓 OLED ‘가격 다이어트’",
+        "date": "2025-07-06 19:44",
+        "link": "https://n.news.naver.com/mnews/article/022/0004049294?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 테크 매체서 호평 잇따라",
+        "date": "2025-07-06 19:30",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=764591"
+    },
+    {
+        "title": "중국 아직 멀었다…북미·유럽서 삼성·LG ‘OLED TV’ 극찬",
+        "date": "2025-07-06 19:25",
+        "link": "https://n.news.naver.com/mnews/article/029/0002966375?sid=101"
+    },
+    {
+        "title": "뇌 속 손상없이 치료 KAIST, 초소형·유연 OLED 기술 개발",
+        "date": "2025-07-06 19:18",
+        "link": "http://www.hellodd.com/news/articleView.html?idxno=108450"
+    },
+    {
+        "title": "더 얇고 더 강하게…‘갤럭시 Z폴드·플립 7’ 9일 언팩",
+        "date": "2025-07-06 18:57",
+        "link": "https://n.news.naver.com/mnews/article/658/0000112612?sid=101"
+    },
+    {
+        "title": "성과금 0% 성적표 받아든 삼성 파운드리…수주 확보 ‘사활’",
+        "date": "2025-07-06 18:52",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025070611135050076ed0c62d49_1/article.html"
+    },
+    {
+        "title": "[만파식적] 애플과 중국",
+        "date": "2025-07-06 18:28",
+        "link": "https://n.news.naver.com/mnews/article/011/0004505693?sid=110"
+    },
+    {
+        "title": "눈으로 읽는 세상…메타 차세대 AR글라스 나온다",
+        "date": "2025-07-06 18:22",
+        "link": "https://n.news.naver.com/mnews/article/011/0004505692?sid=101"
+    },
+    {
+        "title": "카이스트 최경철·이현주 교수팀, 마이크로 OLED로 난치성 뇌질환 치료...",
+        "date": "2025-07-06 18:08",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=181982"
+    },
+    {
+        "title": "삼성디스플레이 초격차 기술로 中공세 방어",
+        "date": "2025-07-06 18:02",
+        "link": "https://n.news.naver.com/mnews/article/015/0005154125?sid=101"
+    },
+    {
+        "title": "[미리보는 언팩] '울트라급' 성능, 가장 얇고 가볍다···'갤Z 폴드·플...",
+        "date": "2025-07-06 18:02",
+        "link": "https://www.ajunews.com/view/20250705234750284"
+    },
+    {
+        "title": "LGD, 대외 불확실성에 3분기 만에 적자 전환 가능성↑",
+        "date": "2025-07-06 18:02",
+        "link": "https://www.ajunews.com/view/20250706135615516"
+    },
+    {
+        "title": "마이크로 OLED로 난치성 뇌질환 치료 기술 제시",
+        "date": "2025-07-06 17:08",
+        "link": "https://www.naeil.com/news/read/553611?ref=naver"
+    },
+    {
+        "title": "'대륙의 실수' 넘어 '대륙의 진격'? 샤오미, 한국 가전 시장 뚫을까",
+        "date": "2025-07-06 17:00",
+        "link": "https://n.news.naver.com/mnews/article/586/0000106758?sid=101"
+    },
+    {
+        "title": "中 판매 반등, 印 생산 흔들···애플, 공급망 리스크 '경보'",
+        "date": "2025-07-06 16:56",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2299463"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
+        "date": "2025-07-06 16:38",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250706010003049"
+    },
+    {
+        "title": "영상통화 중 옷 벗으면 스톱…애플, 노출감지 시범 도입",
+        "date": "2025-07-06 16:12",
+        "link": "https://n.news.naver.com/mnews/article/448/0000540389?sid=101"
+    },
+    {
+        "title": "[김나인의 테크 티키타카] “더 얇고 가볍게”… 진화하는 AI 폴더블폰 ...",
+        "date": "2025-07-06 15:51",
+        "link": "https://n.news.naver.com/mnews/article/029/0002966314?sid=105"
+    },
+    {
+        "title": "AI·디자인·헬스케어…삼성 폴더블폰·워치 ‘역대급 성능’ 기대감",
+        "date": "2025-07-06 15:44",
+        "link": "https://www.ekn.kr/web/view.php?key=20250706023403296"
+    },
+    {
+        "title": "애플, 영상통화 중 상대방 옷 벗으면 ‘노출 경고’… iOS26에 시범 기능...",
+        "date": "2025-07-06 15:36",
+        "link": "https://n.news.naver.com/mnews/article/366/0001090365?sid=105"
+    },
+    {
+        "title": "삼성 폴드·플립 7 오는 9일 공개…단통법 폐지에 역대급 판매고?",
+        "date": "2025-07-06 15:28",
+        "link": "https://n.news.naver.com/mnews/article/088/0000957317?sid=101"
+    },
+    {
+        "title": "삼성 갤럭시 Z 폴드7 유출…디자인·카메라 전면 개선 예고",
+        "date": "2025-07-06 15:20",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533104"
+    },
+    {
+        "title": "삼성 OLED TV, 북미 1위 등극···글로벌 매체 최고의 TV 호평",
+        "date": "2025-07-06 15:15",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2299457"
+    },
+    {
+        "title": "갤럭시 워치8 시리즈 사양·가격 유출…일부 모델 가격 인상",
+        "date": "2025-07-06 15:14",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533103"
+    },
+    {
+        "title": "'올레드TV 후발주자' 삼성, 해외서 호평…북미 1위 놓고 LG와 라이벌전",
+        "date": "2025-07-06 15:00",
+        "link": "https://n.news.naver.com/mnews/article/015/0005154018?sid=101"
+    },
+    {
+        "title": "KAIST, 마이크로 OLED로 난치성 뇌질환 치료기술 제시",
+        "date": "2025-07-06 14:50",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025070614410974103b60030fa2_1/article.html"
+    },
+    {
+        "title": "KAIST, 마이크로 OLED로 난치성 뇌질환 치료‘게임 체인저’ 기술 제시",
+        "date": "2025-07-06 14:50",
+        "link": "https://www.webeconomy.co.kr/news/article.html?no=1242967"
+    },
+    {
+        "title": "마이크로 OLED→뇌질환 치료 새로운 방법 제시",
+        "date": "2025-07-06 14:44",
+        "link": "https://n.news.naver.com/mnews/article/031/0000946247?sid=105"
+    },
+    {
+        "title": "삼성전자 ‘역대급 초슬림’ 갤럭시Z 폴드7 이번 주 공개",
+        "date": "2025-07-06 14:44",
+        "link": "https://www.etoday.co.kr/news/view/2485207"
+    },
+    {
+        "title": "이엠앤아이, OLED 소재 세계 첫 공급… 국산 기술로 스마트기기 뚫었다",
+        "date": "2025-07-06 14:38",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=357359"
+    },
+    {
+        "title": "북미 점유율 1위 이유 있네… 삼성 OLED TV, 美·英 주요 매체서 호평",
+        "date": "2025-07-06 14:32",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092143691"
+    },
+    {
+        "title": "“가장 얇고 가볍다”…삼성, 갤럭시 Z 플립·폴드7 9일 공개",
+        "date": "2025-07-06 14:21",
+        "link": "https://n.news.naver.com/mnews/article/009/0005520228?sid=105"
+    },
+    {
+        "title": "마이크로 OLED 뇌에 삽입해 신경세포 자극",
+        "date": "2025-07-06 14:18",
+        "link": "https://n.news.naver.com/mnews/article/366/0001090345?sid=105"
+    },
+    {
+        "title": "KAIST, 마이크로 OLED로 난치성 뇌질환 치료 '게임 체인저' 기술 제시",
+        "date": "2025-07-06 14:18",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=759649"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 테크 매체 '최고의 TV' 호평",
+        "date": "2025-07-06 14:16",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=853336"
+    },
+    {
+        "title": "애플 'F1 더 무비'로 드디어 결실…극장 공략 첫 흥행 성과 [D:영화 뷰]",
+        "date": "2025-07-06 14:12",
+        "link": "https://m.entertain.naver.com/article/119/0002976093"
+    },
+    {
+        "title": "보조금 효과 본 中, 올 상반기 스마트폰 시장 1.4% 성장",
+        "date": "2025-07-06 14:04",
+        "link": "https://n.news.naver.com/mnews/article/029/0002966287?sid=105"
+    },
+    {
+        "title": "'갤럭시 Z 플립·폴드 7' 9일 베일 벗는다…보급형 폴더블폰도 출시",
+        "date": "2025-07-06 14:00",
+        "link": "https://n.news.naver.com/mnews/article/422/0000756735?sid=101"
+    },
+    {
+        "title": "올해 최고의 TV…삼성 OLED TV, 글로벌 주요 테크매체서 호평",
+        "date": "2025-07-06 13:54",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2078788"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 언론서 잇따라 '호평'",
+        "date": "2025-07-06 13:50",
+        "link": "https://n.news.naver.com/mnews/article/119/0002976091?sid=101"
+    },
+    {
+        "title": "KAIST, 마이크로 OLED 활용 난치성 뇌질환 치료 새 길",
+        "date": "2025-07-06 13:42",
+        "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/78627"
+    },
+    {
+        "title": "올해 최고의 TV…삼성 OLED TV, 미국·영국 테크매체서 호평",
+        "date": "2025-07-06 13:36",
+        "link": "https://n.news.naver.com/mnews/article/422/0000756733?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 미국·영국 주요 테크매체서 호평…올해 최고의 TV",
+        "date": "2025-07-06 13:24",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=248759"
+    },
+    {
+        "title": "유연 마이크로 OLED, ‘뇌 질환 의료기기’로 쓰인다",
+        "date": "2025-07-06 13:22",
+        "link": "https://n.news.naver.com/mnews/article/029/0002966277?sid=105"
+    },
+    {
+        "title": "카이스트, 삽입형 의료기기 새로운 패러다임 제시",
+        "date": "2025-07-06 13:22",
+        "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=425268"
+    },
+    {
+        "title": "영화도, 게임도 1등…삼성 OLED TV, 북미·유럽서 호평 이어져",
+        "date": "2025-07-06 13:14",
+        "link": "http://www.metroseoul.co.kr/article/20250706500104"
+    },
+    {
+        "title": "'올해 최고의 TV' 선정된 삼성 OLED…테크 매체 잇따른 호평",
+        "date": "2025-07-06 13:02",
+        "link": "https://n.news.naver.com/mnews/article/008/0005217546?sid=101"
+    },
+    {
+        "title": "KAIST, 마이크로 OLED로 난치성 뇌질환 치료'게임 체인저'기술 제시",
+        "date": "2025-07-06 13:00",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=561641"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 잇따라 호평",
+        "date": "2025-07-06 12:58",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=217066"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평…올해 최고의 TV",
+        "date": "2025-07-06 12:56",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=702356"
+    },
+    {
+        "title": "[E Works] 삼성전자·LG전자",
+        "date": "2025-07-06 12:56",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=695178"
+    },
+    {
+        "title": "모든 기술 집약체…'갤럭시 Z 플립·폴드 7' 9일 공개",
+        "date": "2025-07-06 12:55",
+        "link": "https://n.news.naver.com/mnews/article/215/0001215238?sid=004"
+    },
+    {
+        "title": "갤럭시 폴드·플립7 언팩… 열대 가장 슬림",
+        "date": "2025-07-06 12:44",
+        "link": "https://www.meconomynews.com/news/articleView.html?idxno=115899"
+    },
+    {
+        "title": "마이크로 OLED, 뇌에 삽입…'유연 광자극 기기' 개발했다",
+        "date": "2025-07-06 12:39",
+        "link": "https://n.news.naver.com/mnews/article/003/0013345778?sid=102"
+    },
+    {
+        "title": "삼성, '갤럭시 Z 플립·폴드 7' 9일 공개…울트라급 성능 갖춰",
+        "date": "2025-07-06 12:28",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=248758"
+    },
+    {
+        "title": "KAIST, '빛으로 뇌를 치료한다'… 뇌질환 치료 패러다임 전환 예고",
+        "date": "2025-07-06 12:18",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2353419"
+    },
+    {
+        "title": "삼성전자 OLED TV 글로벌 매체 호평",
+        "date": "2025-07-06 12:16",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=473965"
+    },
+    {
+        "title": "“압도적인 화질”…삼성 OLED TV, 글로벌 테크매체 호평 잇따라",
+        "date": "2025-07-06 12:14",
+        "link": "http://www.segyebiz.com/newsView/20250706504557?OutUrl=naver"
+    },
+    {
+        "title": "KAIST, 마이크로 OLED로 난치성 뇌질환 치료'게임 체인저'기술 제시",
+        "date": "2025-07-06 12:04",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=70607"
+    },
+    {
+        "title": "KAIST, 마이크로 OLED로 난치성 뇌질환 치료 '게임 체인저' 구현",
+        "date": "2025-07-06 12:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003328602?sid=105"
+    },
+    {
+        "title": "난치성 뇌질환 치료 가능성↑…KAIST, '유연 광자극 기기' 개발",
+        "date": "2025-07-06 12:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006058488?sid=105"
+    },
+    {
+        "title": "유연 마이크로 OLED, 뇌에 삽입해 뉴런 자극한다",
+        "date": "2025-07-06 12:00",
+        "link": "https://n.news.naver.com/mnews/article/584/0000033215?sid=105"
+    },
+    {
+        "title": "삼성전자 OLED TV, 美·英 테크 매체서 호평 받아",
+        "date": "2025-07-06 11:58",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1150726"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라 받아",
+        "date": "2025-07-06 11:44",
+        "link": "http://www.newsbrite.net/news/articleView.html?idxno=191562"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평",
+        "date": "2025-07-06 11:30",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=641074"
+    },
+    {
+        "title": "삼성 OLED TV 글로벌 주요 테크 매체서 호평.. “올해 최고의 TV”",
+        "date": "2025-07-06 11:26",
+        "link": "https://n.news.naver.com/mnews/article/009/0005520184?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 테크 매체서 잇따라 호평",
+        "date": "2025-07-06 11:25",
+        "link": "https://n.news.naver.com/mnews/article/215/0001215229?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 세계 기술 매체서 연이어 '호평'",
+        "date": "2025-07-06 11:16",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=239899"
+    },
+    {
+        "title": "삼성전자 OLED TV, 글로벌 매체서 잇달아 '호평'",
+        "date": "2025-07-06 11:11",
+        "link": "https://n.news.naver.com/mnews/article/030/0003328573?sid=105"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 테크 매체서 잇따라 호평",
+        "date": "2025-07-06 11:10",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=336579"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라 받아",
+        "date": "2025-07-06 11:04",
+        "link": "https://n.news.naver.com/mnews/article/092/0002380947?sid=105"
+    },
+    {
+        "title": "“신체 노출되면 스톱”…애플, 페이스타임 노출감지 시범 도입",
+        "date": "2025-07-06 11:03",
+        "link": "https://n.news.naver.com/mnews/article/018/0006058463?sid=105"
+    },
+    {
+        "title": "'갤럭시 Z 플립·폴드 7' 9일 공개…진화 예고",
+        "date": "2025-07-06 10:54",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=331051"
+    },
+    {
+        "title": "“게임·영화 모두 최고”…삼성 OLED TV, 외신 잇단 호평",
+        "date": "2025-07-06 10:44",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1267544&inflow=N"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평",
+        "date": "2025-07-06 10:42",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=105205"
+    },
+    {
+        "title": "'AI 항복' 선언한 애플...삼성 빅스비도 안심 못 한다",
+        "date": "2025-07-06 10:39",
+        "link": "https://www.newspim.com/news/view/20250704000596"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 테크 매체 호평 잇따라…게임·영상 모두 최적",
+        "date": "2025-07-06 10:39",
+        "link": "https://www.newspim.com/news/view/20250706000037"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 테크 매체서 호평…최고의 TV",
+        "date": "2025-07-06 10:38",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1257011"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 IT 매체들로부터 잇단 호평",
+        "date": "2025-07-06 10:36",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1669430"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
+        "date": "2025-07-06 10:30",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=84983"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 테크 매체서 '올해 최고의 TV' 잇단 호평",
+        "date": "2025-07-06 10:24",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=130831"
+    },
+    {
+        "title": "삼성, 9일 '갤럭시 Z 플립·폴드 7' 공개…보급형 모델 첫 등장",
+        "date": "2025-07-06 10:20",
+        "link": "https://n.news.naver.com/mnews/article/018/0006058447?sid=105"
+    },
+    {
+        "title": "삼성 OLED TV, .美·英서 호평",
+        "date": "2025-07-06 10:09",
+        "link": "https://n.news.naver.com/mnews/article/014/0005372887?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
+        "date": "2025-07-06 10:06",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2089846"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
+        "date": "2025-07-06 10:06",
+        "link": "https://n.news.naver.com/mnews/article/001/0015490213?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
+        "date": "2025-07-06 10:06",
+        "link": "https://n.news.naver.com/mnews/article/001/0015490212?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
+        "date": "2025-07-06 10:06",
+        "link": "https://n.news.naver.com/mnews/article/001/0015490211?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평",
+        "date": "2025-07-06 10:04",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=530313"
+    },
+    {
+        "title": "삼성전자 ‘OLED TV’, 글로벌 테크 매체 호평 봇물",
+        "date": "2025-07-06 10:02",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000075493"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 테크 매체서 잇단 호평",
+        "date": "2025-07-06 10:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006058439?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 테크 매체서 호평 잇따라",
+        "date": "2025-07-06 10:00",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=180373"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
+        "date": "2025-07-06 09:56",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=209409"
+    },
+    {
+        "title": "삼성전자 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
+        "date": "2025-07-06 09:52",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=70600"
+    },
+    {
+        "title": "삼성전자, OLED TV 글로벌 경쟁력 입증…'올해 최고의 TV' 선정",
+        "date": "2025-07-06 09:50",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=802450"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평…게임·영화 최적화",
+        "date": "2025-07-06 09:50",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=829778"
+    },
+    {
+        "title": "삼성전자 자사 OLED TV, 글로벌 주요 테크 매체서 호평",
+        "date": "2025-07-06 09:49",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200048?sid=105"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 이어져",
+        "date": "2025-07-06 09:48",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=91363"
+    },
+    {
+        "title": "'더 얇고 가볍게'…삼성 갤럭시 Z 플립·폴드 9일 공개",
+        "date": "2025-07-06 09:46",
+        "link": "https://n.news.naver.com/mnews/article/374/0000449916?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
+        "date": "2025-07-06 09:40",
+        "link": "https://www.ajunews.com/view/20250706093712327"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 매체 연이어 호평… 게임·영화 모두 최적화",
+        "date": "2025-07-06 09:38",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=160451"
+    },
+    {
+        "title": "中 BOE, 애플 맥북용 LCD 사업 약진…점유율 첫 1위 전망",
+        "date": "2025-07-06 09:30",
+        "link": "https://n.news.naver.com/mnews/article/092/0002380920?sid=105"
+    },
+    {
+        "title": "올해 최고의 TV… 삼성 OLED TV, 美·英 테크 매체서 호평",
+        "date": "2025-07-06 09:28",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3289951"
+    },
+    {
+        "title": "게임+영화 모두 OK 삼성 OLED TV, 해외 주요 매체에서 '최고의 TV' 호평",
+        "date": "2025-07-06 09:28",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=229287"
+    },
+    {
+        "title": "“올해 최고의 TV”… 삼성전자 ‘OLED 제품’에 쏟아진 외신 호평",
+        "date": "2025-07-06 09:22",
+        "link": "https://n.news.naver.com/mnews/article/366/0001090272?sid=105"
+    },
+    {
+        "title": "삼성 OLED TV, 미국 영국 매체 호평 '집중'",
+        "date": "2025-07-06 09:20",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3009628"
+    },
+    {
+        "title": "올해 최고의 TV…삼성 OLED TV, 글로벌 주요 테크 매체서 '호평'",
+        "date": "2025-07-06 09:12",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=189044"
+    },
+    {
+        "title": "삼성 OLED TV, 美·英 테크 매체서 호평",
+        "date": "2025-07-06 09:10",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025070608305652436ed0c62d49_1/article.html"
+    },
+    {
+        "title": "삼성전자 OLED TV, 북미시장 1위...글로벌 시장서 호평일색",
+        "date": "2025-07-06 09:06",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=344308"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 테크 매체 호평…이유는?",
+        "date": "2025-07-06 09:05",
+        "link": "https://n.news.naver.com/mnews/article/003/0013345510?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평",
+        "date": "2025-07-06 09:04",
+        "link": "https://www.viva100.com/article/20250706500137"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평",
+        "date": "2025-07-06 08:58",
+        "link": "http://www.fieldnews.kr/news/articleView.html?idxno=18990"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 잇따라 호평",
+        "date": "2025-07-06 08:46",
+        "link": "https://www.etoday.co.kr/news/view/2485134"
+    },
+    {
+        "title": "英 주요 테크 매체들, 삼성 'OLED TV' 화질 호평",
+        "date": "2025-07-06 08:42",
+        "link": "https://www.raonnews.com/news/article.html?no=48705"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 '호평' 잇따라",
+        "date": "2025-07-06 08:30",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=85753"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 IT 매체서 잇단 호평",
+        "date": "2025-07-06 08:19",
+        "link": "https://n.news.naver.com/mnews/article/277/0005618269?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 미국·영국 테크매체서 호평…올해 최고의 TV",
+        "date": "2025-07-06 08:17",
+        "link": "https://n.news.naver.com/mnews/article/001/0015490072?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 잇따라",
+        "date": "2025-07-06 08:14",
+        "link": "https://www.webeconomy.co.kr/news/article.html?no=1242959"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평",
+        "date": "2025-07-06 08:12",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=394941"
+    },
+    {
+        "title": "삼성 OLED TV, 글로벌 주요 테크 매체서 호평 세례",
+        "date": "2025-07-06 08:12",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=657676"
+    },
+    {
+        "title": "TSMC 쫓는 후발 주자 ‘동상이몽’…인텔은 ‘기술 초격차’·삼성은 ‘...",
+        "date": "2025-07-06 07:00",
+        "link": "https://www.ceoscoredaily.com/page/view/2025070416474660060"
+    }
+]
