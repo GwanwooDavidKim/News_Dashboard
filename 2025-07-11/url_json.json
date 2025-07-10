@@ -1,1 +1,2577 @@
-
+[
+    {
+        "title": "삼성전자 “두 번 접는 폰 연내 출시… 갤럭시 4억대에 AI 탑재”",
+        "date": "2025-07-11 03:03",
+        "link": "https://n.news.naver.com/mnews/article/020/0003647206?sid=101"
+    },
+    {
+        "title": "노태문 갤럭시 AI, 삼성만의 가치…연내 4억대 기기에 탑재",
+        "date": "2025-07-11 02:28",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3037290"
+    },
+    {
+        "title": "삼성전자, 뉴욕 ‘갤럭시 익스피리언스 스페이스’ 오픈…갤Z폴드·플립...",
+        "date": "2025-07-11 00:57",
+        "link": "https://n.news.naver.com/mnews/article/016/0002497942?sid=105"
+    },
+    {
+        "title": "IBM 컴퓨터→엑손모빌 석유→애플 스마트폰→엔비디아 AI",
+        "date": "2025-07-11 00:57",
+        "link": "https://n.news.naver.com/mnews/article/023/0003916396?sid=105"
+    },
+    {
+        "title": "이젠 두 번 접는다… ‘트라이폴드폰’ 연내 출시",
+        "date": "2025-07-11 00:20",
+        "link": "https://n.news.naver.com/mnews/article/005/0001789047?sid=101"
+    },
+    {
+        "title": "삼성의 자신감… “4억대 이상 기기에 갤럭시 AI 심겠다”",
+        "date": "2025-07-11 00:17",
+        "link": "https://n.news.naver.com/mnews/article/005/0001789044?sid=101"
+    },
+    {
+        "title": "[천자칼럼] 두 번 접는 폰",
+        "date": "2025-07-11 00:09",
+        "link": "https://n.news.naver.com/mnews/article/015/0005156455?sid=110"
+    },
+    {
+        "title": "노태문 “연내 4억대에 AI 적용, 두번 접는 폰도 출시”",
+        "date": "2025-07-11 00:01",
+        "link": "https://n.news.naver.com/mnews/article/025/0003454375?sid=101"
+    },
+    {
+        "title": "삼성전자, '헬스+AI'로 새로운 '헬스 플랫'폼 제공[폴더블 언팩 2025]",
+        "date": "2025-07-10 23:52",
+        "link": "https://news.mtn.co.kr/news-detail/2025071023454876631"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 폴드7' 공개",
+        "date": "2025-07-10 22:46",
+        "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=409450"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 폴드7' 공개...15일 사전 판매 시작",
+        "date": "2025-07-10 22:42",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3322030"
+    },
+    {
+        "title": "“22만원→9만원, 이게 웬일이냐” 삼성 새 제품 ‘폭탄 할인’ 갑자기...",
+        "date": "2025-07-10 22:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002497935?sid=105"
+    },
+    {
+        "title": "[영상] 삼성전자, 폴더블폰 핵심소재에 중국산 탑재?...OCA 샘플 테스트...",
+        "date": "2025-07-10 22:02",
+        "link": "https://www.theguru.co.kr/news/article.html?no=89166"
+    },
+    {
+        "title": "“차원이 다르다”...비밀병기 꺼내려는 삼성전자, 애플·화웨이 심장 겨...",
+        "date": "2025-07-10 21:57",
+        "link": "https://n.news.naver.com/mnews/article/009/0005523093?sid=101"
+    },
+    {
+        "title": "[이슈] 커피 한 잔보다 가벼운 '갤Z 폴드7'…폴더블에 최적화된 AI 경험...",
+        "date": "2025-07-10 21:48",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=238600"
+    },
+    {
+        "title": "'더 얇게 더 가볍게'…갤럭시, '가장 슬림한 AI폰'으로 中과 정면승부",
+        "date": "2025-07-10 21:38",
+        "link": "https://n.news.naver.com/mnews/article/448/0000541589?sid=101"
+    },
+    {
+        "title": "'AI·휴대성 강화' 갤럭시Z 폴드·플립7, 中 공세 속 시장 선도 나선다",
+        "date": "2025-07-10 21:26",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=344560"
+    },
+    {
+        "title": "삼성전자, 폴더블 주도권 강화…‘트라이폴드폰’ 연내 출시 예고",
+        "date": "2025-07-10 20:52",
+        "link": "https://n.news.naver.com/mnews/article/032/0003381944?sid=105"
+    },
+    {
+        "title": "더 얇고, 더 가볍고, 더 커졌네",
+        "date": "2025-07-10 20:40",
+        "link": "https://www.kyeongin.com/article/1745831"
+    },
+    {
+        "title": "'두께도, 무게도 줄었다'…삼성, AI 강화 '폴더블폰' 선점 가나",
+        "date": "2025-07-10 20:28",
+        "link": "https://n.news.naver.com/mnews/article/437/0000448103?sid=101"
+    },
+    {
+        "title": "삼성 새 폴더블폰 공개…1cm 벽 깼다",
+        "date": "2025-07-10 20:04",
+        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1489645"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7' 공개… 울트라 경험을 펼치다",
+        "date": "2025-07-10 19:50",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=131042"
+    },
+    {
+        "title": "베일 벗은 갤Z폴드7·플립7…노태문 “모바일 AI 대중화”",
+        "date": "2025-07-10 19:48",
+        "link": "https://www.sentv.co.kr/article/view/sentv202507100081"
+    },
+    {
+        "title": "4.2mm…초슬림 폴더블폰 전쟁",
+        "date": "2025-07-10 19:45",
+        "link": "https://n.news.naver.com/mnews/article/449/0000314442?sid=101"
+    },
+    {
+        "title": "오세현 아산시장, 삼성디스플레이 방문해 협력 방안 논의",
+        "date": "2025-07-10 19:44",
+        "link": "http://www.globalepic.co.kr/view.php?ud=20250710160305364647f28d89cf_29"
+    },
+    {
+        "title": "아산시장, 삼성디스플레이 방문, 삼성의 경쟁력은 곧 아산의 경쟁력임 ...",
+        "date": "2025-07-10 19:36",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=377644"
+    },
+    {
+        "title": "삼성전자, 올해 4억대 기기에 '갤럭시 AI' 탑재",
+        "date": "2025-07-10 18:46",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290381561139"
+    },
+    {
+        "title": "하이센스, 고주사율 갖춘 100형 게이밍 TV 출시",
+        "date": "2025-07-10 18:45",
+        "link": "https://n.news.naver.com/mnews/article/030/0003330434?sid=105"
+    },
+    {
+        "title": "아산시, 삼성디스플레이와 협력 방안 논의",
+        "date": "2025-07-10 18:44",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=810839"
+    },
+    {
+        "title": "[써보니] 갤럭시 Z 폴드7·플립7, '슬림+AI' 진화...'카툭튀'는 아쉬워",
+        "date": "2025-07-10 18:36",
+        "link": "https://www.newspim.com/news/view/20250710000908"
+    },
+    {
+        "title": "폴더블 약점 개선 혁신…삼성전자 갤럭시 Z 폴드·플립7 공개",
+        "date": "2025-07-10 18:30",
+        "link": "http://www.jndn.com/article.php?aid=1752139616413327004"
+    },
+    {
+        "title": "삼성, 갤럭시 폴더블 3종 출시...'제미나이 라이브' 탑재",
+        "date": "2025-07-10 18:28",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=200544"
+    },
+    {
+        "title": "애플 ‘2인자’ 윌리엄스 연말 은퇴…후계 구도 관심",
+        "date": "2025-07-10 18:14",
+        "link": "https://n.news.naver.com/mnews/article/024/0000098428?sid=101"
+    },
+    {
+        "title": "삼성 ‘역대급 성능·두께’ 폴더블폰 공개…갤Z폴드7에 호평 쏟아져",
+        "date": "2025-07-10 18:13",
+        "link": "https://n.news.naver.com/mnews/article/024/0000098427?sid=101"
+    },
+    {
+        "title": "삼성 두번 접는 폰 연내 출시…갤럭시 4억대에 AI 탑재",
+        "date": "2025-07-10 18:13",
+        "link": "https://n.news.naver.com/mnews/article/015/0005156386?sid=101"
+    },
+    {
+        "title": "XR헤드셋도 곧 출격…애플·메타에 '도전장'",
+        "date": "2025-07-10 18:11",
+        "link": "https://n.news.naver.com/mnews/article/015/0005156384?sid=101"
+    },
+    {
+        "title": "화웨이 추월하고 애플 따돌린다 '폴더블 초격차' 선언한 삼성전자",
+        "date": "2025-07-10 18:06",
+        "link": "https://n.news.naver.com/mnews/article/009/0005523026?sid=105"
+    },
+    {
+        "title": "'Z폴드' 강화유리 공급 도우인시스…“세번 접히는 유리 출시” [IPO톡톡...",
+        "date": "2025-07-10 18:05",
+        "link": "https://n.news.naver.com/mnews/article/215/0001215818?sid=101"
+    },
+    {
+        "title": "[갤럭시 언팩] 삼성, 두 번 접는 '트라이폴드폰' 연내 출시 예고... 모바...",
+        "date": "2025-07-10 18:02",
+        "link": "https://www.ajunews.com/view/20250710114956578"
+    },
+    {
+        "title": "애플, 올해 출시 목표로 2세대 '비전 프로' 개발...변화는 크지 않아",
+        "date": "2025-07-10 18:00",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=200535"
+    },
+    {
+        "title": "삼성전자 올해 말까지 4억 대의 갤럭시 기기에 '갤럭시 AI' 탑재",
+        "date": "2025-07-10 18:00",
+        "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=409430"
+    },
+    {
+        "title": "퀄컴 '스냅드래곤 8' 플랫폼, 삼성 갤럭시 Z 폴드7에 탑재",
+        "date": "2025-07-10 18:00",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=66970"
+    },
+    {
+        "title": "퀄컴, 삼성과 협력 확대 ··· 폴드7에 '스냅드래곤 8 엘리트' 탑재",
+        "date": "2025-07-10 17:56",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=203576"
+    },
+    {
+        "title": "[단독] 이번엔 eSIM·5G 관련…삼성전자 또 NPE에 제소당했다",
+        "date": "2025-07-10 17:54",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=495785"
+    },
+    {
+        "title": "더 날씬해진 'Z폴더7', 넘사벽 AI 장착...아이폰 유저 고민되겠네",
+        "date": "2025-07-10 17:54",
+        "link": "https://www.m-economynews.com/news/article.html?no=57007"
+    },
+    {
+        "title": "휴대성·디자인·AI 다 잡았다…삼성전자, '울트라급' 폴더블 혁신 갤럭...",
+        "date": "2025-07-10 17:54",
+        "link": "https://n.news.naver.com/mnews/article/117/0003963405?sid=105"
+    },
+    {
+        "title": "노태문 두번 접는 스마트폰 연내 출시",
+        "date": "2025-07-10 17:54",
+        "link": "https://n.news.naver.com/mnews/article/011/0004507669?sid=101"
+    },
+    {
+        "title": "오세현 아산시장, 삼성디스플레이와 '위기 극복' 맞손",
+        "date": "2025-07-10 17:52",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=509280"
+    },
+    {
+        "title": "폴더블 왕좌 굳힌다…삼성 Z7 시리즈 공개",
+        "date": "2025-07-10 17:50",
+        "link": "https://n.news.naver.com/mnews/article/215/0001215815?sid=101"
+    },
+    {
+        "title": "'삼성vs중국' 폴더블폰 본격 경쟁…최적화가 관건",
+        "date": "2025-07-10 17:50",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092143947"
+    },
+    {
+        "title": "접어도 일반폰 두께…삼성 갤럭시Z7, 뉴욕서 쏟아진 환호 [폴더블 언팩...",
+        "date": "2025-07-10 17:48",
+        "link": "https://news.mtn.co.kr/news-detail/2025071016442821217"
+    },
+    {
+        "title": "‘만년 적자’ LG디스플레이, 반년만에 또 ‘적자’ …“애플 아이폰·...",
+        "date": "2025-07-10 17:44",
+        "link": "https://www.ceoscoredaily.com/page/view/2025071017152291360"
+    },
+    {
+        "title": "[더벨][삼성 갤럭시Z7 언팩]폴더블 리더십 강화, 트라이폴드폰 '연내' 출...",
+        "date": "2025-07-10 17:42",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507101114336720109196"
+    },
+    {
+        "title": "삼성전자, 트라이폴드폰·스마트안경 연내 출시한다",
+        "date": "2025-07-10 17:42",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202507100954323720128"
+    },
+    {
+        "title": "[더벨][삼성 갤럭시Z7 언팩]해외 MZ 노린다, '컬처 마케팅' 본격화",
+        "date": "2025-07-10 17:42",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507100632405460103048"
+    },
+    {
+        "title": "[더벨][삼성 갤럭시Z7 언팩]온디바이스AI 고도화, 'LPW D램' 적용 가능성",
+        "date": "2025-07-10 17:42",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507100915200700107176"
+    },
+    {
+        "title": "도우인시스 내년 폴더블폰 시장 반등 수혜 기대...애플 질문엔 NDA",
+        "date": "2025-07-10 17:40",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=38064"
+    },
+    {
+        "title": "'두께의 한계' 뚫은 갤럭시 Z 폴드7, 소비자 마음도 뚫릴까",
+        "date": "2025-07-10 17:38",
+        "link": "https://www.bizhankook.com/bk/article/29941"
+    },
+    {
+        "title": "삼성, XR헤드셋 연내 출격…갤럭시 4억대에 AI 심는다",
+        "date": "2025-07-10 17:37",
+        "link": "https://n.news.naver.com/mnews/article/011/0004507637?sid=101"
+    },
+    {
+        "title": "중앙대, 차세대 OLED 발광 기술 도약 이끈다",
+        "date": "2025-07-10 17:36",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=509246"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7' 공개",
+        "date": "2025-07-10 17:34",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1068471"
+    },
+    {
+        "title": "[리뷰]충전단자 구멍만 간신히 있을 정도…진짜 얇아진 폴드7",
+        "date": "2025-07-10 17:30",
+        "link": "https://n.news.naver.com/mnews/article/003/0013355982?sid=105"
+    },
+    {
+        "title": "엔비디아 4조 달러, 'AI 빅뱅'의 신호탄",
+        "date": "2025-07-10 17:30",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=257537"
+    },
+    {
+        "title": "젤스 M&amp;A에 갤워치8 존재감 '업'…헬스케어 '정조준' 했다",
+        "date": "2025-07-10 17:29",
+        "link": "https://n.news.naver.com/mnews/article/648/0000037789?sid=101"
+    },
+    {
+        "title": "[체험기] 갤럭시Z플립7, 디자인 개선하고 전력 효율도 높여",
+        "date": "2025-07-10 17:28",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=600408"
+    },
+    {
+        "title": "[N2 뷰] 삼성전자, 고성능 ‘갤럭시 Z 플립·폴드7’으로 AI 폴더블 스마...",
+        "date": "2025-07-10 17:26",
+        "link": "https://www.news2day.co.kr/article/20250710500207"
+    },
+    {
+        "title": "삼성전자, 연말까지 '갤럭시 AI' 기기 4억대로 늘린다",
+        "date": "2025-07-10 17:26",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7119220"
+    },
+    {
+        "title": "[갤럭시 언팩] 아메리카노보다 가벼운 폴드7, 내구성에 쏠리는 눈",
+        "date": "2025-07-10 17:24",
+        "link": "https://news.dealsitetv.com/articles/156573"
+    },
+    {
+        "title": "첫 시총 '4조달러' 엔비디아, 최초 '3조달러' 애플 계보 이어",
+        "date": "2025-07-10 17:24",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=257560"
+    },
+    {
+        "title": "신형 폴더블 기다렸다…이통사 보조금 전쟁",
+        "date": "2025-07-10 17:23",
+        "link": "https://n.news.naver.com/mnews/article/215/0001215805?sid=101"
+    },
+    {
+        "title": "오세현 시장, 삼성디스플레이와 지역경제 협력 강화 논의",
+        "date": "2025-07-10 17:22",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1165101"
+    },
+    {
+        "title": "더 얇고, 더 가볍고, 더 똑똑한 갤럭시 폴더블폰",
+        "date": "2025-07-10 17:20",
+        "link": "http://www.econotelling.com/news/articleView.html?idxno=17356"
+    },
+    {
+        "title": "곡성군 곡성몰, 달콤쫀득 여름 한입_ 애플망고‧흑찰옥수수 할인전 진행",
+        "date": "2025-07-10 17:18",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=238594"
+    },
+    {
+        "title": "오세현 아산시장, 삼성디스플레이 방문, 상생협력 방안 논의",
+        "date": "2025-07-10 17:14",
+        "link": "http://www.dtnews24.com/news/articleView.html?idxno=794167"
+    },
+    {
+        "title": "갤럭시S25만큼 얇고 콘칩보다 가벼워…이게 삼성의 기술력",
+        "date": "2025-07-10 17:11",
+        "link": "https://n.news.naver.com/mnews/article/008/0005220012?sid=101"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7' 공개…울트라 경험을 펼치다(중복 기사)",
+        "date": "2025-07-10 17:10",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=476049"
+    },
+    {
+        "title": "뉴욕서 'Z폴드7' 공개‥'AI·초슬림' 폴더블폰",
+        "date": "2025-07-10 17:04",
+        "link": "https://n.news.naver.com/mnews/article/214/0001435500?sid=101"
+    },
+    {
+        "title": "곡성몰, ‘달콤쫀득 여름 한입’ 애플망고흑찰옥수수 할인전 진행",
+        "date": "2025-07-10 17:02",
+        "link": "https://www.cnbnews.com/news/article.html?no=737370"
+    },
+    {
+        "title": "중앙대, 차세대 OLED 발광 기술 개발",
+        "date": "2025-07-10 17:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006062376?sid=102"
+    },
+    {
+        "title": "[써보니] 다이어트 끝낸 '폴드7'…두껍고 무거운 폴더블폰 인식 '한방'에...",
+        "date": "2025-07-10 17:00",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=803045"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z’ 7세대 및 워치8 공개…모바일 AI 대중화 선도",
+        "date": "2025-07-10 17:00",
+        "link": "https://n.news.naver.com/mnews/article/666/0000077975?sid=101"
+    },
+    {
+        "title": "삼성전자, 모바일AI 대중화 주도…올해 4억대 이상에 '갤럭시 AI' 탑재",
+        "date": "2025-07-10 16:56",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3011041"
+    },
+    {
+        "title": "“유기소재 TSMC 도약”…한켐, 반도체·의약 CDMO로 제2성장 시동[코스...",
+        "date": "2025-07-10 16:56",
+        "link": "https://n.news.naver.com/mnews/article/018/0006062354?sid=101"
+    },
+    {
+        "title": "[체험기] 얇아지고 똑똑해지고…삼성 갤럭시 Z 플립·폴드7 써보니",
+        "date": "2025-07-10 16:54",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250710010006308"
+    },
+    {
+        "title": "삼성전자, '갤럭시 AI' 탑재…모바일 AI 대중화 선도",
+        "date": "2025-07-10 16:54",
+        "link": "http://www.100ssd.co.kr/news/articleView.html?idxno=123340"
+    },
+    {
+        "title": "'폴더블 명가' 자리 지킨다···삼성전자, '갤럭시 Z 폴드·플립7' 만나...",
+        "date": "2025-07-10 16:52",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=267305"
+    },
+    {
+        "title": "노태문 삼성 사장, 3단 폴더블 스마트폰 연내 출시 공식화",
+        "date": "2025-07-10 16:52",
+        "link": "https://kbench.com/?q=node/269295"
+    },
+    {
+        "title": "[DD퇴근길] 얇지만 강하다…삼성, Z플립7·폴드7·워치8 라인업 대공개",
+        "date": "2025-07-10 16:52",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200437?sid=105"
+    },
+    {
+        "title": "[현장] 삼성전자, 갤럭시 신제품 공개…폴드7 더 큰데, 더 가벼워졌다...",
+        "date": "2025-07-10 16:50",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=641570"
+    },
+    {
+        "title": "화면은 커지고 펜은 사라져…갤Z폴드7, '경량화 vs 완성도' 딜레마 [써보...",
+        "date": "2025-07-10 16:50",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092143926"
+    },
+    {
+        "title": "시계에 명령하면 폰으로 차르르…삼성 ‘AI 비서’ 승부수",
+        "date": "2025-07-10 16:48",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1268028&inflow=N"
+    },
+    {
+        "title": "삼성전자, ‘AI폰’ 3대 전략...‘하드웨어·가우스·젤스’가 이끈다",
+        "date": "2025-07-10 16:48",
+        "link": "https://n.news.naver.com/mnews/article/018/0006062333?sid=105"
+    },
+    {
+        "title": "삼성 갤럭시Z폴드7·워치8시리즈 안에 '위츠' 들어있다...무선충전 모듈...",
+        "date": "2025-07-10 16:48",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1241791"
+    },
+    {
+        "title": "곡성몰, '달콤쫀득 여름 한입!'... 애플망고·흑찰옥수수 할인전 진행",
+        "date": "2025-07-10 16:46",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=386368"
+    },
+    {
+        "title": "[체험기] ‘넓고 밝은 화면’ 갤Z플립7, 야외 촬영 편리… ‘갤S처럼 주...",
+        "date": "2025-07-10 16:44",
+        "link": "https://n.news.naver.com/mnews/article/366/0001091579?sid=105"
+    },
+    {
+        "title": "오세현 아산시장, 삼성디스플레이 방문 협력 방안 논의",
+        "date": "2025-07-10 16:44",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=838558"
+    },
+    {
+        "title": "라그 백 투 글로리, 갤럭시 스토어로도 받을 수 있다",
+        "date": "2025-07-10 16:44",
+        "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=94375"
+    },
+    {
+        "title": "[해봤습니다] 슬림해진 '갤럭시Z 폴드7', 얼마나 얇아졌기에...",
+        "date": "2025-07-10 16:42",
+        "link": "https://www.todayeconomic.com/news/article.html?no=27755"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치8·워치8 클래식' 공개",
+        "date": "2025-07-10 16:40",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290338670517"
+    },
+    {
+        "title": "매터 기반 스마트홈 급성장...국내 생태계는 '걸음마'",
+        "date": "2025-07-10 16:40",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=200598"
+    },
+    {
+        "title": "두께·AI·주름 모두 달라졌다…삼성전자, '갤럭시 플립7·폴드7' 공개",
+        "date": "2025-07-10 16:40",
+        "link": "http://www.metroseoul.co.kr/article/20250710500476"
+    },
+    {
+        "title": "삼성 갤럭시Z7 출격…폴더블 리더십·실적반등 승부수",
+        "date": "2025-07-10 16:38",
+        "link": "https://www.ekn.kr/web/view.php?key=20250710022175052"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치8 시리즈 공개",
+        "date": "2025-07-10 16:38",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=200605"
+    },
+    {
+        "title": "오세현 아산시장, 삼성디스플레이 방문해 협력 방안 논의",
+        "date": "2025-07-10 16:38",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1241733"
+    },
+    {
+        "title": "번호이동·단통법 폐지 ‘기회’…‘갤럭시 Z7’ 마케팅 뜨겁다",
+        "date": "2025-07-10 16:34",
+        "link": "https://www.ekn.kr/web/view.php?key=20250710023295018"
+    },
+    {
+        "title": "보급형 폴더블 '갤럭시Z 플립7 FE', 미국 이통사 판매 제외",
+        "date": "2025-07-10 16:32",
+        "link": "https://kbench.com/?q=node/269294"
+    },
+    {
+        "title": "베일 벗은 '갤럭시 Z 폴드7'…하반기 삼성 실적 견인할까",
+        "date": "2025-07-10 16:30",
+        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=173018"
+    },
+    {
+        "title": "삼성 One UI 8 발표했지만…기존 갤럭시 유저는 또 '패싱'?",
+        "date": "2025-07-10 16:28",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533346"
+    },
+    {
+        "title": "삼성전자, 폴드7 전면 배치…가격·범용성·생태계 '3중 과제'",
+        "date": "2025-07-10 16:27",
+        "link": "https://www.newspim.com/news/view/20250710000979"
+    },
+    {
+        "title": "印 매체 삼성, 인도서 미국 판매용 제품 생산할 수도",
+        "date": "2025-07-10 16:24",
+        "link": "https://www.newspim.com/news/view/20250710000974"
+    },
+    {
+        "title": "도우인시스 세계 최초 플렉서블 UTG 상용화...코스닥 상장 통해 시장 선...",
+        "date": "2025-07-10 16:22",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1241683"
+    },
+    {
+        "title": "강력한 신작 폴드7 시리즈로 돌아온 삼성, 핵심은 'AI'",
+        "date": "2025-07-10 16:19",
+        "link": "https://n.news.naver.com/mnews/article/088/0000958301?sid=101"
+    },
+    {
+        "title": "“더 얇아진 폴드·플립7”…삼성, 두번접는 트라이폴드 향한 포석",
+        "date": "2025-07-10 16:18",
+        "link": "http://theviewers.co.kr/View.aspx?No=3707926"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7' 공개",
+        "date": "2025-07-10 16:16",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290667539405"
+    },
+    {
+        "title": "삼성전자, '울트라'급 폴더블 '갤럭시 Z 폴드7·플립7' 공개…AI로 한계...",
+        "date": "2025-07-10 16:12",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=357830"
+    },
+    {
+        "title": "김재민 중앙대 교수 연구팀, 차세대 OLED 발광 기술 도약 이끈다",
+        "date": "2025-07-10 16:12",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1258908"
+    },
+    {
+        "title": "페이스에 맞는 러닝화 추천 좀 갤Z7, AI가 화면·발화 인지하고 알아서...",
+        "date": "2025-07-10 16:11",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200432?sid=105"
+    },
+    {
+        "title": "삼성 노태문 트라이폴드폰·XR 헤드셋, 연내 출시…'AI 생태계' 확장 ...",
+        "date": "2025-07-10 16:10",
+        "link": "http://www.metroseoul.co.kr/article/20250710500433"
+    },
+    {
+        "title": "삼성, 美서 '2025 갤럭시 언팩' 개최…AI 미래 경험 제시",
+        "date": "2025-07-10 16:08",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=476509"
+    },
+    {
+        "title": "'차량용 보안SW' 아우토크립트 15일 상장 [위클리 마켓]",
+        "date": "2025-07-10 16:07",
+        "link": "https://n.news.naver.com/mnews/article/009/0005522828?sid=101"
+    },
+    {
+        "title": "폴더블에 깃든 AI, 구글-삼성, 모바일 경험 새로 쓴다",
+        "date": "2025-07-10 16:04",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=233475"
+    },
+    {
+        "title": "삼성전자, 연말까지 갤럭시 AI 4억대 탑재한다",
+        "date": "2025-07-10 16:02",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=233470"
+    },
+    {
+        "title": "갤Z플립7, 전량 엑시노스 2500 채용…삼성 NPU, AI 등 각종 성능 충족",
+        "date": "2025-07-10 16:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200431?sid=105"
+    },
+    {
+        "title": "폴드7 등장에 뉴욕 한복판 인산인해… 1만명 홀린 ‘뉴 갤럭시 3총사’",
+        "date": "2025-07-10 16:00",
+        "link": "https://n.news.naver.com/mnews/article/005/0001788936?sid=101"
+    },
+    {
+        "title": "‘무게ㆍ두께에 자존심 걸었다’ 삼성 갤럭시 Z 폴드ㆍ플립 7 공개",
+        "date": "2025-07-10 15:58",
+        "link": "https://it.donga.com/107227/"
+    },
+    {
+        "title": "AI·디자인은 호평, 가격은 여전히 부담…외신이 평가한 갤럭시 언팩 20...",
+        "date": "2025-07-10 15:56",
+        "link": "https://n.news.naver.com/mnews/article/009/0005522815?sid=101"
+    },
+    {
+        "title": "“얇고 가볍고 넓게”…갤럭시Z 폴드7, 반등 노리는 삼성",
+        "date": "2025-07-10 15:55",
+        "link": "https://n.news.naver.com/mnews/article/056/0011986750?sid=101"
+    },
+    {
+        "title": "더 얇아지고 더 커졌다⋯삼성전자, 역대급 '갤럭시 Z 폴드·플립7' 공개",
+        "date": "2025-07-10 15:54",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1295706"
+    },
+    {
+        "title": "삼성 '갤럭시 워치8 시리즈' 베일 벗다⋯스마트워치 최초 항산화 지수·...",
+        "date": "2025-07-10 15:54",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1295707"
+    },
+    {
+        "title": "삼성전자, 신상 폴더블폰 '갤럭시 Z 플립7' 공개",
+        "date": "2025-07-10 15:50",
+        "link": "https://www.newspim.com/news/view/20250710000939"
+    },
+    {
+        "title": "공개되는 갤럭시 워치8 시리즈",
+        "date": "2025-07-10 15:50",
+        "link": "https://www.newspim.com/news/view/20250710000937"
+    },
+    {
+        "title": "베일 벗은 삼성 '갤럭시 Z 플립·폴드7'",
+        "date": "2025-07-10 15:50",
+        "link": "https://www.newspim.com/news/view/20250710000938"
+    },
+    {
+        "title": "삼성전자, 신형 폴더블폰 '갤럭시 Z폴드7·플립7' 공개",
+        "date": "2025-07-10 15:49",
+        "link": "https://www.newspim.com/news/view/20250710000934"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드·플립7·갤럭시 워치8 공개",
+        "date": "2025-07-10 15:49",
+        "link": "https://www.newspim.com/news/view/20250710000932"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 플립·폴드 7 공개",
+        "date": "2025-07-10 15:49",
+        "link": "https://www.newspim.com/news/view/20250710000926"
+    },
+    {
+        "title": "삼성 갤럭시 Z폴드7·플립7 공개",
+        "date": "2025-07-10 15:49",
+        "link": "https://www.newspim.com/news/view/20250710000928"
+    },
+    {
+        "title": "더 얇아진 '갤럭시 Z 폴드7'",
+        "date": "2025-07-10 15:49",
+        "link": "https://www.newspim.com/news/view/20250710000933"
+    },
+    {
+        "title": "가벼운데 예쁘기까지…폴더블 선입견 싹 지운 '갤럭시Z 폴드7·플립7'",
+        "date": "2025-07-10 15:47",
+        "link": "https://n.news.naver.com/mnews/article/629/0000406276?sid=105"
+    },
+    {
+        "title": "더 얇고 가벼워졌다...삼성전자, 갤럭시 Z 플립7 공개",
+        "date": "2025-07-10 15:46",
+        "link": "https://www.ajunews.com/view/20250710151216765"
+    },
+    {
+        "title": "삼성전자, 미국서 갤럭시 폴드7·플립7 첫선…더 얇아지고 화면은 커졌...",
+        "date": "2025-07-10 15:44",
+        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=171321"
+    },
+    {
+        "title": "[갤럭시 언팩] '폴더블'이 더 얇아지기까지…삼성전자 설계 허들 많았...",
+        "date": "2025-07-10 15:42",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025071015332256334"
+    },
+    {
+        "title": "삼성전자, AI 강화 '갤럭시 Z 플립7' 공개...커버 스크린 중심의 혁신",
+        "date": "2025-07-10 15:42",
+        "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=313264"
+    },
+    {
+        "title": "삼성전자, 더 얇고 가벼운 갤럭시 Z 폴드7·플립7 공개…관세 불확실성...",
+        "date": "2025-07-10 15:40",
+        "link": "http://www.fieldnews.kr/news/articleView.html?idxno=19202"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 플립7·폴드7' 공개…휴대성·성능·AI 삼박자",
+        "date": "2025-07-10 15:36",
+        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6903436"
+    },
+    {
+        "title": "IPO 나선 도우인시스 옥경석 대표 세계 첫 초박형 강화유리 상용화",
+        "date": "2025-07-10 15:36",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=344549"
+    },
+    {
+        "title": "삼성 폴더블폰 UTG 독점 공급... 도우인시스, 글로벌 플렉시블 시장 선점...",
+        "date": "2025-07-10 15:34",
+        "link": "https://www.meconomynews.com/news/articleView.html?idxno=116185"
+    },
+    {
+        "title": "삼성, 역대 최강 폴더블폰 'Z 폴드7' 공개…초슬림 대화면에 갤럭시 AI ...",
+        "date": "2025-07-10 15:30",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=89048"
+    },
+    {
+        "title": "삼성, 폴더블폰으로 '프리미엄 시장' 지배 굳힌다",
+        "date": "2025-07-10 15:30",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=42295"
+    },
+    {
+        "title": "[현장] 향상된 AI 성능에 디자인까지 겸비…갤럭시 Z 신제품 살펴보니",
+        "date": "2025-07-10 15:30",
+        "link": "http://www.segyebiz.com/newsView/20250710513155?OutUrl=naver"
+    },
+    {
+        "title": "갤럭시 AI 탑재 목표 '2억→4억'...노태문 혁신으로 시장 선도",
+        "date": "2025-07-10 15:30",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=257504"
+    },
+    {
+        "title": "[체험기] 갤럭시Z폴드7, 커피 한 잔 무게로 울트라급 성능 구현",
+        "date": "2025-07-10 15:25",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=600386"
+    },
+    {
+        "title": "'2030 여심'에 달렸다…삼성 폴더블폰 '자사 AP' 첫 탑재 [영상]",
+        "date": "2025-07-10 15:24",
+        "link": "https://n.news.naver.com/mnews/article/015/0005156209?sid=105"
+    },
+    {
+        "title": "곡성몰, 여름철 대표 농산물 최대 40% 할인… 애플망고·흑찰옥수수 맛...",
+        "date": "2025-07-10 15:22",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3291789"
+    },
+    {
+        "title": "곡성몰, 여름 농산물 할인 기획전…애플망고·흑찰옥수수 최대 40% 할인",
+        "date": "2025-07-10 15:22",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=830595"
+    },
+    {
+        "title": "[포토] 삼성전자 갤럭시Z 폴드7 시연",
+        "date": "2025-07-10 15:21",
+        "link": "https://n.news.naver.com/mnews/article/030/0003330349?sid=105"
+    },
+    {
+        "title": "도우인시스 UTG 기술로 승부...신규 폼팩터 시장 공략",
+        "date": "2025-07-10 15:19",
+        "link": "https://www.newspim.com/news/view/20250710000800"
+    },
+    {
+        "title": "'갤Z폴드7 만져보니' 다이어트 성공…전방위적 혁신",
+        "date": "2025-07-10 15:18",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2081468"
+    },
+    {
+        "title": "[갤럭시Z7 언팩] '울트라급' 폴더블 혁신 정점",
+        "date": "2025-07-10 15:16",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=95534"
+    },
+    {
+        "title": "'폴더블폰' 불티 나더니…年 1400억씩 벌어요 대박 난 회사",
+        "date": "2025-07-10 15:16",
+        "link": "https://n.news.naver.com/mnews/article/015/0005156207?sid=101"
+    },
+    {
+        "title": "ASUS, 게이밍 노트북 ‘TUF A14’ 출시, 쿠팡 사전 예약 및 총 700만원 상...",
+        "date": "2025-07-10 15:16",
+        "link": "https://kbench.com/?q=node/269289"
+    },
+    {
+        "title": "곡성몰, '달콤쫀득 여름 한입!' 애플망고‧흑찰옥수수 할인전 진행",
+        "date": "2025-07-10 15:16",
+        "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=409412"
+    },
+    {
+        "title": "곡성몰, '달콤쫀득 여름 한입!' 애플망고 흑찰옥수수 할인전 진행",
+        "date": "2025-07-10 15:15",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2301665"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시Z 플립·폴드7’ 공개… 더 얇고 가벼워, AI와 음성 대...",
+        "date": "2025-07-10 15:11",
+        "link": "https://n.news.naver.com/mnews/article/310/0000127728?sid=101"
+    },
+    {
+        "title": "갤Z플립7 흥행에 삼성전자 파운드리 운명 달렸다?",
+        "date": "2025-07-10 15:10",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=600387"
+    },
+    {
+        "title": "[현장]삼성전자, 갤럭시 Z 폴드7·플립7·워치8 공개...'슬림·내구·AI' ...",
+        "date": "2025-07-10 15:08",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=433756"
+    },
+    {
+        "title": "삼성 노태문 사장, 갤럭시 AI, 연말까지 4억대 탑재 모바일 AI 대중화...",
+        "date": "2025-07-10 15:08",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533339"
+    },
+    {
+        "title": "갤럭시 Z 폴드7, 가장 얇고 가볍다",
+        "date": "2025-07-10 15:06",
+        "link": "https://www.consumuch.com/news/articleView.html?idxno=75646"
+    },
+    {
+        "title": "노태문 사장 모바일 AI 대중화, 갤럭시가 선도",
+        "date": "2025-07-10 15:06",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=200600"
+    },
+    {
+        "title": "삼성전자, 올해 4억대 기기에 '갤럭시 AI' 탑재...모바일 AI 대중화 갤럭...",
+        "date": "2025-07-10 15:04",
+        "link": "http://www.lkp.news/news/articleView.html?idxno=66515"
+    },
+    {
+        "title": "노태문 삼성전자 사장 갤럭시 4억대에 AI 탑재, 대중화 선도할 것",
+        "date": "2025-07-10 15:00",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=302715"
+    },
+    {
+        "title": "2분기 中 스마트폰 판매량 소폭 증가…화웨이, 시장 1위 탈환",
+        "date": "2025-07-10 15:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=174405"
+    },
+    {
+        "title": "코스닥 노크하는 도우인시스 IPO로 캐파 100만개 늘린다",
+        "date": "2025-07-10 14:56",
+        "link": "https://n.news.naver.com/mnews/article/648/0000037782?sid=101"
+    },
+    {
+        "title": "날씬해진 삼성전자 갤Z폴드7, '아재폰' 이미지 벗을까",
+        "date": "2025-07-10 14:56",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=413281"
+    },
+    {
+        "title": "노태문 삼성전자 사장 올해 4억대 기기에 '갤럭시 AI' 탑재",
+        "date": "2025-07-10 14:56",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3291778"
+    },
+    {
+        "title": "고릴라 글라스 '코닝' 꿈꾸는 '이 회사'…코스닥 출격 임박",
+        "date": "2025-07-10 14:54",
+        "link": "https://n.news.naver.com/mnews/article/008/0005219845?sid=101"
+    },
+    {
+        "title": "김재민 중앙대 첨단소재공학과 교수 연구팀, 인광체 감광형 형광(PSF) OL...",
+        "date": "2025-07-10 14:54",
+        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=110208"
+    },
+    {
+        "title": "[체험기] 내가 알던 폴더블 맞아?, 역대급으로 얇아진 갤럭시Z폴드7 사...",
+        "date": "2025-07-10 14:52",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=402850"
+    },
+    {
+        "title": "그라비티, 3D MMORPG '라그나로크' 갤럭시 스토어 정식 론칭",
+        "date": "2025-07-10 14:50",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2301587"
+    },
+    {
+        "title": "[포토] 삼성전자 갤럭시Z 폴드7과 갤럭시Z 플립7",
+        "date": "2025-07-10 14:49",
+        "link": "https://n.news.naver.com/mnews/article/030/0003330316?sid=105"
+    },
+    {
+        "title": "노태문 삼성전자 AI 대중화로 초격차 벌린다, 갤럭시 AI 탑재 4억 대 이...",
+        "date": "2025-07-10 14:48",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=402843"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·플립7 공개",
+        "date": "2025-07-10 14:46",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=200586"
+    },
+    {
+        "title": "삼성전자, 올해 4억대 기기에 '갤럭시 AI' 탑재…모바일 AI 대중화 선언",
+        "date": "2025-07-10 14:46",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=98192"
+    },
+    {
+        "title": "삼성, 이게 된다고? 완전히 다른 폰…확 얇아진 '폴드7'에 반응 '폭발...",
+        "date": "2025-07-10 14:40",
+        "link": "https://n.news.naver.com/mnews/article/243/0000081049?sid=101"
+    },
+    {
+        "title": "삼성전자, 올해 기기 4억대에 '갤럭시 AI' 탑재",
+        "date": "2025-07-10 14:40",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=641494"
+    },
+    {
+        "title": "마의 1㎝ 두께 깨졌다…갤폴드 두께 변천사 보니",
+        "date": "2025-07-10 14:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=272140"
+    },
+    {
+        "title": "중앙대 김재민 교수 연구팀, 차세대 OLED 발광 기술 도약 이끈다",
+        "date": "2025-07-10 14:36",
+        "link": "https://news.unn.net/news/articleView.html?idxno=581103"
+    },
+    {
+        "title": "퀄컴 스냅드래곤 8 엘리트, 삼성 갤럭시 Z 폴드7에 탑재",
+        "date": "2025-07-10 14:36",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=96798"
+    },
+    {
+        "title": "[ER현장] 커피 한 잔보다 가볍다…갤럭시Z7 시리즈 열어보니",
+        "date": "2025-07-10 14:34",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=703087"
+    },
+    {
+        "title": "[포토] 이것이 삼성전자 신제품 갤럭시 Z폴드7과 갤럭시Z 플립7, 갤럭시...",
+        "date": "2025-07-10 14:34",
+        "link": "https://n.news.naver.com/mnews/article/030/0003330296?sid=105"
+    },
+    {
+        "title": "애플 출시 앞 대중적 인기 노렸다...외신, 삼성 '갤럭시 Z 플립·폴드7...",
+        "date": "2025-07-10 14:31",
+        "link": "https://n.news.naver.com/mnews/article/469/0000875215?sid=104"
+    },
+    {
+        "title": "삼성, 플래그십 태블릿 '갤럭시 탭 S11' 시리즈 9월 출시 암시",
+        "date": "2025-07-10 14:30",
+        "link": "https://kbench.com/?q=node/269278"
+    },
+    {
+        "title": "차세대 OLED 발광 기술 “점프 업”",
+        "date": "2025-07-10 14:28",
+        "link": "https://dhnews.co.kr/news/view/1065590597738011"
+    },
+    {
+        "title": "삼성전자, 역대 가장 얇은 '갤럭시 Z 폴드7' 공개",
+        "date": "2025-07-10 14:28",
+        "link": "http://www.jnilbo.com/77737323416"
+    },
+    {
+        "title": "경쟁사 AI 고속도로 질주하는데, 애플은 정차 중",
+        "date": "2025-07-10 14:26",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=48942"
+    },
+    {
+        "title": "[기자가 간다] 초슬림에 더 똑똑해진 AI 비서…'갤럭시 Z 폴드7'",
+        "date": "2025-07-10 14:22",
+        "link": "http://theviewers.co.kr/View.aspx?No=3707694"
+    },
+    {
+        "title": "중앙대 김재민 교수팀, 차세대 OLED 발광 기술 도약 이끈다",
+        "date": "2025-07-10 14:22",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=91536"
+    },
+    {
+        "title": "'갤럭시Z 폴드7'은 어떻게 두께를 48%나 줄였나",
+        "date": "2025-07-10 14:22",
+        "link": "https://www.newstree.kr/newsView/ntr202507100019"
+    },
+    {
+        "title": "[현장] 가볍고 얇아진 갤Z폴드7 현존 최고의 게이밍 스마트폰",
+        "date": "2025-07-10 14:20",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2090222"
+    },
+    {
+        "title": "모바일 AI 대중화 갤럭시가 선도!...올해 4억대 기기에 '갤럭시 AI' 탑...",
+        "date": "2025-07-10 14:20",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=832239"
+    },
+    {
+        "title": "그라비티, 3D MMORPG '라그나로크 : Back to Glory' 갤럭시 스토어 정식 론...",
+        "date": "2025-07-10 14:20",
+        "link": "http://gamefocus.co.kr/detail.php?number=167259"
+    },
+    {
+        "title": "[갤럭시 언팩] 착용감·성능 진화, 역대 가장 얇은 '워치8'",
+        "date": "2025-07-10 14:18",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=695723"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치8·워치8 클래식' 공개...고도화된 건강 인사이트...",
+        "date": "2025-07-10 14:18",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=160147"
+    },
+    {
+        "title": "[현장] 삼성 커피 한 잔 보다 가벼운 Z폴드7, 성능은 울트라급",
+        "date": "2025-07-10 14:18",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1670036"
+    },
+    {
+        "title": "[현장] 베일 벗은 ‘폴드7’…달라진 7가지",
+        "date": "2025-07-10 14:18",
+        "link": "http://www.datanews.co.kr/news/article.html?no=139601"
+    },
+    {
+        "title": "도우인시스, 폴더블향 UTG 양산라인 증설 박차…삼성·美 잠재 고객사 대...",
+        "date": "2025-07-10 14:09",
+        "link": "https://n.news.naver.com/mnews/article/092/0002381544?sid=105"
+    },
+    {
+        "title": "전작과 완전히 다른 폰 같아...삼성 폴더블폰에 외신 '엄지 척' [지금...",
+        "date": "2025-07-10 14:08",
+        "link": "https://n.news.naver.com/mnews/article/052/0002217081?sid=104"
+    },
+    {
+        "title": "얇고, 가볍고, 획기적이다…삼성전자, 갤럭시 Z 폴드7·플립7 공개",
+        "date": "2025-07-10 14:06",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=66941"
+    },
+    {
+        "title": "[현장] 성능과 디자인 모두 잡아...'자체 칩 탑재' 갤럭시 Z플립7 공개",
+        "date": "2025-07-10 14:04",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=257469"
+    },
+    {
+        "title": "하이센스, 미니LED 게이밍 TV 'U8Q' 출시",
+        "date": "2025-07-10 14:04",
+        "link": "https://n.news.naver.com/mnews/article/092/0002381542?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 애플 폴더블 전용 라인 구축",
+        "date": "2025-07-10 14:03",
+        "link": "https://n.news.naver.com/mnews/article/030/0003330268?sid=105"
+    },
+    {
+        "title": "[자막뉴스] 사상 첫 '시총 4조 달러'…MS·애플 제친 AI 제왕 '엔비디아...",
+        "date": "2025-07-10 14:03",
+        "link": "https://n.news.naver.com/mnews/article/055/0001274036?sid=104"
+    },
+    {
+        "title": "[현장] 갤럭시 Z 폴드 7·플립 7 직접 만져보니···얇고 강해졌다",
+        "date": "2025-07-10 14:02",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=114229"
+    },
+    {
+        "title": "[현장]반으로 '접힌' 삼성전자 영업이익...엑시노스 AP가 구원 투수 되나",
+        "date": "2025-07-10 14:00",
+        "link": "https://n.news.naver.com/mnews/article/469/0000875210?sid=105"
+    },
+    {
+        "title": "삼성전자,1cm 벽 깬 갤럭시Z폴드7...이러다 종잇장 될라",
+        "date": "2025-07-10 13:59",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=328617"
+    },
+    {
+        "title": "노태문 삼성전자 사장 올해까지 4억대 스마트폰에 갤럭시AI 탑재",
+        "date": "2025-07-10 13:58",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=328615"
+    },
+    {
+        "title": "갤럭시 Z 폴드7, 초기 모델 대비 50% 얇은 두께...비결은 '힌지'",
+        "date": "2025-07-10 13:55",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=328622"
+    },
+    {
+        "title": "삼성전자, 신형 폴더블 스마트폰 갤럭시 Z 폴드7 및 플립7 공개",
+        "date": "2025-07-10 13:54",
+        "link": "https://n.news.naver.com/mnews/article/003/0013355068?sid=105"
+    },
+    {
+        "title": "삼성전자, 신형 폴더블 스마트폰 갤럭시 Z 폴드7 및 플립7 공개",
+        "date": "2025-07-10 13:54",
+        "link": "https://n.news.naver.com/mnews/article/003/0013355066?sid=105"
+    },
+    {
+        "title": "삼성전자, 신형 폴더블 스마트폰 갤럭시 Z 폴드7 및 플립7 공개",
+        "date": "2025-07-10 13:54",
+        "link": "https://n.news.naver.com/mnews/article/003/0013355065?sid=105"
+    },
+    {
+        "title": "삼성전자, 신형 폴더블 스마트폰 갤럭시 Z 폴드7 및 플립7 공개",
+        "date": "2025-07-10 13:54",
+        "link": "https://n.news.naver.com/mnews/article/003/0013355063?sid=105"
+    },
+    {
+        "title": "삼성전자, 신형 폴더블 스마트폰 갤럭시 Z 폴드7 및 플립7 공개",
+        "date": "2025-07-10 13:54",
+        "link": "https://n.news.naver.com/mnews/article/003/0013355067?sid=105"
+    },
+    {
+        "title": "삼성전자, 신형 폴더블 스마트폰 갤럭시 Z 폴드7 및 플립7 공개",
+        "date": "2025-07-10 13:54",
+        "link": "https://n.news.naver.com/mnews/article/003/0013355074?sid=105"
+    },
+    {
+        "title": "이목 집중된 삼성전자, 신형 폴더블 스마트폰 갤럭시 Z 폴드7 및 플립7",
+        "date": "2025-07-10 13:54",
+        "link": "https://n.news.naver.com/mnews/article/003/0013355064?sid=105"
+    },
+    {
+        "title": "이목 집중된 삼성전자, 신형 폴더블 스마트폰 갤럭시 Z 폴드7 및 플립7",
+        "date": "2025-07-10 13:54",
+        "link": "https://n.news.naver.com/mnews/article/003/0013355061?sid=105"
+    },
+    {
+        "title": "전보다 더 강해진 삼성 갤럭시Z 폴드7과 플립7",
+        "date": "2025-07-10 13:53",
+        "link": "https://n.news.naver.com/mnews/article/003/0013355051?sid=105"
+    },
+    {
+        "title": "전보다 더 강해진 삼성 갤럭시Z 폴드7",
+        "date": "2025-07-10 13:53",
+        "link": "https://n.news.naver.com/mnews/article/003/0013355050?sid=105"
+    },
+    {
+        "title": "전보다 더 강해진 삼성 갤럭시Z 폴드7과 플립7",
+        "date": "2025-07-10 13:53",
+        "link": "https://n.news.naver.com/mnews/article/003/0013355049?sid=105"
+    },
+    {
+        "title": "기술의 혁신 해온 삼성 갤럭시 Z폴드 시리즈",
+        "date": "2025-07-10 13:53",
+        "link": "https://n.news.naver.com/mnews/article/003/0013355059?sid=105"
+    },
+    {
+        "title": "“콘칩 봉지보다 가볍다”…뉴욕서 베일 벗은 갤럭시Z 폴드7",
+        "date": "2025-07-10 13:52",
+        "link": "https://n.news.naver.com/mnews/article/020/0003647085?sid=105"
+    },
+    {
+        "title": "그라비티, 3D MMORPG '라그나로크 : Back to Glory' 갤럭시 스토어 정식 론...",
+        "date": "2025-07-10 13:50",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=433733"
+    },
+    {
+        "title": "'더 얇고 더 작은' AI 폴더블폰... 갤럭시 Z 플립·폴드7 공개",
+        "date": "2025-07-10 13:48",
+        "link": "https://www.ltn.kr/news/articleView.html?idxno=49085"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z플립7·Z폴드7·워치8시리즈 공개",
+        "date": "2025-07-10 13:48",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1151423"
+    },
+    {
+        "title": "갤Z 폴드7, 가벼워진 만큼 무거워진 책임",
+        "date": "2025-07-10 13:48",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=53730"
+    },
+    {
+        "title": "모나미 볼펜보다 얇네...'갤럭시 Z폴드7' 만져보니",
+        "date": "2025-07-10 13:48",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=257460"
+    },
+    {
+        "title": "중앙대 김재민 교수팀, 차세대 OLED 기술 'PSF OLED' 효율‧수명 동시 향...",
+        "date": "2025-07-10 13:45",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2301551"
+    },
+    {
+        "title": "[그래픽] 2024년 폴더블폰 시장 점유율",
+        "date": "2025-07-10 13:42",
+        "link": "https://www.ceoscoredaily.com/page/view/2025071011014223603"
+    },
+    {
+        "title": "삼성전자 노태문 갤럭시 AI, 올해 4억대 이상 기기로 확대",
+        "date": "2025-07-10 13:42",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1241557"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·플립7 공개…역대 가장 얇은 디자인",
+        "date": "2025-07-10 13:40",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=117446"
+    },
+    {
+        "title": "폴더블폰 한계 넘었다… 베일 벗은 삼성 갤Z 폴드7∙플립7, 역대급 얇기...",
+        "date": "2025-07-10 13:38",
+        "link": "http://woman.chosun.com/news/articleView.html?idxno=122028"
+    },
+    {
+        "title": "너무 얇아서 폴더블 아닌 줄 …갤Z폴드7에 쏟아진 외신 호평",
+        "date": "2025-07-10 13:32",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=272109"
+    },
+    {
+        "title": "중앙대, 차세대 OLED 발광 기술 도약 이끈다",
+        "date": "2025-07-10 13:30",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=139189"
+    },
+    {
+        "title": "중앙대 김재민 교수, 차세대 OLED 발광 기술 도약 이끈다",
+        "date": "2025-07-10 13:28",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=433724"
+    },
+    {
+        "title": "커피 한 잔보다 가볍다…삼성, '역대급 AI폰' 신형 폴더블폰 출시",
+        "date": "2025-07-10 13:26",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=228081"
+    },
+    {
+        "title": "MSI, 듀얼 모드 탑재한 게이밍 모니터 'MAG 272URDF800 E16' 출시... 다양...",
+        "date": "2025-07-10 13:26",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802039"
+    },
+    {
+        "title": "폴드7·플립7 왜 화제?…AI 기능 보고 놀랐다",
+        "date": "2025-07-10 13:25",
+        "link": "https://n.news.naver.com/mnews/article/001/0015499479?sid=105"
+    },
+    {
+        "title": "가장 얇고 가장 강력한... 삼성, 갤럭시Z 폴더블폰, 워치 선봬 [발품뉴...",
+        "date": "2025-07-10 13:22",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=91565"
+    },
+    {
+        "title": "노태문 연말까지 4억대 기기에 '갤럭시 AI' 탑재",
+        "date": "2025-07-10 13:22",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=331483"
+    },
+    {
+        "title": "삼성전자 신형 폴더블폰 세계 최초 공개...'접는 폰' 경쟁 치열",
+        "date": "2025-07-10 13:20",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202507101103263363"
+    },
+    {
+        "title": "중앙대, 차세대 OLED 발광 기술 도약 이끈다",
+        "date": "2025-07-10 13:18",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=257454"
+    },
+    {
+        "title": "[갤럭시 언팩]'젤스' 인수한 삼성전자…노태문 커텍티드 케어 플랫폼 ...",
+        "date": "2025-07-10 13:16",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025071012271645845"
+    },
+    {
+        "title": "더 얇고 가벼워진 갤럭시 폴더블폰 대중화 정조준",
+        "date": "2025-07-10 13:12",
+        "link": "https://www.naeil.com/news/read/554242?ref=naver"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7 공개…“가장 진보한 스마트폰 경험”",
+        "date": "2025-07-10 13:12",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=765426"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치8·워치8 클래식 공개…국내 사전판매 돌입",
+        "date": "2025-07-10 13:12",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=765461"
+    },
+    {
+        "title": "“모바일 AI 대중화 선도”…올해 4억대 기기에 갤럭시 AI 탑재",
+        "date": "2025-07-10 13:12",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=765455"
+    },
+    {
+        "title": "삼성전자 승부수… 더 얇고 가벼운 폴더블폰",
+        "date": "2025-07-10 13:12",
+        "link": "https://m.skyedaily.com/news_view.html?ID=278915"
+    },
+    {
+        "title": "이제 울트라를 펼쳐라…노태문 선언에 1200명 함성 터졌다",
+        "date": "2025-07-10 13:10",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=272092"
+    },
+    {
+        "title": "삼성전자 확 달라진 폴드7 설계…'두껍고 무겁다' 소비자 불만서 출발...",
+        "date": "2025-07-10 13:10",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=803006"
+    },
+    {
+        "title": "“커피 한 잔보다 가볍다”⋯ 내구성 높이고 무게 줄인 ‘갤 Z 폴드7’",
+        "date": "2025-07-10 13:06",
+        "link": "https://www.viva100.com/article/20250710500601"
+    },
+    {
+        "title": "[현장] 커피 한 잔보다 가볍고 울트라급 성능… 삼성전자, Z폴드7·플립...",
+        "date": "2025-07-10 12:52",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3291724"
+    },
+    {
+        "title": "[Re워치줌] 더 얇고, 더 똑똑하게…삼성전자, 폴드7·플립7·워치8 신제...",
+        "date": "2025-07-10 12:52",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=72294"
+    },
+    {
+        "title": "'초강수' 띄운 삼성전자, 더 얇고 가벼워진 Z폴드 시리즈 공개···외신...",
+        "date": "2025-07-10 12:44",
+        "link": "http://www.todaykorea.co.kr/news/articleView.html?idxno=331802"
+    },
+    {
+        "title": "삼성전자, 갤럭시Z폴드7-Z플립7 공개 [포토]",
+        "date": "2025-07-10 12:34",
+        "link": "https://www.etoday.co.kr/news/view/2486575"
+    },
+    {
+        "title": "3조 달러 애플도 위기... 200억 달러 잃고 AI서 완전 뒤처져",
+        "date": "2025-07-10 12:32",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202507101228482872fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "[현장] 역대급으로 얇고 가벼워진 '갤럭시 Z 플립7·폴드7'...하드웨어·...",
+        "date": "2025-07-10 12:30",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=736120"
+    },
+    {
+        "title": "'갤 Z폴드·플립7' 22일 국내 판매 시작…'S펜' 왜 빠졌나[일문일답]",
+        "date": "2025-07-10 12:25",
+        "link": "https://n.news.naver.com/mnews/article/018/0006061972?sid=105"
+    },
+    {
+        "title": "[갤럭시 언팩 2025]노태문 DX부문장 올해 4억대 기기에 갤럭시 AI 탑재",
+        "date": "2025-07-10 12:22",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=240075"
+    },
+    {
+        "title": "하늘과 땅 차이…역대급 삼성 폴더블폰에 외신 '엄지척'",
+        "date": "2025-07-10 12:20",
+        "link": "https://n.news.naver.com/mnews/article/015/0005156122?sid=105"
+    },
+    {
+        "title": "뉴욕서 'Z폴드7' 공개‥삼성 진정한 AI 동반자",
+        "date": "2025-07-10 12:17",
+        "link": "https://n.news.naver.com/mnews/article/214/0001435438?sid=104"
+    },
+    {
+        "title": "울트라 경험을 펼치다 삼성전자, '갤럭시 Z 폴드7' 공개",
+        "date": "2025-07-10 12:16",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=269592"
+    },
+    {
+        "title": "삼성전자, 신제품 '갤럭시 Z 폴드·플립7' 발표",
+        "date": "2025-07-10 12:14",
+        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=340891"
+    },
+    {
+        "title": "‘더 똑똑한 AI’ 갤럭시 4억대에 탑재한다",
+        "date": "2025-07-10 12:08",
+        "link": "https://www.asiatime.co.kr/article/20250710500193"
+    },
+    {
+        "title": "판 커지는 폴더블폰… 한미중 삼국지 개막",
+        "date": "2025-07-10 12:04",
+        "link": "https://n.news.naver.com/mnews/article/021/0002721798?sid=101"
+    },
+    {
+        "title": "트라이폴드·XR헤드셋… 삼성 ‘히든카드’ 꺼냈다",
+        "date": "2025-07-10 12:04",
+        "link": "https://n.news.naver.com/mnews/article/021/0002721796?sid=101"
+    },
+    {
+        "title": "용량까지 넉넉한 초고속 PCIe 5.0 NVMe SSD... 삼성전자 9100 PRO 4TB",
+        "date": "2025-07-10 12:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55222"
+    },
+    {
+        "title": "[갤럭시 언팩 2025]갤럭시 워치8·워치8 클래식, 부품부터 외관까지 재설...",
+        "date": "2025-07-10 11:58",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=240064"
+    },
+    {
+        "title": "[갤럭시 언팩 2025]갤럭시 Z 플립7 새 플렉스윈도우의 콤팩트 AI 스마트...",
+        "date": "2025-07-10 11:58",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=240048"
+    },
+    {
+        "title": "구글 '제미나이' 기반 AI 대거 공개…폴더블폰·웨어러블 혁신 예고",
+        "date": "2025-07-10 11:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=576121"
+    },
+    {
+        "title": "더 얇고 똑똑하다…접는 폰 한계 지운 삼성, 갤럭시Z 폴드7·플립7 승부...",
+        "date": "2025-07-10 11:58",
+        "link": "https://www.kukinews.com/article/view/kuk202507100094"
+    },
+    {
+        "title": "애플·MS 제친 엔비디아...젠슨 황의 15년 전 선택이 '운명' 갈랐다",
+        "date": "2025-07-10 11:58",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=72437"
+    },
+    {
+        "title": "삼성, 접어도 일반 폰 두께 Z폴드7 공개…식단·코디 제안 'AI 눈' 탑재",
+        "date": "2025-07-10 11:50",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=635510"
+    },
+    {
+        "title": "노태문 삼성전자 사장 갤럭시Z폴드7, 가장 진보한 스마트폰 경험 제공...",
+        "date": "2025-07-10 11:50",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=160077"
+    },
+    {
+        "title": "삼성전자, 대화면 폴더블폰 '갤럭시 Z 폴드7' 공개",
+        "date": "2025-07-10 11:48",
+        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=112638"
+    },
+    {
+        "title": "'폴드·플립7' 자신감 보인 노태문 연말까지 4억대 갤럭시에 AI 탑재",
+        "date": "2025-07-10 11:48",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=803011"
+    },
+    {
+        "title": "삼성 갤럭시Z 신작 초슬림·AI 입혔다...하반기 시장 공략 속도",
+        "date": "2025-07-10 11:46",
+        "link": "https://www.mediapen.com/news/view/1028953"
+    },
+    {
+        "title": "美 해군 조선소 개조해 탄생한 뉴욕 브루클린에서 공개된 최첨단 갤럭시...",
+        "date": "2025-07-10 11:42",
+        "link": "https://n.news.naver.com/mnews/article/014/0005375155?sid=105"
+    },
+    {
+        "title": "15만원 더 비싼 값 했다... 가장 얇은데다 더 강력한 AI 갖춘 갤폴드7",
+        "date": "2025-07-10 11:41",
+        "link": "https://n.news.naver.com/mnews/article/008/0005219744?sid=105"
+    },
+    {
+        "title": "[포토뉴스] “신상폴더블폰 멋진대?” 뉴욕 ‘갤럭시 언팩 2025’ 현장",
+        "date": "2025-07-10 11:38",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=182799"
+    },
+    {
+        "title": "삼성전자, 연내 ‘갤럭시 AI’ 4억대 기기 탑재…모바일 AI 대중화 본격...",
+        "date": "2025-07-10 11:38",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=182803"
+    },
+    {
+        "title": "[갤럭시언팩 2025] 삼성전자, 두번 접는 '트라이폴드폰' 연내 출시…폴...",
+        "date": "2025-07-10 11:36",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=248261"
+    },
+    {
+        "title": "삼성은 왜 폰을 접으려 했던가?...갤럭시Z폴드 7돌 '도전과 혁신' 연대기",
+        "date": "2025-07-10 11:33",
+        "link": "https://n.news.naver.com/mnews/article/092/0002381515?sid=105"
+    },
+    {
+        "title": "“새 갤럭시 Z시리즈, 폴드만 가격 올랐네?”...하반기 매출 상승세 이...",
+        "date": "2025-07-10 11:33",
+        "link": "https://n.news.naver.com/mnews/article/243/0000081037?sid=101"
+    },
+    {
+        "title": "킥플립과 함께한 애플의 특별한 Today at Apple 세션",
+        "date": "2025-07-10 11:32",
+        "link": "https://www.marieclairekorea.com/culture/music/2025/07/kickflip-today-at-apple/?utm_source=naver&utm_medium=partnership"
+    },
+    {
+        "title": "울트라 경험을 펼치다…삼성전자, '갤럭시 Z 폴드7' 공개",
+        "date": "2025-07-10 11:30",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=209644"
+    },
+    {
+        "title": "노태문 삼성전자 사장 올해 4억대 기기에 '갤럭시 AI' 탑재…혁신의 정...",
+        "date": "2025-07-10 11:30",
+        "link": "https://n.news.naver.com/mnews/article/117/0003963222?sid=103"
+    },
+    {
+        "title": "두껍다·무겁다, 편견깼다…“갤럭시Z 폴드7, 혁신의 정점” [갤럭시 언...",
+        "date": "2025-07-10 11:29",
+        "link": "https://n.news.naver.com/mnews/article/016/0002497645?sid=105"
+    },
+    {
+        "title": "‘접으면 한손에 쏙, 펼치면 와이드 태블릿’ 대화면 맞춤 AI 품은 폴드...",
+        "date": "2025-07-10 11:29",
+        "link": "https://n.news.naver.com/mnews/article/016/0002497646?sid=105"
+    },
+    {
+        "title": "애플, M4 칩·착용감 개선 신형 '비전 프로' 하반기 출시",
+        "date": "2025-07-10 11:28",
+        "link": "https://kbench.com/?q=node/269259"
+    },
+    {
+        "title": "노태문 삼성전자 사장, “올해 4억대 기기에 갤럭시 AI 탑재”…모바일...",
+        "date": "2025-07-10 11:28",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=74318"
+    },
+    {
+        "title": "삼성 노태문 “두 번 접는 트리폴드폰 연내 출시”",
+        "date": "2025-07-10 11:26",
+        "link": "https://n.news.naver.com/mnews/article/016/0002497639?sid=105"
+    },
+    {
+        "title": "美 애플 '아이폰17' 기대?...LG이노텍 · 비에이치 '장중 급등'",
+        "date": "2025-07-10 11:26",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=150329"
+    },
+    {
+        "title": "삼성전자 갤럭시Z 플립7·폴더7 공개…더 작고 얇아진 AI스마트폰",
+        "date": "2025-07-10 11:26",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=180718"
+    },
+    {
+        "title": "‘갤럭시 찐팬’이라는 이 남자…뉴욕서 공개된 Z7시리즈, 현장 반응은",
+        "date": "2025-07-10 11:25",
+        "link": "https://n.news.naver.com/mnews/article/009/0005522641?sid=101"
+    },
+    {
+        "title": "위츠, 삼성 '갤럭시 Z폴드7·워치 8시리즈' 무선충전 모듈 공급",
+        "date": "2025-07-10 11:24",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=272083"
+    },
+    {
+        "title": "삼성전자. '모바일 AI' 대중화 선도…노태문 사장 올해 4억대 기기에 '...",
+        "date": "2025-07-10 11:22",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=269560"
+    },
+    {
+        "title": "애플 전설 디자이너들, 오픈AI에 대거 합류…조니 아이브 스타트업, 65억...",
+        "date": "2025-07-10 11:21",
+        "link": "https://n.news.naver.com/mnews/article/092/0002381513?sid=105"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드7·플립7’ 동시 공개…“AI 기반 폴더블 경험...",
+        "date": "2025-07-10 11:18",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=182797"
+    },
+    {
+        "title": "노태문 삼성전자 사장 올해 4억대 기기에 '갤럭시 AI' 탑재",
+        "date": "2025-07-10 11:18",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=228084"
+    },
+    {
+        "title": "노태문 삼성전자 사장 “4억대 기기에 ‘갤럭시 AI’ 탑재”",
+        "date": "2025-07-10 11:18",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1268017&inflow=N"
+    },
+    {
+        "title": "얇고 가벼워졌다 삼성, 갤럭시Z 폴드7…강력한 AI 성능은?",
+        "date": "2025-07-10 11:16",
+        "link": "https://n.news.naver.com/mnews/article/277/0005620614?sid=105"
+    },
+    {
+        "title": "[갤럭시 언팩] 삼성, AI 대중화 앞장…기본 기능은 무상 제공",
+        "date": "2025-07-10 11:12",
+        "link": "https://news.dealsitetv.com/articles/156552"
+    },
+    {
+        "title": "노태문 삼성전자 사장 갤럭시 디바이스 4억 대에 '갤럭시 AI' 탑재할 것...",
+        "date": "2025-07-10 11:12",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=120435"
+    },
+    {
+        "title": "갤럭시 Z 폴드7, '더 얇고 더 똑똑해졌다'",
+        "date": "2025-07-10 11:10",
+        "link": "https://www.sisaweek.com/news/articleView.html?idxno=227123"
+    },
+    {
+        "title": "삼성전자 Z폴드7, 커피 한 잔 무게보다 가볍지만 성능은 울트라급",
+        "date": "2025-07-10 11:06",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065572020318956"
+    },
+    {
+        "title": "中 하이센스, 차세대 미니LED 게이밍 TV 'U8Q' 출시",
+        "date": "2025-07-10 11:06",
+        "link": "https://n.news.naver.com/mnews/article/031/0000947534?sid=105"
+    },
+    {
+        "title": "노태문 삼성전자 사장 올해 4억대 기기에 '갤럭시 AI' 탑재할 것",
+        "date": "2025-07-10 11:04",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=830538"
+    },
+    {
+        "title": "[포토 직썰] 삼성전자, 역대 가장 얇고 가벼운 '갤럭시 Z 폴드7' 공개",
+        "date": "2025-07-10 11:02",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=96778"
+    },
+    {
+        "title": "갤럭시Z 폴드7에 퀄컴 AP 탑재…최고의 폴더블 경험 기대",
+        "date": "2025-07-10 11:02",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202507101055188663b60030fa2_1/article.html"
+    },
+    {
+        "title": "삼성전자, 올해 4억대 기기에 '갤럭시 AI' 탑재…모바일 AI 대중화 앞장",
+        "date": "2025-07-10 11:02",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=89040"
+    },
+    {
+        "title": "노태문 '갤럭시 AI' 올해 4억대 이상 확대…모바일 AI 대중화 확신",
+        "date": "2025-07-10 11:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200381?sid=105"
+    },
+    {
+        "title": "노태문 삼성 사장 트라이폴드폰 연내 출시…스마트 안경도 나온다",
+        "date": "2025-07-10 11:00",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=272078"
+    },
+    {
+        "title": "더 얇고 가벼워졌다···삼성 '갤럭시 Z 폴드7' 공개, 출시가는?",
+        "date": "2025-07-10 11:00",
+        "link": "https://www.cnet.co.kr/view/?no=20250710101334"
+    },
+    {
+        "title": "[현장]4억 대에 AI 넣고, 기본 AI는 무료 AI 대중화에 공들이는 삼성전...",
+        "date": "2025-07-10 11:00",
+        "link": "https://n.news.naver.com/mnews/article/469/0000875176?sid=105"
+    },
+    {
+        "title": "노태문 삼성전자 사장 올해 4억대 기기에 갤럭시 AI 탑재",
+        "date": "2025-07-10 11:00",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=530610"
+    },
+    {
+        "title": "노태문 삼성전자 사장 4억대 기기 갤럭시 AI 탑재…모바일 AI 대중화 선...",
+        "date": "2025-07-10 10:56",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577893531400"
+    },
+    {
+        "title": "노태문 삼성전자 사장 4억대 갤럭시 기기에 AI 탑재할 것(종합)",
+        "date": "2025-07-10 10:54",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4364219"
+    },
+    {
+        "title": "애플, 챗GPT 스타일 AI로 고객 지원 강화…효율성 높인다",
+        "date": "2025-07-10 10:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=576074"
+    },
+    {
+        "title": "삼성전자, 신제품 '갤럭시 Z 폴드7ㆍZ 플립7' 전 세계 공개",
+        "date": "2025-07-10 10:52",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=72431"
+    },
+    {
+        "title": "삼성전자, 모바일 AI 대중화 선도 선언 올해 4억 대에 '갤럭시 AI' 탑재...",
+        "date": "2025-07-10 10:52",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=110190"
+    },
+    {
+        "title": "노태문 모바일 AI 대중화 갤럭시가 선도... 올해 4억대 기기에 '갤럭시...",
+        "date": "2025-07-10 10:50",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=121501"
+    },
+    {
+        "title": "삼성 AI 탑재 갤럭시 4억대 이상 확대…트라이폴드·XR도 연내 출시",
+        "date": "2025-07-10 10:50",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092143899"
+    },
+    {
+        "title": "노태문 삼성전자 사장 올해 4억대 기기에 '갤럭시 AI' 탑재",
+        "date": "2025-07-10 10:44",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=89225"
+    },
+    {
+        "title": "노태문 삼성전자 사장 갤럭시 AI 탑재 2배 확대…모바일 AI 대중화 선도...",
+        "date": "2025-07-10 10:44",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=656164"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 플립 7·폴드 7' 공개…주목할 포인트는?",
+        "date": "2025-07-10 10:42",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=656146"
+    },
+    {
+        "title": "베일 벗은 “역대듭 갤럭시 플립·폴드7”…더 얇고 가벼워진 ‘모바일...",
+        "date": "2025-07-10 10:42",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=74304"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7' 공개, 주요 기능과 특징은?",
+        "date": "2025-07-10 10:40",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=81100"
+    },
+    {
+        "title": "[포커스] 제이홉만 잘 나가는 게 아니다... 해외서 선방하는 토종TV LG 올...",
+        "date": "2025-07-10 10:40",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=31355"
+    },
+    {
+        "title": "삼성전자 ‘갤럭시 언팩 2025’ … 해외 언론 반응은?",
+        "date": "2025-07-10 10:38",
+        "link": "http://www.globalepic.co.kr/view.php?ud=20250710103322796348439a4874_29"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드7’ 공개…역대 최경량·최슬림 폴더블폰",
+        "date": "2025-07-10 10:38",
+        "link": "https://www.fetv.co.kr/news/article.html?no=196386"
+    },
+    {
+        "title": "노태문 삼성전자 사장 '갤럭시 AI' 적용기기 연내 4억대로 확대…AI 대...",
+        "date": "2025-07-10 10:38",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=70815"
+    },
+    {
+        "title": "삼성전자 노태문 사장 올해 4억대 기기에 '갤럭시 AI' 탑재할 것",
+        "date": "2025-07-10 10:38",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=760658"
+    },
+    {
+        "title": "전작과 하늘과 땅 차이...삼성전자,역대급 슬림 '갤럭시 Z폴드7·Z플립...",
+        "date": "2025-07-10 10:36",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=84799"
+    },
+    {
+        "title": "노태문 연말까지 4억대 이상 AI 탑재…갤Z플립·폴드7 공개",
+        "date": "2025-07-10 10:36",
+        "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=42059"
+    },
+    {
+        "title": "삼성전자 초슬림 대화면 폴더블폰 ‘갤럭시 Z 폴드7’ 전격 공개",
+        "date": "2025-07-10 10:34",
+        "link": "http://www.breaknews.com/1131737"
+    },
+    {
+        "title": "삼성 노태문 사장 갤럭시 AI 적용기기 연내 4억대 이상 확대",
+        "date": "2025-07-10 10:32",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=98997"
+    },
+    {
+        "title": "올해 4억대에 '갤럭시 AI' 탑재 … 모바일 AI 대중화 선도",
+        "date": "2025-07-10 10:32",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55220"
+    },
+    {
+        "title": "노태문 삼성전자 사장 '모바일 AI 대중화' 위해 갤럭시 4억대에 AI 탑재...",
+        "date": "2025-07-10 10:30",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=192342"
+    },
+    {
+        "title": "삼성전자, '더 얇고 커진' 갤럭시 Z 폴드7·플립7 신제품 선봬",
+        "date": "2025-07-10 10:28",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=275681"
+    },
+    {
+        "title": "삼성 노태문 사장 올해 갤럭시 AI 탑재 기기 4억대로 확대할 것",
+        "date": "2025-07-10 10:28",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=275685"
+    },
+    {
+        "title": "축구스타 앙리 깜짝 등장…뉴욕 뒤흔든 갤럭시Z7 언팩",
+        "date": "2025-07-10 10:28",
+        "link": "https://n.news.naver.com/mnews/article/030/0003330121?sid=105"
+    },
+    {
+        "title": "삼성전자, 얇고 강한 ‘갤럭시 Z 폴드7’ 출시…갤럭시 AI 최적화 폴더블...",
+        "date": "2025-07-10 10:27",
+        "link": "https://n.news.naver.com/mnews/article/468/0001161040?sid=101"
+    },
+    {
+        "title": "삼성전자, 웨어러블의 새로운 기준 '갤럭시 워치8·워치8 클래식' 공개",
+        "date": "2025-07-10 10:26",
+        "link": "https://www.betanews.net/article/view/beta202507100017"
+    },
+    {
+        "title": "스마트폰 세대차…20대女 78% 아이폰, 50대 89% 갤럭시",
+        "date": "2025-07-10 10:26",
+        "link": "https://n.news.naver.com/mnews/article/020/0003647049?sid=102"
+    },
+    {
+        "title": "이케아, 스마트홈 표준 ‘매터’ 전면 도입…2026년 매터 지원 기기 20종...",
+        "date": "2025-07-10 10:26",
+        "link": "https://www.itworld.co.kr/article/4019836/이케아-스마트홈-표준-매터-전면-도입2026년-매터.html"
+    },
+    {
+        "title": "퀄컴, 갤럭시Z폴드7 전용 스냅드래곤8 엘리트… 역대 최고 수준 AI 경험",
+        "date": "2025-07-10 10:24",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/07/10/2025071000130.html"
+    },
+    {
+        "title": "'갤럭시 Z 플립7·폴드7' 출시일 25일...사전예약 일정·색상·가격 떴다",
+        "date": "2025-07-10 10:24",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3321149"
+    },
+    {
+        "title": "삼성전자, 초슬림폰 기세 잇는다…폴드7·플립7에 AI·보안 강화 [갤럭시...",
+        "date": "2025-07-10 10:22",
+        "link": "https://www.newspost.kr/news/articleView.html?idxno=215875"
+    },
+    {
+        "title": "노태문 삼성전자 사장 4억대 갤럭시 기기에 AI 탑재할 것",
+        "date": "2025-07-10 10:20",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4364207"
+    },
+    {
+        "title": "노태문 삼성전자 사장 모바일 AI 대중화 갤럭시가 선도",
+        "date": "2025-07-10 10:20",
+        "link": "https://n.news.naver.com/mnews/article/076/0004298488?sid=101"
+    },
+    {
+        "title": "덕후 잡은 삼성전자 '갤럭시 Z 폴드7' 대중화 성공, 가능할까",
+        "date": "2025-07-10 10:18",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=700414"
+    },
+    {
+        "title": "더 얇고 더 강하게 돌아왔다...모습 드러낸 '갤럭시Z' 폴더블폰",
+        "date": "2025-07-10 10:18",
+        "link": "https://www.newstree.kr/newsView/ntr202507100002"
+    },
+    {
+        "title": "삼성전자, 가장 가벼운 '갤럭시 Z 폴드7' 공개 | '가장 진보한 스마트폰...",
+        "date": "2025-07-10 10:18",
+        "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=22451&Newsnumb=20250722451"
+    },
+    {
+        "title": "삼성전자, 새롭게 뜯어고친 '갤럭시 워치8' 공개...워치7보다 11% 얇아",
+        "date": "2025-07-10 10:18",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=736108"
+    },
+    {
+        "title": "크로스오버존, 32인치 IPS QHD 100Hz 32QD100W 출시 특가 진행",
+        "date": "2025-07-10 10:18",
+        "link": "https://kbench.com/?q=node/269248"
+    },
+    {
+        "title": "위츠, 삼성 갤럭시 Z폴드7 · 워치 8시리즈 무선충전 모듈 공급",
+        "date": "2025-07-10 10:18",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/07/10/2025071000128.html"
+    },
+    {
+        "title": "우리가 원하던 폴더블폰 갤럭시 폴드7에 쏟아진 찬사…삼성 실적 개선...",
+        "date": "2025-07-10 10:16",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=248241"
+    },
+    {
+        "title": "두께는 절반·스벅 숏보다 가벼워…삼성전자, 갤럭시 Z 폴드7 공개",
+        "date": "2025-07-10 10:16",
+        "link": "https://www.newstof.com/news/articleView.html?idxno=29281"
+    },
+    {
+        "title": "퀄컴-삼성, '스냅드래곤 8 엘리트' 탑재한 '갤럭시Z 폴드7' 공식 발표",
+        "date": "2025-07-10 10:16",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=48918"
+    },
+    {
+        "title": "트라이폴드폰·XR 무한 ‘연내 출시’…노태문 “갤럭시 AI 기기, 4억대 ...",
+        "date": "2025-07-10 10:14",
+        "link": "https://www.kukinews.com/article/view/kuk202507100049"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z 폴드7, 초슬림 대화면…'폴더블폰 혁신 경험' 제공",
+        "date": "2025-07-10 10:12",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3010876"
+    },
+    {
+        "title": "삼성전자 노태문 올해 갤럭시 AI 탑재 기기 4억대로 확대할 것",
+        "date": "2025-07-10 10:12",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=217447"
+    },
+    {
+        "title": "삼성전자 노태문 올해 4억대 기기에 '갤럭시 AI' 탑재",
+        "date": "2025-07-10 10:12",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2090208"
+    },
+    {
+        "title": "삼성전자, 올해 4억대 기기에 '갤럭시 AI' 탑재…모바일 AI 대중화 갤럭...",
+        "date": "2025-07-10 10:10",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=86304"
+    },
+    {
+        "title": "노태문 삼성전자 사장, 갤럭시AI로 AI 대중화 선도할 것",
+        "date": "2025-07-10 10:10",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=180705"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 폴드7', 가장 얇고 가벼운 초슬림 폴더블로 진화",
+        "date": "2025-07-10 10:08",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=736094"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 플립7', 얇아지고 강력한 AI 적용됐지만 가격은 동결",
+        "date": "2025-07-10 10:08",
+        "link": "http://www.consumernews.co.kr/news/articleView.html?idxno=736099"
+    },
+    {
+        "title": "삼성전자, 215g 가장 얇은 '갤럭시 Z 폴드7' 공개..삼성전자의 가장 진...",
+        "date": "2025-07-10 10:06",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=89476"
+    },
+    {
+        "title": "삼성전자 신형 폴더블폰 공개… 얇고 가벼워진 매력에 외신도 '주목'",
+        "date": "2025-07-10 10:04",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=832180"
+    },
+    {
+        "title": "노태문 “올해 기기 4억대에 ‘갤럭시 AI’ 탑재하겠다”",
+        "date": "2025-07-10 10:04",
+        "link": "https://byline.network/?p=9004111222570429"
+    },
+    {
+        "title": "퀄컴, 스냅드래곤 8 엘리트 갤럭시 Z폴드7에 탑재",
+        "date": "2025-07-10 10:04",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=240045"
+    },
+    {
+        "title": "[CEO PICK] 삼성 노태문…4억대 '갤럭시AI' 탑재, 모바일AI 대중화",
+        "date": "2025-07-10 10:04",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2081182"
+    },
+    {
+        "title": "삼성 노태문 '갤럭시 AI' 적용 기기 연내 4억대로 확대[영상]",
+        "date": "2025-07-10 10:03",
+        "link": "https://n.news.naver.com/mnews/article/079/0004043375?sid=101"
+    },
+    {
+        "title": "Z 폴드7, 이보다 더 좋은 스마트폰 없다 …세계서 가장 얇고 화면은 더...",
+        "date": "2025-07-10 10:02",
+        "link": "http://www.nongaek.com/news/articleView.html?idxno=91934"
+    },
+    {
+        "title": "'모바일 AI 대중화 선언' 삼성전자, 올해 4억대 기기에 갤럭시 AI 탑재...",
+        "date": "2025-07-10 10:02",
+        "link": "http://kpenews.com/View.aspx?No=3707244"
+    },
+    {
+        "title": "삼성, AI 로 반격… 초슬림 폴더7·워치8 전격 공개",
+        "date": "2025-07-10 10:00",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=409453"
+    },
+    {
+        "title": "'11% 얇아진' 갤럭시 워치8, 스마트워치 최초로 항산화 지수·혈관 스트...",
+        "date": "2025-07-10 10:00",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3010878"
+    },
+    {
+        "title": "더 얇고 가벼워진 삼성 갤럭시 Z 폴드7·플립7 출시 [뉴시스Pic]",
+        "date": "2025-07-10 09:59",
+        "link": "https://n.news.naver.com/mnews/article/003/0013354141?sid=105"
+    },
+    {
+        "title": "삼성 갤럭시Z 폴드7 선택 받은 ‘갤럭시용 스냅드래곤 8 엘리트’…글로...",
+        "date": "2025-07-10 09:59",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200363?sid=105"
+    },
+    {
+        "title": "퀄컴 '스냅드래곤 8 엘리트', 삼성 갤럭시 Z 폴드7 글로벌 탑재… '온디...",
+        "date": "2025-07-10 09:58",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=35595"
+    },
+    {
+        "title": "'삼성전자' 폴드7 공개 후 증시 강보합…프리미엄 폴더블폰 경쟁 주목",
+        "date": "2025-07-10 09:58",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15726536"
+    },
+    {
+        "title": "삼성전자가 올해 안에 반드시 출시하겠다고 약속한 '신기한 스마트폰'",
+        "date": "2025-07-10 09:58",
+        "link": "https://www.wikitree.co.kr/articles/1064015"
+    },
+    {
+        "title": "삼성, 얇아진 갤럭시 Z폴드7 공개…“울트라보다 가벼워”",
+        "date": "2025-07-10 09:57",
+        "link": "https://n.news.naver.com/mnews/article/056/0011986491?sid=101"
+    },
+    {
+        "title": "노태문 삼성전자 사장 올해 4억대 갤럭시 기기에 '갤럭시 AI' 탑재",
+        "date": "2025-07-10 09:56",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=113857"
+    },
+    {
+        "title": "[갤럭시 언팩] 노태문 사장 모두를 위한 모바일 AI 시대 열고 지속가능...",
+        "date": "2025-07-10 09:56",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=114168"
+    },
+    {
+        "title": "[단독] 잠긴 아이폰 저절로 풀렸는데…녹음 끄세요 전화 끊은 애플",
+        "date": "2025-07-10 09:56",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=133788"
+    },
+    {
+        "title": "삼성전자, 셀피 기능 강화한 '갤럭시 Z 플립7' 공개",
+        "date": "2025-07-10 09:56",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=105592"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7' 공개…237만9300원부터",
+        "date": "2025-07-10 09:54",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=530611"
+    },
+    {
+        "title": "노태문 올해 '4억대' 이상 기기에 갤럭시 AI 탑재할 것",
+        "date": "2025-07-10 09:54",
+        "link": "https://n.news.naver.com/mnews/article/417/0001088444?sid=105"
+    },
+    {
+        "title": "두께 11% 줄인 ‘갤럭시 워치 8′… 구글 제미나이도 탑재",
+        "date": "2025-07-10 09:54",
+        "link": "https://n.news.naver.com/mnews/article/023/0003916178?sid=105"
+    },
+    {
+        "title": "삼성전자, 올해 4억대 기기에 '갤럭시 AI' 탑재",
+        "date": "2025-07-10 09:54",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250710010005844"
+    },
+    {
+        "title": "삼성 갤럭시 Z 폴드7·플립7 공개…AI·디자인 혁신 담았지만, 대중성은...",
+        "date": "2025-07-10 09:52",
+        "link": "https://www.socialvalue.kr/news/view/1065573843372076"
+    },
+    {
+        "title": "[갤럭시 언팩 2025] 울트라 경험을 만나다 차세대 갤럭시 공개 현장 하...",
+        "date": "2025-07-10 09:50",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=63469"
+    },
+    {
+        "title": "[갤럭시 언팩 '25] 노태문 사장 4억대 AI 기기 푼다…생태계 판 키워",
+        "date": "2025-07-10 09:50",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1669993"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 워치8 시리즈’ 및 ‘갤럭시 링’ 신규 색상 공개",
+        "date": "2025-07-10 09:48",
+        "link": "https://kbench.com/?q=node/269241"
+    },
+    {
+        "title": "“모바일 AI 대중화 갤럭시가 선도”…올해 4억대 기기 탑재",
+        "date": "2025-07-10 09:48",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=854101"
+    },
+    {
+        "title": "노태문 사장 올해 4억대 기기 '갤럭시 AI' 탑재…모바일 AI 대중화 선도...",
+        "date": "2025-07-10 09:46",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=189410"
+    },
+    {
+        "title": "모바일 AI 대중화 갤럭시가 선도!...노태문 사장, 올해 4억대 기기에 ...",
+        "date": "2025-07-10 09:46",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=35594"
+    },
+    {
+        "title": "노태문 삼성전자 DX부문장 직무대행 올해 갤럭시 AI폰 4억대 확대…트...",
+        "date": "2025-07-10 09:44",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=141960"
+    },
+    {
+        "title": "올해 4억대에 '갤럭시 AI' 탑재…'AI 대중화' 자신감 보인 노태문 사장",
+        "date": "2025-07-10 09:44",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=229545"
+    },
+    {
+        "title": "AI로 하드웨어 UX 혁신...올해 4억대 기기에 '갤럭시 AI' 탑재",
+        "date": "2025-07-10 09:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=576068"
+    },
+    {
+        "title": "삼성전자 노태문, “모바일 AI 대중화 선도하겠다”...올해 갤럭시 4억대...",
+        "date": "2025-07-10 09:43",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000075792"
+    },
+    {
+        "title": "노태문 삼성전자 사장 4억대 기기에 '갤럭시 AI' 탑재…AI 대중화 선도...",
+        "date": "2025-07-10 09:42",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1258616"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 플립7’ 공개…플렉스윈도우·AI로 진화한 폴더블...",
+        "date": "2025-07-10 09:40",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=854097"
+    },
+    {
+        "title": "노태문 삼성전자 사장, 올해 갤럭시AI 기기 4억대 확대…두번 접는 폰...",
+        "date": "2025-07-10 09:40",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=395551"
+    },
+    {
+        "title": "가속도 붙는 삼성-퀄컴 스마트폰 동맹…갤럭시 AI 만나 시너지 극대화",
+        "date": "2025-07-10 09:40",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=80890"
+    },
+    {
+        "title": "노태문 삼성전자 사장 4억대 갤럭시 기기에 갤럭시 AI 탑재, AI 대중화...",
+        "date": "2025-07-10 09:40",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=403876"
+    },
+    {
+        "title": "노태문 삼성전자 사장 올해 4억대 기기에 '갤럭시 AI' 탑재..모바일 AI ...",
+        "date": "2025-07-10 09:38",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=85378"
+    },
+    {
+        "title": "삼성전자 역대 가장 얇고 가벼운 갤럭시 Z 폴드7 15일 사전 판매",
+        "date": "2025-07-10 09:36",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=240040"
+    },
+    {
+        "title": "삼성 '갤럭시 AI', 연내 4억대 확대…AI 대중화 '성공'할까?",
+        "date": "2025-07-10 09:36",
+        "link": "https://www.socialvalue.kr/news/view/1065573187499560"
+    },
+    {
+        "title": "노태문 삼성전자 사장 올해 4억대 기기에 '갤럭시 AI' 탑재",
+        "date": "2025-07-10 09:35",
+        "link": "http://thetracker.co.kr/View.aspx?No=3707206"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치8·워치8 클래식' 공개",
+        "date": "2025-07-10 09:34",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3812627"
+    },
+    {
+        "title": "갤Z폴드7 “전작과 하늘과 땅 차이”…외신 호평",
+        "date": "2025-07-10 09:34",
+        "link": "https://n.news.naver.com/mnews/article/029/0002967288?sid=104"
+    },
+    {
+        "title": "너무 얇아서 폴더블 아닌 줄 …갤Z폴드7에 쏟아진 외신 호평",
+        "date": "2025-07-10 09:33",
+        "link": "https://n.news.naver.com/mnews/article/003/0013353986?sid=105"
+    },
+    {
+        "title": "'폴더블 끝판왕' 등장에 앙리도 감탄… 삼성 갤럭시 행사장 가득 박수와...",
+        "date": "2025-07-10 09:32",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/07/10/2025071000004.html"
+    },
+    {
+        "title": "“두 개의 폴더블, 하나의 AI 중심”…삼성, 갤럭시 Z 플립7·폴드7 공개",
+        "date": "2025-07-10 09:30",
+        "link": "https://sateconomy.co.kr/news/view/1065570984811379"
+    },
+    {
+        "title": "[위클리오늘] 울트라 경험을 펼치다···삼성전자, '갤럭시 Z 폴드7' ...",
+        "date": "2025-07-10 09:28",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=709203"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치8·워치8 클래식' 공개...뭐가 달라졌나",
+        "date": "2025-07-10 09:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=576051"
+    },
+    {
+        "title": "[갤럭시 언팩] AI·플렉스윈도우로 진화한 콤팩트 'Z 플립7'",
+        "date": "2025-07-10 09:24",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=695681"
+    },
+    {
+        "title": "삼성전자, 신형 폴더블폰 미국서 공개",
+        "date": "2025-07-10 09:22",
+        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1489543"
+    },
+    {
+        "title": "노태문 갤럭시 Z 폴드7, 삼성전자 선보인 가장 진보한 스마트폰…강력...",
+        "date": "2025-07-10 09:22",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3010887"
+    },
+    {
+        "title": "역대 가장 얇고 가벼운 갤럭시 Z 폴드7 공개...25일 출시",
+        "date": "2025-07-10 09:20",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=403868"
+    },
+    {
+        "title": "전작과 하늘과 땅 차이…프리미엄 이미지 강화…외신, 삼성 폴드7 집중...",
+        "date": "2025-07-10 09:20",
+        "link": "https://n.news.naver.com/mnews/article/001/0015498448?sid=104"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7' 공개…울트라 경험을 펼치다",
+        "date": "2025-07-10 09:18",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=86258"
+    },
+    {
+        "title": "삼성, AI 적용 갤럭시 연내 4억대로 확대…스마트 안경도 곧 선봬",
+        "date": "2025-07-10 09:18",
+        "link": "https://n.news.naver.com/mnews/article/029/0002967280?sid=104"
+    },
+    {
+        "title": "엑시노스 2500, Z 플립7로 '글로벌 데뷔'…전영현 승부수 '수율 반전' [소...",
+        "date": "2025-07-10 09:18",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200352?sid=105"
+    },
+    {
+        "title": "위츠, 삼성 '갤럭시 Z폴드7 및 워치 8시리즈' 무선충전 모듈 공급",
+        "date": "2025-07-10 09:18",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=695680"
+    },
+    {
+        "title": "애플 아이폰17 에어 색상·칩셋 정보 유출…9월 공개 기대",
+        "date": "2025-07-10 09:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=576035"
+    },
+    {
+        "title": "삼성전자 폴더블 신제품에 외신 호평⋯ “접어도 스마트폰 그립감”",
+        "date": "2025-07-10 09:16",
+        "link": "https://www.viva100.com/article/20250710500199"
+    },
+    {
+        "title": "삼성 '갤럭시 언팩 2025 '...기기에서 삶, '라이프 OS'로 진화",
+        "date": "2025-07-10 09:16",
+        "link": "https://hobbyen-news.com/news/view/1065571020946575"
+    },
+    {
+        "title": "갤럭시 Z 폴드7, 퀄컴·삼성 ‘스냅드래곤 8 엘리트’로 다시 뭉쳤다",
+        "date": "2025-07-10 09:16",
+        "link": "https://www.hellot.net/news/article.html?no=103124"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7' 공개",
+        "date": "2025-07-10 09:14",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=85372"
+    },
+    {
+        "title": "'애플 실리콘'에 맞서는 '갤럭시 심장'…삼성-퀄컴 동맹, 폴더블 동맹 강...",
+        "date": "2025-07-10 09:12",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=702997"
+    },
+    {
+        "title": "[갤럭시 언팩] 2억 화소 초슬림 폴더블 삼성 'Z 폴드7'",
+        "date": "2025-07-10 09:12",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=695674"
+    },
+    {
+        "title": "삼성 갤럭시 Z폴드7, 울트라25와 헷갈린다는 말이 나오는 놀라운 이유",
+        "date": "2025-07-10 09:12",
+        "link": "https://www.wikitree.co.kr/articles/1063984"
+    },
+    {
+        "title": "애플, 비전 프로 업그레이드로 반전 노린다",
+        "date": "2025-07-10 09:12",
+        "link": "https://n.news.naver.com/mnews/article/009/0005522506?sid=105"
+    },
+    {
+        "title": "이제 울트라를 펼쳐라…노태문 선언에 1200명 함성 터졌다",
+        "date": "2025-07-10 09:12",
+        "link": "https://n.news.naver.com/mnews/article/003/0013353852?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시Z 폴드·플립7 공개...더 얇고 가벼워",
+        "date": "2025-07-10 09:12",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=344528"
+    },
+    {
+        "title": "역대급 디자인, 가장 콤팩트한 AI 스마트폰…삼성전자, '갤럭시 Z 플립...",
+        "date": "2025-07-10 09:10",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=229540"
+    },
+    {
+        "title": "애플, 차세대 비전 프로 준비…M4 칩·편안한 스트랩 탑재",
+        "date": "2025-07-10 09:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=576040"
+    },
+    {
+        "title": "[더벨][K-바이오 CGM 진출 전략]골리앗 '애보트·덱스콤' 시장 양분…'특...",
+        "date": "2025-07-10 09:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507080801447860105644"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 플립7' 공개…접어도 펼쳐도 강력한 AI 스마트폰",
+        "date": "2025-07-10 09:08",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=89018"
+    },
+    {
+        "title": "[갤럭시 언팩] 노태문 삼성전자 사장 갤럭시 AI 탑재, 올해 4억대 목표...",
+        "date": "2025-07-10 09:08",
+        "link": "https://www.ajunews.com/view/20250710090041361"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7' 공개",
+        "date": "2025-07-10 09:06",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=111732"
+    },
+    {
+        "title": "위츠, 삼성 '갤럭시 Z폴드7 및 워치 8시리즈' 무선충전 모듈 공급",
+        "date": "2025-07-10 09:06",
+        "link": "https://www.newspim.com/news/view/20250710000097"
+    },
+    {
+        "title": "삼성 노태문 엑시노스, 충분한 성능·품질 확보했다[폴더블 언팩 2025]",
+        "date": "2025-07-10 09:04",
+        "link": "https://news.mtn.co.kr/news-detail/2025071007382458858"
+    },
+    {
+        "title": "“LG디스플레이, 2Q 저점 하반기 계단식 실적 개선…목표가↑”-신한",
+        "date": "2025-07-10 09:04",
+        "link": "https://www.itooza.com/common/iview.php?no=2025071009021547944"
+    },
+    {
+        "title": "노태문 사장 “두번 접는 스마트폰, 연내 출시”…트라이폴드폰 출사표",
+        "date": "2025-07-10 09:03",
+        "link": "https://n.news.naver.com/mnews/article/011/0004507347?sid=101"
+    },
+    {
+        "title": "삼성전자, 초슬림 화면·AI 겸비한 '갤럭시Z폴드7' 공개",
+        "date": "2025-07-10 09:02",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=105586"
+    },
+    {
+        "title": "[갤럭시Z 언팩 2025] 노태문 자체 개발 갤럭시 AI 무료…프리미엄은 협...",
+        "date": "2025-07-10 09:02",
+        "link": "https://dealsite.co.kr/articles/144417"
+    },
+    {
+        "title": "삼성 노태문 올해 갤럭시 AI 탑재 2배 이상 확대… 일상에 녹일 것 [20...",
+        "date": "2025-07-10 09:02",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/07/10/2025071000007.html"
+    },
+    {
+        "title": "삼성전자, '2번 접는' 트라이폴드 연말 출시… 무르익은 폴더블 기술력...",
+        "date": "2025-07-10 09:02",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/07/10/2025071000008.html"
+    },
+    {
+        "title": "위츠, 삼성 '갤럭시 폴드·워치' 무선충전 모듈 공급한다",
+        "date": "2025-07-10 09:02",
+        "link": "https://www.newstof.com/news/articleView.html?idxno=29276"
+    },
+    {
+        "title": "노태문 삼성전자 사장 트리폴드폰 연내 출시 목표...AI 대중화 이끌 것...",
+        "date": "2025-07-10 09:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002381460?sid=105"
+    },
+    {
+        "title": "삼성전자 노태문 “연말까지 4억대 기기에 ‘갤럭시 AI’ 탑재”",
+        "date": "2025-07-10 09:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002497429?sid=105"
+    },
+    {
+        "title": "'화웨이 꼼짝 마!'…삼성, 두 번 접는 '트라이폴드폰'·XR헤드셋 연내 내...",
+        "date": "2025-07-10 09:01",
+        "link": "https://n.news.naver.com/mnews/article/015/0005155917?sid=101"
+    },
+    {
+        "title": "AI 탑재 갤럭시 올해 4억대로... 삼성전자 “당분간 무료 유지”",
+        "date": "2025-07-10 09:01",
+        "link": "https://n.news.naver.com/mnews/article/023/0003916169?sid=105"
+    },
+    {
+        "title": "노태문 삼성전자 두 번 접는 트라이폴드 연내 출시 기대",
+        "date": "2025-07-10 09:01",
+        "link": "https://n.news.naver.com/mnews/article/031/0000947436?sid=105"
+    },
+    {
+        "title": "노태문 삼성전자 사장 “트리폴드폰 연내 출시”… AI 시대 ‘새 폼팩터...",
+        "date": "2025-07-10 09:00",
+        "link": "https://www.etoday.co.kr/news/view/2486391"
+    },
+    {
+        "title": "노태문 삼성 사장 트라이폴드폰 연내 출시…스마트 안경도 나온다",
+        "date": "2025-07-10 09:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013353810?sid=105"
+    },
+    {
+        "title": "이제 두 번 접는다···삼성전자, ‘3단 폴더블폰’ 연내 출시 목표",
+        "date": "2025-07-10 09:00",
+        "link": "https://n.news.naver.com/mnews/article/032/0003381741?sid=105"
+    },
+    {
+        "title": "갤럭시 워치로 제미나이 쓴다…손목 위의 AI 동반자(종합)",
+        "date": "2025-07-10 09:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015498403?sid=105"
+    },
+    {
+        "title": "삼성 노태문 '갤럭시 AI' 적용기기 연내 4억대로 확대…AI 대중화",
+        "date": "2025-07-10 09:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015498398?sid=105"
+    },
+    {
+        "title": "노태문 갤럭시 AI 탑재 기기 올해 4억대로…트라이폴드 폰 연내 출시",
+        "date": "2025-07-10 09:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005620411?sid=105"
+    },
+    {
+        "title": "“두 번 접는 트라이폴드폰·XR 헤드셋 연내 출시”…4억대 기기로 ‘갤...",
+        "date": "2025-07-10 09:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0002967273?sid=105"
+    },
+    {
+        "title": "노태문 올해 4억대에 갤럭시 AI 폴더블·A시리즈·헬스케어까지 확대",
+        "date": "2025-07-10 09:00",
+        "link": "https://n.news.naver.com/mnews/article/119/0002977577?sid=101"
+    },
+    {
+        "title": "얇고 넓고 가볍다…삼성, 갤럭시Z 폴드7·플립7 정식 공개",
+        "date": "2025-07-10 09:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=174445"
+    },
+    {
+        "title": "연내 '두 번 접는폰' 출시…삼성 '넥스트 스마트폰' 확대한다",
+        "date": "2025-07-10 09:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005219552?sid=105"
+    },
+    {
+        "title": "[갤럭시 언팩]노태문 올해 4억대 기기에 갤럭시 AI 탑재…판매량 증가...",
+        "date": "2025-07-10 09:00",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025071004360005313"
+    },
+    {
+        "title": "노태문 “AI 시대, 스마트폰 역할 중요...혁신 폼팩터로 계속 선보인다...",
+        "date": "2025-07-10 09:00",
+        "link": "https://n.news.naver.com/mnews/article/025/0003454165?sid=101"
+    },
+    {
+        "title": "모습 드러낸 '갤럭시 Z 폴드7'...삼성전자 갤럭시 언팩 개최",
+        "date": "2025-07-10 08:58",
+        "link": "https://www.raonnews.com/news/article.html?no=48835"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치8·워치8 클래식' 공개",
+        "date": "2025-07-10 08:58",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=35653"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드·플립7' 공개…역대 가장 얇고 가벼운 폴더블...",
+        "date": "2025-07-10 08:58",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=160706"
+    },
+    {
+        "title": "더 얇아지고 가벼워졌다…삼성전자, '갤럭시 폴더7' 공개",
+        "date": "2025-07-10 08:58",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3812476"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치8·워치8 클래식' 기능 살펴보니",
+        "date": "2025-07-10 08:56",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000075780"
+    },
+    {
+        "title": "내구성은 기본, 역대 가장 얇고 가볍다…삼성전자, '갤럭시 Z 폴드7' 공...",
+        "date": "2025-07-10 08:54",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=229536"
+    },
+    {
+        "title": "위츠, 삼성 '갤럭시 Z폴드7 및 워치 8시리즈' 무선충전 모듈 공급",
+        "date": "2025-07-10 08:54",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=358583"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 플립7' 공개...15일 사전 판매 시작",
+        "date": "2025-07-10 08:46",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=319178"
+    },
+    {
+        "title": "[갤럭시언팩 2025] 훨씬 강력하고, 역동적이고, 직관적 삼성전자, 폴더...",
+        "date": "2025-07-10 08:44",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=248204"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7' 공개...똑똑하고 안전하고 슬림해졌다",
+        "date": "2025-07-10 08:41",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000075777"
+    },
+    {
+        "title": "애플, ‘비전 프로’ 헤드셋 첫 업그레이드 준비...매출 부진 극복할까",
+        "date": "2025-07-10 08:38",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025071008240625273bc914ac71_1/article.html"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 워치8·워치8 클래식’ 공개",
+        "date": "2025-07-10 08:33",
+        "link": "https://n.news.naver.com/mnews/article/082/0001334756?sid=101"
+    },
+    {
+        "title": "더 얇고, 더 빠르게...삼성전자, '갤럭시 Z 폴드7' 공개",
+        "date": "2025-07-10 08:32",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=358557"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 플립 7·폴드 7' 공개",
+        "date": "2025-07-10 08:30",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=656066"
+    },
+    {
+        "title": "가장 얇고 가벼운 갤럭시Z폴드7 공개 최적화된 AI와 혁신적 설계 한층 진...",
+        "date": "2025-07-10 08:24",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=331424"
+    },
+    {
+        "title": "드디어 우리가 원하던 폴더블폰 삼성 갤Z7폴드에 외신 '호평'…가격은...",
+        "date": "2025-07-10 08:17",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200345?sid=105"
+    },
+    {
+        "title": "[키-리포트] 대신 KH바텍, 삼성 갤럭시Z 폴드·플립 슬림화 수혜",
+        "date": "2025-07-10 08:08",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=89183"
+    },
+    {
+        "title": "S25 울트라보다 가벼운 Z폴드7 공개...AI '제미나이 라이브' 탑재",
+        "date": "2025-07-10 08:06",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=98987"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치8' 시리즈 공개···얇고 훌륭한 착용감",
+        "date": "2025-07-10 08:03",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=600288"
+    },
+    {
+        "title": "‘폴더블폰의 혁신’ 삼성 ‘갤럭시 Z7 ’ 공개…AI 품은 초슬림폰, 1위...",
+        "date": "2025-07-10 08:02",
+        "link": "https://www.ceoscoredaily.com/page/view/2025070914350223087"
+    },
+    {
+        "title": "더 얇고 넓어진 Z폴드7 출시…혁신의 정점",
+        "date": "2025-07-10 07:55",
+        "link": "https://n.news.naver.com/mnews/article/215/0001215699?sid=101"
+    },
+    {
+        "title": "[비즈 나우] 애플, '2인자도 떠났다'…AI '첩첩산중'",
+        "date": "2025-07-10 07:52",
+        "link": "https://n.news.naver.com/mnews/article/374/0000450708?sid=101"
+    },
+    {
+        "title": "[더벨][삼성 갤럭시Z7 언팩]사용자 편의성 높인 폴드7, '112조' 게임 시장...",
+        "date": "2025-07-10 07:52",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507091423530960101733"
+    },
+    {
+        "title": "[르포] '힙스터 성지' 브루클린서 갤럭시 언팩…'모바일 AI' 미래 제시",
+        "date": "2025-07-10 07:51",
+        "link": "https://n.news.naver.com/mnews/article/001/0015498292?sid=105"
+    },
+    {
+        "title": "외신, 역대 가장 얇아진 갤럭시Z 폴드 7에 “획기적인 개선…완성형 프...",
+        "date": "2025-07-10 07:44",
+        "link": "https://www.kukinews.com/article/view/kuk202507100006"
+    },
+    {
+        "title": "삼성전자, S울트라보다 가벼운 Z폴드7 공개…'AI 눈' 제미나이 라이브 탑...",
+        "date": "2025-07-10 07:38",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=830460"
+    },
+    {
+        "title": "가장 얇은 갤럭시 워치8 공개… 수면부터 운동, 항산화 지수도 안내",
+        "date": "2025-07-10 07:34",
+        "link": "https://www.sentv.co.kr/article/view/sentv202507100002"
+    },
+    {
+        "title": "삼성전자, '역대 가장 얇고 뛰어난' 갤럭시 Z 폴드7·플립7 공개",
+        "date": "2025-07-10 07:32",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=91714"
+    },
+    {
+        "title": "삼성전자, 초슬림 대화면 폴더블폰 '갤럭시 Z 폴드7' 공개…25일 글로벌...",
+        "date": "2025-07-10 07:28",
+        "link": "https://hobbyen-news.com/news/view/1065565325785404"
+    },
+    {
+        "title": "뉴욕서 'Z폴더7' 공개‥삼성 진정한 AI 동반자",
+        "date": "2025-07-10 07:28",
+        "link": "https://n.news.naver.com/mnews/article/214/0001435363?sid=104"
+    },
+    {
+        "title": "얇고 가벼워진 갤럭시 폴더블, 'AI 눈' 제미나이 라이브 탑재",
+        "date": "2025-07-10 07:24",
+        "link": "https://www.sentv.co.kr/article/view/sentv202507100001"
+    },
+    {
+        "title": "[르포] 구글·퀄컴 손잡고 똑똑해진 ‘갤Z폴드7’ 출격…1200여명 몰린 ‘...",
+        "date": "2025-07-10 07:21",
+        "link": "https://n.news.naver.com/mnews/article/029/0002967260?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·플립7 공개…AI와 하드웨어 융합",
+        "date": "2025-07-10 07:06",
+        "link": "http://www.jnilbo.com/77728392300"
+    },
+    {
+        "title": "역대급 가벼움에 기능은 울트라…삼성이 제시한 폴더블 미래",
+        "date": "2025-07-10 07:01",
+        "link": "https://n.news.naver.com/mnews/article/011/0004507285?sid=101"
+    },
+    {
+        "title": "섹시 역사에 한 획…갤럭시 폴드에 쏟아진 찬사[모닝폰]",
+        "date": "2025-07-10 07:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006061582?sid=105"
+    },
+    {
+        "title": "[현장]더 얇고 가벼워졌다...'두께의 벽' 또 허문 폴더블 폰",
+        "date": "2025-07-10 07:00",
+        "link": "https://n.news.naver.com/mnews/article/469/0000875141?sid=105"
+    },
+    {
+        "title": "[7월9일] 스마트 안경이 성공하기 위한 필수 조건은",
+        "date": "2025-07-10 07:00",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=200471"
+    }
+]
