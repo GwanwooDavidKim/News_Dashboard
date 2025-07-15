@@ -1,1 +1,932 @@
-
+[
+    {
+        "title": "구글 VS 애플, 막오른 AI 전쟁",
+        "date": "2025-07-16 05:00",
+        "link": "https://n.news.naver.com/mnews/article/053/0000051154?sid=105"
+    },
+    {
+        "title": "애플, MP머티리얼스와 희토류 자석 구매 계약…美 공급망 강화",
+        "date": "2025-07-16 04:39",
+        "link": "https://n.news.naver.com/mnews/article/293/0000069849?sid=101"
+    },
+    {
+        "title": "中 턱밑 추격… 삼성, 프리미엄 LCD TV로 수성 나선다",
+        "date": "2025-07-16 00:35",
+        "link": "https://n.news.naver.com/mnews/article/023/0003917277?sid=105"
+    },
+    {
+        "title": "[미래산업 선도하는 울산 강소기업들]2차전지 첨가제·의약품 원료까지...",
+        "date": "2025-07-16 00:02",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1032056"
+    },
+    {
+        "title": "‘삼성에 패소 위기’ 중국 BOE, 애플에 납품 막히나",
+        "date": "2025-07-16 00:01",
+        "link": "https://n.news.naver.com/mnews/article/025/0003455355?sid=101"
+    },
+    {
+        "title": "통신 3사, 삼성 폴더블폰 사전예약 시작",
+        "date": "2025-07-16 00:01",
+        "link": "https://n.news.naver.com/mnews/article/025/0003455354?sid=105"
+    },
+    {
+        "title": "애플, 美 희토류 공급망 강화 위해 MP 머티리얼스에 7,200억 투자",
+        "date": "2025-07-15 23:54",
+        "link": "https://www.tokenpost.kr/news/tech/267210"
+    },
+    {
+        "title": "열심히 하겠다는 삼성전자, 하반기 재도약에 기대되는 4가지는",
+        "date": "2025-07-15 21:06",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=258347"
+    },
+    {
+        "title": "진격의 메타, 고개 숙인 애플…AI 투자 놓고 두 빅테크 상반된 행보",
+        "date": "2025-07-15 19:40",
+        "link": "https://n.news.naver.com/mnews/article/029/0002968421?sid=105"
+    },
+    {
+        "title": "바이트댄스, 메타에 도전하는 XR '고글' 개발",
+        "date": "2025-07-15 19:24",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=200665"
+    },
+    {
+        "title": "폴더블폰 갤럭시 Z7 대전 개막...이통 3사, 사전예약 고객 유치 총력전",
+        "date": "2025-07-15 19:22",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=270116"
+    },
+    {
+        "title": "이통3사 갤럭시 Z 예약 판매 큰 장 섰다 .... 공시지원금 최대 50만원",
+        "date": "2025-07-15 19:22",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=71099"
+    },
+    {
+        "title": "U.S. says BOE stole Samsung's trade secrets, putting Apple ties in jeopar...",
+        "date": "2025-07-15 19:21",
+        "link": "https://n.news.naver.com/mnews/article/640/0000073461?sid=105"
+    },
+    {
+        "title": "‘폴드7 실구매가가 20만원?’… ‘기적의 계산법’ 꼼꼼히 따져봐야",
+        "date": "2025-07-15 18:45",
+        "link": "https://n.news.naver.com/mnews/article/005/0001789907?sid=101"
+    },
+    {
+        "title": "통신3사 고객 유치전 올라탄 갤럭시 Z폴드7 ···판매 기록 깬다",
+        "date": "2025-07-15 18:18",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=302807"
+    },
+    {
+        "title": "갤럭시 Z플립·폴드, 오늘부터 사전예약...이번 신제품 ‘킥’ 색상은...",
+        "date": "2025-07-15 18:02",
+        "link": "https://n.news.naver.com/mnews/article/243/0000081318?sid=101"
+    },
+    {
+        "title": "폴더블 점유율 반등 특명… 시험대 오른 삼성 '투톱 리더십'",
+        "date": "2025-07-15 17:52",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250716010008882"
+    },
+    {
+        "title": "삼성, 2분기 글로벌 스마트폰 점유율 19%로 1위 수성",
+        "date": "2025-07-15 17:49",
+        "link": "https://n.news.naver.com/mnews/article/088/0000959138?sid=101"
+    },
+    {
+        "title": "KT·SKT·LG유플러스, 15일 '갤럭시 Z 폴드7·플립7' 사전예약 시작···혜...",
+        "date": "2025-07-15 17:46",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=40076"
+    },
+    {
+        "title": "삼성 ‘갤A’ 돌풍으로 2분기 스마트폰 1위 수성…‘갤Z7’ 앞세워 연간...",
+        "date": "2025-07-15 17:42",
+        "link": "https://www.ceoscoredaily.com/page/view/2025071516491762940"
+    },
+    {
+        "title": "美막힌 BOE, ‘中 아이폰’ 독점 노리나…삼디vs BOE 전쟁 2라운드",
+        "date": "2025-07-15 17:40",
+        "link": "https://n.news.naver.com/mnews/article/025/0003455299?sid=101"
+    },
+    {
+        "title": "삼성전자, 홀로 '성장' 2분기 스마트폰 시장 1위···애플·샤오미 '주춤...",
+        "date": "2025-07-15 17:36",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2303636"
+    },
+    {
+        "title": "[재계 투데이] LG, 하이브리드 AI '엑사원 4.0' 공개 外",
+        "date": "2025-07-15 17:36",
+        "link": "https://news.dealsitetv.com/articles/156734"
+    },
+    {
+        "title": "'4세 연하와 신행' 서동주, 볼륨감+애플힙 완벽 비키니 자태 [N샷]",
+        "date": "2025-07-15 17:34",
+        "link": "https://m.entertain.naver.com/article/421/0008371756"
+    },
+    {
+        "title": "삼성, 2분기에도 글로벌 스마트폰 시장 1위",
+        "date": "2025-07-15 17:18",
+        "link": "https://n.news.naver.com/mnews/article/003/0013364329?sid=105"
+    },
+    {
+        "title": "갤럭시 폴드·플립 Z 7 사전판매, '단통법 폐지' 직전까지 이통사 보조금...",
+        "date": "2025-07-15 17:18",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=114624"
+    },
+    {
+        "title": "[시간외 특징주] 덕산네오룩스, 하반기 실적 반등 기대에 급등…OLED 소...",
+        "date": "2025-07-15 17:16",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=272530"
+    },
+    {
+        "title": "[체크!IPO] 기관 '의무보유' 없는 도우인시스… '단타' 주의보",
+        "date": "2025-07-15 17:03",
+        "link": "https://n.news.naver.com/mnews/article/417/0001089427?sid=101"
+    },
+    {
+        "title": "[비즈마켓 VIEW] SKT 해킹사태 마무리, 삼성 폴더블폰 신작 출시…통신3...",
+        "date": "2025-07-15 17:02",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202507151312379620688"
+    },
+    {
+        "title": "삼성 갤럭시 스튜디오 더현대 서울에서 신제품 직접 만나본다",
+        "date": "2025-07-15 17:00",
+        "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=494063"
+    },
+    {
+        "title": "주가가 왜 이래?…'혁신의 아이콘' 애플, 어쩌다 뒤처졌나 [이슈크래...",
+        "date": "2025-07-15 16:58",
+        "link": "https://www.etoday.co.kr/news/view/2487982"
+    },
+    {
+        "title": "한양대-POSTECH 공동연구팀, 자외선 선택형 고성능 유기 광검출기 개발",
+        "date": "2025-07-15 16:58",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1260381"
+    },
+    {
+        "title": "이동통신 3사, 15일부터 삼성 갤럭시 Z 폴드7·Z 플립7 사전예약 시작",
+        "date": "2025-07-15 16:44",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=121616"
+    },
+    {
+        "title": "[르포] 비 오는 날에도 폴더블에 빠졌다…Z폴드7·플립7 체험 열기 '후...",
+        "date": "2025-07-15 16:40",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065596695701346"
+    },
+    {
+        "title": "'테슬라 절반이 날아간 꼴'…주가 폭락에 주주들 뿔났다 [종목+]",
+        "date": "2025-07-15 16:25",
+        "link": "https://n.news.naver.com/mnews/article/015/0005158205?sid=101"
+    },
+    {
+        "title": "정인환 한양대 유기나노공학과 교수 연구팀, 포스텍과 공동으로 자외선...",
+        "date": "2025-07-15 16:18",
+        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=110434"
+    },
+    {
+        "title": "화웨이 차세대 폴더블폰 '메이트 X7' 세부 사양 유출",
+        "date": "2025-07-15 16:16",
+        "link": "https://kbench.com/?q=node/269432"
+    },
+    {
+        "title": "삼성, 보급형 갤럭시로 글로벌 스마트폰 시장 '1위'",
+        "date": "2025-07-15 16:14",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=700995"
+    },
+    {
+        "title": "갤럭시Z7 폴더블 예판…공시지원금 최대 50만",
+        "date": "2025-07-15 16:00",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1268508&inflow=N"
+    },
+    {
+        "title": "“한국 온 김에 갤럭시 산다”…삼성 강남 매장 앞에 줄 선 외국인들 [현...",
+        "date": "2025-07-15 15:59",
+        "link": "https://n.news.naver.com/mnews/article/009/0005525232?sid=101"
+    },
+    {
+        "title": "삼성 7세대 폴더블폰 사전예약 시작…이통3사 역대급 지원금 뿌리나",
+        "date": "2025-07-15 15:55",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200689?sid=105"
+    },
+    {
+        "title": "삼성전자, 2분기 스마트폰 시장 1위...갤럭시A 호조",
+        "date": "2025-07-15 15:48",
+        "link": "https://n.news.naver.com/mnews/article/031/0000948851?sid=105"
+    },
+    {
+        "title": "다올티에스, '델 게이밍 노트북 G15' 쿠팡 단독 특가 판매",
+        "date": "2025-07-15 15:44",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=761748"
+    },
+    {
+        "title": "'아우토크립트' 상승 신고식, '애플 폴더블폰 수혜주' 상한가 직행 [뉴스...",
+        "date": "2025-07-15 15:42",
+        "link": "http://www.newswell.co.kr/news/articleView.html?idxno=11904"
+    },
+    {
+        "title": "중국 디스플레이 급성장 이면엔…한국 OLED 기술 ‘무단 침해’",
+        "date": "2025-07-15 15:40",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1268469&inflow=N"
+    },
+    {
+        "title": "티셔츠 줄무늬만큼 얇다...'호평' 갤럭시Z폴드7 광고 뭐길래",
+        "date": "2025-07-15 15:40",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=328788"
+    },
+    {
+        "title": "삼성전자, 올 2분기 글로벌 스마트폰 시장 1위 유지",
+        "date": "2025-07-15 15:36",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=181105"
+    },
+    {
+        "title": "위약금 면제 넘긴 SKT, 폴더블 출시·단통법 폐지로 '2라운드' 대비 모드",
+        "date": "2025-07-15 15:34",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/07/15/2025071500304.html"
+    },
+    {
+        "title": "애플, 첫 폴더블폰 '아이폰 폴드' 내년 출시...기대되는 5가지 기능 살펴...",
+        "date": "2025-07-15 15:32",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533558"
+    },
+    {
+        "title": "[휴대폰뉴스] KT, 15일부터 갤럭시 Z 폴드7·Z 플립7 사전예약 시작",
+        "date": "2025-07-15 15:32",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=135595"
+    },
+    {
+        "title": "아이폰17, 메이드 인 차이나 대신 메이드인 인디아",
+        "date": "2025-07-15 15:30",
+        "link": "https://n.news.naver.com/mnews/article/123/0002363704?sid=004"
+    },
+    {
+        "title": "사전예약 시작됐다...이통3사, 삼성 ‘갤럭시 Z 폴드7·플립7’ 고객유...",
+        "date": "2025-07-15 15:30",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000076167"
+    },
+    {
+        "title": "산업부, 무기발광 디스플레이 시장 주도 위해 민관협력 강화",
+        "date": "2025-07-15 15:28",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=217251"
+    },
+    {
+        "title": "쿠팡, ‘갤럭시 Z 플립7·폴드7’ 사전판매… 스토리지 2배 혜택에 푸짐...",
+        "date": "2025-07-15 15:20",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160280045833849"
+    },
+    {
+        "title": "통신3사, 갤럭시 폴드7-갤럭시 플립7 사전예약 시작 [포토]",
+        "date": "2025-07-15 15:10",
+        "link": "https://www.etoday.co.kr/news/view/2487936"
+    },
+    {
+        "title": "한양대-POSTECH 공동연구팀, 자외선 선택형 고성능 유기 광검출기 개발",
+        "date": "2025-07-15 15:10",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=91797"
+    },
+    {
+        "title": "이통3사, 갤럭시 Z폴드·플립7 예약 판매 개시…가입자 유치 경쟁 돌입",
+        "date": "2025-07-15 14:56",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=74493"
+    },
+    {
+        "title": "LCD 주춤, OLED 반등…디스플레이 산업 '양극화' 가속",
+        "date": "2025-07-15 14:46",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=97182"
+    },
+    {
+        "title": "애플 주춤해도, 삼성전자는 달렸다...글로벌 스마트폰 점유율 1위 '우뚝...",
+        "date": "2025-07-15 14:42",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=258305"
+    },
+    {
+        "title": "SKT·KT·LG U+, 갤럭시 Z 폴드7·플립7 사전예약 혜택 경쟁",
+        "date": "2025-07-15 14:40",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1243614"
+    },
+    {
+        "title": "[특징주] 파인엠텍 상한가, 홍콩 증권 삼성·애플 폴더블폰 최대 수혜...",
+        "date": "2025-07-15 14:34",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=272494"
+    },
+    {
+        "title": "이걸 왜 쓰나 했는데… 아이폰 사랑 1030세대도 '깜짝' [현장+]",
+        "date": "2025-07-15 14:32",
+        "link": "https://n.news.naver.com/mnews/article/015/0005158124?sid=105"
+    },
+    {
+        "title": "새로운 폴더블폰 '갤럭시 Z7' 예약 했어요!",
+        "date": "2025-07-15 14:28",
+        "link": "https://www.newspim.com/news/view/20250715000756"
+    },
+    {
+        "title": "삼성전자의 새로운 폴더블폰 '갤럭시 Z7' 예약 시작",
+        "date": "2025-07-15 14:28",
+        "link": "https://www.newspim.com/news/view/20250715000759"
+    },
+    {
+        "title": "삼성전자의 새로운 폴더블폰 '갤럭시 Z7' 시리즈 예약해 볼까?",
+        "date": "2025-07-15 14:28",
+        "link": "https://www.newspim.com/news/view/20250715000753"
+    },
+    {
+        "title": "삼성전자의 새로운 폴더블폰 '갤럭시 Z7' 사전예약 합니다!",
+        "date": "2025-07-15 14:28",
+        "link": "https://www.newspim.com/news/view/20250715000750"
+    },
+    {
+        "title": "사전예약으로 즐기는 삼성전자의 새로운 폴더블폰 '갤럭시 Z7'",
+        "date": "2025-07-15 14:28",
+        "link": "https://www.newspim.com/news/view/20250715000761"
+    },
+    {
+        "title": "KT에서 삼성전자 새로운 폴더블폰 '갤럭시 Z7' 사전예약 하기",
+        "date": "2025-07-15 14:28",
+        "link": "https://www.newspim.com/news/view/20250715000764"
+    },
+    {
+        "title": "AMD 슬림 게이밍 노트북, 기가바이트 AERO X16 지마켓 특가 프로모션 참...",
+        "date": "2025-07-15 14:26",
+        "link": "https://kbench.com/?q=node/269425"
+    },
+    {
+        "title": "출고가 50% 미리보상, AI·OTT 무료..통신3사, 오늘부터 '갤럭시 Z시리...",
+        "date": "2025-07-15 14:18",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2090521"
+    },
+    {
+        "title": "애플, A19·M5 등 차세대 칩 7종 개발 '수직 계열화 박차'",
+        "date": "2025-07-15 14:18",
+        "link": "https://n.news.naver.com/mnews/article/123/0002363695?sid=004"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드7·플립7’ 사전 판매 시작…AI 구독까지 더했...",
+        "date": "2025-07-15 14:11",
+        "link": "https://n.news.naver.com/mnews/article/117/0003964955?sid=103"
+    },
+    {
+        "title": "LG유플러스, 갤럭시 Z 폴드7·플립7 사전예약 개시",
+        "date": "2025-07-15 14:10",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=233824"
+    },
+    {
+        "title": "KT 'Z 폴드7·플립7' 사전예약… 단독 할인·몽골 투어",
+        "date": "2025-07-15 14:00",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3293437"
+    },
+    {
+        "title": "구글, 안드로이드-크롬OS 통합 발표",
+        "date": "2025-07-15 14:00",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025071511114779163b60030fa2_1/article.html"
+    },
+    {
+        "title": "KT, 갤럭시 Z 폴드7·플립7 사전예약 개시…최대 50% 할인 '미리보상'",
+        "date": "2025-07-15 13:58",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=97161"
+    },
+    {
+        "title": "애플 폴더블 아이폰 내년 출시…기대되는 기능 5가지",
+        "date": "2025-07-15 13:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=577323"
+    },
+    {
+        "title": "RTX 50 시리즈 탑재… 에이서 '2025 프레데터 헬리오스 게이밍 노트북' ...",
+        "date": "2025-07-15 13:52",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55285"
+    },
+    {
+        "title": "SKT·KT·LGU+ 국내 이통3사 오늘부터 '갤럭시Z플립·폴드7' 사전 예약 시...",
+        "date": "2025-07-15 13:46",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=328775"
+    },
+    {
+        "title": "'직무대행 100일' 노태문 사장, 연착륙할까",
+        "date": "2025-07-15 13:36",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025071513320153227"
+    },
+    {
+        "title": "[특징주] 파인엠텍, ‘폴더블 아이폰’ 수혜주로 꼽히며 급등",
+        "date": "2025-07-15 13:36",
+        "link": "https://n.news.naver.com/mnews/article/366/0001092655?sid=101"
+    },
+    {
+        "title": "갤럭시 Z 폴드7·플립7 사전예약 돌입…이통3사 혜택 경쟁 '후끈'",
+        "date": "2025-07-15 13:36",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=831214"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드·플립 7 사전 판매 시작…위약금 면제와 단통...",
+        "date": "2025-07-15 13:34",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=357926"
+    },
+    {
+        "title": "파인엠텍, 'SDC 폴더블 아이폰용' 무주름 디스플레이 솔루션 수혜 1위 호...",
+        "date": "2025-07-15 13:28",
+        "link": "https://n.news.naver.com/mnews/article/014/0005377225?sid=101"
+    },
+    {
+        "title": "애플, AI 전략 '속도' 몰린다…퍼플렉시티 인수·최고경영진 교체 요구...",
+        "date": "2025-07-15 13:25",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=700983"
+    },
+    {
+        "title": "삼성, 2분기 글로벌 스마트폰 점유율 1위 갤럭시A 시리즈, 성장세 이끌...",
+        "date": "2025-07-15 13:25",
+        "link": "https://n.news.naver.com/mnews/article/076/0004300250?sid=101"
+    },
+    {
+        "title": "애플 '아이폰 17 시리즈', 오는 9월 10일 키노트서 공개... 국내 출시 일...",
+        "date": "2025-07-15 13:22",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802195"
+    },
+    {
+        "title": "삼성 AI TV에 2025년형 AI TV에 '빅스비' 적용 업데이트 진행",
+        "date": "2025-07-15 13:22",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=478409"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S26 시리즈부터 '플러스' 모델 단종 수준 밟는다... 초...",
+        "date": "2025-07-15 13:20",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802193"
+    },
+    {
+        "title": "한양대-POSTECH 공동연구팀, 자외선 선택형 고성능 유기 광검출기 개발",
+        "date": "2025-07-15 13:20",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=434915"
+    },
+    {
+        "title": "애플, 인도서 '아이폰17' 시험 생산 돌입…중국 의존 탈피 가속화",
+        "date": "2025-07-15 13:16",
+        "link": "https://kbench.com/?q=node/269419"
+    },
+    {
+        "title": "애플, 개발자용 'iOS 18.6' 베타 3 업데이트 출시",
+        "date": "2025-07-15 12:54",
+        "link": "https://kbench.com/?q=node/269415"
+    },
+    {
+        "title": "한양대-POSTECH 공동연구팀, 자외선 선택형 고성능 유기 광검출기 개발",
+        "date": "2025-07-15 12:46",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=139414"
+    },
+    {
+        "title": "한양대-포스텍 공동연구팀, 자외선 선택형 고성능 유기 광검출기 개발",
+        "date": "2025-07-15 12:26",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=563015"
+    },
+    {
+        "title": "산업부, 무기발광 산업육성 워크숍 개최",
+        "date": "2025-07-15 12:12",
+        "link": "https://www.newscammp.co.kr/news/articleView.html?idxno=4658"
+    },
+    {
+        "title": "좀 기다렸다가 구글폰 살래? 비싼 갤럭시Z폴드7과 폰아레나의 경고",
+        "date": "2025-07-15 12:07",
+        "link": "https://n.news.naver.com/mnews/article/665/0000005429?sid=105"
+    },
+    {
+        "title": "KT, 15일부터 갤럭시 Z 폴드7·Z 플립7 사전예약...'미리보상 프로그램'...",
+        "date": "2025-07-15 12:04",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=161362"
+    },
+    {
+        "title": "이통 3사, '갤럭시 Z 폴드7·Z 플립7' 사전예약 개시…다양한 프로모션 ...",
+        "date": "2025-07-15 11:58",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=319436"
+    },
+    {
+        "title": "통신3社, 갤럭시 Z 폴드7·Z 플립7 사전예약 실시",
+        "date": "2025-07-15 11:42",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=86776"
+    },
+    {
+        "title": "삼성전자, 2분기 글로벌 스마트폰 점유율 1위 등극…2년째 19% 유지",
+        "date": "2025-07-15 11:42",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=67149"
+    },
+    {
+        "title": "KT, 갤럭시 Z 폴드7·Z 플립7 사전예약…'미리보상 프로그램' 선봬",
+        "date": "2025-07-15 11:42",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=82954"
+    },
+    {
+        "title": "통신 3사, 갤럭시Z 폴드7·플립7 예약판매 개시…보조금 경쟁 심화되나",
+        "date": "2025-07-15 11:35",
+        "link": "https://n.news.naver.com/mnews/article/082/0001335464?sid=101"
+    },
+    {
+        "title": "삼성, 2분기 스마트폰 점유율 1위 수성···이어 애플·샤오미",
+        "date": "2025-07-15 11:34",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=97144"
+    },
+    {
+        "title": "삼성디스플레이, 中 BOE에 'OLED 소송' 승기",
+        "date": "2025-07-15 11:20",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1670539"
+    },
+    {
+        "title": "이통3사, 갤럭시 Z 폴드7·플립7 사전예약 시작",
+        "date": "2025-07-15 11:18",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=217871"
+    },
+    {
+        "title": "KT, 15일부터 갤럭시 Z 폴드7·Z 플립7 사전 예약 시작",
+        "date": "2025-07-15 11:12",
+        "link": "https://www.ilyosisa.co.kr/news/article.html?no=250553"
+    },
+    {
+        "title": "애플, 차기 '아이패드 프로' M5 칩셋 최초 탑재하나",
+        "date": "2025-07-15 11:06",
+        "link": "https://kbench.com/?q=node/269408"
+    },
+    {
+        "title": "삼성디스플레이, OLED 영업비밀 소송 승기에…中 BOE, 재심 청구 계획",
+        "date": "2025-07-15 11:04",
+        "link": "https://www.ajunews.com/view/20250715104714151"
+    },
+    {
+        "title": "스코코, 갤럭시 Z 폴드7·갤럭시 Z 플립7·Z 플립7 FE 전용 보호필름 출...",
+        "date": "2025-07-15 11:04",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=357301"
+    },
+    {
+        "title": "이동통신 3사, 갤럭시 Z 폴드7·Z 플립7 사전 예약 개시…고객 혜택 경쟁...",
+        "date": "2025-07-15 11:00",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=510692"
+    },
+    {
+        "title": "통신3사, 갤럭시Z7 시리즈 사전예약 개시…프로모션 앞세워 가입자 몰이",
+        "date": "2025-07-15 11:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=174826"
+    },
+    {
+        "title": "이통3사, 삼성전자 ‘갤럭시 Z폴더블7’ 시리즈 사전예약 개시",
+        "date": "2025-07-15 10:58",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/07/15/2025071500132.html"
+    },
+    {
+        "title": "더 얇고 가벼워진 갤럭시 Z 플립·폴드 7, 이통 3社 사전 예약 전 반드시...",
+        "date": "2025-07-15 10:58",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802176"
+    },
+    {
+        "title": "iLED 경쟁 뒤처진 OLED 강국…韓, 민관 총력전 돌입",
+        "date": "2025-07-15 10:57",
+        "link": "https://n.news.naver.com/mnews/article/030/0003331527?sid=101"
+    },
+    {
+        "title": "삼성, 2분기 글로벌 스마트폰 점유율 19%로 1위 수성",
+        "date": "2025-07-15 10:52",
+        "link": "https://www.ltn.kr/news/articleView.html?idxno=49125"
+    },
+    {
+        "title": "[갤럭시Z7 사전예약] '불꽃 경쟁' 이통3사 혜택 톺아보기",
+        "date": "2025-07-15 10:40",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=95639"
+    },
+    {
+        "title": "삼성 스마트폰, 점유율 19% '1위'…애플·샤오미 '주춤'",
+        "date": "2025-07-15 10:40",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2083481"
+    },
+    {
+        "title": "시장 규모 320억 달러 iLED…산업부, 전문가·업계와 시장 주도 방안 모...",
+        "date": "2025-07-15 10:40",
+        "link": "https://www.viva100.com/article/20250715500524"
+    },
+    {
+        "title": "이통3사, 오늘부터 '갤럭시 Z 폴드·플립7' 사전예약",
+        "date": "2025-07-15 10:38",
+        "link": "https://www.etoday.co.kr/news/view/2487807"
+    },
+    {
+        "title": "다올티에스, RTX 3050 탑재...델 게이밍 노트북 G15 쿠팡서 특가 판매",
+        "date": "2025-07-15 10:36",
+        "link": "https://www.betanews.net/article/view/beta202507150029"
+    },
+    {
+        "title": "이통3사, 갤럭시 Z 폴드7·Z 플립7 사전예약 개시..프로모션 경쟁 ‘후끈...",
+        "date": "2025-07-15 10:34",
+        "link": "http://www.breaknews.com/1132802"
+    },
+    {
+        "title": "통신3사, 갤럭시 Z 폴드7·Z 플립7 사전예약 '혜택 경쟁' 본격화",
+        "date": "2025-07-15 10:32",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=111962"
+    },
+    {
+        "title": "무기발광 디스플레이 시장 주도 민관협력 강화",
+        "date": "2025-07-15 10:28",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=285954"
+    },
+    {
+        "title": "쿠팡, '갤럭시 Z 플립7·폴드7' 사전판매 시작",
+        "date": "2025-07-15 10:28",
+        "link": "http://www.nongaek.com/news/articleView.html?idxno=91991"
+    },
+    {
+        "title": "폴드7·플립7 사전예약 개시…혜택 가장 좋은 곳은?",
+        "date": "2025-07-15 10:26",
+        "link": "https://n.news.naver.com/mnews/article/215/0001216282?sid=101"
+    },
+    {
+        "title": "iLED 글로벌 시장 주도 위해 산·학·연 혜안 결집",
+        "date": "2025-07-15 10:26",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=761602"
+    },
+    {
+        "title": "KT, 15일부터 갤럭시 Z 폴드7·Z 플립7 사전예약 시작",
+        "date": "2025-07-15 10:24",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=228370"
+    },
+    {
+        "title": "삼성D, 美 ITC서 BOE 상대 OLED 영업비밀 침해 예비승소",
+        "date": "2025-07-15 10:22",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092144106"
+    },
+    {
+        "title": "내년 나오는 폴더블 아이폰…5가지 새 기능",
+        "date": "2025-07-15 10:21",
+        "link": "https://n.news.naver.com/mnews/article/092/0002382054?sid=105"
+    },
+    {
+        "title": "KT, 15일 갤럭시 Z 폴드7·Z 플립7 사전예약 시작",
+        "date": "2025-07-15 10:18",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=181047"
+    },
+    {
+        "title": "KT, '갤럭시 Z 폴드7·플립7' 사전 예약 시작",
+        "date": "2025-07-15 10:04",
+        "link": "http://www.newswell.co.kr/news/articleView.html?idxno=11893"
+    },
+    {
+        "title": "애플 닮은 '구글 생태계' 나온다…'안드로이드·크롬 OS 통합",
+        "date": "2025-07-15 10:04",
+        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=262370"
+    },
+    {
+        "title": "KT, 15일부터 갤럭시Z폴드·플립7 사전예약",
+        "date": "2025-07-15 10:00",
+        "link": "https://www.ceoscoredaily.com/page/view/2025071509595286440"
+    },
+    {
+        "title": "애플, 2분기 아이폰 출하량 소폭 증가…삼성은 선두 유지",
+        "date": "2025-07-15 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=577235"
+    },
+    {
+        "title": "IP67 방진방수에 120Hz 고주사율 지원하는 ‘삼성전자 갤럭시 A36 자급제...",
+        "date": "2025-07-15 10:00",
+        "link": "https://news.appstory.co.kr/daily18360"
+    },
+    {
+        "title": "다올티에스, 델 게이밍 노트북 G15 쿠팡서 단독 특가 판매",
+        "date": "2025-07-15 09:57",
+        "link": "https://n.news.naver.com/mnews/article/030/0003331454?sid=105"
+    },
+    {
+        "title": "폴더블 스마트폰 시장, '접히는' 판세 바꿀까…애플의 승부수에 쏠리는...",
+        "date": "2025-07-15 09:54",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202507150949132924de3f0aa1be_7"
+    },
+    {
+        "title": "삼성디스플레이, 美 ITC 소송서 우위...BOE, OLED 영업비밀 침해",
+        "date": "2025-07-15 09:54",
+        "link": "https://news.mtn.co.kr/news-detail/2025071509405361074"
+    },
+    {
+        "title": "이통3사, 갤럭시Z7 사전 판매 경쟁…공시지원금 최대 50만원",
+        "date": "2025-07-15 09:53",
+        "link": "https://n.news.naver.com/mnews/article/001/0015507383?sid=105"
+    },
+    {
+        "title": "KT, 15일부터 ‘갤럭시 Z 폴드7·플립7’ 사전예약 시작",
+        "date": "2025-07-15 09:50",
+        "link": "https://www.viva100.com/article/20250715500349"
+    },
+    {
+        "title": "구글 '픽셀 10 프로 폴드' 내구성 대폭 향상.. 폴더블 최초 IP68 방진·방...",
+        "date": "2025-07-15 09:50",
+        "link": "https://kbench.com/?q=node/269395"
+    },
+    {
+        "title": "SK텔레콤, 갤럭시 폴더블폰 사전예약 진행",
+        "date": "2025-07-15 09:46",
+        "link": "https://www.cnbnews.com/news/article.html?no=738046"
+    },
+    {
+        "title": "KT, 15일부터 갤럭시 Z 폴드7·Z 플립7 사전예약",
+        "date": "2025-07-15 09:46",
+        "link": "https://www.cnbnews.com/news/article.html?no=738050"
+    },
+    {
+        "title": "무기발광 디스플레이 시장 선점…산업부, 산업육성 간담회 개최",
+        "date": "2025-07-15 09:46",
+        "link": "https://www.electimes.com/news/articleView.html?idxno=357954"
+    },
+    {
+        "title": "다올티에스, 델 게이밍 노트북 G15 쿠팡서 단독 특가 판매",
+        "date": "2025-07-15 09:42",
+        "link": "https://kbench.com/?q=node/269396"
+    },
+    {
+        "title": "KT, 15일부터 갤럭시 Z 폴드7·Z 플립7 사전예약 시작",
+        "date": "2025-07-15 09:40",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=59513"
+    },
+    {
+        "title": "유통가, 갤럭시 사전예약 '경쟁'…이커머스부터 대형마트까지",
+        "date": "2025-07-15 09:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=272416"
+    },
+    {
+        "title": "KT, 갤럭시 Z 폴드7·Z 플립7 사전예약…“몽골 투어에 페스티벌 초청”",
+        "date": "2025-07-15 09:36",
+        "link": "https://www.sentv.co.kr/article/view/sentv202507150045"
+    },
+    {
+        "title": "KT, 15일부터 갤럭시 Z 폴드7·Z 플립7 사전예약 시작",
+        "date": "2025-07-15 09:36",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=396251"
+    },
+    {
+        "title": "구글, 안드로이드·크롬OS 통합 선언…애플처럼 생태계 강화",
+        "date": "2025-07-15 09:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=577225"
+    },
+    {
+        "title": "美 ITC, 中 BOE OLED 수입 금지 예비 판정.. 삼성D 특허분쟁 유리한 고지",
+        "date": "2025-07-15 09:30",
+        "link": "https://kbench.com/?q=node/269394"
+    },
+    {
+        "title": "AI 늦장 대응에 실망 커져…애플, 전사적 혁신 압박 직면",
+        "date": "2025-07-15 09:30",
+        "link": "https://n.news.naver.com/mnews/article/243/0000081283?sid=101"
+    },
+    {
+        "title": "KT, 15일부터 갤럭시 Z 폴드7•Z 플립7 사전예약 시작",
+        "date": "2025-07-15 09:26",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=63705"
+    },
+    {
+        "title": "KT, 15일부터 갤럭시 Z 폴드7·Z 플립7 사전예약",
+        "date": "2025-07-15 09:24",
+        "link": "https://n.news.naver.com/mnews/article/119/0002979215?sid=105"
+    },
+    {
+        "title": "[오늘의 통신리뷰] SKT·KT·LG U+, 갤럭시 Z 폴드7 | Z 플립7 사전예약",
+        "date": "2025-07-15 09:20",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=35758"
+    },
+    {
+        "title": "KT, 갤럭시 Z폴드7·Z플립7 사전예약 시작",
+        "date": "2025-07-15 09:20",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=85741"
+    },
+    {
+        "title": "아이웨어, 패션 넘어 기술로···국내업계, 글로벌서 '스마트 혁신' 가...",
+        "date": "2025-07-15 09:19",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=600707"
+    },
+    {
+        "title": "내년 신작 '갤럭시 S26', 플러스 모델 제외될까[모닝폰]",
+        "date": "2025-07-15 09:16",
+        "link": "https://n.news.naver.com/mnews/article/018/0006065840?sid=105"
+    },
+    {
+        "title": "KT, 미리보상 프로그램 ‘갤 Z폴드7·Z플립7’ 50% 할인",
+        "date": "2025-07-15 09:15",
+        "link": "https://n.news.naver.com/mnews/article/018/0006065837?sid=105"
+    },
+    {
+        "title": "KT, 15일부터 갤럭시 Z 폴드7·Z 플립7 사전예약",
+        "date": "2025-07-15 09:15",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000076098"
+    },
+    {
+        "title": "SKT, 갤럭시 폴더블폰 사전예약...티빙 3개월 무료",
+        "date": "2025-07-15 09:10",
+        "link": "https://n.news.naver.com/mnews/article/018/0006065825?sid=105"
+    },
+    {
+        "title": "다올티에스, 델 게이밍 노트북 G15 쿠팡서 단독 특가 판매",
+        "date": "2025-07-15 09:10",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=59499"
+    },
+    {
+        "title": "C2 모뎀 최초 탑재될까? 애플, '아이폰17e' 내년 봄 출시 전망. 변화 포...",
+        "date": "2025-07-15 09:08",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533515"
+    },
+    {
+        "title": "삼성전자, 글로벌 스마트폰 점유율 19%차지, 올해도 1위",
+        "date": "2025-07-15 09:06",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3826263"
+    },
+    {
+        "title": "IBK투자증권 내년 폴더블 아이폰에 국내 '소부장' 수혜 기대",
+        "date": "2025-07-15 08:59",
+        "link": "https://n.news.naver.com/mnews/article/001/0015507158?sid=101"
+    },
+    {
+        "title": "삼성전자, 스마트폰 1위 수성...성장률 나홀로 '쑥'",
+        "date": "2025-07-15 08:46",
+        "link": "https://n.news.naver.com/mnews/article/215/0001216262?sid=004"
+    },
+    {
+        "title": "갤럭시 A 시리즈가 선두 지켰다 삼성전자‥Q2 글로벌 스마트폰 점유율...",
+        "date": "2025-07-15 08:34",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=409649"
+    },
+    {
+        "title": "다올티에스, 쿠팡서 '델 게이밍 노트북 G15' 단독 특가 판매",
+        "date": "2025-07-15 08:30",
+        "link": "https://n.news.naver.com/mnews/article/014/0005376973?sid=105"
+    },
+    {
+        "title": "삼성, 2분기 글로벌 스마트폰 점유율 19%…1위 수성",
+        "date": "2025-07-15 08:30",
+        "link": "https://n.news.naver.com/mnews/article/422/0000759731?sid=101"
+    },
+    {
+        "title": "삼성 스마트폰, 올해 2분기 세계 시장 점유율 1위 수성",
+        "date": "2025-07-15 08:30",
+        "link": "http://www.segyebiz.com/newsView/20250715502837?OutUrl=naver"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 폴드7·Z 플립7' 15일 자정부터 사전 판매 시작...공...",
+        "date": "2025-07-15 08:28",
+        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=504889"
+    },
+    {
+        "title": "무기발광 디스플레이, 차세대 주도권 잡는다… 민·관 R&amp;D 협력 본격화",
+        "date": "2025-07-15 08:28",
+        "link": "http://www.energydaily.co.kr/news/articleView.html?idxno=157923"
+    },
+    {
+        "title": "산업부, iLED 산업육성 얼라이언스 워크숍…생태계 육성 지원",
+        "date": "2025-07-15 08:27",
+        "link": "https://n.news.naver.com/mnews/article/001/0015507088?sid=101"
+    },
+    {
+        "title": "삼성D, 소송 승기?…美ITC 中BOE OLED 수입 금지해야",
+        "date": "2025-07-15 08:26",
+        "link": "https://n.news.naver.com/mnews/article/079/0004044818?sid=101"
+    },
+    {
+        "title": "“삼성이 또 해냈다?”…애플·샤오미 주춤한 사이 점유율 1위 ‘굳히기...",
+        "date": "2025-07-15 08:24",
+        "link": "https://www.socialvalue.kr/news/view/1065568860233423"
+    },
+    {
+        "title": "시장분석가들 “혁신 없는 애플, CEO까지 교체 요구 직면”",
+        "date": "2025-07-15 08:22",
+        "link": "https://n.news.naver.com/mnews/article/029/0002968110?sid=104"
+    },
+    {
+        "title": "[더벨][삼성 갤럭시Z7 언팩]폴더블폰 경쟁력, 중국 기업보다 높은 '완성...",
+        "date": "2025-07-15 08:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507140718035340109641"
+    },
+    {
+        "title": "[더벨]노태문의 '마스터피스'",
+        "date": "2025-07-15 08:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507111734345040108124"
+    },
+    {
+        "title": "2Q 스마트폰 시장 1% 감소…삼성 1위·애플 2위",
+        "date": "2025-07-15 08:06",
+        "link": "https://n.news.naver.com/mnews/article/119/0002979151?sid=105"
+    },
+    {
+        "title": "삼성, 2분기 글로벌 스마트폰 점유율 19%로 1위 수성",
+        "date": "2025-07-15 08:02",
+        "link": "https://n.news.naver.com/mnews/article/001/0015507072?sid=105"
+    },
+    {
+        "title": "무기발광 디스플레이 시장주도 위해 민·관 머리 맞댄다",
+        "date": "2025-07-15 07:56",
+        "link": "https://n.news.naver.com/mnews/article/092/0002382009?sid=105"
+    },
+    {
+        "title": "삼성, 中 BOE OLED 영업비밀 침해소송서 승소. ITC, 수입금지 예비 판결",
+        "date": "2025-07-15 07:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533502"
+    },
+    {
+        "title": "다올티에스, 델 게이밍 노트북 G15 쿠팡서 단독 특가 판매",
+        "date": "2025-07-15 07:44",
+        "link": "http://www.datanews.co.kr/news/article.html?no=139657"
+    },
+    {
+        "title": "디스플레이 업계, 하반기 턴어라운드 기대감 ↑",
+        "date": "2025-07-15 07:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=577109"
+    },
+    {
+        "title": "아이폰17, 9월 9일 공개 유력...전방위적 혁신 예고",
+        "date": "2025-07-15 07:30",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=33328"
+    },
+    {
+        "title": "유통가, 갤럭시 사전예약 '경쟁'…이커머스부터 대형마트까지",
+        "date": "2025-07-15 07:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013362255?sid=101"
+    }
+]
