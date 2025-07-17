@@ -1,1 +1,847 @@
-
+[
+    {
+        "title": "‘폴드7보다 얇은 폰’은 거짓말… 반복되는 中의 스펙 과장 의혹",
+        "date": "2025-07-18 00:53",
+        "link": "https://n.news.naver.com/mnews/article/005/0001790513?sid=101"
+    },
+    {
+        "title": "새우 싸움에 고래 등 터질라, 중국만 웃는 ‘K-OLED 내분’",
+        "date": "2025-07-18 00:02",
+        "link": "https://n.news.naver.com/mnews/article/025/0003455931?sid=101"
+    },
+    {
+        "title": "애플, 2027년 출시 목표로 HBM 장착한 초고성능 아이폰 개발",
+        "date": "2025-07-17 22:28",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533685"
+    },
+    {
+        "title": "쿠쿠, 슬림해진 '식기세척기·폴더블 안마베드·제습기' 출시",
+        "date": "2025-07-17 21:58",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=762409"
+    },
+    {
+        "title": "애플, 美 MP와 5억달러 계약…재활용 희토류도 '현지 조달'로 전환",
+        "date": "2025-07-17 20:56",
+        "link": "http://www.impacton.net/news/articleView.html?idxno=15861"
+    },
+    {
+        "title": "[부고] 박경만(애플경제 주필)씨 부친상",
+        "date": "2025-07-17 20:40",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=360640"
+    },
+    {
+        "title": "삼성전자, 프로야구와 함께하는 '갤럭시 Z 폴드7∙플립7' 체험 마케팅 본...",
+        "date": "2025-07-17 20:30",
+        "link": "https://www.todayeconomic.com/news/article.html?no=27792"
+    },
+    {
+        "title": "쿠쿠, '식기세척기·폴더블 안마베드·제습기' 슬림가전 3종 출시",
+        "date": "2025-07-17 19:58",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=661113"
+    },
+    {
+        "title": "쿠쿠, 크기 줄인 ‘식기세척기·폴더블 안마베드·제습기’ 출시",
+        "date": "2025-07-17 19:16",
+        "link": "https://n.news.naver.com/mnews/article/029/0002969091?sid=101"
+    },
+    {
+        "title": "게이밍 모니터에 TN 패널이 많은 이유는?",
+        "date": "2025-07-17 19:11",
+        "link": "https://n.news.naver.com/mnews/article/020/0003648709?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·Z 플립7 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 18:34",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=766934"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 18:28",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160299505165018"
+    },
+    {
+        "title": "삼성전자, 프로야구 3개 구단과 '갤럭시 Z7 시리즈' 체험 이벤트",
+        "date": "2025-07-17 18:22",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=258901"
+    },
+    {
+        "title": "야구장서 '갤럭시 Z 폴드7∙Z 플립7' 체험한다",
+        "date": "2025-07-17 18:04",
+        "link": "http://www.industrynews.co.kr/news/articleView.html?idxno=67317"
+    },
+    {
+        "title": "구글도 애플처럼? 안드로이드·크롬OS 통합 시동",
+        "date": "2025-07-17 17:58",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092144260"
+    },
+    {
+        "title": "네이버, AI 스튜디오로 혼합현실 콘텐츠 시장 공략",
+        "date": "2025-07-17 17:58",
+        "link": "https://news.mtn.co.kr/news-detail/2025071716394677716"
+    },
+    {
+        "title": "'갤럭시S26 울트라' 더 얇은 베젤로 스크린 크기 키운다",
+        "date": "2025-07-17 17:54",
+        "link": "https://kbench.com/?q=node/269541"
+    },
+    {
+        "title": "삼성전자, 2분기 글로벌 스마트폰 시장 점유율 1위 유지",
+        "date": "2025-07-17 17:42",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092144267"
+    },
+    {
+        "title": "'무차별 공세' 中 BOE, 삼성디스플레이 상대로 새로운 OLED 특허소송",
+        "date": "2025-07-17 17:24",
+        "link": "https://www.theguru.co.kr/news/article.html?no=89488"
+    },
+    {
+        "title": "홈런 치면 폴드7 공짜···삼성전자, 야구장서 '폴더블' 마케팅 승부",
+        "date": "2025-07-17 17:18",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2304860"
+    },
+    {
+        "title": "삼성, '갤럭시 Z 트라이폴드' 상표 출원… 3단 폴더블폰 연내 출시",
+        "date": "2025-07-17 17:12",
+        "link": "https://kbench.com/?q=node/269536"
+    },
+    {
+        "title": "‘세계에서 가장 얇다’던 中 폴더블폰…알고 보니 허위 광고?",
+        "date": "2025-07-17 17:10",
+        "link": "https://n.news.naver.com/mnews/article/024/0000098594?sid=101"
+    },
+    {
+        "title": "쿠쿠, 식기세척기·폴더블 안마베드·제습기 출시",
+        "date": "2025-07-17 17:04",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=657223"
+    },
+    {
+        "title": "삼성디스플레이, IT사업팀 강화...IT영업팀 추가",
+        "date": "2025-07-17 16:58",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=38349"
+    },
+    {
+        "title": "삼성디스플레이, 애플 OLED 공급 확대…중·대형 시장까지 장악하나",
+        "date": "2025-07-17 16:56",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=87105"
+    },
+    {
+        "title": "한국 게임사, 美 법원에 구글·애플 상대 집단 조정 신청...“인앱 수수...",
+        "date": "2025-07-17 16:55",
+        "link": "https://n.news.naver.com/mnews/article/009/0005526692?sid=105"
+    },
+    {
+        "title": "삼성, 애플 제치고 2분기 글로벌 1위…폴더블폰·단통법 폐지 타고 흥행...",
+        "date": "2025-07-17 16:35",
+        "link": "https://n.news.naver.com/mnews/article/029/0002968996?sid=105"
+    },
+    {
+        "title": "청주시, 신소득작목 애플망고 본격 수확",
+        "date": "2025-07-17 16:28",
+        "link": "http://www.amnews.co.kr/news/articleView.html?idxno=67415"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 폴드7∙Z 플립7', 프로야구와 만나다",
+        "date": "2025-07-17 16:24",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1296500"
+    },
+    {
+        "title": "[르포] '갤럭시=아재폰' 선입견 깬다…삼성 갤럭시Z7 시리즈 초대박 예...",
+        "date": "2025-07-17 16:22",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=189990"
+    },
+    {
+        "title": "쿠쿠, 슬림해져 편리한 ‘식기세척기·폴더블 안마베드·제습기’ 출시",
+        "date": "2025-07-17 16:18",
+        "link": "http://www.globalepic.co.kr/view.php?ud=20250717151007269ac3d53c8ec_29"
+    },
+    {
+        "title": "[부고] 박경만(애플경제 주필)씨 부친상",
+        "date": "2025-07-17 16:15",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2304787"
+    },
+    {
+        "title": "'폴더블용 유리제조' 도우인시스 23일 상장 [위클리 마켓]",
+        "date": "2025-07-17 16:01",
+        "link": "https://n.news.naver.com/mnews/article/009/0005526645?sid=101"
+    },
+    {
+        "title": "삼성전자 갤럭시 Z 폴드7∙Z 플립7, 프로야구와 함께한다",
+        "date": "2025-07-17 15:46",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=704044"
+    },
+    {
+        "title": "XR도 흔드는 중국...올레도스에 18억 위안 투자",
+        "date": "2025-07-17 15:44",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=328896"
+    },
+    {
+        "title": "아이폰17 에어만 티타늄 프레임 채택? 극한의 슬림 디자인에 안정성 더...",
+        "date": "2025-07-17 15:42",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533667"
+    },
+    {
+        "title": "[AT 산업 단신] 삼성전자·LG전자·태광그룹·샤오미코리아",
+        "date": "2025-07-17 15:42",
+        "link": "https://www.asiatime.co.kr/article/20250717500321"
+    },
+    {
+        "title": "삼성전자, 통신·스마트홈 특허 200건 중소기업에 무상이전",
+        "date": "2025-07-17 15:36",
+        "link": "http://www.metroseoul.co.kr/article/20250717500435"
+    },
+    {
+        "title": "이재용 무죄 선고날 삼성에 좋은 소식 또 전해졌다…2분기 스마트폰 1위",
+        "date": "2025-07-17 15:34",
+        "link": "https://n.news.naver.com/mnews/article/022/0004052526?sid=101"
+    },
+    {
+        "title": "삼성전자, HBM 경쟁력 제고가 성장 동력...하반기 파운드리 가동률 상승...",
+        "date": "2025-07-17 15:34",
+        "link": "http://www.lkp.news/news/articleView.html?idxno=66787"
+    },
+    {
+        "title": "이제 안경 안 올려도되요···갤럭시폴드7, 시니어에게 최적인 이유",
+        "date": "2025-07-17 15:24",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=238390"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 프로야구 연계 마케팅 전개",
+        "date": "2025-07-17 15:18",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=218128"
+    },
+    {
+        "title": "삼성전자, 2분기 전세계 스마트폰시장 1위…점유율 20% 기록",
+        "date": "2025-07-17 15:18",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=49704"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 프로야구 연계 마케팅 전개",
+        "date": "2025-07-17 15:10",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=217450"
+    },
+    {
+        "title": "삼성전자 갤럭시Z 폴드7·플립7, 야구장 상륙",
+        "date": "2025-07-17 15:02",
+        "link": "https://enter.etoday.co.kr/news/view/280927"
+    },
+    {
+        "title": "[글로벌] 애플, 美 희토류 공정 투자...공급망 탈중국화 본격화",
+        "date": "2025-07-17 14:52",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=142268"
+    },
+    {
+        "title": "쿠쿠 '식기세척기·폴더블 안마베드·제습기' 출시",
+        "date": "2025-07-17 14:52",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3294585"
+    },
+    {
+        "title": "파인엠텍 이어 유티아이도?…애플 UTG 공급설에 시장 술렁",
+        "date": "2025-07-17 14:44",
+        "link": "https://www.ajunews.com/view/20250717143232031"
+    },
+    {
+        "title": "삼성, 2분기 스마트폰 시장 1위…갤S25·A시리즈 나란히 호조",
+        "date": "2025-07-17 14:37",
+        "link": "https://n.news.naver.com/mnews/article/003/0013369035?sid=105"
+    },
+    {
+        "title": "쿠쿠, '식기세척기·폴더블 안마베드·제습기' 3종 출시...공간 활용도·...",
+        "date": "2025-07-17 14:36",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=217436"
+    },
+    {
+        "title": "“코딩으로 세상을 바꾼다”…포항서 자란 애플의 차세대 개발자들",
+        "date": "2025-07-17 14:32",
+        "link": "https://n.news.naver.com/mnews/article/030/0003332624?sid=105"
+    },
+    {
+        "title": "[부고] 박경만(애플경제 주필)씨 부친상",
+        "date": "2025-07-17 14:24",
+        "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1167245"
+    },
+    {
+        "title": "'갤폴드' 다음은 '픽셀 폴드'…구글, 다음달 폴더블폰 신작 꺼낸다",
+        "date": "2025-07-17 14:16",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=272752"
+    },
+    {
+        "title": "삼성전자, 수원·대구·잠실 등서 프로야구 연계 신제품 체험존 운영",
+        "date": "2025-07-17 14:14",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1152331"
+    },
+    {
+        "title": "쿠쿠, 슬림형 가전 3종 출시… 식기세척기·안마베드·제습기 선봬",
+        "date": "2025-07-17 14:10",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=134797"
+    },
+    {
+        "title": "화웨이, 4년 만에 中 스마트폰 시장 1위.. 애플은 5위",
+        "date": "2025-07-17 14:08",
+        "link": "https://kbench.com/?q=node/269521"
+    },
+    {
+        "title": "삼성전자, 2분기 글로벌 스마트폰 시장 점유율 1위",
+        "date": "2025-07-17 14:04",
+        "link": "https://n.news.naver.com/mnews/article/374/0000452204?sid=101"
+    },
+    {
+        "title": "파인엠텍, 175억 규모 시설투자 결정…폴더블 시장 확대 대응",
+        "date": "2025-07-17 13:58",
+        "link": "https://n.news.naver.com/mnews/article/293/0000069921?sid=101"
+    },
+    {
+        "title": "[부고] 박경만(애플경제 주필)씨 부친상",
+        "date": "2025-07-17 13:56",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=97484"
+    },
+    {
+        "title": "[경제를 부탁해]두 번 접는 폰 본격 경쟁?",
+        "date": "2025-07-17 13:34",
+        "link": "https://n.news.naver.com/mnews/article/449/0000315124?sid=115"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 13:28",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=239320"
+    },
+    {
+        "title": "[다시 뛰는 삼성] 갤럭시 난제 '아재폰' 이미지…MX사업부 리뉴얼?",
+        "date": "2025-07-17 13:22",
+        "link": "https://news.dealsitetv.com/articles/156796"
+    },
+    {
+        "title": "[가전뉴스] 쿠쿠, 슬림해져 편리한 '식기세척기·폴더블 안마베드·제습...",
+        "date": "2025-07-17 13:02",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=135703"
+    },
+    {
+        "title": "애플워치, 호주서 수면무호흡증 조기감지 기능 승인…조기진단 전환점...",
+        "date": "2025-07-17 12:56",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=65434"
+    },
+    {
+        "title": "MP 머티리얼즈, 애플 공급 계약 하루만에 5억 달러 증자",
+        "date": "2025-07-17 12:52",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4365242"
+    },
+    {
+        "title": "단축키 커스텀 LCD 매크로덱 탑재 키보드... 앱코 'TOS300'",
+        "date": "2025-07-17 11:56",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55315"
+    },
+    {
+        "title": "'아이폰17 프로' 디스플레이 내구성·시인성 대폭 강화.. 향상된 긁힘·...",
+        "date": "2025-07-17 11:56",
+        "link": "https://kbench.com/?q=node/269508"
+    },
+    {
+        "title": "삼성전자, 프로야구 3개 구단과 '갤럭시 Z 폴드7∙Z 플립7' 이벤트",
+        "date": "2025-07-17 11:46",
+        "link": "https://n.news.naver.com/mnews/article/629/0000408223?sid=105"
+    },
+    {
+        "title": "아이폰 폴드, 갤럭시Z 폴드7보다 두꺼울 듯…예상 두께 4.8mm",
+        "date": "2025-07-17 11:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=577984"
+    },
+    {
+        "title": "애플 아이폰17 색상 유출…내부 문서로 확인된 컬러 라인업",
+        "date": "2025-07-17 11:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=577971"
+    },
+    {
+        "title": "삼성전자는 어떻게 프로야구 3개 구단과 협업해 팬 경험을 강화하나?",
+        "date": "2025-07-17 11:38",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=387198"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 프로야구 연계 마케팅",
+        "date": "2025-07-17 11:28",
+        "link": "http://www.koreastocknews.com/news/articleView.html?idxno=112795"
+    },
+    {
+        "title": "'갤폴드' 다음은 '픽셀 폴드'…구글, 다음달 폴더블폰 신작 꺼낸다",
+        "date": "2025-07-17 11:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0013368456?sid=105"
+    },
+    {
+        "title": "삼성전자, 올해 2분기 전 세계 스마트폰 점유율 1위",
+        "date": "2025-07-17 11:24",
+        "link": "https://n.news.naver.com/mnews/article/366/0001093279?sid=105"
+    },
+    {
+        "title": "[시사이슈] 삼성전자, '갤럭시 Z 폴드7·플립7'과 함께하는 야구장 마케...",
+        "date": "2025-07-17 11:22",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=70098"
+    },
+    {
+        "title": "삼성전자-KBO 3개 구단 '맞손'",
+        "date": "2025-07-17 11:20",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3047086"
+    },
+    {
+        "title": "삼성전자 '갤Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 11:18",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3294405"
+    },
+    {
+        "title": "삼성전자, 폴더블 신제품 활용 프로야구단과 마케팅",
+        "date": "2025-07-17 11:12",
+        "link": "https://www.sentv.co.kr/article/view/sentv202507170077"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7 Z 플립7 야구장 마케팅 전개",
+        "date": "2025-07-17 11:12",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=855286"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·플립7로 프로야구 3개 구단과 협업",
+        "date": "2025-07-17 11:06",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=112134"
+    },
+    {
+        "title": "네이버, 'XR 콘텐츠'로 애플·메타가 키운 VR 시장 탑승",
+        "date": "2025-07-17 11:06",
+        "link": "https://n.news.naver.com/mnews/article/293/0000069913?sid=105"
+    },
+    {
+        "title": "삼성전자, 프로야구도 보고 갤럭시Z폴드7·플립7 체험하세요",
+        "date": "2025-07-17 11:02",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=142242"
+    },
+    {
+        "title": "쿠쿠, 공간 절약형 '슬림 식기세척기·폴더블 안마베드·제습기' 3종 출...",
+        "date": "2025-07-17 11:00",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3836080"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 프로야구 연계 마케팅 전개",
+        "date": "2025-07-17 10:56",
+        "link": "http://www.hg-times.com/news/articleView.html?idxno=273713"
+    },
+    {
+        "title": "삼성전자 '갤럭시Z 폴드∙플립7' 프로야구 연계 마케팅",
+        "date": "2025-07-17 10:56",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=803826"
+    },
+    {
+        "title": "삼성전자, 프로야구 연계 '갤럭시 Z 폴드7∙Z 플립7' 이벤트 실시",
+        "date": "2025-07-17 10:55",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=601095"
+    },
+    {
+        "title": "“마음 졸이더니 결국 5위된 애플”…중국 스마트폰 시장 지각변동",
+        "date": "2025-07-17 10:53",
+        "link": "https://n.news.naver.com/mnews/article/009/0005526423?sid=101"
+    },
+    {
+        "title": "파인엠텍, 175억원 규모 신규시설 투자…폴더블 시장 대응",
+        "date": "2025-07-17 10:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=577974"
+    },
+    {
+        "title": "폴더블 아이폰 두께는 4.8mm 수준.. 갤럭시Z 폴드7보다 두꺼워",
+        "date": "2025-07-17 10:50",
+        "link": "https://kbench.com/?q=node/269502"
+    },
+    {
+        "title": "삼성전자, 갤럭시 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 10:44",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=86016"
+    },
+    {
+        "title": "올해 2분기 스마트폰 점유율 1위는 삼성…5대 중 1대는 갤럭시",
+        "date": "2025-07-17 10:43",
+        "link": "https://n.news.naver.com/mnews/article/421/0008375498?sid=105"
+    },
+    {
+        "title": "삼성전자, 폴더블 신제품 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 10:42",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=404194"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드∙플립7’ 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 10:42",
+        "link": "https://www.ceoscoredaily.com/page/view/2025071709401144739"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 10:40",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=229915"
+    },
+    {
+        "title": "삼성전자, 프로야구 3개 구단과 갤럭시Z폴드7·Z플립7 이벤트",
+        "date": "2025-07-17 10:39",
+        "link": "https://n.news.naver.com/mnews/article/031/0000949502?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·플립7' 앞세워 프로야구 마케팅 전개",
+        "date": "2025-07-17 10:38",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=234046"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7∙Z 플립7과 함께하는 프로야구 이벤트",
+        "date": "2025-07-17 10:34",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3013068"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 10:30",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=63864"
+    },
+    {
+        "title": "폴드·플립7으로 야구 즐긴다…삼성, KBO 3개 구단과 맞손",
+        "date": "2025-07-17 10:28",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=272669"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7/Z 플립7 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 10:22",
+        "link": "https://kbench.com/?q=node/269497"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7플립7 출시 맞춰 프로야구 마케팅 강화",
+        "date": "2025-07-17 10:22",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=183509"
+    },
+    {
+        "title": "야구와 폴더블 만남…삼성·KT·두산구장에 '갤Z 폴드7·플립7' 뜬다",
+        "date": "2025-07-17 10:19",
+        "link": "https://n.news.naver.com/mnews/article/008/0005222921?sid=105"
+    },
+    {
+        "title": "삼성전자, 프로야구 3개 구단과 '갤럭시 Z 폴드7·플립7' 이벤트",
+        "date": "2025-07-17 10:16",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=161961"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 활용한 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 10:14",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533650"
+    },
+    {
+        "title": "삼성전자, 폴더블 신제품으로 야구장 마케팅 전개…3개 구단 맞손",
+        "date": "2025-07-17 10:06",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1261049"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·플립7 앞세워 야구장 마케팅 확대…삼성·KT...",
+        "date": "2025-07-17 10:04",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202507171002467094de3f0aa1be_7"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 10:02",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=72376"
+    },
+    {
+        "title": "“홈런 치면 갤럭시 쏜다”… 삼성전자, 야구장 접수한 폴더블 마케팅",
+        "date": "2025-07-17 10:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006067610?sid=105"
+    },
+    {
+        "title": "[N2 전자 정보통] 삼성전자, 야구 구단별 ‘갤럭시 Z’ 신제품 이벤트 기...",
+        "date": "2025-07-17 10:02",
+        "link": "https://www.news2day.co.kr/article/20250717500031"
+    },
+    {
+        "title": "삼성 '갤럭시S25 FE·탭 S11 울트라' 이렇게 생겼다.. 공식 렌더링 유출",
+        "date": "2025-07-17 10:02",
+        "link": "https://kbench.com/?q=node/269489"
+    },
+    {
+        "title": "다산코퍼레이션, 4.3인치 LCD와 TDP 300W 적용된 '발키리 DX140' 출시",
+        "date": "2025-07-17 10:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55310"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:56",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=240284"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:54",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=71180"
+    },
+    {
+        "title": "쿠쿠, 소형가구 겨냥 식기세척기·폴더블 안마베드·제습기 출시",
+        "date": "2025-07-17 09:54",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1244625"
+    },
+    {
+        "title": "XPS 라인업 계승…델 '최고사양 프리미엄 노트북' 2종 출시",
+        "date": "2025-07-17 09:54",
+        "link": "https://n.news.naver.com/mnews/article/421/0008375209?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅",
+        "date": "2025-07-17 09:52",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=228540"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z폴드·플립7’로 프로야구 즐긴다…구단과 연계 마...",
+        "date": "2025-07-17 09:50",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=74579"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:50",
+        "link": "https://www.fetv.co.kr/news/article.html?no=196914"
+    },
+    {
+        "title": "프로야구와 만났다···삼성전자, '갤럭시Z 폴드7·Z 플립 7' 연계 마...",
+        "date": "2025-07-17 09:48",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=267763"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 Z 폴드7·Z 플립7’ 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:46",
+        "link": "https://www.cnbnews.com/news/article.html?no=738621"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:46",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=435533"
+    },
+    {
+        "title": "삼성전자, '폴더블 신제품' 활용 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:46",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=642092"
+    },
+    {
+        "title": "[Tech이슈] 확 얇아진삼성의 ‘갤럭시 Z 폴드7’, 中 경쟁사 따돌릴까?",
+        "date": "2025-07-17 09:46",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=183372"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:42",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=89824"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7'과 프로야구 연계 마케팅",
+        "date": "2025-07-17 09:42",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=762178"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·플립7 프로야구 마케팅 전개",
+        "date": "2025-07-17 09:42",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=249364"
+    },
+    {
+        "title": "삼성전자, '갤럭시Z 폴드·플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:42",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=344815"
+    },
+    {
+        "title": "[뉴스락 주식네비 7월17일] PI첨단소재(178920), '초극박 필름'으로 스마...",
+        "date": "2025-07-17 09:40",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=112097"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:38",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2090697"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:38",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=92227"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:36",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=87005"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:36",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=319572"
+    },
+    {
+        "title": "폴더블 아이폰, 예상보다 싸게 나온다",
+        "date": "2025-07-17 09:36",
+        "link": "https://n.news.naver.com/mnews/article/092/0002382391?sid=105"
+    },
+    {
+        "title": "아이폰17 기본 모델도 'A19' 칩 탑재…애플 급나누기 전략 바꾸나?",
+        "date": "2025-07-17 09:36",
+        "link": "https://kbench.com/?q=node/269488"
+    },
+    {
+        "title": "선물하기 딱이네…쿠쿠, '슬림 가전 3종' 출시",
+        "date": "2025-07-17 09:33",
+        "link": "https://n.news.naver.com/mnews/article/421/0008375099?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·플립7으로 야구장 마케팅 확대",
+        "date": "2025-07-17 09:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=577921"
+    },
+    {
+        "title": "Z폴드7·플립7, 야구장 접수···삼성 '갤럭시 데이'",
+        "date": "2025-07-17 09:32",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=67525"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:30",
+        "link": "http://www.datanews.co.kr/news/article.html?no=139711"
+    },
+    {
+        "title": "삼성전자, '폴드7·플립7' 프로야구 연계 마케팅",
+        "date": "2025-07-17 09:28",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1670796"
+    },
+    {
+        "title": "삼성전자, 프로야구 3개 구단과 '갤럭시 Z 폴드7∙Z 플립7' 이벤트",
+        "date": "2025-07-17 09:25",
+        "link": "https://n.news.naver.com/mnews/article/119/0002980165?sid=105"
+    },
+    {
+        "title": "'야구장에서 만나는 폴드7·플립7'…삼성전자, 폴더블x프로야구 마케팅...",
+        "date": "2025-07-17 09:24",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=106200"
+    },
+    {
+        "title": "삼성, 프로야구 3개 구단과 '갤럭시Z7 시리즈 체험존' 이벤트",
+        "date": "2025-07-17 09:20",
+        "link": "https://www.m-economynews.com/news/article.html?no=57277"
+    },
+    {
+        "title": "프로야구와 함께하는 갤Z7시리즈…삼성전자, 3개 구단과 신제품 체험...",
+        "date": "2025-07-17 09:17",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200815?sid=105"
+    },
+    {
+        "title": "홈런하면 ‘갤Z폴드7’ 준다…삼성, 3개 구단과 프로야구 연계 마케팅",
+        "date": "2025-07-17 09:17",
+        "link": "https://n.news.naver.com/mnews/article/029/0002968802?sid=105"
+    },
+    {
+        "title": "삼성전자 야구장에서 '갤럭시 Z' 신제품 만나보세요!",
+        "date": "2025-07-17 09:12",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=360526"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드 7·Z 플립 7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:12",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=657228"
+    },
+    {
+        "title": "세계에서 가장 얇다던 中아너 폴드, ‘갤 Z폴드7’보다 두껍네[모닝폰]",
+        "date": "2025-07-17 09:11",
+        "link": "https://n.news.naver.com/mnews/article/018/0006067519?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤Z폴드·플립7 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 09:06",
+        "link": "https://n.news.naver.com/mnews/article/016/0002500869?sid=105"
+    },
+    {
+        "title": "삼성·kt·두산, 삼성 폴더블 신제품으로 야구장 단장",
+        "date": "2025-07-17 09:04",
+        "link": "https://n.news.naver.com/mnews/article/468/0001162600?sid=101"
+    },
+    {
+        "title": "삼성전자, 17일부터 프로야구 3개 구단과 '갤럭시 Z 폴드7∙Z 플립7' 이벤...",
+        "date": "2025-07-17 08:58",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3013039"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·플립7' 프로야구 마케팅 전개",
+        "date": "2025-07-17 08:58",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=131285"
+    },
+    {
+        "title": "삼성 ‘갤럭시 Z 폴드7·플립7’, 프로야구 현장서 만난다",
+        "date": "2025-07-17 08:54",
+        "link": "http://theviewers.co.kr/View.aspx?No=3715028"
+    },
+    {
+        "title": "프로야구 삼성·KT·두산서 갤Z폴드7 만난다…연계 마케팅 진행",
+        "date": "2025-07-17 08:53",
+        "link": "https://n.news.naver.com/mnews/article/277/0005623763?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 08:52",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=189969"
+    },
+    {
+        "title": "삼성전자, '갤 Z 폴드7·플립7' 프로야구 마케팅 돌입",
+        "date": "2025-07-17 08:52",
+        "link": "https://www.ajunews.com/view/20250717084636630"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7·Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 08:38",
+        "link": "https://hobbyen-news.com/news/view/1065569727217978"
+    },
+    {
+        "title": "삼성전자, 프로야구 3개 구단과 연계 마케팅 진행",
+        "date": "2025-07-17 08:36",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=660896"
+    },
+    {
+        "title": "폴드·플립7으로 야구 즐긴다…삼성, KBO 3개 구단과 맞손",
+        "date": "2025-07-17 08:32",
+        "link": "https://n.news.naver.com/mnews/article/003/0013367630?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 Z 폴드7·플립7 프로야구 마케팅 전개",
+        "date": "2025-07-17 08:29",
+        "link": "https://www.newspim.com/news/view/20250717000043"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 08:26",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=396574"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 08:21",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=701274"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드∙플립7' 프로야구 연계 마케팅 진행",
+        "date": "2025-07-17 08:18",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=181226"
+    },
+    {
+        "title": "삼성전자, '갤럭시 Z 폴드7∙Z 플립7' 프로야구 3개 구단과 연계 마케팅",
+        "date": "2025-07-17 08:16",
+        "link": "https://n.news.naver.com/mnews/article/014/0005378215?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블로 야구장 점령..홈런 치면 폰 증정",
+        "date": "2025-07-17 08:06",
+        "link": "http://kpenews.com/View.aspx?No=3714962"
+    },
+    {
+        "title": "통신 3사, '갤럭시 Z 7'시리즈 사전예약 돌입…각 사 혜택은?",
+        "date": "2025-07-17 08:00",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=657135"
+    },
+    {
+        "title": "[단독]팡스카이·韓게임사, 美법원에 구글·애플상대 집단조정 제출",
+        "date": "2025-07-17 08:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008374812?sid=105"
+    },
+    {
+        "title": "LG전자 주력 'TV가 아픈 손가락'으로…MS사업본부 적자전환 우려",
+        "date": "2025-07-17 07:36",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025071616150254819"
+    },
+    {
+        "title": "[마켓 브리핑] 초반 낮은 PPI 덕에 상승…파월 해임설에 일제히 하락",
+        "date": "2025-07-17 07:17",
+        "link": "https://n.news.naver.com/mnews/article/374/0000452073?sid=104"
+    },
+    {
+        "title": "“이재용, 日 광폭행보 통했다”…삼성 갤럭시, 日 스마트폰 2위 ‘등극...",
+        "date": "2025-07-17 07:02",
+        "link": "https://www.ceoscoredaily.com/page/view/2025071613365416087"
+    }
+]
