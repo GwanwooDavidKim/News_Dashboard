@@ -1,1 +1,662 @@
-
+[
+    {
+        "title": "모건스탠리 “미 법원, ‘반독점 소송’ 구글-애플 거래 허용할 듯”",
+        "date": "2025-07-22 03:54",
+        "link": "https://n.news.naver.com/mnews/article/056/0011993458?sid=104"
+    },
+    {
+        "title": "모건스탠리 美 법원, 구글-애플 검색 거래 허용 전망…애플 EPS 최대 1...",
+        "date": "2025-07-22 02:38",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15742042"
+    },
+    {
+        "title": "모건스탠리 美 법원 '반독점 소송' 구글-애플 거래 허용 전망",
+        "date": "2025-07-22 01:57",
+        "link": "https://n.news.naver.com/mnews/article/001/0015521183?sid=104"
+    },
+    {
+        "title": "OLED·유기발광 다이오드 관련주, '함박웃음' 이녹스첨단소재·HB솔루션...",
+        "date": "2025-07-22 00:16",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=234395"
+    },
+    {
+        "title": "삼성이 인증했다 벨킨, 갤럭시 Z 폴드7·플립7 전용 액세서리 3종 출시",
+        "date": "2025-07-21 21:56",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533779"
+    },
+    {
+        "title": "유비리서치 LG디스플레이, 하반기 아이폰·아이패드 OLED 출하량 반등…...",
+        "date": "2025-07-21 19:32",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=71374"
+    },
+    {
+        "title": "[테크 NOW] KTㆍLGU+ㆍLG CNSㆍLGDㆍ삼성디스플레이",
+        "date": "2025-07-21 19:22",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202507211850154620487"
+    },
+    {
+        "title": "전남 고흥군, 애플망고 수확기 맞아 고품질 생산기술 현장지도 실시",
+        "date": "2025-07-21 19:06",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=239693"
+    },
+    {
+        "title": "삼성디스플레이, BOE에 폴더블 올레드 시장 '일격'",
+        "date": "2025-07-21 18:43",
+        "link": "https://n.news.naver.com/mnews/article/003/0013376278?sid=101"
+    },
+    {
+        "title": "올해 1분기 글로벌 OLED 패널 매출 2%↑…삼성 폴더블, 점유율 2위로 하...",
+        "date": "2025-07-21 18:32",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=190316"
+    },
+    {
+        "title": "“1분기 OLED 패널 매출 반등… 삼성디스플레이 폴더블, 中 BOE에 밀려 2...",
+        "date": "2025-07-21 18:24",
+        "link": "https://n.news.naver.com/mnews/article/366/0001094379?sid=105"
+    },
+    {
+        "title": "1분기 OLED 패널 매출 소폭 증가…스마트폰은 부진",
+        "date": "2025-07-21 18:16",
+        "link": "https://n.news.naver.com/mnews/article/018/0006070415?sid=101"
+    },
+    {
+        "title": "[단독] 서울시교육청 ‘디벗’ 사업에 중국산 불법 복제품 공급 의혹…...",
+        "date": "2025-07-21 18:16",
+        "link": "https://ilyo.co.kr/?ac=article_view&entry_id=496396"
+    },
+    {
+        "title": "인도 모니터 시장 동향",
+        "date": "2025-07-21 18:15",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=232078"
+    },
+    {
+        "title": "애플 암호화 해제 요구하던 英 미국 정부 압박에 꼬리 내릴듯",
+        "date": "2025-07-21 18:10",
+        "link": "https://n.news.naver.com/mnews/article/009/0005528651?sid=104"
+    },
+    {
+        "title": "TV가 안팔린다… 패널업계도 주문량 줄며 가격 추락",
+        "date": "2025-07-21 18:02",
+        "link": "https://n.news.naver.com/mnews/article/014/0005380166?sid=101"
+    },
+    {
+        "title": "에이치엔에스하이텍, 실적·밸류에이션·주주환원 3박자 모두 갖춘 소...",
+        "date": "2025-07-21 18:00",
+        "link": "http://www.globalepic.co.kr/view.php?ud=2025072117561849645ebfd494dd_29"
+    },
+    {
+        "title": "'삼성 갤럭시 Z 폴드7' 열풍에 김용하 PD도 지갑 열었다",
+        "date": "2025-07-21 17:50",
+        "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=94764"
+    },
+    {
+        "title": "삼성전자 vs 화웨이, '트리폴드폰' 정면승부…완성도·내구성 대결 본격...",
+        "date": "2025-07-21 17:48",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=319779"
+    },
+    {
+        "title": "[시간외 특징주] 덕산네오룩스, 삼성 트리폴드·애플 폴더블폰 동시 수...",
+        "date": "2025-07-21 17:44",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=273004"
+    },
+    {
+        "title": "‘출시 4년 차에도 1위’…플레이투게더, 구글·애플 인기 게임 정상 등...",
+        "date": "2025-07-21 17:39",
+        "link": "https://n.news.naver.com/mnews/article/243/0000081660?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, 1분기 폴더블 OLED서 중국 BOE에 글로벌 선두 내줘",
+        "date": "2025-07-21 17:38",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=404329"
+    },
+    {
+        "title": "[뉴스줌인] 구글 플레이, 애플 앱스토어 등록 앱 중에도 악성코드가?",
+        "date": "2025-07-21 17:36",
+        "link": "https://it.donga.com/107285/"
+    },
+    {
+        "title": "벨킨, 삼성 'SMAPP' 인증 갤럭시 전용 액세서리 3종 출시",
+        "date": "2025-07-21 17:36",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=662153"
+    },
+    {
+        "title": "도우인시스 폴더블폰 강화유리 사업 강화",
+        "date": "2025-07-21 17:22",
+        "link": "https://n.news.naver.com/mnews/article/015/0005160728?sid=101"
+    },
+    {
+        "title": "中 추격·소비 둔화·美 관세 복병된 'TV'…삼성·LG, 수익성 방어 전략...",
+        "date": "2025-07-21 17:20",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=181512"
+    },
+    {
+        "title": "1분기 OLED 패널 매출 2%↑…삼성D 폴더블, 中 BOE에 1위 내줘",
+        "date": "2025-07-21 17:08",
+        "link": "https://n.news.naver.com/mnews/article/374/0000452881?sid=104"
+    },
+    {
+        "title": "OLED 반등 3분기부터…LGD, 애플發 훈풍 탄다",
+        "date": "2025-07-21 17:03",
+        "link": "https://www.newspim.com/news/view/20250721000997"
+    },
+    {
+        "title": "LG디스플레이, 하반기 애플 수요 잡는다⋯ “OLED 공급 확대”",
+        "date": "2025-07-21 17:02",
+        "link": "https://www.viva100.com/article/20250721501387"
+    },
+    {
+        "title": "1분기 OLED 패널 매출 2%↑…삼성D 폴더블, 中업체에 1위 내줘",
+        "date": "2025-07-21 17:01",
+        "link": "https://n.news.naver.com/mnews/article/001/0015520907?sid=101"
+    },
+    {
+        "title": "애플, 차기 '아이폰 폴드' 가격도 경쟁력 있다? 250~277만원 수준 책정될...",
+        "date": "2025-07-21 16:56",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533827"
+    },
+    {
+        "title": "업무에 딱인데, 내구성은 글쎄…갤럭시 Z 폴드7 향한 '기대와 우려' [...",
+        "date": "2025-07-21 16:46",
+        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=173417"
+    },
+    {
+        "title": "고흥군, '애플망고' 생산기술 현장지도 실시",
+        "date": "2025-07-21 16:30",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=210187"
+    },
+    {
+        "title": "PI첨단소재 고기능 폴리이미드 브랜드 승부수, 송금수 우주항공 진출 넘...",
+        "date": "2025-07-21 16:24",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=404268"
+    },
+    {
+        "title": "삼성디스플레이, 2년새 20대 직원 수 '반 토막'…대기업 중 가장 심각",
+        "date": "2025-07-21 16:18",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=481744"
+    },
+    {
+        "title": "애플 효과 통할까…LG디스플레이, 3분기 실적 회복 '청신호'",
+        "date": "2025-07-21 16:14",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=704343"
+    },
+    {
+        "title": "화웨이의 차기 트리폴드폰, 어떻게 나올까",
+        "date": "2025-07-21 16:03",
+        "link": "https://n.news.naver.com/mnews/article/092/0002382899?sid=105"
+    },
+    {
+        "title": "LG디스플레이 내년 애플 폴더블폰 출시로 수혜 전망, 정철동 OLED 투자 가...",
+        "date": "2025-07-21 16:00",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=404277"
+    },
+    {
+        "title": "'플레이투게더', 출시 4년차에도 구글, 애플 스토어 인기 1위 등극",
+        "date": "2025-07-21 16:00",
+        "link": "https://game.donga.com/118328/"
+    },
+    {
+        "title": "삼성, 내년 갤Z폴드8 백플레이트 소재 티타늄·CFRP 투 트랙 검토",
+        "date": "2025-07-21 15:42",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=38448"
+    },
+    {
+        "title": "수요 감소와 中 공세에 1위 '흔들'…삼성·LG전자, AI와 듀얼트랙 '승부...",
+        "date": "2025-07-21 15:28",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=804191"
+    },
+    {
+        "title": "LG디스플레이, 2분기 적자 전망...하반기 반등 노린다",
+        "date": "2025-07-21 15:22",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1246196"
+    },
+    {
+        "title": "[특징주] '트리폴드폰' 전쟁 임박…폴더블 관련株 급등",
+        "date": "2025-07-21 15:21",
+        "link": "https://www.newspim.com/news/view/20250721000813"
+    },
+    {
+        "title": "[특징주] 세경하이테크, 삼성디스플레이 독점 공급에 애플 폴더블폰 ...",
+        "date": "2025-07-21 15:16",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=273001"
+    },
+    {
+        "title": "‘두 번’ 접는 트리폴드폰 내가 ‘왕’이다...삼성 vs 화웨이 본격 경...",
+        "date": "2025-07-21 15:10",
+        "link": "https://n.news.naver.com/mnews/article/024/0000098672?sid=101"
+    },
+    {
+        "title": "[기자수첩] 접어서 더 작게, 펼쳐서 더 넓게...삼성 폴더블의 미학",
+        "date": "2025-07-21 15:02",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=328989"
+    },
+    {
+        "title": "[코스닥 시황] 리튬포어스 상한가…2차전지·폴더블폰·콘텐츠 강세 속...",
+        "date": "2025-07-21 14:42",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15741312"
+    },
+    {
+        "title": "시각적 어려움으로 스마트폰 사용이 어렵다면 이렇게! [이럴땐 이렇게!...",
+        "date": "2025-07-21 14:40",
+        "link": "https://it.donga.com/107280/"
+    },
+    {
+        "title": "LG디스플레이 30% 점유율로 재도약 노린다",
+        "date": "2025-07-21 14:26",
+        "link": "http://www.globalepic.co.kr/view.php?ud=20250721142233234548439a4874_29"
+    },
+    {
+        "title": "갤럭시 Z 7시리즈, 삼성디스플레이 'OCF' 기술 장착",
+        "date": "2025-07-21 14:10",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=328981"
+    },
+    {
+        "title": "LGD, 아이폰용 출하량 70% 늘며 3분기 실적 반등",
+        "date": "2025-07-21 14:10",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3295910"
+    },
+    {
+        "title": "印 모바일기기 업계 中 제한 조치, 수출 목표 달성에 심각한 위협",
+        "date": "2025-07-21 14:07",
+        "link": "https://www.newspim.com/news/view/20250721000674"
+    },
+    {
+        "title": "LGD 2분기 OLED 中에 밀렸는데…하반기는 다른 이유는?",
+        "date": "2025-07-21 14:03",
+        "link": "https://n.news.naver.com/mnews/article/014/0005379995?sid=101"
+    },
+    {
+        "title": "[특징주]세경하이테크, 삼성디스플레이 폴더블폰 필름 독점…애플 폴더...",
+        "date": "2025-07-21 13:44",
+        "link": "https://n.news.naver.com/mnews/article/277/0005625571?sid=101"
+    },
+    {
+        "title": "고흥군, 애플망고 수확 현장지도...농가 경쟁력 향상",
+        "date": "2025-07-21 13:36",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=52124"
+    },
+    {
+        "title": "애플, 신형 괴물 칩 M5에 '듀얼 전면 카메라' 최초 탑재한 아이패드 프로...",
+        "date": "2025-07-21 13:22",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802424"
+    },
+    {
+        "title": "'플레이투게더', 구글·애플 인기 게임 정상 등극",
+        "date": "2025-07-21 13:08",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=242180"
+    },
+    {
+        "title": "출시 4년 해긴 '플레이투게더', 구글 · 애플 인기 게임 정상 등극",
+        "date": "2025-07-21 12:58",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=71349"
+    },
+    {
+        "title": "벨킨, 삼성 SMAPP 인증 갤럭시 전용 액세서리 3종 출시",
+        "date": "2025-07-21 12:50",
+        "link": "https://cwn.kr/article/1065584879968182"
+    },
+    {
+        "title": "벨킨, 삼성 SMAPP 인증받은 갤럭시 전용 액세서리 3종 출시",
+        "date": "2025-07-21 12:36",
+        "link": "https://kbench.com/?q=node/269595"
+    },
+    {
+        "title": "LG디스플레이, 하반기 애플향 출하량 급등…실적 반등 기대",
+        "date": "2025-07-21 12:29",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=328980"
+    },
+    {
+        "title": "애플·아마존 실적 관심 집중…엔비디아는 다음 달 발표",
+        "date": "2025-07-21 12:20",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=108435"
+    },
+    {
+        "title": "ZOTAC, 게이밍 UMPC '조텍 게이밍 존' 특별 할인 프로모션 실시",
+        "date": "2025-07-21 12:14",
+        "link": "http://gamefocus.co.kr/detail.php?number=167582"
+    },
+    {
+        "title": "파인엠텍, 폴더블 시장 확대 대응 위한 175억 원 시설 투자 결정",
+        "date": "2025-07-21 12:04",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=436405"
+    },
+    {
+        "title": "해긴, ‘플레이투게더’, 출시 4년 차에도 1위...구글·애플 인기 게임 ...",
+        "date": "2025-07-21 12:04",
+        "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=215363"
+    },
+    {
+        "title": "치료하는 스마트워치 시대 열렸다…갤럭시워치8·애플워치10 연동 ‘케...",
+        "date": "2025-07-21 11:56",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2025072111373914269aeda69934_23"
+    },
+    {
+        "title": "애플, 美 관세 회피 위해 삼성·LG에 디스플레이 단가인하 압박",
+        "date": "2025-07-21 11:50",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=65514"
+    },
+    {
+        "title": "삼성 Z폴드7 등 폴더블폰, 인도서 사전예약 이틀 만에 21만여대 주문",
+        "date": "2025-07-21 11:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533795"
+    },
+    {
+        "title": "애플, 신규 UI '리퀴드 글래스' 적용한 'iOS 26' 첫 번째 공개 베타 오는...",
+        "date": "2025-07-21 11:32",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802415"
+    },
+    {
+        "title": "유비산업리서치 ﻿LGD, 3분기 아이폰용 OLED 출하량 70% 증가",
+        "date": "2025-07-21 11:32",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=38430"
+    },
+    {
+        "title": "벨킨, 삼성 'SMAPP' 인증 획득한 갤럭시 전용 액세서리 3종 출시… 호환...",
+        "date": "2025-07-21 11:30",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802416"
+    },
+    {
+        "title": "차트 역주행, 해긴 '플레이투게더' 구글-애플 인기 게임 순위 1위 달성",
+        "date": "2025-07-21 11:30",
+        "link": "http://gamefocus.co.kr/detail.php?number=167581"
+    },
+    {
+        "title": "LG디스플레이, 하반기부터 아이폰·아이패드 OLED 출하량 '확대'",
+        "date": "2025-07-21 11:27",
+        "link": "https://n.news.naver.com/mnews/article/008/0005224463?sid=101"
+    },
+    {
+        "title": "삼성, 올 하반기에 플래그십 성능에 가성비까지 갖춘 '갤럭시 버즈 3 FE...",
+        "date": "2025-07-21 11:20",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802413"
+    },
+    {
+        "title": "벨킨, 삼성 공식 인증 획득한 갤럭시 Z 폴드7·플립7액세서리 3종 출시",
+        "date": "2025-07-21 11:20",
+        "link": "https://www.cnet.co.kr/view/?no=20250721103646"
+    },
+    {
+        "title": "화웨이 2세대 3단 폴더블폰 '메이트 XT 2' 위성 통신 기능 추가",
+        "date": "2025-07-21 11:16",
+        "link": "https://kbench.com/?q=node/269592"
+    },
+    {
+        "title": "TSMC 역대급 실적에 시장 '충격'… 삼성 추격 방법있나?",
+        "date": "2025-07-21 11:14",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=661613"
+    },
+    {
+        "title": "아이폰 17 프로, ‘리퀴드 글래스’ 효과 적용한 색상 출시할까",
+        "date": "2025-07-21 11:10",
+        "link": "https://www.itworld.co.kr/article/4025355/아이폰-17-프로-리퀴드-글래스-효과-적용한-색상-출.html"
+    },
+    {
+        "title": "수익성 둔해진 韓 TV, 그래도 프리미엄 전략?",
+        "date": "2025-07-21 11:07",
+        "link": "https://n.news.naver.com/mnews/article/009/0005528245?sid=004"
+    },
+    {
+        "title": "메타, 애플에서도 인재 추가 영입…초지능 전쟁 속 애플 위기 부각",
+        "date": "2025-07-21 11:07",
+        "link": "https://n.news.naver.com/mnews/article/009/0005528244?sid=105"
+    },
+    {
+        "title": "초가성비 실속형 24인치 모니터, 제이씨현 UDEA EDGE ED2432HF 유케어 IPS...",
+        "date": "2025-07-21 11:04",
+        "link": "https://kbench.com/?q=node/269477"
+    },
+    {
+        "title": "英, 애플에 백도어 요구하더니…미국 압박에 ‘진퇴양난’",
+        "date": "2025-07-21 10:54",
+        "link": "http://www.boannews.com/media/view.asp?idx=138255&kind="
+    },
+    {
+        "title": "LGD 하반기 애플 OLED 패널 공급 확대…실적 회복 기대",
+        "date": "2025-07-21 10:52",
+        "link": "https://n.news.naver.com/mnews/article/031/0000950281?sid=105"
+    },
+    {
+        "title": "이 스펙이 30만 원도 안 돼? 삼성 갤럭시 F36 5G, 인도서 가성비 끝판...",
+        "date": "2025-07-21 10:52",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=65507"
+    },
+    {
+        "title": "부품업계 2분기 성적표, 애플·AI가 희비 가를 듯...LG이노텍 '울상' 삼성...",
+        "date": "2025-07-21 10:52",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=142332"
+    },
+    {
+        "title": "엑시노스 2500 탑재 갤럭시 Z 플립7에 외신 구매해야 할까?",
+        "date": "2025-07-21 10:48",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025072013565839753b60030fa2_1/article.html"
+    },
+    {
+        "title": "블룸버그, 애플 '폴더블 아이폰' 기술적 혁신 부족할 것",
+        "date": "2025-07-21 10:42",
+        "link": "https://kbench.com/?q=node/269587"
+    },
+    {
+        "title": "삼성·LGD 하반기 반등 열쇠는…아이폰17이 답",
+        "date": "2025-07-21 10:42",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=332379"
+    },
+    {
+        "title": "폴더블폰 성장 본격화…국내 부품사,대규모 투자로 선점 나선다",
+        "date": "2025-07-21 10:40",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=85004"
+    },
+    {
+        "title": "LGD, 하반기 아이폰 올레드 출하량 반등…실적 개선 청신호",
+        "date": "2025-07-21 10:40",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=272921"
+    },
+    {
+        "title": "'전국민 호갱 만든다'던 '단통법' 폐지 D-1…얼마나 싸질까 [이슈+]",
+        "date": "2025-07-21 10:37",
+        "link": "https://n.news.naver.com/mnews/article/015/0005160431?sid=105"
+    },
+    {
+        "title": "비싼데도 난리났네… 삼성 폴더블폰, 인도서 출시 48시간 만에 '21만 대...",
+        "date": "2025-07-21 10:30",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=65505"
+    },
+    {
+        "title": "파인엠텍, 북미 고객사 폴더블 스마트폰 출시 수혜 기대",
+        "date": "2025-07-21 10:30",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3047177"
+    },
+    {
+        "title": "차기 '아이패드 프로' 전면 듀얼 카메라 최초 탑재 가능성",
+        "date": "2025-07-21 10:24",
+        "link": "https://kbench.com/?q=node/269585"
+    },
+    {
+        "title": "LG디스플레이, 아이폰·아이패드 OLED 출하 확대…3분기 실적 반등 ‘청...",
+        "date": "2025-07-21 10:16",
+        "link": "https://sateconomy.co.kr/news/view/1065573957512580"
+    },
+    {
+        "title": "KB증권 파인엠텍, 북미 고객사 폴더블 스마트폰 출시 수혜 기대 긍정적...",
+        "date": "2025-07-21 10:13",
+        "link": "https://n.news.naver.com/mnews/article/014/0005379815?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 파인엠텍과 '애플 폴더블폰' 부품 공급",
+        "date": "2025-07-21 10:08",
+        "link": "https://dealsite.co.kr/articles/144923"
+    },
+    {
+        "title": "HSBC 애플 AI 개발 부진…아이폰 업그레이드 주기 길어질 것",
+        "date": "2025-07-21 10:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=578500"
+    },
+    {
+        "title": "LG디스플레이 애플 패널 출하량 '주춤'...하반기 반등 기대",
+        "date": "2025-07-21 10:06",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=832082"
+    },
+    {
+        "title": "메타 vs 애플, 스마트글래스 패권 다툼 격화",
+        "date": "2025-07-21 10:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=578499"
+    },
+    {
+        "title": "시장조사업체 3분기 LG디스플레이 아이폰용 OLED 출하량 70% 증가 전망",
+        "date": "2025-07-21 10:02",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=404191"
+    },
+    {
+        "title": "씨티 애플이 폴더블폰 만든다면 中 업체 수혜 볼 것",
+        "date": "2025-07-21 09:58",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4365619"
+    },
+    {
+        "title": "中에 밀린 LGD, 아이폰이 살린다…3분기 실적 반등 '기대'",
+        "date": "2025-07-21 09:58",
+        "link": "https://n.news.naver.com/mnews/article/015/0005160405?sid=101"
+    },
+    {
+        "title": "기술 루머 생태계 흔들까?···애플, iOS 기밀 유출 혐의로 유명 유튜버...",
+        "date": "2025-07-21 09:56",
+        "link": "https://www.cio.com/article/4025206/기술-루머-생태계-흔들까···애플-ios-기밀-유출-혐의.html"
+    },
+    {
+        "title": "LG디스플레이 3분기 아이폰용 패널 출하량 반등 전망",
+        "date": "2025-07-21 09:54",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202507210941184701290c42db76_1/article.html"
+    },
+    {
+        "title": "두번 접는다…삼성 vs 화웨이 트리폴드폰 경쟁",
+        "date": "2025-07-21 09:52",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=272896"
+    },
+    {
+        "title": "메타, 차세대 VR 헤드셋 시연…180도 시야각 확보",
+        "date": "2025-07-21 09:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=578434"
+    },
+    {
+        "title": "벨킨, 삼성 'SMAPP' 인증받은 갤럭시 전용 액세서리 3종 출시",
+        "date": "2025-07-21 09:38",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=200801"
+    },
+    {
+        "title": "4개월 기다린 갤럭시 A56 5G, 미국 시장 정식 출시",
+        "date": "2025-07-21 09:38",
+        "link": "https://kbench.com/?q=node/269578"
+    },
+    {
+        "title": "270만 원 '접는 아이폰' 드디어 출시...삼성이 7년 고생한 덕 보나",
+        "date": "2025-07-21 09:36",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202507210931572550fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "'아이폰 폴드' 2000달러 넘는 초고가 전략…삼성과 정면 승부",
+        "date": "2025-07-21 09:35",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201000?sid=105"
+    },
+    {
+        "title": "LGD, 아이폰 효과 본격화…3분기 반등 전망",
+        "date": "2025-07-21 09:34",
+        "link": "https://www.sentv.co.kr/article/view/sentv202507210052"
+    },
+    {
+        "title": "애플, '아이패드 프로' M5 자체칩에 전면 듀얼 카메라 도입",
+        "date": "2025-07-21 09:26",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200997?sid=105"
+    },
+    {
+        "title": "아이폰·아이패드 신제품 효과 톡톡…LGD, 3분기 OLED 출하량 70%↑ 전...",
+        "date": "2025-07-21 09:22",
+        "link": "https://n.news.naver.com/mnews/article/138/0002200996?sid=105"
+    },
+    {
+        "title": "LGD, 아이폰용 패널 출하량 70% 늘며 3분기 반등",
+        "date": "2025-07-21 09:17",
+        "link": "https://n.news.naver.com/mnews/article/277/0005625320?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 하반기 아이폰용 OLED 출하량 반등 전망",
+        "date": "2025-07-21 09:16",
+        "link": "https://n.news.naver.com/mnews/article/092/0002382780?sid=105"
+    },
+    {
+        "title": "LGD, 하반기 아이폰·아이패드 OLED 출하량 반등",
+        "date": "2025-07-21 09:14",
+        "link": "https://n.news.naver.com/mnews/article/119/0002981460?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 하반기 아이폰·아이패드 OLED 출하량 반등…실적 개선 청...",
+        "date": "2025-07-21 09:10",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=319715"
+    },
+    {
+        "title": "벨킨, 삼성 ‘SMAPP’ 인증받은 갤럭시 전용 액세서리 3종 출시",
+        "date": "2025-07-21 09:10",
+        "link": "https://n.news.naver.com/mnews/article/014/0005379748?sid=105"
+    },
+    {
+        "title": "LGD, 애플向 OLED 출하 급등…하반기 실적 반등 신호",
+        "date": "2025-07-21 09:02",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1671160"
+    },
+    {
+        "title": "LGD, 애플 패널 출하량 '주춤'…하반기 아이폰 효과 본격화",
+        "date": "2025-07-21 09:02",
+        "link": "https://n.news.naver.com/mnews/article/001/0015519050?sid=101"
+    },
+    {
+        "title": "LGD, 하반기 아이폰 올레드 출하량 반등…실적 개선 청신호",
+        "date": "2025-07-21 08:59",
+        "link": "https://n.news.naver.com/mnews/article/003/0013374095?sid=101"
+    },
+    {
+        "title": "“LG디스플레이, 2분기 아쉬운 실적-3분기부터 빠른 개선”-메리츠",
+        "date": "2025-07-21 08:46",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=74665"
+    },
+    {
+        "title": "LG디스플레이, 3분기 아이폰 패널 출하량 1850만대...전분기比 70%↑",
+        "date": "2025-07-21 08:44",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1245904"
+    },
+    {
+        "title": "차기 M5 아이패드 프로, 듀얼 전면 카메라 탑재한다",
+        "date": "2025-07-21 08:37",
+        "link": "https://n.news.naver.com/mnews/article/092/0002382767?sid=105"
+    },
+    {
+        "title": "LGD, 하반기 아이폰·아이패드 OLED 출하량 반등",
+        "date": "2025-07-21 08:29",
+        "link": "https://n.news.naver.com/mnews/article/018/0006069514?sid=101"
+    },
+    {
+        "title": "[더벨][닷 IPO]'구글·애플·MS' 글로벌 빅테크 무장한 공급망",
+        "date": "2025-07-21 08:28",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507161327249160102366"
+    },
+    {
+        "title": "[IT썰] 애플, '208만원' 폴더블 아이폰 출시?…배터리 5500mAh 탑재할 듯",
+        "date": "2025-07-21 08:02",
+        "link": "https://n.news.naver.com/mnews/article/008/0005224293?sid=105"
+    },
+    {
+        "title": "비에이치, IT OLED 비용 부담 지속-메리츠",
+        "date": "2025-07-21 07:44",
+        "link": "https://n.news.naver.com/mnews/article/018/0006069465?sid=101"
+    },
+    {
+        "title": "[클릭 e종목]파인엠텍, 북미 폴더블폰 출시 수혜 기대",
+        "date": "2025-07-21 07:39",
+        "link": "https://n.news.naver.com/mnews/article/277/0005625217?sid=101"
+    },
+    {
+        "title": "애플의 '탁월한 개발자' 톰 건터도 저커버그가 데려갔다",
+        "date": "2025-07-21 07:15",
+        "link": "https://n.news.naver.com/mnews/article/421/0008381355?sid=105"
+    },
+    {
+        "title": "에이치엔에스하이텍, 글로벌 고객사 확장 속 외형 성장 본격화…밸류애...",
+        "date": "2025-07-21 07:02",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=696861"
+    }
+]
