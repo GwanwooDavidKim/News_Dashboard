@@ -1,1 +1,982 @@
-
+[
+    {
+        "title": "英, 구글·애플 정조준…'모바일 플랫폼 전략적 시장지위' 지정 제안",
+        "date": "2025-07-24 04:20",
+        "link": "https://n.news.naver.com/mnews/article/374/0000453440?sid=104"
+    },
+    {
+        "title": "영국, 구글·애플 '모바일 플랫폼 전략적 시장지위' 지정 제안",
+        "date": "2025-07-24 01:19",
+        "link": "https://n.news.naver.com/mnews/article/052/0002223665?sid=104"
+    },
+    {
+        "title": "英, 구글·애플 '모바일 플랫폼 전략적 시장지위' 지정 제안",
+        "date": "2025-07-24 00:11",
+        "link": "https://n.news.naver.com/mnews/article/001/0015525952?sid=104"
+    },
+    {
+        "title": "'갤럭시 Z 폴드7·Z 플립7' 출시일 25일...통신사별 혜택과 지원금 '비교...",
+        "date": "2025-07-24 00:06",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3333089"
+    },
+    {
+        "title": "[이슈클립] 아이폰·애플워치에서 사용 가능해진 티머니, 'Q&amp;A 총정리' (영...",
+        "date": "2025-07-24 00:01",
+        "link": "https://n.news.naver.com/mnews/article/629/0000410182?sid=101"
+    },
+    {
+        "title": "“S25 무료, 플립7 16만원”…단통법 사라지자 ‘보조금 전쟁’ 활활 [오...",
+        "date": "2025-07-24 00:01",
+        "link": "https://n.news.naver.com/mnews/article/629/0000410180?sid=101"
+    },
+    {
+        "title": "“갤럭시Z폴드 덕분이야”...’폴더블폰 부품주’ 도이인시스 상장 첫날...",
+        "date": "2025-07-23 22:11",
+        "link": "https://n.news.naver.com/mnews/article/009/0005530158?sid=101"
+    },
+    {
+        "title": "애플, 이제 지갑 없이 버스탄다...삼성은 10년 전부터 됐는데",
+        "date": "2025-07-23 21:52",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=720175"
+    },
+    {
+        "title": "[르포] “아재폰 꼬리표 확실히 떼겠다”…삼성, 여심 잡으러 야구장에...",
+        "date": "2025-07-23 21:13",
+        "link": "https://n.news.naver.com/mnews/article/009/0005530150?sid=101"
+    },
+    {
+        "title": "봉화서 유망 아열대과수 애플망고 첫 수확",
+        "date": "2025-07-23 20:44",
+        "link": "https://www.ksmnews.co.kr/news/view.php?idx=553201"
+    },
+    {
+        "title": "'보급형으로 점유율 1위' 삼성전자, 'Z폴드7'으로 플래그십 판매 늘까",
+        "date": "2025-07-23 20:00",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=259980"
+    },
+    {
+        "title": "아이폰으로 대중교통 탄다…'애플페이'發 카드업계 파장은?",
+        "date": "2025-07-23 19:24",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=704700"
+    },
+    {
+        "title": "'애플 효과' 폴더블폰 시장 판도 변화…관련 부품주 '함박 웃음' [한양경...",
+        "date": "2025-07-23 18:51",
+        "link": "https://n.news.naver.com/mnews/article/666/0000079241?sid=101"
+    },
+    {
+        "title": "애플, 중단했던 아이폰 'AI 뉴스 요약' 다시 추가",
+        "date": "2025-07-23 18:46",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=200908"
+    },
+    {
+        "title": "내가 진 이유? 로지텍 장비 차이였다! 발로란트 승패 가르는 게이밍 기...",
+        "date": "2025-07-23 18:36",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533896"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 18:24",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160299191556565"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 18:14",
+        "link": "https://www.sisaweek.com/news/articleView.html?idxno=227548"
+    },
+    {
+        "title": "두번 접는 '트라이폴드폰' 대전… 삼성, 가을 승부수 띄운다",
+        "date": "2025-07-23 18:14",
+        "link": "https://n.news.naver.com/mnews/article/014/0005381536?sid=105"
+    },
+    {
+        "title": "2600억 '으뜸가전' 환급…中 LCD도 되는데, 韓 OLED TV는 안돼",
+        "date": "2025-07-23 18:06",
+        "link": "https://n.news.naver.com/mnews/article/015/0005161847?sid=101"
+    },
+    {
+        "title": "갤럭시 Z 폴드7·Z 플립7, 사전 개통 시작…삼성 강남 매장 '북적'",
+        "date": "2025-07-23 17:52",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=161810"
+    },
+    {
+        "title": "삼성전자, 대한민국 올해의 녹색상품 다수 선정",
+        "date": "2025-07-23 17:50",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1297140"
+    },
+    {
+        "title": "아이폰으로 버스 탄다고? 애플페이 티머니 사용법 공개",
+        "date": "2025-07-23 17:50",
+        "link": "https://www.elle.co.kr/article/1885135"
+    },
+    {
+        "title": "애플, AI 오픈소스 공개 계획 폐기 후폭풍...핵심 인재들 메타로 대거 이...",
+        "date": "2025-07-23 17:44",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533930"
+    },
+    {
+        "title": "도우인시스 영업익 4배 기대...미확약 97%는 부담 [마켓딥다이브]",
+        "date": "2025-07-23 17:28",
+        "link": "https://n.news.naver.com/mnews/article/215/0001217360?sid=101"
+    },
+    {
+        "title": "아이티켐 의약품·OLED…첨단 화학소재 플랫폼社 될 것",
+        "date": "2025-07-23 17:26",
+        "link": "https://n.news.naver.com/mnews/article/015/0005161770?sid=101"
+    },
+    {
+        "title": "삼성전자, ‘2025 대한민국 올해의 녹색상품’서 10개 제품 선정",
+        "date": "2025-07-23 17:10",
+        "link": "https://swtvnews.com/news/newsview.php?ncode=1065599775646842"
+    },
+    {
+        "title": "'어닝쇼크' LG이노텍, 하반기 애플 신제품發 반등 기대",
+        "date": "2025-07-23 17:07",
+        "link": "https://www.newspim.com/news/view/20250723000892"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 16:58",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=763720"
+    },
+    {
+        "title": "LG이노텍, 2분기 비수기·관세·환율 '삼중고'…하반기 애플 신제품 효과...",
+        "date": "2025-07-23 16:56",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=142449"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 16:52",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1069461"
+    },
+    {
+        "title": "삼성, 올해 갤Z폴드7 출하량 목표 240만대...전년비 9%↑",
+        "date": "2025-07-23 16:52",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=38531"
+    },
+    {
+        "title": "스벅·배민 놓아주고, 애플은 꽉 붙잡고…현대카드, 충성 고객 확보 새...",
+        "date": "2025-07-23 16:46",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065597471368408"
+    },
+    {
+        "title": "교통카드까진 품었는데…애플페이, 기후동행·후불결제 빠진 '반쪽'",
+        "date": "2025-07-23 16:38",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=229040"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 폴드7·Z 플립7' 사전판매, 역대 갤럭시 폴더블 최다...",
+        "date": "2025-07-23 16:34",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160292716734730"
+    },
+    {
+        "title": "[이슈딜] 외국인이 쓸어담는 삼성전자…하이닉스보다 싸니까?",
+        "date": "2025-07-23 16:34",
+        "link": "https://news.dealsitetv.com/articles/157061"
+    },
+    {
+        "title": "갤럭시Z7 흥행 조짐…삼성전자 ‘폴더블 리더십’ 굳히기",
+        "date": "2025-07-23 16:30",
+        "link": "https://www.ekn.kr/web/view.php?key=20250723024429607"
+    },
+    {
+        "title": "삼성전자, ‘2025 대한민국 올해의 녹색상품’서 대거 선정",
+        "date": "2025-07-23 16:30",
+        "link": "https://www.viva100.com/article/20250723500266"
+    },
+    {
+        "title": "갤럭시 'Z 폴드7' 'Z 플립7' 사전판매, 역대 갤럭시 폴더블 최다 판매 신...",
+        "date": "2025-07-23 16:26",
+        "link": "https://www.sisaweek.com/news/articleView.html?idxno=227532"
+    },
+    {
+        "title": "LG디스플레이, '2Q 실적부진' 전망에도 웃는 까닭은",
+        "date": "2025-07-23 16:26",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=121212"
+    },
+    {
+        "title": "삼성 폴더블폰 점유율 10%p 하락 전망…화웨이 턱밑 추격, 내년 애플 뛰...",
+        "date": "2025-07-23 16:24",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=270931"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품' 대거 선정",
+        "date": "2025-07-23 16:24",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=270924"
+    },
+    {
+        "title": "LG이노텍, 2분기 '실적 숨고르기'···하반기 '애플'·'AI'로 비상 노린...",
+        "date": "2025-07-23 16:24",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=260020"
+    },
+    {
+        "title": "지갑 없어도 애플페이만 있으면 된다…힘 받는 정태영의 도전",
+        "date": "2025-07-23 16:23",
+        "link": "https://n.news.naver.com/mnews/article/029/0002970448?sid=101"
+    },
+    {
+        "title": "폴더블 아이폰, 디스플레이 사양 공개…7.8인치 내부 디스플레이 탑재...",
+        "date": "2025-07-23 16:23",
+        "link": "https://n.news.naver.com/mnews/article/092/0002383226?sid=105"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 16:22",
+        "link": "https://www.datasom.co.kr/news/articleView.html?idxno=205297"
+    },
+    {
+        "title": "'애플 리스크' LG이노텍, 2분기 실적 전년比 93% 감소",
+        "date": "2025-07-23 16:22",
+        "link": "https://n.news.naver.com/mnews/article/277/0005627000?sid=101"
+    },
+    {
+        "title": "혈세 들여 中 배불린다…'가전 환급사업'에 터져 나온 우려",
+        "date": "2025-07-23 16:19",
+        "link": "https://n.news.naver.com/mnews/article/015/0005161713?sid=101"
+    },
+    {
+        "title": "[IPO] 아이티켐, 내달 상장...글로벌 톱티어 CDMO 도약",
+        "date": "2025-07-23 16:16",
+        "link": "https://www.asiatime.co.kr/article/20250723500363"
+    },
+    {
+        "title": "LG이노텍, 2분기 영업익 114억원…전년比 92.5%↓",
+        "date": "2025-07-23 16:14",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=704668"
+    },
+    {
+        "title": "2분기 저조한 성적표…보릿고개 넘는 LG이노텍",
+        "date": "2025-07-23 16:14",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1269402&inflow=N"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품' 10개 제품 선정",
+        "date": "2025-07-23 16:02",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=176774"
+    },
+    {
+        "title": "‘갤럭시 폴드 납품’ 도우인시스, 코스닥 상장 첫날 39% 상승",
+        "date": "2025-07-23 16:00",
+        "link": "https://n.news.naver.com/mnews/article/009/0005529887?sid=101"
+    },
+    {
+        "title": "LG이노텍, 2분기 영업익 92% 급감한 114억원… ‘애플 리스크’에 발목",
+        "date": "2025-07-23 15:56",
+        "link": "https://n.news.naver.com/mnews/article/366/0001094980?sid=105"
+    },
+    {
+        "title": "[들어보니]카드업계, 코스트코·애플페이 경쟁 식었다…“배보다 배꼽이...",
+        "date": "2025-07-23 15:50",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=767813"
+    },
+    {
+        "title": "'갤럭시 Z 트라이폴드' 나오나...삼성-화웨이 트라이폴드폰 정면 승부",
+        "date": "2025-07-23 15:45",
+        "link": "https://n.news.naver.com/mnews/article/014/0005381410?sid=105"
+    },
+    {
+        "title": "아이폰·애플워치로 버스·지하철 태그…선불 T머니 지원",
+        "date": "2025-07-23 15:36",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=89770"
+    },
+    {
+        "title": "갤럭시 이어 애플까지 폴더블 패널 독점…삼성D 세계 1위 ‘수성’",
+        "date": "2025-07-23 15:28",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1269399&inflow=N"
+    },
+    {
+        "title": "티머니 애플페이 연동…아이폰·워치로 교통카드 이용 가능",
+        "date": "2025-07-23 15:26",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15744223"
+    },
+    {
+        "title": "애플, AI 오픈소스 포기 후폭풍…핵심 인재 대거 이탈",
+        "date": "2025-07-23 15:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=579307"
+    },
+    {
+        "title": "갤럭시 Z 폴드7·플립7 국내 사전판매 104만대···역대 폴더블 최다",
+        "date": "2025-07-23 15:23",
+        "link": "https://n.news.naver.com/mnews/article/421/0008387966?sid=105"
+    },
+    {
+        "title": "갤럭시 Z 폴드7·플립7 국내 사전판매 104만대···역대 폴더블 최다",
+        "date": "2025-07-23 15:23",
+        "link": "https://n.news.naver.com/mnews/article/421/0008387957?sid=105"
+    },
+    {
+        "title": "갤럭시 Z 폴드7·플립7 국내 사전판매 104만대···역대 폴더블 최다",
+        "date": "2025-07-23 15:23",
+        "link": "https://n.news.naver.com/mnews/article/421/0008387953?sid=105"
+    },
+    {
+        "title": "엘튼존이 축가…애플 상속녀 92억 초호화 결혼식, 남편은 누구?",
+        "date": "2025-07-23 15:21",
+        "link": "https://n.news.naver.com/mnews/article/008/0005225810?sid=104"
+    },
+    {
+        "title": "폴더블폰, 어느 통신사서 개통할까? 고객유치전 '활활'",
+        "date": "2025-07-23 15:14",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025072217443643450b8d776efa_1/article.html"
+    },
+    {
+        "title": "삼성, Z폴드7로 '폴더블폰 명가' 타이틀 사수…사전판매 신기록, 中 추격...",
+        "date": "2025-07-23 15:11",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201235?sid=105"
+    },
+    {
+        "title": "“폴더블 아이폰 공급망 리스트(?)”…출처불명 정보 주의보",
+        "date": "2025-07-23 15:06",
+        "link": "https://www.etoday.co.kr/news/view/2490470"
+    },
+    {
+        "title": "최주호 삼성전자 부사장, 베트남 훈장 수훈 '새 역사'…노동훈장까지 싹...",
+        "date": "2025-07-23 15:04",
+        "link": "https://www.theguru.co.kr/news/article.html?no=89710"
+    },
+    {
+        "title": "[AT 산업 단신] 삼성전자·LG전자·LS·소니코리아",
+        "date": "2025-07-23 15:00",
+        "link": "https://www.asiatime.co.kr/article/20250723500308"
+    },
+    {
+        "title": "폴더블폰 하면 삼성이었는데…중국 추격에 애플 온다 1위 '흔들'",
+        "date": "2025-07-23 14:42",
+        "link": "https://n.news.naver.com/mnews/article/008/0005225774?sid=105"
+    },
+    {
+        "title": "갈아탈 결심…아이폰 15년차도 반한 갤폴드7",
+        "date": "2025-07-23 14:42",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1671530"
+    },
+    {
+        "title": "애플페이 교통결제 '딩동'… 수익성·기술 여건이 안착 변수",
+        "date": "2025-07-23 14:40",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=662100"
+    },
+    {
+        "title": "제일 얇은 갤럭시Z폴드7...전면 케이스가 없는 이유는?",
+        "date": "2025-07-23 14:36",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=329090"
+    },
+    {
+        "title": "삼상전자, '2025 올해의 녹색상품' 10개 제품 선정... 갤럭시 북5 프로 2...",
+        "date": "2025-07-23 14:32",
+        "link": "https://www.insight.co.kr/news/512624"
+    },
+    {
+        "title": "갤럭시 Z 폴드7·Z 플립7, 사전판매 104만대 돌파…역대 최다",
+        "date": "2025-07-23 14:30",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=234585"
+    },
+    {
+        "title": "'갤Z폴드·플립7' 사전판매 신기록…체험 마케팅 효과 톡톡",
+        "date": "2025-07-23 14:10",
+        "link": "https://www.asiatime.co.kr/article/20250723500275"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 14:04",
+        "link": "https://hobbyen-news.com/news/view/1065589269263514"
+    },
+    {
+        "title": "삼성, 갤럭시 Z 폴드7 디스플레이, 10년간 사용 가능한 내구성 확보",
+        "date": "2025-07-23 14:00",
+        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=110856"
+    },
+    {
+        "title": "현대카드, 애플페이 티머니 교통카드 지원... 반사이익 있을까?",
+        "date": "2025-07-23 13:50",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=637744"
+    },
+    {
+        "title": "삼성전자, ‘2025 대한민국 올해의 녹색상품’서 대거 선정",
+        "date": "2025-07-23 13:47",
+        "link": "https://n.news.naver.com/mnews/article/022/0004054088?sid=101"
+    },
+    {
+        "title": "‘애플 상속녀’ 스티브 잡스 딸, 올림픽 승마 금메달리스트와 ‘초호화...",
+        "date": "2025-07-23 13:41",
+        "link": "https://n.news.naver.com/mnews/article/366/0001094898?sid=104"
+    },
+    {
+        "title": "지갑케이스 두려운데~ 갤럭시 써…솔직한 '이 노래', 삼성도 홀렸다",
+        "date": "2025-07-23 13:29",
+        "link": "https://n.news.naver.com/mnews/article/008/0005225703?sid=105"
+    },
+    {
+        "title": "애플워치, '수면 추적' 기능 개선한다…iOS 26 코드서 새로운 기능 포착",
+        "date": "2025-07-23 13:28",
+        "link": "https://kbench.com/?q=node/269689"
+    },
+    {
+        "title": "애플, 리퀴드 글래스 담은 'iOS 26' 네 번째 개발자 베타 공개... 9월 출...",
+        "date": "2025-07-23 13:28",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802503"
+    },
+    {
+        "title": "'매출 5%' 벌금으로 낼 뻔…EU, 애플 앱스토어 개편안 수용",
+        "date": "2025-07-23 13:22",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092144529"
+    },
+    {
+        "title": "'갤Z폴드·플립7' 사전판매 신기록…폴더블 관련株 '활짝'",
+        "date": "2025-07-23 13:16",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=273219"
+    },
+    {
+        "title": "스타벅스 삼성카드와도 손잡는다",
+        "date": "2025-07-23 13:08",
+        "link": "https://www.naeil.com/news/read/555705?ref=naver"
+    },
+    {
+        "title": "보급형 스마트폰 삼성 '갤럭시 A56', 美 시장 출시... 국내 판매는 언제...",
+        "date": "2025-07-23 12:48",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802498"
+    },
+    {
+        "title": "애플, 자체 AI 모델 오픈소스 계획 무산... 독자 개발 포기하고 구글·오...",
+        "date": "2025-07-23 12:48",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802499"
+    },
+    {
+        "title": "이제는 아이폰으로 버스·지하철 탄다!…'애플 지갑' 앱에 티머니 카드...",
+        "date": "2025-07-23 12:27",
+        "link": "https://n.news.naver.com/mnews/article/057/0001898381?sid=102"
+    },
+    {
+        "title": "유니씨앤씨, 삼성 갤럭시북5 프로 &amp; 올인원 프로 7월 마지막 LIVE 진행",
+        "date": "2025-07-23 12:26",
+        "link": "https://kbench.com/?q=node/269683"
+    },
+    {
+        "title": "‘애플 상속녀’ 영국 시골마을서 92억 초호화 결혼식…남편은?",
+        "date": "2025-07-23 12:22",
+        "link": "https://n.news.naver.com/mnews/article/021/0002724713?sid=104"
+    },
+    {
+        "title": "'갤럭시 Z 폴드7·플립7' 사전 개통 시작… 이통3사, 혜택 경쟁",
+        "date": "2025-07-23 12:06",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3296799"
+    },
+    {
+        "title": "삼성·LG전자, 녹색의 가치 입혀 소비자 마음 움직였다",
+        "date": "2025-07-23 12:04",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=53807"
+    },
+    {
+        "title": "애플 '폴더블 아이폰' 스펙 유출…7.8인치 대화면 품는다",
+        "date": "2025-07-23 11:56",
+        "link": "https://kbench.com/?q=node/269676"
+    },
+    {
+        "title": "애플 中 핵심 협력사 럭스쉐어, 연내 로봇 생산 기지 가동",
+        "date": "2025-07-23 11:32",
+        "link": "https://www.irobotnews.com/news/articleView.html?idxno=41367"
+    },
+    {
+        "title": "로지텍, 발로란트 '불멸' 등극 위한 게이밍 기어 소개",
+        "date": "2025-07-23 11:20",
+        "link": "https://www.cnet.co.kr/view/?no=20250723105521"
+    },
+    {
+        "title": "삼성·LG전자, '올해의 녹색상품' 석권…'고효율'과 'AI기술'이 키워드",
+        "date": "2025-07-23 11:20",
+        "link": "https://www.esgeconomy.com/news/articleView.html?idxno=12114"
+    },
+    {
+        "title": "LGD, TV용 OLED 첫 연간 흑자 눈앞…12년만에 ‘적자 탈출’",
+        "date": "2025-07-23 11:16",
+        "link": "https://n.news.naver.com/mnews/article/016/0002503734?sid=101"
+    },
+    {
+        "title": "HP, 재미와 효율 다 잡는 '방학 아이템'…게이밍 포트폴리오 추천",
+        "date": "2025-07-23 11:16",
+        "link": "https://n.news.naver.com/mnews/article/030/0003334338?sid=105"
+    },
+    {
+        "title": "교통카드 서비스 시작한 애플페이..신한카드·KB국민카드 출시 속도 낸...",
+        "date": "2025-07-23 11:10",
+        "link": "http://kpenews.com/View.aspx?No=3722036"
+    },
+    {
+        "title": "삼성디스플레이, 50만 폴딩 기술로 상상 속 내구성을 완성하다",
+        "date": "2025-07-23 11:10",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202507231106293054fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "소비자가 뽑는 '녹색상품'에 삼성전자 제품 10개 선정",
+        "date": "2025-07-23 11:08",
+        "link": "https://n.news.naver.com/mnews/article/014/0005381180?sid=101"
+    },
+    {
+        "title": "베일 벗은 '삼성 갤럭시 Z 폴드7·플립7'...해외 반응은?",
+        "date": "2025-07-23 11:04",
+        "link": "https://www.koreaittimes.com/news/articleView.html?idxno=143794"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 10개 제품 선정 '쾌거'",
+        "date": "2025-07-23 11:00",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=482843"
+    },
+    {
+        "title": "24시간 동영상재생에도 OK 삼성전자 갤럭시 북5프로, 올해의 녹색상품...",
+        "date": "2025-07-23 11:00",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=112275"
+    },
+    {
+        "title": "완성도 기대 삼성, 두 번 접는 폰으로 '폴더블 기술 리더십' 강화",
+        "date": "2025-07-23 10:56",
+        "link": "https://n.news.naver.com/mnews/article/629/0000409879?sid=105"
+    },
+    {
+        "title": "삼성전자 10개 제품, 2025년 올해의 녹색상품 선정",
+        "date": "2025-07-23 10:46",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3014803"
+    },
+    {
+        "title": "삼성·LG전자 '2025 대한민국 올해의 녹색상품' 대거 선정",
+        "date": "2025-07-23 10:44",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=804514"
+    },
+    {
+        "title": "삼성전자, '대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 10:42",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=662730"
+    },
+    {
+        "title": "출시 앞둔 삼성 XR 헤드셋, 국내서 안전인증 획득",
+        "date": "2025-07-23 10:42",
+        "link": "https://dealsite.co.kr/articles/145083"
+    },
+    {
+        "title": "삼성전자 생활가전 10개 제품, 소비자가 뽑은 '올해의 녹색상품' 선정",
+        "date": "2025-07-23 10:34",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=78310"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 10:32",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=404517"
+    },
+    {
+        "title": "삼성전자 10개 제품 '2025 대한민국 올해의 녹색상품' 선정",
+        "date": "2025-07-23 10:30",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=121179"
+    },
+    {
+        "title": "[특징주] 초박형 강화유리기업 도우인시스, 코스닥 상장 첫날 57% '상승'",
+        "date": "2025-07-23 10:30",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/20250723101503248244093b5d4e_1/article.html"
+    },
+    {
+        "title": "LG디스플레이, TV용 OLED 12년 만 사상 첫 흑자 눈 앞…‘돈 버는 사업’...",
+        "date": "2025-07-23 10:28",
+        "link": "https://n.news.naver.com/mnews/article/016/0002503665?sid=101"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 냉장고·스마트폰 등 10개...",
+        "date": "2025-07-23 10:28",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=533902"
+    },
+    {
+        "title": "삼성전자, '대한민국 올해의 녹색상품' 10개 선정",
+        "date": "2025-07-23 10:26",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=86504"
+    },
+    {
+        "title": "'갤Z폴드·플립7' 사전판매 신기록…폴더블 관련株 '활짝'",
+        "date": "2025-07-23 10:24",
+        "link": "https://n.news.naver.com/mnews/article/003/0013379348?sid=101"
+    },
+    {
+        "title": "애플, 개발자용 'iOS 26' 베타 4 출시.. 달라진 점은?",
+        "date": "2025-07-23 10:20",
+        "link": "https://kbench.com/?q=node/269670"
+    },
+    {
+        "title": "삼성전자 10개 제품, '2025 대한민국 올해의 녹색상품' 선정",
+        "date": "2025-07-23 10:14",
+        "link": "http://www.kihoilbo.co.kr/news/articleView.html?idxno=1152991"
+    },
+    {
+        "title": "삼성·LG전자, '올해의 녹색상품' 대거 선정…AI로 에너지 효율 개선",
+        "date": "2025-07-23 10:13",
+        "link": "https://n.news.naver.com/mnews/article/117/0003967896?sid=105"
+    },
+    {
+        "title": "삼성·LG 친환경 가전 대거 선정…지금 사면 환급받는다",
+        "date": "2025-07-23 10:08",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=72423"
+    },
+    {
+        "title": "삼성전자, AI 절약·친환경 설계로 생활가전·모바일 분야 '녹색상품' 1...",
+        "date": "2025-07-23 10:06",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2306970"
+    },
+    {
+        "title": "삼성전자 '대한민국 올해의 녹색상품'에 10개 제품 선정",
+        "date": "2025-07-23 10:05",
+        "link": "https://n.news.naver.com/mnews/article/030/0003334279?sid=105"
+    },
+    {
+        "title": "삼성전자 10개 제품 '올해의 녹색상품' 선정",
+        "date": "2025-07-23 10:04",
+        "link": "https://n.news.naver.com/mnews/article/092/0002383136?sid=105"
+    },
+    {
+        "title": "삼성전자, ‘2025 대한민국 올해의 녹색상품’에 다수 제품 선정",
+        "date": "2025-07-23 10:04",
+        "link": "https://www.sentv.co.kr/article/view/sentv202507230013"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 10:02",
+        "link": "https://www.ajunews.com/view/20250723083636140"
+    },
+    {
+        "title": "[N2 전자 정보통] 삼성-LG, ‘2025 대한민국 올해의 녹색상품’ 대거 선...",
+        "date": "2025-07-23 10:02",
+        "link": "https://www.news2day.co.kr/article/20250723500075"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 09:58",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=87673"
+    },
+    {
+        "title": "삼성전자·LG전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 09:54",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=71471"
+    },
+    {
+        "title": "삼성전자, '올해의 녹색상품' 10개 제품 선정… AI·재활용 기술로 친환...",
+        "date": "2025-07-23 09:52",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=161728"
+    },
+    {
+        "title": "'갤럭시 Z 폴드7·Z 플립7' 사전판매, 역대 갤럭시 폴더블 최다 판매 신...",
+        "date": "2025-07-23 09:50",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=72426"
+    },
+    {
+        "title": "애플, 사우디아라비아 온라인 스토어 개설…2026년 첫 직영점도 예고",
+        "date": "2025-07-23 09:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=579153"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 다수 가전 제품 선정",
+        "date": "2025-07-23 09:50",
+        "link": "https://n.news.naver.com/mnews/article/031/0000950993?sid=101"
+    },
+    {
+        "title": "애플 신형 '홈패드' 명칭 변경 가능성…iOS 26 베타서 정황 포착",
+        "date": "2025-07-23 09:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=579138"
+    },
+    {
+        "title": "'갤럭시 Z 폴드7·Z 플립7' 국내 사전판매 104만대 달성..25일부터 전세...",
+        "date": "2025-07-23 09:50",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=89813"
+    },
+    {
+        "title": "삼성전자, 보급형 신형 태블릿 '갤럭시 탭 A11 LTE' 출시 임박",
+        "date": "2025-07-23 09:50",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=65581"
+    },
+    {
+        "title": "삼성, 4분기 애플용 폴더블 패널 생산 착수 전망",
+        "date": "2025-07-23 09:49",
+        "link": "https://n.news.naver.com/mnews/article/640/0000073861?sid=101"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 09:48",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=436962"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 09:48",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=531604"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 09:46",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=121839"
+    },
+    {
+        "title": "삼성전자, '대한민국 올해의 녹색상품' 10개 제품 선정",
+        "date": "2025-07-23 09:46",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1671500"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 09:44",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=319891"
+    },
+    {
+        "title": "삼성전자, ‘2025 대한민국 올해의 녹색상품’ 10개 제품 선정",
+        "date": "2025-07-23 09:42",
+        "link": "https://www.ceoscoredaily.com/page/view/2025072309390464175"
+    },
+    {
+        "title": "애플, iOS 26 베타 4 공개…‘리퀴드 글래스’ 강화·AI 뉴스 요약 기능...",
+        "date": "2025-07-23 09:40",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201181?sid=105"
+    },
+    {
+        "title": "애플, AI 모델 오픈소스 계획 철회…성능 저하 우려가 결정적 [인더AI]",
+        "date": "2025-07-23 09:32",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201179?sid=105"
+    },
+    {
+        "title": "아이폰에서도 티머니 된다…22일부터 교통카드 기능 전면 지원",
+        "date": "2025-07-23 09:31",
+        "link": "https://n.news.naver.com/mnews/article/243/0000081766?sid=101"
+    },
+    {
+        "title": "무더위도 못 말려...갤럭시 Z7 사전 개통 현장 '후끈'",
+        "date": "2025-07-23 09:31",
+        "link": "https://www.newspim.com/news/view/20250723000091"
+    },
+    {
+        "title": "[리뷰] MSI MAG 322URDF E16: 해상도와 주사율이 바뀌는 듀얼모드, 32인치...",
+        "date": "2025-07-23 09:30",
+        "link": "https://www.cnet.co.kr/view/?no=20250722235221"
+    },
+    {
+        "title": "삼성전자 '2025 대한민국 올해의 녹색상품' 10개 제품 선정",
+        "date": "2025-07-23 09:28",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=234560"
+    },
+    {
+        "title": "EU, 애플 앱스토어 개편안 승인 수순…일일 과징금은 피할 듯 [MOVIEW]",
+        "date": "2025-07-23 09:26",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201176?sid=105"
+    },
+    {
+        "title": "갤럭시 북5 프로 '2관왕'… 삼성전자, '올해의 녹색상품' 대거 선정",
+        "date": "2025-07-23 09:24",
+        "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3047284"
+    },
+    {
+        "title": "삼성전자, 10개 제품 '올해의 녹색상품' 선정",
+        "date": "2025-07-23 09:22",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=249648"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 10개 제품 선정",
+        "date": "2025-07-23 09:20",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=276715"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 09:20",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=190444"
+    },
+    {
+        "title": "삼성전자, ‘2025 올해의 녹색상품’ 10개 제품 선정",
+        "date": "2025-07-23 09:20",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=184075"
+    },
+    {
+        "title": "아이폰18·폴드까지…애플, 2027년 역대 최대 라인업 선보일까",
+        "date": "2025-07-23 09:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=579100"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해 녹색상품'서 10개 제품 선정",
+        "date": "2025-07-23 09:18",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=228961"
+    },
+    {
+        "title": "애플, 2027년 ‘6종 아이폰’ 동시 출시하나… 라인업 역대 최대 전망",
+        "date": "2025-07-23 09:16",
+        "link": "https://n.news.naver.com/mnews/article/117/0003967870?sid=105"
+    },
+    {
+        "title": "삼성전자, 친환경 기술 인정받아…‘2025 녹색상품’ 대거 수상",
+        "date": "2025-07-23 09:16",
+        "link": "https://www.m-economynews.com/news/article.html?no=57567"
+    },
+    {
+        "title": "삼성전자, 10개 제품으로 '올해의 녹색상품' 선정",
+        "date": "2025-07-23 09:12",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025072309052355290c42db76_1/article.html"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 09:10",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=239849"
+    },
+    {
+        "title": "아바코, BOE 대규모 수주에 '역대급' 실적 전망",
+        "date": "2025-07-23 09:08",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=345038"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품' 무더기 선정",
+        "date": "2025-07-23 09:05",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000076524"
+    },
+    {
+        "title": "삼성전자, 2025 대한민국 올해의 녹색상품서 대거 선정",
+        "date": "2025-07-23 09:02",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3296665"
+    },
+    {
+        "title": "삼성·LG, '2025 대한민국 올해의 녹색상품' 선정",
+        "date": "2025-07-23 09:02",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=181679"
+    },
+    {
+        "title": "애플, 뉴스 요약 기능 부활…iOS 26 베타4에서 다시 등장",
+        "date": "2025-07-23 09:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=579095"
+    },
+    {
+        "title": "삼성·LG, '2025 올해의 녹색상품' 다관왕…AI 고효율 가전 기술 경쟁 본...",
+        "date": "2025-07-23 09:02",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250723010013074"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품' 대거 선정…스마트폰·가전...",
+        "date": "2025-07-23 09:01",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201173?sid=105"
+    },
+    {
+        "title": "삼성전자 10개 제품 '올해의 녹색상품' 선정",
+        "date": "2025-07-23 09:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006071752?sid=101"
+    },
+    {
+        "title": "삼성전자, ‘대한민국 올해의 녹색상품’ 대거 선정",
+        "date": "2025-07-23 09:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002503572?sid=101"
+    },
+    {
+        "title": "[단통법 폐지下] 제조사 '시장 선점' 경쟁…신규 수요 창출 어려워",
+        "date": "2025-07-23 09:00",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=117795"
+    },
+    {
+        "title": "삼성전자, 친환경도 'AI로 승부'…'올해의 녹색상품'서 가전·IT 동시 석...",
+        "date": "2025-07-23 09:00",
+        "link": "https://www.newspim.com/news/view/20250723000062"
+    },
+    {
+        "title": "AI로 친환경 구현…삼성, '2025 대한민국 올해의 녹색상품'서 10개 제품...",
+        "date": "2025-07-23 09:00",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=230218"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 09:00",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=64121"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 09:00",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=92621"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 09:00",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=397386"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품' 10개 제품 선정",
+        "date": "2025-07-23 09:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=218582"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품' 대거 선정",
+        "date": "2025-07-23 09:00",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2091147"
+    },
+    {
+        "title": "삼성전자 10개 제품, 전문가·소비자로부터 친환경 인정받아",
+        "date": "2025-07-23 09:00",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1263057"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 09:00",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=662028"
+    },
+    {
+        "title": "갤럭시S25부터 이페이퍼까지…삼성 10개 제품 '올해 녹색상품' 선정",
+        "date": "2025-07-23 09:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008386508?sid=101"
+    },
+    {
+        "title": "삼성전자, '2025 올해의 녹색상품' 10개 제품 선정",
+        "date": "2025-07-23 09:00",
+        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=262758"
+    },
+    {
+        "title": "삼성·LG전자, '올해의 녹색상품' 석권…친환경 AI기술 입증",
+        "date": "2025-07-23 09:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015523655?sid=101"
+    },
+    {
+        "title": "삼성전자, '2025 대한민국 올해의 녹색상품'서 대거 선정",
+        "date": "2025-07-23 08:58",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=35905"
+    },
+    {
+        "title": "애플, 2027년 6개 새 아이폰 내놓는다…역대 최대 규모",
+        "date": "2025-07-23 08:49",
+        "link": "https://n.news.naver.com/mnews/article/092/0002383107?sid=105"
+    },
+    {
+        "title": "더위를 뚫은 열기… 강남을 달군 갤럭시 Z 폴드7 · Z 플립7 사전 개통 ...",
+        "date": "2025-07-23 08:48",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=64128"
+    },
+    {
+        "title": "[박진섭의 황금선] 폴더블 아이폰 부품 공급 기대감 '비에이치'",
+        "date": "2025-07-23 08:46",
+        "link": "https://news.mtn.co.kr/news-detail/2025072308430231098"
+    },
+    {
+        "title": "애플, iOS26 네 번째 베타버전 출시…새로운 기능은",
+        "date": "2025-07-23 08:34",
+        "link": "https://n.news.naver.com/mnews/article/092/0002383104?sid=105"
+    },
+    {
+        "title": "삼성전자 AI 기능 통했다…20여 개 환경 단체·소비자 직접 선정 ‘2025 ...",
+        "date": "2025-07-23 08:24",
+        "link": "https://n.news.naver.com/mnews/article/468/0001163941?sid=101"
+    },
+    {
+        "title": "104만 대 신기록 달성...갤럭시 Z 폴드7·Z 플립7' 사전 판매 역대 흥행",
+        "date": "2025-07-23 08:10",
+        "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=505205"
+    },
+    {
+        "title": "TSMC, 파운드리 시장 독주 지속…삼성전자 추격 늦지 않았다",
+        "date": "2025-07-23 08:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=319830"
+    },
+    {
+        "title": "[지자체 이슈] 봉화군, '봉화의 햇살과 바람이 키워낸 아열대과수 애플...",
+        "date": "2025-07-23 08:00",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=438701"
+    },
+    {
+        "title": "단순함 속에 심오함 담긴 키보드의 세계 [권용만의 긱랩]",
+        "date": "2025-07-23 07:04",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092144505"
+    },
+    {
+        "title": "아이폰으로도 버스·지하철 결제 가능해졌다…‘현대카드’ 예상 수혜는",
+        "date": "2025-07-23 07:02",
+        "link": "https://www.ceoscoredaily.com/page/view/2025072214083124782"
+    },
+    {
+        "title": "삼성·애플 폴더블 기대감에 고공행진하는 부품주",
+        "date": "2025-07-23 07:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005626495?sid=101"
+    }
+]
