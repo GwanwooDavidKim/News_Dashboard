@@ -1,1 +1,652 @@
-
+[
+    {
+        "title": "中 ‘비보 X폴드5’ 인도 출시...‘삼성 Z폴드7’에 도전장[모닝폰]",
+        "date": "2025-07-31 04:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006077545?sid=105"
+    },
+    {
+        "title": "AI 인재 뺏기고 中 직영매장 닫고… ‘한때 1위였는데’ 추락하는 애플",
+        "date": "2025-07-31 00:16",
+        "link": "https://n.news.naver.com/mnews/article/005/0001792990?sid=101"
+    },
+    {
+        "title": "언제 적 아재?… 더 영해졌다",
+        "date": "2025-07-31 00:05",
+        "link": "https://n.news.naver.com/mnews/article/005/0001792983?sid=101"
+    },
+    {
+        "title": "애플 공인 수리 접수 하이마트에 맡기세요",
+        "date": "2025-07-30 21:54",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=518384"
+    },
+    {
+        "title": "한때는 10만원이었다…“6천원 충격적 추락” 몰락하던 전자 왕좌 ‘반...",
+        "date": "2025-07-30 21:31",
+        "link": "https://n.news.naver.com/mnews/article/016/0002507434?sid=105"
+    },
+    {
+        "title": "[왓이즈 IT] 창사 이래 최대 위기?...애플, 어디서 삐끗했나",
+        "date": "2025-07-30 21:30",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=261385"
+    },
+    {
+        "title": "[월드 e-브리핑] IMF, 세계 경제 성장률은 올리고 한국만 내려",
+        "date": "2025-07-30 21:12",
+        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1492024"
+    },
+    {
+        "title": "애플, 2026년 첫 폴더블 아이폰 출시 전망…시장 판도 바꿀까",
+        "date": "2025-07-30 20:52",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1672588"
+    },
+    {
+        "title": "스마트홈 전문기업 '와츠매터', 매터 기반 솔루션 대거 선봬",
+        "date": "2025-07-30 19:48",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=201065"
+    },
+    {
+        "title": "“천하의 삼성도 여긴 어렵다” 다들 포기했는데…뜻밖에 ‘터졌다’",
+        "date": "2025-07-30 19:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002507412?sid=105"
+    },
+    {
+        "title": "제니퍼룸 ‘BLDC 폴더블 무선 선풍기’ 완판 이어져",
+        "date": "2025-07-30 18:54",
+        "link": "http://www.lawissue.co.kr/view.php?ud=202507301852062769204ead0791_12"
+    },
+    {
+        "title": "[오늘의 DT인] 체질개선 속도 내는 LGD… “OLED사업 강화·AI 전환으로 ...",
+        "date": "2025-07-30 18:40",
+        "link": "https://n.news.naver.com/mnews/article/029/0002972224?sid=101"
+    },
+    {
+        "title": "해성옵틱스, 삼성 갤럭시 S26 카메라 부품 공급…실적 반등 속도낸다",
+        "date": "2025-07-30 18:38",
+        "link": "https://www.hellot.net/news/article.html?no=103785"
+    },
+    {
+        "title": "기술은 뒤처지고 인재는 떠나가고…흔들리는 애플 AI",
+        "date": "2025-07-30 18:16",
+        "link": "https://n.news.naver.com/mnews/article/024/0000098870?sid=101"
+    },
+    {
+        "title": "라인게임즈 '헬로키티 프렌즈 매치', 삼성 갤럭시 스토어 입점",
+        "date": "2025-07-30 18:00",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=204078"
+    },
+    {
+        "title": "락앤락 제니퍼룸, 'BLDC 폴더블 무선 선풍기' 완판…쿠팡이츠서비스, 온...",
+        "date": "2025-07-30 17:56",
+        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=173810"
+    },
+    {
+        "title": "라인게임즈 '헬로키티 프렌즈 매치', 삼성 갤럭시 스토어 입점",
+        "date": "2025-07-30 17:12",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7121968"
+    },
+    {
+        "title": "'엑시노스→테슬라 AI6' 한진만 式 반전…삼성 파운드리, 레퍼런스 다시...",
+        "date": "2025-07-30 17:12",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201760?sid=105"
+    },
+    {
+        "title": "시원함은 기본, 실용성까지 갖췄다는 제니퍼룸 '폴더블 무선 선풍기' 완...",
+        "date": "2025-07-30 17:10",
+        "link": "https://www.insight.co.kr/news/513691"
+    },
+    {
+        "title": "애플, 메타에 AI 핵심인력 또 뺏겨…AI조직 위기",
+        "date": "2025-07-30 17:02",
+        "link": "https://www.ajunews.com/view/20250730165733888"
+    },
+    {
+        "title": "‘외산 무덤’ 日서 반전…삼성·LG, 현지 전략 통했다",
+        "date": "2025-07-30 17:00",
+        "link": "https://www.ekn.kr/web/view.php?key=20250730022102002"
+    },
+    {
+        "title": "삼성물산, 2분기 영업익 1180억원…전년 比 28.4% 하락",
+        "date": "2025-07-30 16:50",
+        "link": "https://www.asiatime.co.kr/article/20250730500352"
+    },
+    {
+        "title": "삼성디스플레이, LGD 특허 취득해 BOE 특허전 강화",
+        "date": "2025-07-30 16:48",
+        "link": "http://www.wolyo.co.kr/news/articleView.html?idxno=263133"
+    },
+    {
+        "title": "삼성, 美 스마트폰 점유율 31% 돌파…애플과 격차 절반으로 좁혔다",
+        "date": "2025-07-30 16:46",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=271676"
+    },
+    {
+        "title": "차세대 디스플레이 핵심 선익시스템 주가 벌떡... 8.6세대 OLED 시장서 '...",
+        "date": "2025-07-30 16:24",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=364307"
+    },
+    {
+        "title": "애플, 美 법무부 반독점 소송에 반박…정면 대응 예고",
+        "date": "2025-07-30 16:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=581467"
+    },
+    {
+        "title": "롯데하이마트, 애플제품 수리 전국서 접수…주말에도 편하게 이용하세...",
+        "date": "2025-07-30 16:03",
+        "link": "https://n.news.naver.com/mnews/article/015/0005164636?sid=101"
+    },
+    {
+        "title": "애플 아이폰 '클린업' 기능, 구글 픽셀6 '매직 이레이저' 따라잡기 논란",
+        "date": "2025-07-30 15:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=581424"
+    },
+    {
+        "title": "칼로 긁고 불로 지지고... 삼성전자 '초슬림' 갤럭시 Z폴드7, 극한의 ...",
+        "date": "2025-07-30 15:52",
+        "link": "https://www.insight.co.kr/news/513727"
+    },
+    {
+        "title": "라인게임즈 '헬로키티 프렌즈 매치', 삼성 갤럭시 스토어 입점",
+        "date": "2025-07-30 15:37",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2310135"
+    },
+    {
+        "title": "경영 정상화 속도 LG디스플레이…정철동 매직 현실화?",
+        "date": "2025-07-30 15:32",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025073015272415590"
+    },
+    {
+        "title": "애플, 한달 새 메타에 핵심 AI 연구원 4명 뺏겨",
+        "date": "2025-07-30 15:32",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=201079"
+    },
+    {
+        "title": "[기자수첩] 광저우 공장 팔고 OLED 외친 LGD…턴어라운드 근거는?",
+        "date": "2025-07-30 15:31",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=329371"
+    },
+    {
+        "title": "[더벨][i-point]해성옵틱스,'갤럭시 S26' 시리즈 메인 공급사 선정",
+        "date": "2025-07-30 15:28",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507301513519880109354"
+    },
+    {
+        "title": "해성옵틱스, 갤럭시 Z 시리즈 흥행에 실적 반등 기대…S26 공급도 유력",
+        "date": "2025-07-30 15:20",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=439085"
+    },
+    {
+        "title": "프리미엄 TV도 힘 못 쓴 LG전자…MS사업 부진 2Q 실적 '반토막'",
+        "date": "2025-07-30 15:20",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065590685315091"
+    },
+    {
+        "title": "[AT 산업 단신] 삼성전자·LG·LG전자·대한전선",
+        "date": "2025-07-30 15:16",
+        "link": "https://www.asiatime.co.kr/article/20250730500296"
+    },
+    {
+        "title": "애플, '에어팟 프로2·에어팟4' 최신 베타 펌웨어 '8A5324b' 출시",
+        "date": "2025-07-30 15:16",
+        "link": "https://kbench.com/?q=node/269926"
+    },
+    {
+        "title": "라인게임즈 '헬로키티 프렌즈 매치', 삼성 갤럭시 스토어 입점",
+        "date": "2025-07-30 15:02",
+        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6905473"
+    },
+    {
+        "title": "해성옵틱스, 삼성전자 Z Fold7·Z Flip7에 이어 S26향 핵심 광학 부품 공...",
+        "date": "2025-07-30 15:00",
+        "link": "https://kbench.com/?q=node/269923"
+    },
+    {
+        "title": "세워진 디자인 시장 기준됐다… 토스, 단말기계 애플 넘본다",
+        "date": "2025-07-30 14:47",
+        "link": "https://n.news.naver.com/mnews/article/008/0005229074?sid=101"
+    },
+    {
+        "title": "[뉴템] 마이크로닉스, 여름맞이 투명 케이스 '위즈맥스 루프탑 화이트'...",
+        "date": "2025-07-30 14:47",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201741?sid=105"
+    },
+    {
+        "title": "제니퍼룸 'BLDC 폴더블 무선 선풍기' 완판 행진",
+        "date": "2025-07-30 14:40",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=78840"
+    },
+    {
+        "title": "삼성전자, 파운드리·AP·스마트폰 ‘3각 반등’ 시그널",
+        "date": "2025-07-30 14:14",
+        "link": "https://www.etoday.co.kr/news/view/2492498"
+    },
+    {
+        "title": "삼성, 갤럭시 S26 울트라 퀄컴 스냅드래곤 탑재한다... 하위 라인업은 엑...",
+        "date": "2025-07-30 14:04",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802676"
+    },
+    {
+        "title": "안민석이 '스프 운동'에 뛰어든 이유... 한국은 무방비 상태",
+        "date": "2025-07-30 13:44",
+        "link": "https://n.news.naver.com/mnews/article/047/0002482823?sid=102"
+    },
+    {
+        "title": "갤럭시 Z폴드·플립7, 역대급 판매…삼성 부품사 수혜",
+        "date": "2025-07-30 13:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=273876"
+    },
+    {
+        "title": "폴더블 아이폰 내년 9월 나오나…출고가는 280만원?",
+        "date": "2025-07-30 13:36",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=273872"
+    },
+    {
+        "title": "애플, ‘中 첫 매장 폐점’⋯ 美서는 삼성에 점유율 추격",
+        "date": "2025-07-30 13:34",
+        "link": "https://www.viva100.com/article/20250730500618"
+    },
+    {
+        "title": "애플, 중국서 첫 매장 폐쇄…시장 '경고등' 켜지나?",
+        "date": "2025-07-30 13:25",
+        "link": "https://n.news.naver.com/mnews/article/123/0002364856?sid=004"
+    },
+    {
+        "title": "애플, AI 인재 이탈 계속… 떠난 인재들은 메타로",
+        "date": "2025-07-30 13:08",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092144951"
+    },
+    {
+        "title": "당도높은' 애플망고' 완주서 맛 보세요",
+        "date": "2025-07-30 12:54",
+        "link": "http://www.jeollailbo.com/news/articleView.html?idxno=774299"
+    },
+    {
+        "title": "‘여름 담은 투명 케이스’ 마이크로닉스, WIZMAX 루프탑 화이트 출시",
+        "date": "2025-07-30 12:50",
+        "link": "https://kbench.com/?q=node/269911"
+    },
+    {
+        "title": "라인게임즈 '헬로키티 프렌즈 매치', 삼성 갤럭시 스토어 입점",
+        "date": "2025-07-30 12:50",
+        "link": "https://n.news.naver.com/mnews/article/030/0003336560?sid=105"
+    },
+    {
+        "title": "'애플카드' JP모건 품으로…골드만삭스, 27조 신용자산 넘긴다",
+        "date": "2025-07-30 12:44",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=271637"
+    },
+    {
+        "title": "제니퍼룸 'BLDC 폴더블 무선 선풍기' 완판 행진",
+        "date": "2025-07-30 12:36",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=705512"
+    },
+    {
+        "title": "마이크로닉스, WIZMAX 루프탑 화이트 출시",
+        "date": "2025-07-30 12:32",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55492"
+    },
+    {
+        "title": "헬로키티 프렌즈 매치, 갤럭시 스토어에서도 만날 수 있다",
+        "date": "2025-07-30 12:30",
+        "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=95137"
+    },
+    {
+        "title": "‘헬로키티 프렌즈 매치’, 삼성 갤럭시 스토어 입점",
+        "date": "2025-07-30 12:24",
+        "link": "https://game.donga.com/118475/"
+    },
+    {
+        "title": "제니퍼룸 폴더블 무선 선풍기 완판 행진",
+        "date": "2025-07-30 11:54",
+        "link": "https://mdtoday.co.kr/news/view/1065581331074149"
+    },
+    {
+        "title": "애플 '폴더블 아이폰' 2026년 9월 출시 전망…가격 1,999달러 예상",
+        "date": "2025-07-30 11:52",
+        "link": "https://kbench.com/?q=node/269905"
+    },
+    {
+        "title": "“애플, 아이폰18 시리즈에 폴더블 제품 추가”··· 가격 276만원 예상",
+        "date": "2025-07-30 11:36",
+        "link": "https://www.cio.com/article/4030960/애플-아이폰18-시리즈에-폴더블-제품-추가···-가.html"
+    },
+    {
+        "title": "공개 1달 남은 아이폰 17 시리즈 보니! 후면 디자인 그대로 가져간다......",
+        "date": "2025-07-30 11:36",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802665"
+    },
+    {
+        "title": "라인게임즈 매치3 퍼즐 게임 ‘헬로키티 프렌즈 매치’ 삼성 갤럭시 스...",
+        "date": "2025-07-30 11:34",
+        "link": "https://gamefocus.co.kr/detail.php?number=167860"
+    },
+    {
+        "title": "해성옵틱스, 삼성전자 Z Fold7·Z Flip7에 이어 S26향 핵심 광학 부품 공...",
+        "date": "2025-07-30 11:30",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4005634"
+    },
+    {
+        "title": "'OLED 다음은?'…유비리서치, 차세대 디스플레이 전략 세미나 개최",
+        "date": "2025-07-30 11:29",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201713?sid=105"
+    },
+    {
+        "title": "라인게임즈 '헬로키티 프렌즈 매치', 삼성 갤럭시 스토어 입점",
+        "date": "2025-07-30 11:26",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=242484"
+    },
+    {
+        "title": "에이드코리아 컴퍼니,마리엔메이·리테일러 골드애플과 마케팅 콜라보",
+        "date": "2025-07-30 11:24",
+        "link": "https://www.ajunews.com/view/20250730112001565"
+    },
+    {
+        "title": "라인게임즈 '헬로키티 프렌즈 매치', 삼성 갤럭시 스토어 입점",
+        "date": "2025-07-30 11:24",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=219327"
+    },
+    {
+        "title": "해성옵틱스, 삼성전자 Z 폴드7·플립7 이어 S26향 핵심 광학 부품 공급 ...",
+        "date": "2025-07-30 11:22",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=240666"
+    },
+    {
+        "title": "[특징주] 해성옵틱스, 삼성 폴더블 역대 최고 실적 핵심 공급사로 매...",
+        "date": "2025-07-30 11:20",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=273846"
+    },
+    {
+        "title": "락앤락 제니퍼룸, 'BLDC 폴더블 무선 선풍기' 완판 행진",
+        "date": "2025-07-30 11:16",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=136458"
+    },
+    {
+        "title": "유비리서치, '2026년 디스플레이 전략 세미나' 9월 개최",
+        "date": "2025-07-30 11:16",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=413878"
+    },
+    {
+        "title": "갤럭시 Z폴드·플립7, 역대급 판매…삼성 부품사 수혜",
+        "date": "2025-07-30 11:11",
+        "link": "https://n.news.naver.com/mnews/article/003/0013393164?sid=101"
+    },
+    {
+        "title": "마이크로닉스, 3면 강화유리 케이스 '위즈맥스 루프탑 화이트' 출시",
+        "date": "2025-07-30 11:10",
+        "link": "https://www.cnet.co.kr/view/?no=20250730105419"
+    },
+    {
+        "title": "미중 무역협상 계기 재계 사절단 방중…'애플' 중국 매장 폐점 주목",
+        "date": "2025-07-30 11:08",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15752078"
+    },
+    {
+        "title": "삼성 애플, 비수기인 6월에도 장사 잘했다...삼성전자 점유율 20.1%로 14....",
+        "date": "2025-07-30 11:06",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=2025073010592873322aaae0046f_30"
+    },
+    {
+        "title": "삼성전자, 준프리미엄 FE로 틈새 공략… 고급형 라인업 넓힌다",
+        "date": "2025-07-30 11:06",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/07/30/2025073000139.html"
+    },
+    {
+        "title": "락앤락 제니퍼룸, 'BLDC 폴더블 무선 선풍기' 완판",
+        "date": "2025-07-30 11:05",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2309897"
+    },
+    {
+        "title": "애플, 하반기 '아이폰 17' 출시…LG이노텍 '방긋'",
+        "date": "2025-07-30 11:04",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025073010471640760"
+    },
+    {
+        "title": "中BOE, 美서 퇴장 위기…삼성·LG, 아이폰 OLED '빈자리' 노린다",
+        "date": "2025-07-30 11:02",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=85226"
+    },
+    {
+        "title": "골드만삭스 애플 카드 사업 JP모건 인수 가능성 부상",
+        "date": "2025-07-30 11:02",
+        "link": "http://www.fntoday.co.kr/news/articleView.html?idxno=358863"
+    },
+    {
+        "title": "폴더블 아이폰 내년 9월 나오나…출고가는 280만원?",
+        "date": "2025-07-30 11:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013393094?sid=105"
+    },
+    {
+        "title": "애플, 메타에 AI 핵심 연구원 또 뺏겨…AI 전략 ‘흔들’",
+        "date": "2025-07-30 10:59",
+        "link": "https://n.news.naver.com/mnews/article/018/0006076946?sid=101"
+    },
+    {
+        "title": "애플의 굴욕... 중국 직영 매장 첫 폐쇄",
+        "date": "2025-07-30 10:48",
+        "link": "https://n.news.naver.com/mnews/article/023/0003920190?sid=105"
+    },
+    {
+        "title": "제니퍼룸 BLDC 폴더블 무선 선풍기 완판 행진",
+        "date": "2025-07-30 10:48",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1250593"
+    },
+    {
+        "title": "오매불망 기다린 애플 '폴더블' 아이폰, 오는 2026년 9월 공개한다... 예...",
+        "date": "2025-07-30 10:44",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1802660"
+    },
+    {
+        "title": "“다크 팩토리 시대 온다”…바이오퍼스글로벌, 코닉오토메이션과 무인...",
+        "date": "2025-07-30 10:31",
+        "link": "https://n.news.naver.com/mnews/article/018/0006076907?sid=105"
+    },
+    {
+        "title": "“애플 AI연구소 괜찮은거니?”…한달 새 핵심인력 4명 줄줄이 메타로 ...",
+        "date": "2025-07-30 10:31",
+        "link": "https://n.news.naver.com/mnews/article/009/0005533322?sid=105"
+    },
+    {
+        "title": "애플, 메타에 AI 핵심인력 또 빼앗겨...한 달 새 네 번째",
+        "date": "2025-07-30 10:29",
+        "link": "https://n.news.naver.com/mnews/article/009/0005533320?sid=104"
+    },
+    {
+        "title": "JP모건 애플, 내년 9월 폴더블 아이폰 출시…암페놀ㆍ코닝 수혜",
+        "date": "2025-07-30 10:28",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4367185"
+    },
+    {
+        "title": "마리엔메이, 러시아 프리미엄 뷰티 리테일러 골드애플과 마케팅 콜라보",
+        "date": "2025-07-30 10:22",
+        "link": "http://www.segyebiz.com/newsView/20250730506071?OutUrl=naver"
+    },
+    {
+        "title": "서유럽 흔든 삼성 갤럭시 A56, 북미 출격…AI 대중화 속도",
+        "date": "2025-07-30 10:20",
+        "link": "https://n.news.naver.com/mnews/article/030/0003336484?sid=105"
+    },
+    {
+        "title": "해성옵틱스, 삼성전자 S26 핵심 광학 부품 공급 전망",
+        "date": "2025-07-30 10:18",
+        "link": "https://www.newspim.com/news/view/20250730000245"
+    },
+    {
+        "title": "홍진경 스티브 잡스가 애플 만든 차고앞까지 가봤었다(옥문아)",
+        "date": "2025-07-30 10:14",
+        "link": "https://m.entertain.naver.com/article/076/0004305895"
+    },
+    {
+        "title": "제니퍼룸, 폭염에 'BLDC 폴더블 무선 선풍기' 완판행진",
+        "date": "2025-07-30 10:10",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=664661"
+    },
+    {
+        "title": "해성옵틱스, 삼성 '갤럭시S26'향 핵심 광학 부품 공급 준비",
+        "date": "2025-07-30 10:09",
+        "link": "https://n.news.naver.com/mnews/article/092/0002384068?sid=105"
+    },
+    {
+        "title": "애플 AI 핵심 인력 또 이탈…메타 '초지능' 연구소로",
+        "date": "2025-07-30 10:02",
+        "link": "https://n.news.naver.com/mnews/article/277/0005630035?sid=101"
+    },
+    {
+        "title": "해성옵틱스, 갤럭시 S26 시리즈 메인 공급사로 도약",
+        "date": "2025-07-30 10:00",
+        "link": "https://mdtoday.co.kr/news/view/1065574599001754"
+    },
+    {
+        "title": "[특징주] 해성옵틱스, 갤럭시 Z 시리즈 흥행·S26 공급 모멘텀에 급등",
+        "date": "2025-07-30 10:00",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=663298"
+    },
+    {
+        "title": "JP모건, 애플 신용카드 사업 인수 논의 중",
+        "date": "2025-07-30 09:56",
+        "link": "https://n.news.naver.com/mnews/article/277/0005630025?sid=104"
+    },
+    {
+        "title": "해성옵틱스, '갤Z' 흥행 타고 S26向 광학 부품 공급 전망",
+        "date": "2025-07-30 09:54",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1672449"
+    },
+    {
+        "title": "애플 사파리 보안 업그레이드…웹 추적 차단 강화",
+        "date": "2025-07-30 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=581303"
+    },
+    {
+        "title": "애플 폴더블 아이폰 2026년 가을 출시 전망…가격은 276만원 수준",
+        "date": "2025-07-30 09:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=581307"
+    },
+    {
+        "title": "애플 워치OS 26 한 달 써보니…유용한 신기능 3가지",
+        "date": "2025-07-30 09:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=581309"
+    },
+    {
+        "title": "中 시장 5위로 추락한 애플 vs 美 시장서 반토막 난 '메이드인 차이나폰...",
+        "date": "2025-07-30 09:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=273780"
+    },
+    {
+        "title": "해성옵틱스, 삼성전자 S26향 핵심 광학 부품 공급 전망",
+        "date": "2025-07-30 09:38",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=659379"
+    },
+    {
+        "title": "JP모건, 애플 신용카드 사업 인수 논의…몇 달 새 빠르게 진전",
+        "date": "2025-07-30 09:36",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1250503"
+    },
+    {
+        "title": "직원도 등 돌린 애플...AI 핵심인력 '줄이탈'",
+        "date": "2025-07-30 09:28",
+        "link": "https://n.news.naver.com/mnews/article/215/0001218184?sid=004"
+    },
+    {
+        "title": "애플 AI 조직 인재 이탈…연구원들 메타·스타트업으로 또 옮겨",
+        "date": "2025-07-30 09:24",
+        "link": "https://n.news.naver.com/mnews/article/016/0002507000?sid=104"
+    },
+    {
+        "title": "해성옵틱스, 삼성전자 S26향 핵심 광학 부품 공급 전망",
+        "date": "2025-07-30 09:22",
+        "link": "https://n.news.naver.com/mnews/article/018/0006076808?sid=101"
+    },
+    {
+        "title": "애플, 디트로이트에 ‘제조 아카데미’ 개소… 美 내 스마트 제조 생태...",
+        "date": "2025-07-30 09:18",
+        "link": "https://n.news.naver.com/mnews/article/138/0002201682?sid=004"
+    },
+    {
+        "title": "게이밍 모니터 뜬다…프리미엄 OLED 힘주는 K디스플레이",
+        "date": "2025-07-30 09:06",
+        "link": "https://n.news.naver.com/mnews/article/018/0006076774?sid=101"
+    },
+    {
+        "title": "애플 AI 조직, '엑소더스' 비상",
+        "date": "2025-07-30 09:04",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=364122"
+    },
+    {
+        "title": "애플, AI 조직 메타·스타트업으로 또 이탈 '엑소더스'",
+        "date": "2025-07-30 09:03",
+        "link": "https://n.news.naver.com/mnews/article/374/0000454634?sid=104"
+    },
+    {
+        "title": "인도, 중국 제치고 美 스마트폰 수출 1위…제조업 지형 변화",
+        "date": "2025-07-30 09:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=581264"
+    },
+    {
+        "title": "애플 AI 인재 이탈 '속수무책'…메타에 4명째 빼앗겨",
+        "date": "2025-07-30 08:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=581256"
+    },
+    {
+        "title": "트럼프 투자 압박 심했나…애플, 美 디트로이트에 '제조 아카데미' 설립",
+        "date": "2025-07-30 08:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=581253"
+    },
+    {
+        "title": "애플, AI 조직 엑소더스?…메타·스타트업으로 또 이탈",
+        "date": "2025-07-30 08:48",
+        "link": "https://n.news.naver.com/mnews/article/001/0015537488?sid=104"
+    },
+    {
+        "title": "폴더블 아이폰, 내년 가을 출시…가격 277만원 수준?",
+        "date": "2025-07-30 08:42",
+        "link": "https://n.news.naver.com/mnews/article/092/0002384031?sid=105"
+    },
+    {
+        "title": "300만원 아이폰 나온다…“내년 9월 아이폰 폴더블, 출고가 1999달러 전망...",
+        "date": "2025-07-30 08:34",
+        "link": "https://n.news.naver.com/mnews/article/029/0002971953?sid=105"
+    },
+    {
+        "title": "머스크 이재용과 화상통화…삼성과 파트너십 강조[오늘M7]",
+        "date": "2025-07-30 08:33",
+        "link": "https://n.news.naver.com/mnews/article/018/0006076722?sid=101"
+    },
+    {
+        "title": "홍진경 스티브 잡스 팬…애플 만든 차고 앞에도 가봤다",
+        "date": "2025-07-30 08:26",
+        "link": "https://m.entertain.naver.com/article/421/0008400282"
+    },
+    {
+        "title": "JP모건, 애플 신용카드 인수 협상 중…골드만삭스 대체 유력",
+        "date": "2025-07-30 08:24",
+        "link": "https://n.news.naver.com/mnews/article/243/0000082157?sid=101"
+    },
+    {
+        "title": "JP모건, 골드만삭스로부터 애플 신용카드 사업 인수 논의",
+        "date": "2025-07-30 08:20",
+        "link": "https://n.news.naver.com/mnews/article/052/0002226506?sid=104"
+    },
+    {
+        "title": "신한카드, 삼성 신형 폴더블 스마트 폰 구매 고객 최대 10만원 캐시백",
+        "date": "2025-07-30 08:18",
+        "link": "https://www.raonnews.com/news/article.html?no=49477"
+    },
+    {
+        "title": "애플, 中 최대 스마트폰 시장서 첫 리테일 매장 철수",
+        "date": "2025-07-30 08:06",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=65786"
+    },
+    {
+        "title": "삼성·애플, 31일 나란히 실적 발표...모바일 성적 대비 주목",
+        "date": "2025-07-30 07:55",
+        "link": "https://n.news.naver.com/mnews/article/031/0000952909?sid=105"
+    },
+    {
+        "title": "삼성디스플레이 공장에서 로봇개가 순찰하며 하는 일",
+        "date": "2025-07-30 07:46",
+        "link": "https://n.news.naver.com/mnews/article/031/0000952908?sid=101"
+    },
+    {
+        "title": "삼성, 프리미엄 TV 방어전…'마이크로 LED' 단 'LCD'로",
+        "date": "2025-07-30 07:12",
+        "link": "https://dealsite.co.kr/articles/145453"
+    }
+]
