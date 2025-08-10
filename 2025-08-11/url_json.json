@@ -1,1 +1,792 @@
-
+[
+    {
+        "title": "관세 면제 따낸 아이폰⋯ 갤럭시만 부과 땐 가격경쟁력 타격",
+        "date": "2025-08-11 05:00",
+        "link": "https://www.etoday.co.kr/news/view/2495640"
+    },
+    {
+        "title": "삼성 '스마트 모니터 M9', 美 매체서 '현존 최고의 모니터' 극찬",
+        "date": "2025-08-11 04:02",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3038445"
+    },
+    {
+        "title": "삼성전자, '더 갤럭시 언폴더스' 방문객 10만 돌파…75%는 1030",
+        "date": "2025-08-11 02:16",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3038432"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만 명 돌파 | ...",
+        "date": "2025-08-10 23:56",
+        "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=22683&Newsnumb=20250822683"
+    },
+    {
+        "title": "챗GPT와 통합 가속화 애플 인텔리전스, 오픈AI 'GPT-5' 적용 예고",
+        "date": "2025-08-10 23:18",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534772"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문 10만 넘어",
+        "date": "2025-08-10 23:16",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2005621"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 미국 테크 매체서 '현존 최고의 모니터' 극...",
+        "date": "2025-08-10 23:02",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=113574"
+    },
+    {
+        "title": "LG전자, 국립현대미술관과 'MMCA X LG OLED 시리즈' 첫 전시",
+        "date": "2025-08-10 22:58",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2005633"
+    },
+    {
+        "title": "삼성전자, 美 오스틴 공장에서 애플 차세대 반도체 생산…아이폰18 이미...",
+        "date": "2025-08-10 21:28",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534702"
+    },
+    {
+        "title": "'장 줄리앙 협업' 갤럭시 폴더블 체험존에 10만명 방문...1030세대도 반...",
+        "date": "2025-08-10 21:00",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=168371"
+    },
+    {
+        "title": "디자인 혁신·AI 고도화… 삼성 ‘잘파 전략’ 통했다",
+        "date": "2025-08-10 20:53",
+        "link": "https://n.news.naver.com/mnews/article/022/0004058797?sid=101"
+    },
+    {
+        "title": "갤럭시 폴더블 체험존, 방문객 10만 명 돌파... 1030세대 사로잡아",
+        "date": "2025-08-10 20:48",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=113572"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 미국 테크 매체서 호평",
+        "date": "2025-08-10 19:58",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=338318"
+    },
+    {
+        "title": "[시사이슈] 삼성전자 '더 갤럭시 언폴더스', 15일 만에 10만 명 돌파… ...",
+        "date": "2025-08-10 19:48",
+        "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=71083"
+    },
+    {
+        "title": "삼성 스마트 모니터 M9, 美 테크 매체서 '현존 최고의 모니터' 평가",
+        "date": "2025-08-10 18:50",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025081008355179166ed0c62d49_1/article.html"
+    },
+    {
+        "title": "삼성전자 코엑스 갤럭시 폴더블폰 체험존 방문객 10만 명 돌파",
+        "date": "2025-08-10 18:12",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=661137"
+    },
+    {
+        "title": "현존 최고 스마트 모니터… 미국서 극찬 쏟아진 삼성 'M9'",
+        "date": "2025-08-10 18:06",
+        "link": "https://n.news.naver.com/mnews/article/014/0005389458?sid=101"
+    },
+    {
+        "title": "삼성전자 '스마트 모니터 M9', 美 IT 매체 호평",
+        "date": "2025-08-10 17:46",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363700178"
+    },
+    {
+        "title": "[진영전자] 오우라 스마트링, '존재감 없는' 웨어러블의 반란",
+        "date": "2025-08-10 17:38",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2314023"
+    },
+    {
+        "title": "삼성·LG디스플레이 AI로 재도약… 中 저가·기술 추격 맞선다",
+        "date": "2025-08-10 17:12",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250810010004582"
+    },
+    {
+        "title": "매출 절반 이상이 '애플향'인데··· 반도체 관세에 부품업계 '연쇄 ...",
+        "date": "2025-08-10 17:02",
+        "link": "https://www.ajunews.com/view/20250810144200768"
+    },
+    {
+        "title": "LG디스플레이, K-디스플레이 2025서 OLED 혁신 기술 공개",
+        "date": "2025-08-10 16:56",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2005703"
+    },
+    {
+        "title": "15일 만에 10만 명 돌파! '갤럭시 언폴더스' 체험존, Z세대 사로잡았다",
+        "date": "2025-08-10 16:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534768"
+    },
+    {
+        "title": "아이폰17, 9월 9일 공개 유력… 12일 예약 시작",
+        "date": "2025-08-10 16:42",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145559"
+    },
+    {
+        "title": "“OLED는 애국, LCD는 매국”…디스플레이 글로벌 경쟁, 이것만 기억하...",
+        "date": "2025-08-10 16:40",
+        "link": "https://n.news.naver.com/mnews/article/009/0005538981?sid=101"
+    },
+    {
+        "title": "거제시농업기술센터, 프룬·애플망고 재배 교육 실시",
+        "date": "2025-08-10 16:28",
+        "link": "https://www.newsgn.com/news/articleView.html?idxno=497907"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만명 돌파…1...",
+        "date": "2025-08-10 16:12",
+        "link": "https://www.fetv.co.kr/news/article.html?no=198679"
+    },
+    {
+        "title": "중국산 ‘아이폰’은 무관세, 베트남산 ‘갤럭시’는 관세?…커지는 우...",
+        "date": "2025-08-10 16:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0002974367?sid=105"
+    },
+    {
+        "title": "눈 다음 과제는 '두뇌'…갤럭시 S26에 '엑시노스' 탑재 안간힘",
+        "date": "2025-08-10 15:36",
+        "link": "https://n.news.naver.com/mnews/article/018/0006086625?sid=101"
+    },
+    {
+        "title": "역대급 OLED 삼성 스마트 모니터 M9, 美 IT 매체 극찬 세례",
+        "date": "2025-08-10 15:30",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534767"
+    },
+    {
+        "title": "댄 아이브스 애플, AI 놓치면 블랙베리처럼 될 수도",
+        "date": "2025-08-10 15:30",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4369112"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 미국 테크 매체서 ‘현존 최고의 모니터’...",
+        "date": "2025-08-10 15:11",
+        "link": "https://n.news.naver.com/mnews/article/009/0005538940?sid=101"
+    },
+    {
+        "title": "‘세계 최고’로 무장한 LGD…OLED 모니터 대세 이끈다",
+        "date": "2025-08-10 15:09",
+        "link": "https://n.news.naver.com/mnews/article/029/0002974350?sid=101"
+    },
+    {
+        "title": "현존 최고 모니터…삼성 M9, 美 IT 매체 호평",
+        "date": "2025-08-10 15:02",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1673905"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 '갤럭시 폴더블 체험존' 방문객 10만명 돌파",
+        "date": "2025-08-10 14:44",
+        "link": "http://www.metroseoul.co.kr/article/20250810500093"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 테크 매체서 호평 잇따라",
+        "date": "2025-08-10 14:38",
+        "link": "http://www.metroseoul.co.kr/article/20250810500089"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 14:34",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3903360"
+    },
+    {
+        "title": "아마존 알렉사플러스 나오자마자 도마위...차세대 시리 늦춘 애플이 옳...",
+        "date": "2025-08-10 14:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584189"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 '폴더블 체험존' 방문객 10만명 돌파",
+        "date": "2025-08-10 14:20",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1673904"
+    },
+    {
+        "title": "트럼프 구미맞춘 美투자…애플, 5년만에 주간 상승률 최대",
+        "date": "2025-08-10 14:14",
+        "link": "https://n.news.naver.com/mnews/article/018/0006086415?sid=101"
+    },
+    {
+        "title": "삼성전자, 스마트 모니터 M9...미국 IT 매체서 최고 평가",
+        "date": "2025-08-10 13:50",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=859060"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 체험존 방문객 10만 명 돌파",
+        "date": "2025-08-10 13:48",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=859057"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 체험존 누적 방문객 10만명 돌파",
+        "date": "2025-08-10 13:36",
+        "link": "https://n.news.naver.com/mnews/article/031/0000955885?sid=105"
+    },
+    {
+        "title": "코엑스에 피서 간다면 꼭 둘러봐야 할 곳은...",
+        "date": "2025-08-10 13:34",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=88111"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 미국 IT 매체 현존 최고 수준 모니터 호평...",
+        "date": "2025-08-10 13:32",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=406987"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 글로벌 IT 매체 호평 잇따라",
+        "date": "2025-08-10 13:30",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=519858"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 폴더블 체험존 10만 돌파",
+        "date": "2025-08-10 13:28",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3020259"
+    },
+    {
+        "title": "삼성 스마트모니터 M9, 美 주요 IT 매체 극찬…“QD-OLED 기술의 결정판...",
+        "date": "2025-08-10 13:24",
+        "link": "https://www.todayeconomic.com/news/article.html?no=27990"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 IT 매체 극찬",
+        "date": "2025-08-10 13:22",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3020256"
+    },
+    {
+        "title": "삼성 스마트 모니터 M9, 美 테크 매체 호평 이어져",
+        "date": "2025-08-10 13:19",
+        "link": "https://n.news.naver.com/mnews/article/092/0002385558?sid=105"
+    },
+    {
+        "title": "1030 핫플 된 코엑스…삼성 폴더블 체험객 10만명 돌파",
+        "date": "2025-08-10 13:18",
+        "link": "https://n.news.naver.com/mnews/article/092/0002385557?sid=105"
+    },
+    {
+        "title": "삼성전자, 코엑스 갤럭시 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 13:08",
+        "link": "http://www.segyebiz.com/newsView/20250810505310?OutUrl=naver"
+    },
+    {
+        "title": "삼성전자 장 줄리앙과 협업 '갤럭시 폴더블' 체험존에 방문객 10만 명 넘...",
+        "date": "2025-08-10 13:00",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=406983"
+    },
+    {
+        "title": "'장 줄리앙 협업' 갤럭시 폴더블 체험존에 10만명 방문",
+        "date": "2025-08-10 12:48",
+        "link": "https://n.news.naver.com/mnews/article/215/0001219528?sid=101"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙과 손잡고 ‘갤럭시 폴더블 체험존’ 10만 명 돌파…...",
+        "date": "2025-08-10 12:44",
+        "link": "https://www.todayeconomic.com/news/article.html?no=27984"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 미국서 극찬...현존 최고 수준",
+        "date": "2025-08-10 12:42",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=345947"
+    },
+    {
+        "title": "삼성 '더 갤럭시 언폴더스' 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 12:30",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2097212"
+    },
+    {
+        "title": "애플, 주가 5년 만에 13% 폭등했다",
+        "date": "2025-08-10 12:02",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=367049"
+    },
+    {
+        "title": "삼성전자 '스마트 모니터 M9', 美 매체 '현존 최고의 모니터' 극찬",
+        "date": "2025-08-10 11:48",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1269374"
+    },
+    {
+        "title": "애플 브라우저 장벽 무너진다…금기깨는 첫 국가는 일본",
+        "date": "2025-08-10 11:37",
+        "link": "https://n.news.naver.com/mnews/article/138/0002202430?sid=105"
+    },
+    {
+        "title": "애플, 다음 달 출시될 iOS 26에 'GPT-5' 탑재 예정",
+        "date": "2025-08-10 11:32",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145550"
+    },
+    {
+        "title": "삼성전자 스마트모니터 M9, 美 테크 매체 호평 이어져",
+        "date": "2025-08-10 11:28",
+        "link": "https://n.news.naver.com/mnews/article/079/0004054257?sid=101"
+    },
+    {
+        "title": "삼성 '스마트 모니터 M9', 美 테크 매체서 '현존 최고 모니터' 극찬",
+        "date": "2025-08-10 11:26",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=108213"
+    },
+    {
+        "title": "삼성전자, 하반기 '가성비·폼팩터' 쌍끌이…글로벌 1위 굳히기",
+        "date": "2025-08-10 11:00",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1269320"
+    },
+    {
+        "title": "美 IT매체 삼성 M9, 현존 최고 모니터 호평 잇따라",
+        "date": "2025-08-10 10:58",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2025081010414561185ed985c7c5_23"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 테크 매체서 극찬 연이어",
+        "date": "2025-08-10 10:56",
+        "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1298946"
+    },
+    {
+        "title": "美 테크 매체, 삼성 스마트 모니터 M9 호평…“최상급 성능”",
+        "date": "2025-08-10 10:53",
+        "link": "https://n.news.naver.com/mnews/article/366/0001099256?sid=105"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 IT매체서 호평 잇따라",
+        "date": "2025-08-10 10:52",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=183239"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 체험존 방문객 10만 명 돌파",
+        "date": "2025-08-10 10:52",
+        "link": "https://www.mediapen.com/news/view/1035248"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 ‘갤럭시 폴더블’ 체험존...방문객 10만명 돌...",
+        "date": "2025-08-10 10:52",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000077804"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 폴더블 체험존 10만 명 돌파",
+        "date": "2025-08-10 10:52",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=36082"
+    },
+    {
+        "title": "“현존 최고”…삼성전자 스마트 모니터 M9, 미 매체 호평 일색",
+        "date": "2025-08-10 10:50",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1271250&inflow=N"
+    },
+    {
+        "title": "CES 2025'서 혁신상 받은 삼성 모니터, 美 매체들도 극찬",
+        "date": "2025-08-10 10:49",
+        "link": "https://n.news.naver.com/mnews/article/014/0005389328?sid=101"
+    },
+    {
+        "title": "“1030에 통했다”…삼성전자, 폴더블 체험존 10만명 돌파",
+        "date": "2025-08-10 10:48",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1271252&inflow=N"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 미국 테크 매체 호평",
+        "date": "2025-08-10 10:39",
+        "link": "https://n.news.naver.com/mnews/article/138/0002202428?sid=105"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 ‘폴더블 체험존’ 방문객 10만명 돌파",
+        "date": "2025-08-10 10:39",
+        "link": "https://n.news.naver.com/mnews/article/366/0001099254?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 체험존 방문객 10만 명 돌파",
+        "date": "2025-08-10 10:38",
+        "link": "https://n.news.naver.com/mnews/article/138/0002202425?sid=105"
+    },
+    {
+        "title": "애플은 애플…한주 13% 상승 5년래 최대",
+        "date": "2025-08-10 10:34",
+        "link": "https://n.news.naver.com/mnews/article/016/0002512180?sid=104"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만 명 돌파",
+        "date": "2025-08-10 10:32",
+        "link": "https://n.news.naver.com/mnews/article/001/0015557586?sid=105"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만 명 돌파",
+        "date": "2025-08-10 10:32",
+        "link": "https://n.news.naver.com/mnews/article/001/0015557582?sid=105"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만 명 돌파",
+        "date": "2025-08-10 10:32",
+        "link": "https://n.news.naver.com/mnews/article/001/0015557587?sid=105"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만 명 돌파",
+        "date": "2025-08-10 10:32",
+        "link": "https://n.news.naver.com/mnews/article/001/0015557581?sid=105"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만 명 돌파",
+        "date": "2025-08-10 10:32",
+        "link": "https://n.news.naver.com/mnews/article/001/0015557584?sid=105"
+    },
+    {
+        "title": "장 줄리앙 협업 '갤럭시 폴더블 체험존' 10만명 몰려…1030세대 사로잡은...",
+        "date": "2025-08-10 10:30",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=231212"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美서 '최고의 모니터' 호평",
+        "date": "2025-08-10 10:26",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=706874"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 10:21",
+        "link": "https://n.news.naver.com/mnews/article/011/0004519232?sid=101"
+    },
+    {
+        "title": "현존 최고의 모니터…美 테크 매체, 삼성 스마트 모니터 M9 극찬",
+        "date": "2025-08-10 10:16",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=231211"
+    },
+    {
+        "title": "삼성 스마트 모니터 M9, 美 테크매체 현존 최고의 모니터",
+        "date": "2025-08-10 10:15",
+        "link": "https://n.news.naver.com/mnews/article/011/0004519227?sid=101"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 테크 매체서 '현존 최고의 모니터' 호평",
+        "date": "2025-08-10 10:14",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000077796"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 10:10",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=706871"
+    },
+    {
+        "title": "삼성 코엑스 폴더블폰 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 10:09",
+        "link": "https://n.news.naver.com/mnews/article/003/0013413054?sid=105"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 테크 매체서 '현존 최고의 모니터' 극찬",
+        "date": "2025-08-10 10:06",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2092605"
+    },
+    {
+        "title": "삼성전자, 1030세대 사로잡은 장 줄리앙 협업 갤럭시 폴더블 체험존",
+        "date": "2025-08-10 10:02",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=667702"
+    },
+    {
+        "title": "삼성전자 미 테크 매체에서 스마트 모니터 M9 호평 잇따라",
+        "date": "2025-08-10 10:02",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=241131"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 'M9', 美 테크매체서 현존 최고 모니터",
+        "date": "2025-08-10 10:00",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=667701"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 테크 매체서 '현존 최고의 모니터' 호평",
+        "date": "2025-08-10 10:00",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=94236"
+    },
+    {
+        "title": "1030 사로잡은 삼성전자…‘더 갤럭시 언폴더스’ 10만명 몰려",
+        "date": "2025-08-10 10:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0002974288?sid=105"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 매체서 '현존 최고' 호평",
+        "date": "2025-08-10 09:59",
+        "link": "https://www.newspim.com/news/view/20250810000022"
+    },
+    {
+        "title": "CES 혁신상 이어 美 IT 매체 극찬···삼성 스마트 모니터 'M9' 글로벌 평...",
+        "date": "2025-08-10 09:59",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2313961"
+    },
+    {
+        "title": "삼성전자 '갤럭시 폴더블' 체험존 10만명 돌파…장 줄리앙 협업으로 103...",
+        "date": "2025-08-10 09:58",
+        "link": "https://www.newspim.com/news/view/20250810000021"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 테크 매체서 '최고의 모니터' 호평 받아",
+        "date": "2025-08-10 09:58",
+        "link": "https://n.news.naver.com/mnews/article/030/0003339452?sid=105"
+    },
+    {
+        "title": "하루 평균 7000명이 찾았다…삼성전자, 폴더블 체험존 방문객 10만명 돌...",
+        "date": "2025-08-10 09:56",
+        "link": "https://n.news.naver.com/mnews/article/119/0002989296?sid=101"
+    },
+    {
+        "title": "“어떤 것과 견줘도 최고”…삼성전자 스마트 모니터 M9, 美서 ‘극찬’",
+        "date": "2025-08-10 09:55",
+        "link": "https://n.news.naver.com/mnews/article/029/0002974284?sid=101"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 09:54",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=94234"
+    },
+    {
+        "title": "삼성 스마트 모니터 M9, 美 IT 매체서 잇단 호평",
+        "date": "2025-08-10 09:53",
+        "link": "https://n.news.naver.com/mnews/article/119/0002989294?sid=101"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 미국 테크 매체 호평 이어져",
+        "date": "2025-08-10 09:52",
+        "link": "http://www.segyebiz.com/newsView/20250810502656?OutUrl=naver"
+    },
+    {
+        "title": "삼성, 코엑스 '폴더블 체험존' 15일 만에 방문객 10만명 돌파",
+        "date": "2025-08-10 09:51",
+        "link": "https://n.news.naver.com/mnews/article/008/0005233718?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 폴더블' 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 09:50",
+        "link": "https://www.ajunews.com/view/20250810094621623"
+    },
+    {
+        "title": "삼성 갤럭시 폴더블 체험행사, 방문객 '10만명' 돌파…1030세대서 인기",
+        "date": "2025-08-10 09:50",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025081008462235626ed0c62d49_1/article.html"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 09:48",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2092603"
+    },
+    {
+        "title": "삼성 '장 줄리앙' 협업 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 09:46",
+        "link": "https://n.news.naver.com/mnews/article/030/0003339449?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 폴더블 체험존' 10만명 돌파…MZ세대 사로잡다",
+        "date": "2025-08-10 09:44",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=183237"
+    },
+    {
+        "title": "현존 최고의 모니터··· 삼성 M9, 美 IT 매체서 호평 이어져",
+        "date": "2025-08-10 09:44",
+        "link": "https://www.ajunews.com/view/20250810093907618"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 09:44",
+        "link": "https://www.viva100.com/article/20250810500123"
+    },
+    {
+        "title": "삼성전자, 갤럭시 폴더블 체험존 방군객 10만명 돌파",
+        "date": "2025-08-10 09:42",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=143096"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 테크 매체서 극찬",
+        "date": "2025-08-10 09:38",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3303627"
+    },
+    {
+        "title": "'100% 관세' 예고에 부품업계 '초긴장'…가격 압박 우려도",
+        "date": "2025-08-10 09:38",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1673891"
+    },
+    {
+        "title": "삼성 스마트 모니트 M9, 美 매체서 최상급 성능 호평",
+        "date": "2025-08-10 09:36",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=143095"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 폴드7∙Z 플립7' 체험존 방문객 10만 돌파",
+        "date": "2025-08-10 09:36",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=806676"
+    },
+    {
+        "title": "삼성전자 스마트모니터 M9, 美 테크 매체서 잇따라 극찬",
+        "date": "2025-08-10 09:34",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=806674"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 10만명 돌파",
+        "date": "2025-08-10 09:32",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=163167"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 09:30",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=220342"
+    },
+    {
+        "title": "삼성 스마트 모니터 M9, 美 IT 매체 현존 최고 호평… QD-OLED 성능 인정",
+        "date": "2025-08-10 09:28",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=163166"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 테크 매체서 호평",
+        "date": "2025-08-10 09:28",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=220341"
+    },
+    {
+        "title": "삼성전자 스마트모니터 M9, 美 테크 매체 호평 잇따라",
+        "date": "2025-08-10 09:26",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=835250"
+    },
+    {
+        "title": "삼성전자, 장 줄리안 협업 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 09:22",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3303623"
+    },
+    {
+        "title": "삼성 파운드리, 애플 협력 및 HBM 반등 기대감",
+        "date": "2025-08-10 09:22",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=441747"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 미국서 호평 일색",
+        "date": "2025-08-10 09:22",
+        "link": "https://www.viva100.com/article/20250810500156"
+    },
+    {
+        "title": "삼성전자, 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 09:21",
+        "link": "https://n.news.naver.com/mnews/article/421/0008419974?sid=101"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 ‘갤럭시 폴더블’ 체험존 10만명 돌파",
+        "date": "2025-08-10 09:21",
+        "link": "https://n.news.naver.com/mnews/article/421/0008419972?sid=101"
+    },
+    {
+        "title": "삼성전자, 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 09:21",
+        "link": "https://n.news.naver.com/mnews/article/421/0008419973?sid=101"
+    },
+    {
+        "title": "업무·게임 모두 잡았다…삼성, '스마트 모니터 M9' 美 매체 호평",
+        "date": "2025-08-10 09:19",
+        "link": "https://n.news.naver.com/mnews/article/008/0005233713?sid=101"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 09:16",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=100105"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 IT 매체 “현존 최고 모니터” 극찬",
+        "date": "2025-08-10 09:08",
+        "link": "https://www.etoday.co.kr/news/view/2495656"
+    },
+    {
+        "title": "장 줄리앙 협업 갤럭시 폴더블 체험존, 방문객 10만명 돌파…Z세대 저격",
+        "date": "2025-08-10 09:05",
+        "link": "https://n.news.naver.com/mnews/article/018/0006086303?sid=105"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 ‘갤럭시 폴더블’ 체험존 10만 명 돌파",
+        "date": "2025-08-10 09:04",
+        "link": "https://www.etoday.co.kr/news/view/2495654"
+    },
+    {
+        "title": "현존 최고의 모니터…美 테크 매체 '삼성 M9' 극찬",
+        "date": "2025-08-10 09:03",
+        "link": "https://n.news.naver.com/mnews/article/018/0006086302?sid=101"
+    },
+    {
+        "title": "삼성 스마트 모니터 M9, 美 IT 매체서 연이은 호평",
+        "date": "2025-08-10 09:02",
+        "link": "https://n.news.naver.com/mnews/article/003/0013412987?sid=101"
+    },
+    {
+        "title": "테슬라·애플 잡았다…삼성 '파운드리', 경쟁력 회복 신호탄",
+        "date": "2025-08-10 09:00",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7123388"
+    },
+    {
+        "title": "1030세대 매료…삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 인기",
+        "date": "2025-08-10 09:00",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=192135"
+    },
+    {
+        "title": "삼성전자, 폴더블 체험존 방문객 10만명 돌파",
+        "date": "2025-08-10 09:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013412981?sid=101"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 테크 매체서 '현존 최고의 모니터' 극찬",
+        "date": "2025-08-10 08:50",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=192134"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 미국 테크 매체서 '현존 최고의 모니터' 극...",
+        "date": "2025-08-10 08:46",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=72367"
+    },
+    {
+        "title": "삼성 스마트 모니터 M9, 美 테크 매체들로부터 '현존 최고 모니터' 극찬",
+        "date": "2025-08-10 08:45",
+        "link": "https://n.news.naver.com/mnews/article/277/0005635031?sid=101"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 美 테크 매체서 '현존 최고의 모니터' 극찬",
+        "date": "2025-08-10 08:44",
+        "link": "https://n.news.naver.com/mnews/article/421/0008419939?sid=101"
+    },
+    {
+        "title": "삼성전자, 애플에 차세대 첨단 반도체 공급… '소니 독주' 체제 흔든다",
+        "date": "2025-08-10 08:42",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=272653"
+    },
+    {
+        "title": "삼성전자 스마트모니터 M9, 美 테크 매체 호평 줄이어",
+        "date": "2025-08-10 08:35",
+        "link": "https://n.news.naver.com/mnews/article/001/0015557486?sid=101"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만 명 넘었다",
+        "date": "2025-08-10 08:34",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=83415"
+    },
+    {
+        "title": "삼성전자·장 줄리앙 협업 '더 갤럭시 언폴더스'…방문객 10만 명 돌파",
+        "date": "2025-08-10 08:32",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=132227"
+    },
+    {
+        "title": "美 IT 매체들, 삼성 스마트 모니터 M9 '현존 최고의 모니터' 극찬",
+        "date": "2025-08-10 08:30",
+        "link": "https://www.raonnews.com/news/article.html?no=49863"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만 명 돌파 …...",
+        "date": "2025-08-10 08:26",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=72365"
+    },
+    {
+        "title": "삼성전자 '스마트 모니터 M9', 美 주요 IT 매체 현존 최고 극찬",
+        "date": "2025-08-10 08:22",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=53618"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 갤럭시 폴더블 체험존 방문객 10만 명 돌파…...",
+        "date": "2025-08-10 08:20",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=399783"
+    },
+    {
+        "title": "삼성전자, 장 줄리앙 협업 '갤럭시 폴더블 체험존' 방문객 10만 명 '돌파",
+        "date": "2025-08-10 08:16",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=89747"
+    },
+    {
+        "title": "삼성전자 OLED '스마트 모니터 M9', 美 시장서 호평…고급 모니터 시장 ...",
+        "date": "2025-08-10 08:14",
+        "link": "http://www.munhaknews.com/news/articleView.html?idxno=81519"
+    },
+    {
+        "title": "삼성전자 '스마트 모니터 M9', 美 테크 매체서 '현존 최고의 모니터' 극...",
+        "date": "2025-08-10 08:10",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=89746"
+    },
+    {
+        "title": "삼성전자 스마트 모니터 M9, 미국 테크 매체서 '현존 최고의 모니터' 호...",
+        "date": "2025-08-10 08:06",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=399782"
+    },
+    {
+        "title": "현대카드, 애플페이 티머니 충전 이벤트…캐시백·적립 등",
+        "date": "2025-08-10 08:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013412938?sid=101"
+    }
+]
