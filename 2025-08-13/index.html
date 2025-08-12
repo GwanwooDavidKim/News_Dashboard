@@ -1,1 +1,706 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>디스플레이 산업 국내 기사 대시보드</title>
+    <style>
+        body {
+            font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #F5F5F5;
+            margin: 0;
+            padding: 0;
+            font-size: 14px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #FFFFFF;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            position: relative; /* Needed for absolute positioning of the link */
+        }
+        .header {
+            background-color: #0F2C59; /* Deep Blue */
+            color: #FFFFFF;
+            padding: 15px 20px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+            position: relative; /* To contain the absolute positioned link */
+             min-height: 60px; /* Ensure space for title and date */
+             display: flex;
+             flex-direction: column;
+             justify-content: center;
+        }
+        .header h1 {
+            margin: 0 0 5px 0; /* Add bottom margin */
+            font-size: 24px;
+            font-weight: 600;
+            padding-right: 100px; /* Ensure title doesn't overlap with link */
+            line-height: 1.2;
+        }
+        .header p {
+            margin: 0;
+            font-size: 14px;
+            word-break: keep-all; /* Prevent awkward breaks in date */
+            white-space: nowrap; /* Keep on one line initially */
+            overflow: hidden; /* Hide overflow */
+            text-overflow: ellipsis; /* Add ellipsis if too long */
+            line-height: 1.3;
+        }
+        .header-link {
+             position: absolute;
+             top: 50%; /* Center vertically */
+             right: 20px;
+             transform: translateY(-50%); /* Precise vertical centering */
+             color: white;
+             text-decoration: none;
+             font-size: 14px;
+             background-color: rgba(255, 255, 255, 0.1); /* Optional background */
+             padding: 5px 10px;
+             border-radius: 3px;
+         }
+        .header-link:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+            text-decoration: underline; /* Add underline on hover */
+        }
+        .tabs {
+            overflow: hidden;
+            border-bottom: 1px solid #D3D3D3;
+            margin-bottom: 20px;
+            white-space: nowrap; /* Prevent tabs from wrapping */
+            overflow-x: auto; /* Allow horizontal scrolling for tabs if needed */
+        }
+        .tab-button {
+            background-color: inherit;
+            display: inline-block; /* Use inline-block instead of float */
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 12px 18px;
+            transition: 0.3s;
+            font-size: 15px;
+            font-weight: 500;
+            color: #555; /* Original inactive text color */
+            border-bottom: 3px solid transparent;
+        }
+        /* New Hover Colors */
+        .tab-button:hover {
+            background-color: #E0EFFF; /* Light blue hover */
+            border-bottom: 3px solid #77AADD; /* Medium blue hover border */
+            color: #0056b3; /* Slightly darker blue text on hover */
+        }
+        /* New Active Colors */
+        .tab-button.active {
+            color: #007bff; /* Standard Bootstrap primary blue */
+            border-bottom: 3px solid #007bff;
+            font-weight: 600; /* Make active tab text slightly bolder */
+        }
+        .tab-content {
+            display: none;
+            padding: 15px 5px;
+            border-top: none;
+            animation: fadeEffect 0.5s;
+        }
+        @keyframes fadeEffect {
+            from {opacity: 0;}
+            to {opacity: 1;}
+        }
+        .kpi-container {
+            display: grid; /* Use grid for better control */
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); /* Responsive columns */
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .kpi-card {
+            background-color: #F8F9FA; /* Lighter grey */
+            padding: 15px;
+            border-radius: 4px;
+            text-align: center;
+            border-left: 4px solid #0F2C59; /* Deep blue accent */
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            min-height: 110px; /* Ensure consistent height */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .kpi-card h3 {
+            margin: 0 0 8px 0;
+            font-size: 15px; /* Slightly smaller title */
+            color: #0F2C59;
+            font-weight: 600;
+        }
+        .kpi-card p.value {
+            margin: 0;
+            font-size: 22px; /* Larger value */
+            font-weight: bold;
+            color: #212529; /* Darker text */
+            line-height: 1.2;
+        }
+         .kpi-card .value-change { /* Style for change indicator */
+            font-size: 13px; /* Smaller subtext */
+            margin-top: 5px;
+            color: #6C757D; /* Grey subtext */
+             line-height: 1.3;
+        }
+        .kpi-card .value-change.negative {
+             color: #D32F2F; /* Red for negative */
+             font-weight: 500;
+        }
+        .kpi-card .value-change.positive {
+             color: #388E3C; /* Green for positive */
+             font-weight: 500;
+        }
+        h2 {
+            color: #0F2C59; /* Deep Blue */
+            border-bottom: 2px solid #E9ECEF; /* Lighter border */
+            padding-bottom: 8px;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 12px; /* Slightly more spacing */
+            padding-left: 20px; /* Indent more */
+            position: relative;
+        }
+        li::before {
+            content: '■';
+            position: absolute;
+            left: 0;
+            color: #007bff; /* Use active tab blue for bullet */
+            font-size: 10px;
+            top: 7px; /* Adjust vertical alignment */
+        }
+        .section {
+            margin-bottom: 25px;
+            padding: 20px; /* More padding */
+            background-color: #FFFFFF;
+            border: 1px solid #E9ECEF; /* Lighter border */
+            border-radius: 4px;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+        }
+        .section h3 {
+            margin-top: 0;
+            margin-bottom: 12px;
+            font-size: 16px;
+            color: #0F2C59;
+            font-weight: 600;
+        }
+        .keyword {
+            font-weight: 600;
+            color: #17a2b8; /* Teal color for keywords */
+            background-color: #e2f7fa; /* Light teal background */
+            padding: 2px 5px;
+            border-radius: 3px;
+            margin-right: 3px;
+            white-space: nowrap; /* Prevent keyword from breaking */
+        }
+         .roadmap {
+            margin-top: 30px;
+            border-top: 1px solid #D3D3D3;
+            padding-top: 20px;
+        }
+        .roadmap h2 {
+            margin-bottom: 20px;
+        }
+        .roadmap-item {
+            margin-bottom: 15px;
+            padding-left: 25px;
+            position: relative;
+            border-left: 2px solid #0F2C59;
+            padding-bottom: 10px;
+            padding-top: 5px;
+        }
+         .roadmap-item::before {
+            content: '';
+            position: absolute;
+            left: -8px;
+            top: 10px;
+            width: 14px;
+            height: 14px;
+            background-color: #0F2C59;
+            border-radius: 50%;
+            border: 2px solid #FFFFFF;
+        }
+        .roadmap-item strong {
+            display: block;
+            color: #0F2C59;
+            font-weight: 600;
+            margin-bottom: 3px;
+            font-size: 15px;
+        }
+         .roadmap-item span {
+            font-size: 14px;
+            color: #555;
+            display: block; /* Ensure each item starts on a new line */
+            margin-bottom: 5px; /* Add spacing between bullet items */
+         }
+         /* Style for the bullet points requested within roadmap items */
+        .roadmap-item span::before {
+            content: "- "; /* Add the hyphen bullet */
+            margin-right: 5px; /* Space after the bullet */
+            color: inherit; /* Inherit color */
+            font-weight: normal; /* Normal weight */
+         }
 
+        .references {
+            margin-top: 30px;
+            border-top: 1px solid #D3D3D3;
+            padding-top: 20px;
+        }
+        .references h2 {
+             margin-bottom: 15px;
+        }
+        .references ul {
+            list-style-type: none;
+            padding-left: 0;
+            font-size: 13px;
+            max-height: 300px;
+             overflow-y: auto;
+            border: 1px solid #EFEFEF;
+             padding: 15px; /* More padding */
+            background-color: #F8F9FA; /* Lighter grey */
+            border-radius: 4px;
+        }
+        .references li {
+            margin-bottom: 10px; /* More spacing */
+            padding-left: 0;
+        }
+         .references li::before {
+            content: ''; /* Remove default bullet */
+         }
+        .references a {
+            color: #005A9C; /* Standard link blue */
+            text-decoration: none;
+            display: block;
+            word-break: break-all;
+        }
+        .references a:hover {
+            text-decoration: underline;
+            color: #003d69; /* Darker blue on hover */
+        }
+         .references .ref-date {
+             font-size: 11px;
+             color: #6c757d;
+             margin-left: 5px;
+         }
+        .footer {
+            text-align: right;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #666;
+            border-top: 1px solid #D3D3D3;
+            padding-top: 15px;
+        }
+        .update-mark {
+            font-size: 10px;
+            color: #E67E22; /* Orange color for update mark */
+            font-weight: bold;
+            margin-left: 5px;
+            vertical-align: super;
+        }
+
+
+        /* Responsive adjustments */
+        @media (max-width: 992px) { /* Adjust breakpoint for better grid behavior */
+             .kpi-container {
+                 grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); /* Slightly smaller min width */
+             }
+        }
+
+        @media (max-width: 768px) {
+            body { font-size: 13px; }
+            .header { padding: 10px 15px; min-height: 50px; }
+            .header h1 { font-size: 18px; padding-right: 80px; margin-bottom: 3px;}
+            .header p { font-size: 12px; line-height: 1.4; white-space: normal; } /* Allow wrapping on mobile */
+             .header-link { font-size: 12px; top: 50%; right: 15px; padding: 4px 8px; }
+            .tab-button { padding: 10px 12px; font-size: 14px; }
+            /* .tabs { white-space: nowrap; overflow-x: auto; } */ /* Already applied above */
+            .kpi-container { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; } /* Further adjust grid */
+             .kpi-card h3 { font-size: 14px; }
+             .kpi-card p.value { font-size: 20px; }
+             .kpi-card .value-change { font-size: 12px;}
+            h2 { font-size: 17px; }
+            .section { padding: 15px; }
+            .section h3 { font-size: 15px; }
+            .roadmap-item { padding-left: 20px; }
+            .roadmap-item::before { left: -7px; top: 8px; width: 12px; height: 12px;}
+            .references ul { font-size: 12px; max-height: 250px; padding: 10px; }
+        }
+         @media (max-width: 480px) { /* Further adjustments for very small screens */
+             .container { padding: 15px; }
+             .header h1 { font-size: 16px; padding-right: 70px;}
+             .header p { font-size: 11px; }
+             .header-link { font-size: 11px; padding: 3px 6px; right: 10px;}
+             .tab-button { font-size: 12px; padding: 8px 8px; }
+             .kpi-container { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); } /* Stack KPIs nicely on small screens */
+             .kpi-card { min-width: 0; } /* Reset min-width */
+             h2 { font-size: 16px; }
+             .section h3 { font-size: 14px; }
+             li { padding-left: 15px; }
+             li::before { top: 6px; }
+             .references ul { font-size: 11px; }
+              .references .ref-date { display: inline; margin-left: 5px; margin-top: 0;} /* Keep date inline if possible */
+         }
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>디스플레이 산업 국내 기사 대시보드</h1>
+            <p>기간: 2025-08-12 00:00 ~ 2025-08-13 23:59</p>
+            <a href="https://gwanwoodavidkim.github.io/News_Dashboard/" target="_blank" class="header-link">과거 기사</a>
+        </div>
+
+        <div class="tabs">
+            <button class="tab-button active" onclick="openTab(event, 'Key_KPI')">금일 핵심 지표</button>
+            <button class="tab-button" onclick="openTab(event, 'Display_Trend')">디스플레이 산업 동향</button>
+            <button class="tab-button" onclick="openTab(event, 'Customer_Trend')">고객 동향</button>
+            <button class="tab-button" onclick="openTab(event, 'Competitor_Trend')">경쟁사 동향</button>
+            <button class="tab-button" onclick="openTab(event, 'IT_Issue')">IT 산업계 주요 이슈</button>
+            <button class="tab-button" onclick="openTab(event, 'SCM_Trend')">SCM 동향</button>
+        </div>
+
+        <div id="Key_KPI" class="tab-content" style="display: block;">
+            <h2>금일 핵심 지표</h2>
+            <div class="kpi-container">
+                <a href="https://n.news.naver.com/mnews/article/011/0004520184?sid=101" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>삼성, 마이크로 RGB TV 공개</h3>
+                        <p class="value">초격차 기술로 中 추격 대응</p>
+                        <p class="value-change">115형 4490만원 출시</p>
+                    </div>
+                </a>
+                <a href="https://kr.aving.net/news/articleView.html?idxno=1802969" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>애플, 저가형 맥북 출시 전망</h3>
+                        <p class="value">599~699달러 예상</p>
+                        <p class="value-change">애플 생태계 유입 가속화</p>
+                    </div>
+                </a>
+                <a href="http://www.enewstoday.co.kr/news/articleView.html?idxno=2315006" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>IT OLED 시장 경쟁 심화</h3>
+                        <p class="value">삼성D, 전담 영업팀 신설</p>
+                        <p class="value-change">애플 OLED 맥북 수요 견인</p>
+                    </div>
+                </a>
+                <a href="https://n.news.naver.com/mnews/article/015/0005170080?sid=101" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>머스크, 애플 상대 소송 예고</h3>
+                        <p class="value">앱스토어 반독점 위반 주장</p>
+                        <p class="value-change">챗GPT 편애 논란</p>
+                    </div>
+                </a>
+                <a href="https://www.newspost.kr/news/articleView.html?idxno=216500" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>디스플레이 소부장, 中 리스크</h3>
+                        <p class="value">中 기술유출 우려 증대</p>
+                        <p class="value-change">최대 고객사 딜레마</p>
+                    </div>
+                </a>
+                 <a href="http://www.finomy.com/news/articleView.html?idxno=236253" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>美 IT 완제품 관세 임박</h3>
+                        <p class="value">스마트폰 등 고율 관세 우려</p>
+                        <p class="value-change">삼성·LG 가격경쟁력 악화</p>
+                    </div>
+                </a>
+                <a href="https://www.straightnews.co.kr/news/articleView.html?idxno=278389" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>LGD 공급망, 산재 리스크</h3>
+                        <p class="value">협력사 니토옵티칼 백혈병 산재</p>
+                        <p class="value-change">애플 ESG 검증 압박 가능성</p>
+                    </div>
+                </a>
+                 <a href="https://kbench.com/?q=node/270266" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>화웨이, 3단 폴더블폰 공개 예고</h3>
+                        <p class="value">9월 10일 발표 전망</p>
+                        <p class="value-change">아이폰17과 맞대결 구도 형성</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="section">
+                <h3>핵심 요약</h3>
+                <ul>
+                    <li><span class="keyword">기술 초격차와 규제 리스크의 공존:</span> 삼성전자는 세계 최초 '마이크로 RGB TV'를 출시하며 중국의 프리미엄 TV 시장 추격에 기술 초격차로 대응. 반면, 애플과 구글은 호주에서 앱스토어 반독점 판결을 받았고, 일론 머스크는 애플을 상대로 AI 앱 차별에 대한 소송을 예고하는 등 빅테크의 독점적 지위에 대한 규제 및 법적 리스크 증대.</li>
+                    <li><span class="keyword">공급망 재편 가속화:</span> 미국의 IT 완제품 관세 부과가 임박하면서 국내 기업의 가격 경쟁력 약화 우려. 애플은 1천억 달러 규모의 '미국 제조 프로그램(AMP)'을 발표하며 공급망의 미국 내재화를 본격화. 한편, LGD의 핵심 공급망인 니토옵티칼에서 백혈병 산재가 인정되며 애플의 ESG 공급망 관리 압박 가능성 대두.</li>
+                    <li><span class="keyword">IT 기기 시장의 다변화:</span> 애플이 100만 원 초반대의 저가형 맥북 출시를 검토하며 새로운 시장 진입을 모색. 화웨이는 9월 3단 폴더블폰 공개를 예고하며 차세대 폼팩터 경쟁에 불을 지핌. 이는 기존 프리미엄 시장의 성능 경쟁을 넘어 가격과 형태로 시장이 세분화되고 있음을 시사.</li>
+                    <li><span class="keyword">OLED, IT 기기 대세화 본격화:</span> 삼성디스플레이가 IT OLED 전담 영업팀을 신설하는 등 시장 공략을 본격화. 2026년 애플의 OLED 맥북 출시가 기폭제가 되어 IT 기기 OLED 시장이 2~3배 성장할 것으로 전망. 국내 소부장 업계는 中 기업을 최대 고객사로 삼으면서도 기술 유출이라는 딜레마에 직면.</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h3>주요 시사점</h3>
+                <ul>
+                    <li><span class="keyword">기술 리더십의 중요성:</span> 중국의 거센 추격 속에서 삼성의 '마이크로 RGB TV' 출시는 단순한 신제품을 넘어, 프리미엄 시장의 주도권을 지키기 위한 핵심 전략. 소부장 업계 역시 독자 기술 확보와 특허 방어가 생존의 필수 조건임을 확인.</li>
+                    <li><span class="keyword">플랫폼 독점 시대의 균열:</span> 호주 법원 판결과 일론 머스크의 소송 예고는 글로벌 빅테크의 앱 마켓 지배력에 대한 전방위적 압박이 시작됐음을 의미. 이는 향후 앱 수수료 정책과 플랫폼 운영 방식에 중대한 변화를 가져올 변수.</li>
+                    <li><span class="keyword">SCM 리스크 다변화:</span> 기존의 지정학적 리스크(관세)에 더해, 협력사의 노동·환경 문제(ESG)가 원청의 공급망 안정성을 위협하는 핵심 리스크로 부상. 공급망 전체에 대한 윤리적, 법적 검증 요구가 더욱 강화될 전망.</li>
+                    <li><span class="keyword">새로운 시장 창출 노력:</span> 애플의 저가형 맥북, 화웨이의 3단 폴더블폰 등은 포화된 시장에서 벗어나 새로운 수요를 창출하려는 시도. 이는 기술 상향 평준화 시대에 '가격'과 '폼팩터' 혁신이 여전히 유효한 성장 전략임을 시사.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="Display_Trend" class="tab-content">
+            <h2>디스플레이 산업 동향</h2>
+            <div class="section">
+                <h3>차세대 TV 기술 경쟁</h3>
+                <ul>
+                    <li><span class="keyword">삼성, 마이크로 RGB TV 세계 최초 출시:</span> LCD TV의 백라이트 기술을 획기적으로 개선한 115형 마이크로 RGB TV 출시. 100㎛ 이하의 초미세 RGB LED 소자를 백라이트로 사용해 색 재현력과 명암 표현력을 극대화. 이는 중국(TCL, 하이센스)의 미니 LED TV 공세에 대응하는 프리미엄 시장 초격차 전략. 출고가는 4490만원.</li>
+                    <li><span class="keyword">기술 차별점:</span> 중국 하이센스의 미니 LED TV(소자 크기 100~500㎛) 대비 더 작은 90㎛ 수준의 마이크로 LED 소자를 적용해 정밀한 광 제어 가능. AI 기반 '마이크로 RGB AI 엔진'으로 실시간 화질 최적화. 국제 색 표준 BT.2020 100% 충족 및 VDE 인증 획득.</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h3>IT용 OLED 시장 확대</h3>
+                <ul>
+                    <li><span class="keyword">시장 성장 전망:</span> 글로벌 OLED 시장은 2023년 459억 달러에서 2030년 1528억 달러로 확대 전망. 특히 2026년 애플의 OLED 맥북 출시가 IT용 OLED 수요를 2~3배 견인할 것으로 예상.</li>
+                    <li><span class="keyword">삼성디스플레이, 시장 공략 본격화:</span> IT사업팀 내 'IT영업팀'을 신설하며 영업 및 고객 대응 기능 강화. 2026년 양산을 목표로 8.6세대 IT OLED 전용 라인(A6) 구축 중.</li>
+                </ul>
+            </div>
+             <div class="section">
+                <h3>신기술 개발 동향</h3>
+                <ul>
+                    <li><span class="keyword">OLED 콘택트렌즈 개발:</span> 국내 연구진(KAIST 등)이 세계 최초로 무선 OLED 콘택트렌즈 기반의 웨어러블 망막 진단 플랫폼 개발. 렌즈 착용만으로 망막전위검사가 가능하며, 향후 AR 시각 전달 및 디지털 헬스케어 분야로 응용 기대.</li>
+                     <li><span class="keyword">하이브리드 UTG 기술:</span> 도우인시스가 폴더블폰의 중앙 부위만 얇게 식각하는 '하이브리드 UTG' 기술 개발 성공. 패널을 접기 용이하고 내구성을 강화할 수 있어 삼성전자, 애플 등이 관심을 보이는 기술로, 2026년 양산을 목표.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="Customer_Trend" class="tab-content">
+            <h2>고객 동향</h2>
+            <div class="section">
+                <h3>Apple</h3>
+                <ul>
+                    <li><span class="keyword">반독점 소송 리스크:</span> 일론 머스크가 앱스토어에서 오픈AI의 챗GPT를 편애하고 자신의 AI 챗봇 '그록(Grok)'을 차별했다며 반독점법 위반 소송 예고. 호주 연방 법원 역시 앱스토어의 인앱 결제 강제 및 30% 수수료 부과가 경쟁법 위반이라고 판결.</li>
+                    <li><span class="keyword">신제품 및 OS 업데이트 동향:</span> 아이폰17 시리즈의 화면 보호 필름 이미지가 유출, '에어' 모델은 6.6인치로 플러스 모델보다 소폭 작아질 전망. 아이폰17 프로는 신호 품질 개선을 위해 안테나 위치가 카메라 모듈 주변으로 변경될 가능성. iOS 26 베타 버전에서 새로운 벨소리 추가 및 디자인 개선.</li>
+                    <li><span class="keyword">저가형 맥북 출시 가능성:</span> 2026년 초 출시를 목표로 599~699달러 수준의 저가형 맥북 개발 중. A시리즈 칩을 탑재해 가격 경쟁력을 확보하고 애플 생태계 유입을 가속화할 전략. 연간 500~700만 대 출하량 기대.</li>
+                     <li><span class="keyword">공급망 미국 내재화:</span> 1천억 달러 규모의 '미국 제조 프로그램(AMP)' 발표. 코닝, 삼성, TSMC 등과 협력해 미국 내 첨단 부품 생산 및 R&D 확대.</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h3>Samsung Electronics</h3>
+                <ul>
+                    <li><span class="keyword">마이크로 RGB TV 출시:</span> 중국의 프리미엄 LCD TV 공세에 대응하기 위해 115형 마이크로 RGB TV를 세계 최초로 출시. 기술 초격차를 통해 글로벌 TV 시장 1위 수성 전략.</li>
+                    <li><span class="keyword">보급형 스마트폰 라인업 강화:</span> 갤럭시 A17 5G의 변종 모델인 '갤럭시 F17 5G', '갤럭시 M17 5G' 개발 중. 하반기 출시를 통해 보급형 시장 공략 지속.</li>
+                     <li><span class="keyword">폴더블폰 평가:</span> 최근 출시된 갤럭시 Z7 시리즈가 해외에서는 얇은 두께와 내구성으로 호평받는 반면, 국내에서는 배터리 용량, 발열 문제 등으로 엇갈린 평가.</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h3>Huawei</h3>
+                <ul>
+                    <li><span class="keyword">2세대 3단 폴더블폰 공개 예고:</span> 차세대 3단 폴더블 스마트폰 '메이트 XTs'를 9월 10일 공개할 가능성. 애플의 아이폰17 공개 행사와 일정이 겹치면서 정면 대결 구도 형성 전망.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="Competitor_Trend" class="tab-content">
+            <h2>경쟁사 동향</h2>
+            <div class="section">
+                <h3>중국 TV 업체 (TCL, 하이센스)</h3>
+                <ul>
+                    <li><span class="keyword">프리미엄 시장 공세:</span> TCL, 하이센스가 미니 LED TV를 앞세워 프리미엄 TV 시장 점유율을 빠르게 확대. 2024년 1분기 하이센스와 TCL의 프리미엄 TV 출하량 점유율은 각각 20%, 19%로 삼성전자를 맹추격.</li>
+                    <li><span class="keyword">기술 추격:</span> 하이센스는 삼성보다 먼저 RGB 미니 LED TV를 공개했으나, 삼성은 더 작은 '마이크로' LED 소자를 적용해 기술적 우위를 주장. 가격 경쟁력에서는 중국 업체가 여전히 우위.</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h3>LG Display</h3>
+                <ul>
+                     <li><span class="keyword">공급망 ESG 리스크:</span> 핵심 협력사인 한국니토옵티칼 평택공장 노동자의 백혈병이 산업재해로 인정. 해당 업체는 애플 아이폰용 패널에 들어가는 편광필름을 LGD에 공급. 이는 ESG 기준이 엄격한 애플의 공급망 윤리 검증 압박으로 이어질 수 있음.</li>
+                </ul>
+            </div>
+             <div class="section">
+                <h3>BOE 등 중국 패널 업체</h3>
+                <ul>
+                    <li><span class="keyword">OLED 투자 확대 및 리스크:</span> 8.6세대 OLED 라인 투자를 본격화하며 국내 소부장 업계의 최대 고객사로 부상. 그러나 미국 ITC가 BOE의 OLED 특허 침해를 인정하며 애플 등 글로벌 고객사들이 BOE 의존도를 줄일 가능성.</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h3>모토로라</h3>
+                <ul>
+                    <li><span class="keyword">초저가 폴더블폰 전략:</span> 지난해 '레이저40 울트라'의 국내 판매 부진 이후, 신작 폴더블폰을 갤럭시 Z 플립보다 약 50만원 저렴한 90만원대에 출시해 한국 시장 재공략.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="IT_Issue" class="tab-content">
+            <h2>IT 산업계 주요 이슈</h2>
+            <div class="section">
+                <h3>플랫폼 반독점 규제 강화</h3>
+                <ul>
+                    <li><span class="keyword">일론 머스크 vs 애플:</span> 머스크가 애플 앱스토어가 오픈AI의 챗GPT를 부당하게 우대하고 xAI의 '그록'을 차별한다며 반독점법 위반 소송을 예고. 이는 빅테크의 AI 생태계 운영 방식에 대한 중요한 법적 도전.</li>
+                    <li><span class="keyword">호주 법원, 앱스토어 제동:</span> 호주 연방 법원이 애플과 구글의 인앱 결제 시스템 강제 및 30% 수수료 부과 관행을 '경쟁 제한 행위'로 판결. 전 세계적인 앱 마켓 규제 강화 움직임에 영향을 미칠 전망.</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h3>미국의 관세 정책</h3>
+                <ul>
+                    <li><span class="keyword">IT 완제품 관세 발표 임박:</span> 미국 정부가 스마트폰, 태블릿, 노트북 등 IT 완제품에 대한 고율 관세 부과를 예고. 미국 내 생산 거점이 없는 삼성전자, LG전자는 가격 경쟁력에 심각한 타격을 입을 우려.</li>
+                    <li><span class="keyword">애플의 관세 회피 전략:</span> 애플은 6000억 달러 규모의 대미 투자 계획을 발표하며 관세 면제 가능성을 높임. 이는 미국 정부의 자국 내 생산 유도 전략에 부응하는 조치.</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h3>글로벌 노트북 시장 동향</h3>
+                <ul>
+                    <li><span class="keyword">2분기 출하량 급증:</span> 미국의 관세 위협에 제조사들이 물량을 밀어내면서 2분기 글로벌 노트북 출하량이 3년 만에 최고치를 기록. 하지만 이는 하반기 수요를 앞당긴 결과로, 3분기부터는 재고 부담과 수요 절벽 우려.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="SCM_Trend" class="tab-content">
+            <h2>SCM 동향</h2>
+            <div class="section">
+                <h3>공급망 리스크 다변화</h3>
+                <ul>
+                    <li><span class="keyword">美 관세 정책:</span> 스마트폰 등 IT 완제품에 대한 고율 관세 부과 가능성이 국내 전자업계의 가장 큰 위협. 완제품 가격 상승은 삼성디스플레이 등 부품사에 대한 단가 인하 압박으로 이어질 수 있음.</li>
+                    <li><span class="keyword">협력사 ESG 리스크:</span> LG디스플레이의 핵심 공급사인 한국니토옵티칼에서 백혈병 산재가 인정되면서, ESG 경영을 강조하는 애플 등 원청의 공급망 실사 및 관리 강화 요구가 거세질 전망.</li>
+                    <li><span class="keyword">中 기술유출 딜레마:</span> 국내 디스플레이 소부장 업계는 OLED 투자를 늘리는 중국을 최대 고객사로 삼고 있으나, 기술 유출 및 특허 침해 리스크가 심화. 대중(對中) 장비 수출액은 급증(YoY +48%)했지만, 핵심 장비 수주 경쟁에서는 미국 기업에 밀리는 등 딜레마 상황.</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h3>Apple의 공급망 재편</h3>
+                <ul>
+                    <li><span class="keyword">미국 제조 프로그램(AMP) 발표:</span> 1천억 달러 규모의 프로그램을 통해 미국 내 공급망 확대. 코닝(스마트폰 유리), TI·삼성(칩), 브로드컴(셀룰러 부품) 등과 협력해 미국 내 부품 생산 및 R&D 강화.</li>
+                </ul>
+            </div>
+             <div class="section">
+                <h3>소재·부품 국산화 동향</h3>
+                <ul>
+                    <li><span class="keyword">8.6세대 OLED 장비:</span> 선익시스템이 BOE의 8.6세대 OLED 증착 장비 수주에 성공하며 캐논도키와 양분하던 시장에서 경쟁력 입증. 수주잔고가 전년 매출의 4배 이상에 달하며 본격적인 성장 기대.</li>
+                     <li><span class="keyword">폴더블 UTG 기술:</span> 도우인시스가 중앙부만 얇게 가공하는 '하이브리드 UTG' 기술 개발에 성공. 내구성 확보와 곡률반경 구현에 유리해 애플, 삼성 등이 관심을 보이는 차세대 기술로 2026년 양산 목표.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="roadmap">
+            <h2>향후 전망 및 주요 이벤트</h2>
+            <div class="roadmap-item">
+                <strong>2025년 Q3</strong>
+                <span>- 화웨이, 2세대 3단 폴더블폰 '메이트 XTs' 공개 (9월 10일)</span>
+                <span>- 애플, 아이폰17 시리즈 공개 (9월 예상)</span>
+                <span>- 삼성전자, 115형 마이크로 RGB TV 미국 출시 (9월 초)</span>
+            </div>
+            <div class="roadmap-item">
+                <strong>2026년</strong>
+                <span>- 애플, 저가형 맥북 출시 (1분기 예상)</span>
+                 <span>- 삼성디스플레이, 8.6세대 IT OLED 라인(A6) 양산 목표</span>
+                 <span>- 도우인시스, 하이브리드 UTG 양산 목표</span>
+                 <span>- 애플, 차세대 AI 기반 시리 정식 출시 목표 (봄)</span>
+            </div>
+            <div class="roadmap-item">
+                <strong>진행중</strong>
+                <span>- 미국, IT 완제품 품목별 관세 발표 임박</span>
+                <span>- 애플, '미국 제조 프로그램(AMP)' 통한 공급망 재편</span>
+                <span>- 국내 소부장 업계, 中 기술유출 방어 및 특허 경쟁 심화</span>
+            </div>
+        </div>
+
+
+        <div class="references">
+            <h2>참고 기사 목록</h2>
+            <ul id="newsList">
+            </ul>
+        </div>
+        <div class="footer">
+            출처: MCI 팀
+        </div>
+
+    </div>
+    <script>
+        // 탭 기능 활성화 함수
+        function openTab(evt, tabName) {
+            var i, tabcontent, tabbuttons;
+            // 모든 탭 콘텐츠 숨기기
+            tabcontent = document.getElementsByClassName("tab-content");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            // 모든 탭 버튼 비활성화
+            tabbuttons = document.getElementsByClassName("tab-button");
+            for (i = 0; i < tabbuttons.length; i++) {
+                tabbuttons[i].className = tabbuttons[i].className.replace(" active", "");
+            }
+            // 선택된 탭 콘텐츠 보이기 및 버튼 활성화
+            const targetTab = document.getElementById(tabName);
+            if (targetTab) {
+                targetTab.style.display = "block";
+            }
+            if (evt && evt.currentTarget) {
+                evt.currentTarget.className += " active";
+            }
+        }
+
+        // === 참고 기사 로딩 함수 추가 ===
+        function loadNewsReferences() {
+            fetch('url_json.json') // url_json.json 파일 경로 확인 필요
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const newsListElement = document.getElementById('newsList');
+                    if (!newsListElement) {
+                        console.error('Error: Element with ID "newsList" not found.');
+                        return;
+                    }
+
+                    // 기존 목록 지우기 (새로 로드할 때마다 목록을 갱신하려면 주석 해제)
+                    // newsListElement.innerHTML = '';
+
+                    data.forEach(item => {
+                        const li = document.createElement('li');
+                        const a = document.createElement('a');
+
+                        a.href = item.link;
+                        a.textContent = `${item.title} (${item.date})`; // 제목과 날짜 표시
+                        a.target = "_blank"; // 새 탭에서 열기
+                        a.rel = "noopener noreferrer"; // 보안 강화
+
+                        li.appendChild(a);
+                        newsListElement.appendChild(li);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error fetching or processing news data:', error);
+                    const newsListElement = document.getElementById('newsList');
+                    if (newsListElement) {
+                        newsListElement.innerHTML = '<li>참고 기사를 불러오는 중 오류가 발생했습니다.</li>';
+                    }
+                });
+        }
+        // ===============================
+
+        // 페이지 로드 시 첫 번째 탭 자동 활성화 및 참고 기사 로드
+        document.addEventListener('DOMContentLoaded', (event) => {
+            // 첫 번째 탭 활성화
+            const firstTabButton = document.querySelector('.tab-button');
+            if (firstTabButton) {
+                firstTabButton.click();  // 첫 번째 탭 버튼 클릭 이벤트 발생
+            } else {
+                // 탭 버튼이 없을 경우 첫 번째 탭 콘텐츠 직접 표시 (Fallback)
+                const firstTabContent = document.querySelector('.tab-content');
+                if (firstTabContent) {
+                    firstTabContent.style.display = 'block';
+                }
+            }
+
+            // 참고 기사 목록 로드 함수 호출
+            loadNewsReferences();
+        });
+    </script>
+
+</body>
+
+</html>
