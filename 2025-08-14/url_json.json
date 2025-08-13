@@ -1,1 +1,927 @@
-
+[
+    {
+        "title": "美 “BOE, 삼성D 기술 침해”… 中 OLED 14년 8개월 수입금지",
+        "date": "2025-08-14 03:03",
+        "link": "https://n.news.naver.com/mnews/article/020/0003654153?sid=101"
+    },
+    {
+        "title": "중국 OLED 무서운 속도로 성장… “한국과 기술력 격차 1년 미만”",
+        "date": "2025-08-14 00:58",
+        "link": "https://n.news.naver.com/mnews/article/023/0003923028?sid=105"
+    },
+    {
+        "title": "中 디스플레이 업체, 한국 기업에 ‘맞소송’",
+        "date": "2025-08-14 00:57",
+        "link": "https://n.news.naver.com/mnews/article/023/0003923023?sid=105"
+    },
+    {
+        "title": "中 OLED 1위 기업, 美서 14년8개월 퇴출",
+        "date": "2025-08-14 00:56",
+        "link": "https://n.news.naver.com/mnews/article/023/0003923016?sid=105"
+    },
+    {
+        "title": "애플 '아이폰17' 어떻게 나오나…초슬림 모델 완성도·가격 주목",
+        "date": "2025-08-14 00:01",
+        "link": "https://n.news.naver.com/mnews/article/629/0000416623?sid=105"
+    },
+    {
+        "title": "'BOE 美ITC 패소 한국 반사이익' 애플이 칼자루 잡았다",
+        "date": "2025-08-13 22:12",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=39463"
+    },
+    {
+        "title": "미 당국 “중국 BOE, 삼성디스플레이 기술 탈취 인정”…15년간 OLED 미 수...",
+        "date": "2025-08-13 20:51",
+        "link": "https://n.news.naver.com/mnews/article/032/0003389433?sid=101"
+    },
+    {
+        "title": "마이크로 LED 시장 2030년 13억달러로 성장 전망",
+        "date": "2025-08-13 19:10",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508131906571695290c42db76_1/article.html"
+    },
+    {
+        "title": "中 OLED, 미국서 15년간 퇴출…국내 디스플레이 업계 호재",
+        "date": "2025-08-13 18:33",
+        "link": "https://n.news.naver.com/mnews/article/421/0008427460?sid=101"
+    },
+    {
+        "title": "갤탭S11 출격 임박에… 샤오미, 저가공세로 ‘안방 맞불’",
+        "date": "2025-08-13 18:27",
+        "link": "https://n.news.naver.com/mnews/article/014/0005391374?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, BOE와 美 ITC OLED 영업비밀 소송서 '사실상 승소' [소부...",
+        "date": "2025-08-13 18:21",
+        "link": "https://n.news.naver.com/mnews/article/138/0002202709?sid=105"
+    },
+    {
+        "title": "美 ITC “BOE가 삼성 OLED 기술 훔쳐... 14년 8개월간 퇴출”",
+        "date": "2025-08-13 18:10",
+        "link": "https://n.news.naver.com/mnews/article/025/0003461803?sid=101"
+    },
+    {
+        "title": "아이폰 관련주, '룰루랄라 콧노래' 덕산네오룩스·비에이치·이녹스첨단...",
+        "date": "2025-08-13 18:06",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=236409"
+    },
+    {
+        "title": "폴더블폰 관련주, '함박웃음' 비에이치·LG디스플레이·이녹스첨단소재...",
+        "date": "2025-08-13 18:06",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=236408"
+    },
+    {
+        "title": "델, 에일리언웨어 신제품 공개…'게이밍·업무 다 되는 프리미엄 노트북...",
+        "date": "2025-08-13 18:06",
+        "link": "https://www.tokenpost.kr/news/tech/276392"
+    },
+    {
+        "title": "삼성폰, 인도 프리미엄 폰 시장서 처음으로 애플 꺾었다",
+        "date": "2025-08-13 18:05",
+        "link": "https://n.news.naver.com/mnews/article/421/0008427422?sid=105"
+    },
+    {
+        "title": "中, H20 사용배제 명령에 먹구름 낀 삼성·하이닉스...애플 악몽 되풀이...",
+        "date": "2025-08-13 18:04",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025081315255791136ed0c62d49_1/article.html"
+    },
+    {
+        "title": "미, 삼성디스플레이 기술 뺏은 중국 제품 14년 동안 못 들어와",
+        "date": "2025-08-13 18:00",
+        "link": "https://n.news.naver.com/mnews/article/469/0000881442?sid=101"
+    },
+    {
+        "title": "[단독] '갤럭시 탭 S11' 출격 맞춰 샤오미 저가 공세 시작",
+        "date": "2025-08-13 17:49",
+        "link": "https://n.news.naver.com/mnews/article/014/0005391320?sid=105"
+    },
+    {
+        "title": "삼성 스마트폰 日시장 2위…전장·디스플레이도 진격",
+        "date": "2025-08-13 17:48",
+        "link": "https://n.news.naver.com/mnews/article/015/0005170581?sid=101"
+    },
+    {
+        "title": "[특징주] 비에이치, 中 OLED 美서 퇴출 국내 1위 FPCB 기업 부각되며 수...",
+        "date": "2025-08-13 17:42",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275191"
+    },
+    {
+        "title": "이재용 삼성전자 회장, 테슬라·애플 이어 추가 '잭팟' 터뜨린다",
+        "date": "2025-08-13 17:42",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=230332"
+    },
+    {
+        "title": "中 BOE, 美 OLED 시장서 퇴출 LG디스플레이 주가 22% 급등",
+        "date": "2025-08-13 17:42",
+        "link": "https://n.news.naver.com/mnews/article/009/0005541142?sid=101"
+    },
+    {
+        "title": "美ITC, BOE OLED에 '15년 퇴출령'…삼성·LG디스플레이 수혜 전망",
+        "date": "2025-08-13 17:41",
+        "link": "https://www.newspim.com/news/view/20250813001024"
+    },
+    {
+        "title": "“애플, 이래도 중국산 OLED 쓸래”…삼성디스플레이, 中 BOE와 OLED 소송...",
+        "date": "2025-08-13 17:36",
+        "link": "https://www.ceoscoredaily.com/page/view/2025081317194870533"
+    },
+    {
+        "title": "미 ITC, 삼성 손 들어줬다…중국 OLED 15년간 퇴출",
+        "date": "2025-08-13 17:35",
+        "link": "https://n.news.naver.com/mnews/article/215/0001219982?sid=101"
+    },
+    {
+        "title": "이엠앤아이, 2분기 영업이익 2억원…OLED 수요 확대 지속",
+        "date": "2025-08-13 17:35",
+        "link": "https://www.newspim.com/news/view/20250813001021"
+    },
+    {
+        "title": "美 ITC 中 BOE, 삼성D 기술탈취 인정…14년8개월간 퇴출",
+        "date": "2025-08-13 17:32",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=183570"
+    },
+    {
+        "title": "[단독] 삼성, 첫 자체 스마트글라스 내놓는다…차세대 AI 디바이스로 낙...",
+        "date": "2025-08-13 17:28",
+        "link": "https://n.news.naver.com/mnews/article/011/0004520713?sid=101"
+    },
+    {
+        "title": "韓 OLED 기술 훔친 中기업 철퇴…美 싱크탱크 산업 보호 선례",
+        "date": "2025-08-13 17:26",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092145761"
+    },
+    {
+        "title": "LG전자-LG디스플레이, 130인치대 마이크로 LED 만든다",
+        "date": "2025-08-13 17:22",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=39441"
+    },
+    {
+        "title": "美ITC 中BOE, 삼성 OLED 기술 베꼈다…14년간 美서 퇴출",
+        "date": "2025-08-13 17:20",
+        "link": "https://n.news.naver.com/mnews/article/015/0005170509?sid=101"
+    },
+    {
+        "title": "美, 中 BOE OLED 14년 퇴출…삼성디스플레이 기술 도용 인정",
+        "date": "2025-08-13 17:20",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7124188"
+    },
+    {
+        "title": "美 ITC 中 BOE OLED 14년8개월 수입 금지… 삼성D 기술탈취 인정",
+        "date": "2025-08-13 17:18",
+        "link": "https://n.news.naver.com/mnews/article/417/0001095330?sid=101"
+    },
+    {
+        "title": "美 하원 “영업비밀 침해 BOE OLED 수입금지해야”",
+        "date": "2025-08-13 17:00",
+        "link": "https://n.news.naver.com/mnews/article/030/0003340721?sid=105"
+    },
+    {
+        "title": "국민연금 지난해 말 엔비디아 보유액 12조 확대…삼성전자는 11조 감소",
+        "date": "2025-08-13 16:51",
+        "link": "https://n.news.naver.com/mnews/article/009/0005541094?sid=101"
+    },
+    {
+        "title": "美 ITC 中 BOE, 삼성D 기술탈취 인정··· 14년8개월간 퇴출",
+        "date": "2025-08-13 16:48",
+        "link": "https://www.ajunews.com/view/20250813164509105"
+    },
+    {
+        "title": "삼성 OLED 기술 탈취 中 BOE OLED 미국 판매 15년간 제한",
+        "date": "2025-08-13 16:46",
+        "link": "https://kbench.com/?q=node/270314"
+    },
+    {
+        "title": "美 ITC, 삼성디스플레이 'BOE OLED 영업비밀 침해' 예비판단…국내 OLED株...",
+        "date": "2025-08-13 16:46",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=835877"
+    },
+    {
+        "title": "“마이크로 LED 시장, 2030년까지 120배 성장”",
+        "date": "2025-08-13 16:39",
+        "link": "https://n.news.naver.com/mnews/article/029/0002975295?sid=101"
+    },
+    {
+        "title": "中 OLED 기업 미국 퇴출 예고에…LG디스플레이 22.5% 급등",
+        "date": "2025-08-13 16:30",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=250630"
+    },
+    {
+        "title": "애플, 연말까지 '아이폰17·M5 아이패드' 포함 10종 이상 신제품 출시 루...",
+        "date": "2025-08-13 16:28",
+        "link": "https://kbench.com/?q=node/270313"
+    },
+    {
+        "title": "삼성디스플레이, 중국 BEO와 영업 비밀 소송서 승기···중 OLED, 미 시장...",
+        "date": "2025-08-13 16:23",
+        "link": "https://n.news.naver.com/mnews/article/032/0003389332?sid=101"
+    },
+    {
+        "title": "[특징주] 디스플레이株, 중국 BOE 상대 삼성디스플레이 승소에 급등 마...",
+        "date": "2025-08-13 16:21",
+        "link": "https://n.news.naver.com/mnews/article/629/0000416554?sid=101"
+    },
+    {
+        "title": "티빙-웨이브 합병으로 탄생한 ‘더블 이용권’, 이득일까?",
+        "date": "2025-08-13 16:20",
+        "link": "https://it.donga.com/107403/"
+    },
+    {
+        "title": "샤프, 적자 사업 재건 시작...유럽·美 차량용 LCD 디스플레이 양산 발표",
+        "date": "2025-08-13 16:18",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508131614012173e7e8286d56_1/article.html"
+    },
+    {
+        "title": "마이크로 LED 시장, 2030년 13억달러 규모로 성장 전망",
+        "date": "2025-08-13 16:08",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1257216"
+    },
+    {
+        "title": "中 BOE OLED패널 15년간 美 수출 못한다",
+        "date": "2025-08-13 16:08",
+        "link": "https://n.news.naver.com/mnews/article/011/0004520678?sid=101"
+    },
+    {
+        "title": "국내연구진, 착용만으로 망막 검사 가능한 OLED 콘택트렌즈 세계 최초 구...",
+        "date": "2025-08-13 16:06",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2006481"
+    },
+    {
+        "title": "[급등락주 짚어보기] 국내 디스플레이株, 미국서 中 OLED 퇴출 가능성에...",
+        "date": "2025-08-13 16:06",
+        "link": "https://www.etoday.co.kr/news/view/2496864"
+    },
+    {
+        "title": "[1만호 100대 사건]〈72〉LG전자 OLED TV 양산 시작, OLED 산업 선도",
+        "date": "2025-08-13 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003340687?sid=105"
+    },
+    {
+        "title": "이엠앤아이, 2분기 영업이익 2.1억…OLED 수요 확대 지속",
+        "date": "2025-08-13 15:54",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=90185"
+    },
+    {
+        "title": "[특징주] 에스켐 급등, 삼성 기술 훔친 中 OLED 美서 퇴출에 국내 디스...",
+        "date": "2025-08-13 15:52",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275180"
+    },
+    {
+        "title": "마이크로 LED 시장, 2030년 13억달러 규모로 성장",
+        "date": "2025-08-13 15:52",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1674449"
+    },
+    {
+        "title": "美 ITC 中 BOE OLED 14년8개월간 수입 금지…삼성·LGD 수혜",
+        "date": "2025-08-13 15:49",
+        "link": "https://n.news.naver.com/mnews/article/092/0002386080?sid=105"
+    },
+    {
+        "title": "폴더블 이후 '돌돌 마는 시대' 온다…삼성D, 레노버에 첫 실험",
+        "date": "2025-08-13 15:44",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025081315400094985"
+    },
+    {
+        "title": "中 BOE 올레드, 美 직수출 15년간 봉쇄...K디스플레이 업계 '호재'",
+        "date": "2025-08-13 15:44",
+        "link": "https://n.news.naver.com/mnews/article/014/0005391222?sid=101"
+    },
+    {
+        "title": "이엠앤아이 주가, 급등세... 디스플레이 관련주",
+        "date": "2025-08-13 15:44",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1107001"
+    },
+    {
+        "title": "삼성 OLED 기술 훔친 中 BOE, 美서 퇴출",
+        "date": "2025-08-13 15:42",
+        "link": "https://n.news.naver.com/mnews/article/029/0002975252?sid=101"
+    },
+    {
+        "title": "Severe US ban on BOE hands OLED edge to Korean rivals",
+        "date": "2025-08-13 15:40",
+        "link": "https://n.news.naver.com/mnews/article/023/0003922888?sid=104"
+    },
+    {
+        "title": "[마켓+]국내 디스플레이 업체 역대급 호재 터졌다",
+        "date": "2025-08-13 15:38",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=94577"
+    },
+    {
+        "title": "美 中 올레드 수입금지…韓 디스플레이 반사이익 볼까",
+        "date": "2025-08-13 15:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275176"
+    },
+    {
+        "title": "'중국 BOE에 승소' 삼성디스플레이 수혜주 무더기 상한가 [뉴스톡 웰스톡...",
+        "date": "2025-08-13 15:36",
+        "link": "http://www.newswell.co.kr/news/articleView.html?idxno=12352"
+    },
+    {
+        "title": "철퇴맞은 中 OLED, 美서 15년 간 퇴출된다",
+        "date": "2025-08-13 15:34",
+        "link": "https://n.news.naver.com/mnews/article/119/0002990755?sid=101"
+    },
+    {
+        "title": "이엠앤아이, 2분기 영업이익 2억 '분기 흑전'…OLED 수요 확대 영향",
+        "date": "2025-08-13 15:33",
+        "link": "https://n.news.naver.com/mnews/article/008/0005235559?sid=101"
+    },
+    {
+        "title": "실적 버팀목이었는데…삼성 갤럭시, 트럼프發 관세에 흔들리나",
+        "date": "2025-08-13 15:32",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025081315285195426"
+    },
+    {
+        "title": "삼성D 기술 탈취 中 BOE, 美시장 15년간 퇴출",
+        "date": "2025-08-13 15:26",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=334815"
+    },
+    {
+        "title": "中BOE OLED 14년8개월간 美서 퇴출...삼성D 기술탈취 제동",
+        "date": "2025-08-13 15:22",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1257161"
+    },
+    {
+        "title": "삼성 기술 탈취 中 BOE, 미국서 15년간 퇴출된다",
+        "date": "2025-08-13 15:20",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=250617"
+    },
+    {
+        "title": "[특징주] 美서 '中 OLED' 퇴출되나...LG디스플레이, 21% 강세",
+        "date": "2025-08-13 15:18",
+        "link": "http://www.metroseoul.co.kr/article/20250813500377"
+    },
+    {
+        "title": "삼성 기밀 베꼈다 中 기업 퇴출 예고에 환호…주가 '불기둥' [종목+]",
+        "date": "2025-08-13 15:15",
+        "link": "https://n.news.naver.com/mnews/article/015/0005170370?sid=101"
+    },
+    {
+        "title": "[특징주] 핌스 상한가, 미국서 中 OLED 퇴출 소식에 국내 디스플레이株...",
+        "date": "2025-08-13 15:12",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275173"
+    },
+    {
+        "title": "미 ITC, 중국 BOE OLED 퇴출 결정…“삼성디스플레이 기술탈취 인정”",
+        "date": "2025-08-13 15:12",
+        "link": "https://n.news.naver.com/mnews/article/437/0000452581?sid=104"
+    },
+    {
+        "title": "中 OLED, 14년간 美시장서 퇴출… 삼성·LG디스플레이 반사이익 전망",
+        "date": "2025-08-13 15:12",
+        "link": "https://www.etoday.co.kr/news/view/2496817"
+    },
+    {
+        "title": "[글로벌]보급형 맥북 나올까…타이완 애플 협력사 80만원대 출시 귀뜸",
+        "date": "2025-08-13 15:12",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=241263"
+    },
+    {
+        "title": "美 中 올레드 수입금지…韓 디스플레이 반사이익 볼까",
+        "date": "2025-08-13 15:12",
+        "link": "https://n.news.naver.com/mnews/article/003/0013420305?sid=101"
+    },
+    {
+        "title": "美 ITC, 中 BOE 15년간 미국 시장 퇴출...삼성D 사실상 승소",
+        "date": "2025-08-13 15:12",
+        "link": "https://news.mtn.co.kr/news-detail/2025081315070531090"
+    },
+    {
+        "title": "삼성디스플레이 기술 탈취…中 BOE OLED 14년 8개월간 美 퇴출",
+        "date": "2025-08-13 15:06",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=807184"
+    },
+    {
+        "title": "삼성전자, 테슬라·애플과 '초대형 빅딜'…미래 글로벌 경쟁력 높인다",
+        "date": "2025-08-13 15:06",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=108475"
+    },
+    {
+        "title": "[특징주] 디스플레이株, 中업체 상대 삼성디스플레이 승소 소식에 '급등...",
+        "date": "2025-08-13 15:06",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=661729"
+    },
+    {
+        "title": "美ITC, 삼성 기술 탈취한 中 BOE 미국 시장 15년간 퇴출",
+        "date": "2025-08-13 15:04",
+        "link": "https://www.sentv.co.kr/article/view/sentv202508130120"
+    },
+    {
+        "title": "애플워치 지금 사면 100% 후회…시리즈11·울트라3·SE3 출시 임박",
+        "date": "2025-08-13 15:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584987"
+    },
+    {
+        "title": "중국 BOE 15년 동안 미국서 OLED 퇴출, 삼성·LG디스플레이에 호재",
+        "date": "2025-08-13 14:54",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=407498"
+    },
+    {
+        "title": "[특징주] 디스플레이株, 中업체 상대 삼성D 승소 소식에 급등",
+        "date": "2025-08-13 14:51",
+        "link": "https://n.news.naver.com/mnews/article/001/0015564452?sid=101"
+    },
+    {
+        "title": "美 ITC 中 OLED 14년 8개월간 퇴출…삼성 사실상 승소",
+        "date": "2025-08-13 14:48",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1674422"
+    },
+    {
+        "title": "中 OLED 미국 퇴출 소식에 LG디스플레이 20% ‘불기둥’ [종목Pick]",
+        "date": "2025-08-13 14:43",
+        "link": "https://n.news.naver.com/mnews/article/016/0002514014?sid=101"
+    },
+    {
+        "title": "美 ITC “中 BOE OLED 14년8개월 수입 금지”…LGD 주가 급등",
+        "date": "2025-08-13 14:42",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202508131431294430652"
+    },
+    {
+        "title": "머스크, 애플에 왜 챗GPT만 밀어주냐... 올트먼과 유치한 말다툼도 [지...",
+        "date": "2025-08-13 14:41",
+        "link": "https://n.news.naver.com/mnews/article/469/0000881366?sid=104"
+    },
+    {
+        "title": "'美서 中OLED 퇴출' 가능성에…LG디스플레이, 22%↑ [특징주]",
+        "date": "2025-08-13 14:40",
+        "link": "https://n.news.naver.com/mnews/article/119/0002990695?sid=101"
+    },
+    {
+        "title": "[특징주] 덕산네오룩스, 삼성 기술 탈취한 中 OLED 미국에서 퇴출 반사...",
+        "date": "2025-08-13 14:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275166"
+    },
+    {
+        "title": "델 테크놀로지스, 메인스트림 게이밍 노트북 '에일리언웨어 16·16X 오로...",
+        "date": "2025-08-13 14:38",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1803033"
+    },
+    {
+        "title": "“마이크로LED, 3년 후부터 연 50% 성장… 2030년 1조8000억원 규모”",
+        "date": "2025-08-13 14:36",
+        "link": "https://n.news.naver.com/mnews/article/366/0001100047?sid=105"
+    },
+    {
+        "title": "美ITC “中 BOE OLED 14년8개월 수입 금지”… 삼성디스플레이 기술 탈취...",
+        "date": "2025-08-13 14:32",
+        "link": "https://n.news.naver.com/mnews/article/366/0001100044?sid=105"
+    },
+    {
+        "title": "델 테크놀로지스, ‘에일리언웨어 오로라’ 게이밍 노트북 출시",
+        "date": "2025-08-13 14:28",
+        "link": "https://www.hellot.net/news/article.html?no=104213"
+    },
+    {
+        "title": "아이폰17 에어, 역대 가장 얇다…5.5㎜ 초슬림에 6.6인치 대화면",
+        "date": "2025-08-13 14:26",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=442803"
+    },
+    {
+        "title": "[특징주] 피엔에이치테크, 中 OLED 미국서 15년간 퇴출 국내 기업들 반...",
+        "date": "2025-08-13 14:24",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275161"
+    },
+    {
+        "title": "삼성 기술 훔친 중국 기업, 15년간 미국서 퇴출된다",
+        "date": "2025-08-13 14:24",
+        "link": "https://n.news.naver.com/mnews/article/018/0006088888?sid=101"
+    },
+    {
+        "title": "삼성 기술 탈취한 中 BOE, 미국 시장 15년간 퇴출된다",
+        "date": "2025-08-13 14:20",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/08/13/2025081300227.html"
+    },
+    {
+        "title": "중국 OLED 美 시장 퇴출 가능성...프로이천, 반사이익 기대감에 주가 폭...",
+        "date": "2025-08-13 14:16",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=368094"
+    },
+    {
+        "title": "마이크로 LED, 2030년 13억 달러 성장 전망",
+        "date": "2025-08-13 14:12",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=329882"
+    },
+    {
+        "title": "미국서 中 OLED 퇴출 소식에…LG디스플레이 19%대 '급등'",
+        "date": "2025-08-13 14:06",
+        "link": "https://n.news.naver.com/mnews/article/015/0005170328?sid=101"
+    },
+    {
+        "title": "델 테크놀로지스, 게이밍 PC '에일리언웨어 오로라 노트북' 신제품 공개",
+        "date": "2025-08-13 14:04",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=143228"
+    },
+    {
+        "title": "美ITC 中 BOE OLED 14년8개월간 퇴출…삼성 기술탈취",
+        "date": "2025-08-13 14:03",
+        "link": "https://n.news.naver.com/mnews/article/374/0000457390?sid=104"
+    },
+    {
+        "title": "마이크로 LED 본격 성장…프리미엄 TV 판도 바꿀 것",
+        "date": "2025-08-13 14:02",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275155"
+    },
+    {
+        "title": "美ITC 中 BOE OLED 14년8개월간 퇴출…삼성D 기술탈취 인정",
+        "date": "2025-08-13 14:01",
+        "link": "https://n.news.naver.com/mnews/article/001/0015564233?sid=101"
+    },
+    {
+        "title": "[특징주] 프로이천 상한가, 中 OLED 미국 시장 퇴출 기술탈취 판결 승...",
+        "date": "2025-08-13 13:58",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275151"
+    },
+    {
+        "title": "파인엠텍, 국내 유일 기술 '메탈플레이트' 애플향 공급 유력…현재 테...",
+        "date": "2025-08-13 13:52",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=231402"
+    },
+    {
+        "title": "[특징주] 브이원텍, 미국 BOE 규제 가능성 수혜…OLED 검사장비 점유율 ...",
+        "date": "2025-08-13 13:50",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=661712"
+    },
+    {
+        "title": "마이크로 LED 시장, 2030년 13억달러 규모로 성장 전망",
+        "date": "2025-08-13 13:46",
+        "link": "https://n.news.naver.com/mnews/article/031/0000956892?sid=105"
+    },
+    {
+        "title": "[특징주] LG디스플레이, 中 OLED 미국서 15년간 퇴출 반사이익 기대감...",
+        "date": "2025-08-13 13:44",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275139"
+    },
+    {
+        "title": "中 OLED 미국 퇴출 소식에…LG디스플레이, 20% 강세[핫종목]",
+        "date": "2025-08-13 13:43",
+        "link": "https://n.news.naver.com/mnews/article/421/0008426321?sid=101"
+    },
+    {
+        "title": "[특징주] LG디스플레이 등 OLED 관련주 강세",
+        "date": "2025-08-13 13:36",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=442770"
+    },
+    {
+        "title": "﻿이엠앤아이, 2분기 영업익 2.1억원...'분기 흑전'",
+        "date": "2025-08-13 13:34",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1257082"
+    },
+    {
+        "title": "이엠앤아이, OLED 수요 확대에 분기 흑자전환 성공",
+        "date": "2025-08-13 13:24",
+        "link": "https://www.etoday.co.kr/news/view/2496747"
+    },
+    {
+        "title": "델 테크놀로지스, '에일리언웨어 오로라' 게이밍 노트북 2종 출시",
+        "date": "2025-08-13 13:24",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1070893"
+    },
+    {
+        "title": "머스크, 애플에 반독점 소송 예고… “챗GPT만 좋아해”",
+        "date": "2025-08-13 13:19",
+        "link": "https://n.news.naver.com/mnews/article/030/0003340541?sid=104"
+    },
+    {
+        "title": "﻿유비리서치 ﻿마이크로 LED 시장, 2030년 13억달러 규모로 성장",
+        "date": "2025-08-13 13:16",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=39420"
+    },
+    {
+        "title": "쿠팡 사전예약 완판 ‘AERO X16’ 게이밍·크리에이티브 노트북 재입고",
+        "date": "2025-08-13 13:12",
+        "link": "https://kbench.com/?q=node/270301"
+    },
+    {
+        "title": "삼성전자 ‘마이크로 RGB TV’ 출시",
+        "date": "2025-08-13 13:10",
+        "link": "https://www.naeil.com/news/read/557853?ref=naver"
+    },
+    {
+        "title": "IMID 2025, 19~22일 부산 벡스코서 개최",
+        "date": "2025-08-13 13:09",
+        "link": "https://n.news.naver.com/mnews/article/030/0003340535?sid=105"
+    },
+    {
+        "title": "미국 최대 후공정 업체 엠코, 애플과 협력",
+        "date": "2025-08-13 13:04",
+        "link": "https://www.naeil.com/news/read/557842?ref=naver"
+    },
+    {
+        "title": "머스크, 알트먼과 앱스토어 순위로 설전...애플은 챗GPT만 편애",
+        "date": "2025-08-13 12:52",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=201471"
+    },
+    {
+        "title": "[특징주] 미국서 中 OLED 퇴출 소식에 디스플레이株 불기둥",
+        "date": "2025-08-13 12:26",
+        "link": "https://n.news.naver.com/mnews/article/366/0001099988?sid=101"
+    },
+    {
+        "title": "'에일리언웨어 오로라 게이밍 노트북' 신규 공개한 '델 테크놀로지스'",
+        "date": "2025-08-13 12:20",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55651"
+    },
+    {
+        "title": "20년 만의 귀환! 델, '에일리언웨어 오로라' 게이밍 노트북 2종 공개",
+        "date": "2025-08-13 12:16",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534913"
+    },
+    {
+        "title": "[뉴스줌인] 삼성전자 '마이크로 RGB TV', 4490만원의 가치는 있을까?",
+        "date": "2025-08-13 12:14",
+        "link": "https://it.donga.com/107400/"
+    },
+    {
+        "title": "게이밍 데스크톱 삼킨 괴물 노트북, 에이수스 ROG Strix SCAR 18 (2025) G835",
+        "date": "2025-08-13 12:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55507"
+    },
+    {
+        "title": "애플, 아이폰 17 시작으로 올 하반기 '신제품 보따리' 푼다!",
+        "date": "2025-08-13 11:52",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1803015"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시하며 초프리미엄 시장 공략",
+        "date": "2025-08-13 11:50",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=109828"
+    },
+    {
+        "title": "일론 머스크 “오픈AI 우대하는 애플, 너 고소”",
+        "date": "2025-08-13 11:50",
+        "link": "https://byline.network/?p=9004111222574302"
+    },
+    {
+        "title": "렌즈 착용만 해도 망막 검사 할 수 있는 기술 나왔다",
+        "date": "2025-08-13 11:46",
+        "link": "http://www.k-health.com/news/articleView.html?idxno=84050"
+    },
+    {
+        "title": "KAIST, 렌즈 착용만으로 망막 검진...세계 최초 무선 OLED 기술 구현",
+        "date": "2025-08-13 11:44",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508131139559893fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "마이크로 LED 본격 성장…프리미엄 TV 판도 바꿀 것",
+        "date": "2025-08-13 11:38",
+        "link": "https://n.news.naver.com/mnews/article/003/0013419489?sid=101"
+    },
+    {
+        "title": "마이크로 LED 시장, 2030년 13억 달러 규모 성장 전망",
+        "date": "2025-08-13 11:30",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=321020"
+    },
+    {
+        "title": "갤럭시 핏은 건강 측정기기인가 통신기기인가…관세청 결론은?",
+        "date": "2025-08-13 11:30",
+        "link": "https://n.news.naver.com/mnews/article/469/0000881329?sid=101"
+    },
+    {
+        "title": "[특징주] 세경하이테크, 中 OLED 14년 8개월간 미국서 퇴출 소식에 상승...",
+        "date": "2025-08-13 11:26",
+        "link": "https://www.etoday.co.kr/news/view/2496723"
+    },
+    {
+        "title": "안방 아이맥스 시대가 온다...삼성전자 115형 '마이크로RGB' TV 출시",
+        "date": "2025-08-13 11:16",
+        "link": "https://www.banronbodo.com/news/articleView.html?idxno=30740"
+    },
+    {
+        "title": "[특징주] 에스켐, 미국서 中 OLED 퇴출 수혜…글로벌 디스플레이 핵심소...",
+        "date": "2025-08-13 11:14",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=661688"
+    },
+    {
+        "title": "中 OLED 미국서 15년간 퇴출…LG디플 ‘반사이익’ 기대에 상승 [줍줍리...",
+        "date": "2025-08-13 11:13",
+        "link": "https://n.news.naver.com/mnews/article/011/0004520544?sid=101"
+    },
+    {
+        "title": "델 '에일리언웨어 오로라 노트북' 2종 공개···쿠팡서 예판 진행",
+        "date": "2025-08-13 11:12",
+        "link": "https://www.cnet.co.kr/view/?no=20250813103027"
+    },
+    {
+        "title": "애플, 에어팟 실시간 번역 제스처 기능 개발 중… iOS 26 베타에서 단서...",
+        "date": "2025-08-13 11:08",
+        "link": "https://kbench.com/?q=node/270288"
+    },
+    {
+        "title": "델 테크놀로지스, 게이밍 노트북 '에일리언웨어 오로라' 출시",
+        "date": "2025-08-13 11:08",
+        "link": "https://n.news.naver.com/mnews/article/001/0015563679?sid=105"
+    },
+    {
+        "title": "마이크로LED, 2028년부터 본격 개화…프리미엄 TV 시장 견인",
+        "date": "2025-08-13 11:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002386009?sid=105"
+    },
+    {
+        "title": "마이크로LED, 3년 뒤 50% 고성장…2030년 13억달러 시장 형성",
+        "date": "2025-08-13 10:56",
+        "link": "https://n.news.naver.com/mnews/article/001/0015563631?sid=101"
+    },
+    {
+        "title": "한미마이크로닉스, ML-420 BTF 블랙 리뉴얼 제품 출시",
+        "date": "2025-08-13 10:54",
+        "link": "https://n.news.naver.com/mnews/article/092/0002386006?sid=105"
+    },
+    {
+        "title": "마크 앤드리슨 스마트폰 다음 혁신 찾는 자, 차세대 애플 될 것",
+        "date": "2025-08-13 10:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584903"
+    },
+    {
+        "title": "中 비보, 차세대 XR 헤드셋 준비 박차…가성비로 애플 잡는다",
+        "date": "2025-08-13 10:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584891"
+    },
+    {
+        "title": "삼성, 인도 스마트폰 시장 2위…초고가 부문서는 애플 제치고 정상",
+        "date": "2025-08-13 10:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584884"
+    },
+    {
+        "title": "구글, 차세대 폴더블폰 '픽셀10 프로 폴드' 공식 티저 영상 공개",
+        "date": "2025-08-13 10:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584889"
+    },
+    {
+        "title": "iOS 26, 애플 게임·프리뷰 앱 추가…아이폰 기본 기능 강화",
+        "date": "2025-08-13 10:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584899"
+    },
+    {
+        "title": "마이크로LED, 2030년 13억달러 전망… TV 생산 캐파 연 5만→600만대",
+        "date": "2025-08-13 10:48",
+        "link": "https://n.news.naver.com/mnews/article/417/0001095177?sid=101"
+    },
+    {
+        "title": "'갤럭시 핏·애플 워치' 시계일까 통신기기일까?",
+        "date": "2025-08-13 10:46",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=521069"
+    },
+    {
+        "title": "델 테크놀로지스, ‘에일리언웨어 오로라 노트북’ 게이밍 컴퓨터 신제...",
+        "date": "2025-08-13 10:40",
+        "link": "https://gamefocus.co.kr/detail.php?number=168256"
+    },
+    {
+        "title": "삼성전자, 세계 최초 '마이크로 RGB TV' 출시",
+        "date": "2025-08-13 10:32",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3913617"
+    },
+    {
+        "title": "아이폰17 출시일 9월 9일 유력, 애플 신제품 발표 임박",
+        "date": "2025-08-13 10:30",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=169111"
+    },
+    {
+        "title": "베트남, 아이폰17 '1차 출시국' 기대감…내달 9일 공개 유력",
+        "date": "2025-08-13 10:28",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=40482"
+    },
+    {
+        "title": "'마이크로 LED' 성장 궤도 진입…2027년 본격 상용화",
+        "date": "2025-08-13 10:23",
+        "link": "https://n.news.naver.com/mnews/article/018/0006088678?sid=101"
+    },
+    {
+        "title": "[더벨][K-Display 2025]'8세대' LGD 공급 막힌 파인원 삼성디스플레이 노...",
+        "date": "2025-08-13 10:22",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508121718519880107725"
+    },
+    {
+        "title": "델, 에일리언웨어 오로라 노트북 게이밍 컴퓨터 신제품 2종 공개",
+        "date": "2025-08-13 10:10",
+        "link": "https://kbench.com/?q=node/270274"
+    },
+    {
+        "title": "[뉴템] 델, ‘에일리언웨어 16 오로라’ 게이밍 노트북 공개",
+        "date": "2025-08-13 10:06",
+        "link": "https://n.news.naver.com/mnews/article/138/0002202652?sid=105"
+    },
+    {
+        "title": "델 테크놀로지스, 에일리언웨어 오로라 게이밍 노트북 2종 공개",
+        "date": "2025-08-13 09:59",
+        "link": "https://n.news.naver.com/mnews/article/030/0003340425?sid=105"
+    },
+    {
+        "title": "알파스캔, 200Hz Fast IPS 27인치 게이밍 모니터 신제품 '27G4H' 출시",
+        "date": "2025-08-13 09:58",
+        "link": "https://gamefocus.co.kr/detail.php?number=168251"
+    },
+    {
+        "title": "델, '에일리언웨어 오로라 노트북' 게이밍 컴퓨터 신제품 2종 공개",
+        "date": "2025-08-13 09:56",
+        "link": "https://www.datanet.co.kr/news/articleView.html?idxno=204415"
+    },
+    {
+        "title": "애플, 머스크 ‘앱스토어 편향’ 주장에 정면 반박…“공정·무편향 운...",
+        "date": "2025-08-13 09:54",
+        "link": "https://n.news.naver.com/mnews/article/138/0002202642?sid=105"
+    },
+    {
+        "title": "일론 머스크 VS 샘 알트먼…애플 앱스토어 'AI 1위' 놓고 정면충돌",
+        "date": "2025-08-13 09:51",
+        "link": "https://n.news.naver.com/mnews/article/092/0002385976?sid=105"
+    },
+    {
+        "title": "'관세 직격탄' 애플, 아이폰17 가격 얼마나 올릴까",
+        "date": "2025-08-13 09:47",
+        "link": "https://n.news.naver.com/mnews/article/092/0002385973?sid=105"
+    },
+    {
+        "title": "조용히 오르는 윈도우 PC 가격…애플은 저가형 맥북을 준비 중",
+        "date": "2025-08-13 09:36",
+        "link": "https://www.itworld.co.kr/article/4038542/조용히-오르는-윈도우-pc-가격애플은-저가형-맥북을.html"
+    },
+    {
+        "title": "델 테크놀로지스, '에일리언웨어' 게이밍 노트북 2종 공개",
+        "date": "2025-08-13 09:36",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=90099"
+    },
+    {
+        "title": "'아이폰·갤럭시 가격압박' 원인은 TSMC 독점화 쏠림현상…삼성 파운드...",
+        "date": "2025-08-13 09:35",
+        "link": "https://n.news.naver.com/mnews/article/138/0002202634?sid=105"
+    },
+    {
+        "title": "“두께 5.5㎜, 갤럭시 S25보다 얇다’…‘아이폰17 에어’, 화면 예상 크...",
+        "date": "2025-08-13 09:33",
+        "link": "https://n.news.naver.com/mnews/article/011/0004520463?sid=105"
+    },
+    {
+        "title": "신화인터텍, 영업익 2.9배 증가...3D XR HUD 고객사와 양산 목표 세부 협...",
+        "date": "2025-08-13 09:28",
+        "link": "https://www.etoday.co.kr/news/view/2496409"
+    },
+    {
+        "title": "델 테크놀로지스, ‘에일리언웨어 오로라 노트북’ 게이밍 컴퓨터 신제...",
+        "date": "2025-08-13 09:20",
+        "link": "https://n.news.naver.com/mnews/article/014/0005390904?sid=105"
+    },
+    {
+        "title": "델 테크놀로지스, '에일리언웨어 오로라 노트북' 게이밍 컴퓨터 신제품...",
+        "date": "2025-08-13 09:14",
+        "link": "https://n.news.naver.com/mnews/article/030/0003340397?sid=105"
+    },
+    {
+        "title": "中 압도할 ‘화질 끝판왕’ 프리미엄TV 새 지평 연 삼성…글로벌 진...",
+        "date": "2025-08-13 08:42",
+        "link": "https://n.news.naver.com/mnews/article/011/0004520432?sid=101"
+    },
+    {
+        "title": "델 '에일리언웨어 오로라' 노트북 2종 공개…게이밍·일상 모두 잡았다",
+        "date": "2025-08-13 08:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=584827"
+    },
+    {
+        "title": "외국인 대화 장벽 허문다 애플, iOS 26 베타서 '에어팟 실시간 번역' ...",
+        "date": "2025-08-13 08:32",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=534911"
+    },
+    {
+        "title": "14년 8개월간 미국서 中 OLED 퇴출...삼디 기술 탈취 미국서 제동",
+        "date": "2025-08-13 08:28",
+        "link": "https://n.news.naver.com/mnews/article/023/0003922811?sid=105"
+    },
+    {
+        "title": "'이때다' 국민연금, 애플·테슬라 '줍줍'",
+        "date": "2025-08-13 08:10",
+        "link": "https://n.news.naver.com/mnews/article/374/0000457288?sid=101"
+    },
+    {
+        "title": "삼성디스플레이 美 자회사, 세계 1위 군용 투시경 제조사에 핵심 부품 ...",
+        "date": "2025-08-13 08:06",
+        "link": "https://www.theguru.co.kr/news/article.html?no=90523"
+    },
+    {
+        "title": "삼성, 인도 스마트폰 시장 2위…갤럭시 AI·중저가모델 출시 효과[모닝...",
+        "date": "2025-08-13 08:00",
+        "link": "https://n.news.naver.com/mnews/article/018/0006088466?sid=105"
+    },
+    {
+        "title": "[현장]삼성전자, 세계 첫 ‘마이크로 RGB TV’ 출시… 초격차로 中 따돌...",
+        "date": "2025-08-13 08:00",
+        "link": "https://n.news.naver.com/mnews/article/469/0000881292?sid=101"
+    },
+    {
+        "title": "[정옥재의 스마트 라이프] '손목 닥터' 갤럭시 워치8 써보니",
+        "date": "2025-08-13 07:56",
+        "link": "https://n.news.naver.com/mnews/article/658/0000116623?sid=101"
+    },
+    {
+        "title": "[더벨]삼성, 세계 최초 타이틀 탈환 '마이크로 RGB TV 출격'",
+        "date": "2025-08-13 07:42",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508121048499520104735"
+    },
+    {
+        "title": "[더벨][K-Display 2025]아스타 SK하이닉스 산업용 분석장비 테스트 단계...",
+        "date": "2025-08-13 07:42",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508071651236000105145"
+    },
+    {
+        "title": "머스크, 애플·오픈AI에 독점 소송 예고…“AI 앱 순위 조작” 반발",
+        "date": "2025-08-13 07:04",
+        "link": "https://www.tokenpost.kr/news/ai/276199"
+    }
+]
