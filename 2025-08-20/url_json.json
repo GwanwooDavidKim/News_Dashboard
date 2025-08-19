@@ -1,1 +1,552 @@
-
+[
+    {
+        "title": "삼성전자, 하반기 ‘풀 라인업’ 신제품 투입…S25 FE·트라이폴드·XR 헤...",
+        "date": "2025-08-20 05:00",
+        "link": "https://www.etoday.co.kr/news/view/2497096"
+    },
+    {
+        "title": "메타, 첫 '화면 탑재' 스마트 안경 내달 출시",
+        "date": "2025-08-20 04:21",
+        "link": "https://n.news.naver.com/mnews/article/374/0000458419?sid=104"
+    },
+    {
+        "title": "애플, 아이폰17 모델 4종 모두 인도서 만든다",
+        "date": "2025-08-20 04:16",
+        "link": "https://n.news.naver.com/mnews/article/374/0000458417?sid=104"
+    },
+    {
+        "title": "메타, 디스플레이 탑재 첫 스마트안경 내달 공개",
+        "date": "2025-08-20 03:02",
+        "link": "https://n.news.naver.com/mnews/article/020/0003655245?sid=101"
+    },
+    {
+        "title": "인하대 신소재공학과 이한빈 학생, 영국왕립화학회 우수 포스터상 수상",
+        "date": "2025-08-20 00:10",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=662521"
+    },
+    {
+        "title": "QLED 수명 '66배' 늘리는 소재 개발",
+        "date": "2025-08-19 21:34",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=520472"
+    },
+    {
+        "title": "메타, 첫 ‘화면 탑재’ 스마트 안경 내달 출시",
+        "date": "2025-08-19 21:16",
+        "link": "https://n.news.naver.com/mnews/article/032/0003390572?sid=101"
+    },
+    {
+        "title": "인하대 신소재공학과 이한빈 학생, 영국왕립화학회 우수 포스터상 수상",
+        "date": "2025-08-19 20:52",
+        "link": "https://www.kmaeil.com/news/articleView.html?idxno=605860"
+    },
+    {
+        "title": "삼성전자 AI폰, 폴더블이 스마트폰 시장의 판도를 바꿀까",
+        "date": "2025-08-19 20:35",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=330099"
+    },
+    {
+        "title": "美 스마트폰 시장, 삼성·애플 격차 축소…주도권 전쟁 점화",
+        "date": "2025-08-19 20:20",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=346350"
+    },
+    {
+        "title": "삼성 갤럭시 Z 폴드 7이 아디다스를 만난다? W컨셉이 선보인 이색 화보...",
+        "date": "2025-08-19 19:26",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535167"
+    },
+    {
+        "title": "[리뷰] 갤럭시 Z 폴드7, 15년차 아이폰 유저가 사용하면 어떨까",
+        "date": "2025-08-19 18:18",
+        "link": "https://it.donga.com/107426/"
+    },
+    {
+        "title": "‘명품폰’ 대접받는 삼성 폴더블폰… 인니·베트남서도 ‘엄지 척’ [...",
+        "date": "2025-08-19 18:10",
+        "link": "https://n.news.naver.com/mnews/article/014/0005393702?sid=105"
+    },
+    {
+        "title": "삼성전자, XR 헤드셋 10월 출시 애플·메타와 '격돌'…스마트 안경에도...",
+        "date": "2025-08-19 18:02",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=807752"
+    },
+    {
+        "title": "'바이블 애플' 일상 필수앱 됐다…사용률 동종업계 3배 이상",
+        "date": "2025-08-19 18:00",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=450673"
+    },
+    {
+        "title": "애플 아이폰17 시리즈 4종 인도에서 생산, 중국 공급망 의존 축소 일환",
+        "date": "2025-08-19 17:08",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=408213"
+    },
+    {
+        "title": "스마트폰 넘어 AI 안경… 메타·삼성·구글·애플, XR 시장 격돌",
+        "date": "2025-08-19 17:04",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=81729"
+    },
+    {
+        "title": "애플, 인도서 아이폰17 모델 4종 모두 생산…중국 의존도 탈피 나서",
+        "date": "2025-08-19 16:58",
+        "link": "https://www.etoday.co.kr/news/view/2498302"
+    },
+    {
+        "title": "메타, AR 안경 '하이퍼노바' 내달 공개...저가 전략으로 돌아온다",
+        "date": "2025-08-19 16:52",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=769741"
+    },
+    {
+        "title": "LG디스플레이, 상반기 로열티 수익 급증…전년 실적 초과",
+        "date": "2025-08-19 16:48",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=183840"
+    },
+    {
+        "title": "상반기 영업익 소폭 개선...2분기 부진에 어두워진 하반기(종합)",
+        "date": "2025-08-19 16:46",
+        "link": "https://n.news.naver.com/mnews/article/018/0006093713?sid=101"
+    },
+    {
+        "title": "[기자수첩]OLED, 국내 디스플레이의 산업의 보루",
+        "date": "2025-08-19 16:40",
+        "link": "http://www.metroseoul.co.kr/article/20250819500426"
+    },
+    {
+        "title": "美 스마트폰 시장서 점유율 높이는 삼성...AI·폴더블 경쟁 심화",
+        "date": "2025-08-19 16:36",
+        "link": "http://www.metroseoul.co.kr/article/20250819500418"
+    },
+    {
+        "title": "아이폰 17e, 다이내믹 아일랜드·A19 칩셋 탑재한다",
+        "date": "2025-08-19 16:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003341985?sid=104"
+    },
+    {
+        "title": "“애플도 내년 접는다…폴더블폰, 2027년 3% 돌파”",
+        "date": "2025-08-19 16:27",
+        "link": "https://n.news.naver.com/mnews/article/119/0002992587?sid=105"
+    },
+    {
+        "title": "아이폰, 다음 iOS 업데이트서 더 빨라진 무선 고속 충전 지원 예정",
+        "date": "2025-08-19 16:18",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535182"
+    },
+    {
+        "title": "삼성, 폴더블폰으로 美 시장 판도 흔든다...스마트폰 점유율 8%p ↑",
+        "date": "2025-08-19 16:16",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=273519"
+    },
+    {
+        "title": "2026년 아이폰 18 기본형 모델 제외. 아이폰 17e·폴더블 아이폰으로 전...",
+        "date": "2025-08-19 16:12",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535180"
+    },
+    {
+        "title": "LG디스플레이, 노트북용 LTPO 기반 탠덤 OLED 기술력 'UP'",
+        "date": "2025-08-19 16:08",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1259293"
+    },
+    {
+        "title": "지금 애플 제품 구매한다면…아이폰부터 맥북까지 추천 '총집합'",
+        "date": "2025-08-19 16:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585992"
+    },
+    {
+        "title": "제이씨현시스템, UDEA 27형 240Hz FHD 게이밍 모니터 'LK2736PA' 출시",
+        "date": "2025-08-19 16:08",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55696"
+    },
+    {
+        "title": "삼성전자, 갤럭시 버즈3 FE 출시… 통역부터 제미나이 호출까지 한 번에",
+        "date": "2025-08-19 16:02",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=338732"
+    },
+    {
+        "title": "W컨셉, 삼성전자ㆍ아디다스 협업 패션 화보 공개",
+        "date": "2025-08-19 15:58",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=178659"
+    },
+    {
+        "title": "애플, 일부 버그 수정한 'iOS 18.6.2' 마이너 업데이트 출시하나",
+        "date": "2025-08-19 15:40",
+        "link": "https://kbench.com/?q=node/270438"
+    },
+    {
+        "title": "'실수'로 정보 노출?... 기술 유출로 전략 바꾼 애플 [지금이뉴스]",
+        "date": "2025-08-19 15:33",
+        "link": "https://n.news.naver.com/mnews/article/052/0002234865?sid=004"
+    },
+    {
+        "title": "메타, '하이퍼노바' 스마트 안경 출시 예고...가격 파격 인하",
+        "date": "2025-08-19 15:32",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=44306"
+    },
+    {
+        "title": "[AT 산업 단신] SK하이닉스·LG전자·삼성전자·소니코리아·디지털 리얼...",
+        "date": "2025-08-19 15:28",
+        "link": "https://www.asiatime.co.kr/article/20250819500312"
+    },
+    {
+        "title": "美서 '폴더블' 날개 단 삼성, 트럼프發 관세에 발목 잡히나",
+        "date": "2025-08-19 15:18",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=369437"
+    },
+    {
+        "title": "기회의 서울반도체, 중국 공세 넘는다···전장·마이크로 LED로 '턴어라...",
+        "date": "2025-08-19 15:08",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2317212"
+    },
+    {
+        "title": "삼성전자, ‘갤럭시 버즈3 FE’ 9월 글로벌 출시…AI와 오디오 성능 강화",
+        "date": "2025-08-19 15:06",
+        "link": "https://www.todayeconomic.com/news/article.html?no=28057"
+    },
+    {
+        "title": "“혁신 기술·전력 소비·성능 최적화?” 애플·삼성의 차세대 칩 협업...",
+        "date": "2025-08-19 15:04",
+        "link": "https://it.donga.com/107423/"
+    },
+    {
+        "title": "폴더블 시장 판 키우는 삼성 '갤럭시Z5' 중고폰 판매",
+        "date": "2025-08-19 14:41",
+        "link": "https://n.news.naver.com/mnews/article/030/0003341894?sid=105"
+    },
+    {
+        "title": "삼성디스플레이 공장 노동자 '백혈병' 진단…법원, 산재 인정 판결",
+        "date": "2025-08-19 14:22",
+        "link": "http://www.lawleader.co.kr/news/articleView.html?idxno=16803"
+    },
+    {
+        "title": "中 BOE, 美 OLED 시장서 퇴출…국내 기업 반사이익은 제한적",
+        "date": "2025-08-19 14:14",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=769640"
+    },
+    {
+        "title": "아이폰18, 2026년 가을 출시 제외되나…애플 '프리미엄 전략' 예고",
+        "date": "2025-08-19 14:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585842"
+    },
+    {
+        "title": "Samsung, LG stand to benefit as BOE faces US OLED ban",
+        "date": "2025-08-19 14:04",
+        "link": "https://n.news.naver.com/mnews/article/044/0000273629?sid=104"
+    },
+    {
+        "title": "영국, 애플에 '백도어' 요구 결국 철회…美 압박에 한발 물러서",
+        "date": "2025-08-19 14:02",
+        "link": "https://n.news.naver.com/mnews/article/003/0013429556?sid=104"
+    },
+    {
+        "title": "W컨셉, 삼성전자∙아디다스 협업 패션 화보 공개",
+        "date": "2025-08-19 14:00",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2093246"
+    },
+    {
+        "title": "9월 애플 이벤트, 아이폰 17과 함께 애플워치 SE3 공개",
+        "date": "2025-08-19 13:58",
+        "link": "https://n.news.naver.com/mnews/article/030/0003341864?sid=104"
+    },
+    {
+        "title": "갤Z폴드7, 삼성 '상저하고' 키워드 될까…초도 흥행, 글로벌 시장서 판...",
+        "date": "2025-08-19 13:52",
+        "link": "https://n.news.naver.com/mnews/article/138/0002202973?sid=105"
+    },
+    {
+        "title": "메타, 800달러 스마트안경 9월 출시…디스플레이 탑재",
+        "date": "2025-08-19 13:28",
+        "link": "https://n.news.naver.com/mnews/article/366/0001101261?sid=105"
+    },
+    {
+        "title": "용인서 아열대작물 재배...바나나에 애플망고까지",
+        "date": "2025-08-19 13:22",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202508191106053014"
+    },
+    {
+        "title": "백혈병 걸린 삼성디스플레이 노동자...1심 산재 인정",
+        "date": "2025-08-19 13:22",
+        "link": "https://science.ytn.co.kr/program/view.php?mcd=0082&hcd=&key=202508191123079332"
+    },
+    {
+        "title": "W컨셉, 삼성전자∙아디다스 손잡았다 컬래버 화보 공개",
+        "date": "2025-08-19 13:16",
+        "link": "https://www.fashionbiz.co.kr/article/218677"
+    },
+    {
+        "title": "탁월한 성능과 휴대성의 조화, R7 260 탑재한 기가바이트 게이밍 A16 3VH ...",
+        "date": "2025-08-19 13:12",
+        "link": "https://kbench.com/?q=node/270433"
+    },
+    {
+        "title": "삼성디스플레이 백혈병 노동자 ‘산재’",
+        "date": "2025-08-19 13:10",
+        "link": "https://www.naeil.com/news/read/558395?ref=naver"
+    },
+    {
+        "title": "'미친 폭염' 난리지만... 이제 용인에서 바나나·애플망고 재배",
+        "date": "2025-08-19 13:04",
+        "link": "https://www.insight.co.kr/news/516384"
+    },
+    {
+        "title": "엑스로메다, 알파서클과 업무협약 체결",
+        "date": "2025-08-19 12:59",
+        "link": "https://www.venturesquare.net/1000254"
+    },
+    {
+        "title": "‘백혈병’ 삼성디스플레이 노동자, 1심서 산재 인정",
+        "date": "2025-08-19 12:38",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1272020&inflow=N"
+    },
+    {
+        "title": "인하대 신소재공학과 이한빈 학생, 영국왕립화학회 우수 포스터상 수상",
+        "date": "2025-08-19 12:38",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=93655"
+    },
+    {
+        "title": "[Interview] 'AR will be killer app of AI,' Merck OLED head says",
+        "date": "2025-08-19 12:02",
+        "link": "https://www.koreatimes.co.kr/path/A2025081511100002823"
+    },
+    {
+        "title": "노치 디자인 안쓴다 애플, 보급형 '아이폰 17e'에 다이내믹 아일랜드...",
+        "date": "2025-08-19 11:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535157"
+    },
+    {
+        "title": "안방 지키고 美 시장 흔들고…삼성 스마트폰 연이은 희소식",
+        "date": "2025-08-19 11:43",
+        "link": "https://n.news.naver.com/mnews/article/629/0000417808?sid=105"
+    },
+    {
+        "title": "애플, iOS 26 베타7 출시… “혈중 산소 측정 및 적응형 전력 제공”",
+        "date": "2025-08-19 11:19",
+        "link": "https://n.news.naver.com/mnews/article/030/0003341762?sid=104"
+    },
+    {
+        "title": "애플, 내년에도 아이폰 라인업 개편하나? 기본 모델 대신 폴더블 추가",
+        "date": "2025-08-19 11:12",
+        "link": "https://kbench.com/?q=node/270422"
+    },
+    {
+        "title": "인하대 신소재공학과 이한빈 학생, 영국왕립화학회 우수 포스터상 수상",
+        "date": "2025-08-19 11:10",
+        "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=36460"
+    },
+    {
+        "title": "[더벨]저스템, OLED 정전기 제어장비 수출…해외 공략 본격화",
+        "date": "2025-08-19 11:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508190846285300102860"
+    },
+    {
+        "title": "아이폰 17e, '갓성비' 기대…업그레이드는 아쉬울 듯",
+        "date": "2025-08-19 11:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585908"
+    },
+    {
+        "title": "인하대 신소재공학과 이한빈 학생, 영국왕립화학회 우수 포스터상 수상",
+        "date": "2025-08-19 10:56",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=141538"
+    },
+    {
+        "title": "애플, 사용자 경험 확대한 'iOS 26 베타7' 공개. 어댑터 전원 알림·혈중...",
+        "date": "2025-08-19 10:50",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535156"
+    },
+    {
+        "title": "인하대 신소재공학과 이한빈 씨, 영국왕립화학회 우수 포스터상 수상",
+        "date": "2025-08-19 10:32",
+        "link": "http://www.incheonnews.com/news/articleView.html?idxno=428342"
+    },
+    {
+        "title": "청도군, 지역 특산 ‘애플망고’ 명품 브랜드 육성",
+        "date": "2025-08-19 10:28",
+        "link": "http://www.metroseoul.co.kr/article/20250818500611"
+    },
+    {
+        "title": "인하대 이한빈 학생, 영국왕립화학회 ‘우수 포스터상’",
+        "date": "2025-08-19 10:22",
+        "link": "https://dhnews.co.kr/news/view/1065575711235592"
+    },
+    {
+        "title": "갤럭시Z 폴드7 흥행…삼성 美시장 점유율 30%대 진입",
+        "date": "2025-08-19 10:04",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=66261"
+    },
+    {
+        "title": "인하대 신소재공학과 이한빈 학생, 영국왕립화학회 우수 포스터상 수상",
+        "date": "2025-08-19 10:04",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=567836"
+    },
+    {
+        "title": "[박진섭의 황금선] OLED 소재, 촉매, 원료 등 제조·판매 '피엔에이치테...",
+        "date": "2025-08-19 10:02",
+        "link": "https://news.mtn.co.kr/news-detail/2025081909324298409"
+    },
+    {
+        "title": "제이씨현, UDEA 27형 240Hz FHD 게이밍 모니터 LK2736PA 모니터 출시",
+        "date": "2025-08-19 09:58",
+        "link": "https://kbench.com/?q=node/270412"
+    },
+    {
+        "title": "W컨셉, 삼성전자∙아디다스와 협업…패션 화보 공개",
+        "date": "2025-08-19 09:53",
+        "link": "https://n.news.naver.com/mnews/article/014/0005393368?sid=103"
+    },
+    {
+        "title": "“패션과 테크의 만남”…W컨셉, 삼성전자∙아디다스 협업 패션 화보 공...",
+        "date": "2025-08-19 09:51",
+        "link": "https://n.news.naver.com/mnews/article/011/0004522442?sid=101"
+    },
+    {
+        "title": "W컨셉, 삼성전자·아디다스 협업 패션 화보 공개",
+        "date": "2025-08-19 09:46",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=236687"
+    },
+    {
+        "title": "프라이버시·AI 접목한 애플의 새 전략…차세대 보안 기술 공개",
+        "date": "2025-08-19 09:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585862"
+    },
+    {
+        "title": "디스플레이 품은 수랭쿨러... '커세어 노틸러스 RS LCD'",
+        "date": "2025-08-19 09:34",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55686"
+    },
+    {
+        "title": "아이폰 17e, 다이내믹 아일랜드 탑재…보급형도 업그레이드",
+        "date": "2025-08-19 09:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585850"
+    },
+    {
+        "title": "하이센스, 'RGB 미니 LED'로 삼성 '마이크로 RGB'에 도전",
+        "date": "2025-08-19 09:24",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508190920248031fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "美도 반한 '폴드7'…애플 안방시장서 반전 노리는 삼성",
+        "date": "2025-08-19 09:20",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=275475"
+    },
+    {
+        "title": "中 공세 맞불…삼성, 실속형 갤럭시 버즈3 FE 출시",
+        "date": "2025-08-19 09:17",
+        "link": "https://n.news.naver.com/mnews/article/011/0004522409?sid=101"
+    },
+    {
+        "title": "삼성전자 갤럭시탭 S11 일본 공략 준비 완료...일찌감치 전파인증 '이례...",
+        "date": "2025-08-19 09:16",
+        "link": "https://www.theguru.co.kr/news/article.html?no=90704"
+    },
+    {
+        "title": "삼성전자, '갤럭시 버즈3 FE' 출시…AI·ANC로 보급형 시장 반격",
+        "date": "2025-08-19 09:12",
+        "link": "http://www.munhaknews.com/news/articleView.html?idxno=81720"
+    },
+    {
+        "title": "폴더블폰 완벽 검사 아이비젼웍스, 국내외 시장 공략 나섰다",
+        "date": "2025-08-19 09:10",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=369353"
+    },
+    {
+        "title": "애플, 엑스코드에 챗GPT 이어 클로드 지원…AI 코딩 보조 강화",
+        "date": "2025-08-19 08:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=585810"
+    },
+    {
+        "title": "저스템, OLED 정전기 제거장비 해외 추가 수주",
+        "date": "2025-08-19 08:43",
+        "link": "https://n.news.naver.com/mnews/article/014/0005393281?sid=101"
+    },
+    {
+        "title": "W컨셉, 삼성전자·아디다스와 맞손…패션 화보 공개",
+        "date": "2025-08-19 08:41",
+        "link": "https://n.news.naver.com/mnews/article/629/0000417666?sid=101"
+    },
+    {
+        "title": "[더벨][Red &amp; Blue]미 ITC BOE 제재, LGD 애플 물량 기대감 '최고조'",
+        "date": "2025-08-19 08:38",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508141510186960107731"
+    },
+    {
+        "title": "메타, 디스플레이 탑재 스마트안경 내달 출시…가격 낮춰",
+        "date": "2025-08-19 08:38",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1258929"
+    },
+    {
+        "title": "[자막뉴스] 용인서 애플망고가?...과일 농업의 새로운 '지평선'",
+        "date": "2025-08-19 08:35",
+        "link": "https://n.news.naver.com/mnews/article/052/0002234679?sid=102"
+    },
+    {
+        "title": "메타, 화면 달린 첫 스마트 안경 ‘하이퍼노바’ 9월 출시···가격 110만...",
+        "date": "2025-08-19 08:34",
+        "link": "https://n.news.naver.com/mnews/article/032/0003390371?sid=101"
+    },
+    {
+        "title": "美 2Q 스마트폰 판매량 전년비 9% 증가…애플·삼성 견인",
+        "date": "2025-08-19 08:26",
+        "link": "https://n.news.naver.com/mnews/article/119/0002992260?sid=105"
+    },
+    {
+        "title": "W컨셉, 삼성전자∙아디다스와 협업…패션 화보 공개",
+        "date": "2025-08-19 08:24",
+        "link": "https://n.news.naver.com/mnews/article/421/0008434507?sid=101"
+    },
+    {
+        "title": "갤S26 울트라에 사생활보호 '플렉스 매직 픽셀' 도입",
+        "date": "2025-08-19 08:22",
+        "link": "https://dealsite.co.kr/articles/146685"
+    },
+    {
+        "title": "메타, '디스플레이 탑재' 첫 스마트 안경 내달 공개...800달러 '승부수'",
+        "date": "2025-08-19 08:20",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1674941"
+    },
+    {
+        "title": "W컨셉, 글로벌 브랜드와 맞손…삼성전자∙아디다스 협업 패션 화보 공개",
+        "date": "2025-08-19 08:18",
+        "link": "https://n.news.naver.com/mnews/article/119/0002992257?sid=101"
+    },
+    {
+        "title": "'갤럭시 Z 폴드 7', 흥행 대박…'폴더블폰' 대중화 청신호",
+        "date": "2025-08-19 08:00",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=662276"
+    },
+    {
+        "title": "잘나갈 땐 틀어막고 고소하더니…'유출 마케팅' 열 올리는 애플",
+        "date": "2025-08-19 08:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008434474?sid=105"
+    },
+    {
+        "title": "“메타, 첫 디스플레이 탑재 스마트안경 다음 달 출시”",
+        "date": "2025-08-19 07:50",
+        "link": "https://n.news.naver.com/mnews/article/056/0012011310?sid=104"
+    },
+    {
+        "title": "메타, 첫 디스플레이 탑재 스마트안경 내달 출시…가격 낮춰",
+        "date": "2025-08-19 07:38",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=836476"
+    },
+    {
+        "title": "메타, 디스플레이 탑재 첫 스마트 안경 '하이퍼노바' 내달 공개",
+        "date": "2025-08-19 07:36",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=369289"
+    },
+    {
+        "title": "메타, 첫 디스플레이 탑재 스마트안경 내달 출시...가격↓",
+        "date": "2025-08-19 07:32",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=669923"
+    },
+    {
+        "title": "아이폰17, 초슬림 에어·시간 번역 등 역대급 변신 예고",
+        "date": "2025-08-19 07:30",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=36995"
+    },
+    {
+        "title": "[IT썰]애플, iOS 26 최종 테스트 버전 출시…메시지 필터링 기능 추가",
+        "date": "2025-08-19 07:18",
+        "link": "https://n.news.naver.com/mnews/article/008/0005237578?sid=105"
+    },
+    {
+        "title": "블룸버그 메타, 첫 디스플레이 탑재 스마트안경 다음달 출시",
+        "date": "2025-08-19 07:01",
+        "link": "https://n.news.naver.com/mnews/article/374/0000458208?sid=101"
+    }
+]
