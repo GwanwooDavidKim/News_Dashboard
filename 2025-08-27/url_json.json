@@ -1,1 +1,622 @@
-
+[
+    {
+        "title": "애플, 내달 9일 신제품 행사…역대 가장 얇은 '아이폰17' 나오나",
+        "date": "2025-08-27 04:36",
+        "link": "https://n.news.naver.com/mnews/article/374/0000459652?sid=104"
+    },
+    {
+        "title": "애플, 내달 9일 신제품 발표 행사…아이폰17 공개할 듯",
+        "date": "2025-08-27 03:21",
+        "link": "https://www.newspim.com/news/view/20250827000006"
+    },
+    {
+        "title": "머스크, 애플-오픈AI 상대 소송… “두 기업 손잡고 업계 경쟁 방해”",
+        "date": "2025-08-27 03:05",
+        "link": "https://n.news.naver.com/mnews/article/020/0003656789?sid=101"
+    },
+    {
+        "title": "애플, 9월 9일 아이폰 17 공개 예고",
+        "date": "2025-08-27 01:43",
+        "link": "https://n.news.naver.com/mnews/article/014/0005397175?sid=101"
+    },
+    {
+        "title": "메타마스크, 구글·애플 계정 통한 지갑 생성 지원",
+        "date": "2025-08-27 00:22",
+        "link": "https://www.tokenpost.kr/news/breaking/280250"
+    },
+    {
+        "title": "총 8가지 컬러로 나온다 애플, '아이폰17' 리퀴드 글래스 케이스 유출",
+        "date": "2025-08-27 00:16",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535482"
+    },
+    {
+        "title": "독일 법원 애플워치, 탄소중립 광고 하지마",
+        "date": "2025-08-26 22:50",
+        "link": "https://n.news.naver.com/mnews/article/015/0005175945?sid=101"
+    },
+    {
+        "title": "애플워치 '그린 워싱' 논란에…독일 법원 탄소 중립 광고 금지",
+        "date": "2025-08-26 22:33",
+        "link": "https://n.news.naver.com/mnews/article/008/0005241379?sid=104"
+    },
+    {
+        "title": "애플 '아이폰17' 시리즈, 출시일 · 가격 · 스펙 총정리",
+        "date": "2025-08-26 22:20",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1108962"
+    },
+    {
+        "title": "독일 법원, 애플 ‘탄소중립’ 광고 금지…그린워싱 논란",
+        "date": "2025-08-26 21:42",
+        "link": "https://n.news.naver.com/mnews/article/018/0006099367?sid=101"
+    },
+    {
+        "title": "넷마블 '뱀피르', 애플 앱스토어 매출 1위…출시 8시간만",
+        "date": "2025-08-26 21:11",
+        "link": "https://n.news.naver.com/mnews/article/092/0002387783?sid=105"
+    },
+    {
+        "title": "스마트폰 춘추전국시대...하반기도 갤럭시 천하 이어질까",
+        "date": "2025-08-26 21:06",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=265987"
+    },
+    {
+        "title": "독일 법원, 애플워치 '탄소중립 제품' 광고 금지⋯근거 부족",
+        "date": "2025-08-26 20:58",
+        "link": "https://www.etoday.co.kr/news/view/2500410"
+    },
+    {
+        "title": "“얼마나 안 팔렸으면” 삼성 제쳤다, 난리더니…‘100만원’ 파격 인하",
+        "date": "2025-08-26 20:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002519791?sid=105"
+    },
+    {
+        "title": "8월 4주 주요 제조업 전망",
+        "date": "2025-08-26 20:16",
+        "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=36169"
+    },
+    {
+        "title": "애플 그린워싱 논란…독일서 '탄소중립' 광고 금지",
+        "date": "2025-08-26 19:48",
+        "link": "https://n.news.naver.com/mnews/article/001/0015588115?sid=104"
+    },
+    {
+        "title": "독일 법원 애플워치 '탄소 중립 제품' 아니다 판결",
+        "date": "2025-08-26 19:26",
+        "link": "https://n.news.naver.com/mnews/article/421/0008449385?sid=104"
+    },
+    {
+        "title": "애플 첫 '폴더블 아이폰', 올해 아닌 내년에 나온다",
+        "date": "2025-08-26 18:26",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508261007367509c5fa75ef86_1/article.html"
+    },
+    {
+        "title": "구글, 삼성·HTC와 손잡고 AI 스마트 안경 생산 추진",
+        "date": "2025-08-26 18:24",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=98646"
+    },
+    {
+        "title": "머스크의 xAI, 애플·오픈AI 고소…반독점법 위반",
+        "date": "2025-08-26 18:06",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250826010013048"
+    },
+    {
+        "title": "삼성, 보급형 ‘갤탭 S10 라이트’ 글로벌 출격…“中 중저가 태블릿 추...",
+        "date": "2025-08-26 18:04",
+        "link": "https://www.ceoscoredaily.com/page/view/2025082617005432839"
+    },
+    {
+        "title": "임실군에서 애플망고가? 기후변화 대응 아열대 과수 수확 한창",
+        "date": "2025-08-26 17:34",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202508261730069863dfcd109a8_7"
+    },
+    {
+        "title": "아이폰으로 이거 돼?…삼성, 아이폰17 출시 직전 또 한번 저격 광고",
+        "date": "2025-08-26 17:30",
+        "link": "https://n.news.naver.com/mnews/article/003/0013443587?sid=105"
+    },
+    {
+        "title": "애플. 이제서야 구글 AI '만지작'?...갤럭시와 차별화 될까",
+        "date": "2025-08-26 17:17",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=330335"
+    },
+    {
+        "title": "[단독] 정부, ‘고정밀 지도’ 애플 반출 결정 연기할 듯…구글과 병합...",
+        "date": "2025-08-26 17:14",
+        "link": "https://n.news.naver.com/mnews/article/028/0002763136?sid=101"
+    },
+    {
+        "title": "xAI, 반독점법 위반으로 애플 고소 “앱스토어 순위 조작했다”",
+        "date": "2025-08-26 16:58",
+        "link": "https://byline.network/?p=9004111222575627"
+    },
+    {
+        "title": "애플, 아이폰 20주년 모델에 '곡면 올글래스 디자인' 적용 가능성",
+        "date": "2025-08-26 16:26",
+        "link": "https://kbench.com/?q=node/270677"
+    },
+    {
+        "title": "BOE, 삼성전자에 모니터용 W-OLED 공급 타진",
+        "date": "2025-08-26 16:22",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=39873"
+    },
+    {
+        "title": "삼성디스플레이 중국 추격에 중소형 OLED 점유율 40% 불안, 이청 폴더블...",
+        "date": "2025-08-26 16:16",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=409149"
+    },
+    {
+        "title": "[삼성D is] OLED 힘 싣기...하반기 '中 업체 퇴출·아이폰' 덕보나",
+        "date": "2025-08-26 16:15",
+        "link": "https://n.news.naver.com/mnews/article/293/0000071633?sid=101"
+    },
+    {
+        "title": "경상국립대, ‘제4회 한·중 디스플레이 워크숍’ 성료",
+        "date": "2025-08-26 16:04",
+        "link": "https://www.cnbnews.com/news/article.html?no=746245"
+    },
+    {
+        "title": "삼성, 27일부터 하반기 공채 시작… 미래 인재 육성 가속화",
+        "date": "2025-08-26 16:03",
+        "link": "https://n.news.naver.com/mnews/article/015/0005175760?sid=101"
+    },
+    {
+        "title": "[SFC IPO] BOE덕 몸값 껑충, 격전지된 PT장",
+        "date": "2025-08-26 16:02",
+        "link": "https://www.the-stock.kr/news/articleView.html?idxno=30996"
+    },
+    {
+        "title": "일론머스크의 xAI, 애플·오픈AI 소송...시장 독점 위해 협력",
+        "date": "2025-08-26 16:00",
+        "link": "https://www.ajunews.com/view/20250826155700288"
+    },
+    {
+        "title": "[ET특징주]KH바텍, 갤럭시 폴더블 폰 흥행 수혜에 상승세",
+        "date": "2025-08-26 15:57",
+        "link": "https://n.news.naver.com/mnews/article/030/0003344031?sid=101"
+    },
+    {
+        "title": "Samsung Leads Global OLED Monitor Market",
+        "date": "2025-08-26 15:50",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=250325"
+    },
+    {
+        "title": "디자인·AI 너머 이제는 '보안폰'···삼성 '실시간 경고' vs '애플 '사전...",
+        "date": "2025-08-26 15:48",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2320237"
+    },
+    {
+        "title": "[글로벌] '시리'에 '제미나이' 도입 논의... AI로 손잡는 애플과 구글",
+        "date": "2025-08-26 15:34",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=143694"
+    },
+    {
+        "title": "머스크 xAI, 애플·오픈AI 고소···“AI 경쟁 막았다”",
+        "date": "2025-08-26 15:33",
+        "link": "https://n.news.naver.com/mnews/article/032/0003392102?sid=104"
+    },
+    {
+        "title": "머스크의 xAI, 애플·오픈AI에 반독점 소송 제기…“반경쟁적 행위”",
+        "date": "2025-08-26 15:30",
+        "link": "https://www.etoday.co.kr/news/view/2500291"
+    },
+    {
+        "title": "빌게이츠 '유퀴즈' 출연…이재용 회장이 선물한 갤럭시 폴더블폰 사용 ...",
+        "date": "2025-08-26 15:26",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=172321"
+    },
+    {
+        "title": "삼성·LG 부품사, 아이폰17 하드웨어 업그레이드 수혜… 실적 개선 신호...",
+        "date": "2025-08-26 15:24",
+        "link": "https://n.news.naver.com/mnews/article/366/0001103044?sid=105"
+    },
+    {
+        "title": "아이폰17 출시 임박…부품업계, 계절성 반등 기대",
+        "date": "2025-08-26 15:24",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1272772&inflow=N"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이 베트남과 179억 장비 공급 계약",
+        "date": "2025-08-26 15:16",
+        "link": "https://n.news.naver.com/mnews/article/293/0000071620?sid=101"
+    },
+    {
+        "title": "메타 스마트글라스 경쟁에 '판정승' 평가, 삼성전자 진출 앞두고 장벽 ...",
+        "date": "2025-08-26 15:06",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=409137"
+    },
+    {
+        "title": "애플 '폴더블 아이폰' 출시, 삼성전자에겐 오히려 호재?",
+        "date": "2025-08-26 15:04",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=414703"
+    },
+    {
+        "title": "중국 2028년 세계 디스플레이 생산능력 75%, 한국은 8%",
+        "date": "2025-08-26 15:04",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=39865"
+    },
+    {
+        "title": "경상국립대, '제4회 한·중 디스플레이 워크숍' 성료",
+        "date": "2025-08-26 14:54",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=445546"
+    },
+    {
+        "title": "[글로벌]블룸버그 애플 아이폰 20주년, 커브드 글래스와 에지 적용할 것...",
+        "date": "2025-08-26 14:44",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=241608"
+    },
+    {
+        "title": "머스크, 또 오픈AI와 법정다툼…“애플과 담합”",
+        "date": "2025-08-26 14:42",
+        "link": "https://n.news.naver.com/mnews/article/029/0002978025?sid=105"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 178억 규모 공급 계약 체결",
+        "date": "2025-08-26 14:40",
+        "link": "https://n.news.naver.com/mnews/article/003/0013443046?sid=101"
+    },
+    {
+        "title": "카드사 결제 시스템 불안…삼성페이, 올해만 네 번째 '먹통'",
+        "date": "2025-08-26 14:38",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=231003"
+    },
+    {
+        "title": "애플, 2026년 폴더블 아이폰 출시…터치ID 부활 예상",
+        "date": "2025-08-26 14:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=587460"
+    },
+    {
+        "title": "애플, LLM 정확도 향상 위한 체크리스트 기법 도입…성능 8.2% 개선",
+        "date": "2025-08-26 14:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=587441"
+    },
+    {
+        "title": "삼성·애플,9월 스마트폰 신제품 '가을 대전'…차세대 주도권 누가 잡나",
+        "date": "2025-08-26 14:20",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=85846"
+    },
+    {
+        "title": "LG디스플레이, 게임스컴·IMID 2025서 OLED 기술 리더십 입증",
+        "date": "2025-08-26 14:20",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=172281"
+    },
+    {
+        "title": "[안전이 곧 경쟁력]⑪삼성SDI, 안전보건 전담 조직 만들어 인사 분리",
+        "date": "2025-08-26 14:10",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=279517"
+    },
+    {
+        "title": "DGIST, 스트레처블 마이크로 LED 디스플레이 핵심소재 개발",
+        "date": "2025-08-26 14:04",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=201569"
+    },
+    {
+        "title": "손흥민 출전 MLS, 애플TV 시즌패스로 본다",
+        "date": "2025-08-26 14:02",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1274587"
+    },
+    {
+        "title": "윤상기 소방청 장비기술국장, 삼성디스플레이 공장 공사장 점검",
+        "date": "2025-08-26 13:40",
+        "link": "http://fpn119.co.kr/239214"
+    },
+    {
+        "title": "애플, 9월9일 아이폰17 공개…역대 가장 얇은 '5.5㎜ 에어'",
+        "date": "2025-08-26 13:28",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=701637"
+    },
+    {
+        "title": "임실 애플망고 수확 본격화…전북 열대과일 재배 새 소득원으로 부상",
+        "date": "2025-08-26 13:24",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=643151"
+    },
+    {
+        "title": "경상국립대, 제4회 한·중 디스플레이 워크숍 성료",
+        "date": "2025-08-26 13:04",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2105358"
+    },
+    {
+        "title": "MSI, 32인치 WQHD 커브드 게이밍 모니터 'MAG 321CQF E18' 출시... Rapid VA ...",
+        "date": "2025-08-26 12:58",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1803353"
+    },
+    {
+        "title": "머스크, 애플·오픈AI 고소...양사 담합해 AI 경쟁 방해",
+        "date": "2025-08-26 12:50",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=201798"
+    },
+    {
+        "title": "경상국립대, '제4회 한/중 디스플레이 워크숍' 성료",
+        "date": "2025-08-26 12:46",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=568967"
+    },
+    {
+        "title": "MSI, Rapid VA 커브드 패널과 AI의 완벽한 조화! 게이밍 모니터 'MAG 321CQF...",
+        "date": "2025-08-26 12:42",
+        "link": "https://kbench.com/?q=node/270656"
+    },
+    {
+        "title": "경상국립대, '제4회 한·중 디스플레이 워크숍' 성료",
+        "date": "2025-08-26 12:14",
+        "link": "https://www.newsgn.com/news/articleView.html?idxno=500377"
+    },
+    {
+        "title": "애플 아이폰 17 시리즈, 제조사 공식 케이스 디자인 유출... '리퀴드 실리...",
+        "date": "2025-08-26 12:06",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1803351"
+    },
+    {
+        "title": "머스크 xAI, 애플과 오픈AI에 반독점 소송…챗GPT만 편애",
+        "date": "2025-08-26 11:48",
+        "link": "https://n.news.naver.com/mnews/article/421/0008448281?sid=104"
+    },
+    {
+        "title": "삼성, 베일 속 가성비 태블릿 '갤럭시 탭 S10 라이트' 공개... 가격 및 국...",
+        "date": "2025-08-26 11:18",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1803348"
+    },
+    {
+        "title": "머스크, 애플-오픈AI 상대 소송…“독점 공모해 경쟁 방해”",
+        "date": "2025-08-26 11:07",
+        "link": "https://n.news.naver.com/mnews/article/020/0003656591?sid=104"
+    },
+    {
+        "title": "일론 머스크 회사 xAI 애플, 오픈AI와 독점 공모 소송 제기",
+        "date": "2025-08-26 11:02",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=276171"
+    },
+    {
+        "title": "머스크 xAI, 오픈AI·애플 제소…챗GPT만 우대해",
+        "date": "2025-08-26 11:01",
+        "link": "https://n.news.naver.com/mnews/article/277/0005642202?sid=101"
+    },
+    {
+        "title": "애플, 2026년 첫 폴더블 아이폰 출시 전망…힌지 공급 경쟁 본격화",
+        "date": "2025-08-26 11:00",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535428"
+    },
+    {
+        "title": "일론 머스크의 xAI, 애플과 오픈AI를 독점 혐의로 제소",
+        "date": "2025-08-26 10:56",
+        "link": "https://www.itworld.co.kr/article/4045679/일론-머스크의-xai-애플과-오픈ai를-독점-혐의로-제소.html"
+    },
+    {
+        "title": "[특징주] KH바텍, 갤럭시 폴더블 폰 흥행 수혜 증권가 전망 '강세'",
+        "date": "2025-08-26 10:56",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/20250826095004526444093b5d4e_1/article.html"
+    },
+    {
+        "title": "中 비보, MR 헤드셋 비보 비전 출시…애플 대항마로 부상하나",
+        "date": "2025-08-26 10:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=587394"
+    },
+    {
+        "title": "애플, 아이폰 20주년 모델에 리퀴드 글래스 디자인 채택 가능성",
+        "date": "2025-08-26 10:54",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=587401"
+    },
+    {
+        "title": "머스크의 xAI, 애플·오픈AI 반독점법 위반 혐의로 제소... 주요 쟁점은...",
+        "date": "2025-08-26 10:50",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1803342"
+    },
+    {
+        "title": "머스크, 애플·오픈AI 상대로 소송…아이폰 이용자 챗GPT 강제",
+        "date": "2025-08-26 10:30",
+        "link": "https://www.cnet.co.kr/view/?no=20250826102323"
+    },
+    {
+        "title": "임실 아열대 과일 ‘애플망고’ 새 소득원 부상",
+        "date": "2025-08-26 10:30",
+        "link": "https://n.news.naver.com/mnews/article/056/0012016379?sid=101"
+    },
+    {
+        "title": "폴더블폰 대중화 수혜… KH바텍, 갤럭시 효과 톡톡 주가 방긋",
+        "date": "2025-08-26 10:28",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=371212"
+    },
+    {
+        "title": "머스크의 xAI, 애플·오픈AI 제소…생성형 AI 시장 불법 독점",
+        "date": "2025-08-26 10:28",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092146350"
+    },
+    {
+        "title": "애플, 2026년 '폴더블 아이폰' 출시 전망…고가 전략 통할까",
+        "date": "2025-08-26 10:20",
+        "link": "https://www.cnet.co.kr/view/?no=20250826101050"
+    },
+    {
+        "title": "IOS 26 등장! 올 가을 달라지는 애플의 보안기능은 무엇?",
+        "date": "2025-08-26 10:18",
+        "link": "https://www.harpersbazaar.co.kr/article/1886782"
+    },
+    {
+        "title": "애플 반독점법 위반 피소...머스크, “오픈AI 우대했다”",
+        "date": "2025-08-26 10:17",
+        "link": "https://n.news.naver.com/mnews/article/009/0005547508?sid=101"
+    },
+    {
+        "title": "일론 머스크 AI회사 xAI, 애플과 오픈AI에 소송...“독점 공보해 경쟁사...",
+        "date": "2025-08-26 10:16",
+        "link": "https://n.news.naver.com/mnews/article/023/0003925316?sid=105"
+    },
+    {
+        "title": "애플, 챗GPT 우대로 경쟁 제한…머스크, 애플·오픈AI에 소송",
+        "date": "2025-08-26 10:04",
+        "link": "https://n.news.naver.com/mnews/article/421/0008447790?sid=105"
+    },
+    {
+        "title": "애플TV 4K, A17 프로 탑재…AI 시대의 스트리밍 경험 변화 예고",
+        "date": "2025-08-26 09:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=587354"
+    },
+    {
+        "title": "애플 에어팟 프로3, 올가을 출시할까…블룸버그 전망",
+        "date": "2025-08-26 09:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=587342"
+    },
+    {
+        "title": "머스크, 애플·오픈AI 독점 공모 의혹 제기 '고소'",
+        "date": "2025-08-26 09:54",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=66456"
+    },
+    {
+        "title": "챗GPT만 우대…머스크의 xAI, 애플·오픈AI 상대 소송",
+        "date": "2025-08-26 09:50",
+        "link": "https://n.news.naver.com/mnews/article/025/0003464388?sid=104"
+    },
+    {
+        "title": "애플, 아이폰17 '에어' 출시 예고…역대 최얇은 5.5mm",
+        "date": "2025-08-26 09:48",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=445412"
+    },
+    {
+        "title": "머스크의 xAI, 애플·오픈AI 상대로 소송… “AI 시장 경쟁 방해” 주장",
+        "date": "2025-08-26 09:40",
+        "link": "https://n.news.naver.com/mnews/article/366/0001102871?sid=105"
+    },
+    {
+        "title": "[특징주] KH바텍, 갤럭시 폴더블 폰 흥행 수혜에 8%↑",
+        "date": "2025-08-26 09:40",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1262122"
+    },
+    {
+        "title": "챗GPT 시리 탑재, AI 경쟁 가로막아…머스크, 애플·오픈AI 제소",
+        "date": "2025-08-26 09:39",
+        "link": "https://n.news.naver.com/mnews/article/003/0013441928?sid=104"
+    },
+    {
+        "title": "일론 머스크 회사 xAI 애플, 오픈AI와 독점 공모 소송 제기",
+        "date": "2025-08-26 09:39",
+        "link": "https://n.news.naver.com/mnews/article/003/0013441925?sid=105"
+    },
+    {
+        "title": "삼성 폴더블폰 쓴다… 빌 게이츠, 이재용 회장 선물에 '활짝'",
+        "date": "2025-08-26 09:38",
+        "link": "https://m.entertain.naver.com/article/417/0001097421"
+    },
+    {
+        "title": "'갤럭시 폴더블폰' 쓰는 빌 게이츠 이재용 회장이 선물",
+        "date": "2025-08-26 09:33",
+        "link": "https://n.news.naver.com/mnews/article/277/0005642091?sid=102"
+    },
+    {
+        "title": "아이폰17프로에 이어 갤S26 울트라도 '폰카' 방점…'카툭튀' 심해질 듯",
+        "date": "2025-08-26 09:24",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=276103"
+    },
+    {
+        "title": "머스크 xAI, 애플·오픈AI 제소…반독점 규정 위반했다",
+        "date": "2025-08-26 09:22",
+        "link": "https://n.news.naver.com/mnews/article/092/0002387631?sid=105"
+    },
+    {
+        "title": "KH바텍, 갤럭시 폴더블 폰 판매 증가 수혜…12%↑[특징주]",
+        "date": "2025-08-26 09:22",
+        "link": "https://n.news.naver.com/mnews/article/018/0006098840?sid=101"
+    },
+    {
+        "title": "머스크의 xAI, 애플·오픈AI에 소송…“챗봇 경쟁 방해”",
+        "date": "2025-08-26 09:07",
+        "link": "https://n.news.naver.com/mnews/article/016/0002519323?sid=104"
+    },
+    {
+        "title": "빌게이츠, '갤럭시 폴더블폰' 사용 중…이재용 회장이 선물",
+        "date": "2025-08-26 08:54",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15782187"
+    },
+    {
+        "title": "천하의 애플, 삼성 '폴더블폰' 세상에 갇힐까[모닝폰]",
+        "date": "2025-08-26 08:51",
+        "link": "https://n.news.naver.com/mnews/article/018/0006098783?sid=105"
+    },
+    {
+        "title": "[영상] 블루 백라이트부터 QD층까지…2025년형 삼성 QLED 분해기",
+        "date": "2025-08-26 08:46",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=65585"
+    },
+    {
+        "title": "스마트 글래스 대신 '에어팟'…애플, AR 전략 변화하나",
+        "date": "2025-08-26 08:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=587304"
+    },
+    {
+        "title": "[인터뷰] '폴더블, AI를 만나다' One UI 8 기획자들에게 듣는 비하인드 ...",
+        "date": "2025-08-26 08:36",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=65579"
+    },
+    {
+        "title": "'그록' 밀어내고 챗GPT 독점? 일론 머스크, 애플·오픈AI에 법적 대응",
+        "date": "2025-08-26 08:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=587298"
+    },
+    {
+        "title": "머스크, 애플·오픈AI 동맹에 선전포고...독점 담합 소송 제기",
+        "date": "2025-08-26 08:32",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535437"
+    },
+    {
+        "title": "아이폰17 프로→에어팟·애플워치 충전, 가능해진다",
+        "date": "2025-08-26 08:31",
+        "link": "https://n.news.naver.com/mnews/article/092/0002387609?sid=105"
+    },
+    {
+        "title": "앱스토어 차별” 머스크 xAI, 애플·오픈AI 상대로 수십억달러 소송 [인...",
+        "date": "2025-08-26 08:28",
+        "link": "https://n.news.naver.com/mnews/article/138/0002203384?sid=105"
+    },
+    {
+        "title": "머스크의 xAI, 애플·오픈AI에 소송...AI시장 경쟁 저해",
+        "date": "2025-08-26 08:26",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=152839"
+    },
+    {
+        "title": "[더벨][다시 뛰는 K-OLED 소부장]이엔에프, 반도체에 역전된 디스플레이...",
+        "date": "2025-08-26 08:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202508201252041120105837"
+    },
+    {
+        "title": "머스크의 xAI, 애플에 소송...오픈AI만 우대해 경쟁 방해",
+        "date": "2025-08-26 08:02",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=672083"
+    },
+    {
+        "title": "'중국 1위 BOE 주춤' K-디스플레이, 중국 따돌릴 절호의 기회",
+        "date": "2025-08-26 08:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=321396"
+    },
+    {
+        "title": "머스크, 애플 및 오픈AI에 소송 제기...오픈AI만 우대",
+        "date": "2025-08-26 07:56",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=123121"
+    },
+    {
+        "title": "[IT썰]머스크, 애플·오픈AI 담합했다며 소송 제기",
+        "date": "2025-08-26 07:53",
+        "link": "https://n.news.naver.com/mnews/article/008/0005240835?sid=105"
+    },
+    {
+        "title": "“왜 챗GPT만 우대해”…머스크, 애플·오픈AI 상대 소송",
+        "date": "2025-08-26 07:44",
+        "link": "https://n.news.naver.com/mnews/article/018/0006098691?sid=101"
+    },
+    {
+        "title": "머스크의 xAI, 애플·오픈AI 상대로 소송…“AI 경쟁사 억제 공모” 주장",
+        "date": "2025-08-26 07:38",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025082605524822533bc914ac71_1/article.html"
+    },
+    {
+        "title": "[더벨][대진첨단소재 2.0]글로벌 공급망 내다본 M&amp;A '소부장 3대축' 구상",
+        "date": "2025-08-26 07:32",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507041433362880107757"
+    },
+    {
+        "title": "일론 머스크의 xAI, 애플·오픈AI에 반독점 소송 제기",
+        "date": "2025-08-26 07:27",
+        "link": "https://n.news.naver.com/mnews/article/030/0003343721?sid=105"
+    },
+    {
+        "title": "애플 ‘아이폰 17’ 출격 ‘임박’…삼성·LG, OLED·카메라모듈 특수 바...",
+        "date": "2025-08-26 07:02",
+        "link": "https://www.ceoscoredaily.com/page/view/2025082514432616934"
+    }
+]
