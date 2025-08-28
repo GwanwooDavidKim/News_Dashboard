@@ -1,1 +1,702 @@
-
+[
+    {
+        "title": "中에 LCD 밀렸지만… 韓, 고부가 OLED선 점유율 격차 확대",
+        "date": "2025-08-29 03:02",
+        "link": "https://n.news.naver.com/mnews/article/020/0003657353?sid=101"
+    },
+    {
+        "title": "공급망 실사, 인권에서 기후로 확대…한국형 법제 설계 본격화",
+        "date": "2025-08-29 00:30",
+        "link": "http://www.impacton.net/news/articleView.html?idxno=16331"
+    },
+    {
+        "title": "아이폰 17 9월 9일 공개…삼성과 점유율 격차 좁힐까",
+        "date": "2025-08-29 00:00",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=300100"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV에 마이크로소프트의 생성형 AI '코파일럿' 탑재",
+        "date": "2025-08-28 23:52",
+        "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=413130"
+    },
+    {
+        "title": "유럽인들이 사랑하는 삼성 갤럭시폰…애플 제치고 왕좌 지켰다",
+        "date": "2025-08-28 21:13",
+        "link": "https://n.news.naver.com/mnews/article/009/0005549389?sid=101"
+    },
+    {
+        "title": "빌게이츠 삼성 폴더블폰 쓴다…이재용이 공짜로 줘",
+        "date": "2025-08-28 21:10",
+        "link": "https://n.news.naver.com/mnews/article/422/0000775525?sid=103"
+    },
+    {
+        "title": "삼성·LG디스플레이 점유율엔 반전 없다",
+        "date": "2025-08-28 21:01",
+        "link": "https://n.news.naver.com/mnews/article/024/0000099547?sid=101"
+    },
+    {
+        "title": "韓·美·印 모두 삼성에 반했다...비결은 다양한 '선택지'",
+        "date": "2025-08-28 21:00",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=266444"
+    },
+    {
+        "title": "디스플레이 韓中전…고부가 OLED ‘66 대 34’로 앞섰다",
+        "date": "2025-08-28 20:54",
+        "link": "https://n.news.naver.com/mnews/article/020/0003657326?sid=101"
+    },
+    {
+        "title": "아이폰17 공개 임박…이통3사, 보조금 경쟁 '잠잠'",
+        "date": "2025-08-28 18:58",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=346746"
+    },
+    {
+        "title": "아이폰용 OLED 패널, 韓·中 공급망 '견고' ....삼성디스플레이, 아이폰...",
+        "date": "2025-08-28 18:52",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=73347"
+    },
+    {
+        "title": "'세계 1위' 애플, AI+스마트폰+규제 삼중고 직면… 경쟁력 가능성은",
+        "date": "2025-08-28 18:34",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=274707"
+    },
+    {
+        "title": "안쓸땐 숨는 '현대판 우렁각시'…LG전자, 빌트인 로봇청소기 출격",
+        "date": "2025-08-28 18:32",
+        "link": "https://n.news.naver.com/mnews/article/015/0005177014?sid=101"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 18:26",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160289387147917"
+    },
+    {
+        "title": "삼성 TV에 마이크로소프트 'AI' 들어온다",
+        "date": "2025-08-28 18:20",
+        "link": "https://www.sisaweek.com/news/articleView.html?idxno=228521"
+    },
+    {
+        "title": "갤탭S11·갤S25FE 유럽 최대 가전 전시회서 '첫선'",
+        "date": "2025-08-28 18:16",
+        "link": "https://n.news.naver.com/mnews/article/014/0005398382?sid=105"
+    },
+    {
+        "title": "다음달 신제품 내놓는 애플, 고속 질주하는 삼성에 도전장",
+        "date": "2025-08-28 18:00",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=271077"
+    },
+    {
+        "title": "‘아이폰17’ 출격 임박, 삼성·샤오미 ‘맞불’…삼성 준프리미엄폰 ‘...",
+        "date": "2025-08-28 17:42",
+        "link": "https://www.ceoscoredaily.com/page/view/2025082816555354473"
+    },
+    {
+        "title": "내년 디스플레이 핵심 기술은?…유비리서치, 내달 '전략 세미나'",
+        "date": "2025-08-28 17:29",
+        "link": "https://n.news.naver.com/mnews/article/003/0013448651?sid=101"
+    },
+    {
+        "title": "삼성·애플 하반기 신제품 '빅매치'…삼성이 유리한 이유 3가지",
+        "date": "2025-08-28 17:28",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250828010014383"
+    },
+    {
+        "title": "삼성전자, 2분기 유럽 스마트폰 시장 1위…애플과 12%p 격차",
+        "date": "2025-08-28 17:23",
+        "link": "https://n.news.naver.com/mnews/article/031/0000960813?sid=105"
+    },
+    {
+        "title": "가성비폰 ‘갤럭시 S25 FE’, 베를린서 베일 벗는다…4일 공개",
+        "date": "2025-08-28 17:05",
+        "link": "https://n.news.naver.com/mnews/article/029/0002978739?sid=105"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 생성형 AI '코파일럿' ...",
+        "date": "2025-08-28 17:02",
+        "link": "http://www.hg-times.com/news/articleView.html?idxno=274952"
+    },
+    {
+        "title": "아이폰17 OLED 패널 경쟁 격화…내년까지 삼성·LGD·BOE '3파전' [소부장...",
+        "date": "2025-08-28 16:58",
+        "link": "https://n.news.naver.com/mnews/article/138/0002203644?sid=105"
+    },
+    {
+        "title": "삼성D, 아이폰17에 7800만대 패널 공급…최대 공급사",
+        "date": "2025-08-28 16:55",
+        "link": "https://n.news.naver.com/mnews/article/003/0013448537?sid=101"
+    },
+    {
+        "title": "더 얇게, 더 많이 접는다…삼성-애플, 차세대 스마트폰 '대격돌'",
+        "date": "2025-08-28 16:54",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=231145"
+    },
+    {
+        "title": "스마트폰 두께 '5mm'대 경쟁...삼성vs애플 정면승부",
+        "date": "2025-08-28 16:42",
+        "link": "http://www.metroseoul.co.kr/article/20250828500597"
+    },
+    {
+        "title": "삼성 갤럭시 스마트폰, 유럽서 2분기 1위 수성",
+        "date": "2025-08-28 16:34",
+        "link": "https://n.news.naver.com/mnews/article/011/0004526377?sid=101"
+    },
+    {
+        "title": "애플, '아이폰17' 이후 18개월간 신제품 출시 없다?...역대 최장 출시 간...",
+        "date": "2025-08-28 16:28",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535570"
+    },
+    {
+        "title": "에스켐, OLED 소재 포트폴리오 다변화로 고성장 기대",
+        "date": "2025-08-28 16:22",
+        "link": "https://www.the-stock.kr/news/articleView.html?idxno=31006"
+    },
+    {
+        "title": "삼성전자 스마트폰 2분기 유럽서 36% 점유율로 1위 수성, 애플 24%로 2위",
+        "date": "2025-08-28 16:22",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=409540"
+    },
+    {
+        "title": "갤럭시-아이폰, 9월 격돌…‘스마트폰 왕좌의 게임’ 승자는?",
+        "date": "2025-08-28 16:14",
+        "link": "https://www.ekn.kr/web/view.php?key=20250828020421395"
+    },
+    {
+        "title": "삼성, 유럽 스마트폰 점유율 36%…시장 위축에도 '1위' 수성",
+        "date": "2025-08-28 16:09",
+        "link": "https://n.news.naver.com/mnews/article/422/0000775413?sid=101"
+    },
+    {
+        "title": "[홈&amp;테크]작은 고추가 맵다 … 작아도 성능 강력한 교원웰스 '슬림원' 정...",
+        "date": "2025-08-28 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003344923?sid=105"
+    },
+    {
+        "title": "AI 플랫폼 기반 게이밍 PC, 차세대 게이밍 경험의 시작",
+        "date": "2025-08-28 16:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=55821"
+    },
+    {
+        "title": "삼성전자 '애플 아이폰 AI' 추격 저지할까, '퍼플렉시티' 인수·협력 놓...",
+        "date": "2025-08-28 15:54",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=409518"
+    },
+    {
+        "title": "일론 머스크, 애플은 쳇지피티(OpenAI) 편만 든다 반독점법 위반 소송...",
+        "date": "2025-08-28 15:52",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=392464"
+    },
+    {
+        "title": "애플, 230.49달러 0.51% 상승 마감",
+        "date": "2025-08-28 15:46",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=173062"
+    },
+    {
+        "title": "삼성D, 아이폰17에 패널 7800만대 공급 전망…1위 유지할 듯",
+        "date": "2025-08-28 15:42",
+        "link": "https://n.news.naver.com/mnews/article/031/0000960778?sid=105"
+    },
+    {
+        "title": "내년 아이폰용 OLED 패널도 韓·中 공급망 '견고'",
+        "date": "2025-08-28 15:41",
+        "link": "https://n.news.naver.com/mnews/article/092/0002388102?sid=105"
+    },
+    {
+        "title": "한국 디스플레이, 3년만에 분기 매출 100억달러 재돌파",
+        "date": "2025-08-28 15:38",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=39982"
+    },
+    {
+        "title": "“새로운 갤S25 패밀리 공개”…삼성, IFA서 갤럭시 이벤트 개최",
+        "date": "2025-08-28 15:36",
+        "link": "http://www.segyebiz.com/newsView/20250828513547?OutUrl=naver"
+    },
+    {
+        "title": "iOS 26, 완전히 새로워진 아이콘 공개…애플 감성 더해",
+        "date": "2025-08-28 15:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=588114"
+    },
+    {
+        "title": "Z세대 '갤럭시'…삼성의 세대교체 전략 먹혔다",
+        "date": "2025-08-28 15:14",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=709191"
+    },
+    {
+        "title": "삼성·LG부품사, ‘초슬림’ 아이폰으로 초격차 기술력 발휘",
+        "date": "2025-08-28 15:14",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1273039&inflow=N"
+    },
+    {
+        "title": "불붙은 삼성·애플 '슬림폰' 경쟁…'아이폰17' 공개 임박",
+        "date": "2025-08-28 15:02",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065591414325589"
+    },
+    {
+        "title": "'신작 대결' 앞둔 삼성·애플…美 관세 앞 승자는 누구?",
+        "date": "2025-08-28 14:52",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=371905"
+    },
+    {
+        "title": "[단독] “드디어 나온다” 삼성 ‘야심작’ 베일 벗었다…‘글라시스 매...",
+        "date": "2025-08-28 14:46",
+        "link": "https://n.news.naver.com/mnews/article/016/0002520848?sid=105"
+    },
+    {
+        "title": "삼성 갤럭시, 유럽 스마트폰 시장 부진 속 1위 굳건",
+        "date": "2025-08-28 14:28",
+        "link": "https://www.etoday.co.kr/news/view/2501074"
+    },
+    {
+        "title": "삼성D, 아이폰 17시리즈에 7천800만대 패널 공급…1위 유지",
+        "date": "2025-08-28 14:21",
+        "link": "https://n.news.naver.com/mnews/article/001/0015592054?sid=101"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 14:20",
+        "link": "http://www.metroseoul.co.kr/article/20250828500404"
+    },
+    {
+        "title": "구글 이어 MS 손 잡은 삼성전자, 2025년형 TV·모니터에 코파일럿 탑재",
+        "date": "2025-08-28 14:20",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=300107"
+    },
+    {
+        "title": "삼성·LG디스플레이, 상반기 회복세 확인…하반기 폴더블·전장 패널 확...",
+        "date": "2025-08-28 14:18",
+        "link": "https://www.newspim.com/news/view/20250828000662"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 코파일럿 탑재",
+        "date": "2025-08-28 14:14",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=110732"
+    },
+    {
+        "title": "프리미엄 스마트워치의 귀환…애플워치 울트라3, 꼭 알아야 할 변화",
+        "date": "2025-08-28 14:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=588091"
+    },
+    {
+        "title": "삼성전자 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 14:12",
+        "link": "https://hobbyen-news.com/news/view/1065589792134915"
+    },
+    {
+        "title": "구글, 안드로이드 앱 검증 강화…애플식 폐쇄 정책으로 선회?",
+        "date": "2025-08-28 14:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=588090"
+    },
+    {
+        "title": "스마트폰 대체할 '스마트 안경' 시대 온다...메타 이어 구글-삼전·애플...",
+        "date": "2025-08-28 13:58",
+        "link": "https://n.news.naver.com/mnews/article/215/0001221693?sid=101"
+    },
+    {
+        "title": "삼성, 내달 4일 IFA서 갤럭시 탭 S11·S25 FE 공개",
+        "date": "2025-08-28 13:55",
+        "link": "https://n.news.naver.com/mnews/article/014/0005398143?sid=105"
+    },
+    {
+        "title": "애플, 아이폰17 공개 앞두고…삼성·화웨이 한발 빠른 '공세'",
+        "date": "2025-08-28 13:55",
+        "link": "https://n.news.naver.com/mnews/article/015/0005176746?sid=105"
+    },
+    {
+        "title": "제이엔비, 삼성ㆍ애플 차세대 칩 프로젝트에 스태커 시스템 연계 납품 ...",
+        "date": "2025-08-28 13:50",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=232173"
+    },
+    {
+        "title": "독일 법원, 애플워치 탄소중립 아냐…소비자 오도 판결",
+        "date": "2025-08-28 13:38",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=66529"
+    },
+    {
+        "title": "스마트 글라스가 꽃 피운 XR 시대, K-디스플레이 미래는?",
+        "date": "2025-08-28 13:26",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1676291"
+    },
+    {
+        "title": "LG이노텍 애플 의존 줄여라 특명...'기판·전장·로봇' 미래사업 다각...",
+        "date": "2025-08-28 13:26",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1676293"
+    },
+    {
+        "title": "韓 디스플레이 1Q 매출 전년比 22%↑, 3년만 100억불 돌파",
+        "date": "2025-08-28 13:24",
+        "link": "http://amenews.kr/news/view.php?idx=63631"
+    },
+    {
+        "title": "[센터엔터] 빌게이츠 삼성 폴더블폰 쓴다…이재용이 공짜로 줘 外",
+        "date": "2025-08-28 13:15",
+        "link": "https://n.news.naver.com/mnews/article/422/0000775347?sid=103"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 12:48",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=102049"
+    },
+    {
+        "title": "갤럭시 보급형 출격… 삼성, 내달 IFA서 갤 S25 FE·탭 S11 공개",
+        "date": "2025-08-28 12:06",
+        "link": "https://n.news.naver.com/mnews/article/021/0002732498?sid=101"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 11:57",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=649241"
+    },
+    {
+        "title": "소비자용 로봇 시대, 애플처럼 가전·폰·로봇 엮은 생태계 필요[인터...",
+        "date": "2025-08-28 11:50",
+        "link": "https://n.news.naver.com/mnews/article/003/0013447379?sid=101"
+    },
+    {
+        "title": "삼성·LGD, 아이폰17 출시에 출하 증가 전망…中 BOE는 '프로' 공략",
+        "date": "2025-08-28 11:35",
+        "link": "https://n.news.naver.com/mnews/article/018/0006100547?sid=101"
+    },
+    {
+        "title": "삼성전자, IFA서 ‘갤럭시 S25 FE’ 공개 예정…올해 세 번째 S25 시리즈...",
+        "date": "2025-08-28 11:32",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=861946"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV에 마이크로소프트 AI '코파일럿' 탑재",
+        "date": "2025-08-28 11:26",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=212795"
+    },
+    {
+        "title": "애플, 에어태그2 9월 공개 유력…더 강력한 기능 탑재",
+        "date": "2025-08-28 11:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=588036"
+    },
+    {
+        "title": "아이폰17 대폭 업그레이드에 삼성 '긴장' LG '기대'… 표정 엇갈리는 까...",
+        "date": "2025-08-28 11:20",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/08/28/2025082800168.html"
+    },
+    {
+        "title": "2025년 스마트폰 시장 전망…'폴더블폰' 확산 주역",
+        "date": "2025-08-28 11:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=588019"
+    },
+    {
+        "title": "삼성전자 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 11:18",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=772065"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 11:18",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1071888"
+    },
+    {
+        "title": "韓디스플레이 분기매출, 3년만에 100억弗 회복…OLED 성장 견인",
+        "date": "2025-08-28 11:12",
+        "link": "https://n.news.naver.com/mnews/article/016/0002520699?sid=101"
+    },
+    {
+        "title": "삼성전자, IFA 2025서 갤럭시 S25 FE 공개",
+        "date": "2025-08-28 11:12",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=251170"
+    },
+    {
+        "title": "구글·애플, 동맹 깨지나…검색 독점 판결이 가져올 변화",
+        "date": "2025-08-28 11:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=587965"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 11:08",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=270992"
+    },
+    {
+        "title": "LG디스플레이, 아이폰용 탠덤 OLED 기술 개발 루머",
+        "date": "2025-08-28 11:06",
+        "link": "https://kbench.com/?q=node/270750"
+    },
+    {
+        "title": "삼성전자, 9월 ‘IFA 2025’서 갤럭시 S25 FE 등 신제품 선보인다",
+        "date": "2025-08-28 11:06",
+        "link": "https://www.ceoscoredaily.com/page/view/2025082809444072680"
+    },
+    {
+        "title": "초박형 혁신으로 돌아온 아이폰 17 에어, 기대와 우려 교차",
+        "date": "2025-08-28 10:54",
+        "link": "https://www.daily365.news/2025/08/28/%ec%b4%88%eb%b0%95%ed%98%95-%ed%98%81%ec%8b%a0%ec%9c%bc%eb%a1%9c-%eb%8f%8c%ec%95%84%ec%98%a8-%ec%95%84%ec%9d%b4%ed%8f%b0-17-%ec%97%90%ec%96%b4-%ea%b8%b0%eb%8c%80%ec%99%80-%ec%9a%b0%eb%a0%a4-%ea%b5%90/"
+    },
+    {
+        "title": "모바일 신제품에 AI 홈 경험까지…삼성·LG전자 'IFA 2025' 출격 준비",
+        "date": "2025-08-28 10:53",
+        "link": "https://n.news.naver.com/mnews/article/629/0000420678?sid=101"
+    },
+    {
+        "title": "K-디스플레이, 분기 매출 3년 만에 100억달러 돌파…OLED의 힘",
+        "date": "2025-08-28 10:50",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=321592"
+    },
+    {
+        "title": "삼성전자, IFA서 갤럭시 S25 FE·탭 S11 공개",
+        "date": "2025-08-28 10:38",
+        "link": "https://n.news.naver.com/mnews/article/030/0003344694?sid=105"
+    },
+    {
+        "title": "애플, AI 스타트업 인수 논의 무산…위험 감수 의지 부족 지적",
+        "date": "2025-08-28 10:36",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=98660"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 ‘코파일럿’ 탑재",
+        "date": "2025-08-28 10:36",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=187804"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 ‘코파일럿’ 탑재",
+        "date": "2025-08-28 10:32",
+        "link": "http://journal.kobeta.com/?post_type=post&p=60202"
+    },
+    {
+        "title": "화웨이, 2세대 3단 폴더블폰 '메이트 XTs' 9월 4일 공개",
+        "date": "2025-08-28 10:30",
+        "link": "https://kbench.com/?q=node/270744"
+    },
+    {
+        "title": "삼성전자 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 10:28",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=241684"
+    },
+    {
+        "title": "초슬림 다음은 보급형…삼성, 갤S25 FE 내달 선보인다",
+        "date": "2025-08-28 10:22",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=276382"
+    },
+    {
+        "title": "삼성, IFA 2025서 갤 S25 FE·갤탭 S11 시리즈 공개한다",
+        "date": "2025-08-28 10:18",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=222118"
+    },
+    {
+        "title": "中매장 문 닫는다더니…애플이 중국 대신 눈길 돌린 '이곳'",
+        "date": "2025-08-28 10:16",
+        "link": "https://n.news.naver.com/mnews/article/015/0005176623?sid=105"
+    },
+    {
+        "title": "삼성전자 2025년형 TV·모니터에 MS '코파일럿' 탑재",
+        "date": "2025-08-28 10:04",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2093927"
+    },
+    {
+        "title": "기가바이트, 500Hz 주사율 27인치 QD-OLED 게이밍 모니터 AORUS FO27Q5P 출시",
+        "date": "2025-08-28 10:02",
+        "link": "https://kbench.com/?q=node/270738"
+    },
+    {
+        "title": "삼성전자, IFA 2025서 갤럭시 S25 FE 공개…“가성비 프리미엄폰” 승부...",
+        "date": "2025-08-28 10:02",
+        "link": "https://www.tokenpost.kr/news/tech/280781"
+    },
+    {
+        "title": "완전히 새로워진 커버 디스플레이 갖춘 ‘삼성전자 갤럭시 Z플립7 자급...",
+        "date": "2025-08-28 10:00",
+        "link": "https://news.appstory.co.kr/daily18458"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재... 일...",
+        "date": "2025-08-28 10:00",
+        "link": "http://www.newslock.co.kr/news/articleView.html?idxno=114533"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 10:00",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=91840"
+    },
+    {
+        "title": "애플 행사 초대장에서 사실상 확인된 아이폰 17 소문 5가지",
+        "date": "2025-08-28 09:56",
+        "link": "https://www.itworld.co.kr/article/4047217/애플-행사-초대장에서-사실상-확인된-아이폰-17-소문-5가.html"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 09:56",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535547"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 09:50",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=663988"
+    },
+    {
+        "title": "빌 게이츠 이재용 회장이 선물한 공짜 폴더블폰 쓴다",
+        "date": "2025-08-28 09:43",
+        "link": "https://n.news.naver.com/mnews/article/053/0000051983?sid=101"
+    },
+    {
+        "title": "TSMC, 4분기 2나노 대량생산 시작…애플 절반 물량 선점",
+        "date": "2025-08-28 09:40",
+        "link": "https://kbench.com/?q=node/270736"
+    },
+    {
+        "title": "삼성전자, IFA서 갤럭시 S25 FE·탭 S11 선보인다",
+        "date": "2025-08-28 09:39",
+        "link": "https://n.news.naver.com/mnews/article/011/0004526154?sid=101"
+    },
+    {
+        "title": "삼성전자, 'IFA 2025'서 갤럭시 S25 FE 공개 예고",
+        "date": "2025-08-28 09:38",
+        "link": "https://www.ajunews.com/view/20250828092833413"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재 ....일...",
+        "date": "2025-08-28 09:36",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=73299"
+    },
+    {
+        "title": "노골적으로 경쟁사 깎아내린 샤오미…삼성·애플, 법적 조치 배제 않겠...",
+        "date": "2025-08-28 09:33",
+        "link": "https://n.news.naver.com/mnews/article/138/0002203577?sid=105"
+    },
+    {
+        "title": "애플 아이폰16, '가성비폰' 자리 차지할까…가격 인하 여부 관심",
+        "date": "2025-08-28 09:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=587941"
+    },
+    {
+        "title": "삼성 트라이폴드 내놓기 전에…100만원 가격 인하 승부수 던지는 화웨...",
+        "date": "2025-08-28 09:32",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=276359"
+    },
+    {
+        "title": "스마트폰 흑역사 ‘빌 게이츠’의 평가...“삼성 폴더블폰 아주 좋은 기...",
+        "date": "2025-08-28 09:29",
+        "link": "https://n.news.naver.com/mnews/article/009/0005548784?sid=101"
+    },
+    {
+        "title": "삼성, 내달 4일 신형 갤럭시 탭 S11. S25 FE '깜짝 Unpacked'",
+        "date": "2025-08-28 09:16",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=535544"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 09:16",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=93289"
+    },
+    {
+        "title": "삼성전자 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 09:06",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=194116"
+    },
+    {
+        "title": "삼성전자, TV·모니터에 마이크로소프트 AI '코파일럿' 탑재",
+        "date": "2025-08-28 09:04",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3956310"
+    },
+    {
+        "title": "삼성전자, TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 09:02",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=222085"
+    },
+    {
+        "title": "삼성전자 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 09:02",
+        "link": "https://www.fetv.co.kr/news/article.html?no=199868"
+    },
+    {
+        "title": "삼성전자, TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 09:00",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=109578"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 ‘코파일럿’ 탑재",
+        "date": "2025-08-28 08:58",
+        "link": "https://n.news.naver.com/mnews/article/366/0001103467?sid=105"
+    },
+    {
+        "title": "삼성과 애플, AI 시대 스마트폰 ‘플랫폼 주도권’ 경쟁 과열",
+        "date": "2025-08-28 08:52",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202508280810439483fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 AI 싣는다",
+        "date": "2025-08-28 08:50",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=405840"
+    },
+    {
+        "title": "아이폰17 에어, 이렇게 나온다…7가지 획기적 기능",
+        "date": "2025-08-28 08:48",
+        "link": "https://n.news.naver.com/mnews/article/092/0002387978?sid=105"
+    },
+    {
+        "title": "애플, TSMC 2나노 절반 선점…아이폰18 A19·A20칩 탑재 가속화 [소부장반...",
+        "date": "2025-08-28 08:42",
+        "link": "https://n.news.naver.com/mnews/article/138/0002203564?sid=105"
+    },
+    {
+        "title": "삼성전자 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 08:42",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=445956"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 08:42",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=65708"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 AI 싣는다",
+        "date": "2025-08-28 08:42",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=371811"
+    },
+    {
+        "title": "초슬림 다음은 보급형…삼성, 갤S25 FE 내달 선보인다",
+        "date": "2025-08-28 08:39",
+        "link": "https://n.news.naver.com/mnews/article/003/0013446590?sid=105"
+    },
+    {
+        "title": "삼성전자 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 08:37",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000079000"
+    },
+    {
+        "title": "[기업이슈] 애플, 내달 가을 이벤트…초슬림 아이폰 기대에 관련주↑",
+        "date": "2025-08-28 08:36",
+        "link": "https://n.news.naver.com/mnews/article/374/0000459927?sid=101"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 08:32",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=232129"
+    },
+    {
+        "title": "삼성전자 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 08:26",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=402177"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV·모니터에 마이크로소프트 '코파일럿' 탑재",
+        "date": "2025-08-28 08:26",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=95610"
+    },
+    {
+        "title": "삼성전자 2025년형 TV·모니터, 마이크로소프트 AI 탑재",
+        "date": "2025-08-28 08:22",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250828010013907"
+    },
+    {
+        "title": "삼성전자, 2025년형 TV에 마이크로소프트 AI '코파일럿' 탑재",
+        "date": "2025-08-28 08:19",
+        "link": "https://n.news.naver.com/mnews/article/001/0015590849?sid=101"
+    },
+    {
+        "title": "삼성전자, 마이크로소프트 '코파일럿' 탑재…AI 스크린 역할 강화",
+        "date": "2025-08-28 08:06",
+        "link": "https://www.sentv.co.kr/article/view/sentv202508280010"
+    },
+    {
+        "title": "빌 게이츠 “이재용이 선물한 폴더블 폰 써…韓은 혁신적인 나라”",
+        "date": "2025-08-28 07:36",
+        "link": "https://n.news.naver.com/mnews/article/016/0002520448?sid=103"
+    },
+    {
+        "title": "애플, 다음달 9일 아이폰17 시리즈 공개…가장 얇은 아이폰 탄생한다”",
+        "date": "2025-08-28 07:14",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025082806333122733bc914ac71_1/article.html"
+    }
+]
