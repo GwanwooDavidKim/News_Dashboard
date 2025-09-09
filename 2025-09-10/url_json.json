@@ -1,1 +1,677 @@
-
+[
+    {
+        "title": "'역대 가장 얇은 아이폰' 베일 벗었다…아이폰 에어 출시",
+        "date": "2025-09-10 04:58",
+        "link": "https://n.news.naver.com/mnews/article/422/0000779618?sid=101"
+    },
+    {
+        "title": "차세대 에어팟프로부터 건강 기능 강화한 워치까지… 웨어러블 힘준 애...",
+        "date": "2025-09-10 04:52",
+        "link": "https://n.news.naver.com/mnews/article/366/0001106743?sid=105"
+    },
+    {
+        "title": "애플, 성능 향상 ‘아이폰17 시리즈’ 발표...보이지 않는 ‘AI’ 혁신",
+        "date": "2025-09-10 04:50",
+        "link": "https://n.news.naver.com/mnews/article/018/0006111482?sid=105"
+    },
+    {
+        "title": "[아이폰17] 애플, '아이폰 에어' 공개…성능·내구성 잡았다",
+        "date": "2025-09-10 04:50",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=710722"
+    },
+    {
+        "title": "베일 벗은 아이폰17, 120㎐ 주사율 최초 지원…韓 가격 4만원 인상",
+        "date": "2025-09-10 04:48",
+        "link": "https://n.news.naver.com/mnews/article/003/0013471507?sid=105"
+    },
+    {
+        "title": "애플, 역대 가장 얇은 '아이폰 에어'·아이폰17 시리즈 공개",
+        "date": "2025-09-10 04:41",
+        "link": "https://www.newspim.com/news/view/20250910000007"
+    },
+    {
+        "title": "역대 가장 얇은 아이폰 베일 벗었다…'아이폰 에어' 출시",
+        "date": "2025-09-10 04:41",
+        "link": "https://n.news.naver.com/mnews/article/001/0015615838?sid=104"
+    },
+    {
+        "title": "베일 벗은 아이폰 17…발열 잡고 카메라 높여 프리미엄 '정조준'",
+        "date": "2025-09-10 04:41",
+        "link": "https://n.news.naver.com/mnews/article/119/0003000770?sid=105"
+    },
+    {
+        "title": "애플 '아이폰 에어' 측면 두께 5.6㎜ 미래를 손에 쥔 듯한 느낌",
+        "date": "2025-09-10 04:35",
+        "link": "https://n.news.naver.com/mnews/article/031/0000964033?sid=105"
+    },
+    {
+        "title": "애플, 역대 가장 얇은 아이폰 '에어' 공개",
+        "date": "2025-09-10 04:33",
+        "link": "https://n.news.naver.com/mnews/article/374/0000462278?sid=104"
+    },
+    {
+        "title": "역대 가장 얇은 5.6㎜ '아이폰 에어' 등장…韓 출시가 159만원부터",
+        "date": "2025-09-10 04:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0013471506?sid=105"
+    },
+    {
+        "title": "[아이폰17] 5G·AI·헬스 기능 강화…애플워치 11·울트라3·SE3 공개",
+        "date": "2025-09-10 04:16",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=710721"
+    },
+    {
+        "title": "카메라 키운 '아이폰 17 프로'...베이퍼 챔버 탑재로 발열 제어 성능 'UP...",
+        "date": "2025-09-10 04:16",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=144216"
+    },
+    {
+        "title": "애플, ‘에어팟 프로3’ 공개…ANC·심박 센싱·실시간 번역 지원",
+        "date": "2025-09-10 04:14",
+        "link": "https://n.news.naver.com/mnews/article/018/0006111481?sid=105"
+    },
+    {
+        "title": "애플, 역대 가장 얇은 '아이폰 에어' 공개…미래에서 온 듯한 디자인",
+        "date": "2025-09-10 04:12",
+        "link": "https://n.news.naver.com/mnews/article/277/0005649449?sid=105"
+    },
+    {
+        "title": "애플, 아이폰17 에어 공개…티타늄 몸체에 139만원부터 시작",
+        "date": "2025-09-10 04:07",
+        "link": "https://n.news.naver.com/mnews/article/014/0005404259?sid=101"
+    },
+    {
+        "title": "애플, 애플워치 시리즈11·울트라3 공개…배터리·내구성 강화",
+        "date": "2025-09-10 04:04",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092147185"
+    },
+    {
+        "title": "애플, 초슬림 ‘아이폰 에어’ 공개…두께 5.6mm에 프로급 성능 담았다",
+        "date": "2025-09-10 04:00",
+        "link": "https://n.news.naver.com/mnews/article/018/0006111479?sid=105"
+    },
+    {
+        "title": "초슬림 '아이폰 17 에어' 첫선…역대 가장 얇은 5.6㎜",
+        "date": "2025-09-10 03:55",
+        "link": "https://n.news.naver.com/mnews/article/119/0003000765?sid=105"
+    },
+    {
+        "title": "애플, 초슬림 ‘아이폰 에어’ 공개...999달러부터 출시",
+        "date": "2025-09-10 03:53",
+        "link": "https://n.news.naver.com/mnews/article/014/0005404257?sid=105"
+    },
+    {
+        "title": "미래에서 온 아이폰...5.6mm 두께 '아이폰 에어' 등장",
+        "date": "2025-09-10 03:50",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=144215"
+    },
+    {
+        "title": "애플, ‘애플워치 시리즈11’ 공개…고혈압 알림·수면 점수로 건강관리...",
+        "date": "2025-09-10 03:48",
+        "link": "https://n.news.naver.com/mnews/article/018/0006111478?sid=105"
+    },
+    {
+        "title": "[아이폰17] 애플, 3년 만의 신작 '에어팟 프로 3' 공개",
+        "date": "2025-09-10 03:44",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=710720"
+    },
+    {
+        "title": "4800만화소·세라믹바디 ‘아이폰17 프로’ 공개…가격 100달러 인상",
+        "date": "2025-09-10 03:40",
+        "link": "https://n.news.naver.com/mnews/article/018/0006111477?sid=105"
+    },
+    {
+        "title": "[종합] 애플, 아이폰17·에어·프로부터 에어팟·애플워치까지…AI 시대...",
+        "date": "2025-09-10 03:36",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204509?sid=105"
+    },
+    {
+        "title": "[아이폰17 공개] 애플, ‘아이폰17 프로’ 공개…세라믹 바디·48MP 트리...",
+        "date": "2025-09-10 03:30",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204508?sid=105"
+    },
+    {
+        "title": "애플, 아이폰17 시리즈 가격 공개…최고가 모델 1,199달러",
+        "date": "2025-09-10 03:26",
+        "link": "https://www.tokenpost.kr/news/breaking/284252"
+    },
+    {
+        "title": "[긴급] 애플 신제품 공개...장중 애플 · 브로드컴 주가 '뚝'",
+        "date": "2025-09-10 03:26",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=153707"
+    },
+    {
+        "title": "[아이폰17 공개] ‘아이폰 에어’, 초박형 디자인에 프로급 성능 품고 등...",
+        "date": "2025-09-10 03:24",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204507?sid=105"
+    },
+    {
+        "title": "애플, 초슬림 '아이폰 에어’ 모델 첫선…갤럭시 S25엣지보다 얇다",
+        "date": "2025-09-10 03:22",
+        "link": "https://n.news.naver.com/mnews/article/018/0006111476?sid=101"
+    },
+    {
+        "title": "애플, '아이폰 17' 기본 모델도 120Hz 주사율 '프로모션' 기능 지원",
+        "date": "2025-09-10 03:20",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=144214"
+    },
+    {
+        "title": "[아이폰17 공개] 애플, ‘아이폰17’ 공개…카메라·디스플레이·AI 전방...",
+        "date": "2025-09-10 03:20",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204506?sid=105"
+    },
+    {
+        "title": "애플, 아이폰17 프로 공개…신기능 대거 탑재",
+        "date": "2025-09-10 03:12",
+        "link": "https://www.tokenpost.kr/news/breaking/284248"
+    },
+    {
+        "title": "애플, 역대 가장 얇은 '아이폰 에어' 공개",
+        "date": "2025-09-10 02:56",
+        "link": "https://www.tokenpost.kr/news/breaking/284245"
+    },
+    {
+        "title": "[아이폰17 공개] 애플워치 시리즈11 공개…온디바이스 AI ‘맞춤형 건강...",
+        "date": "2025-09-10 02:53",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204505?sid=105"
+    },
+    {
+        "title": "애플, 차세대 '애플워치 11'에 혈압 측정 기능 탑재...'SE3·울트라3'도 ...",
+        "date": "2025-09-10 02:52",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=144213"
+    },
+    {
+        "title": "[아이폰17 공개] 애플, 보급형 스마트워치 ‘애플워치SE3’ 공개…AOD·수...",
+        "date": "2025-09-10 02:49",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204504?sid=105"
+    },
+    {
+        "title": "[아이폰17 공개] ‘애플워치 울트라3’… 위성 구조 요청부터 혈압 알림...",
+        "date": "2025-09-10 02:45",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204503?sid=105"
+    },
+    {
+        "title": "애플, 아이폰 17 공개",
+        "date": "2025-09-10 02:42",
+        "link": "https://www.tokenpost.kr/news/breaking/284243"
+    },
+    {
+        "title": "애플, 역대 가장 얇은 아이폰17 에어 공개…두께 5.6mm",
+        "date": "2025-09-10 02:32",
+        "link": "https://n.news.naver.com/mnews/article/366/0001106742?sid=105"
+    },
+    {
+        "title": "[아이폰17 공개] 애플, 에어팟 프로 3 공개…실시간 음성 번역 지원에 가...",
+        "date": "2025-09-10 02:22",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204502?sid=105"
+    },
+    {
+        "title": "애플, '에어팟 프로3' 공개...ANC 기능 2배 향상",
+        "date": "2025-09-10 02:20",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=144212"
+    },
+    {
+        "title": "산청군, 25억 투입 '애플망고 단지' 조성",
+        "date": "2025-09-10 00:40",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=280968"
+    },
+    {
+        "title": "포항시-애플 제조업 R&amp;D 지원센터, '스마트 제조 포럼' 개최",
+        "date": "2025-09-09 23:34",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=257715"
+    },
+    {
+        "title": "산청군, 25억 들여 고품질 애플망고 육성",
+        "date": "2025-09-09 22:40",
+        "link": "http://www.gnmaeil.com/news/articleView.html?idxno=570831"
+    },
+    {
+        "title": "[단독] “결국 이걸 보게 될 줄이야” 삼성 ‘2번 접는폰’…드디어 ‘...",
+        "date": "2025-09-09 21:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002526575?sid=105"
+    },
+    {
+        "title": "리플 XRP 3달러 회복…애플 15억 달러 매입설 확산",
+        "date": "2025-09-09 21:12",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15799883"
+    },
+    {
+        "title": "‘박수홍♥’ 김다예, 몰라보게 달라진 모습… 재이는 ‘애플 룩’ 눈길",
+        "date": "2025-09-09 20:59",
+        "link": "https://m.entertain.naver.com/article/241/0003465151"
+    },
+    {
+        "title": "애플, 기대감 줄어든 발매행사서 얇은 아이폰 선보일듯",
+        "date": "2025-09-09 20:44",
+        "link": "https://n.news.naver.com/mnews/article/015/0005182664?sid=101"
+    },
+    {
+        "title": "포항시-애플 제조업 R&amp;D 지원센터, 23일 ‘스마트 제조 포럼’ 혁신 전략...",
+        "date": "2025-09-09 20:39",
+        "link": "https://www.ksmnews.co.kr/news/view.php?idx=562355"
+    },
+    {
+        "title": "포항서 세계 스마트 제조 논의…애플 R&amp;D 센터·포스텍 공동 포럼 개최",
+        "date": "2025-09-09 19:00",
+        "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4051591"
+    },
+    {
+        "title": "심박 측정하는 '에어팟 프로3' 나온다…삼성·애플, '디지털 헬스케어'...",
+        "date": "2025-09-09 18:52",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=252412"
+    },
+    {
+        "title": "포항시·애플 제조업 R&amp;D 지원센터, ‘스마트 제조 포럼’ 개최",
+        "date": "2025-09-09 18:50",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=776122"
+    },
+    {
+        "title": "애플, 리플(XRP) 15억 달러 매수?... 시장 흔든 소문의 진실은?",
+        "date": "2025-09-09 18:36",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=375292"
+    },
+    {
+        "title": "포항시-애플 제조업 R&amp;D 지원센터, '스마트 제조 포럼' 개최",
+        "date": "2025-09-09 18:28",
+        "link": "http://www.hidomin.com/news/articleView.html?idxno=592008"
+    },
+    {
+        "title": "애플, 15억 달러 규모 XRP 매입설…커뮤니티 루머에 시장 '술렁'",
+        "date": "2025-09-09 18:12",
+        "link": "https://www.tokenpost.kr/news/cryptocurrency/284058"
+    },
+    {
+        "title": "포항시·애플 제조업 R&amp;D 지원센터, '스마트 제조 포럼' 개최...포항서 ...",
+        "date": "2025-09-09 18:04",
+        "link": "https://www.eroun.net/news/articleView.html?idxno=62802"
+    },
+    {
+        "title": "SDV 정조준…LG전자 '차 안을 거실로' 삼성D '실내 감성 승부'",
+        "date": "2025-09-09 18:00",
+        "link": "https://n.news.naver.com/mnews/article/018/0006111390?sid=103"
+    },
+    {
+        "title": "삼성, 폴더블 아이폰 대응…2026년 Z폴드 2종으로 폴더블 라인업 확대",
+        "date": "2025-09-09 17:50",
+        "link": "https://kbench.com/?q=node/271171"
+    },
+    {
+        "title": "[리뷰] 갤럭시 Z 폴드7 한 달, 시니어에게 더 편했다",
+        "date": "2025-09-09 17:40",
+        "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=241271"
+    },
+    {
+        "title": "포항시-애플 제조업 R&amp;D 지원센터, '스마트 제조 포럼' 개최",
+        "date": "2025-09-09 17:30",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=513194"
+    },
+    {
+        "title": "아이폰17, 10일 새벽 베일 벗는다",
+        "date": "2025-09-09 17:20",
+        "link": "https://n.news.naver.com/mnews/article/031/0000963948?sid=105"
+    },
+    {
+        "title": "산청군, 25억 원 투입 애플망고 단지 조성",
+        "date": "2025-09-09 17:06",
+        "link": "https://n.news.naver.com/mnews/article/629/0000424423?sid=102"
+    },
+    {
+        "title": "HDR10+ 게이밍, 신작 타이틀 확대 적용",
+        "date": "2025-09-09 17:00",
+        "link": "https://www.newspim.com/news/view/20250909000761"
+    },
+    {
+        "title": "삼성D, 내년 2분기 말 애플 맥북 OLED 양산한다",
+        "date": "2025-09-09 16:58",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=40497"
+    },
+    {
+        "title": "[기자수첩] “삼성이 우리를 쫓아온다”는 中 TV 기업의 도발",
+        "date": "2025-09-09 16:53",
+        "link": "https://n.news.naver.com/mnews/article/366/0001106681?sid=110"
+    },
+    {
+        "title": "베일 벗는 아이폰 17…삼성·LG 부품 계열사, 하반기 수혜 확대 기대",
+        "date": "2025-09-09 16:41",
+        "link": "https://n.news.naver.com/mnews/article/293/0000072238?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 확장현실 핵심 올레도스(OLEDoS) 투자 중단설 '솔솔'…업...",
+        "date": "2025-09-09 16:34",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=330892"
+    },
+    {
+        "title": "산청군, 특화품목 육성단지 공모 선정…애플망고 단지 조성",
+        "date": "2025-09-09 16:33",
+        "link": "https://n.news.naver.com/mnews/article/001/0015615317?sid=102"
+    },
+    {
+        "title": "아이폰 17 공개 D-1...'혁신의 아이콘' 시험대 오른 애플",
+        "date": "2025-09-09 16:18",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=375126"
+    },
+    {
+        "title": "中 ‘RGB·OLED’ 맹추격⋯ 삼성·LG, ‘기술 초격차’ 맞대응",
+        "date": "2025-09-09 16:14",
+        "link": "https://www.viva100.com/article/20250909500952"
+    },
+    {
+        "title": "애플 vs 삼성, ‘초슬림 전쟁’ 불붙었다...애플, 5.5㎜ ‘아이폰17 에어...",
+        "date": "2025-09-09 16:08",
+        "link": "https://n.news.naver.com/mnews/article/117/0003986191?sid=105"
+    },
+    {
+        "title": "인덕션 넘어 이젠 싱크대?···아이폰17, 디자인 공개 카운트다운",
+        "date": "2025-09-09 16:08",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2326958"
+    },
+    {
+        "title": "포항시-애플, 스마트 제조 포럼 개최",
+        "date": "2025-09-09 16:02",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=839684"
+    },
+    {
+        "title": "힐링쉴드, 아이폰17·애플워치 시리즈 얼리버드 이벤트 진행",
+        "date": "2025-09-09 15:54",
+        "link": "https://www.dailysecu.com/news/articleView.html?idxno=200204"
+    },
+    {
+        "title": "경남 산청군, '2025년 지역 특화품목 육성단지' 공모 선정 '애플망고 단...",
+        "date": "2025-09-09 15:52",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=141159"
+    },
+    {
+        "title": "‘나르고 오더피킹’ 트위니, SCM FAIR 출격...AMR 기반 물류 혁신 방법...",
+        "date": "2025-09-09 15:48",
+        "link": "https://www.hellot.net/news/article.html?no=105120"
+    },
+    {
+        "title": "산청군, 애플망고 단지 조성…총 25억원 투입",
+        "date": "2025-09-09 15:42",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=703596"
+    },
+    {
+        "title": "왜 삼성디스플레이만?... 'IAA 모빌리티 2025' 유일 참가",
+        "date": "2025-09-09 15:34",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=411766"
+    },
+    {
+        "title": "삼성전자 너 마저, 통상임금 소송 돌입... 노동자들 귀성비, 고정OT, ...",
+        "date": "2025-09-09 15:32",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=71271"
+    },
+    {
+        "title": "삼성디스플레이, 내년 모니터용 QD-OLED 패널 생산량 대폭 늘린다",
+        "date": "2025-09-09 15:24",
+        "link": "https://n.news.naver.com/mnews/article/092/0002389641?sid=105"
+    },
+    {
+        "title": "내일 공개되는 아이폰17, 가격 동결? 소폭 인상?...애플의 선택은",
+        "date": "2025-09-09 15:22",
+        "link": "https://n.news.naver.com/mnews/article/009/0005555562?sid=101"
+    },
+    {
+        "title": "폴더블 다음은 '車'…삼성디스플레이, '차량용 OLED' 공략 스타트",
+        "date": "2025-09-09 15:18",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025090915114658920"
+    },
+    {
+        "title": "로랜텍, 애플 아이폰17 시리즈 전용 케이스·필름 출시···최대 40% 할인...",
+        "date": "2025-09-09 15:18",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=41985"
+    },
+    {
+        "title": "HDR10+ 테크놀로지 LLC, '헬 이즈 어스', '보더랜드 4'에 게이밍 기술 적...",
+        "date": "2025-09-09 15:16",
+        "link": "https://www.ajunews.com/view/20250909150601938"
+    },
+    {
+        "title": "포항시-애플 제조업 R&amp;D 지원센터 ‘스마트 제조 포럼’",
+        "date": "2025-09-09 15:12",
+        "link": "https://www.viva100.com/article/20250909501193"
+    },
+    {
+        "title": "'아이폰의 눈' LG이노텍, 폴디드줌 출하 확대…수익 개선 '속도'",
+        "date": "2025-09-09 15:12",
+        "link": "https://news.mtn.co.kr/news-detail/2025090914525691872"
+    },
+    {
+        "title": "아이폰17 출시에도 韓 부품사 전망은 '글쎄'",
+        "date": "2025-09-09 15:10",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=30378"
+    },
+    {
+        "title": "애플 지도 '위대한 전사' 투어 지원…하와이·뉴질랜드 명소 탐방",
+        "date": "2025-09-09 15:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=590600"
+    },
+    {
+        "title": "‘아이폰17 에어’ 공개 임박…‘갤럭시 S25 엣지’ 지원금 10만원↑",
+        "date": "2025-09-09 15:05",
+        "link": "https://n.news.naver.com/mnews/article/018/0006111221?sid=105"
+    },
+    {
+        "title": "아이폰17 시리즈 발표 임박…초슬림 '에어' 첫 등장에 이목 집중",
+        "date": "2025-09-09 14:58",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=175961"
+    },
+    {
+        "title": "삼성전자 TV 중국 추격 받아 하반기도 '빨간불', 용석우 '마이크로 RGB T...",
+        "date": "2025-09-09 14:54",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=411152"
+    },
+    {
+        "title": "슬림에 생성형AI까지…갤럭시탭S11울트라",
+        "date": "2025-09-09 14:43",
+        "link": "https://n.news.naver.com/mnews/article/030/0003348582?sid=105"
+    },
+    {
+        "title": "블루포트, 애플코리아와 ‘Apple Premium Education Partner’ 계약 체결",
+        "date": "2025-09-09 14:42",
+        "link": "http://www.segyebiz.com/newsView/20250909511801?OutUrl=naver"
+    },
+    {
+        "title": "산청군 산청읍 등지에 3.5㏊ 규모 애플망고 단지 추진",
+        "date": "2025-09-09 14:32",
+        "link": "https://www.idomin.com/news/articleView.html?idxno=945765"
+    },
+    {
+        "title": "산청군, '애플망고' 특화품목으로 육성",
+        "date": "2025-09-09 14:30",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2326830"
+    },
+    {
+        "title": "삼성전자 트리폴드폰, 5만대 한정 판매…11월 정식 출시",
+        "date": "2025-09-09 14:16",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=810463"
+    },
+    {
+        "title": "토스·네이버 단말기 확산, 애플페이 결제처 늘어난다",
+        "date": "2025-09-09 14:16",
+        "link": "https://n.news.naver.com/mnews/article/030/0003348551?sid=101"
+    },
+    {
+        "title": "삼성, 내년 '와이드 폴드' 추가…폴더블 라인업 확대",
+        "date": "2025-09-09 14:12",
+        "link": "https://n.news.naver.com/mnews/article/030/0003348543?sid=105"
+    },
+    {
+        "title": "블랙 PDL 쥔 덕산네오룩스, 삼성ㆍ애플발 수요 급증 대비 완료",
+        "date": "2025-09-09 14:08",
+        "link": "https://www.etoday.co.kr/news/view/2504596"
+    },
+    {
+        "title": "집과 차 똑똑해지면서 역할 커지는 디스플레이",
+        "date": "2025-09-09 14:06",
+        "link": "https://n.news.naver.com/mnews/article/023/0003928123?sid=105"
+    },
+    {
+        "title": "애플, 아이폰 17 드디어 내일(10일) 새벽 공개…스펙과 가격은?",
+        "date": "2025-09-09 14:04",
+        "link": "https://www.wikitree.co.kr/articles/1079586"
+    },
+    {
+        "title": "삼성, HMD 한계 뛰어넘는 '모듈형 지지 시스템' 특허 출원",
+        "date": "2025-09-09 13:58",
+        "link": "https://www.theguru.co.kr/news/article.html?no=91548"
+    },
+    {
+        "title": "애플 스마트홈 전략 가속…홈팟 미니2·애플TV 4K 새 모델 공개",
+        "date": "2025-09-09 13:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=590593"
+    },
+    {
+        "title": "산청군 신안면·단성면·산청읍에 애플망고 단지 조성…공모사업 선정",
+        "date": "2025-09-09 12:34",
+        "link": "https://www.kpinews.kr/newsView/1065577370115280"
+    },
+    {
+        "title": "아이폰 17 출시 시점에 등장한 갤럭시 'S26 시리즈' 렌더링 보니... 애플...",
+        "date": "2025-09-09 11:48",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1803858"
+    },
+    {
+        "title": "애플 '아이폰 에어' 수요 자극할까…AI 경쟁력은 과제",
+        "date": "2025-09-09 11:38",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092147130"
+    },
+    {
+        "title": "삼성디스플레이, 자율주행 미래 담은 '디지털 콕핏' 공개…OLED 기술력 ...",
+        "date": "2025-09-09 11:14",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=111442"
+    },
+    {
+        "title": "초슬림 '에어' 흥행할까…애플 '아이폰17' 내일(10일) 새벽 공개",
+        "date": "2025-09-09 11:13",
+        "link": "https://n.news.naver.com/mnews/article/629/0000424181?sid=105"
+    },
+    {
+        "title": "산청군, 고품질 '애플망고' 육성단지 조성",
+        "date": "2025-09-09 11:12",
+        "link": "https://n.news.naver.com/mnews/article/421/0008474704?sid=102"
+    },
+    {
+        "title": "공개 임박 '아이폰 17' 시리즈, 기대감 폭발... '에어'부터 '프맥'까지 무...",
+        "date": "2025-09-09 11:08",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1803856"
+    },
+    {
+        "title": "애플 아이폰17 어떻게 나오나",
+        "date": "2025-09-09 11:04",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=337248"
+    },
+    {
+        "title": "베일 벗는 아이폰17…애플 신제품 8종 이렇게 나온다",
+        "date": "2025-09-09 10:54",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=277459"
+    },
+    {
+        "title": "삼성, 애플 CIS 공급 지연되나 … 아이폰19 탑재 가능성",
+        "date": "2025-09-09 10:44",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/09/2025090900121.html"
+    },
+    {
+        "title": "애플 '아이폰17 에어'로 교체수요 자극 전망, 배터리와 카메라 사양이 ...",
+        "date": "2025-09-09 10:36",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=411104"
+    },
+    {
+        "title": "애플, 2026년 적외선 카메라 탑재 에어팟 출시 전망",
+        "date": "2025-09-09 10:28",
+        "link": "https://kbench.com/?q=node/271139"
+    },
+    {
+        "title": "“딱 5만대만 팝니다” 삼성전자, 10년 전에 포기한 제품 야심작으로 내...",
+        "date": "2025-09-09 10:22",
+        "link": "https://www.wikitree.co.kr/articles/1079448"
+    },
+    {
+        "title": "애플 캘린더, 스팸 부활…암호화폐 사기 급증",
+        "date": "2025-09-09 10:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=590486"
+    },
+    {
+        "title": "애플 행사 D-1…아이폰17·에어팟 프로3 막판 루머 점검",
+        "date": "2025-09-09 10:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=590462"
+    },
+    {
+        "title": "크로스오버존, 27인치 QHD 100Hz 화이트 모니터 출시",
+        "date": "2025-09-09 09:56",
+        "link": "https://kbench.com/?q=node/271135"
+    },
+    {
+        "title": "“아이폰17 공개 임박”…애플, 초슬림 ‘에어’로 판 흔드나",
+        "date": "2025-09-09 09:54",
+        "link": "https://n.news.naver.com/mnews/article/029/0002981018?sid=105"
+    },
+    {
+        "title": "삼성전자 파운드리, 테슬라·애플 수주 이어 머스크 xAI 협상까지… '대...",
+        "date": "2025-09-09 09:52",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=33388"
+    },
+    {
+        "title": "아이폰17 시리즈 공개 임박...역대 가장 얇은 모델 나온다",
+        "date": "2025-09-09 09:52",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=676233"
+    },
+    {
+        "title": "애플, F1 스트리밍 판권 확보할까…애플 TV+ 중계",
+        "date": "2025-09-09 09:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=590427"
+    },
+    {
+        "title": "에스에이엠티, 나라장터에 애플 아이패드 라인업 등록",
+        "date": "2025-09-09 09:32",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=838592"
+    },
+    {
+        "title": "[르포] 전 탑승자의 디지털콕핏, 뒷자석으로 이어지는 폴더블의 변주…...",
+        "date": "2025-09-09 09:29",
+        "link": "https://n.news.naver.com/mnews/article/016/0002526087?sid=101"
+    },
+    {
+        "title": "'누가 아재폰이래?' 삼성전자 갤럭시 시리즈 1030 제대로 저격 애플 안...",
+        "date": "2025-09-09 09:25",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=706769"
+    },
+    {
+        "title": "햇빛 아래서도 '완벽한 블랙'...삼성 OLED TV 독일 인증 획득",
+        "date": "2025-09-09 09:25",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=330842"
+    },
+    {
+        "title": "삼성전자, 3단 폴더블폰 '갤럭시Z 트라이폴드' 연내 출시 재확인",
+        "date": "2025-09-09 09:24",
+        "link": "https://kbench.com/?q=node/271131"
+    },
+    {
+        "title": "삼성, 트라이폴드폰 연내 공개…폴더블 경쟁 가속",
+        "date": "2025-09-09 08:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=590404"
+    },
+    {
+        "title": "애플, 아이폰17 출시 임박…하드웨어 업그레이드 기대 [친절한 IT]",
+        "date": "2025-09-09 08:53",
+        "link": "https://n.news.naver.com/mnews/article/293/0000072188?sid=105"
+    },
+    {
+        "title": "두 번 접히는 삼성폰? 트리폴드폰, 11월 출시 예고 [지금이뉴스]",
+        "date": "2025-09-09 08:50",
+        "link": "https://n.news.naver.com/mnews/article/052/0002244460?sid=004"
+    },
+    {
+        "title": "크롬 반독점 판결 구글-애플 동맹굳히나…AI 연합전선 재편 가속",
+        "date": "2025-09-09 08:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008473967?sid=105"
+    },
+    {
+        "title": "'단통법' 폐지 한 달…효과 없다 vs 폭풍전야",
+        "date": "2025-09-09 07:30",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7127223"
+    },
+    {
+        "title": "[9월8일] 법원 판결로 탄생한 구글-애플 동맹...오픈AI 위협할 것",
+        "date": "2025-09-09 07:00",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=202200"
+    }
+]
