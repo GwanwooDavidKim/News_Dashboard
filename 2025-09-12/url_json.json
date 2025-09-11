@@ -1,1 +1,932 @@
-
+[
+    {
+        "title": "'혁신 실종' 애플, 월가 투자의견 5년래 최저",
+        "date": "2025-09-12 04:22",
+        "link": "https://n.news.naver.com/mnews/article/374/0000462790?sid=104"
+    },
+    {
+        "title": "“한국만 없다” 아이폰 에어 광고에서 ‘손가락’ 지운 애플…‘남혐...",
+        "date": "2025-09-12 04:20",
+        "link": "https://n.news.naver.com/mnews/article/014/0005405721?sid=105"
+    },
+    {
+        "title": "월가 애플 투자 의견 5년간 최저…AI 실망 지속",
+        "date": "2025-09-12 03:49",
+        "link": "https://www.newspim.com/news/view/20250912000010"
+    },
+    {
+        "title": "“삼성OLED, 미래 모빌리티 핵심 인프라”",
+        "date": "2025-09-12 03:03",
+        "link": "https://n.news.naver.com/mnews/article/020/0003660524?sid=101"
+    },
+    {
+        "title": "미래형 차 완성하는 삼성·LG디스플레이",
+        "date": "2025-09-12 00:06",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=300941"
+    },
+    {
+        "title": "'아이폰17·에어' 사전예약 전 스펙 비교...가격과 색상·출시일 [종합]",
+        "date": "2025-09-12 00:06",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3374540"
+    },
+    {
+        "title": "애플, 아이폰17 시리즈 공개... 출시일 · 가격 · 스펙 총정리",
+        "date": "2025-09-12 00:00",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1112184"
+    },
+    {
+        "title": "“폴더블 없어?”…아이폰 공개 저격한 삼성",
+        "date": "2025-09-11 19:59",
+        "link": "https://n.news.naver.com/mnews/article/449/0000320604?sid=101"
+    },
+    {
+        "title": "韓 스마트폰, 2분기 332만대 출하…4년만에 두 자릿수 성장",
+        "date": "2025-09-11 19:51",
+        "link": "https://n.news.naver.com/mnews/article/031/0000964747?sid=105"
+    },
+    {
+        "title": "2분기 국내 스마트폰 332만대 출하…전년比 10.9% 성장",
+        "date": "2025-09-11 18:33",
+        "link": "https://n.news.naver.com/mnews/article/092/0002390120?sid=105"
+    },
+    {
+        "title": "국내 스마트폰 시장, 2분기 10.9% 성장…332만대 출하",
+        "date": "2025-09-11 18:27",
+        "link": "https://n.news.naver.com/mnews/article/366/0001107401?sid=105"
+    },
+    {
+        "title": "아이폰17 시리즈 흥행 여부에 韓 부품사 희비 엇갈린다",
+        "date": "2025-09-11 18:02",
+        "link": "https://www.ajunews.com/view/20250911154327984"
+    },
+    {
+        "title": "[브리핑] 엘지유니참 라이프리, '슬림언더웨어' 출시",
+        "date": "2025-09-11 18:02",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2095085"
+    },
+    {
+        "title": "삼성디스플레이 OLED, 자율주행 시대 차량과 사람 잇는 플랫폼",
+        "date": "2025-09-11 17:56",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=340009"
+    },
+    {
+        "title": "[귀에빡종원] 아이폰17 뽑기 주의보?…중국 BOE 디스플레이 강행한 애플...",
+        "date": "2025-09-11 17:56",
+        "link": "https://n.news.naver.com/mnews/article/055/0001291743?sid=101"
+    },
+    {
+        "title": "이주형 삼성D 부사장 미래 모빌리티의 다양한 수요에 대응할 것",
+        "date": "2025-09-11 17:52",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=775741"
+    },
+    {
+        "title": "두께 5.6mm 아이폰 에어부터 심박수 측정하는 에어팟 프로 3까지 애플 신...",
+        "date": "2025-09-11 17:48",
+        "link": "https://it.donga.com/107539/"
+    },
+    {
+        "title": "이주형 삼성D 부사장 OLED, 미래 모빌리티 핵심 기반",
+        "date": "2025-09-11 17:48",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=40621"
+    },
+    {
+        "title": "암(Arm), AI 컨퍼런스 개막 장소로 中 선택...애플·삼성 빼고 모두 중...",
+        "date": "2025-09-11 17:46",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=331009"
+    },
+    {
+        "title": "너넨 아직도 폴더블 없지?... 삼성, 아이폰 17 출시한 애플 제대로 놀...",
+        "date": "2025-09-11 17:28",
+        "link": "https://www.insight.co.kr/news/519762"
+    },
+    {
+        "title": "서린씨앤아이, 6.86인치 IPS LCD 탑재한 서멀라이트 트로페오 비전 360 AR...",
+        "date": "2025-09-11 17:28",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=139124"
+    },
+    {
+        "title": "2분기 국내 스마트폰 시장 332만대 출하... 전년비 10.9%↑",
+        "date": "2025-09-11 17:26",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=123214"
+    },
+    {
+        "title": "올 2분기 국내 스마트폰 시장, 332만대 출하…전년 대비 10.9% 성장",
+        "date": "2025-09-11 17:26",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=322320"
+    },
+    {
+        "title": "미래 모빌리티 플랫폼 될것…삼성디스플레이 OLED 전략",
+        "date": "2025-09-11 17:24",
+        "link": "https://n.news.naver.com/mnews/article/015/0005183806?sid=101"
+    },
+    {
+        "title": "엇갈린 디스플레이 성적표…삼성 '주춤', LG '반등'",
+        "date": "2025-09-11 17:16",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=103903"
+    },
+    {
+        "title": "[데일리토픽] 애플, 역대 가장 얇은 '아이폰 에어' 공개..가격 159만원부...",
+        "date": "2025-09-11 17:14",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=238691"
+    },
+    {
+        "title": "아이폰 에어는 잡스 비전 구현한 제품…애플, 디자인 철학 공개",
+        "date": "2025-09-11 17:06",
+        "link": "https://n.news.naver.com/mnews/article/092/0002390088?sid=105"
+    },
+    {
+        "title": "[데일리픽] 日 암호화폐 세율 20%로 인하…아이폰17 건너뛸 이유",
+        "date": "2025-09-11 17:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591301"
+    },
+    {
+        "title": "車 전장 디스플레이, 삼성ㆍLGㆍBOE 각축전",
+        "date": "2025-09-11 17:02",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202509111022069060187"
+    },
+    {
+        "title": "유진♥기태영 딸, 10살인데 美주식 수익률 150% 대박 “애플워치 살 것”...",
+        "date": "2025-09-11 16:50",
+        "link": "https://m.entertain.naver.com/article/609/0001033797"
+    },
+    {
+        "title": "얇기·AI·성능 경쟁에 가격 동결까지…갤럭시 vs 애플 양강 국내 시장 ...",
+        "date": "2025-09-11 16:48",
+        "link": "https://n.news.naver.com/mnews/article/029/0002981700?sid=105"
+    },
+    {
+        "title": "아이폰17 일부 내주고 '폴더블 독점' 노린다…삼성디스플레이 공급망 재...",
+        "date": "2025-09-11 16:29",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204711?sid=105"
+    },
+    {
+        "title": "역대 가장 얇은 아이폰17, AI 없어도 기본 충실…호불호 갈린다",
+        "date": "2025-09-11 16:14",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=775702"
+    },
+    {
+        "title": "이주형 삼성D 부사장 OLED, 미래 모빌리티 핵심 인프라",
+        "date": "2025-09-11 16:10",
+        "link": "https://n.news.naver.com/mnews/article/117/0003987105?sid=105"
+    },
+    {
+        "title": "카메라도, 스피커도 단 1개…아이폰17 에어 숨겨진 7가지 디테일",
+        "date": "2025-09-11 16:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591244"
+    },
+    {
+        "title": "LGD ‘턴어라운드’…믿을맨은 ‘TV향 OLED’",
+        "date": "2025-09-11 16:04",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1274579&inflow=N"
+    },
+    {
+        "title": "폴더블·AI에 이은 초슬림 경쟁…삼성-애플의 15년 '스마트폰 패권 전쟁...",
+        "date": "2025-09-11 16:00",
+        "link": "https://n.news.naver.com/mnews/article/586/0000111518?sid=101"
+    },
+    {
+        "title": "정식품, '베지밀 꼭꼭 씹히는 애플망고두유' 과일박스 키트 한정 판매",
+        "date": "2025-09-11 15:58",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=535923"
+    },
+    {
+        "title": "아마존, 소비자용 AR 스마트 안경 개발중…내년 말 출시 목표",
+        "date": "2025-09-11 15:50",
+        "link": "https://n.news.naver.com/mnews/article/421/0008481023?sid=104"
+    },
+    {
+        "title": "애플 아이폰 에어는 휴대기기 아닌 웨어러블 제품, 패러다임 전환 노...",
+        "date": "2025-09-11 15:46",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=411587"
+    },
+    {
+        "title": "애플, 애플워치 시리즈 11·SE 3·울트라 3로 라인업 전면 개편",
+        "date": "2025-09-11 15:46",
+        "link": "https://news.appstory.co.kr/free18490"
+    },
+    {
+        "title": "있지가 부르는 스파이스 걸스 애플 '케이팝드', K팝 글로벌 예능까지...",
+        "date": "2025-09-11 15:46",
+        "link": "https://m.entertain.naver.com/article/109/0005390057"
+    },
+    {
+        "title": "애플 스토어, '아이폰16 프로' 시리즈 판매 중단",
+        "date": "2025-09-11 15:44",
+        "link": "https://kbench.com/?q=node/271264"
+    },
+    {
+        "title": "심박 센서와 실시간 번역까지, 애플 ‘에어팟 프로 3’ 공개",
+        "date": "2025-09-11 15:36",
+        "link": "https://news.appstory.co.kr/free18491"
+    },
+    {
+        "title": "이주형 삼성D 중소형사업부장 차량용 OLED로 미래 모빌리티 파트너될 ...",
+        "date": "2025-09-11 15:35",
+        "link": "https://n.news.naver.com/mnews/article/015/0005183716?sid=101"
+    },
+    {
+        "title": "마이크로 LED 시장, 2029년 6399억원 규모 성장",
+        "date": "2025-09-11 15:32",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=40638"
+    },
+    {
+        "title": "이주형 삼성D 부사장 미래 모빌리티 핵심 플랫폼은 OLED",
+        "date": "2025-09-11 15:24",
+        "link": "https://www.mediapen.com/news/view/1042185"
+    },
+    {
+        "title": "차세대 플랫폼 선점...전자업계, 스마트 안경 경쟁 본격화",
+        "date": "2025-09-11 15:24",
+        "link": "https://www.mediapen.com/news/view/1042178"
+    },
+    {
+        "title": "한국에선 '사용 금지'... 남혐 논란 차단한 애플 [지금이뉴스]",
+        "date": "2025-09-11 15:20",
+        "link": "https://n.news.naver.com/mnews/article/052/0002245797?sid=004"
+    },
+    {
+        "title": "이주형 삼성디스플레이 부사장 OLED, 모빌리티 핵심 인프라",
+        "date": "2025-09-11 15:16",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=347455"
+    },
+    {
+        "title": "애플, 에어팟 프로 3 공개…심박수 측정·4배 강력해진 노이즈 캔슬링·...",
+        "date": "2025-09-11 15:06",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536215"
+    },
+    {
+        "title": "삼성D 이주형 OLED는 자동차와 사람을 잇는 접점…미래 모빌리티 비전...",
+        "date": "2025-09-11 15:00",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=252563"
+    },
+    {
+        "title": "[CEO 직썰] 이주형 삼성D 부사장 자율주행 시대, 모빌리티·사람 연결하...",
+        "date": "2025-09-11 14:58",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=103811"
+    },
+    {
+        "title": "[글로벌]애플 A19, 의외의 코어 벤치마크 결과…경쟁사 삼성, 엑시노스...",
+        "date": "2025-09-11 14:50",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=242223"
+    },
+    {
+        "title": "OLED는 현재, 마이크로 LED는 미래...디스플레이 산업 新 패러다임",
+        "date": "2025-09-11 14:48",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=54117"
+    },
+    {
+        "title": "[리얼푸드] 정식품, ‘베지밀 꼭꼭 씹히는 애플망고두유’ 과일박스 키...",
+        "date": "2025-09-11 14:46",
+        "link": "https://www.realfoods.co.kr/article/10573662?ref=naver"
+    },
+    {
+        "title": "아이폰17, OLED 깜빡임 문제 해결…PWM 설정 추가",
+        "date": "2025-09-11 14:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591311"
+    },
+    {
+        "title": "삼성D “장보듯 OLED 골라서 조합…車 시장 새 성장동력”",
+        "date": "2025-09-11 14:40",
+        "link": "https://n.news.naver.com/mnews/article/030/0003349546?sid=105"
+    },
+    {
+        "title": "아이폰, 역대급 얇기에도 흥행 '미지수'···시장 관심은 첫 '폴더블' 폰",
+        "date": "2025-09-11 14:40",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=415170"
+    },
+    {
+        "title": "애플 ‘의문의 1패’ 당한 이 한장의 사진",
+        "date": "2025-09-11 14:39",
+        "link": "https://n.news.naver.com/mnews/article/021/0002735948?sid=101"
+    },
+    {
+        "title": "애플, 전 세계 중 한국에서만 '이것' 뺐다...논란 원천 차단",
+        "date": "2025-09-11 14:38",
+        "link": "https://n.news.naver.com/mnews/article/052/0002245757?sid=102"
+    },
+    {
+        "title": "폴더블·롤러블 OLED 커버윈도우 시장, 2029년 7억 달러 매출 전망",
+        "date": "2025-09-11 14:34",
+        "link": "https://www.viva100.com/article/20250911501140"
+    },
+    {
+        "title": "6.86인치 IPS LCD 탑재 수랭 쿨러... '서멀라이트 트로페오 비전 360 ARGB'...",
+        "date": "2025-09-11 14:32",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56013"
+    },
+    {
+        "title": "정식품, '베지밀 꼭꼭 씹히는 애플망고두유' 과일박스 키트 한정 판매",
+        "date": "2025-09-11 14:00",
+        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=113128"
+    },
+    {
+        "title": "이주형 삼성D 중소형사업부장 삼성 OLED, 미래 모빌리티 핵심",
+        "date": "2025-09-11 13:54",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=268965"
+    },
+    {
+        "title": "AI 앞세운 스마트워치 대전…삼성·애플 '정면승부'",
+        "date": "2025-09-11 13:40",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=710972"
+    },
+    {
+        "title": "삼성 vs 애플, 하반기 스마트폰 전면전… AI·폴더블 vs 초슬림 '두께 전...",
+        "date": "2025-09-11 13:30",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=33488"
+    },
+    {
+        "title": "폴더블·롤러블 커버윈도우 시장, 2029년 7억 달러 돌파",
+        "date": "2025-09-11 13:30",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=277776"
+    },
+    {
+        "title": "이주형 삼성D 부사장 삼성 OLED, 차와 사람 연결하는 핵심 플랫폼 될 것...",
+        "date": "2025-09-11 13:26",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025091112060578076ed0c62d49_1/article.html"
+    },
+    {
+        "title": "삼성D 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 13:24",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=337546"
+    },
+    {
+        "title": "IAA 모빌리티 2025 콘퍼런스 참석한 이주형 삼성디스플레이 중소형사업...",
+        "date": "2025-09-11 13:10",
+        "link": "https://n.news.naver.com/mnews/article/001/0015620026?sid=101"
+    },
+    {
+        "title": "'아이폰17' 시리즈 출시…'에어' 모델 첫 등장, 사전주문 12일부터",
+        "date": "2025-09-11 13:10",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=449687"
+    },
+    {
+        "title": "LG디스플레이 정철동號, AI전환·OLED 투자로 보릿고개 탈출 청신호",
+        "date": "2025-09-11 13:04",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1678208"
+    },
+    {
+        "title": "혁신 없다 혹평 휘말린 애플의 믿는 구석",
+        "date": "2025-09-11 13:00",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=49898"
+    },
+    {
+        "title": "그래서 AI는? 아이폰17 공개 후 애플 주가 빠진 이유 [Global]",
+        "date": "2025-09-11 12:55",
+        "link": "https://n.news.naver.com/mnews/article/665/0000005788?sid=105"
+    },
+    {
+        "title": "아마존, 내년 말 소비자용 스마트 안경 출시 예고…AR 시장 본격 진입",
+        "date": "2025-09-11 12:38",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=449676"
+    },
+    {
+        "title": "삼성디스플레이 'IAA 모빌리티 2025' 컨퍼런스, 비전 공개",
+        "date": "2025-09-11 12:28",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=238647"
+    },
+    {
+        "title": "[푸드뉴스] 정식품, '베지밀 꼭꼭 씹히는 애플망고두유' 과일박스 키트...",
+        "date": "2025-09-11 12:28",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=139082"
+    },
+    {
+        "title": "[크레딧첵] LG, 캐시카우 부진 속 미래 성장 기회 찾기 숙제",
+        "date": "2025-09-11 12:10",
+        "link": "https://www.ekn.kr/web/view.php?key=20250911020135814"
+    },
+    {
+        "title": "[IAA 2025] 삼성D 이주형 삼성OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 12:06",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2114914"
+    },
+    {
+        "title": "아마존, 2026년 말 소비자용 스마트 안경 출시…메타 등과 본격 경쟁 예...",
+        "date": "2025-09-11 11:52",
+        "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=363230"
+    },
+    {
+        "title": "삼성디스플레이“모빌리티·사람 연결하는 ‘디지털 플랫폼’ 거듭날 것...",
+        "date": "2025-09-11 11:45",
+        "link": "https://n.news.naver.com/mnews/article/021/0002735866?sid=101"
+    },
+    {
+        "title": "아이큐어, 러시아 유명 뷰티 스토어 체인 골드애플에 화장품 직수출 납...",
+        "date": "2025-09-11 11:36",
+        "link": "https://n.news.naver.com/mnews/article/015/0005183558?sid=105"
+    },
+    {
+        "title": "남혐 손가락 원천차단? 아이폰17 발표와 동시에 여초발 불매운동 터진 ...",
+        "date": "2025-09-11 11:32",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=394442"
+    },
+    {
+        "title": "애플워치 울트라3·애플워치11, 최대 강점은 배터리 성능",
+        "date": "2025-09-11 11:31",
+        "link": "https://n.news.naver.com/mnews/article/092/0002389999?sid=105"
+    },
+    {
+        "title": "“삼성 OLED, 미래 모빌리티 핵심 플랫폼” 삼성디스플레이, ‘IAA 2025’...",
+        "date": "2025-09-11 11:22",
+        "link": "https://n.news.naver.com/mnews/article/016/0002527619?sid=101"
+    },
+    {
+        "title": "16GB 램 탑재?... 삼성 S25 후속작 '갤럭시 S26 프로' 렌더링 이미지 유...",
+        "date": "2025-09-11 11:22",
+        "link": "https://www.insight.co.kr/news/519661"
+    },
+    {
+        "title": "삼성 OLED, 슬라이더블·롤러블 넘는다…미래차 핵심 부상",
+        "date": "2025-09-11 11:20",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092147276"
+    },
+    {
+        "title": "폴더블·롤러블 커버윈도우 시장 2029년 7억 달러 돌파 전망",
+        "date": "2025-09-11 11:14",
+        "link": "https://n.news.naver.com/mnews/article/092/0002389990?sid=105"
+    },
+    {
+        "title": "애플, 아이폰·애플워치·에어팟 구형 모델 대거 단종…아이폰 17 시리즈...",
+        "date": "2025-09-11 11:00",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536197"
+    },
+    {
+        "title": "OLED 부품·소재 시장 2029년 28조원 규모로 성장",
+        "date": "2025-09-11 11:00",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=40604"
+    },
+    {
+        "title": "이주형 삼성D 부사장, 삼성 OLED, 미래 모빌리티 플랫폼으로 진화 중",
+        "date": "2025-09-11 11:00",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=185693"
+    },
+    {
+        "title": "삼성D 차량용 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 10:57",
+        "link": "https://n.news.naver.com/mnews/article/215/0001223479?sid=101"
+    },
+    {
+        "title": "이주형 삼성D 부사장 “삼성 OLED, 미래 모빌리티 핵심 플랫폼”",
+        "date": "2025-09-11 10:56",
+        "link": "https://www.viva100.com/article/20250911500694"
+    },
+    {
+        "title": "유진·기태영 10살 딸도 서학개미…수익률 150% '대박'",
+        "date": "2025-09-11 10:49",
+        "link": "https://m.entertain.naver.com/article/008/0005248963"
+    },
+    {
+        "title": "이주형 삼성D 부사장 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 10:48",
+        "link": "http://www.datanews.co.kr/news/article.html?no=140690"
+    },
+    {
+        "title": "[영상] 삼성전기, 중국 스마트폰 업체에 폴디드줌 연속줌 납품 노린다",
+        "date": "2025-09-11 10:48",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=40615"
+    },
+    {
+        "title": "'삭제율 0.1%' 바이블 애플, 신앙인들의 필수앱 됐다",
+        "date": "2025-09-11 10:48",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=450938"
+    },
+    {
+        "title": "유비리서치 폴더블·롤러블 OLED 커버윈도우, 29년 7억달러 시장 돌파...",
+        "date": "2025-09-11 10:47",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204657?sid=105"
+    },
+    {
+        "title": "모바일만큼 뜨겁다…삼성 vs 애플 '스마트워치' 경쟁도 후끈",
+        "date": "2025-09-11 10:46",
+        "link": "https://n.news.naver.com/mnews/article/629/0000425059?sid=105"
+    },
+    {
+        "title": "'아이폰17' 호재 속 韓 부품사들, 中 업체와 경쟁 심화",
+        "date": "2025-09-11 10:42",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=277733"
+    },
+    {
+        "title": "삼성디스플레이 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 10:40",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/11/2025091100139.html"
+    },
+    {
+        "title": "'투명 아이폰' 실화? 알고보니…'애플엔 없는 혁신' 쓴소리도 [영상]",
+        "date": "2025-09-11 10:38",
+        "link": "https://n.news.naver.com/mnews/article/015/0005183497?sid=105"
+    },
+    {
+        "title": "애플도 '초슬림폰' 출격…아이폰 에어 vs 갤럭시 엣지 경쟁",
+        "date": "2025-09-11 10:36",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=277729"
+    },
+    {
+        "title": "이주형 삼성D 부사장 “삼성 OLED, 미래 모빌리티 핵심 플랫폼 될 것”",
+        "date": "2025-09-11 10:36",
+        "link": "https://www.ceoscoredaily.com/page/view/2025091110284607901"
+    },
+    {
+        "title": "삼성D OLED, 자율주행차 디지털 플랫폼 될 것",
+        "date": "2025-09-11 10:35",
+        "link": "https://n.news.naver.com/mnews/article/031/0000964508?sid=105"
+    },
+    {
+        "title": "[IAA 2025] 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 10:30",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=710916"
+    },
+    {
+        "title": "이주형 삼성D 중소형사업부장 삼성 OLED, 미래 모빌리티 핵심 플랫폼 될...",
+        "date": "2025-09-11 10:26",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=272142"
+    },
+    {
+        "title": "아이폰17 프로맥스는 '2000달러 아이폰 시대' 신호탄",
+        "date": "2025-09-11 10:22",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092147272"
+    },
+    {
+        "title": "이주형 삼성D 중소형사업부장 OLED, 미래 모빌리티 핵심플랫폼",
+        "date": "2025-09-11 10:16",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=144268"
+    },
+    {
+        "title": "이주형 삼성D 중소형사업부장 삼성 OLED, 미래 모빌리티 핵심 플랫폼 될...",
+        "date": "2025-09-11 10:16",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3316518"
+    },
+    {
+        "title": "이주형 삼성D 부사장 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 10:15",
+        "link": "https://n.news.naver.com/mnews/article/011/0004531808?sid=101"
+    },
+    {
+        "title": "아이폰17 출시 中 반응 시큰둥… eSIM 제한·AI 기능 지연 변수",
+        "date": "2025-09-11 10:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591161"
+    },
+    {
+        "title": "애플 아이폰 에어, 맥북 프로급 성능…과연 사실일까?",
+        "date": "2025-09-11 10:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591121"
+    },
+    {
+        "title": "이주형 삼성D 중소형사업부장 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 10:08",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=81568"
+    },
+    {
+        "title": "[오늘의 DT인] “미래 모빌리티 구현하기 위해선 OLED 디스플레이 반드...",
+        "date": "2025-09-11 10:08",
+        "link": "https://n.news.naver.com/mnews/article/029/0002981557?sid=101"
+    },
+    {
+        "title": "애플, '에어팟 프로 3' USB-C 충전 케이블 별도 판매",
+        "date": "2025-09-11 10:08",
+        "link": "https://kbench.com/?q=node/271234"
+    },
+    {
+        "title": "서린씨앤아이, 6.86인치 IPS LCD 탑재한 서멀라이트 트로페오 비전 360 AR...",
+        "date": "2025-09-11 10:04",
+        "link": "https://kbench.com/?q=node/271235"
+    },
+    {
+        "title": "삼성디스플레이, 차량용 OLED 비전 제시…미래 모빌리티 핵심 플랫폼될...",
+        "date": "2025-09-11 09:54",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=251850"
+    },
+    {
+        "title": "애플워치 시리즈11·울트라3, 배터리 성능 얼마나 좋아졌나",
+        "date": "2025-09-11 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591097"
+    },
+    {
+        "title": "애플 홈팟, 스마트 음악 경험 강화…홈팟26 새 기능 공개",
+        "date": "2025-09-11 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591103"
+    },
+    {
+        "title": "車 안이 곧 거실·사무실 삼성D, OLED로 모빌리티 플랫폼 선점 선언",
+        "date": "2025-09-11 09:51",
+        "link": "https://n.news.naver.com/mnews/article/119/0003001391?sid=101"
+    },
+    {
+        "title": "이주형 삼성디스플레이 부사장 OLED로 모빌리티-사람 연결",
+        "date": "2025-09-11 09:38",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=810726"
+    },
+    {
+        "title": "'다시 찾는 성경 앱' 바이블애플…재사용률 95% 업계 평균 훌쩍 넘어",
+        "date": "2025-09-11 09:38",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=450473"
+    },
+    {
+        "title": "이주형 삼성D 사업부장 OLED, 미래 모빌리티 핵심 플랫폼 [소부장디과...",
+        "date": "2025-09-11 09:36",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204643?sid=105"
+    },
+    {
+        "title": "삼성디스플레이 부사장 이주형 삼성 OLED, 미래 모빌리티 핵심 인프라...",
+        "date": "2025-09-11 09:36",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=411479"
+    },
+    {
+        "title": "삼성디스플레이 차량용 올레드로 미래 모빌리티 연다[IAA 2025]",
+        "date": "2025-09-11 09:36",
+        "link": "https://n.news.naver.com/mnews/article/003/0013474716?sid=101"
+    },
+    {
+        "title": "이주형 삼성디스플레이 중소형사업부장 삼성 OLED, 미래 모빌리티 핵심...",
+        "date": "2025-09-11 09:34",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065573021201769"
+    },
+    {
+        "title": "이주형 사업부장 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 09:34",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=93681"
+    },
+    {
+        "title": "이주형 삼성D 부사장 OLED, 모빌리티 핵심 인프라",
+        "date": "2025-09-11 09:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591115"
+    },
+    {
+        "title": "'차량용 OLED 1위' 삼성D 고객 로드맵과 동기화",
+        "date": "2025-09-11 09:30",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4373975"
+    },
+    {
+        "title": "아이큐어, 러시아 골드애플에 화장품 직수출 납품 개시",
+        "date": "2025-09-11 09:25",
+        "link": "https://n.news.naver.com/mnews/article/018/0006112463?sid=101"
+    },
+    {
+        "title": "정식품, '베지밀 꼭꼭 씹히는 애플망고두유' 과일박스 키트 한정 판매",
+        "date": "2025-09-11 09:24",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=96791"
+    },
+    {
+        "title": "[Biz&amp;Law] 삼성에피스, 아일리아 '045특허' 불공정행위 반소 유지 성공",
+        "date": "2025-09-11 09:24",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=670266"
+    },
+    {
+        "title": "폴더블·롤러블 커버윈도우 시장, 2029년 7억 달러 돌파",
+        "date": "2025-09-11 09:21",
+        "link": "https://n.news.naver.com/mnews/article/003/0013474635?sid=101"
+    },
+    {
+        "title": "정식품, '베지밀 애플망고두유' 과일박스 키트 한정 판매",
+        "date": "2025-09-11 09:20",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2327848"
+    },
+    {
+        "title": "정식품, '베지밀 꼭꼭 씹히는 애플망고두유' 과일박스 키트 한정판매",
+        "date": "2025-09-11 09:16",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=676887"
+    },
+    {
+        "title": "폴더블·롤러블 커버윈도우 시장, 2029년 7억 달러 돌파…UTG 확대·CPI 축...",
+        "date": "2025-09-11 09:14",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=322262"
+    },
+    {
+        "title": "이주형 삼성D 부사장 삼성 OLED, AI·딥러닝 접목해 안전주행·스마트인...",
+        "date": "2025-09-11 09:14",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=114353"
+    },
+    {
+        "title": "폴더블·롤러블용 부품소재 급성장…2029년 7억달러 시장 형성",
+        "date": "2025-09-11 09:11",
+        "link": "https://n.news.naver.com/mnews/article/001/0015618911?sid=101"
+    },
+    {
+        "title": "삼성D “삼성 OLED, 미래 모빌리티 핵심 플랫폼” [IAA 2025]",
+        "date": "2025-09-11 09:09",
+        "link": "https://n.news.naver.com/mnews/article/016/0002527372?sid=101"
+    },
+    {
+        "title": "[IAA 2025] 이주형 삼성D 부사장 “삼성 OLED로 사람과 미래 모빌리티 연...",
+        "date": "2025-09-11 09:08",
+        "link": "https://n.news.naver.com/mnews/article/366/0001107122?sid=105"
+    },
+    {
+        "title": "삼성 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 09:07",
+        "link": "https://n.news.naver.com/mnews/article/092/0002389931?sid=105"
+    },
+    {
+        "title": "삼성디스플레이 “삼성 OLED, 미래 모빌리티 핵심 플랫폼”",
+        "date": "2025-09-11 09:04",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1274525&inflow=N"
+    },
+    {
+        "title": "이주형 삼성D 부사장 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 09:02",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250911010006074"
+    },
+    {
+        "title": "이주형 삼성디스플레이 중소형사업부장 “삼성 OLED는 미래 모빌리티 핵...",
+        "date": "2025-09-11 09:02",
+        "link": "https://www.cnbnews.com/news/article.html?no=749549"
+    },
+    {
+        "title": "정식품, '베지밀 꼭꼭 씹히는 애플망고두유' 키트 한정 판매",
+        "date": "2025-09-11 09:02",
+        "link": "https://www.sentv.co.kr/article/view/sentv202509110025"
+    },
+    {
+        "title": "정식품, '베지밀 꼭꼭 씹히는 애플망고두유' 과일박스 키트 한정 판매",
+        "date": "2025-09-11 08:58",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=3995451"
+    },
+    {
+        "title": "초슬림에 폴더블까지…삼성·애플 스마트폰 경쟁 격화",
+        "date": "2025-09-11 08:52",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4373962"
+    },
+    {
+        "title": "삼성, 2Q 글로벌 스마트폰 출하량 1위…2위 애플 3위 샤오미[모닝폰]",
+        "date": "2025-09-11 08:52",
+        "link": "https://n.news.naver.com/mnews/article/018/0006112415?sid=105"
+    },
+    {
+        "title": "정식품, ‘베지밀 꼭꼭 씹히는 애플망고두유’ 키트 한정 판매",
+        "date": "2025-09-11 08:52",
+        "link": "https://n.news.naver.com/mnews/article/016/0002527350?sid=101"
+    },
+    {
+        "title": "Samsung Display eyes bolstering mobility portfolio with OLED solutions",
+        "date": "2025-09-11 08:50",
+        "link": "https://n.news.naver.com/mnews/article/001/0015618847?sid=104"
+    },
+    {
+        "title": "삼성디스플레이 삼성 OLED, 글로벌 완성차 '전장 동반자'로 최적",
+        "date": "2025-09-11 08:47",
+        "link": "https://n.news.naver.com/mnews/article/421/0008479319?sid=101"
+    },
+    {
+        "title": "삼성디스플레이 “차량용 OLED, 자율주행 모빌리티 핵심될 것”",
+        "date": "2025-09-11 08:46",
+        "link": "https://www.ekn.kr/web/view.php?key=20250911022355830"
+    },
+    {
+        "title": "이주형 삼성D 부사장 삼성 OLED, 자율주행차와 사람 잇는 플랫폼 될 것...",
+        "date": "2025-09-11 08:46",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1678166"
+    },
+    {
+        "title": "삼성D 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 08:44",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=223461"
+    },
+    {
+        "title": "이주형 삼성D 중소형사업부장 삼성 OLED, 미래 모빌리티 핵심 플랫폼 될...",
+        "date": "2025-09-11 08:44",
+        "link": "https://www.etoday.co.kr/news/view/2505363"
+    },
+    {
+        "title": "LG이노텍, 아이폰향 생산비 줄고 부품 고급화…수익개선-대신",
+        "date": "2025-09-11 08:44",
+        "link": "https://n.news.naver.com/mnews/article/008/0005248810?sid=101"
+    },
+    {
+        "title": "이주형 삼성D 부사장 고급 디스플레이 OLED로 모빌리티 시장 공략",
+        "date": "2025-09-11 08:43",
+        "link": "https://n.news.naver.com/mnews/article/014/0005405034?sid=101"
+    },
+    {
+        "title": "이주형 삼성D 중소형사업부장 고객 로드맵 따라 개발 연계…사전 협업...",
+        "date": "2025-09-11 08:42",
+        "link": "https://www.newspim.com/news/view/20250911000071"
+    },
+    {
+        "title": "이주형 삼성디스플레이 부사장 삼성 OLED, 미래 모빌리티 핵심",
+        "date": "2025-09-11 08:40",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1280700"
+    },
+    {
+        "title": "베트남, 아이폰17 1차 출시국 포함…12일부터 사전 주문",
+        "date": "2025-09-11 08:40",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=40810"
+    },
+    {
+        "title": "이주형 사업부장 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 08:40",
+        "link": "https://www.ajunews.com/view/20250911082714277"
+    },
+    {
+        "title": "'폴더블·롤러블용' 커버윈도우, 2029년 7억달러 돌파",
+        "date": "2025-09-11 08:36",
+        "link": "https://n.news.naver.com/mnews/article/018/0006112390?sid=101"
+    },
+    {
+        "title": "이주형 삼성D 부사장 삼성 OLED, 미래 모빌리티 핵심 플랫폼 될 것",
+        "date": "2025-09-11 08:36",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=606537"
+    },
+    {
+        "title": "이주형 삼성D 부사장 OLED, 모빌리티 핵심…멀티 라미네이션 솔루션 제...",
+        "date": "2025-09-11 08:32",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1269465"
+    },
+    {
+        "title": "이주형 삼성D 사업부장 미래 모빌리티 핵심은 '삼성 OLED'",
+        "date": "2025-09-11 08:28",
+        "link": "https://n.news.naver.com/mnews/article/018/0006112375?sid=101"
+    },
+    {
+        "title": "아이폰 프로 맥스 사용자가 아이폰17 건너뛰어야 하는 이유",
+        "date": "2025-09-11 08:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591059"
+    },
+    {
+        "title": "[IAA 모빌리티 2025] 이주형 삼성디스플레이 부사장 삼성 OLED, 미래 모빌...",
+        "date": "2025-09-11 08:24",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=232923"
+    },
+    {
+        "title": "이주형 삼성D 부사장 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 08:23",
+        "link": "https://n.news.naver.com/mnews/article/417/0001100618?sid=101"
+    },
+    {
+        "title": "이주형 삼성디스플레이 부사장 삼성 OLED, 미래 모빌리티 핵심 플랫폼...",
+        "date": "2025-09-11 08:22",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=666493"
+    },
+    {
+        "title": "아마존, 소비자용 스마트 안경 개발…내년 출시",
+        "date": "2025-09-11 08:22",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1678160"
+    },
+    {
+        "title": "'아이폰 에어' 출격...삼성과 슬림폰 경쟁 격화",
+        "date": "2025-09-11 08:18",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=347386"
+    },
+    {
+        "title": "아마존, 내년 말 소비자용 스마트 안경 출시",
+        "date": "2025-09-11 08:09",
+        "link": "https://n.news.naver.com/mnews/article/030/0003349252?sid=101"
+    },
+    {
+        "title": "새 아이폰 실망, 애플 오늘도 3.23% 급락…이틀 연속 하락",
+        "date": "2025-09-11 08:06",
+        "link": "https://n.news.naver.com/mnews/article/421/0008479226?sid=104"
+    },
+    {
+        "title": "삼성D 삼성 OLED, 미래 모빌리티 핵심 플랫폼 될 것",
+        "date": "2025-09-11 08:05",
+        "link": "https://n.news.naver.com/mnews/article/001/0015618778?sid=101"
+    },
+    {
+        "title": "이주형 삼성D 중소형사업부장 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 08:04",
+        "link": "https://n.news.naver.com/mnews/article/277/0005650156?sid=101"
+    },
+    {
+        "title": "작정한 애플, ‘프로’는 공부 시키고 ‘에어’는 모델 시킨다",
+        "date": "2025-09-11 08:00",
+        "link": "https://n.news.naver.com/mnews/article/241/0003465410?sid=105"
+    },
+    {
+        "title": "이주형 삼성D 사업부장 삼성 OLED, 미래 모빌리티 핵심 플랫폼",
+        "date": "2025-09-11 07:54",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025091107414073309"
+    },
+    {
+        "title": "너네 아직도 폴더블 없어?…아이폰17 공개되자마자 애플 '놀려먹은' 삼...",
+        "date": "2025-09-11 07:53",
+        "link": "https://n.news.naver.com/mnews/article/011/0004531710?sid=101"
+    },
+    {
+        "title": "'IAA 모빌리티 2025' 컨퍼런스 패널 참석, 차량용 사업 비전 소개",
+        "date": "2025-09-11 07:50",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=66167"
+    },
+    {
+        "title": "삼성디스플레이 삼성 OLED, 자율주행 미래 모빌리티 핵심 플랫폼될 것...",
+        "date": "2025-09-11 07:44",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202509110735057084a3c244e1c9_23"
+    },
+    {
+        "title": "이주형 부사장 삼성 OLED, 미래 모빌리티 핵심 플랫폼 될 것",
+        "date": "2025-09-11 07:43",
+        "link": "http://thetracker.co.kr/View.aspx?No=3777982"
+    },
+    {
+        "title": "애플이 또... '아이폰 에어' 실망에 LG이노텍 5% 폭락",
+        "date": "2025-09-11 07:42",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=375790"
+    },
+    {
+        "title": "아마존, 내년 말 소비자용 스마트 안경 출시…메타 등과 경쟁",
+        "date": "2025-09-11 07:16",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=195217"
+    },
+    {
+        "title": "윈도 종속 깨는 리눅스… 마지막 고지 PC시장 넘본다 [리눅스 월드 ②]",
+        "date": "2025-09-11 07:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092147080"
+    }
+]
