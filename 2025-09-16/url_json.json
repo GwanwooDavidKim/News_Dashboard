@@ -1,1 +1,532 @@
-
+[
+    {
+        "title": "케이스 끼는데 얇으면 무슨 소용?...슬림형 스마트폰 흥행 가능할까",
+        "date": "2025-09-15 22:00",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=269794"
+    },
+    {
+        "title": "장영란, 출산 후 21kg 감량…애플힙은 역시 남편 ‘♥한창’이 찍어야 ...",
+        "date": "2025-09-15 21:27",
+        "link": "https://m.entertain.naver.com/article/410/0001089545"
+    },
+    {
+        "title": "혁신 잃은 애플·도전하는 삼성… 스마트폰 시장 판도 바뀌나",
+        "date": "2025-09-15 21:12",
+        "link": "https://n.news.naver.com/mnews/article/022/0004068382?sid=101"
+    },
+    {
+        "title": "GOT7 출신 잭슨, 신곡 ‘Let Loose’와 함께 ‘MAGIC MAN 2’ 월드 투어 돌...",
+        "date": "2025-09-15 20:47",
+        "link": "https://m.entertain.naver.com/article/144/0001067501"
+    },
+    {
+        "title": "실제 작품보다 더 좋네...10억대 작품 옆에서 빛난 LG OLED TV",
+        "date": "2025-09-15 19:29",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=331120"
+    },
+    {
+        "title": "“한 해 언팩 네 번”…삼성 ‘두 번 접는 폰’ 출시 임박",
+        "date": "2025-09-15 18:48",
+        "link": "https://www.sentv.co.kr/article/view/sentv202509150120"
+    },
+    {
+        "title": "용인 바나나·한라봉·애플망고… ‘아열대 작물’ 신소득원 찾는다",
+        "date": "2025-09-15 18:42",
+        "link": "https://www.kyeongin.com/article/1751589"
+    },
+    {
+        "title": "[단독] LGD, 中 BOE 대신 아이폰 패널 공급한다",
+        "date": "2025-09-15 18:33",
+        "link": "https://n.news.naver.com/mnews/article/014/0005407171?sid=101"
+    },
+    {
+        "title": "아이폰 가격 동결 통했나…품절 사태에 갤럭시 경쟁 본격화",
+        "date": "2025-09-15 18:16",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025091515244665806ed0c62d49_1/article.html"
+    },
+    {
+        "title": "더 얇고 가벼운 '완성형 태블릿'… 고사양 게임 원활 [IT 써보니]",
+        "date": "2025-09-15 18:04",
+        "link": "https://n.news.naver.com/mnews/article/014/0005407082?sid=105"
+    },
+    {
+        "title": "최저가 20만원부터 시작! '갤럭시 탭 A11' 인도 가격 유출",
+        "date": "2025-09-15 17:54",
+        "link": "https://kbench.com/?q=node/271363"
+    },
+    {
+        "title": "BOE, 5.5세대 B6 라인 MLED 전환 투자 시작",
+        "date": "2025-09-15 17:46",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=40758"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 이벤트...에어팟·애플워치 경품 증정",
+        "date": "2025-09-15 17:46",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=119462"
+    },
+    {
+        "title": "키움증권, RP 첫 거래… '에어팟· 애플워치 등이 내 손에'",
+        "date": "2025-09-15 17:42",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=840671"
+    },
+    {
+        "title": "키움증권 RP 첫 거래하고 에어팟?애플워치 받아가세요",
+        "date": "2025-09-15 17:40",
+        "link": "http://theviewers.co.kr/View.aspx?No=3782850"
+    },
+    {
+        "title": "[뉴스줌인] 게이밍 브라우저 '오페라 GX' 이젠 스마트홈 기능까지",
+        "date": "2025-09-15 17:38",
+        "link": "https://it.donga.com/107560/"
+    },
+    {
+        "title": "이번엔 애플 계정 해킹…23차례 걸쳐 100만원 털려",
+        "date": "2025-09-15 17:30",
+        "link": "https://n.news.naver.com/mnews/article/011/0004533344?sid=105"
+    },
+    {
+        "title": "위기의 韓 TV…삼성·LG, '마이크로 RGB TV'로 돌파구 찾는다",
+        "date": "2025-09-15 17:10",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=252816"
+    },
+    {
+        "title": "[DD퇴근길] 통신 침해사고, 5G는 안전?…통신망 위험, 완전 제거 불가",
+        "date": "2025-09-15 17:06",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204938?sid=105"
+    },
+    {
+        "title": "[수익 내비게이터] 삼성전자 파운드리· 테슬라· 애플 물량 수주 '에이...",
+        "date": "2025-09-15 17:04",
+        "link": "https://news.mtn.co.kr/news-detail/2025091516585044959"
+    },
+    {
+        "title": "'100만원' 넘는 스마트폰, 시각장애인은 여전히 피처폰만 만지작 거린다",
+        "date": "2025-09-15 17:02",
+        "link": "https://www.ablenews.co.kr/news/articleView.html?idxno=224417"
+    },
+    {
+        "title": "日 전유물 이온주입장비 첫 국산화…양산 적용 주목",
+        "date": "2025-09-15 17:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003350823?sid=105"
+    },
+    {
+        "title": "[르포] 폴더블폰 약진에도 “애플 A/S 더 좋다”…삼성 스마트폰, 日공...",
+        "date": "2025-09-15 17:00",
+        "link": "https://www.ekn.kr/web/view.php?key=20250915020397013"
+    },
+    {
+        "title": "키움증권, RP 신규 고객에 에어팟·애플워치 증정",
+        "date": "2025-09-15 16:48",
+        "link": "http://www.sisacast.kr/news/articleView.html?idxno=81811"
+    },
+    {
+        "title": "'포스트 스마트폰' 스마트글래스 시대 성큼…한국은 뒤처지나",
+        "date": "2025-09-15 16:43",
+        "link": "https://www.kpinews.kr/newsView/1065597176870134"
+    },
+    {
+        "title": "[K전자 큰손 애플] 中 무섭게 오르네…LGD, '골든타임' 1년뿐",
+        "date": "2025-09-15 16:42",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=30521"
+    },
+    {
+        "title": "갤럭시 S26, 'Qi2' 도입 여파로 디자인·설계 급변 유력... 기술도 설계...",
+        "date": "2025-09-15 16:32",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804088"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 이벤트...에어팟· 애플워치 등 제공",
+        "date": "2025-09-15 16:25",
+        "link": "https://www.newspim.com/news/view/20250915001011"
+    },
+    {
+        "title": "애플 '아이폰17', 이번주 국내 상륙…통신 3사 공시지원금 전년도와 동...",
+        "date": "2025-09-15 16:22",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592875106829"
+    },
+    {
+        "title": "TCL CSOT, 8.6세대 잉크젯 OLED 라인 건설 착수…5조7550억원 규모 [소부...",
+        "date": "2025-09-15 16:18",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204934?sid=105"
+    },
+    {
+        "title": "[이슈포커스] 삼성전자, '2번 접는' 폴드폰 10월 출시…미·중과 경쟁 치...",
+        "date": "2025-09-15 16:12",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=508593"
+    },
+    {
+        "title": "키움증권 RP 첫 거래, 에어팟·애플워치 받아가세요",
+        "date": "2025-09-15 16:04",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=238881"
+    },
+    {
+        "title": "서린씨앤아이, 6.67인치 AMOLED 곡면 디스플레이 탑재한 서멀라이트 원더...",
+        "date": "2025-09-15 15:56",
+        "link": "https://www.thisisgame.com/articles/402602"
+    },
+    {
+        "title": "애플, iOS 26 베일 벗는다…사용자 경험 싹 바꿀 것",
+        "date": "2025-09-15 15:50",
+        "link": "https://n.news.naver.com/mnews/article/092/0002390464?sid=105"
+    },
+    {
+        "title": "잭슨의 특별한 음악 선물…신곡 'Let Loose' 발매",
+        "date": "2025-09-15 15:48",
+        "link": "https://m.entertain.naver.com/article/030/0003350758"
+    },
+    {
+        "title": "첫 거래만 해도 포인트·에어팟·애플워치 키움증권 RP 이벤트",
+        "date": "2025-09-15 15:38",
+        "link": "https://www.insight.co.kr/news/520116"
+    },
+    {
+        "title": "애플 신형 아이폰17, 中서 예약 판매 1분 만에 전작 첫날 기록 돌파",
+        "date": "2025-09-15 15:34",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536365"
+    },
+    {
+        "title": "‘23kg 감량 성공’ 장영란, 운동 후 신난 ‘애플힙’",
+        "date": "2025-09-15 15:22",
+        "link": "https://m.entertain.naver.com/article/382/0001223675"
+    },
+    {
+        "title": "혁신없고 못생겼다더니...아이폰17 전작보다 잘 팔려",
+        "date": "2025-09-15 14:55",
+        "link": "https://n.news.naver.com/mnews/article/031/0000965351?sid=105"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 이벤트 실시…에어팟·애플워치 등이 내 손에",
+        "date": "2025-09-15 14:50",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=111199"
+    },
+    {
+        "title": "라인게임즈 '베리드 스타즈' 모바일 버전 애플 앱스토어 출시",
+        "date": "2025-09-15 14:42",
+        "link": "https://gamefocus.co.kr/detail.php?number=169225"
+    },
+    {
+        "title": "'신무기' 잉크젯 장착...CSOT, 8세대 OLED에 5.8조 투자",
+        "date": "2025-09-15 14:33",
+        "link": "https://n.news.naver.com/mnews/article/030/0003350682?sid=105"
+    },
+    {
+        "title": "애니모션텍, 차세대 폴더블폰 위한 레이저 장비 ‘SP3965 EPN’ 공개",
+        "date": "2025-09-15 14:16",
+        "link": "https://www.hellot.net/news/article.html?no=105430"
+    },
+    {
+        "title": "아이폰17e부터 스마트홈 허브까지…애플, 2026년 신제품 로드맵 공개",
+        "date": "2025-09-15 14:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591819"
+    },
+    {
+        "title": "삼성·LG전자 'AI 허브' 경쟁…더 똑똑해진다",
+        "date": "2025-09-15 14:10",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=278073"
+    },
+    {
+        "title": "라인게임즈, '베리드 스타즈' 애플 앱스토어 버전 출시",
+        "date": "2025-09-15 14:08",
+        "link": "https://n.news.naver.com/mnews/article/003/0013482477?sid=105"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 이벤트… 에어팟∙애플워치 경품 기회",
+        "date": "2025-09-15 14:00",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=165754"
+    },
+    {
+        "title": "'아이폰 17' 다음 타자는 누구? 애플 신제품 출시 전망 살펴보니",
+        "date": "2025-09-15 13:56",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=144461"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 에어팟·애플워치 등 증정 이벤트",
+        "date": "2025-09-15 13:44",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=97091"
+    },
+    {
+        "title": "삼성·LG전자 'AI 허브' 경쟁…더 똑똑해진다",
+        "date": "2025-09-15 13:32",
+        "link": "https://n.news.naver.com/mnews/article/003/0013482341?sid=101"
+    },
+    {
+        "title": "애플 팀 쿡 한국도 전 세계와 같은 경험 원해…지도 반출 의식했나",
+        "date": "2025-09-15 13:30",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=278061"
+    },
+    {
+        "title": "컴투스홀딩스 아레스, 대만 구글-애플 1위 꿰찼다...亞 흥행 열기 가열",
+        "date": "2025-09-15 13:10",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=144458"
+    },
+    {
+        "title": "갤럭시 S25 FE·갤러시 탭 S11 공개 삼성전자 AI 경험 확장",
+        "date": "2025-09-15 13:04",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=177320"
+    },
+    {
+        "title": "갓세븐 잭슨, 애플 손잡고 ‘Let Loose’ 발표…MV 연출도 직접",
+        "date": "2025-09-15 12:57",
+        "link": "https://m.entertain.naver.com/article/396/0000721350"
+    },
+    {
+        "title": "ROG, 한가위 맞이 알리 할인 개시! 최신 게이밍 기어를 특별한 가격에!",
+        "date": "2025-09-15 12:54",
+        "link": "https://kbench.com/?q=node/271337"
+    },
+    {
+        "title": "애플, 내년 봄까지 M5 아이패드 프로 포함 10종 신제품 무더기 출시 전망",
+        "date": "2025-09-15 11:54",
+        "link": "https://kbench.com/?q=node/271329"
+    },
+    {
+        "title": "아이폰 17 시리즈 100만 원 이하로 구매한다... 이통 3사 보조금 빗장 푸...",
+        "date": "2025-09-15 11:46",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804061"
+    },
+    {
+        "title": "미 애플워치 고혈압 경보 기능 승인",
+        "date": "2025-09-15 11:38",
+        "link": "http://www.bosa.co.kr/news/articleView.html?idxno=2257654"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 이벤트…에어팟·애플워치 경품 증정",
+        "date": "2025-09-15 11:35",
+        "link": "https://n.news.naver.com/mnews/article/003/0013482057?sid=101"
+    },
+    {
+        "title": "애플 팀 쿡 한국도 전 세계와 같은 경험 원해…지도 반출 의식했나",
+        "date": "2025-09-15 11:31",
+        "link": "https://n.news.naver.com/mnews/article/003/0013482022?sid=105"
+    },
+    {
+        "title": "혁신없다? 애플워치 시리즈11… 성능 개선에 초점",
+        "date": "2025-09-15 11:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591915"
+    },
+    {
+        "title": "키움증권 “원화·달러 RP 첫 거래 하고 에어팟·애플워치 받으세요”",
+        "date": "2025-09-15 11:10",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/15/2025091500156.html"
+    },
+    {
+        "title": "통신 3사,아이폰 17 프로 · 에어 공통지원금 45만원...보상 프로그램 공...",
+        "date": "2025-09-15 11:10",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=86300"
+    },
+    {
+        "title": "삼성, '트라이폴드 AI 폰' 이르면 내달 출시…폴더블 기술력 뽐낸다",
+        "date": "2025-09-15 11:10",
+        "link": "https://n.news.naver.com/mnews/article/277/0005651985?sid=105"
+    },
+    {
+        "title": "닌텐도, 버추얼 보이 게임 첫 공식 리마스터…추억의 VR이 돌아온다",
+        "date": "2025-09-15 11:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=591870"
+    },
+    {
+        "title": "키움증권에서 'RP 첫 거래'하면 에어팟·애플워치를 준다고?",
+        "date": "2025-09-15 11:00",
+        "link": "http://www.metroseoul.co.kr/article/20250915500114"
+    },
+    {
+        "title": "[특징주] KBI메탈, 美 BESS 진출에 상승…구글·애플 전력 공급 기대",
+        "date": "2025-09-15 11:00",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=667130"
+    },
+    {
+        "title": "아이폰 에어는 폴더블 아이폰을 위한 징검다리",
+        "date": "2025-09-15 10:54",
+        "link": "https://www.itworld.co.kr/article/4056786/아이폰-에어는-폴더블-아이폰을-위한-징검다리.html"
+    },
+    {
+        "title": "아이폰 16 그대로 쓸까, 아이폰 17로 갈아탈까?",
+        "date": "2025-09-15 10:50",
+        "link": "https://www.cnet.co.kr/view/?no=20250915104118"
+    },
+    {
+        "title": "아이폰 17 프로 맥스 코스믹 오렌지, 美 출시 전 벌써 품절",
+        "date": "2025-09-15 10:50",
+        "link": "https://www.itworld.co.kr/article/4056780/아이폰-17-프로-맥스-코스믹-오렌지-美-출시-전-벌써-품.html"
+    },
+    {
+        "title": "AI 탑재는 늦어지는데…애플 'AI 두뇌' 또 퇴사",
+        "date": "2025-09-15 10:48",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=73822"
+    },
+    {
+        "title": "애플 신제품 라인업 총정리ㅣ마리끌레르",
+        "date": "2025-09-15 10:42",
+        "link": "https://www.marieclairekorea.com/culture/lifestyle/2025/09/apple-event/?utm_source=naver&utm_medium=partnership"
+    },
+    {
+        "title": "삼성디스플레이, 차세대 디스플레이 아이디어 공모…최대 8억 지원",
+        "date": "2025-09-15 10:42",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=238827"
+    },
+    {
+        "title": "애플 '가성비' 전략 이어갈까, 가격 경쟁력 앞세운 아이폰17e 출시 준비",
+        "date": "2025-09-15 10:40",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=411922"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 고객에 에어팟·애플워치 제공 이벤트 실시",
+        "date": "2025-09-15 10:26",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=524104"
+    },
+    {
+        "title": "애플 무대 선 ‘명일방주: 엔드필드’, 2026년 초 전 세계 출시 예고…‘...",
+        "date": "2025-09-15 10:26",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250915001023398"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 이벤트…에어팟·애플워치 경품 증정",
+        "date": "2025-09-15 10:22",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202509151019148621edf69f862c_1/article.html"
+    },
+    {
+        "title": "A19, N1, C1X…애플 실리콘의 눈부신 진화",
+        "date": "2025-09-15 10:14",
+        "link": "https://www.itworld.co.kr/article/4056745/a19-n1-c1x애플-실리콘의-눈부신-진화.html"
+    },
+    {
+        "title": "'영포티' 손에 들린 아이폰17 프로맥스... 커뮤서 난리난 '아이폰 구매...",
+        "date": "2025-09-15 10:14",
+        "link": "https://www.insight.co.kr/news/520083"
+    },
+    {
+        "title": "삼성과 애플, '고급화'에 취해 '보급형'을 잊었는가?",
+        "date": "2025-09-15 10:00",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=51683"
+    },
+    {
+        "title": "컴투스홀딩스 '아레스 : 선택받은 자', 대만 구글, 애플 앱스토어 인기...",
+        "date": "2025-09-15 09:58",
+        "link": "https://gamefocus.co.kr/detail.php?number=169197"
+    },
+    {
+        "title": "키움증권, 'RP 첫 거래' 이벤트 전개…에어팟·애플워치 증정",
+        "date": "2025-09-15 09:56",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=252718"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 이벤트 … '에어팟·애플워치' 경품",
+        "date": "2025-09-15 09:56",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=406584"
+    },
+    {
+        "title": "최신 세대로 무장한 가성비 넘치는 게이밍 노트북, MSI 사이보그 A17 AI ...",
+        "date": "2025-09-15 09:52",
+        "link": "https://kbench.com/?q=node/271217"
+    },
+    {
+        "title": "[더벨][Company Watch]'정전척 솔루션' 이에스티, 예비 기술성평가 돌입",
+        "date": "2025-09-15 09:52",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509111100366320108936"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 에어팟 ・ 애플워치 등이 내 손에",
+        "date": "2025-09-15 09:50",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=202509150941552879a3c244e1c9_23"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 고객에…에어팟·애플워치 등 혜택 이벤트",
+        "date": "2025-09-15 09:49",
+        "link": "https://n.news.naver.com/mnews/article/018/0006115926?sid=101"
+    },
+    {
+        "title": "'갤럭시 탭 A11' 삼성 공식 웹사이트 등장…갤럭시 S 시리즈 닮은꼴",
+        "date": "2025-09-15 09:46",
+        "link": "https://kbench.com/?q=node/271310"
+    },
+    {
+        "title": "키움證 RP 거래하고 에어팟·애플워치 받아가세요",
+        "date": "2025-09-15 09:44",
+        "link": "https://n.news.naver.com/mnews/article/011/0004533070?sid=101"
+    },
+    {
+        "title": "삼성디스플레이·BOE에 독점 공급… 제닉스로보틱스 기술력 입증",
+        "date": "2025-09-15 09:40",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=376760"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 이벤트…에어팟·애플워치 경품 풀린다",
+        "date": "2025-09-15 09:39",
+        "link": "https://n.news.naver.com/mnews/article/016/0002528979?sid=101"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 에어팟 ・ 애플워치 등이 선물로",
+        "date": "2025-09-15 09:32",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=94119"
+    },
+    {
+        "title": "키움증권 RP 첫 거래하시고 에어팟·애플워치 받으세요",
+        "date": "2025-09-15 09:24",
+        "link": "https://n.news.naver.com/mnews/article/277/0005651810?sid=101"
+    },
+    {
+        "title": "키움증권, RP 첫 거래 이벤트...에어팟·애플워치 등 증정",
+        "date": "2025-09-15 09:18",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=233105"
+    },
+    {
+        "title": "초박형 '아이폰 에어', eSIM 규제로 중국 출시 지연 전망",
+        "date": "2025-09-15 09:06",
+        "link": "https://kbench.com/?q=node/271308"
+    },
+    {
+        "title": "애플, 내일 iOS 26·아이패드OS 26 동시 출시…어떤 기능 담겼을까 [MOVIE...",
+        "date": "2025-09-15 09:04",
+        "link": "https://n.news.naver.com/mnews/article/138/0002204871?sid=105"
+    },
+    {
+        "title": "KT, 12일부터 아이폰 17 시리즈 사전 예약 시작",
+        "date": "2025-09-15 08:50",
+        "link": "https://www.ilyosisa.co.kr/news/article.html?no=251671"
+    },
+    {
+        "title": "'AI 실시간 번역' 경쟁 뜨겁다 [친절한 IT]",
+        "date": "2025-09-15 08:43",
+        "link": "https://n.news.naver.com/mnews/article/293/0000072440?sid=105"
+    },
+    {
+        "title": "폴더블폰 불모지서 '대박'…'갤폴드7' 제대로 일냈다[모닝폰]",
+        "date": "2025-09-15 08:11",
+        "link": "https://n.news.naver.com/mnews/article/018/0006115757?sid=105"
+    },
+    {
+        "title": "잭슨, 아티스트이자 감독으로…애플과 손잡고 'Let Loose' 뮤직비디오 공...",
+        "date": "2025-09-15 08:09",
+        "link": "https://m.entertain.naver.com/article/408/0000280535"
+    },
+    {
+        "title": "삼성디스플레이, 국내 대학 대상 혁신 기술 첫 공개모집",
+        "date": "2025-09-15 07:52",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=195337"
+    },
+    {
+        "title": "[요즈음] 편리하다는 애플페이 교통카드…그냥 기후동행카드 쓸래요",
+        "date": "2025-09-15 07:32",
+        "link": "https://www.asiatime.co.kr/article/20250912500351"
+    },
+    {
+        "title": "[모바일 On] 1차 출시국에 한국 포함된 애플 아이폰17, 공통지원금 최대...",
+        "date": "2025-09-15 07:26",
+        "link": "https://kidd.co.kr/news/243183"
+    },
+    {
+        "title": "비에이치, 폴더블 스마트폰 시장 확대 '수혜' 속 IT OLED 회복까지 '겹호...",
+        "date": "2025-09-15 07:24",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=704244"
+    },
+    {
+        "title": "누가 왕이 될 상인가…OLED vs RGB, 프리미엄TV 경쟁 '승자'는",
+        "date": "2025-09-15 07:07",
+        "link": "https://n.news.naver.com/mnews/article/421/0008485469?sid=101"
+    },
+    {
+        "title": "갓세븐 잭슨, 애플 손잡고 신곡 'Let Loose' 공개…MV 아이폰 17 프로 촬...",
+        "date": "2025-09-15 07:06",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=677769"
+    }
+]
