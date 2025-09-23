@@ -1,1 +1,557 @@
-
+[
+    {
+        "title": "韓 디스플레이 위기… 세제·인력보호 등 전방위 지원 필요",
+        "date": "2025-09-24 04:10",
+        "link": "https://n.news.naver.com/mnews/article/008/0005254844?sid=101"
+    },
+    {
+        "title": "신안군, 세계 4대 환경상 ‘그린 애플 어워즈’ 수상",
+        "date": "2025-09-24 03:04",
+        "link": "https://n.news.naver.com/mnews/article/020/0003663212?sid=102"
+    },
+    {
+        "title": "박준영 삼성D 부사장 세액공제 개선·기술 유출 처벌 강화해야",
+        "date": "2025-09-23 21:10",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41225"
+    },
+    {
+        "title": "아산소방서, 추석 명절 화재예방 삼성디스플레이 안전점검",
+        "date": "2025-09-23 19:59",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=652867"
+    },
+    {
+        "title": "IT용 OLED, 3년후 중국이 역전...8.6G 투자 늘려야",
+        "date": "2025-09-23 19:42",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41224"
+    },
+    {
+        "title": "아이폰4부터 이어진 기스 문제...애플, 알루미늄 고집하는 이유는",
+        "date": "2025-09-23 19:20",
+        "link": "https://www.ajunews.com/view/20250923153226556"
+    },
+    {
+        "title": "아산소방서, 추석 명절 대비 삼성디스플레이(주) 안전점검",
+        "date": "2025-09-23 19:10",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=386125"
+    },
+    {
+        "title": "땡큐 아이폰17…아이폰 출시에 삼성·LG 부품사 3분기 실적 ‘맑음’",
+        "date": "2025-09-23 18:56",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025092315213045356ed0c62d49_1/article.html"
+    },
+    {
+        "title": "손목 위의 파리, 애플X에르메스 10주년 워치",
+        "date": "2025-09-23 18:26",
+        "link": "https://www.maisonkorea.com/tech/2025/09/apple-hermes/?utm_source=naver&utm_medium=partnership"
+    },
+    {
+        "title": "디스플레이산업협회, 국회에서 K-디스플레이 위기 돌파구 모색",
+        "date": "2025-09-23 18:18",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=271315"
+    },
+    {
+        "title": "BOE, 8.6세대 OLED 조기 양산…삼성D 추격 가속",
+        "date": "2025-09-23 18:08",
+        "link": "https://dealsite.co.kr/articles/148712"
+    },
+    {
+        "title": "국회서 호소한 삼성디스플레이·LGD… “경쟁국에 세제 지원 뒤처져, OL...",
+        "date": "2025-09-23 18:02",
+        "link": "https://n.news.naver.com/mnews/article/366/0001110365?sid=105"
+    },
+    {
+        "title": "[POWER COMPANY] SDV시대 고속성장… 업계유일 풀라인업",
+        "date": "2025-09-23 17:56",
+        "link": "https://n.news.naver.com/mnews/article/029/0002983885?sid=101"
+    },
+    {
+        "title": "[POWER COMPANY] 한낮에도 또렷하게… OLED 패널 기술 정점",
+        "date": "2025-09-23 17:56",
+        "link": "https://n.news.naver.com/mnews/article/029/0002983884?sid=101"
+    },
+    {
+        "title": "[POWER COMPANY] AX 혁신 원년… “차별적 고객가치 제시할 것”",
+        "date": "2025-09-23 17:55",
+        "link": "https://n.news.naver.com/mnews/article/029/0002983883?sid=101"
+    },
+    {
+        "title": "[현장] 中 추격에 흔들리는 K-디스플레이, 세제·특별법·투자 시급한...",
+        "date": "2025-09-23 17:52",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=95425"
+    },
+    {
+        "title": "애플은 휴대성, 삼성은 성능에 무게",
+        "date": "2025-09-23 17:45",
+        "link": "https://n.news.naver.com/mnews/article/009/0005563649?sid=105"
+    },
+    {
+        "title": "K-디스플레이, 특별법 제정 시급…OLED도 위태롭다",
+        "date": "2025-09-23 17:40",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=271333"
+    },
+    {
+        "title": "中에 밀리는 디스플레이? 조선업처럼 한국만의 카드",
+        "date": "2025-09-23 17:39",
+        "link": "https://n.news.naver.com/mnews/article/031/0000967676?sid=105"
+    },
+    {
+        "title": "삼성D·LGD 한목소리 세액 공제 기간 확대 촉구",
+        "date": "2025-09-23 17:36",
+        "link": "https://dealsite.co.kr/articles/148708"
+    },
+    {
+        "title": "“아이폰17 팬심 통했다”…LGD, 3년 만 적자탈출 하나",
+        "date": "2025-09-23 17:34",
+        "link": "https://www.sentv.co.kr/article/view/sentv202509230062"
+    },
+    {
+        "title": "中 추격에 '벼랑끝' K디스플레이…세액공제 제도 개선해야",
+        "date": "2025-09-23 17:25",
+        "link": "https://n.news.naver.com/mnews/article/018/0006123467?sid=101"
+    },
+    {
+        "title": "애플 첫 폴더블폰, 아이폰 에어보다 얇다…화면 주름 문제도 개선",
+        "date": "2025-09-23 17:12",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092147887"
+    },
+    {
+        "title": "마이크로 LED '선제 투자' 속도내는 中…AR용 LEDoS도 독점 체인 구축 ...",
+        "date": "2025-09-23 17:12",
+        "link": "https://n.news.naver.com/mnews/article/138/0002205653?sid=105"
+    },
+    {
+        "title": "中, 2028년 모바일PC OLED 생산능력 韓 추월",
+        "date": "2025-09-23 17:10",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/23/2025092300405.html"
+    },
+    {
+        "title": "디스플레이 업계 “OLED마저 中에 내줄 판…稅혜택 확대 등 정부 강력지...",
+        "date": "2025-09-23 17:09",
+        "link": "https://n.news.naver.com/mnews/article/016/0002533611?sid=101"
+    },
+    {
+        "title": "[데일리픽] 리퀴드 스테이킹 토큰 mXRP 공개…전기 트라이크 '비고즈' 눈...",
+        "date": "2025-09-23 17:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593584"
+    },
+    {
+        "title": "K디스플레이, 中 기술굴기 희생양 될 수도…삼성·LG, 세액공제 제도...",
+        "date": "2025-09-23 17:03",
+        "link": "https://n.news.naver.com/mnews/article/011/0004536567?sid=101"
+    },
+    {
+        "title": "韓 디스플레이 산업, ‘쌍두마차’서 밀려나나",
+        "date": "2025-09-23 17:02",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202509231454127070722"
+    },
+    {
+        "title": "韓 OLED도 위태롭다…삼성·LG '디스플레이 세액공제·R&amp;D 투자' 한목소...",
+        "date": "2025-09-23 16:53",
+        "link": "https://n.news.naver.com/mnews/article/277/0005656423?sid=101"
+    },
+    {
+        "title": "中 추격 속 韓 디스플레이 위기…제도 지원 없인 밀린다",
+        "date": "2025-09-23 16:49",
+        "link": "https://www.newspim.com/news/view/20250923000997"
+    },
+    {
+        "title": "아이폰, 4년 뒤 평균가 1000달러 전망… 스마트폰 가격 상승세 지속",
+        "date": "2025-09-23 16:49",
+        "link": "https://n.news.naver.com/mnews/article/366/0001110324?sid=105"
+    },
+    {
+        "title": "중국, 디스플레이 패권 장악…세제·인력보호 정책 필요",
+        "date": "2025-09-23 16:42",
+        "link": "https://n.news.naver.com/mnews/article/008/0005254664?sid=101"
+    },
+    {
+        "title": "애플, iOS 18.6.2 서명 중단.. iOS 26 다운그레이드 불가",
+        "date": "2025-09-23 16:38",
+        "link": "https://kbench.com/?q=node/271645"
+    },
+    {
+        "title": "애플, 신작 아이폰17 인기에 주가 ‘훨훨’…한 달 새 12% 반등",
+        "date": "2025-09-23 16:36",
+        "link": "https://www.etoday.co.kr/news/view/2509530"
+    },
+    {
+        "title": "글로벌 디스플레이 경쟁 심화…삼성D 기술유출 처벌 강화해야",
+        "date": "2025-09-23 16:35",
+        "link": "https://n.news.naver.com/mnews/article/374/0000465075?sid=101"
+    },
+    {
+        "title": "2030년 OLED가 LCD 앞지른다…韓, LCD 이어 OLED도 中 추격 위기",
+        "date": "2025-09-23 16:32",
+        "link": "https://n.news.naver.com/mnews/article/009/0005563557?sid=101"
+    },
+    {
+        "title": "디스플레이協, K-디스플레이 경쟁력 강화 위한 전략 모색 나서",
+        "date": "2025-09-23 16:30",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=186457"
+    },
+    {
+        "title": "삼성전자, 7월 글로벌 스마트폰 시장서 1위",
+        "date": "2025-09-23 16:23",
+        "link": "https://n.news.naver.com/mnews/article/029/0002983840?sid=105"
+    },
+    {
+        "title": "K-디스플레이 지속 투자 위해 세액공제 제도 개선 필요",
+        "date": "2025-09-23 16:22",
+        "link": "https://www.etoday.co.kr/news/view/2509524"
+    },
+    {
+        "title": "中 추격 가속…한국 디스플레이, 차세대 기술로 반격 나서야",
+        "date": "2025-09-23 16:12",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20250923010012802"
+    },
+    {
+        "title": "中 정부가 디스플레이 원가 40% 지원…이기기 위한 대책 필요",
+        "date": "2025-09-23 16:08",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4375839"
+    },
+    {
+        "title": "아이폰17 기본형, 글로벌 수요 폭발…애플 공급 늘린다",
+        "date": "2025-09-23 16:08",
+        "link": "https://n.news.naver.com/mnews/article/117/0003991191?sid=105"
+    },
+    {
+        "title": "국가전략산업 디스플레이, 기술유출 처벌 강화로 보호해야",
+        "date": "2025-09-23 16:04",
+        "link": "https://n.news.naver.com/mnews/article/001/0015644086?sid=101"
+    },
+    {
+        "title": "디스플레이 업계 “지속 투자 위한 세액공제 제도 개선해야”",
+        "date": "2025-09-23 15:34",
+        "link": "https://n.news.naver.com/mnews/article/030/0003353617?sid=105"
+    },
+    {
+        "title": "역대 최악? 소비자는 달랐다…아이폰17 수요 급증에 애플 사상 최고가 ...",
+        "date": "2025-09-23 15:33",
+        "link": "https://n.news.naver.com/mnews/article/024/0000100110?sid=101"
+    },
+    {
+        "title": "애플 절반도 안 되는 삼성전자 스마트폰 평균 판매가격, '폴더블·AI' 프...",
+        "date": "2025-09-23 15:28",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=413121"
+    },
+    {
+        "title": "애플, 아이폰 에어·워치11로 혁신 강조…한국 시장에도 '애정'",
+        "date": "2025-09-23 15:28",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=179665"
+    },
+    {
+        "title": "7월 글로벌 스마트폰 판매 10%↑…삼성, 애플 제치고 1위 수성",
+        "date": "2025-09-23 15:26",
+        "link": "https://www.etoday.co.kr/news/view/2509475"
+    },
+    {
+        "title": "글로벌 스마트폰 ASP, 2029년 57만원…프리미엄·AI·폴더블 견인",
+        "date": "2025-09-23 15:09",
+        "link": "https://n.news.naver.com/mnews/article/119/0003006510?sid=105"
+    },
+    {
+        "title": "'애플 사랑' 베트남, 올해는 아이폰17 기본형 예상 외 '인기'",
+        "date": "2025-09-23 15:08",
+        "link": "https://www.insidevina.com/news/articleView.html?idxno=40961"
+    },
+    {
+        "title": "아이폰17 첫날, 2강 SKT·LGU+ 1약 KT···이유는 뻔했다",
+        "date": "2025-09-23 14:41",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2332963"
+    },
+    {
+        "title": "점점 더 비싸지는 스마트폰…애플 아이폰, 전세계 평균가 140만원 갈 듯",
+        "date": "2025-09-23 14:40",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=278828"
+    },
+    {
+        "title": "[현장] LG유플러스, 현대미술과 함께 체험하는 아이폰17",
+        "date": "2025-09-23 14:40",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1274866"
+    },
+    {
+        "title": "아이폰17 흥행 기대감…LG이노텍 등 부품주 '들썩'",
+        "date": "2025-09-23 14:30",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=278819"
+    },
+    {
+        "title": "삼성, 글로벌 ‘XR 해드셋’ 경쟁 참전",
+        "date": "2025-09-23 14:18",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1275837&inflow=N"
+    },
+    {
+        "title": "[특징주] 씨피시스템, 삼성전자·테슬라·애플 케이블체인 공급망 편입...",
+        "date": "2025-09-23 14:12",
+        "link": "https://n.news.naver.com/mnews/article/277/0005656270?sid=101"
+    },
+    {
+        "title": "아이폰17 효과?…애플 주가 연 수익률도 ‘플러스 전환’",
+        "date": "2025-09-23 14:04",
+        "link": "https://www.ekn.kr/web/view.php?key=20250923028579909"
+    },
+    {
+        "title": "100㎏ 힘으로 구부려도 정상 아이폰17 후기…긁으면 또 다른데?",
+        "date": "2025-09-23 13:59",
+        "link": "https://n.news.naver.com/mnews/article/277/0005656259?sid=101"
+    },
+    {
+        "title": "홈오피스와 가벼운 게이밍까지, 초가성비 모니터 UDEA LOOK LK2436NA 유케어...",
+        "date": "2025-09-23 13:56",
+        "link": "https://kbench.com/?q=node/271630"
+    },
+    {
+        "title": "스마트폰 300만원 시대 '성큼'…애플 아이폰17 총대 멨다",
+        "date": "2025-09-23 13:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593569"
+    },
+    {
+        "title": "로지텍 'G Pro X2 슈퍼스트라이크' 공개…게이밍 마우스 혁신 선언",
+        "date": "2025-09-23 13:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593565"
+    },
+    {
+        "title": "[TOP's Pick] 아이즈비전, 신규 고객 대상 이벤트···애플티비·아이패...",
+        "date": "2025-09-23 13:39",
+        "link": "https://www.topdaily.kr/articles/105738"
+    },
+    {
+        "title": "아이즈비전, 라이프 모바일 혜택 강화⋯아이폰 17 신규 고객에 애플 TVㆍ...",
+        "date": "2025-09-23 13:36",
+        "link": "https://www.etoday.co.kr/news/view/2509385"
+    },
+    {
+        "title": "중국 의료기기 시장동향",
+        "date": "2025-09-23 13:35",
+        "link": "http://dream.kotra.or.kr/kotranews/cms/news/actionKotraBoardDetail.do?SITE_NO=3&MENU_ID=190&CONTENTS_NO=2&bbsGbn=254&bbsSn=254&pNttSn=233781"
+    },
+    {
+        "title": "삼성전자, 7월 전세계 스마트폰 판매량 1위",
+        "date": "2025-09-23 13:00",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41179"
+    },
+    {
+        "title": "애플 주가 최고치 근접…아이폰17 일부 모델 “흠집 취약 우려” [지금...",
+        "date": "2025-09-23 12:59",
+        "link": "https://n.news.naver.com/mnews/article/056/0012034870?sid=121"
+    },
+    {
+        "title": "7월 글로벌 스마트폰 판매량 전년대비 10% 성장 삼성전자, 애플 제치고 ...",
+        "date": "2025-09-23 12:50",
+        "link": "https://kbench.com/?q=node/271617"
+    },
+    {
+        "title": "애플, EU 디지털시장법 충돌…5억유로 과징금 불복",
+        "date": "2025-09-23 12:48",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=67351"
+    },
+    {
+        "title": "삼성, 7월 스마트폰 판매량 10% '껑충'... 애플 아이폰 제치고 점유율 1...",
+        "date": "2025-09-23 12:06",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804391"
+    },
+    {
+        "title": "삼성말고 애플나와…샤오미17·프로·프로맥스, 25일 공개",
+        "date": "2025-09-23 11:34",
+        "link": "https://n.news.naver.com/mnews/article/374/0000464965?sid=104"
+    },
+    {
+        "title": "애플 주가 9월 22일 4.31% 상승 마감…256.08달러 기록",
+        "date": "2025-09-23 11:14",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=179440"
+    },
+    {
+        "title": "점점 더 비싸지는 스마트폰…애플 아이폰, 전세계 평균가 140만원 갈 듯",
+        "date": "2025-09-23 11:04",
+        "link": "https://n.news.naver.com/mnews/article/003/0013499271?sid=105"
+    },
+    {
+        "title": "TSMC, 3나노 웨이퍼 가격 인상…삼성·애플도 영향 받나",
+        "date": "2025-09-23 11:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593526"
+    },
+    {
+        "title": "[초점] 아이폰 심장에 새겨진 'SAMSUNG'…숙명의 경쟁자, 공생의 파트너",
+        "date": "2025-09-23 10:40",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/202509231034321455fbbec65dfb_1/article.html"
+    },
+    {
+        "title": "얇지만 강하다…아이폰 에어 부수려면 100㎏ 무게로 눌러야",
+        "date": "2025-09-23 10:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=278754"
+    },
+    {
+        "title": "'아이폰 17', 내구성 문제로 소비자 불만 확산... 받은 지 하루 만에 기...",
+        "date": "2025-09-23 10:38",
+        "link": "https://www.insight.co.kr/news/521296"
+    },
+    {
+        "title": "레노버, '핸드헬드 게이밍 디바이스 '리전 고2' 출시",
+        "date": "2025-09-23 10:30",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=181344"
+    },
+    {
+        "title": "아이폰17 흥행에 애플 주가 급등…사상 최고치 눈앞",
+        "date": "2025-09-23 10:24",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092147832"
+    },
+    {
+        "title": "한국레노버, '리전 고2' 출시···차세대 휴대용 게이밍 새 기준",
+        "date": "2025-09-23 10:20",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2332725"
+    },
+    {
+        "title": "망치로 내리치고 불로 지지고…아이폰 에어, 극한 테스트서 내구성 입증",
+        "date": "2025-09-23 10:10",
+        "link": "https://www.itworld.co.kr/article/4061298/망치로-내리치고-불로-지지고아이폰-에어-극한-테.html"
+    },
+    {
+        "title": "200만원짜리 아이폰17에 이게 맞나?…'스크래치 게이트'에 외신 난리났...",
+        "date": "2025-09-23 10:04",
+        "link": "https://n.news.naver.com/mnews/article/011/0004536347?sid=105"
+    },
+    {
+        "title": "코스피, 엔비디아·애플 훈풍에 또 사상 최고치",
+        "date": "2025-09-23 09:54",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=105502"
+    },
+    {
+        "title": "Diverging Strategies Reshape LG's OLED Outlook",
+        "date": "2025-09-23 09:52",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092147838"
+    },
+    {
+        "title": "'애플 주식 사볼까' 아이폰17 호조에 시총 4조달러도 눈앞",
+        "date": "2025-09-23 09:52",
+        "link": "https://n.news.naver.com/mnews/article/243/0000085247?sid=105"
+    },
+    {
+        "title": "애플 첫 폴더블 아이폰 디자인 윤곽.. 아이폰 에어 2대 힌지 연결 방식",
+        "date": "2025-09-23 09:50",
+        "link": "https://kbench.com/?q=node/271605"
+    },
+    {
+        "title": "AI는 조용히, 연결은 자연스럽게…애플의 새로운 기술 철학",
+        "date": "2025-09-23 09:50",
+        "link": "https://www.itworld.co.kr/article/4061290/ai는-조용히-연결은-자연스럽게애플의-새로운-기술.html"
+    },
+    {
+        "title": "밸브 핸드헬드 게이밍 PC '스팀 덱' LCD 256GB 모델 20% 할인... 47만 원",
+        "date": "2025-09-23 09:48",
+        "link": "https://gamefocus.co.kr/detail.php?number=169490"
+    },
+    {
+        "title": "역대급으로 얇은 아이폰 17 에어, 분해해 봤더니 이런 '비밀' 있었다",
+        "date": "2025-09-23 09:44",
+        "link": "https://www.insight.co.kr/news/521276"
+    },
+    {
+        "title": "7월 글로벌 스마트폰 판매량 10% 성장...삼성전자, 판매·출하 '1위'",
+        "date": "2025-09-23 09:44",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=224599"
+    },
+    {
+        "title": "삼성전자, 애플 제치고 1위 고수⋯7월 글로벌 스마트폰 판매량 전년比 ...",
+        "date": "2025-09-23 09:26",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=322783"
+    },
+    {
+        "title": "신안군 신재생에너지 정책…세계 4대 환경상 ‘그린애플어워즈’ 수상",
+        "date": "2025-09-23 09:22",
+        "link": "https://n.news.naver.com/mnews/article/022/0004070336?sid=102"
+    },
+    {
+        "title": "애플, eSIM 전환 가속…물리 유심 역사 속으로",
+        "date": "2025-09-23 09:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593447"
+    },
+    {
+        "title": "애플, 아이폰17 출시 후 주가 상승…올해 수익률 회복",
+        "date": "2025-09-23 09:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593430"
+    },
+    {
+        "title": "아이폰17 와이파이 끊김 오류…카플레이에 영향 줄 수도",
+        "date": "2025-09-23 08:58",
+        "link": "https://n.news.naver.com/mnews/article/092/0002391459?sid=105"
+    },
+    {
+        "title": "아이폰 에어 분해했더니 초슬림 디자인·두께에도 수리 용이성 7점 기...",
+        "date": "2025-09-23 08:56",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536758"
+    },
+    {
+        "title": "[기자수첩] K-디스플레이의 빛과 그림자",
+        "date": "2025-09-23 08:40",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=30681"
+    },
+    {
+        "title": "2026년 출시 애플 최초 폴더블폰…더 커진 화면·카메라 4개 장착",
+        "date": "2025-09-23 08:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593437"
+    },
+    {
+        "title": "합천군, 창작오페라 '애플수박' 공연 개최",
+        "date": "2025-09-23 08:24",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1274215"
+    },
+    {
+        "title": "신안군 '2025 그린애플 어워즈' 수상...국제환경상 3관왕",
+        "date": "2025-09-23 08:14",
+        "link": "https://n.news.naver.com/mnews/article/660/0000093450?sid=102"
+    },
+    {
+        "title": "아이폰 에어, 90kg 무게로 눌러도 멀쩡…내구성 입증",
+        "date": "2025-09-23 08:12",
+        "link": "https://n.news.naver.com/mnews/article/092/0002391455?sid=105"
+    },
+    {
+        "title": "美 S&amp;P500 '또 사상최고'..테라다인·오라클·애플·엔비디아 '급등'",
+        "date": "2025-09-23 07:54",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=154302"
+    },
+    {
+        "title": "꼭 아이폰 17 바꿔야 돼? 아이폰 16 비교, 어떤 모델이 더 나은 선택일까...",
+        "date": "2025-09-23 07:50",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536746"
+    },
+    {
+        "title": "애플, 아이폰17 호조에 이틀 연속 랠리",
+        "date": "2025-09-23 07:44",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=92006"
+    },
+    {
+        "title": "“아이폰17 생각보다 괜찮네” 소비자 반응에 애플 주가 4% 껑충 [투자36...",
+        "date": "2025-09-23 07:23",
+        "link": "https://n.news.naver.com/mnews/article/016/0002533078?sid=101"
+    },
+    {
+        "title": "뉴욕증시 다우지수 '또 사상최고'..애플·엔비디아 '급등' vs 아마존 '뚝...",
+        "date": "2025-09-23 07:16",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=154301"
+    },
+    {
+        "title": "LG디스플레이, 3분기 '깜짝 실적' 예약…4년만에 '흑자전환' 가시권",
+        "date": "2025-09-23 07:15",
+        "link": "https://n.news.naver.com/mnews/article/421/0008502194?sid=101"
+    },
+    {
+        "title": "[오늘의 글로벌마켓] 뉴욕증시, 엔비디아·애플 4% 강세 속 3대지수 신고...",
+        "date": "2025-09-23 07:10",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=124682"
+    },
+    {
+        "title": "애플 4.31% 급등한 256.08달러, 상승 전환 ... 아이폰17 판매가 호조",
+        "date": "2025-09-23 07:06",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=442813"
+    },
+    {
+        "title": "‘영포티’ 품는 아이폰? 40대 ‘애플빠’ 급증세…갤럭시 향하는 MZ",
+        "date": "2025-09-23 07:02",
+        "link": "https://n.news.naver.com/mnews/article/028/0002767695?sid=105"
+    },
+    {
+        "title": "LCD TV 끝판왕 ‘RGB’ 놓고 한·중 격돌…승부처는 ‘차별화’",
+        "date": "2025-09-23 07:02",
+        "link": "https://n.news.naver.com/mnews/article/028/0002767698?sid=101"
+    }
+]
