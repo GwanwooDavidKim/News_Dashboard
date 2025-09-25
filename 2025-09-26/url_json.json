@@ -1,1 +1,977 @@
-
+[
+    {
+        "title": "[글로벌 비즈 브리핑] 챗GPT가 먼저 말 건다…오픈AI, 맞춤형 비서 '펄스...",
+        "date": "2025-09-26 04:45",
+        "link": "https://n.news.naver.com/mnews/article/374/0000465721?sid=104"
+    },
+    {
+        "title": "애플 EU, 디지털시장법 폐기해야…삼성과 차별도 불공정",
+        "date": "2025-09-26 04:32",
+        "link": "https://n.news.naver.com/mnews/article/374/0000465717?sid=104"
+    },
+    {
+        "title": "인텔, 애플에도 'SOS'",
+        "date": "2025-09-26 04:00",
+        "link": "https://n.news.naver.com/mnews/article/008/0005256178?sid=104"
+    },
+    {
+        "title": "“에어팟 프로3가 통역… 한국인 장모님과 친척 없이 첫 대화”",
+        "date": "2025-09-26 03:02",
+        "link": "https://n.news.naver.com/mnews/article/020/0003663842?sid=101"
+    },
+    {
+        "title": "삼성D “글로벌 파트너들과 ‘IT OLED 대세화’ 선도할 것”",
+        "date": "2025-09-26 03:00",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1276273&inflow=N"
+    },
+    {
+        "title": "[세상만사] 사과 맛이 변했다",
+        "date": "2025-09-26 00:38",
+        "link": "https://n.news.naver.com/mnews/article/005/0001804784?sid=110"
+    },
+    {
+        "title": "[거꾸로 읽는 경제] ‘삼성과의 형평성 불만?’ 애플은 왜 디지털시장법...",
+        "date": "2025-09-26 00:18",
+        "link": "https://www.news2day.co.kr/article/20250926500002"
+    },
+    {
+        "title": "애플 “EU, 디지털시장법 폐기해야… 삼성과 차별도 불공정”",
+        "date": "2025-09-25 23:29",
+        "link": "https://n.news.naver.com/mnews/article/366/0001111110?sid=105"
+    },
+    {
+        "title": "애플 EU, 디지털시장법 폐지해야…삼성엔 적용안돼 불공정",
+        "date": "2025-09-25 23:19",
+        "link": "https://n.news.naver.com/mnews/article/003/0013506724?sid=104"
+    },
+    {
+        "title": "애플 왜 삼성과 차별해…EU에 '디지털시장법' 폐기 촉구",
+        "date": "2025-09-25 21:43",
+        "link": "https://n.news.naver.com/mnews/article/277/0005657925?sid=104"
+    },
+    {
+        "title": "애플 EU는 '디지털시장법' 폐기해야…삼성과 차별도 불공정",
+        "date": "2025-09-25 21:41",
+        "link": "https://n.news.naver.com/mnews/article/008/0005256132?sid=104"
+    },
+    {
+        "title": "애플, EU에 디지털시장법 폐기 촉구...삼성·중국 기업과 역차별",
+        "date": "2025-09-25 21:18",
+        "link": "https://www.ajunews.com/view/20250925210917607"
+    },
+    {
+        "title": "포항시, 애플 제조업 R&amp;D 지원센터와 '스마트 제조 포럼' 개최",
+        "date": "2025-09-25 21:10",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=259872"
+    },
+    {
+        "title": "애플 왜 삼성과 차별해…EU에 '디지털시장법' 폐기 촉구",
+        "date": "2025-09-25 21:06",
+        "link": "https://n.news.naver.com/mnews/article/031/0000968469?sid=105"
+    },
+    {
+        "title": "EU에 불만 터뜨린 애플 삼성과 차별하는 디지털법 폐기해야",
+        "date": "2025-09-25 21:03",
+        "link": "https://n.news.naver.com/mnews/article/011/0004537695?sid=104"
+    },
+    {
+        "title": "애플, EU에 디지털시장법 폐기해야…삼성과 차별도 불공정",
+        "date": "2025-09-25 21:03",
+        "link": "https://n.news.naver.com/mnews/article/469/0000889330?sid=104"
+    },
+    {
+        "title": "애플, EU에 삼성과 차별도 불공정…디지털시장법 폐기해야",
+        "date": "2025-09-25 21:00",
+        "link": "https://n.news.naver.com/mnews/article/448/0000559652?sid=104"
+    },
+    {
+        "title": "애플, EU에 ‘디지털시장법’ 폐기 촉구…“삼성과 차별 불공정”",
+        "date": "2025-09-25 20:52",
+        "link": "https://n.news.naver.com/mnews/article/016/0002535040?sid=104"
+    },
+    {
+        "title": "애플, EU에 디지털시장법 폐기해야…삼성과 차별도 불공정(종합)",
+        "date": "2025-09-25 20:38",
+        "link": "https://n.news.naver.com/mnews/article/001/0015649780?sid=104"
+    },
+    {
+        "title": "이번에는 메일 사기... 아이폰 17 샀어요? 아니오 클릭했다 '무더기 소...",
+        "date": "2025-09-25 20:36",
+        "link": "https://www.mbceg.co.kr/post/129478"
+    },
+    {
+        "title": "아이폰17 주문 확인 메일에 놀라 비번 등 바꿨다가‥'무더기 소액결제...",
+        "date": "2025-09-25 20:35",
+        "link": "https://n.news.naver.com/mnews/article/214/0001451720?sid=102"
+    },
+    {
+        "title": "애플, EU에 디지털 시장법 폐기해야...삼성과 차별 불공정",
+        "date": "2025-09-25 20:24",
+        "link": "https://n.news.naver.com/mnews/article/052/0002252006?sid=104"
+    },
+    {
+        "title": "에이수스, OLED 고주사율 게이밍 모니터 'ROG Strix XG27ACDMS' 등 2종 출...",
+        "date": "2025-09-25 19:14",
+        "link": "https://www.betanews.net/article/view/beta202509250121"
+    },
+    {
+        "title": "삼성디스플레이, 고객·협력사 대상 'OLED IT 서밋 2025' 개최",
+        "date": "2025-09-25 19:04",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7130108"
+    },
+    {
+        "title": "포항시, 애플 제조업 R&amp;D 지원센터와 ‘스마트 제조 포럼’ 성료",
+        "date": "2025-09-25 19:02",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=779406"
+    },
+    {
+        "title": "포항시, 애플 제조업 R&amp;D 지원센터와 '스마트 제조 포럼' 성료",
+        "date": "2025-09-25 18:52",
+        "link": "http://www.hidomin.com/news/articleView.html?idxno=593904"
+    },
+    {
+        "title": "애플, EU에 “디지털시장법 폐기해야…삼성과 차별도 불공정”",
+        "date": "2025-09-25 18:49",
+        "link": "https://n.news.naver.com/mnews/article/056/0012036836?sid=104"
+    },
+    {
+        "title": "애플, EU에 디지털시장법 폐기해야…삼성과 차별도 불공정",
+        "date": "2025-09-25 18:47",
+        "link": "https://n.news.naver.com/mnews/article/055/0001295647?sid=104"
+    },
+    {
+        "title": "애플 EU, DMA 폐기해야…삼성과 차별 불공정",
+        "date": "2025-09-25 18:45",
+        "link": "https://n.news.naver.com/mnews/article/215/0001225359?sid=101"
+    },
+    {
+        "title": "샤오미, ‘15T 프로’ 한국 상륙…삼성·애플 ‘프리미엄’ 아성에 도전...",
+        "date": "2025-09-25 18:34",
+        "link": "https://www.kukinews.com/article/view/kuk202509250231"
+    },
+    {
+        "title": "커세어,‘뱅가드 프로 96’ 및 ‘뱅가드 96’ 게이밍 키보드 2종 선보여",
+        "date": "2025-09-25 18:32",
+        "link": "http://www.lawissue.co.kr/view.php?ud=202509251829474664204ead0791_12"
+    },
+    {
+        "title": "애플, EU에 디지털시장법 폐기해야…삼성과 차별도 불공정",
+        "date": "2025-09-25 18:31",
+        "link": "https://n.news.naver.com/mnews/article/001/0015649597?sid=104"
+    },
+    {
+        "title": "삼성디스플레이 IT OLED가 대세...협력으로 시장 선점",
+        "date": "2025-09-25 18:20",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41399"
+    },
+    {
+        "title": "[재계 투데이] LG, '사장단 회의' 개최 外",
+        "date": "2025-09-25 18:08",
+        "link": "https://news.dealsitetv.com/articles/159644"
+    },
+    {
+        "title": "삼성D 생태계 협력으로 ‘IT OLED 대세화’ 선도",
+        "date": "2025-09-25 18:08",
+        "link": "https://n.news.naver.com/mnews/article/014/0005412444?sid=101"
+    },
+    {
+        "title": "삼성D, 글로벌 파트너와 IT OLED 비전 공유…신기술 'UT One' 공개",
+        "date": "2025-09-25 18:06",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=119881"
+    },
+    {
+        "title": "인텔, 회생 위해 애플에도 투자 요청",
+        "date": "2025-09-25 18:00",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=202728"
+    },
+    {
+        "title": "삼성D IT OLED가 대세 대만서 파트너십 행사 개최",
+        "date": "2025-09-25 17:56",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2025092516540178774aca46cea9_23"
+    },
+    {
+        "title": "삼성디스플레이, 타이베이서 '삼성 OLED IT 서밋 2025' 개최",
+        "date": "2025-09-25 17:52",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=94573"
+    },
+    {
+        "title": "다시 찾는 성경 앱 바이블애플, 동종 앱 6배 높은 재방문율",
+        "date": "2025-09-25 17:42",
+        "link": "https://www.goodnews1.com/news/articleView.html?idxno=451629"
+    },
+    {
+        "title": "[리포트] 이번에는 메일 사기... 아이폰 17 샀어요? 아니오 클릭했다 ...",
+        "date": "2025-09-25 17:40",
+        "link": "https://chmbc.co.kr/article/KrTkh_IoOp"
+    },
+    {
+        "title": "[AI 대전환] AI가 모바일 성패 가른다…삼성 '웃고', 애플은 '후발주자'...",
+        "date": "2025-09-25 17:34",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=103173"
+    },
+    {
+        "title": "삼성D “IT용 OLED 대세화 시작…글로벌 파트너사들과 거대한 파도 일으...",
+        "date": "2025-09-25 17:27",
+        "link": "https://n.news.naver.com/mnews/article/016/0002534988?sid=101"
+    },
+    {
+        "title": "'원신'과 삼성 갤럭시의 컬래버 …홍대 팝업 오픈",
+        "date": "2025-09-25 17:26",
+        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=342507"
+    },
+    {
+        "title": "삼성디스플레이 “OLED 대세되려면 생태계 구성원간 협력이 절대적”",
+        "date": "2025-09-25 17:14",
+        "link": "https://n.news.naver.com/mnews/article/009/0005564984?sid=101"
+    },
+    {
+        "title": "포항시-애플 ‘스마트 제조 포럼'…중소기업 경쟁력 강화",
+        "date": "2025-09-25 17:09",
+        "link": "https://n.news.naver.com/mnews/article/003/0013506136?sid=102"
+    },
+    {
+        "title": "삼성D, 대만서 'OLED IT서밋'…파트너들과 대세화 선도",
+        "date": "2025-09-25 17:06",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2123003"
+    },
+    {
+        "title": "삼성디스플레이, 글로벌 파트너社와 'IT OLED 대세화' 선도",
+        "date": "2025-09-25 17:02",
+        "link": "https://n.news.naver.com/mnews/article/092/0002391977?sid=105"
+    },
+    {
+        "title": "애플, 일반 테스터용 iOS 26.1 공개 베타 출시.. 새로운 기능은?",
+        "date": "2025-09-25 17:02",
+        "link": "https://kbench.com/?q=node/271749"
+    },
+    {
+        "title": "삼성디스플레이, 타이베이서 'OLED IT 서밋 2025' 개최",
+        "date": "2025-09-25 16:54",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=239865"
+    },
+    {
+        "title": "인텔, 애플에 투자 요청 나서…구원 투수 나설까",
+        "date": "2025-09-25 16:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=594144"
+    },
+    {
+        "title": "삼성디스플레이, 타이베이서 'OLED IT 서밋 2025' 개최",
+        "date": "2025-09-25 16:48",
+        "link": "https://www.mediapen.com/news/view/1045551"
+    },
+    {
+        "title": "삼성디스플레이, 'OLED IT 서밋 2025' 개최… 'OLED 대세화 속도 높인다'",
+        "date": "2025-09-25 16:42",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=340847"
+    },
+    {
+        "title": "에이수스, OLED 고주사율 게이밍 모니터 'ROG Strix' 신제품 2종 출시",
+        "date": "2025-09-25 16:42",
+        "link": "https://gamefocus.co.kr/detail.php?number=169653"
+    },
+    {
+        "title": "타이베이서 '삼성 OLED IT 서밋 2025'…삼성디스플레이, 'IT OLED 대세화'...",
+        "date": "2025-09-25 16:40",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=233909"
+    },
+    {
+        "title": "커세어, 혁신의 ‘K70’을 잇는 게이밍 키보드 ‘뱅가드 프로 96’ 등 신...",
+        "date": "2025-09-25 16:38",
+        "link": "https://www.betanews.net/article/view/beta202509250108"
+    },
+    {
+        "title": "[AT 산업 단신]삼성전자·삼성전기·삼성디스플레이·LG디스플레이·LS일...",
+        "date": "2025-09-25 16:36",
+        "link": "https://www.asiatime.co.kr/article/20250925500371"
+    },
+    {
+        "title": "삼성D, 글로벌 파트너들과 'IT OLED 대세화' 선도",
+        "date": "2025-09-25 16:32",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=339122"
+    },
+    {
+        "title": "새로운 항해를 이끌 '프로 게이밍 기어'... 커세어 미디어데이 2025",
+        "date": "2025-09-25 16:32",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56188"
+    },
+    {
+        "title": "삼성디스플레이 IT OLED 대세화 시작… 생태계 협력해 시장 선도",
+        "date": "2025-09-25 16:30",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3322033"
+    },
+    {
+        "title": "삼성D, 대만서 '삼성 OLED IT 서밋 2025' 개최",
+        "date": "2025-09-25 16:30",
+        "link": "http://www.g-enews.com/ko-kr/news/article/news_all/2025092515373485626ed0c62d49_1/article.html"
+    },
+    {
+        "title": "AP시스템, 비전옥스 8.6G용 ELA 장비 공급",
+        "date": "2025-09-25 16:30",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41378"
+    },
+    {
+        "title": "삼성D 글로벌 파트너들과 'IT OLED 대세화' 선도",
+        "date": "2025-09-25 16:22",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=712780"
+    },
+    {
+        "title": "'아이폰 에어' 부진 심상치 않네...삼성전자, 갤럭시 S26에 '플러스' 지...",
+        "date": "2025-09-25 16:21",
+        "link": "https://www.newspim.com/news/view/20250925000860"
+    },
+    {
+        "title": "새로운 네이밍 체계 적용한 키보드 및 프로 게이밍 제품군 소개 '커세어...",
+        "date": "2025-09-25 16:14",
+        "link": "https://kbench.com/?q=node/271747"
+    },
+    {
+        "title": "K70 계승하는 신규 게이밍 키보드 라인업... 커세어 '뱅가드 프로 96'·'뱅...",
+        "date": "2025-09-25 16:10",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56186"
+    },
+    {
+        "title": "삼성디스플레이, 타이베이서 '삼성 OLED IT 서밋 2025' 개최",
+        "date": "2025-09-25 16:04",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=106017"
+    },
+    {
+        "title": "삼성 XR 기기 '무한' 내달 공개…업계 AR이 진짜 승부처",
+        "date": "2025-09-25 16:02",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=331559"
+    },
+    {
+        "title": "삼성디스플레이, 빅테크 초청해 IT OLED 대세화 선언",
+        "date": "2025-09-25 16:01",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=331565"
+    },
+    {
+        "title": "애플, EU에 DMA 폐지·축소 요청…라이브 번역 등 새 기능 도입 차질",
+        "date": "2025-09-25 16:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008509175?sid=104"
+    },
+    {
+        "title": "삼성디스플레이, 글로벌 파트너 초청 '삼성 OLED IT 서밋' 개최",
+        "date": "2025-09-25 15:58",
+        "link": "https://www.fetv.co.kr/news/article.html?no=202101"
+    },
+    {
+        "title": "삼성디스플레이, 'OLED IT 서밋 2025' 개최…글로벌 파트너십 강화",
+        "date": "2025-09-25 15:52",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092148035"
+    },
+    {
+        "title": "삼성D, 글로벌 파트너들에 'IT OLED' 비전 공유",
+        "date": "2025-09-25 15:50",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=380294"
+    },
+    {
+        "title": "포항시-애플 제조업 R&amp;D 지원센터 ‘스마트 제조 포럼’ 성료",
+        "date": "2025-09-25 15:49",
+        "link": "https://n.news.naver.com/mnews/article/382/0001226266?sid=102"
+    },
+    {
+        "title": "삼성D IT OLED 대세화 시작 … 협력사와 비전 공유",
+        "date": "2025-09-25 15:48",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/09/25/2025092500331.html"
+    },
+    {
+        "title": "삼성D, 대만서 ‘OLED IT 서밋’…IT용 시장서 입지 강화",
+        "date": "2025-09-25 15:45",
+        "link": "https://n.news.naver.com/mnews/article/011/0004537542?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 타이베이서 '삼성 OLED IT 서밋 2025' 개최",
+        "date": "2025-09-25 15:42",
+        "link": "https://n.news.naver.com/mnews/article/001/0015649136?sid=101"
+    },
+    {
+        "title": "삼성전자, XR기기 '무한' …수익성보단 시장 확보 차원",
+        "date": "2025-09-25 15:40",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=40012"
+    },
+    {
+        "title": "삼성디스플레이 글로벌 파트너들과 'IT OLED 대세화' 선도할 것",
+        "date": "2025-09-25 15:38",
+        "link": "https://n.news.naver.com/mnews/article/117/0003992019?sid=105"
+    },
+    {
+        "title": "더 강력해진 퀄컴 스냅드래곤…기대되는 갤럭시S26",
+        "date": "2025-09-25 15:38",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1276182&inflow=N"
+    },
+    {
+        "title": "삼성D 노트북·모니터도 OLED가 대세… IT 시장 총공세",
+        "date": "2025-09-25 15:36",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1286693"
+    },
+    {
+        "title": "삼성D, 대만서 'OLED IT 서밋' 개최…노트북·모니터용 OLED 기술 선봬",
+        "date": "2025-09-25 15:36",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=253680"
+    },
+    {
+        "title": "포항시, 애플 R&amp;D센터와 스마트 제조 포럼 개최",
+        "date": "2025-09-25 15:36",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=842315"
+    },
+    {
+        "title": "삼성디스플레이 '삼성 OLED IT 서밋' 개최, 'UT 원' 포함 OLED 신기술 소...",
+        "date": "2025-09-25 15:34",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=413539"
+    },
+    {
+        "title": "'삼성 OLED IT 서밋 2025' 개최…삼성디스플레이 'IT OLED 대세화' 선도",
+        "date": "2025-09-25 15:34",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=812676"
+    },
+    {
+        "title": "Samsung Display hosts OLED event in Taiwan",
+        "date": "2025-09-25 15:34",
+        "link": "https://n.news.naver.com/mnews/article/001/0015649109?sid=104"
+    },
+    {
+        "title": "삼성디스플레이, 'OLED IT 서밋 2025' 개최…최신 기술 20여 종 전시",
+        "date": "2025-09-25 15:33",
+        "link": "https://www.newspim.com/news/view/20250925000867"
+    },
+    {
+        "title": "삼성디스플레이, 글로벌 파트너들과 'IT OLED 대세화' 선도",
+        "date": "2025-09-25 15:32",
+        "link": "https://www.ajunews.com/view/20250925082132853"
+    },
+    {
+        "title": "삼성디스플레이, ‘OLED IT 서밋 2025’ 개최⋯ 인텔 등 글로벌 고객사 ...",
+        "date": "2025-09-25 15:32",
+        "link": "https://www.viva100.com/article/20250925501168"
+    },
+    {
+        "title": "삼성디스플레이 “글로벌 파트너들과 ‘IT OLED 대세화’ 선도할 것”",
+        "date": "2025-09-25 15:31",
+        "link": "https://n.news.naver.com/mnews/article/366/0001110993?sid=105"
+    },
+    {
+        "title": "삼성D, 대만서 'OLED IT 서밋' 개최",
+        "date": "2025-09-25 15:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003354604?sid=105"
+    },
+    {
+        "title": "삼성D, '삼성 OLED IT 서밋 2025' 개최...IT OLED 대세화 선도",
+        "date": "2025-09-25 15:30",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=224893"
+    },
+    {
+        "title": "삼성디스플레이, 글로벌 파트너 초청 '삼성 OLED IT 서밋' 개최",
+        "date": "2025-09-25 15:30",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=95733"
+    },
+    {
+        "title": "삼성디스플레이, 타이베이서 ‘OLED IT 서밋’…대세화 주도 본격화",
+        "date": "2025-09-25 15:30",
+        "link": "https://www.etoday.co.kr/news/view/2510108"
+    },
+    {
+        "title": "삼성디스플레이, 글로벌 파트너와 ‘IT OLED 대세화’ 이끈다",
+        "date": "2025-09-25 15:30",
+        "link": "https://www.ceoscoredaily.com/page/view/2025092510595594792"
+    },
+    {
+        "title": "삼성디스플레이 IT OLED 대세화 시작…시장 주도하겠다",
+        "date": "2025-09-25 15:30",
+        "link": "https://n.news.naver.com/mnews/article/119/0003007502?sid=101"
+    },
+    {
+        "title": "삼성D, 'OLED IT 서밋' 개최…IT OLED 비전 공유",
+        "date": "2025-09-25 15:30",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=186637"
+    },
+    {
+        "title": "삼성디스플레이, 타이베이서 '삼성 OLED IT 서밋 2025' 개최",
+        "date": "2025-09-25 15:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0008508992?sid=101"
+    },
+    {
+        "title": "IT OLED 대세화 이끌자…삼성D, 파트너사와 비전 공유",
+        "date": "2025-09-25 15:30",
+        "link": "https://n.news.naver.com/mnews/article/018/0006124985?sid=101"
+    },
+    {
+        "title": "삼성D IT OLED 대세화 시작됐다…생태계 협력해 시장 선도",
+        "date": "2025-09-25 15:30",
+        "link": "https://n.news.naver.com/mnews/article/001/0015649077?sid=101"
+    },
+    {
+        "title": "삼성D 생태계 협력으로 IT OLED 시장 선점",
+        "date": "2025-09-25 15:30",
+        "link": "https://n.news.naver.com/mnews/article/014/0005412347?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 타이베이서 저전력 기술 'UT 원' 등 공개",
+        "date": "2025-09-25 15:30",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1275854"
+    },
+    {
+        "title": "“IT OLED 대세화 선도”…삼성D, 타이페이서 파트너사와 비전 공유",
+        "date": "2025-09-25 15:30",
+        "link": "https://n.news.naver.com/mnews/article/029/0002984359?sid=101"
+    },
+    {
+        "title": "IT 올레드 대세화…삼성D, '올레드 IT 서밋' 개최",
+        "date": "2025-09-25 15:30",
+        "link": "https://n.news.naver.com/mnews/article/003/0013505730?sid=101"
+    },
+    {
+        "title": "포항시, 애플 제조업 R&amp;D 지원센터와 '스마트 제조 포럼' 성료",
+        "date": "2025-09-25 15:30",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=515617"
+    },
+    {
+        "title": "삼성D, 글로벌 파트너들과 'IT OLED 대세화' 선도",
+        "date": "2025-09-25 15:27",
+        "link": "http://thetracker.co.kr/View.aspx?No=3796433"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이에 46억원 규모 장비 공급",
+        "date": "2025-09-25 15:16",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=111134"
+    },
+    {
+        "title": "AP시스템, 中 비전옥스에 OLED 장비 공급 단독계약 체결",
+        "date": "2025-09-25 15:08",
+        "link": "https://n.news.naver.com/mnews/article/015/0005190063?sid=101"
+    },
+    {
+        "title": "AP시스템, 中 비전옥스 8.6세대 라인 수주 확보…ELA 단독 공급",
+        "date": "2025-09-25 15:06",
+        "link": "https://n.news.naver.com/mnews/article/138/0002205867?sid=105"
+    },
+    {
+        "title": "커세어, 36g 초경량 마우스·풀컬러 LCD 키보드로 게이밍 기어 혁신",
+        "date": "2025-09-25 15:00",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=222386"
+    },
+    {
+        "title": "印 스마트폰 대미 수출, 감소냐 증가냐...기관 분석 엇갈려",
+        "date": "2025-09-25 14:59",
+        "link": "https://www.newspim.com/news/view/20250925000823"
+    },
+    {
+        "title": "[현장] 샤오미코리아 프리미엄 수요 입증한 한국, 전략 거점으로",
+        "date": "2025-09-25 14:38",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2334166"
+    },
+    {
+        "title": "AP시스템, 중국 디스플레이 업체와 OLED 제조장비 수주계약 체결",
+        "date": "2025-09-25 14:26",
+        "link": "https://n.news.naver.com/mnews/article/293/0000072965?sid=101"
+    },
+    {
+        "title": "AP시스템, 中 비전옥스 8세대 OLED 장비 수주",
+        "date": "2025-09-25 14:22",
+        "link": "https://n.news.naver.com/mnews/article/030/0003354538?sid=105"
+    },
+    {
+        "title": "스마트폰 품질 혁신 선도… 아이비젼웍스, AI 검사 장비 확대",
+        "date": "2025-09-25 14:20",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=380226"
+    },
+    {
+        "title": "스마트홈과 자동차의 결합··· 삼성전자·현대차그룹 '홈투카' 서비스...",
+        "date": "2025-09-25 14:18",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=304123"
+    },
+    {
+        "title": "“인텔, 애플에 투자 요청”… 경영난에 美 기업과 전방위 협력 추진",
+        "date": "2025-09-25 14:11",
+        "link": "https://n.news.naver.com/mnews/article/366/0001110948?sid=105"
+    },
+    {
+        "title": "에이수스, OLED의 압도적인 비주얼 가진 고주사율 게이밍 모니터 2종 출...",
+        "date": "2025-09-25 14:06",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56181"
+    },
+    {
+        "title": "애플, 유럽서 아이폰 미러링·에어팟 번역 기능 연기…DMA 때문",
+        "date": "2025-09-25 13:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=594026"
+    },
+    {
+        "title": "원신·갤럭시 스토어 네 번째 컬래버...'라이오슬리 액세서리 시리즈...",
+        "date": "2025-09-25 13:40",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=453490"
+    },
+    {
+        "title": "한켐, 신규 첨단소재 개발 가속…파일럿 소재 31종 개발",
+        "date": "2025-09-25 13:26",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=279094"
+    },
+    {
+        "title": "샤오미코리아, 국내 최초 ‘익스클루시브 서비스 센터’ 설립 계획 발표",
+        "date": "2025-09-25 13:24",
+        "link": "https://kbench.com/?q=node/271729"
+    },
+    {
+        "title": "케이지에이, 세종대 첨단소재응용 핵심연구지원센터와 MOU",
+        "date": "2025-09-25 13:16",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=279088"
+    },
+    {
+        "title": "AP시스템, 中 비전옥스 '8세대 OLED 허페이 V5 라인 장비' 공급계약 체결",
+        "date": "2025-09-25 13:13",
+        "link": "https://www.newspim.com/news/view/20250925000534"
+    },
+    {
+        "title": "원신과 갤럭시 스토어의 네 번째 콜라보레이션! ‘라이오슬리 액세서리...",
+        "date": "2025-09-25 13:12",
+        "link": "https://kbench.com/?q=node/271726"
+    },
+    {
+        "title": "한켐, 신규 첨단소재 개발 가속… “상반기 신규 양산소재 5종ㆍ파일럿...",
+        "date": "2025-09-25 13:06",
+        "link": "https://www.etoday.co.kr/news/view/2510241"
+    },
+    {
+        "title": "애플, EU에 DMA 폐지 요청…보안성 약화·신기능 출시 지연",
+        "date": "2025-09-25 12:53",
+        "link": "https://n.news.naver.com/mnews/article/018/0006124863?sid=101"
+    },
+    {
+        "title": "[스냅드래곤서밋] 알렉스 카투지안 퀄컴 본부장 '스마트폰→인간·AI' ...",
+        "date": "2025-09-25 12:44",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=144888"
+    },
+    {
+        "title": "에이수스, OLED 기반 고주사율 게이밍 모니터 2종 출시",
+        "date": "2025-09-25 12:30",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=322923"
+    },
+    {
+        "title": "K70 시리즈 유산 이었다! 커세어, 차세대 '뱅가드' 게이밍 키보드 시리즈...",
+        "date": "2025-09-25 12:18",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536922"
+    },
+    {
+        "title": "샤오미코리아, 국내 첫 '익스클루시브 서비스 센터' 설립…고객 접점 확...",
+        "date": "2025-09-25 11:56",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=669378"
+    },
+    {
+        "title": "iOS 26.1, 아이폰 17 시리즈 와이파이 연결 버그 수정 예정",
+        "date": "2025-09-25 11:56",
+        "link": "https://kbench.com/?q=node/271718"
+    },
+    {
+        "title": "애플, 단백질 구조 예측 AI '심플폴드' 발표… 구글 알파폴드 대안 제시",
+        "date": "2025-09-25 11:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593978"
+    },
+    {
+        "title": "IOS 26.1 공개 베타 출시…애플 인텔리전스, 한국어 포함 8개 언어 추가...",
+        "date": "2025-09-25 11:48",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536921"
+    },
+    {
+        "title": "샤오미, 미니 패드 출시…아이패드 미니 도전장",
+        "date": "2025-09-25 11:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593937"
+    },
+    {
+        "title": "호요버스, '원신' X '갤럭시 스토어' 네 번째 콜라보... '갤럭시 Z 폴드...",
+        "date": "2025-09-25 11:44",
+        "link": "https://gamefocus.co.kr/detail.php?number=169624"
+    },
+    {
+        "title": "퀄컴과 슬슬 결별하나? 애플, 아이폰18 시리즈에 자체 '5G 모뎀' 탑재 ...",
+        "date": "2025-09-25 11:42",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536920"
+    },
+    {
+        "title": "빨라야 살 수 있다. '원신 라이오슬리 액세서리' 판매로 대기열 늘어선...",
+        "date": "2025-09-25 11:40",
+        "link": "https://game.donga.com/119410/"
+    },
+    {
+        "title": "커세어, 신규 게이밍 키보드 라인업 '뱅가드 96' 시리즈 2종 공개... 엘가...",
+        "date": "2025-09-25 11:36",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804494"
+    },
+    {
+        "title": "'라이카 5배 광학줌' 샤오미 15T프로 국내 시판…플래그십폰 최초로 1차...",
+        "date": "2025-09-25 11:35",
+        "link": "https://n.news.naver.com/mnews/article/003/0013504855?sid=105"
+    },
+    {
+        "title": "바람소리를 지우는 스냅드래곤 애플, 긴장하라 [스냅드래곤 서밋 2025...",
+        "date": "2025-09-25 11:34",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=712711"
+    },
+    {
+        "title": "위기의 LG전자, LCD 기반 '시니어 TV'로 반전 노린다",
+        "date": "2025-09-25 11:32",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=415546"
+    },
+    {
+        "title": "애플, 타사 스마트워치 지원…iOS 26.1 베타서 기능 포착",
+        "date": "2025-09-25 11:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593941"
+    },
+    {
+        "title": "에이수스, OLED 기반 280Hz·4K 게이밍 모니터 2종 출시",
+        "date": "2025-09-25 11:18",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=530233"
+    },
+    {
+        "title": "원신, 갤럭시 스토어와 네 번째 콜라보레이션 진행",
+        "date": "2025-09-25 11:18",
+        "link": "https://www.betanews.net/article/view/beta202509250052"
+    },
+    {
+        "title": "20년 왕좌 지킨 삼성, 글로벌 TV 시장 초격차로 달린다",
+        "date": "2025-09-25 11:14",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=54212"
+    },
+    {
+        "title": "샤오미코리아, '익스클루시브 서비스 센터' 설립…신제품 8종 출시",
+        "date": "2025-09-25 11:12",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=202414"
+    },
+    {
+        "title": "삼성·애플 다 비켜…가성비 버리고 한국 시장 침공 시작한 샤오미[중...",
+        "date": "2025-09-25 11:03",
+        "link": "https://n.news.naver.com/mnews/article/277/0005657567?sid=105"
+    },
+    {
+        "title": "에이수스, OLED 고주사율 게이밍 모니터 2종 출시",
+        "date": "2025-09-25 11:02",
+        "link": "https://www.cnet.co.kr/view/?no=20250925101444"
+    },
+    {
+        "title": "차기 아이폰18, 애플 자체 5G 모뎀 탑재…퀄컴과 결별 신호?",
+        "date": "2025-09-25 11:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593918"
+    },
+    {
+        "title": "애플의 인텔 지분 투자는 '윈-윈' 평가, 파운드리 협력으로 관세 리스...",
+        "date": "2025-09-25 11:00",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=413490"
+    },
+    {
+        "title": "샤오미코리아, 국내 '익스클루시브 서비스 센터' 설립 계획 발표",
+        "date": "2025-09-25 10:52",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065577798546410"
+    },
+    {
+        "title": "몰입감 터진다…에이수스, OLED ROG 게이밍모니터 2종 출시",
+        "date": "2025-09-25 10:51",
+        "link": "https://n.news.naver.com/mnews/article/421/0008507979?sid=105"
+    },
+    {
+        "title": "'트럼프가 발들인' 인텔, 애플 투자도 받을까? SOS 쳤다",
+        "date": "2025-09-25 10:49",
+        "link": "https://n.news.naver.com/mnews/article/008/0005255710?sid=101"
+    },
+    {
+        "title": "원신과 갤럭시 스토어 네 번째 콜라보, ‘라이오슬리 액세서리’ 및 스...",
+        "date": "2025-09-25 10:42",
+        "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=217007"
+    },
+    {
+        "title": "한켐, 'OLED·바이오·반도체 신소재' 개발 성과…'양산 5종·파일럿 31종...",
+        "date": "2025-09-25 10:38",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=705820"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 46억 규모 장비 공급 계약",
+        "date": "2025-09-25 10:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=279023"
+    },
+    {
+        "title": "에이수스, ROG 스트릭스(Strix) 27·32형 게이밍 모니터 신제품 출시... 최...",
+        "date": "2025-09-25 10:30",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804486"
+    },
+    {
+        "title": "한켐, 신규 첨단소재 개발 가속…양산소재 5종·파일럿 소재 31종 개발...",
+        "date": "2025-09-25 10:30",
+        "link": "https://www.newspim.com/news/view/20250925000338"
+    },
+    {
+        "title": "한켐, 신규 첨단소재 개발 가속…파일럿 소재 31종 개발",
+        "date": "2025-09-25 10:30",
+        "link": "https://n.news.naver.com/mnews/article/003/0013504526?sid=101"
+    },
+    {
+        "title": "에이수스, OLED의 압도적인 비주얼 가진 고주사율 게이밍 모니터 2종 출...",
+        "date": "2025-09-25 10:24",
+        "link": "https://kbench.com/?q=node/271714"
+    },
+    {
+        "title": "에이수스, OLED의 압도적인 비주얼 가진 고주사율 게이밍 모니터 2종 출...",
+        "date": "2025-09-25 10:18",
+        "link": "https://n.news.naver.com/mnews/article/016/0002534598?sid=105"
+    },
+    {
+        "title": "애플 실제로 인텔에 투자할까? 애플-인텔 애증의 역사(종합)",
+        "date": "2025-09-25 10:17",
+        "link": "https://n.news.naver.com/mnews/article/421/0008507830?sid=104"
+    },
+    {
+        "title": "커세어, 스트림덱 기능 지원 ‘뱅가드 프로 96’ 및 ‘뱅가드 96’ 게이...",
+        "date": "2025-09-25 10:14",
+        "link": "https://gamefocus.co.kr/detail.php?number=169611"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 46억원 규모 장비 공급계약",
+        "date": "2025-09-25 10:10",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=322892"
+    },
+    {
+        "title": "한켐, 신규 첨단소재 개발 가속…“상반기 신규 양산소재 5종·파일럿 소...",
+        "date": "2025-09-25 10:09",
+        "link": "https://n.news.naver.com/mnews/article/018/0006124687?sid=101"
+    },
+    {
+        "title": "위기의 디스플레이 산업 살리려면?…삼성D·LGD 세액공제 확대 필요",
+        "date": "2025-09-25 10:03",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=331468"
+    },
+    {
+        "title": "케이지에이, 세종대 첨단소재응용 핵심연구지원센터와 MOU",
+        "date": "2025-09-25 10:02",
+        "link": "https://n.news.naver.com/mnews/article/003/0013504406?sid=101"
+    },
+    {
+        "title": "아이폰17 전면 카메라, 아이폰 16과 픽셀 단위로 비교해 보니…",
+        "date": "2025-09-25 10:00",
+        "link": "https://www.itworld.co.kr/article/4062695/아이폰17-전면-카메라-아이폰-16과-픽셀-단위로-비교해.html"
+    },
+    {
+        "title": "케이지에이, 세종대와 MOU 체결…차세대 이차전지 장비 R&amp;D 강화",
+        "date": "2025-09-25 09:58",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=653399"
+    },
+    {
+        "title": "인텔, 애플에 투자 요청…협력 방안 논의",
+        "date": "2025-09-25 09:57",
+        "link": "https://n.news.naver.com/mnews/article/448/0000559443?sid=104"
+    },
+    {
+        "title": "케이지에이, 세종대와 업무협약 체결…차세대 소재 및 장비 개발",
+        "date": "2025-09-25 09:56",
+        "link": "https://www.newspim.com/news/view/20250925000252"
+    },
+    {
+        "title": "케이지에이, 세종대와 MOU…차세대 소재 개발 등 긴밀 협력",
+        "date": "2025-09-25 09:54",
+        "link": "https://n.news.naver.com/mnews/article/018/0006124657?sid=101"
+    },
+    {
+        "title": "화웨이, 저가 플립형 폴더블폰 '노바 플립 S' 출시 가능성",
+        "date": "2025-09-25 09:48",
+        "link": "https://kbench.com/?q=node/271703"
+    },
+    {
+        "title": "블룸버그 인텔, 애플에 투자 요청...논의 초기단계",
+        "date": "2025-09-25 09:42",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=124833"
+    },
+    {
+        "title": "애플, 2년 만에 애플TV 4K 업데이트…A17 Pro·AI 지원 강화",
+        "date": "2025-09-25 09:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593900"
+    },
+    {
+        "title": "아이폰17 프로 스크래치 논란 확산…애플 알루미늄 특성일 뿐",
+        "date": "2025-09-25 09:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=593909"
+    },
+    {
+        "title": "애플에 투자 요청한 인텔…재건 노력 탄력받을까",
+        "date": "2025-09-25 09:30",
+        "link": "https://www.ajunews.com/view/20250925091901956"
+    },
+    {
+        "title": "인텔, 애플에 투자 요청…협력 방안 논의",
+        "date": "2025-09-25 09:19",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000006767"
+    },
+    {
+        "title": "'인텔' 애플에 투자 요청…주가 6% 급등, 애플 0.8% 하락",
+        "date": "2025-09-25 09:08",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15818150"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 46억원 규모 장비 공급계약",
+        "date": "2025-09-25 09:08",
+        "link": "https://www.newspim.com/news/view/20250925000147"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 46억원 규모 장비 공급계약",
+        "date": "2025-09-25 08:54",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=653371"
+    },
+    {
+        "title": "인텔, 애플까지 품나… 트럼프·엔비디아에 이어 전략 협력 '빅딜' 주목",
+        "date": "2025-09-25 08:52",
+        "link": "https://www.tokenpost.kr/news/tech/288903"
+    },
+    {
+        "title": "정부·엔비디아에 애플까지… 인텔 '美 반도체 공기업' 되나 [윤민혁의...",
+        "date": "2025-09-25 08:48",
+        "link": "https://n.news.naver.com/mnews/article/011/0004537290?sid=105"
+    },
+    {
+        "title": "면사랑, 유기농 애플사이다 비니거·삼색 동물파스타 출시",
+        "date": "2025-09-25 08:47",
+        "link": "https://n.news.naver.com/mnews/article/366/0001110784?sid=101"
+    },
+    {
+        "title": "애플, 인텔에 투자하나…투자요청에 협력 방안 논의",
+        "date": "2025-09-25 08:46",
+        "link": "https://n.news.naver.com/mnews/article/029/0002984213?sid=104"
+    },
+    {
+        "title": "'인텔 살리기' 애플도 참전?...인텔이 투자 요청",
+        "date": "2025-09-25 08:40",
+        "link": "https://n.news.naver.com/mnews/article/215/0001225235?sid=004"
+    },
+    {
+        "title": "블룸버그 인텔, 애플에 투자 요청…협력 방안 논의",
+        "date": "2025-09-25 08:25",
+        "link": "https://n.news.naver.com/mnews/article/001/0015647480?sid=104"
+    },
+    {
+        "title": "면사랑, 유기농 애플사이다비니거·삼색 동물파스타 신제품 출시",
+        "date": "2025-09-25 08:20",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=20250925081541524646a9e4dd7f_30"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 46억 규모 장비 공급 계약",
+        "date": "2025-09-25 08:16",
+        "link": "https://n.news.naver.com/mnews/article/003/0013504024?sid=101"
+    },
+    {
+        "title": "애플 아이폰17 프로 뒷면 흠집, 마모된 맥세이프 충전기 때문",
+        "date": "2025-09-25 08:16",
+        "link": "https://n.news.naver.com/mnews/article/092/0002391804?sid=105"
+    },
+    {
+        "title": "영우디에스피, 삼성디스플레이와 46억원 규모 장비 공급계약",
+        "date": "2025-09-25 08:16",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=669277"
+    },
+    {
+        "title": "[더벨]'8세대 설비투자 발목' 파인원, 결국 회생절차 개시",
+        "date": "2025-09-25 08:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509240757072120104559"
+    },
+    {
+        "title": "[IT썰]179만원짜리 아이폰17 이럴수가…'스크래치' 해명에도 시끌",
+        "date": "2025-09-25 08:07",
+        "link": "https://n.news.naver.com/mnews/article/008/0005255557?sid=105"
+    },
+    {
+        "title": "애플 폴더블 아이폰, 시험 생산은 대만·양산은 인도? 변수는...",
+        "date": "2025-09-25 07:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=536874"
+    }
+]
