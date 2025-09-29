@@ -1,1 +1,377 @@
-
+[
+    {
+        "title": "세계 첫 마이크로 RGB 출시, 글로벌기관 인증 취득",
+        "date": "2025-09-30 03:02",
+        "link": "https://n.news.naver.com/mnews/article/020/0003664622?sid=101"
+    },
+    {
+        "title": "인텔 루나레이크-AI셀렉트 탑재… 더 향상된 PC 경험",
+        "date": "2025-09-30 03:02",
+        "link": "https://n.news.naver.com/mnews/article/020/0003664621?sid=101"
+    },
+    {
+        "title": "음성-이미지-맥락 동시이해 ‘멀티모달’ AI 기술 선도",
+        "date": "2025-09-30 03:02",
+        "link": "https://n.news.naver.com/mnews/article/020/0003664620?sid=101"
+    },
+    {
+        "title": "삼성전자, 더 향상되고 혁신적인 AI 경험 제공",
+        "date": "2025-09-30 00:03",
+        "link": "https://n.news.naver.com/mnews/article/009/0005567031?sid=101"
+    },
+    {
+        "title": "삼성전자, 갤럭시 AI 진화 포문 열어 … 신제품 공개",
+        "date": "2025-09-30 00:02",
+        "link": "https://n.news.naver.com/mnews/article/009/0005567026?sid=101"
+    },
+    {
+        "title": "삼성전자, 인공지능 TV 앞세워 글로벌 시장서 선전",
+        "date": "2025-09-30 00:02",
+        "link": "https://n.news.naver.com/mnews/article/009/0005567025?sid=101"
+    },
+    {
+        "title": "[스냅드래곤서밋] 퀄컴 '스냅드래곤X2 엘리트 익스트림', 인텔·애플보다...",
+        "date": "2025-09-29 22:00",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=145022"
+    },
+    {
+        "title": "[봇규가 간다] AMXPO 2025 | 물류·제조 진화 현장에 스며든 로보틱스",
+        "date": "2025-09-29 20:32",
+        "link": "https://www.hellot.net/news/article.html?no=105909"
+    },
+    {
+        "title": "애플꼬마김밥, 신메뉴 '마라유부꼬마김밥·떡갈비꼬마김밥' 출시",
+        "date": "2025-09-29 19:26",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1038135"
+    },
+    {
+        "title": "SK증권 LG디스플레이 고객사 내 점유율 확대, 3분기 영업이익 기대이상...",
+        "date": "2025-09-29 19:10",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=414085"
+    },
+    {
+        "title": "애플 DMA 폐기하라 주장, 시장 반응은 냉랭",
+        "date": "2025-09-29 18:18",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=52127"
+    },
+    {
+        "title": "삼성, AP 점유율 한 자릿수 체면 구겨…“2나노 ‘엑시노스 2600’, 명예...",
+        "date": "2025-09-29 18:02",
+        "link": "https://www.ceoscoredaily.com/page/view/2025092914252094034"
+    },
+    {
+        "title": "애플, 버그 수정 'iOS 26.0.1' 마이너 업데이트 출시 준비",
+        "date": "2025-09-29 18:00",
+        "link": "https://kbench.com/?q=node/271852"
+    },
+    {
+        "title": "라온텍 엘코스 기반 AR 광학 모듈 공급",
+        "date": "2025-09-29 17:32",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41586"
+    },
+    {
+        "title": "애플 공장 인도로 옮겨오니.. 순식간에 일자리 35만 개가 새로 생겼다",
+        "date": "2025-09-29 17:28",
+        "link": "https://n.news.naver.com/mnews/article/014/0005414014?sid=101"
+    },
+    {
+        "title": "삼성전자, 삼성D 대신 LGD와 OLED 협업 강화한 이유",
+        "date": "2025-09-29 17:10",
+        "link": "https://www.newstopkorea.com/news/articleView.html?idxno=40110"
+    },
+    {
+        "title": "OLED 수요 증가 수혜… 영우디에스피, 장비 공급 주목",
+        "date": "2025-09-29 17:04",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=381396"
+    },
+    {
+        "title": "갤럭시 S26 울트라 성능 예측...아이폰 17 프로 우위 전망",
+        "date": "2025-09-29 17:00",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=301894"
+    },
+    {
+        "title": "애플, 챗 GPT와 닮은 시리 출시 예고?",
+        "date": "2025-09-29 16:52",
+        "link": "https://www.marieclairekorea.com/culture/lifestyle/2025/09/apple-new-siri-chat-gpt/?utm_source=naver&utm_medium=partnership"
+    },
+    {
+        "title": "삼성전자, 토요타에 '스마트 사이니지' 공급",
+        "date": "2025-09-29 16:40",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=517584"
+    },
+    {
+        "title": "iOS 탓인가, 통신사 문제인가...아이폰17 이용자들 집단 불편 호소, 무슨...",
+        "date": "2025-09-29 16:28",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=396923"
+    },
+    {
+        "title": "3%에 갇힌 샤오미·모토로라, 한국 미련 못버리는 이유",
+        "date": "2025-09-29 15:54",
+        "link": "https://www.ekn.kr/web/view.php?key=20250929027561983"
+    },
+    {
+        "title": "극한의 초고주사율 갖춘 차세대 게이밍 모니터, 에이수스 ROG Strix OLED XG...",
+        "date": "2025-09-29 15:20",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56240"
+    },
+    {
+        "title": "통역사 없는 세상 오나? 삼성·애플 스마트폰 번역 써보니...",
+        "date": "2025-09-29 15:19",
+        "link": "https://n.news.naver.com/mnews/article/023/0003931994?sid=105"
+    },
+    {
+        "title": "갤럭시 S25를 위한 Qi2 무선 충전 스탠드, 벨킨 ‘부스트차지 프로’",
+        "date": "2025-09-29 15:12",
+        "link": "https://www.betanews.net/article/view/beta202509290001"
+    },
+    {
+        "title": "애플, M5 기반 신형 맥북 프로·에어 양산 초읽기",
+        "date": "2025-09-29 15:00",
+        "link": "https://kbench.com/?q=node/271843"
+    },
+    {
+        "title": "반등에도 웃을 수만은 없는 패널사…中 격차 확대 '우려'",
+        "date": "2025-09-29 14:59",
+        "link": "https://n.news.naver.com/mnews/article/119/0003008743?sid=101"
+    },
+    {
+        "title": "아이폰17 전시 제품 스크래치 발생…애플, 매장 스탠드 개선 진행",
+        "date": "2025-09-29 14:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=594673"
+    },
+    {
+        "title": "“흠집 잘 생긴다” “통화 불량”... 아이폰 17 품질 논란",
+        "date": "2025-09-29 14:37",
+        "link": "https://n.news.naver.com/mnews/article/023/0003931979?sid=105"
+    },
+    {
+        "title": "애플도 가세한 폴더블폰 시장, IT산업 새 성장 모멘텀 기대감 솔솔",
+        "date": "2025-09-29 14:09",
+        "link": "https://n.news.naver.com/mnews/article/009/0005566592?sid=004"
+    },
+    {
+        "title": "애플 아이폰17, 中 출시 첫 주 103만대 개통…실적·점유율 개선 청신호",
+        "date": "2025-09-29 13:48",
+        "link": "https://n.news.naver.com/mnews/article/030/0003355565?sid=105"
+    },
+    {
+        "title": "[人사이트] 샤오미 전략 한국에 심는 '조니 우' 사장",
+        "date": "2025-09-29 13:38",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1680533"
+    },
+    {
+        "title": "‘AI 혁신’ 빠진 애플, 시리 개선으로 추격 준비…‘1년 골든타임’",
+        "date": "2025-09-29 13:10",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1276502&inflow=N"
+    },
+    {
+        "title": "애플, 시리(Siri) 개선 위해 '유사 챗GPT' 앱 개발 시도... 극비 챗봇 베...",
+        "date": "2025-09-29 13:10",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804633"
+    },
+    {
+        "title": "[칼럼] 삼성과 애플폰에 '일레븐랩스' AI 음성 기능이 기본 탑재된다면...",
+        "date": "2025-09-29 12:50",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=98974"
+    },
+    {
+        "title": "“기대 이상의 차이” 아이폰 17 프로 vs. 아이폰 16 프로 망원 렌즈 심...",
+        "date": "2025-09-29 12:10",
+        "link": "https://www.itworld.co.kr/article/4064439/기대-이상의-차이-아이폰-17-프로-vs-아이폰-16-프로-망원.html"
+    },
+    {
+        "title": "애플, 美 노동권 침해 무죄 확정…中 공장서 또 논란",
+        "date": "2025-09-29 11:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=594617"
+    },
+    {
+        "title": "갤럭시 S26 울트라, 변경된 S펜 디자인 유출... '칼각' 디자인 4년 만에...",
+        "date": "2025-09-29 11:50",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804627"
+    },
+    {
+        "title": "애플 인텔리전스 작동 안 돼…아이폰17 시리즈 논란 가열",
+        "date": "2025-09-29 11:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=594597"
+    },
+    {
+        "title": "애플 일기, 맥OS 26 지원으로 활용도↑…일상 기록 중심 앱 자리매김",
+        "date": "2025-09-29 11:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=594588"
+    },
+    {
+        "title": "포유디지탈, '2025 하반기 나라장터 상생세일' 참가",
+        "date": "2025-09-29 11:38",
+        "link": "https://www.dailysecu.com/news/articleView.html?idxno=200971"
+    },
+    {
+        "title": "“블록체인 지갑 대신 생체인증 로그인·애플페이 결제”",
+        "date": "2025-09-29 11:33",
+        "link": "https://n.news.naver.com/mnews/article/016/0002536456?sid=101"
+    },
+    {
+        "title": "삼성 3단 폴더블폰, 갤럭시S25 울트라 동일한 100배 줌 카메라 탑재",
+        "date": "2025-09-29 11:10",
+        "link": "https://kbench.com/?q=node/271824"
+    },
+    {
+        "title": "애플, '내부용 ChatGPT' 개발…내년 Siri 대규모 업그레이드 예고",
+        "date": "2025-09-29 10:52",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=67528"
+    },
+    {
+        "title": "삼성 글로벌 XR시장 본격 도전차세대 디바이스 승부수 띄운다",
+        "date": "2025-09-29 10:46",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=339361"
+    },
+    {
+        "title": "애플, 시리 개편 준비 위해 '챗GPT 유사 앱' 개발",
+        "date": "2025-09-29 10:46",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=74104"
+    },
+    {
+        "title": "애플, 챗GPT 닮은 내부 앱 '베리타스'로 시리 개편 돌입",
+        "date": "2025-09-29 10:44",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=98968"
+    },
+    {
+        "title": "포유디지탈, 2025 하반기 나라장터 상생세일 참가…노트북·태블릿·전자...",
+        "date": "2025-09-29 10:30",
+        "link": "https://dhnews.co.kr/news/view/1065576341940334"
+    },
+    {
+        "title": "아이폰17, 애플 인텔리전스 다운로드 오류…품질 관리 도마 위",
+        "date": "2025-09-29 10:27",
+        "link": "https://n.news.naver.com/mnews/article/092/0002392362?sid=105"
+    },
+    {
+        "title": "애플, M5 탑재 맥북 생산 돌입…2026년 초 출시 예정",
+        "date": "2025-09-29 10:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=594566"
+    },
+    {
+        "title": "LG전자, 글로시 WOLED 패널 탑재 모니터 출시",
+        "date": "2025-09-29 10:20",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=301853"
+    },
+    {
+        "title": "LG디스플레이, 4년 적자 고리 끊는다…증권가 ‘OLED 반등’에 베팅",
+        "date": "2025-09-29 10:14",
+        "link": "https://www.ekn.kr/web/view.php?key=20250929024051805"
+    },
+    {
+        "title": "삼성 '갤럭시 Z 트라이폴드'…데스크톱급 멀티태스킹 구현",
+        "date": "2025-09-29 10:14",
+        "link": "https://kbench.com/?q=node/271812"
+    },
+    {
+        "title": "애플 감성?…랜턴도 조니 아이브가 디자인하니 다르네",
+        "date": "2025-09-29 10:08",
+        "link": "https://n.news.naver.com/mnews/article/092/0002392351?sid=105"
+    },
+    {
+        "title": "애플 내년 아이폰17e '가성비' 낮추나, 블룸버그 아이폰17이 확실한 우...",
+        "date": "2025-09-29 10:04",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=413928"
+    },
+    {
+        "title": "에이스침대, 1mm 초슬림 '닥터스 온열매트' 론칭",
+        "date": "2025-09-29 10:04",
+        "link": "http://www.ikld.kr/news/articleView.html?idxno=321347"
+    },
+    {
+        "title": "조니 아이브의 러브프롬, 새 항해용 랜턴 공개…애플 감성 담았다",
+        "date": "2025-09-29 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=594541"
+    },
+    {
+        "title": "애플, 시리 개편 위해 챗GPT 방식 도입…'베리타스' 앱 개발",
+        "date": "2025-09-29 09:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=594516"
+    },
+    {
+        "title": "애플 인텔리전스 버그? 아이폰17서 일부 기능 '사용불가'",
+        "date": "2025-09-29 09:50",
+        "link": "https://kbench.com/?q=node/271811"
+    },
+    {
+        "title": "기능성과 게이밍, 디자인까지 골고루 갖춘 기계식 키보드, 앱코 A87K, A10...",
+        "date": "2025-09-29 09:32",
+        "link": "https://kbench.com/?q=node/271496"
+    },
+    {
+        "title": "LG전자 OLED 기술 술술 샐라 … '중국 공동생산' 우려 봇물",
+        "date": "2025-09-29 09:30",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56209"
+    },
+    {
+        "title": "[특징주]'OLED 중심 수익성 개선' LG디스플레이, 3.49% 상승",
+        "date": "2025-09-29 09:22",
+        "link": "https://n.news.naver.com/mnews/article/277/0005659019?sid=101"
+    },
+    {
+        "title": "스마트글라스·AI에 돈 쏟는 메타, 차세대 기기 시장 선점할까 [친절한...",
+        "date": "2025-09-29 09:20",
+        "link": "https://n.news.naver.com/mnews/article/293/0000073087?sid=105"
+    },
+    {
+        "title": "[더벨]삼성D·LGD, 하반기 '성수기' 수요에 호실적 자신",
+        "date": "2025-09-29 09:18",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509261841024800109246"
+    },
+    {
+        "title": "'연간 흑자' 기대감 커진 LGD…정철동 사장 韓 디스플레이 미래는 OLED",
+        "date": "2025-09-29 09:14",
+        "link": "https://n.news.naver.com/mnews/article/293/0000073086?sid=101"
+    },
+    {
+        "title": "삼성디스플레이 40조 챙길 때 8조 날려버린 LG디스플레이...이유는?",
+        "date": "2025-09-29 09:02",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=37308"
+    },
+    {
+        "title": "가상현실(VR)에서 증강현실(AR)로…AR스마트글래스 시장은 성장세",
+        "date": "2025-09-29 09:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=182048"
+    },
+    {
+        "title": "아이폰 에어의 아름다운 얇음 vs 갤럭시 S25 엣지의 실용적 슬림",
+        "date": "2025-09-29 08:46",
+        "link": "https://www.g-enews.com/view.php?ud=2025092908441178490c8c1c064d_1"
+    },
+    {
+        "title": "교보증권 파인텍, 애플 제품 출시·SDT 협업 기대",
+        "date": "2025-09-29 08:40",
+        "link": "https://www.etoday.co.kr/news/view/2511150"
+    },
+    {
+        "title": "LG디스플레이, OLED 중심 수익성 개선…내년 영업익 1조4000억원 전망",
+        "date": "2025-09-29 08:34",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=706171"
+    },
+    {
+        "title": "차기 맥북 프로 양산 임박…OLED 모델은 내년 하반기",
+        "date": "2025-09-29 08:16",
+        "link": "https://n.news.naver.com/mnews/article/092/0002392320?sid=105"
+    },
+    {
+        "title": "위기 속 빛난 리더십…영업이익으로 증명한 CEO들 눈길",
+        "date": "2025-09-29 08:00",
+        "link": "https://n.news.naver.com/mnews/article/243/0000085616?sid=101"
+    },
+    {
+        "title": "파인텍, 애플 제품 출시에 따른 수주 및 SDT 협업 기대-교보",
+        "date": "2025-09-29 07:59",
+        "link": "https://n.news.naver.com/mnews/article/018/0006128428?sid=101"
+    },
+    {
+        "title": "[IT썰] 아이폰17 대박? 얼마나 벌었길래...애플 전 직원 유급 휴가",
+        "date": "2025-09-29 07:56",
+        "link": "https://n.news.naver.com/mnews/article/008/0005257150?sid=105"
+    },
+    {
+        "title": "[가봤더니] VR 부검부터 드론 조종까지…메타버스로 교육 혁신 나선 라...",
+        "date": "2025-09-29 07:14",
+        "link": "https://dealsite.co.kr/articles/148874"
+    }
+]
