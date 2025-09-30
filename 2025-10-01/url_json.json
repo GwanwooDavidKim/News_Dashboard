@@ -1,1 +1,687 @@
-
+[
+    {
+        "title": "삼성전자, 갤워치 기반 B2B '스마트싱스 프로 안전 관리 솔루션' 출시",
+        "date": "2025-10-01 02:32",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3040722"
+    },
+    {
+        "title": "애플워치, '수면 무호흡 알림 기능' 국내 도입",
+        "date": "2025-09-30 23:52",
+        "link": "https://n.news.naver.com/mnews/article/092/0002392703?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 23:00",
+        "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=415486"
+    },
+    {
+        "title": "애플워치, 수면 무호흡 잡는다… 헬스케어 혁신 '가속페달'",
+        "date": "2025-09-30 22:54",
+        "link": "https://www.tokenpost.kr/news/tech/290518"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 22:22",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=74989"
+    },
+    {
+        "title": "삼성디스플레이, 대만서 '올레드 IT 서밋' 개최…파트너사와 협력해 시...",
+        "date": "2025-09-30 21:56",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=407430"
+    },
+    {
+        "title": "혁신공정사업 성과 기반, 한국 디스플레이 미래전략 모색",
+        "date": "2025-09-30 20:46",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=96458"
+    },
+    {
+        "title": "이러다 설마 나도?…“자다가 잠깐 숨 멈췄어요” 미처 몰랐던 아찔한 ...",
+        "date": "2025-09-30 20:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002537439?sid=105"
+    },
+    {
+        "title": "인도 내 애플 협력사 45개, 35만 개 일자리 창출",
+        "date": "2025-09-30 18:59",
+        "link": "https://www.newspim.com/news/view/20250930001245"
+    },
+    {
+        "title": "한국디스플레이산업협회, 혁신공정사업 7년 성과 공개",
+        "date": "2025-09-30 18:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=595131"
+    },
+    {
+        "title": "이통3사, 아이폰 RCS 메시지 도입…무엇이 달라질까?",
+        "date": "2025-09-30 18:38",
+        "link": "https://n.news.naver.com/mnews/article/020/0003664902?sid=105"
+    },
+    {
+        "title": "[단독] “화웨이와 격차 보여주겠다”…세계정상 모인 무대서 삼성이 꺼...",
+        "date": "2025-09-30 18:26",
+        "link": "https://n.news.naver.com/mnews/article/009/0005567654?sid=101"
+    },
+    {
+        "title": "영포티는 아이폰? 삼성 갤럭시 '아재폰' 옛말…10~30대 이용자 급증",
+        "date": "2025-09-30 18:22",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=813260"
+    },
+    {
+        "title": "펼치면 태블릿 두번 접는 '갤Z 트라이폴드폰' 내달 나온다",
+        "date": "2025-09-30 18:16",
+        "link": "https://n.news.naver.com/mnews/article/014/0005414812?sid=105"
+    },
+    {
+        "title": "디스플레이협회, 혁신공정사업 운영위 개최…“미래전략 모색”",
+        "date": "2025-09-30 18:16",
+        "link": "https://n.news.naver.com/mnews/article/119/0003009393?sid=101"
+    },
+    {
+        "title": "'1㎜라도 더 줄여라'...삼성,애플 '두께' 전쟁에 사활 거는 속내는",
+        "date": "2025-09-30 18:10",
+        "link": "https://www.ajunews.com/view/20250930160806451"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 18:06",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160284014295866"
+    },
+    {
+        "title": "디스플레이협회, 혁신공정사업 성과 기반 전략 모색",
+        "date": "2025-09-30 17:37",
+        "link": "https://www.newspim.com/news/view/20250930001171"
+    },
+    {
+        "title": "세계정상 무대서 'K휴대폰 혁신' 펼친다",
+        "date": "2025-09-30 17:20",
+        "link": "https://n.news.naver.com/mnews/article/009/0005567512?sid=101"
+    },
+    {
+        "title": "OLED도 뺏길라···디스플레이, 정부지원 절실",
+        "date": "2025-09-30 17:02",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=106640"
+    },
+    {
+        "title": "두 번 접는 갤럭시폰, 400만원에 나온다.. 11월 출시 유력",
+        "date": "2025-09-30 16:48",
+        "link": "https://n.news.naver.com/mnews/article/014/0005414720?sid=105"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치 기반 B2B 전용 '스마트싱스 프로 안전 관리 솔루...",
+        "date": "2025-09-30 16:30",
+        "link": "http://www.hg-times.com/news/articleView.html?idxno=275890"
+    },
+    {
+        "title": "국내 사용자도 애플워치 '수면 무호흡 알림' 기능 쓴다",
+        "date": "2025-09-30 16:28",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=145058"
+    },
+    {
+        "title": "중국 따돌리는 LG디스플레이, 하반기 실적반등 초록불",
+        "date": "2025-09-30 16:28",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=273685"
+    },
+    {
+        "title": "LG이노텍, 아이폰17 폴디드줌 OIS 물량 50% 이상 확보...中ICT 진입",
+        "date": "2025-09-30 16:22",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41641"
+    },
+    {
+        "title": "“‘갤럭시 워치’로 산업현장 안전 지킨다”",
+        "date": "2025-09-30 16:16",
+        "link": "https://n.news.naver.com/mnews/article/382/0001227286?sid=105"
+    },
+    {
+        "title": "디스플레이協 OLED·초격차 공정·iLED 중장기 지원 필요",
+        "date": "2025-09-30 16:06",
+        "link": "https://www.ajunews.com/view/20250930155540433"
+    },
+    {
+        "title": "디스플레이산업협회, 혁신공정 성과 기반 미래전략 모색",
+        "date": "2025-09-30 15:46",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=242927"
+    },
+    {
+        "title": "디스플레이산업협회, 혁신공정사업 성과 기반 '초격차 미래전략' 모색",
+        "date": "2025-09-30 15:38",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=272706"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 15:30",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=112541"
+    },
+    {
+        "title": "[글로벌] 애플, 챗GPT 맞설 새로운 시리 기술 개발...내년 대대적 개편 ...",
+        "date": "2025-09-30 15:16",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=145051"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 15:16",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4010141"
+    },
+    {
+        "title": "[영상] 아이폰17, 기본형이 젤 낫다?···모델별 장단점 총정리",
+        "date": "2025-09-30 15:10",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=415694"
+    },
+    {
+        "title": "하이엔드 키보드 'CQ8K108'·7.1채널 유선 게이밍 헤드셋 'V800' 선보인 콕...",
+        "date": "2025-09-30 15:06",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56272"
+    },
+    {
+        "title": "애플, 애플워치에 '수면 무호흡' 알림 지원",
+        "date": "2025-09-30 15:02",
+        "link": "https://n.news.naver.com/mnews/article/031/0000969572?sid=105"
+    },
+    {
+        "title": "디스플레이協, 혁신공정사업 운영위 개최…“OLED 주도권 강화”",
+        "date": "2025-09-30 15:01",
+        "link": "https://n.news.naver.com/mnews/article/016/0002537303?sid=101"
+    },
+    {
+        "title": "삼성전자, '스마트싱스 프로 안전 관리 솔루션'으로 산업 재해 예방",
+        "date": "2025-09-30 15:00",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=780797"
+    },
+    {
+        "title": "커스텀 게이밍 PC 최적화... 컬러풀 iGame 지포스 RTX 5080 불칸 OC D7 16GB...",
+        "date": "2025-09-30 15:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56257"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 14:45",
+        "link": "https://n.news.naver.com/mnews/article/243/0000085717?sid=105"
+    },
+    {
+        "title": "디스플레이부터 2차전지까지…넥사다이내믹스, 기술력으로 시장 장악 나...",
+        "date": "2025-09-30 14:44",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=381742"
+    },
+    {
+        "title": "[AT 산업 단신] LG전자·LS일렉트릭·삼성전자",
+        "date": "2025-09-30 14:38",
+        "link": "https://www.asiatime.co.kr/article/20250930500342"
+    },
+    {
+        "title": "아이폰 17 프로 맥스 리뷰 | 진정한 ‘프로’의 무게감",
+        "date": "2025-09-30 14:34",
+        "link": "https://www.itworld.co.kr/article/4065255/아이폰-17-프로-맥스-리뷰-진정한-프로의-무게감.html"
+    },
+    {
+        "title": "삼성전자, B2B용 ‘스마트싱스 프로 안전 관리 솔루션’ 출시",
+        "date": "2025-09-30 14:24",
+        "link": "http://journal.kobeta.com/?post_type=post&p=60515"
+    },
+    {
+        "title": "국회에서 애플도 불렀다…계정 무단결제 이어 국감까지",
+        "date": "2025-09-30 14:22",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41630"
+    },
+    {
+        "title": "디스플레이協, 'OLED 시장 주도 목표' 혁신공정사업 성과·추진방향 논의",
+        "date": "2025-09-30 14:15",
+        "link": "https://n.news.naver.com/mnews/article/421/0008518378?sid=101"
+    },
+    {
+        "title": "애플워치 '수면 무호흡 알림 기능' 국내 도입...글로벌 공개 1년만에",
+        "date": "2025-09-30 14:07",
+        "link": "https://n.news.naver.com/mnews/article/030/0003356113?sid=105"
+    },
+    {
+        "title": "[더벨][i-point]네온테크, 비전사이언스 소송 '법적 절차'로 대응",
+        "date": "2025-09-30 14:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509301342411320101249"
+    },
+    {
+        "title": "숨 멎는 밤, 애플워치가 지킨다···수면무호흡 모니터링 국내 도입",
+        "date": "2025-09-30 14:00",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2336174"
+    },
+    {
+        "title": "애플, 국내서 '수면 무호흡 알림' 기능 시작…오늘부터 워치OS 26 통해 제...",
+        "date": "2025-09-30 13:58",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=454733"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치'로 산업 현장 근무자 안전 실시간 보호",
+        "date": "2025-09-30 13:58",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=202509301355186432be44c0aacd_30"
+    },
+    {
+        "title": "애플워치, 수면무호흡 측정 첫 도입…삼성과 ‘디지털 헬스케어’ 전쟁",
+        "date": "2025-09-30 13:54",
+        "link": "https://n.news.naver.com/mnews/article/018/0006129669?sid=105"
+    },
+    {
+        "title": "디스플레이協, 혁신공정 플랫폼 성과·추진방향 논의",
+        "date": "2025-09-30 13:46",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=186912"
+    },
+    {
+        "title": "[테크스냅] 애플워치 '수면 무호흡 알림' 기능 도입",
+        "date": "2025-09-30 13:35",
+        "link": "https://n.news.naver.com/mnews/article/001/0015658330?sid=105"
+    },
+    {
+        "title": "애플 iOS 26.0.1 긴급 업데이트…아이폰17 문제 해결",
+        "date": "2025-09-30 13:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=594992"
+    },
+    {
+        "title": "인텔 코어 울트라 9 &amp; Z890 조합, 고성능 게이밍 PC 구성하기",
+        "date": "2025-09-30 13:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56251"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 12:42",
+        "link": "https://www.g-enews.com/view.php?ud=2025093010404093236ed0c62d49_1"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 12:38",
+        "link": "https://kbench.com/?q=node/271869"
+    },
+    {
+        "title": "[김민수의 잠금해제] 애플, 내년 폴더블 아이폰 출시… 부품주 매수 타...",
+        "date": "2025-09-30 12:34",
+        "link": "https://news.mtn.co.kr/news-detail/2025093011534631784"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치 기반 산업안전 솔루션 출시",
+        "date": "2025-09-30 12:28",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=202547"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 12:22",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1074732"
+    },
+    {
+        "title": "삼성전자 DX부문, 3분기 B2C·B2B 공세 강화…TV·가전, 실적 반등 '총력...",
+        "date": "2025-09-30 12:20",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=145043"
+    },
+    {
+        "title": "애플, 아이폰 17 시리즈 공개… BIEL과의 협력 더욱 깊어져",
+        "date": "2025-09-30 12:12",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=533368"
+    },
+    {
+        "title": "삼성디스플레이, 폴더블 아이폰용 OLED 패널 양산 준비",
+        "date": "2025-09-30 11:54",
+        "link": "https://kbench.com/?q=node/271867"
+    },
+    {
+        "title": "욕할 땐 언제고?…아이폰17 대박 터뜨린 애플, 직원들에게 휴가 보상",
+        "date": "2025-09-30 11:48",
+        "link": "https://n.news.naver.com/mnews/article/009/0005567248?sid=101"
+    },
+    {
+        "title": "밤마다 숨 멎어? 애플워치 '수면 무호흡 알림' 韓 도입...삼성과 격돌",
+        "date": "2025-09-30 11:35",
+        "link": "https://n.news.naver.com/mnews/article/008/0005258086?sid=105"
+    },
+    {
+        "title": "'슈퍼 을' TSMC, 2나노 50% 가격 인상…삼성전자 틈새 수주 노린다",
+        "date": "2025-09-30 11:33",
+        "link": "https://n.news.naver.com/mnews/article/421/0008517909?sid=101"
+    },
+    {
+        "title": "자다가 숨 멈추셨네요…韓 애플워치도 '수면 무호흡 알림' 도입",
+        "date": "2025-09-30 11:14",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=279417"
+    },
+    {
+        "title": "갤워치로 현장 안전 체크…삼성, 스마트싱스 프로 안전관리 솔루션 선...",
+        "date": "2025-09-30 11:14",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=279418"
+    },
+    {
+        "title": "삼성전자, '스마트싱스 프로 안전 관리 솔루션' 출시",
+        "date": "2025-09-30 11:12",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=92755"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 11:08",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=96374"
+    },
+    {
+        "title": "애플 비전 프로2, M5 탑재 예고…성능·착용감 대폭 업그레이드",
+        "date": "2025-09-30 10:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=594923"
+    },
+    {
+        "title": "“SK하이닉스처럼”… 삼성 13개 계열사 연합 노조 집결",
+        "date": "2025-09-30 10:58",
+        "link": "https://n.news.naver.com/mnews/article/023/0003932207?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 3분기 '깜짝 실적' 전망…내년 더 좋다",
+        "date": "2025-09-30 10:56",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=279400"
+    },
+    {
+        "title": "삼성전자 '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 10:54",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=73011"
+    },
+    {
+        "title": "애플워치 ‘수면 무호흡 알림’, 1년 만에 한국 상륙",
+        "date": "2025-09-30 10:48",
+        "link": "https://n.news.naver.com/mnews/article/029/0002985192?sid=105"
+    },
+    {
+        "title": "'수면 맞불' 갤럭시·애플워치…中 저가 공세 따돌릴까 [MOVIEW]",
+        "date": "2025-09-30 10:47",
+        "link": "https://n.news.naver.com/mnews/article/138/0002206211?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치'로 산업 현장 근무자 안전 관리",
+        "date": "2025-09-30 10:46",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=96540"
+    },
+    {
+        "title": "이제 한국 사용자도 애플워치에서 수면 무호흡 알림 받는다",
+        "date": "2025-09-30 10:44",
+        "link": "https://n.news.naver.com/mnews/article/009/0005567176?sid=105"
+    },
+    {
+        "title": "갤럭시 워치로 안전 관리…삼성전자, B2B용 '스마트싱스 프로 안전 관...",
+        "date": "2025-09-30 10:44",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=273633"
+    },
+    {
+        "title": "삼성 '갤럭시 워치'로 산업 현장 안전 지킨다",
+        "date": "2025-09-30 10:40",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=125092"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치 기반 B2B용 ‘스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 10:36",
+        "link": "https://www.ceoscoredaily.com/page/view/2025093010305161624"
+    },
+    {
+        "title": "애플, 한국서도 애플워치 '수면 무호흡 알림' 기능 추가",
+        "date": "2025-09-30 10:30",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092148258"
+    },
+    {
+        "title": "화웨이, 폴더블 스마트폰 시장 점유율 48%로 삼성 제치고 1위",
+        "date": "2025-09-30 10:30",
+        "link": "https://www.g-enews.com/view.php?ud=2025093010265326690c8c1c064d_1"
+    },
+    {
+        "title": "삼성·애플 이어 모토로라도 초슬림폰 경쟁 합류.. '모토 X70 에어' 10월 ...",
+        "date": "2025-09-30 10:16",
+        "link": "https://kbench.com/?q=node/271859"
+    },
+    {
+        "title": "[E Works] 삼성전자·LG전자",
+        "date": "2025-09-30 10:12",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=706408"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 10:12",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000081832"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치 기반 B2B용 ‘스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 10:08",
+        "link": "https://www.cnbnews.com/news/article.html?no=753364"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치 기반 B2B ‘스마트싱스 프로 안전 관리 솔루션’...",
+        "date": "2025-09-30 10:06",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=77608"
+    },
+    {
+        "title": "IT용 OLED 주도권 노리는 中 ···삼성·LG디스플레이는?",
+        "date": "2025-09-30 10:02",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=415683"
+    },
+    {
+        "title": "BOE, 삼성D 美 특허 12건 무효심판 청구",
+        "date": "2025-09-30 10:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003355941?sid=105"
+    },
+    {
+        "title": "화면 입력과 충전을 동시에! PD &amp; DP Alt 모니터 골라보기",
+        "date": "2025-09-30 10:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56247"
+    },
+    {
+        "title": "파인텍, 매출액 –36.1%...영업이익 +196.1%",
+        "date": "2025-09-30 10:00",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=74110"
+    },
+    {
+        "title": "애플, 차세대 '시리' 개발에 챗GPT 유사 앱 활용",
+        "date": "2025-09-30 10:00",
+        "link": "https://kbench.com/?q=node/271855"
+    },
+    {
+        "title": "삼성전자, 갤럭시워치 기반 B2B 안전 관리 솔루션 출시",
+        "date": "2025-09-30 10:00",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=348517"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 09:48",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=242895"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치 기반 'B2B 안전 관리 솔루션' 출시",
+        "date": "2025-09-30 09:48",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=713309"
+    },
+    {
+        "title": "삼성전자, 산업 현장 안전 관리 강화…갤럭시 워치 연동 B2B 솔루션 공개",
+        "date": "2025-09-30 09:44",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=91156"
+    },
+    {
+        "title": "HB테크놀러지, OLED 검사 넘어 2차전지 시장까지 정조준",
+        "date": "2025-09-30 09:32",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=381593"
+    },
+    {
+        "title": "Samsung Display Aims for 8.6th Generation OLED Mass Production by Next Ye...",
+        "date": "2025-09-30 09:32",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=253400"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 안전 관리 솔루션 선봬",
+        "date": "2025-09-30 09:32",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=225349"
+    },
+    {
+        "title": "낙상·심박까지 체크...삼성전자, 갤럭시 워치로 근무자 안전 지킨다",
+        "date": "2025-09-30 09:30",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=381592"
+    },
+    {
+        "title": "삼성전자, '갤워치' 기반 B2B 전용 솔루션 선봬",
+        "date": "2025-09-30 09:28",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1288184"
+    },
+    {
+        "title": "오늘부터 한국 사용자도 쓸 수 있다…애플워치에 추가된 ‘새 기능’",
+        "date": "2025-09-30 09:26",
+        "link": "https://www.wikitree.co.kr/articles/1085239"
+    },
+    {
+        "title": "[위클리오늘] 삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안...",
+        "date": "2025-09-30 09:26",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=728762"
+    },
+    {
+        "title": "삼성전자, 갤럭시 워치 활용한 B2B용 '스마트싱스 프로 안전 관리 솔루...",
+        "date": "2025-09-30 09:20",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=282859"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 09:18",
+        "link": "https://n.news.naver.com/mnews/article/014/0005414280?sid=105"
+    },
+    {
+        "title": "정철동號 LG디스플레이, '원가율 90%벽' 깰까?...삼성D는 60%대 '넘사벽'...",
+        "date": "2025-09-30 09:04",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=37325"
+    },
+    {
+        "title": "삼성전자, '스마트싱스 프로 안전 관리 솔루션' 출시",
+        "date": "2025-09-30 09:04",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=197865"
+    },
+    {
+        "title": "애플, 애플워치 '수면 무호흡 알림' 국내 첫 도입",
+        "date": "2025-09-30 08:56",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=706378"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치'로 산업 현장 안전 지킨다",
+        "date": "2025-09-30 08:53",
+        "link": "https://www.newspim.com/news/view/20250930000092"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 08:52",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=454544"
+    },
+    {
+        "title": "애플워치 '수면 무호흡·수면 점수' 기능, 韓 사용자도 오늘부터 이용 ...",
+        "date": "2025-09-30 08:49",
+        "link": "https://n.news.naver.com/mnews/article/138/0002206171?sid=105"
+    },
+    {
+        "title": "문경사과빵(애플만쥬), 9월 26일부터 전국 이마트 출시",
+        "date": "2025-09-30 08:48",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2124786"
+    },
+    {
+        "title": "아이폰16e보다 가성비 떨어져 애플, 내년 출시 보급형 '아이폰17e' 전망...",
+        "date": "2025-09-30 08:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537127"
+    },
+    {
+        "title": "자다가 숨 멈추셨네요…韓 애플워치도 '수면 무호흡 알림' 도입",
+        "date": "2025-09-30 08:44",
+        "link": "https://n.news.naver.com/mnews/article/003/0013513882?sid=105"
+    },
+    {
+        "title": "갤워치로 현장 안전 체크…삼성, 스마트싱스 프로 안전관리 솔루션 선...",
+        "date": "2025-09-30 08:44",
+        "link": "https://n.news.naver.com/mnews/article/003/0013513883?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 08:44",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2096681"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 08:42",
+        "link": "https://www.ajunews.com/view/20250930083849838"
+    },
+    {
+        "title": "삼성전자, B2B용 '스마트싱스 프로 안전 관리 솔루션' 출시",
+        "date": "2025-09-30 08:42",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=186861"
+    },
+    {
+        "title": "갤럭시 워치로 산업 현장 안전 관리…삼성 '스마트싱스 프로 안전 관...",
+        "date": "2025-09-30 08:36",
+        "link": "https://www.sentv.co.kr/article/view/sentv202509300009"
+    },
+    {
+        "title": "갤럭시 워치 AI가 산업재해까지 막는다…'스마트싱스 프로 안전 관리...",
+        "date": "2025-09-30 08:36",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=234190"
+    },
+    {
+        "title": "애플워치, 한국서도 수면무호흡 측정 가능",
+        "date": "2025-09-30 08:34",
+        "link": "https://n.news.naver.com/mnews/article/468/0001181452?sid=101"
+    },
+    {
+        "title": "삼성전자, 스마트싱스 프로 안전 관리 솔루션 공개",
+        "date": "2025-09-30 08:32",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1680666"
+    },
+    {
+        "title": "애플, 애플워치 '수면무호흡 알림 기능' 국내 출시",
+        "date": "2025-09-30 08:30",
+        "link": "https://n.news.naver.com/mnews/article/014/0005414230?sid=105"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 08:26",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=98386"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 08:26",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=407277"
+    },
+    {
+        "title": "[정옥재의 스마트 라이프] “한대 사줄까”…갤럭시탭 S11 써보니",
+        "date": "2025-09-30 08:24",
+        "link": "https://n.news.naver.com/mnews/article/658/0000121580?sid=101"
+    },
+    {
+        "title": "애플 워치, 韓 수면 무호흡 기능 추가…사용 가능한 기종은?",
+        "date": "2025-09-30 08:17",
+        "link": "https://n.news.naver.com/mnews/article/277/0005659594?sid=105"
+    },
+    {
+        "title": "애플, 30일부터 한국서 수면 무호흡 알림 서비스",
+        "date": "2025-09-30 08:17",
+        "link": "https://n.news.naver.com/mnews/article/119/0003008951?sid=105"
+    },
+    {
+        "title": "애플, 韓에 애플워치 '수면무호흡 알림' 기능 도입",
+        "date": "2025-09-30 08:16",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=381520"
+    },
+    {
+        "title": "[더벨][사법리스크 해소, 달라진 JY]안정 속 변화 탈피 조짐, 삼성전자 ...",
+        "date": "2025-09-30 08:12",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202509221718582040103721"
+    },
+    {
+        "title": "애플, 韓서도 애플워치 수면무호흡 알림 기능 도입...수면 건강관리 강...",
+        "date": "2025-09-30 08:08",
+        "link": "http://www.metroseoul.co.kr/article/20250930500027"
+    },
+    {
+        "title": "삼성전자, '갤럭시 워치' 기반 B2B용 '스마트싱스 프로 안전 관리 솔루션...",
+        "date": "2025-09-30 08:08",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=66773"
+    },
+    {
+        "title": "韓 애플워치 사용자도 오늘부터 ‘수면 무호흡 알림’ 받는다",
+        "date": "2025-09-30 08:01",
+        "link": "https://n.news.naver.com/mnews/article/366/0001111862?sid=105"
+    },
+    {
+        "title": "애플, 드디어 韓에서 수면무호흡 측정 기능 출시…수면점수 기능도",
+        "date": "2025-09-30 08:00",
+        "link": "https://n.news.naver.com/mnews/article/421/0008517006?sid=105"
+    },
+    {
+        "title": "모토로라, 초슬림폰 ‘모토 X70 에어’ 티저…갤럭시 S25 에지·아이폰 ...",
+        "date": "2025-09-30 07:58",
+        "link": "https://www.g-enews.com/view.php?ud=2025093007563593269a1f309431_1"
+    },
+    {
+        "title": "LG디스플레이, 3분기 '깜짝 실적' 전망…내년 더 좋다",
+        "date": "2025-09-30 07:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013513754?sid=101"
+    }
+]
