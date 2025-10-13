@@ -1,1 +1,417 @@
-
+[
+    {
+        "title": "에픽게임즈, 웹 스토어 정식 출범…애플·구글 대안 되나",
+        "date": "2025-10-14 01:52",
+        "link": "https://www.tokenpost.kr/news/tech/293989"
+    },
+    {
+        "title": "“400만원→200만원, 이게 웬일이냐” 반값에 팝니다…삼성 ‘파격’ 결...",
+        "date": "2025-10-13 21:40",
+        "link": "https://n.news.naver.com/mnews/article/016/0002541149?sid=105"
+    },
+    {
+        "title": "김학린 경북대 교수팀, 초슬림 XR 가변 초점 렌즈 기술 개발",
+        "date": "2025-10-13 20:42",
+        "link": "https://www.ksmnews.co.kr/news/view.php?idx=568381"
+    },
+    {
+        "title": "“낯익은 ‘얼굴’, 호빵 붙인 줄 알았다” 흑역사 조롱받더니…결국 ‘...",
+        "date": "2025-10-13 20:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002541141?sid=105"
+    },
+    {
+        "title": "구글·애플·메타 OS 공략…'XR 강자'로 떠오른 게임엔진 회사 [인터뷰]",
+        "date": "2025-10-13 20:31",
+        "link": "https://n.news.naver.com/mnews/article/015/0005196145?sid=105"
+    },
+    {
+        "title": "그린광학 2027년 913억원 매출 목표...작년의 3배",
+        "date": "2025-10-13 18:08",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41991"
+    },
+    {
+        "title": "애플의 스마트 안경, '비전 OS'로 개발...헤드셋 포기한 것 아니야",
+        "date": "2025-10-13 18:00",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=203116"
+    },
+    {
+        "title": "모바일 연동 무선 출력 기능 갖춘 프린터&amp;복합기 알아보기",
+        "date": "2025-10-13 18:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56369"
+    },
+    {
+        "title": "[재계·산업동향]OCI홀딩스·금호석유화학, 신사업·수익성 잡고 체질 강...",
+        "date": "2025-10-13 17:56",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=781202"
+    },
+    {
+        "title": "MS·구글·삼성 등 글로벌 기업, XR 시장 주도권 경쟁 본격화",
+        "date": "2025-10-13 17:46",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=82507"
+    },
+    {
+        "title": "KAIST-버넥트, 가상융합연구소 설립 협약… K-메타버스 혁신 주도",
+        "date": "2025-10-13 17:42",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=72624"
+    },
+    {
+        "title": "애플, 'M5 탑재' 아이패드·맥북 프로 출시 임박",
+        "date": "2025-10-13 17:38",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092148790"
+    },
+    {
+        "title": "산업정책 '허상'…성과 중심 '민낯'",
+        "date": "2025-10-13 17:38",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1277528&inflow=N"
+    },
+    {
+        "title": "미래 메타버스 주도 '가상융합연구소' 설립… KAIST-버넥트 '맞손'",
+        "date": "2025-10-13 17:10",
+        "link": "https://www.kukinews.com/article/view/kuk202510130208"
+    },
+    {
+        "title": "경북대, 초슬림 XR 가변 초점 렌즈 기술 개발…눈 피로 줄이고, 기기는...",
+        "date": "2025-10-13 16:58",
+        "link": "https://n.news.naver.com/mnews/article/030/0003358479?sid=105"
+    },
+    {
+        "title": "[Biz&amp;Law] 삼성전자, 모바일 결제 특허 무효 실패…美 본안 승소 '불투명...",
+        "date": "2025-10-13 16:58",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=674752"
+    },
+    {
+        "title": "애플, H3 칩 탑재 차세대 '에어팟' 개발 착수",
+        "date": "2025-10-13 16:34",
+        "link": "https://kbench.com/?q=node/272066"
+    },
+    {
+        "title": "KAIST·버넥트, ‘가상융합연구소’ 설립…K-메타버스 혁신 거점 세운다",
+        "date": "2025-10-13 16:34",
+        "link": "https://n.news.naver.com/mnews/article/018/0006137143?sid=105"
+    },
+    {
+        "title": "KAIST-버넥트, 가상융합연구소 설립…K-메타버스 혁신 주도",
+        "date": "2025-10-13 16:28",
+        "link": "https://n.news.naver.com/mnews/article/011/0004542635?sid=102"
+    },
+    {
+        "title": "이노테크 삼성D에 폴더블 OLED 신뢰성 검사장비 독점 공급",
+        "date": "2025-10-13 16:26",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=41975"
+    },
+    {
+        "title": "애플, '포스트 팀 쿡' 준비…안정 넘어 '혁신'에 집중",
+        "date": "2025-10-13 16:12",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=782588"
+    },
+    {
+        "title": "경북대 김학린 교수팀, 초슬림 XR 가변 초점 렌즈 기술 개발… 눈 피로...",
+        "date": "2025-10-13 16:10",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=145969"
+    },
+    {
+        "title": "팀 쿡은 혁신 실패? 애플 차기 CEO로 '공학자' 떠오른 이유",
+        "date": "2025-10-13 16:04",
+        "link": "https://n.news.naver.com/mnews/article/665/0000005972?sid=105"
+    },
+    {
+        "title": "최고의 전면전 위한 배틀필드 6 추천 게이밍 기어 ① 글로리어스·크리...",
+        "date": "2025-10-13 16:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56362"
+    },
+    {
+        "title": "KAIST-버넥트, 가상융합연구소 설립 협약..K-메타버스 혁신 주도",
+        "date": "2025-10-13 16:00",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=576213"
+    },
+    {
+        "title": "KAIST-버넥트, 가상융합연구소 설립 협약",
+        "date": "2025-10-13 15:50",
+        "link": "https://www.koit.co.kr/news/articleView.html?idxno=202694"
+    },
+    {
+        "title": "경북대 김학린 교수팀, '초슬림 XR 가변 초점 렌즈' 기술 개발",
+        "date": "2025-10-13 15:42",
+        "link": "https://www.kbsm.net/news/view.php?idx=492885"
+    },
+    {
+        "title": "버그 수정하고 보안 강화 애플, iOS 26.0.2 업데이트 준비 중. 출시는 ...",
+        "date": "2025-10-13 15:32",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537559"
+    },
+    {
+        "title": "KAIST·버넥트, '가상융합연구소' 설립…K-메타버스 혁신 주도",
+        "date": "2025-10-13 15:08",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=111315"
+    },
+    {
+        "title": "삼성, 中 전용 폴더블 'W26' 출시…Z폴드7엔 없는 핵심 기능은?",
+        "date": "2025-10-13 15:02",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092148767"
+    },
+    {
+        "title": "카이스트, (주)버넥트와 가상융합연구소 설립 협약..K-메타버스 혁신 주...",
+        "date": "2025-10-13 15:00",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=188571"
+    },
+    {
+        "title": "KAIST-(주)버넥트, 가상융합연구소 설립 협약",
+        "date": "2025-10-13 14:56",
+        "link": "http://www.gocj.net/news/articleView.html?idxno=142880"
+    },
+    {
+        "title": "경북대 김학린 교수팀, 초슬림 XR 가변 초점 렌즈 기술 개발",
+        "date": "2025-10-13 14:54",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=96414"
+    },
+    {
+        "title": "애플 CEO 팀 쿡 승계 임박, 터너스 부사장 유력 후보",
+        "date": "2025-10-13 14:54",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=456613"
+    },
+    {
+        "title": "경찰, LGD 파주공장 압수수색…삼성D 이어 중국에 기술유출 정황",
+        "date": "2025-10-13 14:52",
+        "link": "https://news.mtn.co.kr/news-detail/2025101314490381409"
+    },
+    {
+        "title": "하츠투하츠, 신곡 ‘애플 파이’로 펼칠 특별한 ‘걸스 나이트’",
+        "date": "2025-10-13 14:40",
+        "link": "https://m.entertain.naver.com/article/009/0005571878"
+    },
+    {
+        "title": "애플코리아 부사장 호출하는 국회…수수료 인하? '눈속임' 지적",
+        "date": "2025-10-13 14:31",
+        "link": "https://n.news.naver.com/mnews/article/421/0008534464?sid=105"
+    },
+    {
+        "title": "경북대, 초슬림 XR 가변 초점 렌즈 기술 개발",
+        "date": "2025-10-13 14:28",
+        "link": "https://dhnews.co.kr/news/view/1065590651105368"
+    },
+    {
+        "title": "경북대 교수팀, 초슬림 XR 가변 초점 렌즈 기술 개발",
+        "date": "2025-10-13 14:21",
+        "link": "https://n.news.naver.com/mnews/article/003/0013531074?sid=102"
+    },
+    {
+        "title": "경북대 김학린 교수팀, 초슬림 XR 가변 초점 렌즈 기술 개발… 눈 피로...",
+        "date": "2025-10-13 14:20",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=576290"
+    },
+    {
+        "title": "아이폰 신상, 1년에 두 번 출시?… 삼성 갤럭시 견제하나",
+        "date": "2025-10-13 14:02",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092148764"
+    },
+    {
+        "title": "애플, 차세대 오디오 칩 'H3' 개발 가속... 7년 만에 성능 업그레이드한...",
+        "date": "2025-10-13 13:56",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804835"
+    },
+    {
+        "title": "삼성디스플레이에 이어 LG디스플레이도 中 기술유출 정황…경찰, 파주공...",
+        "date": "2025-10-13 13:46",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=234670"
+    },
+    {
+        "title": "정철동 LG디스플레이 사장, OLED 초격차 전략 결실…흑자전환 목전",
+        "date": "2025-10-13 13:40",
+        "link": "https://news.mtn.co.kr/news-detail/2025101313085941947"
+    },
+    {
+        "title": "KAIST-(주)버넥트, 가상융합연구소 설립 협약 체결",
+        "date": "2025-10-13 13:08",
+        "link": "https://www.todayenergy.kr/news/articleView.html?idxno=289777"
+    },
+    {
+        "title": "M5 칩 탑재 '아이패드 프로' 이번달 출시? AT&amp;T 웹사이트에서 포착",
+        "date": "2025-10-13 11:56",
+        "link": "https://kbench.com/?q=node/272040"
+    },
+    {
+        "title": "애플 M5 탑재 아이패드·맥북·비전프로 출시 임박…AI·성능 강화",
+        "date": "2025-10-13 11:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596462"
+    },
+    {
+        "title": "아이폰18 기본 모델, 내년 가을엔 못 본다?...애플, 출시 일정 대변화 예...",
+        "date": "2025-10-13 11:29",
+        "link": "https://n.news.naver.com/mnews/article/009/0005571756?sid=101"
+    },
+    {
+        "title": "애플, 컴퓨터비전 스타트업 프롬프트 AI '역인재인수' 임박",
+        "date": "2025-10-13 11:27",
+        "link": "https://n.news.naver.com/mnews/article/421/0008533872?sid=105"
+    },
+    {
+        "title": "'20일 컴백' 하츠투하츠, 특별한 '걸스 나이트' 펼친다…수록곡 '애플 파...",
+        "date": "2025-10-13 11:20",
+        "link": "https://m.entertain.naver.com/article/311/0001927708"
+    },
+    {
+        "title": "애플 계정 해킹 피해자 25명 이상... 계정 삭제조차 불가능 분통",
+        "date": "2025-10-13 11:14",
+        "link": "https://www.insight.co.kr/news/523830"
+    },
+    {
+        "title": "[산업보고서] AI 스마트글래스, 스마트폰 시대 끝낼 마지막 인터페이스",
+        "date": "2025-10-13 11:08",
+        "link": "http://theviewers.co.kr/View.aspx?No=3811759"
+    },
+    {
+        "title": "하츠투하츠, '애플 파이'로 선보일 특별한 '걸스 나이트'",
+        "date": "2025-10-13 11:08",
+        "link": "http://www.joynews24.com/view/1894572"
+    },
+    {
+        "title": "국감 도마 오른 구글·애플 ‘망 무임승차’… 3000억원대 공짜 논란 재...",
+        "date": "2025-10-13 11:03",
+        "link": "https://n.news.naver.com/mnews/article/117/0003996915?sid=105"
+    },
+    {
+        "title": "애플, 차기 에어팟 프로 개발 중…체온 측정 기능·카메라 장착",
+        "date": "2025-10-13 10:55",
+        "link": "https://n.news.naver.com/mnews/article/092/0002393512?sid=105"
+    },
+    {
+        "title": "애플 차기 CEO는?…65세 앞둔 팀 쿡, 후계자 논의",
+        "date": "2025-10-13 10:55",
+        "link": "https://n.news.naver.com/mnews/article/030/0003358214?sid=104"
+    },
+    {
+        "title": "맥도날드, 가을 시즌 '해피 스낵' 라인업 공개...애플파이도 컴백",
+        "date": "2025-10-13 10:38",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=182502"
+    },
+    {
+        "title": "바삭 치킨·달콤 애플파이···맥도날드 가을 신메뉴",
+        "date": "2025-10-13 10:36",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=72167"
+    },
+    {
+        "title": "아이폰 폴드, 모바일 게임 판도 바꿀까…'14:10 화면비'로 콘솔급 경험 ...",
+        "date": "2025-10-13 10:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596427"
+    },
+    {
+        "title": "맥으로 환승하라…애플, 윈도10 종료 앞두고 중소기업 대상 마케팅",
+        "date": "2025-10-13 10:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596421"
+    },
+    {
+        "title": "'AI 낙제생' 애플, 프롬프트AI 인수·팀 쿡 교체로 전환점 맞을까",
+        "date": "2025-10-13 10:23",
+        "link": "https://n.news.naver.com/mnews/article/092/0002393498?sid=105"
+    },
+    {
+        "title": "애플 iOS 26.0.2 업데이트 임박…버그 수정·보안 강화",
+        "date": "2025-10-13 10:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596423"
+    },
+    {
+        "title": "애플 전 CEO 오픈AI, 수십 년 만 애플의 첫 진정한 경쟁자",
+        "date": "2025-10-13 10:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596420"
+    },
+    {
+        "title": "애플, AI 훈련용 무단 도서 사용 논란…저작권 침해 소송 당해",
+        "date": "2025-10-13 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596408"
+    },
+    {
+        "title": "애플, H3 칩 개발 중…차세대 에어팟에 탑재될까",
+        "date": "2025-10-13 10:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596407"
+    },
+    {
+        "title": "애플, 아이폰용 'iOS 26.0.2' 업데이트 테스트 시작",
+        "date": "2025-10-13 09:56",
+        "link": "https://kbench.com/?q=node/272023"
+    },
+    {
+        "title": "애플, 클립스 앱 종료…틱톡에 밀려 서비스 중단",
+        "date": "2025-10-13 09:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596367"
+    },
+    {
+        "title": "맥도날드 '애플파이' 돌아온다…'해피스낵' 가을 라인업 공개",
+        "date": "2025-10-13 09:54",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2128145"
+    },
+    {
+        "title": "애플 '비전프로' 출시 확대 포기하나, 삼성전자 대신 메타 스마트글라스...",
+        "date": "2025-10-13 09:38",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=415038"
+    },
+    {
+        "title": "그로쓰리서치 AI스마트글래스, 스마트폰 시대를 끝낼 인터페이스",
+        "date": "2025-10-13 09:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=279873"
+    },
+    {
+        "title": "“제품 수리 서비스센터 안가도 되네”…삼성 ‘바로서비스’ 시범 도입",
+        "date": "2025-10-13 09:29",
+        "link": "https://n.news.naver.com/mnews/article/011/0004542413?sid=101"
+    },
+    {
+        "title": "갤럭시Z 폴드7과 차이점은? 삼성전자, 中서 프리미엄 폴더블폰 '삼성...",
+        "date": "2025-10-13 09:20",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537532"
+    },
+    {
+        "title": "애플 가을 반격, M5 시작점…AI·헬스·보안까지 전방위 재편 [MOVIEW]",
+        "date": "2025-10-13 09:09",
+        "link": "https://n.news.naver.com/mnews/article/138/0002206706?sid=105"
+    },
+    {
+        "title": "정철동 LG디스플레이 사장이 말하는 '기술리더십', 투자는 무슨 돈으로...",
+        "date": "2025-10-13 09:02",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=37455"
+    },
+    {
+        "title": "M5 아이패드 프로·맥북 프로, 이번 주 나온다",
+        "date": "2025-10-13 08:43",
+        "link": "https://n.news.naver.com/mnews/article/092/0002393447?sid=105"
+    },
+    {
+        "title": "삼성전자서비스, '바로 서비스' 도입…매장에서 제품 바로 점검",
+        "date": "2025-10-13 08:40",
+        "link": "https://www.sentv.co.kr/article/view/sentv202510130021"
+    },
+    {
+        "title": "[Biz&amp;Law] 삼성에피스, 리제네론 '아일리아' 네덜란드 특허소송서 패소",
+        "date": "2025-10-13 08:40",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=674557"
+    },
+    {
+        "title": "삼성, 세계 첫 '갤럭시 Z 트라이폴드' 이달 공개…한국·중국 넘어 글로...",
+        "date": "2025-10-13 08:36",
+        "link": "https://www.abcn.kr/news/articleView.html?idxno=83455"
+    },
+    {
+        "title": "그로쓰리서치 AI스마트글래스, 스마트폰 시대를 끝낼 인터페이스",
+        "date": "2025-10-13 08:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0013529900?sid=101"
+    },
+    {
+        "title": "애플, ‘M5 세대’ 탑재 아이패드·맥북·비전프로 신제품 출시 임박[모...",
+        "date": "2025-10-13 08:20",
+        "link": "https://n.news.naver.com/mnews/article/018/0006136583?sid=105"
+    },
+    {
+        "title": "[단독]애플 갑질에 印·브라질도 '철퇴' 임박…韓 수수료 30%는",
+        "date": "2025-10-13 08:04",
+        "link": "https://n.news.naver.com/mnews/article/421/0008533133?sid=105"
+    },
+    {
+        "title": "“언제적 아이폰?” 요즘 애들, 갤럭시·LG 그램 더 좋아한다[2030 최애 ...",
+        "date": "2025-10-13 07:16",
+        "link": "https://n.news.naver.com/mnews/article/050/0000097164?sid=101"
+    },
+    {
+        "title": "[마이크로D 각축전] 올레도스 적극 나서는 삼성D…LGD는 '중단설'",
+        "date": "2025-10-13 07:14",
+        "link": "https://dealsite.co.kr/articles/149221"
+    }
+]
