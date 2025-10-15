@@ -1,1 +1,592 @@
-
+[
+    {
+        "title": "애플, M5 탑재 맥북·아이패드·비전프로 공개…이달 22일 정식 출시",
+        "date": "2025-10-16 05:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=183667"
+    },
+    {
+        "title": "[글로벌 비즈 브리핑] 삼성전자, 아시아 브랜드 가치 2년째 1위 外",
+        "date": "2025-10-16 04:48",
+        "link": "https://n.news.naver.com/mnews/article/374/0000468665?sid=104"
+    },
+    {
+        "title": "애플, 신형 칩 탑재한 맥북·아이패드·비전프로 출시",
+        "date": "2025-10-16 04:38",
+        "link": "https://n.news.naver.com/mnews/article/374/0000468661?sid=104"
+    },
+    {
+        "title": "애플, 신형 칩 탑재 맥북·아이패드·비전프로 출시…가격 동결",
+        "date": "2025-10-16 04:33",
+        "link": "https://n.news.naver.com/mnews/article/374/0000468658?sid=104"
+    },
+    {
+        "title": "애플, M5 칩 탑재 맥북 프로·아이패드 프로·비전 프로 신제품 발표",
+        "date": "2025-10-16 04:10",
+        "link": "https://n.news.naver.com/mnews/article/056/0012047624?sid=104"
+    },
+    {
+        "title": "애플, 차세대 칩 'M5' 탑재한 맥북 프로·아이패드 프로·비전 프로 공개",
+        "date": "2025-10-16 04:06",
+        "link": "https://n.news.naver.com/mnews/article/293/0000073604?sid=105"
+    },
+    {
+        "title": "아이폰 18 프로, ‘가변 조리개’ 첫 탑재…스마트폰 카메라 기술 경쟁...",
+        "date": "2025-10-16 04:00",
+        "link": "https://www.g-enews.com/view.php?ud=2025101521361818529a1f309431_1"
+    },
+    {
+        "title": "애플, 신형 칩 탑재 맥북·아이패드·비전프로 출시…가격 동결",
+        "date": "2025-10-16 03:44",
+        "link": "https://n.news.naver.com/mnews/article/422/0000791291?sid=101"
+    },
+    {
+        "title": "애플, 신형 칩 탑재 맥북·아이패드·비전프로 출시…가격 동결",
+        "date": "2025-10-16 03:37",
+        "link": "https://n.news.naver.com/mnews/article/001/0015680745?sid=104"
+    },
+    {
+        "title": "애플, “중국 투자 더 늘리겠다”…팀 쿡, 공급망 다변화 속 중국 협력...",
+        "date": "2025-10-16 02:06",
+        "link": "https://www.g-enews.com/view.php?ud=202510151808565349fbbec65dfb_1"
+    },
+    {
+        "title": "삼성이 만든 확장현실 기기 ‘갤럭시 XR’ 22일 공개",
+        "date": "2025-10-16 00:24",
+        "link": "https://n.news.naver.com/mnews/article/005/0001808030?sid=101"
+    },
+    {
+        "title": "애플, AI 시대 겨냥 M5 칩·3대 주력 제품 공개",
+        "date": "2025-10-16 00:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=597242"
+    },
+    {
+        "title": "애플,M5칩 탑재한 맥북프로,아이패드 신모델 출시",
+        "date": "2025-10-16 00:04",
+        "link": "https://n.news.naver.com/mnews/article/015/0005197294?sid=101"
+    },
+    {
+        "title": "삼성전자 '무한' 공개 앞두고 애플 '비전프로' 공개",
+        "date": "2025-10-15 23:29",
+        "link": "https://n.news.naver.com/mnews/article/031/0000972139?sid=105"
+    },
+    {
+        "title": "애플, 괴물 칩 'M5' 탑재한 아이패드 프로 공개…AI 성능 3.5배 빨라",
+        "date": "2025-10-15 23:10",
+        "link": "https://n.news.naver.com/mnews/article/003/0013537215?sid=105"
+    },
+    {
+        "title": "애플, '499만원' 차세대 비전 프로 공개…한국은 1차 출시국 제외",
+        "date": "2025-10-15 23:09",
+        "link": "https://n.news.naver.com/mnews/article/003/0013537214?sid=105"
+    },
+    {
+        "title": "中 방문한 애플 팀 쿡 중국에 계속 투자할 것",
+        "date": "2025-10-15 23:04",
+        "link": "https://www.newspim.com/news/view/20251015001425"
+    },
+    {
+        "title": "애플, 차세대 칩 'M5' 공개…AI 처리 성능 4배 향상",
+        "date": "2025-10-15 23:02",
+        "link": "https://n.news.naver.com/mnews/article/031/0000972138?sid=105"
+    },
+    {
+        "title": "첫 XR기기 내놓은 삼성…AI 생태계 확장 본격화",
+        "date": "2025-10-15 22:47",
+        "link": "https://n.news.naver.com/mnews/article/011/0004543776?sid=101"
+    },
+    {
+        "title": "다양한 정보를 한 눈에! 커세어, 14.5인치 LCD 터치스크린 '제논 엣지' 공...",
+        "date": "2025-10-15 21:00",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537697"
+    },
+    {
+        "title": "삼성전자, XR헤드셋·트라이폴드 공개 ‘임박’…新 폼팩터로 비수기 넘...",
+        "date": "2025-10-15 18:40",
+        "link": "https://www.g-enews.com/view.php?ud=2025101513574059766ed0c62d49_1"
+    },
+    {
+        "title": "두산테스나, 어드반테스트·세메스 장비 매입…애플 CIS 수요 선제 대응...",
+        "date": "2025-10-15 18:38",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=42147"
+    },
+    {
+        "title": "중고폰 시장 전환기…신흥 시장서 갤럭시·아이폰 구매한다",
+        "date": "2025-10-15 18:23",
+        "link": "https://n.news.naver.com/mnews/article/029/0002987351?sid=105"
+    },
+    {
+        "title": "中 OLED 투자 경쟁… 국내 장비기업 낙수효과 기대",
+        "date": "2025-10-15 18:11",
+        "link": "https://n.news.naver.com/mnews/article/014/0005419792?sid=101"
+    },
+    {
+        "title": "미·중 갈등에도…애플 中투자 늘린다",
+        "date": "2025-10-15 18:03",
+        "link": "https://n.news.naver.com/mnews/article/015/0005197183?sid=104"
+    },
+    {
+        "title": "커세어, 14.5인치 LCD 터치스크린 '제논 엣지' 출시",
+        "date": "2025-10-15 17:56",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56404"
+    },
+    {
+        "title": "여야 인앱결제 금지법 강화 한 목소리…구글·애플 갑질 해소 기대감...",
+        "date": "2025-10-15 17:44",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025101515103773547"
+    },
+    {
+        "title": "삼성, 22일 XR 헤드셋 '무한' 공개…구글·퀄컴 손잡고 AI 기기 새 시대...",
+        "date": "2025-10-15 17:30",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=99056"
+    },
+    {
+        "title": "팀쿡 애플 CEO “중국 투자 늘리고 협력 수준 높일 것”",
+        "date": "2025-10-15 17:06",
+        "link": "https://n.news.naver.com/mnews/article/018/0006138873?sid=101"
+    },
+    {
+        "title": "애플, 야심작 '홈 허브' 베트남서 생산하기로…中 비야디와 협력",
+        "date": "2025-10-15 17:05",
+        "link": "https://n.news.naver.com/mnews/article/008/0005263318?sid=104"
+    },
+    {
+        "title": "커세어, 14.5인치 LCD 터치스크린 ‘제논 엣지’ 출시",
+        "date": "2025-10-15 17:04",
+        "link": "http://www.lawissue.co.kr/view.php?ud=20251015170001339204ead0791_12"
+    },
+    {
+        "title": "삼전 XR 헤드셋 '개봉 박두'… 애플 비전 프로 넘어설까",
+        "date": "2025-10-15 16:58",
+        "link": "https://n.news.naver.com/mnews/article/665/0000005987?sid=105"
+    },
+    {
+        "title": "슬림폰 경쟁 뜨겁다…모토로라, 모토 X70 에어 공개",
+        "date": "2025-10-15 16:32",
+        "link": "https://n.news.naver.com/mnews/article/092/0002393957?sid=105"
+    },
+    {
+        "title": "애플, 2026년 아이폰에 '가변조리개' 카메라 첫 탑재",
+        "date": "2025-10-15 16:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003359257?sid=105"
+    },
+    {
+        "title": "애플, 스마트홈 허브 2026년 출시…BYD와 협력해 신제품 제조",
+        "date": "2025-10-15 16:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=597078"
+    },
+    {
+        "title": "애플, 새로운 언어 모델 'FS-DFM' 공개… 128배 빠른 텍스트 생성 가능",
+        "date": "2025-10-15 16:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=597091"
+    },
+    {
+        "title": "삼성, 3분기 스마트폰 1위 수성…“폴더블폰 돌풍, 애플과 격차 벌렸다...",
+        "date": "2025-10-15 16:24",
+        "link": "https://www.ceoscoredaily.com/page/view/2025101516105862355"
+    },
+    {
+        "title": "GM, 애플 카키 지원 준비…백엔드 코드 추가 포착",
+        "date": "2025-10-15 16:20",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=597121"
+    },
+    {
+        "title": "'인앱결제'로 9조 챙긴 구글·애플, '갑질' '횡포' 질타에도 '회피' 일관...",
+        "date": "2025-10-15 16:16",
+        "link": "http://www.todaykorea.co.kr/news/articleView.html?idxno=335387"
+    },
+    {
+        "title": "LGD, 협력사에 W-OLED 기술유출 방지 공문 발송",
+        "date": "2025-10-15 16:12",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=42126"
+    },
+    {
+        "title": "삼성전자, 야심작 ‘XR’ 22일 공개…스마트폰 넘어 ‘공간의 시대’",
+        "date": "2025-10-15 16:12",
+        "link": "https://n.news.naver.com/mnews/article/018/0006138801?sid=105"
+    },
+    {
+        "title": "삼성, 확장현실 헤드셋 '갤럭시 XR' 22일 공개...구글·퀄컴과 협업",
+        "date": "2025-10-15 16:10",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=651932"
+    },
+    {
+        "title": "인도, 동남아 신흥국 시장에서 뜨는 중고 스마트폰...프리미엄화 힘입은...",
+        "date": "2025-10-15 16:06",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=332026"
+    },
+    {
+        "title": "삼성전자, '무한'으로 XR 시장 출격…애플 '비전프로' 제칠까",
+        "date": "2025-10-15 16:02",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=274302"
+    },
+    {
+        "title": "위츠, '글로벌 게이밍 엑스포' 참가…전세계 시장 점유율 확대",
+        "date": "2025-10-15 15:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0013536492?sid=101"
+    },
+    {
+        "title": "두산테스나, '애플 잭팟'에 1700억 영끌 투자 결단",
+        "date": "2025-10-15 15:22",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/10/15/2025101500299.html"
+    },
+    {
+        "title": "애플, 분기 최대 출하에도 '왕좌'는 삼성…동남아 시장 아이폰17 '돌풍'",
+        "date": "2025-10-15 15:20",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=783207"
+    },
+    {
+        "title": "승부처는 ‘8.6세대 수율’… 韓中 OLED, 2026년 전환 경쟁 본격화",
+        "date": "2025-10-15 15:18",
+        "link": "http://www.metroseoul.co.kr/article/20251015500404"
+    },
+    {
+        "title": "중국에서 부는 투자 훈풍…디스플레이 장비 기대감 고조",
+        "date": "2025-10-15 15:12",
+        "link": "https://n.news.naver.com/mnews/article/014/0005419683?sid=101"
+    },
+    {
+        "title": "'프로젝트 무한' 베일 벗는다... 삼성전자, 22일 '확장 현실' 헤드셋 공...",
+        "date": "2025-10-15 15:00",
+        "link": "https://n.news.naver.com/mnews/article/469/0000892037?sid=105"
+    },
+    {
+        "title": "삼성전자, 3분기 연속 글로벌 스마트폰 판매 1위 … 폴더블 흥행 훈풍",
+        "date": "2025-10-15 14:56",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/10/15/2025101500278.html"
+    },
+    {
+        "title": "위츠, 美 전시회서 카지노 게이밍 디스플레이 선봬",
+        "date": "2025-10-15 14:55",
+        "link": "https://n.news.naver.com/mnews/article/030/0003359193?sid=105"
+    },
+    {
+        "title": "애플 역대 최고 3분기…韓 부품업계 깜짝 실적 기대감 증폭",
+        "date": "2025-10-15 14:42",
+        "link": "https://n.news.naver.com/mnews/article/421/0008539791?sid=101"
+    },
+    {
+        "title": "휴대폰 대기만 했는데 화면 변신.. 삼성전자·디즈니가 반한 한국 스타...",
+        "date": "2025-10-15 14:37",
+        "link": "https://n.news.naver.com/mnews/article/023/0003934633?sid=101"
+    },
+    {
+        "title": "삼성전자, 22일 머리에 쓰는 XR(확장현실) 기기 출시...XR 시대 열리나",
+        "date": "2025-10-15 14:33",
+        "link": "https://n.news.naver.com/mnews/article/023/0003934631?sid=105"
+    },
+    {
+        "title": "日 언론 삼성전자, 아시아서 브랜드 가치 1위…애플보다 높아",
+        "date": "2025-10-15 14:31",
+        "link": "https://n.news.naver.com/mnews/article/469/0000892027?sid=104"
+    },
+    {
+        "title": "삼성전자, 브랜드가치 6년 연속 세계 5위… 1위 애플·2위 MS·3위 아마존...",
+        "date": "2025-10-15 14:15",
+        "link": "https://n.news.naver.com/mnews/article/366/0001114603?sid=105"
+    },
+    {
+        "title": "애플, 이번 주 신형 맥북·아이패드·비전 프로 등 신제품 5종 공개한다...",
+        "date": "2025-10-15 14:10",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804933"
+    },
+    {
+        "title": "LG디스플레이, 차세대 OLED용 전환투자 본격화",
+        "date": "2025-10-15 14:06",
+        "link": "https://n.news.naver.com/mnews/article/092/0002393932?sid=105"
+    },
+    {
+        "title": "앗 뜨거워…구글 폴더블폰 '픽셀10 프로 폴드' 테스트중 폭발",
+        "date": "2025-10-15 14:05",
+        "link": "https://n.news.naver.com/mnews/article/421/0008539676?sid=105"
+    },
+    {
+        "title": "삼성, 글로벌 브랜드가치 '톱5'…애플·MS와 어깨 나란히",
+        "date": "2025-10-15 14:01",
+        "link": "https://n.news.naver.com/mnews/article/018/0006138610?sid=101"
+    },
+    {
+        "title": "애플도 쓴맛 봤는데…삼성이 구글·퀄컴 손잡고 내놓는 '야심작'",
+        "date": "2025-10-15 13:55",
+        "link": "https://n.news.naver.com/mnews/article/015/0005196950?sid=101"
+    },
+    {
+        "title": "2025년 상반기 글로벌 중고 스마트폰 시장, 신흥 시장 중심 성장",
+        "date": "2025-10-15 13:32",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=781502"
+    },
+    {
+        "title": "삼성전자, 오는 22일 XR헤드셋 '무한' 공개",
+        "date": "2025-10-15 13:30",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=97474"
+    },
+    {
+        "title": "애플, 나이키 제쳤다...삼성전자, 아시아 브랜드 가치 2년 연속 1위",
+        "date": "2025-10-15 13:24",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=385057"
+    },
+    {
+        "title": "커세어, 14.5인치 LCD 터치스크린 '제논 엣지' 출시",
+        "date": "2025-10-15 12:40",
+        "link": "https://gamefocus.co.kr/detail.php?number=170089"
+    },
+    {
+        "title": "BOE, 스마트폰용 165Hz 주사율 OLED 공개...원플러스15에 탑재",
+        "date": "2025-10-15 12:06",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=42100"
+    },
+    {
+        "title": "'갤럭시Z 폴드7·플립7' 판매 호조.. 삼성, 2025년 3분기 글로벌 스마트...",
+        "date": "2025-10-15 11:54",
+        "link": "https://kbench.com/?q=node/272138"
+    },
+    {
+        "title": "삼성, 22일 XR헤드셋 ‘무한’ 공개… 선발주자 애플에 도전장",
+        "date": "2025-10-15 11:51",
+        "link": "https://n.news.naver.com/mnews/article/021/0002742682?sid=101"
+    },
+    {
+        "title": "강력한 게 온다...애플, 'M5' 탑재 맥북 프로 공개 임박?",
+        "date": "2025-10-15 11:40",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=145367"
+    },
+    {
+        "title": "LG 그램, 美 컨슈머리포트 평가 노트북 1위",
+        "date": "2025-10-15 11:25",
+        "link": "https://n.news.naver.com/mnews/article/016/0002542169?sid=105"
+    },
+    {
+        "title": "베일벗는 XR헤드셋 '프로젝트 무한' … 삼성전자 '갤럭시 이벤트' 초청...",
+        "date": "2025-10-15 11:14",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=75387"
+    },
+    {
+        "title": "구글 폴더블폰, 반대로 접으니 폭발.. 내구성 왜 이래 [1일IT템]",
+        "date": "2025-10-15 11:07",
+        "link": "https://n.news.naver.com/mnews/article/014/0005419509?sid=105"
+    },
+    {
+        "title": "삼성전자, '프로젝트 무한' 22일 공개…XR 생태계 확장 본격화(종합)",
+        "date": "2025-10-15 11:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005664650?sid=105"
+    },
+    {
+        "title": "삼성, 오는 22일 애플 비전 프로 대비 50% 이상 저렴한 XR 헤드셋 '무한...",
+        "date": "2025-10-15 10:54",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1804921"
+    },
+    {
+        "title": "프리미엄만이 살길 … 갤럭시, '수익형 체질' 굳힌다",
+        "date": "2025-10-15 10:54",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/10/15/2025101500116.html"
+    },
+    {
+        "title": "Z·S·A 삼각편대 힘입어…삼성 MX, 올해 영업익 13조 넘어설까",
+        "date": "2025-10-15 10:52",
+        "link": "https://n.news.naver.com/mnews/article/119/0003012702?sid=105"
+    },
+    {
+        "title": "삼성전자, XR 헤드셋 '무한' 공개 예정…구글과 공동개발",
+        "date": "2025-10-15 10:46",
+        "link": "https://news.mtn.co.kr/news-detail/2025101510424735596"
+    },
+    {
+        "title": "애플 '폴더블 아이폰' 가격 부담 낮춘다… “힌지 원가 크게 내려가”",
+        "date": "2025-10-15 10:40",
+        "link": "https://n.news.naver.com/mnews/article/030/0003359010?sid=104"
+    },
+    {
+        "title": "14.5인치 LCD 터치스크린 달았다···커세어 ‘제논 엣지’ 출시",
+        "date": "2025-10-15 10:40",
+        "link": "https://www.cnet.co.kr/view/?no=20251015103107"
+    },
+    {
+        "title": "LG '그램' 노트북, 美 소비자평가서 삼성 갤럭시 제쳐",
+        "date": "2025-10-15 10:37",
+        "link": "https://www.dailybrief.co.kr/news/articleView.html?idxno=3635"
+    },
+    {
+        "title": "사피엔반도체 AR 글래스 시장, 2027년 이후 레도스가 주류될 것",
+        "date": "2025-10-15 10:36",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=42054"
+    },
+    {
+        "title": "폴더블 아이폰 가격 예상보다 쌀까…핵심부품 '힌지' 원가 낮아질 듯",
+        "date": "2025-10-15 10:34",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=280115"
+    },
+    {
+        "title": "삼성, 애플과 접전 끝 3분기 스마트폰 시장 1위…4분기 반전 가능성",
+        "date": "2025-10-15 10:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=597020"
+    },
+    {
+        "title": "애플 비전 프로 비켜…카운트다운 '삼성 XR 무한' 괴물스펙 '역습' 통...",
+        "date": "2025-10-15 10:26",
+        "link": "https://n.news.naver.com/mnews/article/138/0002206945?sid=105"
+    },
+    {
+        "title": "애플 티타늄 프레임 재도입…아이폰 에어2·폴드에 채택 전망",
+        "date": "2025-10-15 10:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=597016"
+    },
+    {
+        "title": "애플, 강력한 M5 칩 탑재 신형 '맥북 프로' 출시 예고",
+        "date": "2025-10-15 10:24",
+        "link": "https://kbench.com/?q=node/272135"
+    },
+    {
+        "title": "애플, 유럽서 650MW 규모 신재생에너지 단지 조성…2030년 탄소중립 가...",
+        "date": "2025-10-15 10:16",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=67846"
+    },
+    {
+        "title": "강력한 무언가 온다 애플 M5 맥북 프로 티저 영상 공개",
+        "date": "2025-10-15 10:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=596985"
+    },
+    {
+        "title": "윈도우 10 사용자를 위한 윈도우 11 생존 가이드",
+        "date": "2025-10-15 10:10",
+        "link": "https://www.itworld.co.kr/article/4072155/윈도우-10-사용자를-위한-윈도우-11-생존-가이드.html"
+    },
+    {
+        "title": "커세어, 14.5인치 LCD 터치스크린 '제논 엣지' 출시",
+        "date": "2025-10-15 10:08",
+        "link": "https://kbench.com/?q=node/272130"
+    },
+    {
+        "title": "애플, 247.77달러 0.04% 오름세 기록하며 마감",
+        "date": "2025-10-15 09:52",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=457056"
+    },
+    {
+        "title": "커세어, 14.5인치 LCD 터치스크린 '제논 엣지' 출시",
+        "date": "2025-10-15 09:50",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=223231"
+    },
+    {
+        "title": "LG디스플레이, 중국 LCD 연태공장 매각하나",
+        "date": "2025-10-15 09:44",
+        "link": "https://n.news.naver.com/mnews/article/015/0005196811?sid=101"
+    },
+    {
+        "title": "LG 그램, 애플·삼성 제쳤다…美 컨슈머리포트 ‘최고의 제품’ 선정",
+        "date": "2025-10-15 09:43",
+        "link": "https://n.news.naver.com/mnews/article/029/0002987129?sid=101"
+    },
+    {
+        "title": "애플 비전프로 반값? 삼성전자, 22일 고성능 'XR 헤드셋' 공개. 멀티모...",
+        "date": "2025-10-15 09:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537657"
+    },
+    {
+        "title": "[2025 국감] 구글·애플 인앱결제 도마위…한국법 무력화한 꼼수 수수...",
+        "date": "2025-10-15 09:40",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=198832"
+    },
+    {
+        "title": "삼성, 야심작 ‘XR 헤드셋’ 22일 공개…초대장 발송",
+        "date": "2025-10-15 09:36",
+        "link": "https://n.news.naver.com/mnews/article/018/0006138355?sid=105"
+    },
+    {
+        "title": "LG 그램, 美 컨슈머리포트서 삼성·애플 제치고 노트북 1위",
+        "date": "2025-10-15 09:29",
+        "link": "https://n.news.naver.com/mnews/article/016/0002541982?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 멀어지는 '기술리더십'...삼성디스플레이와 R&amp;D 격차 벌어...",
+        "date": "2025-10-15 09:02",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=37506"
+    },
+    {
+        "title": "삼성전자, 22일 XR '프로젝트 무한' 공개…언팩 초대장 발송",
+        "date": "2025-10-15 08:47",
+        "link": "https://n.news.naver.com/mnews/article/277/0005664433?sid=105"
+    },
+    {
+        "title": "삼성전자, '프로젝트 무한' 22일 공개 … 첫 XR 베일 벗는다",
+        "date": "2025-10-15 08:44",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/10/15/2025101500024.html"
+    },
+    {
+        "title": "인하대 신소재공학과, 국제학술대회서 연이은 수상…OLED 차세대 공정·...",
+        "date": "2025-10-15 08:36",
+        "link": "http://www.newstnt.com/news/articleView.html?idxno=542437"
+    },
+    {
+        "title": "삼성전자, 22일 XR 헤드셋 '프로젝트 무한' 공개…초대장 발송",
+        "date": "2025-10-15 08:34",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=408954"
+    },
+    {
+        "title": "LG 노트북 ‘그램’, 삼성·애플 제치고 美소비자 평가 ‘1위’",
+        "date": "2025-10-15 08:32",
+        "link": "https://n.news.naver.com/mnews/article/117/0003997817?sid=105"
+    },
+    {
+        "title": "[클릭 e종목]선익시스템, 8.6세대 OLED 시장 핵심 수혜주",
+        "date": "2025-10-15 08:30",
+        "link": "https://n.news.naver.com/mnews/article/277/0005664422?sid=101"
+    },
+    {
+        "title": "계속되는 인앱결제 수수료 갑질…애플코리아 대규모 개발자만 30% 부과...",
+        "date": "2025-10-15 08:30",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025101418261172423"
+    },
+    {
+        "title": "애플, ‘강력한 한 방’ 예고…M5 맥북프로 공개 임박",
+        "date": "2025-10-15 08:26",
+        "link": "https://n.news.naver.com/mnews/article/092/0002393832?sid=105"
+    },
+    {
+        "title": "LG 노트북 '그램', 삼성·애플 제치고 美 소비자평가 '1위'",
+        "date": "2025-10-15 08:24",
+        "link": "https://www.ajunews.com/view/20251015080217671"
+    },
+    {
+        "title": "삼성전자, ‘프로젝트 무한’ 22일 공개… XR·AI 융합 새 장 연다",
+        "date": "2025-10-15 08:24",
+        "link": "https://www.etoday.co.kr/news/view/2514736"
+    },
+    {
+        "title": "에어팟에 AI 카메라를? 애플, '에어팟 프로4'부터 적용 검토. 출시는 ...",
+        "date": "2025-10-15 08:10",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=537647"
+    },
+    {
+        "title": "“강력한 무언가가 온다”…베일 벗는 애플 신형 맥북 프로[모닝폰]",
+        "date": "2025-10-15 08:02",
+        "link": "https://n.news.naver.com/mnews/article/018/0006138247?sid=105"
+    },
+    {
+        "title": "LG 그램, 미국 컨슈머리포트 평가서 애플·삼성 제치고 '노트북 1위'",
+        "date": "2025-10-15 07:54",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=685344"
+    },
+    {
+        "title": "애플·삼성 제쳤다...국산 노트북, 컨슈머리포트 '1위'",
+        "date": "2025-10-15 07:44",
+        "link": "https://n.news.naver.com/mnews/article/215/0001227038?sid=101"
+    },
+    {
+        "title": "맥북·갤럭시북 제쳤다…미국도 극찬한 최고의 韓 노트북",
+        "date": "2025-10-15 07:43",
+        "link": "https://n.news.naver.com/mnews/article/015/0005196738?sid=105"
+    },
+    {
+        "title": "갤럭시 폴드7·플립7, 美·EU 품질평가 '올킬'...'트라이폴드' 출격 초읽...",
+        "date": "2025-10-15 07:30",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=43027"
+    },
+    {
+        "title": "웃돈 주고라도 사고 싶어요… ‘삼성의 텃밭’ 동남아서 아이폰17 돌풍...",
+        "date": "2025-10-15 07:22",
+        "link": "https://n.news.naver.com/mnews/article/011/0004543334?sid=104"
+    },
+    {
+        "title": "LG 그램, 미국 컨슈머리포트 평가 '노트북 1위'",
+        "date": "2025-10-15 07:15",
+        "link": "https://n.news.naver.com/mnews/article/001/0015678353?sid=101"
+    }
+]
