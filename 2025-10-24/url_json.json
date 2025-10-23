@@ -1,1 +1,727 @@
-
+[
+    {
+        "title": "英 애플, 앱스토어 수수료 과다 청구",
+        "date": "2025-10-24 04:20",
+        "link": "https://n.news.naver.com/mnews/article/374/0000470334?sid=104"
+    },
+    {
+        "title": "5만원 쓰면 1만원 환급 아이폰 유저들 환호…애플페이 'K패스' 탑재",
+        "date": "2025-10-24 04:05",
+        "link": "https://n.news.naver.com/mnews/article/008/0005267489?sid=105"
+    },
+    {
+        "title": "영국 법원 “애플, 앱 개발자에게 수수료 과다 청구…지위 남용”",
+        "date": "2025-10-24 04:00",
+        "link": "https://n.news.naver.com/mnews/article/056/0012052926?sid=104"
+    },
+    {
+        "title": "영국 법원 애플, 앱스토어 수수료 과다 청구…지위 남용",
+        "date": "2025-10-24 03:55",
+        "link": "https://n.news.naver.com/mnews/article/055/0001302262?sid=104"
+    },
+    {
+        "title": "英법원 애플, 앱스토어 수수료 과다 청구…지위 남용",
+        "date": "2025-10-24 03:43",
+        "link": "https://n.news.naver.com/mnews/article/001/0015698003?sid=104"
+    },
+    {
+        "title": "[실리콘 디코드] TSMC, 1nm 공정 로드맵 수정…'High-NA EUV' 대신 '펠리...",
+        "date": "2025-10-24 03:26",
+        "link": "https://www.g-enews.com/view.php?ud=202510231605257422fbbec65dfb_1"
+    },
+    {
+        "title": "침대서 남의 남친 유혹하는 '애플녀'…허영지 뺨 맞고 시작",
+        "date": "2025-10-24 00:00",
+        "link": "https://m.entertain.naver.com/article/003/0013554729"
+    },
+    {
+        "title": "[탐방] 삼성전자, SEDEX2025서 HBM3E·4 실물 공개...GAA 기반 MBCFET 및 엑...",
+        "date": "2025-10-23 21:56",
+        "link": "http://www.lkp.news/news/articleView.html?idxno=70794"
+    },
+    {
+        "title": "“30대~40대 삼성팬인 줄 알았더니” 갤럭시 홍보 수지마저 ‘변심’…...",
+        "date": "2025-10-23 21:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002546517?sid=105"
+    },
+    {
+        "title": "'트리거' 박정훈 감독과 LG OLED PRO 2세대가 완성해가는 K-콘텐츠 경쟁...",
+        "date": "2025-10-23 21:12",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805282"
+    },
+    {
+        "title": "애플 비전프로, 절반 가격인 삼성 XR 헤드셋 '갤럭시 XR'...삼성·애플이...",
+        "date": "2025-10-23 20:18",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=332347"
+    },
+    {
+        "title": "정부, 소재·부품·장비 기업에 공급망기금 지원 확대",
+        "date": "2025-10-23 20:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=599306"
+    },
+    {
+        "title": "헬스케어스파산업진흥원 식스레터스, 애플워치 활용 남성호르몬 측정 플...",
+        "date": "2025-10-23 19:26",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1045129"
+    },
+    {
+        "title": "정부, 소부장 특화단지 20곳으로 확대…세계 공급망 새판짜기 대응",
+        "date": "2025-10-23 19:02",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1286215"
+    },
+    {
+        "title": "침대 위 옷 벗고 아찔한 스킨십…'47세 미혼' 전현무, 동공 확장 일으켰...",
+        "date": "2025-10-23 18:31",
+        "link": "https://m.entertain.naver.com/article/312/0000732900"
+    },
+    {
+        "title": "정부, 프로젝트당 200억원 투입 한국형 ASML 육성 슈퍼 을 프로젝트 본격...",
+        "date": "2025-10-23 18:22",
+        "link": "https://www.viva100.com/article/20251023501485"
+    },
+    {
+        "title": "소재·부품·장비 역량 강화한다…새 정부 '소부장' 기본계획 수립",
+        "date": "2025-10-23 18:17",
+        "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148952915&call_from=naver_news"
+    },
+    {
+        "title": "침대 위 아찔한 백허그…전현무·윤태진 “뭐야 뭐야!” 동공 대확장 ('...",
+        "date": "2025-10-23 18:02",
+        "link": "https://m.entertain.naver.com/article/109/0005416893"
+    },
+    {
+        "title": "삼성 파운드리 부활 신호탄 쏘나... 테슬라 칩 추가 수주의 3대 의미",
+        "date": "2025-10-23 18:01",
+        "link": "https://n.news.naver.com/mnews/article/023/0003936435?sid=105"
+    },
+    {
+        "title": "2030년까지 소부장 특화단지 10개 추가 지정…글로벌 경쟁력 확보",
+        "date": "2025-10-23 18:00",
+        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=219008"
+    },
+    {
+        "title": "'더 가볍고 더 싸게' 삼성 갤럭시 XR...비전프로 반면교사 삼았나",
+        "date": "2025-10-23 17:52",
+        "link": "http://www.fntimes.com/html/view.php?ud=2025102317474143297de3572ddd_18"
+    },
+    {
+        "title": "구윤철 소부장 경쟁력 강화는 국가 생존 필수조건",
+        "date": "2025-10-23 17:50",
+        "link": "https://n.news.naver.com/mnews/article/421/0008558919?sid=101"
+    },
+    {
+        "title": "AI로 신소재 개발한다…2030년까지 소부장 특화단지 10곳 추가 지정",
+        "date": "2025-10-23 17:48",
+        "link": "https://www.mediapen.com/news/view/1051610"
+    },
+    {
+        "title": "[데스크 칼럼] 조종사에게 ‘공유장비’라니, 전투력은 예산 사정이 아...",
+        "date": "2025-10-23 17:32",
+        "link": "http://www.breaknews.com/1156087"
+    },
+    {
+        "title": "KF-16 조종사, 헬멧 장착형 디스플레이 5명당 1개 ‘돌려쓰기’",
+        "date": "2025-10-23 17:30",
+        "link": "http://www.breaknews.com/1156112"
+    },
+    {
+        "title": "삼성, 갤S26 '울트라'만 12월 양산...나머지 2종 내년 이월",
+        "date": "2025-10-23 17:30",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=42625"
+    },
+    {
+        "title": "[단독]삼성 폴더블 필름 독점 공급 세경하이테크, 새주인 찾는다[시그...",
+        "date": "2025-10-23 17:21",
+        "link": "https://n.news.naver.com/mnews/article/011/0004546976?sid=101"
+    },
+    {
+        "title": "구윤철 “소부장은 국가 생존의 필수...한국형 ASML 육성할 것”",
+        "date": "2025-10-23 17:19",
+        "link": "https://n.news.naver.com/mnews/article/016/0002546456?sid=101"
+    },
+    {
+        "title": "삼성 '생활밀착형 AI' vs LG '공감 지능 AI'···ES2025 대격돌",
+        "date": "2025-10-23 17:18",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=241458"
+    },
+    {
+        "title": "위츠 게이밍 디스플레이로 올 최대 매출",
+        "date": "2025-10-23 17:18",
+        "link": "https://n.news.naver.com/mnews/article/015/0005201145?sid=101"
+    },
+    {
+        "title": "구윤철 소부장 경쟁력, 경제안보 핵심이자 국가생존의 필수",
+        "date": "2025-10-23 17:10",
+        "link": "https://n.news.naver.com/mnews/article/001/0015697586?sid=101"
+    },
+    {
+        "title": "구윤철 소부장 산업 경쟁력 강화, 국가 생존 필수조건",
+        "date": "2025-10-23 17:02",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4379951"
+    },
+    {
+        "title": "애플워치 시리즈 10, 북미 시장 4분기 연속 1위",
+        "date": "2025-10-23 17:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002395184?sid=105"
+    },
+    {
+        "title": "정부, 소부장 4대 기술 핵심전략지도 짠다",
+        "date": "2025-10-23 17:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003362260?sid=101"
+    },
+    {
+        "title": "구윤철 소부장 경쟁력 강화, 국가 생존의 필수 조건",
+        "date": "2025-10-23 17:00",
+        "link": "https://www.etoday.co.kr/news/view/2517836"
+    },
+    {
+        "title": "'소부장 특화단지' 20곳으로 확대…세계 공급망 새판짜기 대응",
+        "date": "2025-10-23 17:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015697538?sid=101"
+    },
+    {
+        "title": "애플 '아이폰18' 가격 오를까? 2나노 A20 칩 가격 대폭 인상설",
+        "date": "2025-10-23 16:58",
+        "link": "https://kbench.com/?q=node/272466"
+    },
+    {
+        "title": "아이폰 에어, 1년 만에 사실상 '단종'… 생산량 80% 감축한다",
+        "date": "2025-10-23 16:53",
+        "link": "https://n.news.naver.com/mnews/article/030/0003362246?sid=104"
+    },
+    {
+        "title": "삼성전자 '갤럭시 XR' 외신 평가는?",
+        "date": "2025-10-23 16:52",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=82701"
+    },
+    {
+        "title": "'갤럭시 XR' 시장확대에 긍정적...미래는 AR글라스",
+        "date": "2025-10-23 16:32",
+        "link": "https://n.news.naver.com/mnews/article/018/0006145193?sid=105"
+    },
+    {
+        "title": "KF-16 조종사 '헬멧 장착형 디스플레이' 5명이 1개 돌려 쓴다",
+        "date": "2025-10-23 16:32",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=389090"
+    },
+    {
+        "title": "삼성의 시간이 왔다…반도체 슈퍼사이클 타고 초격차 제품 봇물",
+        "date": "2025-10-23 16:26",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025102315030329289"
+    },
+    {
+        "title": "中 8.6세대 IT용 OLED 공격적 투자...K-디스플레이, 점유율 굳히기 집중",
+        "date": "2025-10-23 16:24",
+        "link": "http://www.metroseoul.co.kr/article/20251023500380"
+    },
+    {
+        "title": "초슬림 '아이폰 에어' 1년 만에 단종 수순.. 내년 1분기까지 80% 생산 축...",
+        "date": "2025-10-23 16:24",
+        "link": "https://kbench.com/?q=node/272465"
+    },
+    {
+        "title": "남의 남친 유혹하는 애플女…상체 탈의 백허그에 꼭 안기자 아악!(독사...",
+        "date": "2025-10-23 16:24",
+        "link": "https://sports.hankooki.com/news/articleView.html?idxno=6913723"
+    },
+    {
+        "title": "삼성전자, 2나노 공정 명운 건 엑시노스 2600 S26 탑재설…부족한 수율 ...",
+        "date": "2025-10-23 16:24",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=399527"
+    },
+    {
+        "title": "[김영욱의 테크&amp;가젯] 폰보다 비싼 주변기기 XR… 애플·메타도 난항인...",
+        "date": "2025-10-23 16:15",
+        "link": "https://n.news.naver.com/mnews/article/029/0002988959?sid=105"
+    },
+    {
+        "title": "빅테크가 추구하는 AI 스마트홈 진화…카메라가 본 세상은 약될까 독될...",
+        "date": "2025-10-23 15:50",
+        "link": "http://www.itdaily.kr/news/articleView.html?idxno=235910"
+    },
+    {
+        "title": "삼성도 애플도 ‘초슬림폰’ 줄줄이 부진… “사양 낮은데 비싸”",
+        "date": "2025-10-23 15:47",
+        "link": "https://n.news.naver.com/mnews/article/366/0001116933?sid=105"
+    },
+    {
+        "title": "중국서 대박 난 아이폰 에어…고민 깊어지는 삼성",
+        "date": "2025-10-23 15:46",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1278824&inflow=N"
+    },
+    {
+        "title": "'김건희 목걸이' 서희건설, 이번엔 '아빠 찬스' 논란…대체 무슨 일이?",
+        "date": "2025-10-23 15:33",
+        "link": "https://n.news.naver.com/mnews/article/586/0000114347?sid=101"
+    },
+    {
+        "title": "애플워치 시리즈10, 북미 출하량 1위… 4분기 연속 선두",
+        "date": "2025-10-23 15:32",
+        "link": "https://n.news.naver.com/mnews/article/119/0003015893?sid=105"
+    },
+    {
+        "title": "[기획]애플·메타에 삼성·네이버까지…'XR 전쟁' 판 커진다",
+        "date": "2025-10-23 15:24",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1294592"
+    },
+    {
+        "title": "우리은행, '우리WON 포트폴리오' 1000억 돌파… 로보락·애플워치 경품 ...",
+        "date": "2025-10-23 15:22",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=387790"
+    },
+    {
+        "title": "교통비 최대 30% 아낀다…드디어 애플페이도 'K-패스'로",
+        "date": "2025-10-23 15:20",
+        "link": "https://n.news.naver.com/mnews/article/008/0005267251?sid=101"
+    },
+    {
+        "title": "'에픽세븐' 신화 잇는다…스마일게이트 '카제나' 애플 다운로드 1위",
+        "date": "2025-10-23 15:10",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=234041"
+    },
+    {
+        "title": "화질·성능·가격, 세 마리 토끼 잡은 OLED 게이밍 모니터.. ASUS ROG Strix ...",
+        "date": "2025-10-23 15:08",
+        "link": "https://kbench.com/?q=node/272459"
+    },
+    {
+        "title": "영국, 애플·구글에 '전략적 시장지위' 부여해 반독점 조사 확대",
+        "date": "2025-10-23 15:04",
+        "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=505382"
+    },
+    {
+        "title": "접고 또 접는 삼성의 폴더블폰, 애플 압도하고 뉴노멀 될까",
+        "date": "2025-10-23 14:58",
+        "link": "https://news.mtn.co.kr/news-detail/2025102313132788229"
+    },
+    {
+        "title": "삼성전자 테슬라 'AI5 칩'도 만든다, 한진만 3나노 잭팟에 내년 파운드리...",
+        "date": "2025-10-23 14:58",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=416703"
+    },
+    {
+        "title": "960조원 시장 잡아라...삼성·LGD, 차량용 OLED 선점 속도",
+        "date": "2025-10-23 14:42",
+        "link": "https://www.mediapen.com/news/view/1051460"
+    },
+    {
+        "title": "애플·구글, 영국서 전략적 시장지위 기업 지정돼···상당한 영향력...",
+        "date": "2025-10-23 14:39",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2344150"
+    },
+    {
+        "title": "[실리콘 디코드] 삼성전자 '엑시노스 2600', 애플 A19 프로 NPU 6배 성능 ...",
+        "date": "2025-10-23 14:38",
+        "link": "https://www.g-enews.com/view.php?ud=202510231435204062fbbec65dfb_1"
+    },
+    {
+        "title": "[나노협회-신소재경제 공동연재]기술패권 경쟁시대, 첨단산업 초격차 이...",
+        "date": "2025-10-23 14:34",
+        "link": "http://amenews.kr/news/view.php?idx=64223"
+    },
+    {
+        "title": "애플·삼성 ‘초슬림폰’ 줄줄이 부진...“틈새 수요 창출 실패”",
+        "date": "2025-10-23 14:30",
+        "link": "https://n.news.naver.com/mnews/article/023/0003936373?sid=105"
+    },
+    {
+        "title": "아이폰서도 'K-패스' 사용…애플페이 티머니 적용",
+        "date": "2025-10-23 14:24",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=687778"
+    },
+    {
+        "title": "베일 벗은 '갤럭시 XR'…삼성, 구글·퀄컴 손잡고 'AI 생태계' 확장 본격...",
+        "date": "2025-10-23 14:19",
+        "link": "https://n.news.naver.com/mnews/article/293/0000073939?sid=101"
+    },
+    {
+        "title": "삼성 갤럭시 S25 판매 호조로 100만원 이상 시장 점유율 10%p↑",
+        "date": "2025-10-23 14:14",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=783075"
+    },
+    {
+        "title": "‘독사과2’ 더 맵고 독해진 ‘애플군단’ 온다",
+        "date": "2025-10-23 14:03",
+        "link": "https://m.entertain.naver.com/article/144/0001075188"
+    },
+    {
+        "title": "티머니도 '애플페이 K-패스' 된다… 최대 10% 적립",
+        "date": "2025-10-23 13:58",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56510"
+    },
+    {
+        "title": "공군 KF-16 조종사, '헬멧 장착형 디스플레이'5명이 1개로 돌려 쓴다",
+        "date": "2025-10-23 13:56",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=855118"
+    },
+    {
+        "title": "“요즘 누가 보급형 써요?”…글로벌 스마트폰 시장 판도 확 바뀌었다",
+        "date": "2025-10-23 13:52",
+        "link": "https://n.news.naver.com/mnews/article/009/0005577749?sid=101"
+    },
+    {
+        "title": "아이폰19 건너뛴다?…2027년 출시 '아이폰20'으로 부른다",
+        "date": "2025-10-23 13:50",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=599126"
+    },
+    {
+        "title": "애플 iOS 26, 잠금화면 흐림 효과 추가…사용자 선택 가능",
+        "date": "2025-10-23 13:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=599130"
+    },
+    {
+        "title": "애플워치 시리즈 10, 북미 스마트워치 시장 4분기 연속 1위",
+        "date": "2025-10-23 13:45",
+        "link": "https://n.news.naver.com/mnews/article/018/0006144920?sid=105"
+    },
+    {
+        "title": "애플 폴더블 제품 출시 연기… 시장 진입 타이밍 놓치나",
+        "date": "2025-10-23 13:44",
+        "link": "https://n.news.naver.com/mnews/article/023/0003936359?sid=105"
+    },
+    {
+        "title": "아이폰·애플워치 지원 시작! 애플페이 K패스, 사용 시 주의할 점은?",
+        "date": "2025-10-23 13:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538046"
+    },
+    {
+        "title": "스파진흥원 보육기업 식스레터스, 애플워치 활용 남성호르몬 측정 플랫...",
+        "date": "2025-10-23 13:32",
+        "link": "https://n.news.naver.com/mnews/article/656/0000152518?sid=102"
+    },
+    {
+        "title": "갤S25 흥행에…삼성, 100만원 이상 플래그십폰 점유율 10%p ↑",
+        "date": "2025-10-23 13:26",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=280922"
+    },
+    {
+        "title": "뺨 맞고 시작하는 거냐…허영지·애플녀, '독사과' 시즌2 현장서 긴장...",
+        "date": "2025-10-23 13:22",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15848897"
+    },
+    {
+        "title": "ROG, 키덕투어 in 수원에서 최신 게이밍 기어 선보여",
+        "date": "2025-10-23 13:04",
+        "link": "https://kbench.com/?q=node/272446"
+    },
+    {
+        "title": "전현무 윤태진, 초반부터 고수위 ‘애플짓’에 동공확장(독사과2)",
+        "date": "2025-10-23 12:35",
+        "link": "https://m.entertain.naver.com/article/609/0001049934"
+    },
+    {
+        "title": "[2025 국감] KF-16 조종사, '헬멧장착형 디스플레이' 5명이 한 개 돌려쓴...",
+        "date": "2025-10-23 12:21",
+        "link": "https://www.newspim.com/news/view/20251023000547"
+    },
+    {
+        "title": "삼성전자 '갤럭시XR' 출시에 외신 평가 대체로 긍정적, 애플 비전프로...",
+        "date": "2025-10-23 11:54",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=416686"
+    },
+    {
+        "title": "애플 “긴급구조 위치제공, 30분으로”",
+        "date": "2025-10-23 11:39",
+        "link": "https://n.news.naver.com/mnews/article/016/0002546255?sid=105"
+    },
+    {
+        "title": "삼성, 갤S25 흥행에 100만원 이상 프리미엄폰 점유율 10%p↑",
+        "date": "2025-10-23 11:34",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092149421"
+    },
+    {
+        "title": "M5 아이패드 프로가 나온 지금, M4 버전을 사야 하는 이유",
+        "date": "2025-10-23 11:30",
+        "link": "https://www.itworld.co.kr/article/4077545/m5-아이패드-프로가-나온-지금-m4-버전을-사야-하는-이유.html"
+    },
+    {
+        "title": "애플, 눈 아픈 배경 개선 나섰다! iOS 26.1에 '리퀴드 글라스' 투명도 조...",
+        "date": "2025-10-23 11:30",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538030"
+    },
+    {
+        "title": "아이폰 대신 갤럭시 선택···삼성, 글로벌 프리미엄폰 30% 급성장",
+        "date": "2025-10-23 11:13",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2343957"
+    },
+    {
+        "title": "[현장]기자가 직접 체험한 삼성전자 AI 헤드셋 '갤럭시 XR'...자연스러운...",
+        "date": "2025-10-23 11:10",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=193252"
+    },
+    {
+        "title": "애플, 2029년 이후로 폴더블 아이패드 출시 지연 전망… 삼성디스플레이...",
+        "date": "2025-10-23 11:08",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=34783"
+    },
+    {
+        "title": "'아이폰17 프로' 코스믹 오렌지 구매 주의보.. 변색 결함 논란 확산",
+        "date": "2025-10-23 11:06",
+        "link": "https://kbench.com/?q=node/272433"
+    },
+    {
+        "title": "전현무, '고수위' 스킨십 '애플녀' 등장에 동공 지진…더 화끈해진 '애플...",
+        "date": "2025-10-23 11:03",
+        "link": "https://m.entertain.naver.com/article/311/0001932543"
+    },
+    {
+        "title": "[신상템] 베일 벗은 삼성 '갤럭시 XR'... 애플 '비전 프로' 반값 269만원",
+        "date": "2025-10-23 10:58",
+        "link": "http://woman.chosun.com/news/articleView.html?idxno=123445"
+    },
+    {
+        "title": "삼성전자, 갤럭시 S25 흥행에 글로벌 프리미엄폰 시장 점유율 12%p↑",
+        "date": "2025-10-23 10:56",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=845695"
+    },
+    {
+        "title": "화웨이, 독자 OS '훙멍6' 정식 공개…애플 생태계와도 호환",
+        "date": "2025-10-23 10:52",
+        "link": "https://n.news.naver.com/mnews/article/003/0013552654?sid=104"
+    },
+    {
+        "title": "침대서 껴안고 키스…초강력 '애플녀'의 유혹 [독사과2]",
+        "date": "2025-10-23 10:51",
+        "link": "https://m.entertain.naver.com/article/117/0004000816"
+    },
+    {
+        "title": "애플, 18인치 폴더블 아이패드 개발 난항…2029년 출시 연기 전망",
+        "date": "2025-10-23 10:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=599062"
+    },
+    {
+        "title": "'독사과' 시즌2, 더 맵고 독해진 '애플군단' 온다⋯전현무·윤태진도 동...",
+        "date": "2025-10-23 10:48",
+        "link": "http://www.joynews24.com/view/1898719"
+    },
+    {
+        "title": "삼성 'XR 헤드셋' 이어 '스마트 글라스' 출격 준비",
+        "date": "2025-10-23 10:48",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1683291"
+    },
+    {
+        "title": "화웨이, 초슬림폰 경쟁 합류…'메이트70 에어'로 中 시장 공략",
+        "date": "2025-10-23 10:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=599026"
+    },
+    {
+        "title": "애플, iOS-안드로이드 간 데이터 전송 지원…새 프레임워크 공개",
+        "date": "2025-10-23 10:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=599035"
+    },
+    {
+        "title": "동아제약, 어린이영양제 ‘챔큐비타시럽’ 출시… “애플망고향으로 맛...",
+        "date": "2025-10-23 10:46",
+        "link": "http://www.segyebiz.com/newsView/20251023506647?OutUrl=naver"
+    },
+    {
+        "title": "알파스캔, Fast IPS 260Hz AI 게이밍으로 진화한 QHD 모니터 'AOC Q27G42ZE' ...",
+        "date": "2025-10-23 10:44",
+        "link": "https://gamefocus.co.kr/detail.php?number=170341"
+    },
+    {
+        "title": "애플 A20 칩 도입…아이폰18 가격 상승 가능성↑",
+        "date": "2025-10-23 10:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=599013"
+    },
+    {
+        "title": "'독사과' 시즌2, 더 맵고 독해진 '애플군단' 온다! '애플녀' 활약상 담은...",
+        "date": "2025-10-23 10:36",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065568983989214"
+    },
+    {
+        "title": "아무것도 안 접는 것 아냐?…애플, 폴더블 아이폰·아이패드 모두 연...",
+        "date": "2025-10-23 10:30",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=280880"
+    },
+    {
+        "title": "애플, M5 비전 프로 생산지 베트남으로 이전…中 의존도 줄인다",
+        "date": "2025-10-23 10:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=599015"
+    },
+    {
+        "title": "[실리콘 디코드] TSMC, 1.4나노에 490억 달러 집중 투자…11월 5일 'AI 칩...",
+        "date": "2025-10-23 10:30",
+        "link": "https://www.g-enews.com/view.php?ud=202510231027215333fbbec65dfb_1"
+    },
+    {
+        "title": "알파스캔 필립스 Fast VA 패널 탑재 34인치 180Hz 게이밍 모니터 신제품...",
+        "date": "2025-10-23 10:28",
+        "link": "https://gamefocus.co.kr/detail.php?number=170340"
+    },
+    {
+        "title": "아이폰 에어, '단종 수준'으로 생산량 감축 …수요 기대 이하",
+        "date": "2025-10-23 10:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=598988"
+    },
+    {
+        "title": "아이폰 에어, 예상 밖의 부진… 애플, 생산량 사실상 중단 수준으로 ...",
+        "date": "2025-10-23 10:26",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538036"
+    },
+    {
+        "title": "다윗의 승리 엑스페릭스子, 아마존 상대로 '100억원 넘는' 특허소송 이...",
+        "date": "2025-10-23 10:26",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=115800"
+    },
+    {
+        "title": "'음성 호출' 원천 기술 카이파이, 아마존과 수백만 달러 합의…애플·구...",
+        "date": "2025-10-23 10:18",
+        "link": "https://n.news.naver.com/mnews/article/008/0005267014?sid=101"
+    },
+    {
+        "title": "삼성전자 '갤럭시 XR' 새 가능성 보여줄까",
+        "date": "2025-10-23 10:02",
+        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=400203"
+    },
+    {
+        "title": "모토로라 차기 폴더블폰 디자인 변경되나? 새로운 특허 출원",
+        "date": "2025-10-23 10:00",
+        "link": "https://kbench.com/?q=node/272417"
+    },
+    {
+        "title": "아이폰 에어 생산량 80% 감축…왜 실패했나",
+        "date": "2025-10-23 09:59",
+        "link": "https://n.news.naver.com/mnews/article/092/0002395063?sid=105"
+    },
+    {
+        "title": "'비전 프로 반값' 삼성 '갤럭시 XR' 출격···구글·퀄컴과 삼각동맹",
+        "date": "2025-10-23 09:53",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2343858"
+    },
+    {
+        "title": "'독사과2' 허영지 뺨 맞고 시작하는 거냐? 살벌 신경전에 '충격'",
+        "date": "2025-10-23 09:50",
+        "link": "https://hbnpress.com/news/view/1065571442559415"
+    },
+    {
+        "title": "애플, ‘아이폰 플립’ 2028년으로 연기… 완벽주의가 발목 잡았다",
+        "date": "2025-10-23 09:49",
+        "link": "https://n.news.naver.com/mnews/article/117/0004000783?sid=105"
+    },
+    {
+        "title": "영국, 애플·구글에 칼 빼들다…모바일 생태계 지배력 견제",
+        "date": "2025-10-23 09:45",
+        "link": "https://n.news.naver.com/mnews/article/092/0002395055?sid=105"
+    },
+    {
+        "title": "'독사과2' 침대 위 아찔한 백허그→전현무·윤태진 뭐야, 뭐야! 동공 대...",
+        "date": "2025-10-23 09:44",
+        "link": "https://www.socialvalue.kr/news/view/1065571320024418"
+    },
+    {
+        "title": "'독사과' 시즌2 티저 공개...과몰입 연애 토크 선사",
+        "date": "2025-10-23 09:42",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=249780"
+    },
+    {
+        "title": "애플, 아이폰 에어 전략…폴더블폰 대신 초경량",
+        "date": "2025-10-23 09:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=598969"
+    },
+    {
+        "title": "'독사과2' 애플녀, 침대위 백허그 유혹…더 강력해진 '애플짓'",
+        "date": "2025-10-23 09:26",
+        "link": "https://m.entertain.naver.com/article/421/0008556971"
+    },
+    {
+        "title": "삼성 갤럭시 XR, 애플 비전프로 가격 절반…'비전 에어' 개발 재개될까",
+        "date": "2025-10-23 09:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=598977"
+    },
+    {
+        "title": "드림에이지 신작 '아키텍트', 출시 첫날 이용자 몰려...애플 매출 톱5",
+        "date": "2025-10-23 09:24",
+        "link": "https://n.news.naver.com/mnews/article/092/0002395046?sid=105"
+    },
+    {
+        "title": "'독사과2' 허영지 뺨 맞고 시작하는 거냐? 살벌한 신경전에 '충격'",
+        "date": "2025-10-23 09:16",
+        "link": "https://swtvnews.com/news/newsview.php?ncode=1065570900032889"
+    },
+    {
+        "title": "침대서 옷 벗고 껴안고 뭐해…고수위 유혹+신경전 (독사과2)",
+        "date": "2025-10-23 09:08",
+        "link": "https://m.entertain.naver.com/article/382/0001231078"
+    },
+    {
+        "title": "갤S25 흥행에…삼성, 100만원 이상 플래그십폰 점유율 10%p ↑",
+        "date": "2025-10-23 09:05",
+        "link": "https://n.news.naver.com/mnews/article/003/0013552242?sid=105"
+    },
+    {
+        "title": "‘아이폰 플립’ 2028년 출시...폴더블도 지연[모닝폰]",
+        "date": "2025-10-23 09:04",
+        "link": "https://n.news.naver.com/mnews/article/018/0006144616?sid=105"
+    },
+    {
+        "title": "애플, 2027년 출시 아이폰 20주년 기념작 네이밍 변경하나",
+        "date": "2025-10-23 09:00",
+        "link": "https://kbench.com/?q=node/272415"
+    },
+    {
+        "title": "애플의 혁신…2028년까지 매년 새 아이폰 선보인다",
+        "date": "2025-10-23 08:55",
+        "link": "https://n.news.naver.com/mnews/article/092/0002395033?sid=105"
+    },
+    {
+        "title": "독사과 시즌2, 애플녀 티저",
+        "date": "2025-10-23 08:54",
+        "link": "https://www.bntnews.co.kr/article/view/bnt202510230054"
+    },
+    {
+        "title": "애플·구글, 영국서 '전략적 시장지위(SMS)' 지정…반독점 감시 강화",
+        "date": "2025-10-23 08:48",
+        "link": "https://n.news.naver.com/mnews/article/030/0003361797?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, IT OLED '초격차' 성공…노트북·모니터 싹쓸이",
+        "date": "2025-10-23 08:30",
+        "link": "http://datanews.co.kr/news/article.html?no=141316"
+    },
+    {
+        "title": "[GAM]中 화웨이 '훙멍6' 버전 공개, 애플 기기로 전송 지원",
+        "date": "2025-10-23 08:26",
+        "link": "https://www.newspim.com/news/view/20251023000053"
+    },
+    {
+        "title": "[더벨]'폼팩터 대가' 삼성전자, 갤럭시 XR 수요 'B2B'로 확장",
+        "date": "2025-10-23 08:18",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202510221040368400108433"
+    },
+    {
+        "title": "샤오미·오포 등 중국OEM, 프리미엄 스마트폰 시장서 영향력 확대",
+        "date": "2025-10-23 08:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=184453"
+    },
+    {
+        "title": "신한투자證 “블랙PDL 모멘텀 본격화⋯내년 폴더블 스마트폰 변곡점 기...",
+        "date": "2025-10-23 07:54",
+        "link": "https://www.etoday.co.kr/news/view/2517452"
+    },
+    {
+        "title": "애플, 60대 경영진 연쇄 퇴진…'포스트 쿡' 세대교체 본격화",
+        "date": "2025-10-23 07:30",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=43839"
+    },
+    {
+        "title": "[BS모닝] “눈 앞에 펼쳐지는 몰디브 해변”…삼성 ‘갤럭시 XR’ 써보니",
+        "date": "2025-10-23 07:18",
+        "link": "http://www.segyebiz.com/newsView/20251023502833?OutUrl=naver"
+    },
+    {
+        "title": "[N2 뷰] '보고, 말하고 손짓하니 새 세상'...삼성 ‘갤럭시 XR’로 4년 내...",
+        "date": "2025-10-23 07:02",
+        "link": "https://www.news2day.co.kr/article/20251022500189"
+    },
+    {
+        "title": "말 한 마디면 '뉴욕 맛집' 식탁까지 본다…갤럭시XR 현실 세계 확장",
+        "date": "2025-10-23 07:01",
+        "link": "https://n.news.naver.com/mnews/article/011/0004546650?sid=101"
+    },
+    {
+        "title": "[GAM]애플 '아이폰 에어' 中 상륙① eSIM 상용화 테마주 조명",
+        "date": "2025-10-23 07:00",
+        "link": "https://www.newspim.com/news/view/20251022001123"
+    }
+]
