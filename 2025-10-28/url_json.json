@@ -1,1 +1,927 @@
-
+[
+    {
+        "title": "삼성스토어, '삼성 OLED' TV로 닌텐도 스위치2 체험 기회 제공",
+        "date": "2025-10-28 00:32",
+        "link": "https://www.webeconomy.co.kr/news/articleView.html?idxno=2029526"
+    },
+    {
+        "title": "수익성 개선 고심 애플, 지도에 광고 도입 검토",
+        "date": "2025-10-27 20:41",
+        "link": "https://n.news.naver.com/mnews/article/011/0004548371?sid=105"
+    },
+    {
+        "title": "‘아이패드 효과’, 태블릿 OLED 출하량 반등…삼성·LG, 중대형 OLED 실...",
+        "date": "2025-10-27 19:00",
+        "link": "https://www.ceoscoredaily.com/page/view/2025102716515673199"
+    },
+    {
+        "title": "삼성전자, OLED TV로 닌텐도 스위치2 체험 기회 제공",
+        "date": "2025-10-27 18:56",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160291045339919"
+    },
+    {
+        "title": "뜨거운 아이패드 식힌다···애플, M6칩에 '증기 챔버 냉각 시스템' ...",
+        "date": "2025-10-27 18:19",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2345768"
+    },
+    {
+        "title": "삼성전자, 삼성 OLED TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 18:12",
+        "link": "https://www.m-economynews.com/news/article.html?no=61116"
+    },
+    {
+        "title": "화면 안쪽은 샹들리에 바깥엔 은하수…LG '투명 OLED' 28개, 경주를 빛내...",
+        "date": "2025-10-27 17:55",
+        "link": "https://n.news.naver.com/mnews/article/015/0005202619?sid=101"
+    },
+    {
+        "title": "“OLED TV로 닌텐도 즐긴다”…삼성전자, 삼성스토어서 게이밍 체험 진...",
+        "date": "2025-10-27 17:40",
+        "link": "https://www.ceoscoredaily.com/page/view/2025102717301518283"
+    },
+    {
+        "title": "삼성전자, 삼성스토어서 '삼성 OLED' TV로 닌텐도스위치2 즐긴다",
+        "date": "2025-10-27 17:34",
+        "link": "https://idsn.co.kr/news/view/1065598069273411"
+    },
+    {
+        "title": "'삼성 OLED' TV로 체험하는 '닌텐도 스위치2'의 맛",
+        "date": "2025-10-27 17:30",
+        "link": "https://www.joongboo.com/news/articleView.html?idxno=363706976"
+    },
+    {
+        "title": "차기 '아이폰 18' 램(RAM) 용량, 8GB -> 12GB 늘어난다",
+        "date": "2025-10-27 17:28",
+        "link": "https://kbench.com/?q=node/272564"
+    },
+    {
+        "title": "삼성전자 '트리폴드폰' APEC 현장서 공개…中화웨이와 '경쟁' 돌입",
+        "date": "2025-10-27 17:26",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=815969"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치2 체험",
+        "date": "2025-10-27 17:18",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=82745"
+    },
+    {
+        "title": "애플, 발열 문제 사활?…아이폰17 이어 아이패드도 '증기 챔버 냉각기술...",
+        "date": "2025-10-27 17:11",
+        "link": "https://n.news.naver.com/mnews/article/030/0003363267?sid=104"
+    },
+    {
+        "title": "LG디스플레이, 8.6세대 투자 미온적 태도 왜",
+        "date": "2025-10-27 17:06",
+        "link": "https://news.dealsitetv.com/articles/160435"
+    },
+    {
+        "title": "[데일리픽] XRP 현물 ETF 자산 1억달러 돌파…엔비디아, 로보택시 개발 ...",
+        "date": "2025-10-27 17:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=600016"
+    },
+    {
+        "title": "삼성 OLED TV로 '닌텐도 스위치2' 즐긴다",
+        "date": "2025-10-27 17:00",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=241652"
+    },
+    {
+        "title": "농협경제지주, '애플데이' 맞아 사과 할인행사 실시",
+        "date": "2025-10-27 16:52",
+        "link": "http://www.queen.co.kr/news/articleView.html?idxno=444640"
+    },
+    {
+        "title": "노태문의 시험대…삼성전자 연말 인사서 직무대행 꼬리표 뗄까",
+        "date": "2025-10-27 16:50",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025102715472829499"
+    },
+    {
+        "title": "[GAM] 이번 주 미국 실적 대응 지침서 ②MSFT·LLY·AMZN·AAPL",
+        "date": "2025-10-27 16:41",
+        "link": "https://www.newspim.com/news/view/20251027001157"
+    },
+    {
+        "title": "삼성스토어에서 OLED TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 16:36",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=184797"
+    },
+    {
+        "title": "삼성 OLED, 닌텐도 스위치2 체험 이벤트 진행…최대 20만 원 혜택",
+        "date": "2025-10-27 15:56",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15853468"
+    },
+    {
+        "title": "삼성전자, 삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치2 체험 기회 ...",
+        "date": "2025-10-27 15:50",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=123933"
+    },
+    {
+        "title": "아이폰 에어, 내년엔 더 잘 팔린다...근거는?",
+        "date": "2025-10-27 15:45",
+        "link": "https://n.news.naver.com/mnews/article/092/0002395526?sid=105"
+    },
+    {
+        "title": "OLED 시대, 두 갈래 길에 선 韓 디스플레이···삼성D '질주' LGD '정체'",
+        "date": "2025-10-27 15:35",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2345531"
+    },
+    {
+        "title": "애플 근무했던 '샘 성', 유명세 끝에 이름 개명",
+        "date": "2025-10-27 15:24",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15853420"
+    },
+    {
+        "title": "삼성, 3단 폴더블폰 '갤럭시Z 트라이폴드' 이번주 베일 벗는다",
+        "date": "2025-10-27 15:16",
+        "link": "https://kbench.com/?q=node/272561"
+    },
+    {
+        "title": "티엔마, LGD의 미국 OLED 특허 상대 무효심판 청구",
+        "date": "2025-10-27 15:04",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=42738"
+    },
+    {
+        "title": "삼성전자, 닌텐도 스위치2·삼성 OLED 체험존 운영…고객 관심도↑",
+        "date": "2025-10-27 15:04",
+        "link": "http://www.thebigdata.co.kr/view.php?ud=2025102714103596974aca46cea9_23"
+    },
+    {
+        "title": "M6 기반 '아이패드 프로' 성능 극대화! '베이퍼 챔버' 냉각 시스템 도입",
+        "date": "2025-10-27 14:58",
+        "link": "https://kbench.com/?q=node/272558"
+    },
+    {
+        "title": "진짜 얇다, 그래서 뭐? 굴욕의 초슬림폰…삼성·애플 나란히 초라한 ...",
+        "date": "2025-10-27 14:44",
+        "link": "https://n.news.naver.com/mnews/article/008/0005268680?sid=105"
+    },
+    {
+        "title": "“OLED는 못 준다”…디스플레이 한중전 치열",
+        "date": "2025-10-27 14:42",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1279175&inflow=N"
+    },
+    {
+        "title": "'삼성 OLED' TV로 '닌텐도 스위치2' 즐긴다",
+        "date": "2025-10-27 14:41",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000010631"
+    },
+    {
+        "title": "막 오른 전자업계 3분기 실적발표 시즌… 관전 포인트는",
+        "date": "2025-10-27 14:40",
+        "link": "https://n.news.naver.com/mnews/article/417/0001109154?sid=101"
+    },
+    {
+        "title": "삼성 OLED TV, 닌텐도 스위치2와 만난다…삼성스토어서 게이밍 체험 행사",
+        "date": "2025-10-27 14:34",
+        "link": "https://www.todayeconomic.com/news/article.html?no=28653"
+    },
+    {
+        "title": "농협광주본부, 애플데이 행사로 사과촉진 앞장",
+        "date": "2025-10-27 14:20",
+        "link": "http://www.aflnews.co.kr/news/articleView.html?idxno=306828"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치2 즐겨",
+        "date": "2025-10-27 14:14",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=529350"
+    },
+    {
+        "title": "[체험기] 갤럭시 XR 써보니…압도적 화질·몰입감 최고",
+        "date": "2025-10-27 14:12",
+        "link": "https://n.news.naver.com/mnews/article/001/0015703507?sid=105"
+    },
+    {
+        "title": "'반등의 3분기' LG디스플레이…4년 만 연간 흑자 가시권",
+        "date": "2025-10-27 13:54",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025102713424091921"
+    },
+    {
+        "title": "삼성전자, OLED TV로 닌텐도 스위치2 체험 진행",
+        "date": "2025-10-27 13:52",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=783545"
+    },
+    {
+        "title": "삼성전자, OLED TV로 ‘닌텐도 스위치2’ 체험존 오픈…게임·가전 경계...",
+        "date": "2025-10-27 13:50",
+        "link": "http://www.thevaluenews.co.kr/news/view.php?idx=193333"
+    },
+    {
+        "title": "에스라이즈, RTX 5060 탑재한 HP 빅터스 15 게이밍 노트북 출시",
+        "date": "2025-10-27 13:48",
+        "link": "https://kbench.com/?q=node/272552"
+    },
+    {
+        "title": "삼성전자, 삼성 OLED로 ‘닌텐도 스위치2’ 즐긴다",
+        "date": "2025-10-27 13:42",
+        "link": "https://www.kgnews.co.kr/news/article.html?no=870878"
+    },
+    {
+        "title": "홍대·대치·청담서 마리오 게임...삼성 OLED로 즐긴다",
+        "date": "2025-10-27 13:41",
+        "link": "https://n.news.naver.com/mnews/article/014/0005425020?sid=101"
+    },
+    {
+        "title": "XR시장 다시 열린다…韓 부품사, 공급망 호재 주목",
+        "date": "2025-10-27 13:38",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=281191"
+    },
+    {
+        "title": "삼성전자, 삼성 OLED TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 13:36",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=653992"
+    },
+    {
+        "title": "셀트리온, 아일리아 특허 분쟁 해결...美 출시 길 열렸다",
+        "date": "2025-10-27 13:32",
+        "link": "https://mdtoday.co.kr/news/view/1065574341294138"
+    },
+    {
+        "title": "수익성 개선 고심 애플, 지도에 광고 도입 검토 [윤민혁의 실리콘밸리V...",
+        "date": "2025-10-27 13:29",
+        "link": "https://n.news.naver.com/mnews/article/011/0004548166?sid=105"
+    },
+    {
+        "title": "삼성전자, 삼성스토어서 'OLED TV'로 즐기는 닌텐도 스위치2 체험 행사",
+        "date": "2025-10-27 13:22",
+        "link": "https://www.socialvalue.kr/news/view/1065586441888251"
+    },
+    {
+        "title": "삼성 OLED TV로 즐기고 혜택받자…삼성스토어, 닌텐도 스위치2 체험 이...",
+        "date": "2025-10-27 13:20",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=281044"
+    },
+    {
+        "title": "삼성 트리폴드폰, 미국선 안 나온다…5개국만 출시 예정",
+        "date": "2025-10-27 13:11",
+        "link": "https://n.news.naver.com/mnews/article/092/0002395502?sid=105"
+    },
+    {
+        "title": "광주농협본부, ‘애플데이(Apple Day)’ 행사 열어",
+        "date": "2025-10-27 13:10",
+        "link": "https://n.news.naver.com/mnews/article/662/0000080671?sid=102"
+    },
+    {
+        "title": "[기업분석_삼성 편 ④삼성디스플레이] 이청 대표, 가격 경쟁과 설비투자...",
+        "date": "2025-10-27 13:06",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=399921"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치2(Nintendo Switch 2) 즐긴...",
+        "date": "2025-10-27 13:06",
+        "link": "https://kbench.com/?q=node/272545"
+    },
+    {
+        "title": "삼성D·LGD, OLED 생산축 이동···IT용 패널로 스마트폰·TV 대체",
+        "date": "2025-10-27 13:04",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=416320"
+    },
+    {
+        "title": "삼성전자 삼성 OLED로 닌텐도 스위치2 직접 체험해보세요",
+        "date": "2025-10-27 12:50",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=109305"
+    },
+    {
+        "title": "삼성전자, ‘닌텐도 스위치2’ 삼성 OLED 체험존 운영",
+        "date": "2025-10-27 12:44",
+        "link": "https://www.thepowernews.co.kr/view.php?ud=202510271242198697de3f0aa1be_7"
+    },
+    {
+        "title": "삼성전자, 삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치2 체험 제공",
+        "date": "2025-10-27 12:12",
+        "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1076514"
+    },
+    {
+        "title": "삼성전자 삼성스토어 홍대·대치·청담에서 'OLED' TV로 닌텐도 스위치...",
+        "date": "2025-10-27 12:10",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=75941"
+    },
+    {
+        "title": "삼성스토어, 삼성 OLED TV 게이밍 성능 체험 이벤트 실시",
+        "date": "2025-10-27 12:08",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=185188"
+    },
+    {
+        "title": "삼성전자, OLED TV 게이밍 성능 한껏 높였다",
+        "date": "2025-10-27 12:02",
+        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=400276"
+    },
+    {
+        "title": "삼성 OLED로 즐기는 '닌텐도 스위치2'…홍대·대치·청담서 체험 기회",
+        "date": "2025-10-27 12:02",
+        "link": "http://www.kdfnews.com/news/articleView.html?idxno=168990"
+    },
+    {
+        "title": "XR시장 다시 열린다…韓 부품사, 공급망 호재 주목",
+        "date": "2025-10-27 11:50",
+        "link": "https://n.news.naver.com/mnews/article/003/0013560016?sid=101"
+    },
+    {
+        "title": "삼성스토어서 '삼성 OLED' TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 11:48",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=688710"
+    },
+    {
+        "title": "삼성스토어에서 ‘삼성 OLED’ TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 11:40",
+        "link": "https://weekly.cnbnews.com/news/article.html?no=194205"
+    },
+    {
+        "title": "삼성스토어에서 'OLED TV'로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 11:33",
+        "link": "https://n.news.naver.com/mnews/article/215/0001228436?sid=101"
+    },
+    {
+        "title": "삼성 OLED로 즐기는 '마리오 카트'…삼성전자, 닌텐도 스위치2 체험 이벤...",
+        "date": "2025-10-27 11:32",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=91724"
+    },
+    {
+        "title": "삼성전자, '삼성 OLED' 게이밍 성능 체험 기회 마련",
+        "date": "2025-10-27 11:26",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=674022"
+    },
+    {
+        "title": "삼성스토어서 OLED TV로 닌텐도스위치2 즐긴다",
+        "date": "2025-10-27 11:24",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=94519"
+    },
+    {
+        "title": "애플, 인도 에어팟 생산 확대…폭스콘 공장 확대",
+        "date": "2025-10-27 11:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=599875"
+    },
+    {
+        "title": "애플, 아이패드 프로 '베이퍼 챔버' 냉각 시스템 도입…발열 문제 해결...",
+        "date": "2025-10-27 11:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=599887"
+    },
+    {
+        "title": "삼성스토어서 '삼성 OLED' TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 11:22",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=341498"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 11:18",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=711607"
+    },
+    {
+        "title": "삼성전자, OLED TV로 '닌텐도 스위치2' 게임 체험",
+        "date": "2025-10-27 11:17",
+        "link": "https://n.news.naver.com/mnews/article/031/0000975259?sid=105"
+    },
+    {
+        "title": "삼성스토어, 삼성 OLED TV 게이밍 성능 체험 이벤트 실시",
+        "date": "2025-10-27 11:14",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=243573"
+    },
+    {
+        "title": "태블릿 OLED 출하량, 전년비 26% 증가",
+        "date": "2025-10-27 11:12",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=42731"
+    },
+    {
+        "title": "삼성전자, OLED TV로 즐기는 ‘닌텐도 스위치2’ 체험 이벤트 열어",
+        "date": "2025-10-27 11:12",
+        "link": "https://www.mediapen.com/news/view/1052268"
+    },
+    {
+        "title": "순환경제 실현 위한 기술혁신의 장 '리사이클 테크 재팬'",
+        "date": "2025-10-27 11:12",
+        "link": "https://www.energy-news.co.kr/news/articleView.html?idxno=219081"
+    },
+    {
+        "title": "압도적 몰입감 … 삼성 OLED로 닌텐도 체험해 보세요",
+        "date": "2025-10-27 11:10",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56542"
+    },
+    {
+        "title": "삼성전자, 삼성 OLED TV로 닌텐도 스위치2 체험 행사 진행",
+        "date": "2025-10-27 11:06",
+        "link": "http://www.iminju.net/news/articleView.html?idxno=145937"
+    },
+    {
+        "title": "삼성전자 구글 '갤럭시XR' 경쟁력 부각, 애플 '비전프로' 중장기 전략 불...",
+        "date": "2025-10-27 11:02",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=417081"
+    },
+    {
+        "title": "이재용 삼성전자 회장 취임 3주년 '축포'…삼성전자, 사상 첫 '10만전자...",
+        "date": "2025-10-27 11:02",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=145752"
+    },
+    {
+        "title": "달려가는 TSMC vs 뒤쫓는 삼성전자…2나노 시장 판도 바뀌나",
+        "date": "2025-10-27 11:00",
+        "link": "https://n.news.naver.com/mnews/article/586/0000114554?sid=101"
+    },
+    {
+        "title": "삼성전자, 닌텐도 스위치2 체험 마케팅으로 OLED TV 게이밍 시장 공략",
+        "date": "2025-10-27 10:56",
+        "link": "http://kpenews.com/View.aspx?No=3829068"
+    },
+    {
+        "title": "삼성전자, 'OLED TV'로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 10:50",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=37814"
+    },
+    {
+        "title": "애플 매장 직원 이름이 삼성…온라인서 놀림감되자 이름 바꿨다",
+        "date": "2025-10-27 10:49",
+        "link": "https://n.news.naver.com/mnews/article/016/0002547805?sid=104"
+    },
+    {
+        "title": "어드밴텍, 산업용 패널 PC 'PPC-300S 시리즈' 주목… 슬림 베젤·고성능...",
+        "date": "2025-10-27 10:48",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=73303"
+    },
+    {
+        "title": "삼성 첫 트라이폴드폰 어디서 출시되나…韓 포함 아시아에서만?",
+        "date": "2025-10-27 10:45",
+        "link": "https://n.news.naver.com/mnews/article/003/0013559632?sid=105"
+    },
+    {
+        "title": "삼성스토어서 OLED TV로 ‘마리오 카트’ 즐긴다",
+        "date": "2025-10-27 10:38",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1279141&inflow=N"
+    },
+    {
+        "title": "버크셔, 올해 S&amp;P500지수 대비 최대 언더퍼폼…애플 매각 '역풍'",
+        "date": "2025-10-27 10:38",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4380329"
+    },
+    {
+        "title": "애플 직원의 이름이 '삼성'… 결국 이름 '업데이트' 했다",
+        "date": "2025-10-27 10:36",
+        "link": "https://n.news.naver.com/mnews/article/030/0003362948?sid=104"
+    },
+    {
+        "title": "애플, 차세대 아이패드 프로에 ‘증기 챔버 냉각 시스템’ 도입",
+        "date": "2025-10-27 10:35",
+        "link": "https://n.news.naver.com/mnews/article/092/0002395463?sid=105"
+    },
+    {
+        "title": "삼성전자, 삼성스토어서 닌텐도 스위치 2 OLED 체험 개시",
+        "date": "2025-10-27 10:32",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3041885"
+    },
+    {
+        "title": "삼성스토어, 삼성 OLED TV로 즐기는 닌텐도 스위치2 체험의 장 마련",
+        "date": "2025-10-27 10:26",
+        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=114255"
+    },
+    {
+        "title": "삼성스토어서 '삼성 OLED' TV로 닌텐도스위치2 즐긴다",
+        "date": "2025-10-27 10:24",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092149599"
+    },
+    {
+        "title": "삼성전자, 'OLED TV'로 '닌텐도 스위치2' 체험 기회 제공",
+        "date": "2025-10-27 10:19",
+        "link": "https://n.news.naver.com/mnews/article/030/0003362928?sid=105"
+    },
+    {
+        "title": "차기 아이폰 에어2, 더 기대되는 이유…초기 모델 불안감 떨친다",
+        "date": "2025-10-27 10:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=599880"
+    },
+    {
+        "title": "애플, 기업 필수 플랫폼 부상… CIO 95% 맥 도입 늘릴 것",
+        "date": "2025-10-27 10:18",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=599872"
+    },
+    {
+        "title": "삼성스토어 홍대·대치·청담서 '삼성 OLED' TV로 닌텐도 스위치2 체험",
+        "date": "2025-10-27 10:16",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=785967"
+    },
+    {
+        "title": "삼성전자, OLED TV로 '닌텐도 스위치2' 체험 행사 진행",
+        "date": "2025-10-27 10:14",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=253652"
+    },
+    {
+        "title": "삼성스토어에서 ‘OLED TV’로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 10:04",
+        "link": "https://www.viva100.com/article/20251027500430"
+    },
+    {
+        "title": "애플워치10 시리즈, 북미 스마트워치 출하량 4분기 연속 1위",
+        "date": "2025-10-27 10:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=184770"
+    },
+    {
+        "title": "삼성스토어서 '삼성 OLED' TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 10:00",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=224063"
+    },
+    {
+        "title": "삼성전자, OLED로 '스위치2' 품었다···게이밍 TV 전면전 예고",
+        "date": "2025-10-27 09:58",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2345232"
+    },
+    {
+        "title": "삼성스토어, '삼성 OLED' TV로 닌텐도 스위치2 즐기러 오세요",
+        "date": "2025-10-27 09:56",
+        "link": "https://www.newsinside.kr/news/articleView.html?idxno=4110906"
+    },
+    {
+        "title": "삼성스토어서 '삼성 OLED' TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 09:54",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2098370"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 09:54",
+        "link": "https://www.fetv.co.kr/news/article.html?no=203941"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치 즐긴다",
+        "date": "2025-10-27 09:52",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=459966"
+    },
+    {
+        "title": "삼성스토어, 삼성 OLED TV로 닌텐도 스위치2 체험행사",
+        "date": "2025-10-27 09:52",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=815856"
+    },
+    {
+        "title": "삼성스토어 홍대·대치·청담, OLED 게이밍 체험 공간 마련",
+        "date": "2025-10-27 09:48",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=185071"
+    },
+    {
+        "title": "삼성전자, 삼성스토어서 ‘삼성 OLED’ TV로 닌텐도 스위치2 체험 기회 ...",
+        "date": "2025-10-27 09:48",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=78441"
+    },
+    {
+        "title": "애플 직원 이름이 ‘삼성’…“무서워서” 개명까지 한 이유",
+        "date": "2025-10-27 09:48",
+        "link": "https://n.news.naver.com/mnews/article/018/0006148120?sid=104"
+    },
+    {
+        "title": "쿠팡, '가전디지털 세일' 진행…애플·다이슨 참여",
+        "date": "2025-10-27 09:44",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=116939"
+    },
+    {
+        "title": "삼성전자 최대 165Hz 고주사율 'OLED TV'로 '닌텐도 스위치2' 마리오 게...",
+        "date": "2025-10-27 09:42",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=115924"
+    },
+    {
+        "title": "삼성스토어서 OLED TV로 닌텐도 스위치2 체험 진행",
+        "date": "2025-10-27 09:41",
+        "link": "https://n.news.naver.com/mnews/article/366/0001117519?sid=105"
+    },
+    {
+        "title": "삼성스토어에서 삼성OLED TV로 닌텐도 '마리오 카트' 즐긴다",
+        "date": "2025-10-27 09:38",
+        "link": "https://n.news.naver.com/mnews/article/011/0004548047?sid=101"
+    },
+    {
+        "title": "자체 개발·희토류 재활용… 나인테크, 미래 기술 확보 박차",
+        "date": "2025-10-27 09:38",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=388639"
+    },
+    {
+        "title": "삼성전자, 삼성스토어서 '삼성 OLED' TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 09:34",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=98866"
+    },
+    {
+        "title": "삼성전자, 'OLED TV'로 닌텐도 스위치2 체험 기회 제공",
+        "date": "2025-10-27 09:34",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=276235"
+    },
+    {
+        "title": "농협경제지주, 애플데이 맞아 사과 할인행사 실시",
+        "date": "2025-10-27 09:34",
+        "link": "http://www.bokuennews.com/news/article.html?no=267818"
+    },
+    {
+        "title": "삼성전자, '삼성 OLED' 게이밍 성능 특별 체험존 오픈",
+        "date": "2025-10-27 09:32",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=539175"
+    },
+    {
+        "title": "삼성스토어에서 OLED TV로 닌텐도 스위치2 즐겨볼까",
+        "date": "2025-10-27 09:30",
+        "link": "https://www.cnet.co.kr/view/?no=20251027092808"
+    },
+    {
+        "title": "삼성스토어에서 ‘OLED TV’로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 09:28",
+        "link": "https://n.news.naver.com/mnews/article/029/0002989382?sid=101"
+    },
+    {
+        "title": "삼성전자 'OLED TV'로 닌텐도 스위치2 체험 기회 제공",
+        "date": "2025-10-27 09:26",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3332323"
+    },
+    {
+        "title": "삼성전자, 올레드 TV로 '닌텐도 스위치2' 게임 체험 경험 제공",
+        "date": "2025-10-27 09:26",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=200175"
+    },
+    {
+        "title": "이러니 애플 아이폰 사지...삼성 스마트폰 충전 과정에서 오작동 오류",
+        "date": "2025-10-27 09:22",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=653940"
+    },
+    {
+        "title": "M6 아이패드 프로, 두께 늘고 성능 열린다…‘베이퍼 챔버’ 첫 탑재 전...",
+        "date": "2025-10-27 09:18",
+        "link": "https://n.news.naver.com/mnews/article/138/0002207783?sid=105"
+    },
+    {
+        "title": "삼성스토어 홍대·대치·청담, OLED 게이밍 체험 공간 마련",
+        "date": "2025-10-27 09:17",
+        "link": "https://n.news.naver.com/mnews/article/138/0002207781?sid=105"
+    },
+    {
+        "title": "삼성전자 OLED TV로 '닌텐도 스위치2' 직접 체험해보세요",
+        "date": "2025-10-27 09:16",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=98308"
+    },
+    {
+        "title": "삼성전자, OLED TV로 닌텐도 스위치2 체험존 마련",
+        "date": "2025-10-27 09:14",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=188230"
+    },
+    {
+        "title": "삼성 OLED TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 09:14",
+        "link": "https://www.hinews.co.kr/view.php?ud=202510270913088678dacadeb388_48"
+    },
+    {
+        "title": "삼성스토어서 삼성 OLED TV로 ‘닌텐도 스위치2’ 즐긴다",
+        "date": "2025-10-27 09:14",
+        "link": "https://www.ekn.kr/web/view.php?key=20251027022150136"
+    },
+    {
+        "title": "삼성스토어 홍대·대치·청담서 OLED TV와 닌텐도 스위치2 게임 체험 이...",
+        "date": "2025-10-27 09:08",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=349668"
+    },
+    {
+        "title": "삼성전자, 삼성스토어서 '삼성 OLED' TV로 닌텐도 스위치2 체험 제공",
+        "date": "2025-10-27 09:08",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=100097"
+    },
+    {
+        "title": "닌텐도 스위치 2를 '삼성 OLED TV'로 …27일 삼성스토어서 시작",
+        "date": "2025-10-27 09:07",
+        "link": "https://n.news.naver.com/mnews/article/417/0001109014?sid=101"
+    },
+    {
+        "title": "마리오카트 실감나게…'삼성 OLED TV'로 닌텐도스위치2 체험",
+        "date": "2025-10-27 09:04",
+        "link": "https://n.news.naver.com/mnews/article/018/0006148035?sid=101"
+    },
+    {
+        "title": "삼성스토어서 '삼성 OLED' TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 09:04",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1683672"
+    },
+    {
+        "title": "삼성 OLED TV로 닌텐도스위치2 즐긴다",
+        "date": "2025-10-27 09:04",
+        "link": "https://www.naeil.com/news/read/565294?ref=naver"
+    },
+    {
+        "title": "OLED TV로 즐기는 ‘닌텐도 스위치2’…삼성스토어서 만난다",
+        "date": "2025-10-27 09:00",
+        "link": "https://www.sentv.co.kr/article/view/sentv202510270015"
+    },
+    {
+        "title": "삼성전자 삼성스토어서 'OLED TV'로 닌텐도 스위치2 즐기세요",
+        "date": "2025-10-27 08:58",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=234179"
+    },
+    {
+        "title": "삼성스토어, 닌텐도 스위치2 즐기세요 체험 공간 마련",
+        "date": "2025-10-27 08:58",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=303002"
+    },
+    {
+        "title": "삼성전자, 'OLED TV'로 '닌텐도 스위치2' 게임 체험 기회 제공",
+        "date": "2025-10-27 08:55",
+        "link": "https://n.news.naver.com/mnews/article/119/0003016768?sid=101"
+    },
+    {
+        "title": "삼성전자, 홍대·대치·청담스토어서 닌텐도 스위치2 체험 기회 제공",
+        "date": "2025-10-27 08:54",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=676863"
+    },
+    {
+        "title": "애플 모바일 D램 증가 수혜자는 삼성전자…전례 없는 호황 사이클",
+        "date": "2025-10-27 08:53",
+        "link": "https://n.news.naver.com/mnews/article/421/0008563859?sid=101"
+    },
+    {
+        "title": "삼성스토어에서 '닌텐도 스위치2' 즐겨보세요",
+        "date": "2025-10-27 08:51",
+        "link": "https://n.news.naver.com/mnews/article/092/0002395423?sid=105"
+    },
+    {
+        "title": "삼성, 홍대·대치·청담에 'OLED TV'로 즐기는 닌텐도스위치2 체험존 마...",
+        "date": "2025-10-27 08:46",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1286946"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 08:44",
+        "link": "https://hbnpress.com/news/view/1065570175881356"
+    },
+    {
+        "title": "삼성스토어서 'OLED TV'로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 08:42",
+        "link": "https://www.newspim.com/news/view/20251027000071"
+    },
+    {
+        "title": "삼성전자 삼성 OLED TV로 닌텐도 스위치2 즐기세요",
+        "date": "2025-10-27 08:40",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1295456"
+    },
+    {
+        "title": "삼성전자, 'OLED TV'로 '닌텐도 스위치2' 게임 체험 경험 제공",
+        "date": "2025-10-27 08:36",
+        "link": "https://n.news.naver.com/mnews/article/421/0008563805?sid=101"
+    },
+    {
+        "title": "삼성스토어, ‘삼성 OLED’ TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 08:36",
+        "link": "http://theviewers.co.kr/View.aspx?No=3828776"
+    },
+    {
+        "title": "삼성전자 삼성 OLED TV로 닌텐도 스위치2 체험해보세요",
+        "date": "2025-10-27 08:34",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=227670"
+    },
+    {
+        "title": "삼성 OLED로 즐기는 ‘닌텐도 스위치2’…삼성스토어 3곳서 체험 행사",
+        "date": "2025-10-27 08:34",
+        "link": "https://www.etoday.co.kr/news/view/2518500"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치2 즐겨볼까?",
+        "date": "2025-10-27 08:33",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000083424"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치2(Nintendo Switch 2) 즐긴...",
+        "date": "2025-10-27 08:31",
+        "link": "https://n.news.naver.com/mnews/article/421/0008563790?sid=101"
+    },
+    {
+        "title": "'삼성 OLED' TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 08:31",
+        "link": "https://n.news.naver.com/mnews/article/421/0008563791?sid=101"
+    },
+    {
+        "title": "'삼성 OLED' TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 08:31",
+        "link": "https://n.news.naver.com/mnews/article/421/0008563793?sid=101"
+    },
+    {
+        "title": "'삼성 OLED' TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 08:31",
+        "link": "https://n.news.naver.com/mnews/article/421/0008563792?sid=101"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치2(Nintendo Switch 2) 즐긴...",
+        "date": "2025-10-27 08:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0008563789?sid=101"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED TV'로 닌텐도 스위치2 즐겨요",
+        "date": "2025-10-27 08:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0013559101?sid=101"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED TV'로 닌텐도 스위치2 즐겨요",
+        "date": "2025-10-27 08:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0013559100?sid=101"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED TV'로 닌텐도 스위치2 즐겨요",
+        "date": "2025-10-27 08:27",
+        "link": "https://n.news.naver.com/mnews/article/003/0013559102?sid=101"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치2(Nintendo Switch 2) 즐긴...",
+        "date": "2025-10-27 08:26",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=410611"
+    },
+    {
+        "title": "삼성전자 삼성 OLED로 닌텐도 스위치2 직접 체험해보세요",
+        "date": "2025-10-27 08:26",
+        "link": "https://n.news.naver.com/mnews/article/108/0003378502?sid=004"
+    },
+    {
+        "title": "‘삼성 OLED’ TV로 닌텐도 스위치2 직접 체험해보세요",
+        "date": "2025-10-27 08:25",
+        "link": "https://n.news.naver.com/mnews/article/016/0002547597?sid=101"
+    },
+    {
+        "title": "닌텐도 스위치2, 삼성 OLED TV로 즐긴다! 홍대·대치·청담서 한정 체...",
+        "date": "2025-10-27 08:24",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538157"
+    },
+    {
+        "title": "닌텐도 스위치2, 삼성 OLED로 즐겨보세요",
+        "date": "2025-10-27 08:24",
+        "link": "https://www.ajunews.com/view/20251027080411286"
+    },
+    {
+        "title": "삼성 OLED TV로 '닌텐도 스위치2' 즐겨볼까",
+        "date": "2025-10-27 08:24",
+        "link": "https://n.news.naver.com/mnews/article/277/0005669697?sid=101"
+    },
+    {
+        "title": "삼성스토어에서 '삼성 OLED' TV로 닌텐도 스위치2(Nintendo Switch 2) 즐긴...",
+        "date": "2025-10-27 08:22",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=67492"
+    },
+    {
+        "title": "삼성스토어, 삼성 OLED로 즐기는 닌텐도 스위치2 체험 행사",
+        "date": "2025-10-27 08:20",
+        "link": "https://www.g-enews.com/view.php?ud=2025102708151094136ed0c62d49_1"
+    },
+    {
+        "title": "삼성스토어서 OLED TV로 닌텐도 게임2 즐긴다",
+        "date": "2025-10-27 08:18",
+        "link": "https://n.news.naver.com/mnews/article/001/0015702060?sid=101"
+    },
+    {
+        "title": "삼성전자 삼성스토어, '삼성 OLED' TV로 닌텐도 스위치2 즐긴다",
+        "date": "2025-10-27 08:16",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=235502"
+    },
+    {
+        "title": "삼성 OLED로 '닌텐도 스위치2' 즐긴다…삼성스토어서 체험 이벤트 진행",
+        "date": "2025-10-27 08:16",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=135441"
+    },
+    {
+        "title": "삼성D 독주 흔드는 中…8.6세대 OLED 투자전 가열",
+        "date": "2025-10-27 08:12",
+        "link": "https://dealsite.co.kr/articles/150120"
+    },
+    {
+        "title": "삼성스토어, 삼성 OLED TV로 체험하는 닌텐도 스위치2",
+        "date": "2025-10-27 08:11",
+        "link": "https://n.news.naver.com/mnews/article/001/0015702055?sid=101"
+    },
+    {
+        "title": "삼성스토어, 삼성 OLED TV로 체험하는 닌텐도 스위치2",
+        "date": "2025-10-27 08:11",
+        "link": "https://n.news.naver.com/mnews/article/001/0015702054?sid=101"
+    },
+    {
+        "title": "닌텐도 스위치2, 삼성 OLED로 직접 플레이해보세요",
+        "date": "2025-10-27 08:10",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=388551"
+    },
+    {
+        "title": "삼성스토어, 삼성 OLED TV로 체험하는 닌텐도 스위치2",
+        "date": "2025-10-27 08:10",
+        "link": "https://n.news.naver.com/mnews/article/001/0015702053?sid=101"
+    },
+    {
+        "title": "황제 애플은 어쩌다 노키아 길을 간다는 평가를 받게 됐을까[케이스 스...",
+        "date": "2025-10-27 08:07",
+        "link": "https://n.news.naver.com/mnews/article/050/0000097655?sid=101"
+    },
+    {
+        "title": "캐나다 애플 매장서 일했던 '삼성'씨, 퇴사 후 개명까지 한 이유는",
+        "date": "2025-10-27 08:06",
+        "link": "https://n.news.naver.com/mnews/article/469/0000893964?sid=104"
+    },
+    {
+        "title": "갤럭시 XR 체험 예약 몰려…판매량은 불투명",
+        "date": "2025-10-27 08:02",
+        "link": "https://dealsite.co.kr/articles/150111"
+    },
+    {
+        "title": "저가 공세 펼친 中 디스플레이, 수익률은 수년째 저조",
+        "date": "2025-10-27 08:00",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=529137"
+    },
+    {
+        "title": "스페이스X와 협력하나 애플, '아이폰18 프로'에 위성 5G 지원 가능성 ...",
+        "date": "2025-10-27 07:48",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538150"
+    },
+    {
+        "title": "[더벨][SEDEX 2025]'국내 AMR 선두' 티로보틱스, 글로벌 시장 '정조준'",
+        "date": "2025-10-27 07:48",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202510221555399240108236"
+    },
+    {
+        "title": "[IT썰] 애플 '아이폰18' 기본 모델에도 12GB 램 탑재하나",
+        "date": "2025-10-27 07:31",
+        "link": "https://n.news.naver.com/mnews/article/008/0005268336?sid=105"
+    }
+]
