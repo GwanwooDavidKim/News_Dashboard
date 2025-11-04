@@ -1,35 +1,672 @@
-* https://www.newsis.com/view/NISX20251103_0003387989
-
-3) “LCD 시대 끝났다”…맥북 에어도 2028년 OLED 탑재 예고 - 디지털데일리
-
-- 애플, ‘28년 출시 맥북 에어에 OLED 적용 계획. 이는 아이패드 미니→맥북 프로→아이패드 에어→맥북 에어 순의 OLED 이행 로드맵의 일부
-
-- 맥북 프로는 ‘26년 말 최초로 터치스크린 OLED 모델 전환 예정, 맥북 에어는 M7 칩과 함께 ‘28년 OLED 패널 적용 예정
-
-- OLED 전환은 화질뿐 아니라 전력효율·명암비·두께 절감 등 사용자 경험 향상 목적, 애플의 노트북·태블릿 기술 통합 전략의 핵심 축
-
-- 삼성디스플레이·LG디스플레이 등 한국 패널사 신규 수요 창출 예상, 수율 안정화와 원가 절감이 공급 경쟁의 핵심 관건
-
-* https://www.ddaily.co.kr/page/view/2025110409301476127
-
-4) TV 시장 침체, OLED 모니터로 활로…중장기 성장동력 - 딜사이트
-
-- '25.3Q 삼성 VD사업부 매출 7조3000억원(YoY -4%), VD·DA 부문 1000억원 적자 기록하며 수익성 악화 지속
-
-- 글로벌 TV 시장 정체 속, OLED 모니터 출하량은 ‘25.Q1 기준 50만7000대(YoY +175%)로 연간 285만대(YoY +81%) 전망
-
-- 삼성디스플레이는 충남 아산 QD-OLED 생산라인 중 모니터용 비중을 TV 대비 2.5배로 확대, 수익성이 높은 프리미엄 IT 패널 중심 전략 강화
-
-- OLED 모니터 시장은 중국 진입이 늦고 수명·휘도 안정성 요구가 높아 프리미엄 중심 시장 형성, 삼성에 중장기 수익성 기회 요인으로 평가
-
-* https://dealsite.co.kr/articles/150750
-
-5) ‘퀄컴칩 탑재’ 갤럭시S25·Z폴드7 흥행.. ‘엑시노스’ 플립7은 부진 - 파이낸셜 뉴스
-
-- 갤럭시 S25·Z 폴드7은 퀄컴 스냅드래곤8 엘리트 적용으로 판매 호조, 반면 엑시노스 2500 기반 Z 플립7은 판매 부진으로 세대 간 격차 확대
-
-- S25 시리즈는 7개월간 2561만대(+9.5%) 판매, Z폴드7는 총 187만대(+81%)로 전작 대비 성장하며 퀄컴 칩의 성능 향상 효과 입증
-
-- 삼성은 S26 시리즈에 엑시노스 2600 재도입 검토, 원가절감과 성능균형을 고려해 지역별 AP 이원화 전략 검토 중
-
-* https://www.fnnews.com/news/202511040019382820
+[
+    {
+        "title": "블룸버그 애플, 내년 상반기 저가형 맥 노트북 출시 준비",
+        "date": "2025-11-05 03:37",
+        "link": "https://www.newspim.com/news/view/20251105000010"
+    },
+    {
+        "title": "‘산업포장’ 송하정 삼성디스플레이 상무, 세계 최초 8.5세대 QD-OLED 양...",
+        "date": "2025-11-05 01:00",
+        "link": "https://www.etoday.co.kr/news/view/2521324"
+    },
+    {
+        "title": "11월 1주 주요 제조업 전망",
+        "date": "2025-11-04 23:03",
+        "link": "https://www.laborplus.co.kr/news/articleView.html?idxno=36513"
+    },
+    {
+        "title": "삼성전자, 美 특허괴물에 몸살… 2700억 배상 평결에 불복, 별도 무효소...",
+        "date": "2025-11-04 21:34",
+        "link": "http://woman.chosun.com/news/articleView.html?idxno=123679"
+    },
+    {
+        "title": "삼성 美 OLED 특허소송 패소… 치열해지는 기술패권 경쟁",
+        "date": "2025-11-04 18:10",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251105010002018"
+    },
+    {
+        "title": "'AI 스마트폰' 한발 앞선 삼성...애플은 추격전 준비",
+        "date": "2025-11-04 18:02",
+        "link": "http://www.metroseoul.co.kr/article/20251104500496"
+    },
+    {
+        "title": "예일대 애플 스마트워치로 AI가 심장 이상 탐지 가능",
+        "date": "2025-11-04 18:00",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=203713"
+    },
+    {
+        "title": "4.2Ghz 프라임 코어 탑재 '엑시노스 2600' 긱벤치 등장.. 애플 M5급 성능...",
+        "date": "2025-11-04 17:52",
+        "link": "https://kbench.com/?q=node/272891"
+    },
+    {
+        "title": "中·애플 따돌릴 AI·폴더블폰…삼성 모바일사업 부활 '쌍두마차'",
+        "date": "2025-11-04 17:46",
+        "link": "https://n.news.naver.com/mnews/article/009/0005584558?sid=101"
+    },
+    {
+        "title": "삼성전자, 미 OLED 특허소송서 1억 9천만 달러 배상 평결",
+        "date": "2025-11-04 16:34",
+        "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1502678"
+    },
+    {
+        "title": "美 특허소송 1억9000만 달러 배상 평결에 삼성전자 “불복”",
+        "date": "2025-11-04 16:32",
+        "link": "http://www.segyebiz.com/newsView/20251104515464?OutUrl=naver"
+    },
+    {
+        "title": "한켐 이상조 대표, 대한화학회 '화학경영자상' 쾌거",
+        "date": "2025-11-04 16:16",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=534828"
+    },
+    {
+        "title": "아이폰 폴드, OLED 맥북 프로까지.. 애플, 2026년 최소 15종 신제품 출시",
+        "date": "2025-11-04 16:08",
+        "link": "https://kbench.com/?q=node/272887"
+    },
+    {
+        "title": "삼성전자 “특허소송 2755억 배상 판결…무효소송 적극 전개”",
+        "date": "2025-11-04 16:06",
+        "link": "https://www.asiatime.co.kr/article/20251104500354"
+    },
+    {
+        "title": "애플, 아이폰·에어팟에 한국어 실시간 번역 탑재",
+        "date": "2025-11-04 15:40",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=105145"
+    },
+    {
+        "title": "연구재단, 초저전력 구동 기술로 마이크로 LED 한계 돌파",
+        "date": "2025-11-04 15:36",
+        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1122105"
+    },
+    {
+        "title": "AP 등 부품 가격 급등…갤럭시 S26 가격 오르나",
+        "date": "2025-11-04 15:34",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025110415202163306"
+    },
+    {
+        "title": "‘스냅드래곤’ 아성은 여전…‘엑시노스’ 꺼낸 삼성의 고민",
+        "date": "2025-11-04 15:26",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1280334&inflow=N"
+    },
+    {
+        "title": "중국 공세에 TV 고전…삼성·LG ‘AI·프리미엄’ 승부수",
+        "date": "2025-11-04 15:14",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1280333&inflow=N"
+    },
+    {
+        "title": "삼성D, 3분기 안정적 성장세…내년 '폴더블 아이폰' 출시 여부 변수",
+        "date": "2025-11-04 14:58",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=788494"
+    },
+    {
+        "title": "배심원단 삼성전자가 특허를 '고의'로 침해했다…'사전 인지' 증거 주...",
+        "date": "2025-11-04 14:58",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=95321"
+    },
+    {
+        "title": "美 특허법원 삼성, OLED 특허 침해…1억9천만달러 배상 평결",
+        "date": "2025-11-04 14:52",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=391876"
+    },
+    {
+        "title": "코웨이, '룰루 슬리믹 비데' 출시… 83㎜ 초슬림 디자인+편의 기능",
+        "date": "2025-11-04 14:48",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=282269"
+    },
+    {
+        "title": "삼성 갤럭시 S26 울트라, 끝내 엑시노스 2600 탑재로 가닥... 2나노 신기...",
+        "date": "2025-11-04 14:40",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805658"
+    },
+    {
+        "title": "애플, 아이폰·에어팟에 한국어 실시간 번역 기능 탑재",
+        "date": "2025-11-04 14:36",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=278012"
+    },
+    {
+        "title": "삼성전자, 美 OLED 특허소송 패소…평결 불복, 특허 무효 소송 중",
+        "date": "2025-11-04 14:28",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=146167"
+    },
+    {
+        "title": "[쿠키과학] '커패시터 없는 마이크로 LED'… 고려대, 초저전력 AM 구동 회...",
+        "date": "2025-11-04 14:22",
+        "link": "https://www.kukinews.com/article/view/kuk202511040155"
+    },
+    {
+        "title": "美연방법원, 'OLED특허침해' 삼성전자에 2470억원 배상 평결",
+        "date": "2025-11-04 14:20",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=73763"
+    },
+    {
+        "title": "[기업 소식] 넥슨 '메이플 아지트', 삼성전자 오디세이 게이밍 모니터 ...",
+        "date": "2025-11-04 14:20",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=92781"
+    },
+    {
+        "title": "코웨이, 초슬림 '룰루 슬리믹 비데' 출시",
+        "date": "2025-11-04 14:18",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=33781"
+    },
+    {
+        "title": "삼성전자, 美 법원서 OLED 특허 침해 판결…2739억 배상 명령",
+        "date": "2025-11-04 14:10",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=121189"
+    },
+    {
+        "title": "코웨이, 초슬림 '룰루 슬리믹 비데' 출시",
+        "date": "2025-11-04 14:10",
+        "link": "https://www.consumuch.com/news/articleView.html?idxno=76582"
+    },
+    {
+        "title": "삼성, 美 올레드 특허 2건 침해 판결 불복…무효소송",
+        "date": "2025-11-04 14:08",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=281964"
+    },
+    {
+        "title": "삼성전자, 美특허소송서 1억9천만달러 배상 평결…불복 절차 진행 중, ...",
+        "date": "2025-11-04 13:57",
+        "link": "https://www.polinews.co.kr/news/articleView.html?idxno=712520"
+    },
+    {
+        "title": "삼성 美 OLED 소송 패소…불복 절차 밟을 것",
+        "date": "2025-11-04 13:56",
+        "link": "https://dealsite.co.kr/articles/150772"
+    },
+    {
+        "title": "[해봤습니다] 애플·메타 잡는다 한국형 VR 기기 '갤럭시 XR' 체험기",
+        "date": "2025-11-04 13:56",
+        "link": "https://www.todayeconomic.com/news/article.html?no=28741"
+    },
+    {
+        "title": "신도기연, 디스플레이 장비 명가에서 수소연료전지 강자로",
+        "date": "2025-11-04 13:36",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=391827"
+    },
+    {
+        "title": "스마트폰의 숨은 주역 앤디포스, 글로벌 시장서 빛났다",
+        "date": "2025-11-04 13:16",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=391819"
+    },
+    {
+        "title": "애플 '실시간 번역', 한국어 지원 시작",
+        "date": "2025-11-04 13:12",
+        "link": "https://www.incheontoday.com/news/articleView.html?idxno=310503"
+    },
+    {
+        "title": "OLED 특허침해로 삼성전자 2700억 손배평결",
+        "date": "2025-11-04 13:10",
+        "link": "https://www.naeil.com/news/read/566356?ref=naver"
+    },
+    {
+        "title": "'역대급 현금' 보유 버크셔, 3분기 또 애플 지분 축소한 듯",
+        "date": "2025-11-04 12:32",
+        "link": "https://www.newspim.com/news/view/20251104000881"
+    },
+    {
+        "title": "제49회 국가생산성대회… 대한민국 산업혁신의 심장, 생산성에서 뛴다...",
+        "date": "2025-11-04 12:28",
+        "link": "http://www.energydaily.co.kr/news/articleView.html?idxno=161435"
+    },
+    {
+        "title": "소자 하나로 마이크로 LED 구동…초저전력·소형화 동시 구현",
+        "date": "2025-11-04 12:14",
+        "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/87621"
+    },
+    {
+        "title": "한국연구재단, 마이크로 LED 한계 돌파할 초저전력 구동 기술 소개",
+        "date": "2025-11-04 12:06",
+        "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=390332"
+    },
+    {
+        "title": "연구재단, 마이크로 LED 한계 돌파하는 초저전력 구동 기술 선봬",
+        "date": "2025-11-04 12:02",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=856880"
+    },
+    {
+        "title": "애플, 아이폰·에어팟에 한국어 실시간 번역 도입…대화 중 자동 통역...",
+        "date": "2025-11-04 12:00",
+        "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=230838"
+    },
+    {
+        "title": "더 슬림해졌다... 코웨이, '룰루 슬리믹 비데' 선봬",
+        "date": "2025-11-04 11:56",
+        "link": "https://www.meconomynews.com/news/articleView.html?idxno=122647"
+    },
+    {
+        "title": "삼성전자, 픽티바에 2800억원 배상 평결..특허 2건 침해 판단",
+        "date": "2025-11-04 11:52",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=43247"
+    },
+    {
+        "title": "삼성전자, 미국에서 OLED 특허 소송 패소…2740억원 배상 명령 항소할 ...",
+        "date": "2025-11-04 11:48",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=717170"
+    },
+    {
+        "title": "삼성전자, 美 OLED 특허소송서 '패소'... 2740억원 배상하라",
+        "date": "2025-11-04 11:44",
+        "link": "https://www.insight.co.kr/news/527445"
+    },
+    {
+        "title": "삼성전자, 美 특허소송서 1억9천만달러 배상 평결…불복할것",
+        "date": "2025-11-04 11:44",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251104010001563"
+    },
+    {
+        "title": "애플, iOS 26.1 공식 업데이트 출시... 변경된 핵심 기능은!",
+        "date": "2025-11-04 11:40",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805644"
+    },
+    {
+        "title": "美텍사스 연방법원 삼성전자가 1억9천만달러 배상해야…불복 진행 중...",
+        "date": "2025-11-04 11:34",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=74733"
+    },
+    {
+        "title": "삼성전자, 美 특허소송서 2740억원 배상 평결…불복 예정·특허 무효 소...",
+        "date": "2025-11-04 11:28",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=540050"
+    },
+    {
+        "title": "삼성전자, 美서 또 특허 침해 배상 평결…불복·무효 소송 진행",
+        "date": "2025-11-04 11:26",
+        "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=648449"
+    },
+    {
+        "title": "애플TV, 화려한 새 인트로 공개…인트로·아이콘 변화",
+        "date": "2025-11-04 11:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602079"
+    },
+    {
+        "title": "불편 줄이고 편의성 높였다…iOS 26.1로 업데이트해야 하는 7가지 이유",
+        "date": "2025-11-04 11:20",
+        "link": "https://www.itworld.co.kr/article/4083688/불편-줄이고-편의성-높였다ios-26-1로-업데이트해야-하.html"
+    },
+    {
+        "title": "애플,에어팟·전화에 한국어 '실시간 번역' 적용...내용 사생활보호",
+        "date": "2025-11-04 11:20",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=87295"
+    },
+    {
+        "title": "[Biz&amp;Law] 인종차별에 종교적 편향까지… '오염된' 삼성전자 2700억 배상...",
+        "date": "2025-11-04 11:14",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=678685"
+    },
+    {
+        "title": "코웨이, 초슬림·플랫·풀컬러 디자인 '룰루 슬리믹 비데' 출시",
+        "date": "2025-11-04 11:12",
+        "link": "https://www.pressman.kr/news/articleView.html?idxno=95825"
+    },
+    {
+        "title": "애플, 이번달 신형 '애플 TV·홈팟 미니' 출시 가능성",
+        "date": "2025-11-04 11:08",
+        "link": "https://kbench.com/?q=node/272862"
+    },
+    {
+        "title": "삼성전자, 美 법원 OLED 특허 침해 평결 반박",
+        "date": "2025-11-04 11:04",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=254009"
+    },
+    {
+        "title": "삼성전자, OLED 특허침해로 2747억 배상 평결…항소 방침",
+        "date": "2025-11-04 11:02",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092150250"
+    },
+    {
+        "title": "삼성전자, 미 OLED 특허 소송서 2740억 배상 평결",
+        "date": "2025-11-04 11:02",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1280280&inflow=N"
+    },
+    {
+        "title": "LG디스플레이, 4년 만에 연간 흑자 청신호, 3분기 실적 견인",
+        "date": "2025-11-04 11:02",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=114984"
+    },
+    {
+        "title": "Samsung Ordered to Pay $191.4 Million to Pictiva Displays in OLED Patent ...",
+        "date": "2025-11-04 11:00",
+        "link": "https://www.econotimes.com/Samsung-Ordered-to-Pay-1914-Million-to-Pictiva-Displays-in-OLED-Patent-Infringement-Case-1725002"
+    },
+    {
+        "title": "삼성전자, 美특허소송서 1억9천만달러 배상 평결…불복 절차 밟을 것",
+        "date": "2025-11-04 10:58",
+        "link": "https://www.abcn.kr/news/articleView.html?idxno=84198"
+    },
+    {
+        "title": "이어폰 끼고 외국인과 대화하면 우리말로?…애플 에어팟, 한국어도 실...",
+        "date": "2025-11-04 10:54",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=281916"
+    },
+    {
+        "title": "美특허소송서 삼성전자에 1억9천만달러 배상 평결…불복절차 밟을 것",
+        "date": "2025-11-04 10:52",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=217629"
+    },
+    {
+        "title": "애플, 애플 인텔리전스 AI에 구글 제미나이 도입 추진",
+        "date": "2025-11-04 10:50",
+        "link": "https://www.itworld.co.kr/article/4083672/애플-애플-인텔리전스-ai에-구글-제미나이-도입-추진.html"
+    },
+    {
+        "title": "LG디스플레이, 3분기 턴어라운드 성공 지속 성장 예고",
+        "date": "2025-11-04 10:48",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=462116"
+    },
+    {
+        "title": "美 특허소송서 삼성전자에게 2740억원 배상 평결…불복할 것",
+        "date": "2025-11-04 10:48",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=87294"
+    },
+    {
+        "title": "특허 무효 소송 제기 중 삼성전자, 美 법원 2,740억 배상 평결에 '정면...",
+        "date": "2025-11-04 10:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538560"
+    },
+    {
+        "title": "애플, 아이폰·에어팟에 한국어 실시간 번역 기능 도입",
+        "date": "2025-11-04 10:38",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=124786"
+    },
+    {
+        "title": "83mm 초슬림 디자인 코웨이, '룰루 슬리믹 비데' 출시",
+        "date": "2025-11-04 10:38",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=114977"
+    },
+    {
+        "title": "애플, 스마트안경 서두르나…삼성·메타도 '안경 대전' 박차",
+        "date": "2025-11-04 10:34",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=281902"
+    },
+    {
+        "title": "애플, 11월 신제품 발표 가능성?…과거 사례 살펴보니",
+        "date": "2025-11-04 10:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602003"
+    },
+    {
+        "title": "iOS 27, 애플 인텔리전스 대폭 강화…AI 혁신 예고",
+        "date": "2025-11-04 10:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602008"
+    },
+    {
+        "title": "에이서, '엔비디아 지포스 페스티벌'서 괴물 같은 성능의 '프레테터' 게...",
+        "date": "2025-11-04 10:30",
+        "link": "https://www.betanews.net/article/view/beta202511030086"
+    },
+    {
+        "title": "애플 iOS 26.1 정식 배포…리퀴드 글래스·음악 앱 개선",
+        "date": "2025-11-04 10:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601987"
+    },
+    {
+        "title": "차기 아이폰18 프로, 퀄컴 의존도 줄인다…애플 자체 칩 도입",
+        "date": "2025-11-04 10:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601967"
+    },
+    {
+        "title": "삼성전자, 미국 특허소송서 2740억원 배상 명령···삼성 불복",
+        "date": "2025-11-04 10:18",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=124777"
+    },
+    {
+        "title": "욕실 공간 혁신 코웨이, 83㎜ 초슬림 '룰루 슬리믹 비데' 출시",
+        "date": "2025-11-04 10:18",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=236689"
+    },
+    {
+        "title": "미 법원, 삼성전자에 OLED 특허 침해 배상 명령…2천740억 원 규모",
+        "date": "2025-11-04 10:12",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4053370"
+    },
+    {
+        "title": "[글로벌] 애플, 내년 3월 '새 시리' 공개 예고...구글 제미나이 기반으로...",
+        "date": "2025-11-04 10:06",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=146136"
+    },
+    {
+        "title": "[실리콘 디코드] 삼성 '엑시노스 2600', 애플 A19 프로 전력 효율 59% 압도",
+        "date": "2025-11-04 10:04",
+        "link": "https://www.g-enews.com/view.php?ud=202511041001103082fbbec65dfb_1"
+    },
+    {
+        "title": "삼성전자 美 OLED 특허소송서 패소 2740억 배상",
+        "date": "2025-11-04 10:02",
+        "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=236126"
+    },
+    {
+        "title": "버핏, 3분기에 애플 투자비중 또 줄인 듯",
+        "date": "2025-11-04 09:56",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4382061"
+    },
+    {
+        "title": "애플, 아이폰·에어팟에 한국어 실시간 번역 탑재",
+        "date": "2025-11-04 09:56",
+        "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=74723"
+    },
+    {
+        "title": "삼성전자 미국 OLED 특허소송 패소, 2740억원 배상 평결",
+        "date": "2025-11-04 09:52",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=418350"
+    },
+    {
+        "title": "美 OLED 특허 소송 패소⋯ 삼성전자, “불복 절차 밟는다”",
+        "date": "2025-11-04 09:50",
+        "link": "https://www.viva100.com/article/20251104500264"
+    },
+    {
+        "title": "안녕하세요 애플, 아이폰·에어팟에 한국어 실시간 번역 탑재",
+        "date": "2025-11-04 09:48",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=255799"
+    },
+    {
+        "title": "삼성전자, 미국 OLED 특허 소송서 2740억원 배상 판결",
+        "date": "2025-11-04 09:46",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=110589"
+    },
+    {
+        "title": "애플, 차세대 '시리' 혁신에 구글 커스텀 제미나이 모델 활용",
+        "date": "2025-11-04 09:46",
+        "link": "https://kbench.com/?q=node/272850"
+    },
+    {
+        "title": "[돌파구 찾는 삼성 VD] TV 시장 침체, OLED 모니터로 활로…중장기 성장...",
+        "date": "2025-11-04 09:42",
+        "link": "https://dealsite.co.kr/articles/150750"
+    },
+    {
+        "title": "삼성전자, '특허괴물'에 물렸다…美서 OLED 기술침해로 거액 배상 평결",
+        "date": "2025-11-04 09:38",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7135070"
+    },
+    {
+        "title": "미 OLED 특허 소송 패소한 삼성전자 불복할 것… 승소 기대",
+        "date": "2025-11-04 09:32",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3335883"
+    },
+    {
+        "title": "삼성, 美특허소송서 1억9140만달러 배상명령",
+        "date": "2025-11-04 09:32",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000011638"
+    },
+    {
+        "title": "“LCD 시대 끝났다”…맥북 에어도 2028년 OLED 탑재 예고",
+        "date": "2025-11-04 09:31",
+        "link": "https://n.news.naver.com/mnews/article/138/0002208560?sid=105"
+    },
+    {
+        "title": "Samsung Electronics Challenges $191M OLED Patent Infringement Verdict",
+        "date": "2025-11-04 09:30",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=255584"
+    },
+    {
+        "title": "화웨이 초슬림폰 '메이트 70 에어' 실물 사진 유출",
+        "date": "2025-11-04 09:30",
+        "link": "https://kbench.com/?q=node/272849"
+    },
+    {
+        "title": "애플, 아이폰·에어팟에 한국어 실시간 번역 탑재",
+        "date": "2025-11-04 09:28",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=691038"
+    },
+    {
+        "title": "美특허소송서 삼성전자에 1억9천만달러 배상 평결…불복할것",
+        "date": "2025-11-04 09:26",
+        "link": "https://sateconomy.co.kr/news/view/1065572400629195"
+    },
+    {
+        "title": "코웨이, 초슬림 디자인 '룰루 슬리믹 비데' 출시",
+        "date": "2025-11-04 09:24",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3335881"
+    },
+    {
+        "title": "삼성전자, 美 특허 소송서 2740억원 배상 평결 받아...즉각 불복 절차",
+        "date": "2025-11-04 09:16",
+        "link": "http://www.newscape.co.kr/news/articleView.html?idxno=117202"
+    },
+    {
+        "title": "삼성전자, 美 특허소송서 1.9억달러 배상 평결…삼성 불복할 것",
+        "date": "2025-11-04 09:16",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4382042"
+    },
+    {
+        "title": "코웨이, 슬림 디자인 '룰루 슬리믹 비데' 출시",
+        "date": "2025-11-04 09:08",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1291063"
+    },
+    {
+        "title": "삼성, 美 특허소송서 2740억 배상 평결…OLED 기술 침해 인정",
+        "date": "2025-11-04 09:06",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=817147"
+    },
+    {
+        "title": "코웨이, 감각적인 플랫 디자인의 '룰루 슬리믹 비데' 출시...슬림해진 ...",
+        "date": "2025-11-04 09:06",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=100065"
+    },
+    {
+        "title": "애플, 앱스토어 웹 버전 대규모 개편…아이폰 없이도 탐색 가능",
+        "date": "2025-11-04 09:04",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601957"
+    },
+    {
+        "title": "애플, 아이폰 iOS 26.1 업데이트 정식 배포",
+        "date": "2025-11-04 09:04",
+        "link": "https://www.etoday.co.kr/news/view/2521765"
+    },
+    {
+        "title": "삼성전자, 美 OLED 특허소송서 2700억원 배상 평결",
+        "date": "2025-11-04 09:00",
+        "link": "https://www.ajunews.com/view/20251104085120444"
+    },
+    {
+        "title": "애플, 워치OS·tvOS 26.1 업데이트 배포…성능 개선에 초점",
+        "date": "2025-11-04 08:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601947"
+    },
+    {
+        "title": "“슬림해진 두께에 혁신 더하다” 코웨이, ‘룰루 슬리믹 비데’ 출시",
+        "date": "2025-11-04 08:58",
+        "link": "http://theviewers.co.kr/View.aspx?No=3840029"
+    },
+    {
+        "title": "11월 3일 주식시장 주요공시",
+        "date": "2025-11-04 08:50",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=116313"
+    },
+    {
+        "title": "美법원 삼성전자, OLED 특허 침해…2700억원 배상하라",
+        "date": "2025-11-04 08:50",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=255777"
+    },
+    {
+        "title": "애플, 에어팟·전화 등에 '실시간 번역' 기능 적용···한국어도 지원",
+        "date": "2025-11-04 08:48",
+        "link": "https://www.ajunews.com/view/20251104083542423"
+    },
+    {
+        "title": "삼성전자, 미국 OLED 특허 침해...2740억 배상 판결",
+        "date": "2025-11-04 08:44",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=655659"
+    },
+    {
+        "title": "애플, 시리 대변신 예고…구글 제미나이 협력 가능성",
+        "date": "2025-11-04 08:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=601940"
+    },
+    {
+        "title": "삼성전자, 美 OLED 특허소송 패소…2700억 배상 평결",
+        "date": "2025-11-04 08:24",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=675722"
+    },
+    {
+        "title": "삼성전자, 美 OLED 특허소송서 1억9천만달러 배상 평결",
+        "date": "2025-11-04 08:22",
+        "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1046670"
+    },
+    {
+        "title": "미국 법원 삼성전자, 2740억 배상하라...OLED 기술 특허 침해",
+        "date": "2025-11-04 08:20",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3045150"
+    },
+    {
+        "title": "애플, 에어팟·전화·페이스타임에 '실시간 번역' 지원…한·일·중국어...",
+        "date": "2025-11-04 08:16",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=391644"
+    },
+    {
+        "title": "2026년 신제품 총정리 애플, 창립 50주년 맞아 아이폰·맥북·스마트 ...",
+        "date": "2025-11-04 08:10",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538543"
+    },
+    {
+        "title": "[더벨][네온테크·GIS 합병 로드맵]슈퍼 사이클 진입한 MLCC, 장비 경쟁력...",
+        "date": "2025-11-04 08:08",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511030950364640104968"
+    },
+    {
+        "title": "삼성, 2,740억 원 배상하라 美 텍사스 배심원단, OLED 특허 침해 평결",
+        "date": "2025-11-04 08:04",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538544"
+    },
+    {
+        "title": "삼성전자, 美 OLED 특허 침해로 1억9천만달러 배상 평결",
+        "date": "2025-11-04 08:00",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2099211"
+    },
+    {
+        "title": "美특허법원 배심원단, 삼성전자에 1억9000만 달러 배상 평결⋯“평결 불...",
+        "date": "2025-11-04 08:00",
+        "link": "https://www.etoday.co.kr/news/view/2521695"
+    },
+    {
+        "title": "삼성전자, 美 특허소송서 2,740억 원 배상 평결… OLED 기술 침해",
+        "date": "2025-11-04 07:46",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=105660"
+    },
+    {
+        "title": "삼성전자, 美 OLED 특허소송서 1억9천만달러 배상 평결",
+        "date": "2025-11-04 07:42",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=197342"
+    },
+    {
+        "title": "[코스피·코스닥, 한화에어로스페이스  HD현대 동아에스티 SK바이오사이...",
+        "date": "2025-11-04 07:40",
+        "link": "https://www.public25.com/news/articleView.html?idxno=33200"
+    },
+    {
+        "title": "삼성전자, 美 OLED 특허소송서 2740억원 배상 평결",
+        "date": "2025-11-04 07:34",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=847388"
+    },
+    {
+        "title": "애플, 구글과 손잡았다..차세대 시리의 인공지능 엔진은 제미나이",
+        "date": "2025-11-04 07:24",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538540"
+    },
+    {
+        "title": "삼성전자, 美 OLED 특허소송서 1억9천만달러 배상 평결",
+        "date": "2025-11-04 07:00",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=690916"
+    }
+]
