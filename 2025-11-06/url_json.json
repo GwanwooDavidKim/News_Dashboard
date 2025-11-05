@@ -1,1 +1,767 @@
-
+[
+    {
+        "title": "삼성전자, 소상공인과 매장 내 '무빙스타일' 활용 아이디어 공유",
+        "date": "2025-11-06 01:52",
+        "link": "https://www.apnews.kr/news/articleView.html?idxno=3041927"
+    },
+    {
+        "title": "LG전자, 인도서 아이폰17 생산장비 첫 공급… 애플과 더 밀착",
+        "date": "2025-11-06 00:49",
+        "link": "https://n.news.naver.com/mnews/article/005/0001812599?sid=101"
+    },
+    {
+        "title": "애플, 파격 변신 예고… '1천 달러 이하' 저가형 맥북 내년 출시 가능성",
+        "date": "2025-11-06 00:08",
+        "link": "https://www.tokenpost.kr/news/tech/300099"
+    },
+    {
+        "title": "폴더블 아이폰에 저가형 맥북…혁신 나선 위기의 애플",
+        "date": "2025-11-06 00:01",
+        "link": "https://n.news.naver.com/mnews/article/025/0003480707?sid=101"
+    },
+    {
+        "title": "삼성전자, 소상공인과 함께 매장 내 '무빙스타일' 활용 아이디어 나눠",
+        "date": "2025-11-05 23:14",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=76500"
+    },
+    {
+        "title": "필립스, UHD 240Hz &amp; FHD 480Hz 듀얼 모드 27인치 게이밍 모니터 출시",
+        "date": "2025-11-05 21:44",
+        "link": "https://gamefocus.co.kr/detail.php?number=170787"
+    },
+    {
+        "title": "삼성전자, 소상공인과 함께 매장 내 '무빙스타일' 활용 아이디어 나눠",
+        "date": "2025-11-05 19:20",
+        "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160291921043444"
+    },
+    {
+        "title": "LG전자, 애플에 생산 장비 첫 공급",
+        "date": "2025-11-05 19:00",
+        "link": "https://n.news.naver.com/mnews/article/014/0005430365?sid=101"
+    },
+    {
+        "title": "올해 미니 LED TV 출하량 OLED TV의 1.8배",
+        "date": "2025-11-05 18:38",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=43384"
+    },
+    {
+        "title": "LG전자, 아이폰 생산장비 첫 공급…애플과 협력 확대",
+        "date": "2025-11-05 18:36",
+        "link": "https://www.etoday.co.kr/news/view/2522596"
+    },
+    {
+        "title": "곧 연간 흑자전환 LG디스플레이...우리만의 해자 만들자",
+        "date": "2025-11-05 18:30",
+        "link": "https://n.news.naver.com/mnews/article/025/0003480670?sid=101"
+    },
+    {
+        "title": "LG전자, 인도서 아이폰 생산장비 첫 공급… 애플 협력 강화",
+        "date": "2025-11-05 18:28",
+        "link": "https://www.ajunews.com/view/20251105182437978"
+    },
+    {
+        "title": "LG전자, 애플에 아이폰 생산용 스마트팩토리 솔루션 첫 공급",
+        "date": "2025-11-05 18:16",
+        "link": "https://www.g-enews.com/view.php?ud=2025110514364483516ed0c62d49_1"
+    },
+    {
+        "title": "초슬림·폴더블 이어 저가형 맥북까지…애플, 체질 변화 나선다",
+        "date": "2025-11-05 18:00",
+        "link": "https://n.news.naver.com/mnews/article/025/0003480659?sid=101"
+    },
+    {
+        "title": "블룸버그 애플 저가형 가성비 맥북 출시 준비",
+        "date": "2025-11-05 17:47",
+        "link": "https://n.news.naver.com/mnews/article/422/0000798585?sid=104"
+    },
+    {
+        "title": "'연간 흑자' 눈앞 LGD…정철동 사장 모방 어려운 기술로 경쟁력 확보",
+        "date": "2025-11-05 17:43",
+        "link": "https://n.news.naver.com/mnews/article/293/0000074596?sid=101"
+    },
+    {
+        "title": "애플, '프리미엄 전략'서 물러섰나…'가성비 맥북' 출시 준비",
+        "date": "2025-11-05 17:42",
+        "link": "https://n.news.naver.com/mnews/article/422/0000798583?sid=105"
+    },
+    {
+        "title": "삼성전자, 소상공인 참여 매장 내 '무빙스타일' 활용 아이디어 공유",
+        "date": "2025-11-05 17:40",
+        "link": "https://www.100ssd.co.kr/news/articleView.html?idxno=202551"
+    },
+    {
+        "title": "LG전자, 아이폰 생산장비 첫 공급...애플 협력 확대",
+        "date": "2025-11-05 17:38",
+        "link": "https://n.news.naver.com/mnews/article/023/0003939139?sid=105"
+    },
+    {
+        "title": "LG전자, 아이폰 생산장비 사상 첫 공급",
+        "date": "2025-11-05 17:38",
+        "link": "https://n.news.naver.com/mnews/article/009/0005585242?sid=101"
+    },
+    {
+        "title": "엑시노스 2600이 애플 M5와 동급? 삼성전자, 갤럭시 S26 탑재 AP 놓고 ...",
+        "date": "2025-11-05 17:30",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=73879"
+    },
+    {
+        "title": "LG전자, 아이폰 공장에 생산장비 공급…애플과 협력 확대",
+        "date": "2025-11-05 17:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0008587564?sid=101"
+    },
+    {
+        "title": "저가형 안 만든다더니...위기감 느낀 애플 '태세 전환' [지금이뉴스]",
+        "date": "2025-11-05 17:28",
+        "link": "https://n.news.naver.com/mnews/article/052/0002269097?sid=104"
+    },
+    {
+        "title": "애플 신형 맥 스튜디오 성능은 '울트라'…M5 울트라 칩 탑재 전망",
+        "date": "2025-11-05 17:26",
+        "link": "https://kbench.com/?q=node/272944"
+    },
+    {
+        "title": "LG전자, '아이폰17' 생산 장비 공급…애플과 협력 확대",
+        "date": "2025-11-05 17:12",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=676188"
+    },
+    {
+        "title": "니쥬 니나, 미세스 그린 애플 기타리스트와 열애설… JYP “친한 선후배...",
+        "date": "2025-11-05 17:11",
+        "link": "https://m.entertain.naver.com/article/241/0003475753"
+    },
+    {
+        "title": "'애플' 저가형 맥북 출시 가능성…전략 변화에 주가·PC시장 주목",
+        "date": "2025-11-05 17:10",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15864813"
+    },
+    {
+        "title": "삼성전자, 애플 '아이폰 에어' 저격⋯더 다채롭고, 극적이고, 선명",
+        "date": "2025-11-05 17:03",
+        "link": "https://n.news.naver.com/mnews/article/031/0000978286?sid=105"
+    },
+    {
+        "title": "LG전자, 애플과 협력 확대…아이폰17 생산 장비 첫 공급",
+        "date": "2025-11-05 17:02",
+        "link": "https://n.news.naver.com/mnews/article/015/0005207427?sid=101"
+    },
+    {
+        "title": "애플 저가 시장 진출하나...가성비 맥북 출시 준비",
+        "date": "2025-11-05 16:57",
+        "link": "https://n.news.naver.com/mnews/article/052/0002269066?sid=104"
+    },
+    {
+        "title": "콧대 높던 애플, '가성비 맥북' 내놓는다",
+        "date": "2025-11-05 16:53",
+        "link": "https://n.news.naver.com/mnews/article/215/0001229716?sid=101"
+    },
+    {
+        "title": "[드림&amp;톡톡] 김승연 회장의 애플 사랑…'이재용은 서운해'",
+        "date": "2025-11-05 16:50",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=99359"
+    },
+    {
+        "title": "삼성전자, 소상공인과 함께 '무빙스타일' 매장 활용 아이디어 공유",
+        "date": "2025-11-05 16:46",
+        "link": "http://www.dailypop.kr/news/articleView.html?idxno=92879"
+    },
+    {
+        "title": "인터넷이 왜 느리지⋯아이폰17, '핑테스트' 해보셨나요? [이슈크래커]",
+        "date": "2025-11-05 16:46",
+        "link": "https://www.etoday.co.kr/news/view/2522540"
+    },
+    {
+        "title": "콧대 낮춘 애플?…가성비 맥북 출시 준비",
+        "date": "2025-11-05 16:38",
+        "link": "https://n.news.naver.com/mnews/article/001/0015726396?sid=104"
+    },
+    {
+        "title": "삼성 '무빙스타일', 소상공인 어떻게 쓰나 봤더니",
+        "date": "2025-11-05 16:38",
+        "link": "https://n.news.naver.com/mnews/article/014/0005430200?sid=101"
+    },
+    {
+        "title": "LG전자, 인도서 애플 아이폰 생산장비 첫 공급",
+        "date": "2025-11-05 16:29",
+        "link": "https://n.news.naver.com/mnews/article/003/0013583466?sid=101"
+    },
+    {
+        "title": "LG전자, 아이폰 생산장비 첫 공급···애플과 협력 확대",
+        "date": "2025-11-05 16:20",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=110888"
+    },
+    {
+        "title": "삼성전자 갤럭시S26 최대 100달러 인상 검토, 노태문 칩·카메라 부품 단...",
+        "date": "2025-11-05 16:06",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=418645"
+    },
+    {
+        "title": "매출이 올라가는 스크린 삼성전자, 소상공인 위한 '무빙스타일 202 포...",
+        "date": "2025-11-05 16:06",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538624"
+    },
+    {
+        "title": "“애플, 내년 상반기 저가형 노트북 첫 출시 준비 중”",
+        "date": "2025-11-05 15:58",
+        "link": "https://www.etoday.co.kr/news/view/2522493"
+    },
+    {
+        "title": "“깜빡임 없는 초저전력 LCD”…전북대 김민수교수, 플렉소일렉트릭 효...",
+        "date": "2025-11-05 15:51",
+        "link": "https://n.news.naver.com/mnews/article/002/0002413093?sid=102"
+    },
+    {
+        "title": "LG전자, 아이폰 생산장비 첫 공급…애플 협력 전방위 확대",
+        "date": "2025-11-05 15:44",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1292169"
+    },
+    {
+        "title": "애플, 사상 첫 '저가형 맥북' 출시 준비…노트북 시장 경쟁 격화 전망",
+        "date": "2025-11-05 15:28",
+        "link": "https://www.ajunews.com/view/20251105151423735"
+    },
+    {
+        "title": "LG전자, 아이폰 생산장비 첫 공급…애플 협력 확대",
+        "date": "2025-11-05 15:15",
+        "link": "https://n.news.naver.com/mnews/article/277/0005675008?sid=101"
+    },
+    {
+        "title": "LG전자, 아이폰 생산장비 첫 공급…애플과 협력 확대",
+        "date": "2025-11-05 15:10",
+        "link": "https://n.news.naver.com/mnews/article/119/0003021419?sid=101"
+    },
+    {
+        "title": "애플 협력사 中 렌즈테크, 두봇 로봇 1000대 도입",
+        "date": "2025-11-05 15:06",
+        "link": "https://www.irobotnews.com/news/articleView.html?idxno=43197"
+    },
+    {
+        "title": "아이폰17 흥행 잇는 삼성D…애플 폴더블 '출시 시점 변수'에도 낙관론 우...",
+        "date": "2025-11-05 15:04",
+        "link": "https://www.newspim.com/news/view/20251105000921"
+    },
+    {
+        "title": "아이폰·에어팟 한국어도 실시간 번역... 애플 iOS26.1 핵심 기능 봤더...",
+        "date": "2025-11-05 15:04",
+        "link": "https://www.insight.co.kr/news/527608"
+    },
+    {
+        "title": "LG전자, 인도 애플 공장에 아이폰17 '생산 장비' 첫 납품",
+        "date": "2025-11-05 15:04",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/11/05/2025110500339.html"
+    },
+    {
+        "title": "삼성 갤럭시S 신작, 5년 만에 3월 출시…가격도 인상 유력",
+        "date": "2025-11-05 15:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003367208?sid=105"
+    },
+    {
+        "title": "올해 노트북용 OLED 시장 정체…내년 본격 성장 전망",
+        "date": "2025-11-05 15:00",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=847736"
+    },
+    {
+        "title": "‘AI 스마트폰’ 후끈…삼성·애플 모바일 AI 주도권 경쟁",
+        "date": "2025-11-05 14:58",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1280500&inflow=N"
+    },
+    {
+        "title": "구광모의 LG '전자 삼각편대', 선택·집중 전략 내년이 성패 가름",
+        "date": "2025-11-05 14:56",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=278242"
+    },
+    {
+        "title": "삼성전자, 소상공인과 무빙스타일 활용 포럼 진행",
+        "date": "2025-11-05 14:56",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3045678"
+    },
+    {
+        "title": "삼성전자, 소상공인과 '무빙스타일' 활용 아이디어 공유",
+        "date": "2025-11-05 14:56",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2141016"
+    },
+    {
+        "title": "주인 맘대로 모양 바꾸는 스크린··· 삼성전자 '무빙스타일', 소상공인...",
+        "date": "2025-11-05 14:52",
+        "link": "https://www.greenpostkorea.co.kr/news/articleView.html?idxno=304753"
+    },
+    {
+        "title": "LG전자, 애플에 '아이폰' 생산장비 첫 공급… 협력 확대",
+        "date": "2025-11-05 14:36",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3336541"
+    },
+    {
+        "title": "[AI의 종목 이야기] 애플 사상 첫 저가형 맥북으로 크롬북 겨냥",
+        "date": "2025-11-05 14:21",
+        "link": "https://www.newspim.com/news/view/20251105000830"
+    },
+    {
+        "title": "서린씨앤아이, 리안리 GALAHAD II LCD 280 TL Wireless 국내 정식 출시",
+        "date": "2025-11-05 14:18",
+        "link": "https://www.ibabynews.com/news/articleView.html?idxno=142115"
+    },
+    {
+        "title": "삼성전자, 소상공인과 함께 매장 내 '무빙스타일' 활용 아이디어 '모여...",
+        "date": "2025-11-05 14:14",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=535270"
+    },
+    {
+        "title": "고해상도 IPS LCD 품은 수랭 쿨러... 리안리 GALAHAD II LCD 280 TL Wireless",
+        "date": "2025-11-05 14:14",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56723"
+    },
+    {
+        "title": "LG전자, 애플 아이폰 생산장비 첫 공급…자동화 기술력 인정",
+        "date": "2025-11-05 14:03",
+        "link": "https://n.news.naver.com/mnews/article/018/0006156723?sid=101"
+    },
+    {
+        "title": "삼성전자, 소상공인의 날 맞아 '무빙스타일 202 소상공인 포럼' 진행",
+        "date": "2025-11-05 13:58",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=243953"
+    },
+    {
+        "title": "LG전자, 아이폰 생산장비 첫 공급…애플과 협력 확대",
+        "date": "2025-11-05 13:56",
+        "link": "https://n.news.naver.com/mnews/article/032/0003406779?sid=101"
+    },
+    {
+        "title": "“갤럭시 엣지가 이긴다”… 애플 아이폰 에어 저격한 삼성전자",
+        "date": "2025-11-05 13:39",
+        "link": "https://n.news.naver.com/mnews/article/366/0001120363?sid=105"
+    },
+    {
+        "title": "왜 이렇게 아이폰이 많아요?…이재용의 농담 속 숨은 삼성의 '자신감...",
+        "date": "2025-11-05 13:30",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=224960"
+    },
+    {
+        "title": "“올해 노트북용 OLED 시장 정체…내년부터 본격 성장 전망”",
+        "date": "2025-11-05 13:27",
+        "link": "https://n.news.naver.com/mnews/article/119/0003021317?sid=101"
+    },
+    {
+        "title": "애플, 사상 첫 ‘저가형 맥 노트북’ 출시 준비",
+        "date": "2025-11-05 13:23",
+        "link": "https://n.news.naver.com/mnews/article/009/0005584938?sid=101"
+    },
+    {
+        "title": "삼성전자, 소상공인과 함께 매장 내 '무빙스타일' 활용 아이디어 나눠",
+        "date": "2025-11-05 13:22",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=100333"
+    },
+    {
+        "title": "갤럭시 S26 시리즈, 부품가 상승 여파로 출고가 인상 전망",
+        "date": "2025-11-05 13:20",
+        "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=507388"
+    },
+    {
+        "title": "2025년 노트북용 OLED 시장 정체…2026년부터 성장 본격화 전망",
+        "date": "2025-11-05 13:16",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=785368"
+    },
+    {
+        "title": "LG전자, 애플 아이폰17 생산장비 첫 공급",
+        "date": "2025-11-05 13:04",
+        "link": "https://n.news.naver.com/mnews/article/366/0001120346?sid=105"
+    },
+    {
+        "title": "LG전자, 아이폰 생산장비 첫 공급…애플과 협력 확대",
+        "date": "2025-11-05 13:04",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=710475"
+    },
+    {
+        "title": "전북대 김민수 연구교수, 상용화 가능한 초저전력 LCD개발",
+        "date": "2025-11-05 13:00",
+        "link": "https://n.news.naver.com/mnews/article/031/0000978175?sid=102"
+    },
+    {
+        "title": "2025년 노트북용 OLED 시장 정체.. 2026년부터 본격 성장 전망",
+        "date": "2025-11-05 12:42",
+        "link": "https://kbench.com/?q=node/272922"
+    },
+    {
+        "title": "OLED와 3D 모니터까지 '삼성 오디세이 존' 갖춘 넥슨의 '메이플 아지트'",
+        "date": "2025-11-05 12:38",
+        "link": "https://game.donga.com/120010/"
+    },
+    {
+        "title": "김민수 전북대 연구교수, 상용화 가능한 초저전력 LCD 개발",
+        "date": "2025-11-05 12:35",
+        "link": "https://n.news.naver.com/mnews/article/030/0003367051?sid=102"
+    },
+    {
+        "title": "삼성전자, 소상공인과 함께 매장 내 '무빙스타일' 활용 아이디어 나눠",
+        "date": "2025-11-05 12:34",
+        "link": "https://kbench.com/?q=node/272919"
+    },
+    {
+        "title": "김민수 연구교수, 상용화 가능한 초저전력 LCD 개발",
+        "date": "2025-11-05 12:30",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=580615"
+    },
+    {
+        "title": "'애플 변수'에 달린 OLED 노트북 시장…내년 반등 전망",
+        "date": "2025-11-05 11:40",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1685343"
+    },
+    {
+        "title": "애플, 아이폰 칩 탑재한 '반값 맥북' 출시 개발 본격화... 2026년 상반기...",
+        "date": "2025-11-05 11:40",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805699"
+    },
+    {
+        "title": "삼성 갤럭시 S26, 가격 인상되나... 과열된 'AI 투자' 부메랑 소비자가 ...",
+        "date": "2025-11-05 11:40",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805700"
+    },
+    {
+        "title": "“스마트홈을 완성하는 마법의 기술” 지오펜싱 실전 활용법",
+        "date": "2025-11-05 11:30",
+        "link": "https://www.itworld.co.kr/article/4084525/스마트홈을-완성하는-마법의-기술-지오펜싱-실.html"
+    },
+    {
+        "title": "LG전자, 아이폰 생산장비 첫 공급...애플과 전방위 협력",
+        "date": "2025-11-05 11:28",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=105184"
+    },
+    {
+        "title": "LG전자, 애플 아이폰 공장에 생산 장비 첫 공급",
+        "date": "2025-11-05 11:24",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1280471&inflow=N"
+    },
+    {
+        "title": "삼성전자, 소상공인과 무빙스타일 활용 아이디어 공유",
+        "date": "2025-11-05 11:20",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=540173"
+    },
+    {
+        "title": "노트북 OLED 패널, 올해도 1000만대 수준…내년 반등 전망",
+        "date": "2025-11-05 11:19",
+        "link": "https://n.news.naver.com/mnews/article/031/0000978136?sid=105"
+    },
+    {
+        "title": "LG전자, 인도서 아이폰 생산장비 첫 공급…애플 협력 범위 넓혔다",
+        "date": "2025-11-05 11:16",
+        "link": "https://www.newspim.com/news/view/20251105000475"
+    },
+    {
+        "title": "코드명 'J700' 애플 첫 저가형 맥북 2026년 상반기 출시",
+        "date": "2025-11-05 11:12",
+        "link": "https://kbench.com/?q=node/272912"
+    },
+    {
+        "title": "LG전자, 애플에 '아이폰' 생산장비 첫 공급",
+        "date": "2025-11-05 11:04",
+        "link": "https://n.news.naver.com/mnews/article/422/0000798420?sid=101"
+    },
+    {
+        "title": "LG전자 인도 아이폰 생산공장에 자동화 장비 공급, 애플과 협력 강화",
+        "date": "2025-11-05 11:02",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=418598"
+    },
+    {
+        "title": "삼성전자, ‘무빙스타일 202 소상공인 포럼’ 개최…“매장 혁신 아이디...",
+        "date": "2025-11-05 11:01",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000084383"
+    },
+    {
+        "title": "'메이크인 인디아' LG전자, 애플과도 협력 확대…인도 공장에 아이폰 생...",
+        "date": "2025-11-05 10:57",
+        "link": "https://n.news.naver.com/mnews/article/138/0002208751?sid=105"
+    },
+    {
+        "title": "서린씨앤아이, 리안리 GALAHAD II LCD 280 TL Wireless 국내 정식 출시",
+        "date": "2025-11-05 10:56",
+        "link": "https://gamefocus.co.kr/detail.php?number=170751"
+    },
+    {
+        "title": "삼성전자, 소상공인과 매장 내 '무빙스타일' 활용 아이디어 나눠",
+        "date": "2025-11-05 10:56",
+        "link": "https://n.news.naver.com/mnews/article/277/0005674819?sid=101"
+    },
+    {
+        "title": "LG전자, 애플 아이폰 공장에 생산장비 첫 공급…애플과 협력 전방위 확...",
+        "date": "2025-11-05 10:48",
+        "link": "https://n.news.naver.com/mnews/article/011/0004552176?sid=101"
+    },
+    {
+        "title": "LG전자, 아이폰17 생산 장비 첫 공급…애플과 협력 전방위 확대",
+        "date": "2025-11-05 10:44",
+        "link": "https://n.news.naver.com/mnews/article/117/0004005623?sid=105"
+    },
+    {
+        "title": "삼성전자, 소상공인들과 '무빙스타일' 아이디어 나눠",
+        "date": "2025-11-05 10:44",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=95414"
+    },
+    {
+        "title": "LG전자, 印 아이폰 공장에 장비 첫 공급…애플과 협력 확대",
+        "date": "2025-11-05 10:43",
+        "link": "https://n.news.naver.com/mnews/article/030/0003366956?sid=105"
+    },
+    {
+        "title": "애플, 첫 보급형 맥북 내놓는다…크롬북·윈도 PC 겨냥",
+        "date": "2025-11-05 10:40",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092150326"
+    },
+    {
+        "title": "애플, 아이폰 칩셋 탑재한 저가형 맥북 만든다",
+        "date": "2025-11-05 10:38",
+        "link": "https://byline.network/?p=9004111222582631"
+    },
+    {
+        "title": "5억대 돌파한 AI폰, 삼성·애플 프리미엄 독주 깨고 대중화 본격화",
+        "date": "2025-11-05 10:38",
+        "link": "https://n.news.naver.com/mnews/article/009/0005584833?sid=101"
+    },
+    {
+        "title": "서린씨앤아이, 리안리 GALAHAD II LCD 280 TL Wireless 국내 정식 출시",
+        "date": "2025-11-05 10:38",
+        "link": "https://kbench.com/?q=node/272907"
+    },
+    {
+        "title": "왓츠앱, 애플워치OS 정식 지원…이제 손목에서 메시지·통화까지",
+        "date": "2025-11-05 10:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602369"
+    },
+    {
+        "title": "[실리콘 디코드] 삼성 엑시노스 2600, 'M5급 성능' 유출…2나노 GAA '진위...",
+        "date": "2025-11-05 10:32",
+        "link": "https://www.g-enews.com/view.php?ud=20251105102957697fbbec65dfb_1"
+    },
+    {
+        "title": "갤럭시 S26 가격 오르나…AP 칩 등 주요 부품 가격 인상 후폭풍",
+        "date": "2025-11-05 10:30",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=282011"
+    },
+    {
+        "title": "LG전자,아이폰 생산장비 첫 공급…애플과 협력 전방위 확대",
+        "date": "2025-11-05 10:26",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=87319"
+    },
+    {
+        "title": "아이폰 17, 케이스 빼다가 휘어져.. 셀룰러 문제도 여전 [1일IT템]",
+        "date": "2025-11-05 10:26",
+        "link": "https://n.news.naver.com/mnews/article/014/0005429883?sid=105"
+    },
+    {
+        "title": "연간 흑자 목전에 둔 LG디스플레이… “영속 가능 경쟁력 강화 위해 변...",
+        "date": "2025-11-05 10:22",
+        "link": "https://www.news2day.co.kr/article/20251105500129"
+    },
+    {
+        "title": "[오늘 뭐했니?] 삼성전자",
+        "date": "2025-11-05 10:16",
+        "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=38073"
+    },
+    {
+        "title": "삼성전자, 소상공인과 매장 내 ‘무빙스타일’ 활용 아이디어 공유",
+        "date": "2025-11-05 10:16",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=78939"
+    },
+    {
+        "title": "LG전자, 애플 아이폰17 생산 장비 첫 공급…글로벌 제조 경쟁력 입증",
+        "date": "2025-11-05 10:14",
+        "link": "https://www.socialvalue.kr/news/view/1065575196627378"
+    },
+    {
+        "title": "삼성전자, 소상공인과 매장 내 ‘무빙스타일’ 활용 아이디어 나눠",
+        "date": "2025-11-05 10:12",
+        "link": "https://www.cnbnews.com/news/article.html?no=759068"
+    },
+    {
+        "title": "애플, iOS 26.2 첫 번째 베타 출시…신기능은?",
+        "date": "2025-11-05 10:03",
+        "link": "https://n.news.naver.com/mnews/article/092/0002396987?sid=105"
+    },
+    {
+        "title": "삼성전자, 소상공인과 무빙스타일 활용 아이디어 공유",
+        "date": "2025-11-05 10:03",
+        "link": "https://n.news.naver.com/mnews/article/016/0002552926?sid=101"
+    },
+    {
+        "title": "LG전자, 애플 아이폰 생산 장비 첫 공급…전방위 협력 확대",
+        "date": "2025-11-05 10:02",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1685309"
+    },
+    {
+        "title": "LG전자, 애플 아이폰17 생산 장비 최초 공급",
+        "date": "2025-11-05 10:00",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=124919"
+    },
+    {
+        "title": "[초점] 삼성·LGD, 아이폰17 패널 98% '석권'…BOE, 품질 한계에 '휘청'",
+        "date": "2025-11-05 09:58",
+        "link": "https://www.g-enews.com/view.php?ud=202511050955146367fbbec65dfb_1"
+    },
+    {
+        "title": "애플 아이폰용 프로세서 탑재 '보급형 맥북' 출시 앞둬, 600달러 안팎 예...",
+        "date": "2025-11-05 09:58",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=418565"
+    },
+    {
+        "title": "애플, 스마트 안경 개발 가속… ‘쓰는 AI’ 각축전",
+        "date": "2025-11-05 09:53",
+        "link": "https://n.news.naver.com/mnews/article/005/0001812391?sid=101"
+    },
+    {
+        "title": "애플, 저가 맥북 내놓는다…크롬북과 경쟁",
+        "date": "2025-11-05 09:51",
+        "link": "https://n.news.naver.com/mnews/article/092/0002396982?sid=105"
+    },
+    {
+        "title": "골드바·애플워치도 준다... 컬리, 11월 대규모 할인 행사 '블랙위크'",
+        "date": "2025-11-05 09:50",
+        "link": "https://www.fashionbiz.co.kr/article/221125"
+    },
+    {
+        "title": "골드바·애플워치 드려요 컬리, 연말 쇼핑 축제 '블랙위크' 개최",
+        "date": "2025-11-05 09:50",
+        "link": "http://theviewers.co.kr/View.aspx?No=3841682"
+    },
+    {
+        "title": "애플, 에어팟 실시간 번역 기능 유럽 도입…12월 정식 출시",
+        "date": "2025-11-05 09:48",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602360"
+    },
+    {
+        "title": "삼성 '엑시노스 2600' 긱벤치 등장…애플·퀄컴급 성능 보여줘",
+        "date": "2025-11-05 09:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602362"
+    },
+    {
+        "title": "애플 iOS 26.2 '향상된 안전 알림' 추가… 지진·긴급 경고 강화",
+        "date": "2025-11-05 09:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602354"
+    },
+    {
+        "title": "애플 iOS 26.2, 에어드롭 기능 대폭 개선…30일 연결 옵션 추가",
+        "date": "2025-11-05 09:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602337"
+    },
+    {
+        "title": "애플, 저가형 '맥북 SE' 내놓는다…비결은 '아이폰' 두뇌",
+        "date": "2025-11-05 09:40",
+        "link": "https://n.news.naver.com/mnews/article/138/0002208707?sid=105"
+    },
+    {
+        "title": "LG전자, 애플에 아이폰17 장비 첫 공급…협력 확대",
+        "date": "2025-11-05 09:40",
+        "link": "https://n.news.naver.com/mnews/article/374/0000472921?sid=104"
+    },
+    {
+        "title": "필립스, 속도와 화이트 컬러 감성 디자인 갖춘 에브니아 게이밍 모니터...",
+        "date": "2025-11-05 09:40",
+        "link": "https://www.cnet.co.kr/view/?no=20251105093306"
+    },
+    {
+        "title": "애플 iOS 26.2, 팟캐스트 앱 업그레이드…편의성 강화",
+        "date": "2025-11-05 09:40",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=602330"
+    },
+    {
+        "title": "슬림해진 두께에 혁신을 더하다…코웨이, '룰루 슬리믹 비데' 출시",
+        "date": "2025-11-05 09:34",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=201452"
+    },
+    {
+        "title": "LG전자, 아이폰 생산장비 첫 공급…애플과 협력 전방위 확대",
+        "date": "2025-11-05 09:31",
+        "link": "https://n.news.naver.com/mnews/article/001/0015724754?sid=101"
+    },
+    {
+        "title": "삼성전자, 美서 특허 소송 패소···불복 절차 밟을 것",
+        "date": "2025-11-05 09:21",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=611525"
+    },
+    {
+        "title": "삼성전자, 소상공인과 매장 내 '무빙스타일' 활용 아이디어 공유",
+        "date": "2025-11-05 09:20",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=99254"
+    },
+    {
+        "title": "삼성, 내년 2월 출시 신형 S26에 자체개발 엑시노스 2600 탑재. 아이폰 ...",
+        "date": "2025-11-05 09:18",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538605"
+    },
+    {
+        "title": "삼성전자, 소상공인과 매장 내 무빙스타일 활용 아이디어 공유",
+        "date": "2025-11-05 09:16",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=228999"
+    },
+    {
+        "title": "삼성전자, 소상공인의 날 맞아 '무빙스타일 202 소상공인 포럼' 진행",
+        "date": "2025-11-05 09:08",
+        "link": "https://www.bizwork.co.kr/news/articleView.html?idxno=408468"
+    },
+    {
+        "title": "삼성전자, 소상공인과 '무빙스타일' 활용사례 공유",
+        "date": "2025-11-05 08:56",
+        "link": "https://n.news.naver.com/mnews/article/018/0006156422?sid=101"
+    },
+    {
+        "title": "삼성전자, 소상공인을 위한 매장 내 무빙스타일 제안",
+        "date": "2025-11-05 08:51",
+        "link": "https://n.news.naver.com/mnews/article/031/0000978026?sid=105"
+    },
+    {
+        "title": "11월 4일 주식시장 주요공시",
+        "date": "2025-11-05 08:46",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=116380"
+    },
+    {
+        "title": "삼성전자, '소상공인과 '무빙스타일' 활용 매장 혁신 아이디어 공유",
+        "date": "2025-11-05 08:46",
+        "link": "https://www.newspim.com/news/view/20251105000112"
+    },
+    {
+        "title": "삼성전자, 소상공인과 함께 매장 내 '무빙스타일' 활용 아이디어 나눠",
+        "date": "2025-11-05 08:40",
+        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=412101"
+    },
+    {
+        "title": "삼성전자, 소상공인과 함께 매장 내 '무빙스타일' 활용 아이디어 공유",
+        "date": "2025-11-05 08:40",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=462434"
+    },
+    {
+        "title": "삼성전자, 소상공인과 매장 內 202가지 조합 '무빙스타일' 활용 아이디어...",
+        "date": "2025-11-05 08:24",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=236801"
+    },
+    {
+        "title": "[단독]삼성전자 '엑시노스 2600', 애플 M5급 성능 유출…2나노 GAA 공정으...",
+        "date": "2025-11-05 08:22",
+        "link": "https://www.abcn.kr/news/articleView.html?idxno=84230"
+    },
+    {
+        "title": "[더벨][탑런 그룹 줌인]상장 1주년, '소·부·장' 사업 시너지 구축",
+        "date": "2025-11-05 08:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511031517242160105173"
+    },
+    {
+        "title": "'뼈아픈 평결' 픽티바, 삼성 갤럭시의 핵심 '디자인·기술' 겨냥했다 [삼...",
+        "date": "2025-11-05 08:00",
+        "link": "https://www.smarttoday.co.kr/news/articleView.html?idxno=95352"
+    },
+    {
+        "title": "AI로 제조공정·생산시스템 혁신 기업 돋보여",
+        "date": "2025-11-05 08:00",
+        "link": "https://n.news.naver.com/mnews/article/277/0005674579?sid=101"
+    },
+    {
+        "title": "“아이폰 칩으로 저가 맥북 만든다?”…기술주 부진 속 애플 강세 [투자...",
+        "date": "2025-11-05 07:48",
+        "link": "https://n.news.naver.com/mnews/article/016/0002552751?sid=101"
+    },
+    {
+        "title": "리퀴드 글래스 불편 드디어 개선! 애플 iOS 26.1 공식 배포 시작. 핵심 변...",
+        "date": "2025-11-05 07:38",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538600"
+    },
+    {
+        "title": "애플, 'AI 부진설' 딛고 시총 4조 달러 돌파…글로벌 3위 복귀",
+        "date": "2025-11-05 07:30",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=44890"
+    }
+]
