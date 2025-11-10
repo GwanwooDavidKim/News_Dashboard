@@ -1,1 +1,677 @@
-
+[
+    {
+        "title": "지스타 2025서 삼성, 엔비디아, 인텔, MS에 기운 받는 엔씨",
+        "date": "2025-11-11 00:16",
+        "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=103785"
+    },
+    {
+        "title": "[사설] SMR에 뒷짐지고 NDC는 더 세게…‘AI 3강’ 헛구호 그칠라",
+        "date": "2025-11-11 00:06",
+        "link": "https://n.news.naver.com/mnews/article/011/0004554241?sid=110"
+    },
+    {
+        "title": "기대이하 성적 ‘초슬림폰’…삼성은 숨 고르고 애플은 직진",
+        "date": "2025-11-11 00:01",
+        "link": "https://n.news.naver.com/mnews/article/025/0003481687?sid=101"
+    },
+    {
+        "title": "왜 접냐던 스마트폰, 이젠 시장 한 축으로 '우뚝'",
+        "date": "2025-11-10 22:50",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=279075"
+    },
+    {
+        "title": "엔씨, 삼성-엔비디아-MS 등과 지스타 2025 제휴 진행",
+        "date": "2025-11-10 22:04",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=677027"
+    },
+    {
+        "title": "에이수스, 게이밍 모니터 신제품에 LGD 4세대 OLED 적용",
+        "date": "2025-11-10 20:56",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=43612"
+    },
+    {
+        "title": "애플, 아이폰에 '위성 통신' 기능 강화…머스크 스페이스X와 손잡나",
+        "date": "2025-11-10 19:21",
+        "link": "https://n.news.naver.com/mnews/article/030/0003368690?sid=104"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS와 지스타 2025 제휴 진행",
+        "date": "2025-11-10 18:48",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=76737"
+    },
+    {
+        "title": "엔씨소프트, 지스타 2025서 삼성·엔비디아MS 등과 협업",
+        "date": "2025-11-10 18:26",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=790225"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS와 연합… 지스타 2025 제휴",
+        "date": "2025-11-10 18:20",
+        "link": "https://n.news.naver.com/mnews/article/005/0001813506?sid=105"
+    },
+    {
+        "title": "'초슬림폰 전쟁' 삼성은 한발 물러섰는데… 애플, 믿는 구석 있었다",
+        "date": "2025-11-10 18:01",
+        "link": "https://n.news.naver.com/mnews/article/025/0003481635?sid=101"
+    },
+    {
+        "title": "외관과 쿨링 성능 업그레이드, 마이크로닉스 WIZMAX 우드리안 MAX 파워업",
+        "date": "2025-11-10 18:00",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56803"
+    },
+    {
+        "title": "3Q 스마트폰 패널 5.3%↑ '아이폰 효과'…BOE 1위·삼성D 2위",
+        "date": "2025-11-10 17:43",
+        "link": "https://n.news.naver.com/mnews/article/421/0008595774?sid=101"
+    },
+    {
+        "title": "엔씨, 지스타서 글로벌 IT 기업과 대규모 협업…신작 체험 제공",
+        "date": "2025-11-10 17:40",
+        "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=121451"
+    },
+    {
+        "title": "TV 수요 부진에 LCD 패널 가격도 하락…삼성·LG, TV 수익성 개선 안간힘",
+        "date": "2025-11-10 17:38",
+        "link": "https://www.ceoscoredaily.com/page/view/2025111017111305566"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS 등 지스타 2025 제휴 진행",
+        "date": "2025-11-10 17:36",
+        "link": "https://www.gamechosun.co.kr/webzine/article/view.php?no=218046"
+    },
+    {
+        "title": "삼성, 6년 연속 ‘스마트폰 출하 1위’…매출왕도 노린다",
+        "date": "2025-11-10 17:34",
+        "link": "https://www.ekn.kr/web/view.php?key=20251110029575575"
+    },
+    {
+        "title": "엔씨소프트, 삼성·엔비디아·MS 등 지스타 2025 제휴 진행",
+        "date": "2025-11-10 17:34",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=343247"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-인텔-MS-레이저와 '지스타 2025' 제휴 진행",
+        "date": "2025-11-10 17:30",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=124726"
+    },
+    {
+        "title": "삼성·엔비디아·MS, 엔씨 '아이온2·신더시티' 지스타 지원사격",
+        "date": "2025-11-10 17:29",
+        "link": "https://n.news.naver.com/mnews/article/003/0013591882?sid=105"
+    },
+    {
+        "title": "골목대장 삼성페이, 미국으로…애플과 맞붙는다",
+        "date": "2025-11-10 17:28",
+        "link": "https://n.news.naver.com/mnews/article/215/0001230329?sid=101"
+    },
+    {
+        "title": "[지스타 2025] 엔씨소프트, 아이온2 스마트 폰 빌드 시연",
+        "date": "2025-11-10 17:28",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4012916"
+    },
+    {
+        "title": "통신 연결 없이도 애플 내비 쓴다…아이폰 탑재될 차세대 위성통신 기...",
+        "date": "2025-11-10 17:20",
+        "link": "https://n.news.naver.com/mnews/article/003/0013591862?sid=105"
+    },
+    {
+        "title": "삼성, 엔비디아, MS... 엔씨 지스타 파트너 공개",
+        "date": "2025-11-10 17:20",
+        "link": "https://www.gameple.co.kr/news/articleView.html?idxno=214411"
+    },
+    {
+        "title": "中 OLED도 韓 맹추격…특허 60% 급증",
+        "date": "2025-11-10 17:18",
+        "link": "https://n.news.naver.com/mnews/article/015/0005209418?sid=101"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS 등 지스타 2025 제휴 진행",
+        "date": "2025-11-10 17:14",
+        "link": "https://www.bigtanews.co.kr/article/view/big202511100032"
+    },
+    {
+        "title": "엔씨, 삼성·엔비디아·MS 등과 지스타 2025 제휴 협업",
+        "date": "2025-11-10 17:14",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=35415"
+    },
+    {
+        "title": "애플, 에어팟 한국어 실시간 번역 지원으로 소통 넓힌다",
+        "date": "2025-11-10 17:14",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=188472"
+    },
+    {
+        "title": "엔씨소프트, 지스타 2025서 삼성·엔비디아·MS와 제휴",
+        "date": "2025-11-10 17:14",
+        "link": "https://www.news2day.co.kr/article/20251110500231"
+    },
+    {
+        "title": "삼성전자, 내년 2월 ‘갤럭시S26’ 출시…자체 개발 ‘엑시노스2600’ 탑...",
+        "date": "2025-11-10 17:04",
+        "link": "https://n.news.naver.com/mnews/article/028/0002775639?sid=101"
+    },
+    {
+        "title": "엔씨소프트, 삼성·엔비디아·MS 등 글로벌 테크 동맹으로 지스타 2025 출...",
+        "date": "2025-11-10 17:04",
+        "link": "https://www.insight.co.kr/news/528336"
+    },
+    {
+        "title": "美 '애플 기반 스마트병원' 등장…환자 경험·진료 혁신",
+        "date": "2025-11-10 16:52",
+        "link": "https://www.rapportian.com/news/articleView.html?idxno=228545"
+    },
+    {
+        "title": "메인스폰서 엔씨소프트, 지스타 위해 삼성·엔비디아·MS와 맞손",
+        "date": "2025-11-10 16:51",
+        "link": "https://n.news.naver.com/mnews/article/417/0001112329?sid=105"
+    },
+    {
+        "title": "애플, 아이폰 유료 위성 연결 서비스 개발 루머",
+        "date": "2025-11-10 16:32",
+        "link": "https://kbench.com/?q=node/273089"
+    },
+    {
+        "title": "애플, 아이폰과 애플워치 위성통신 기능 대거 업그레이드 예정",
+        "date": "2025-11-10 16:31",
+        "link": "https://n.news.naver.com/mnews/article/366/0001121711?sid=105"
+    },
+    {
+        "title": "프리미엄 수요 늘어도…삼성·애플, 보급형 스마트폰 못 놓는 까닭",
+        "date": "2025-11-10 16:26",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=189458"
+    },
+    {
+        "title": "삼성전자, 애플페이에 '도전장'…英 바클레이스와 미국 신용카드 시장 ...",
+        "date": "2025-11-10 16:20",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=282969"
+    },
+    {
+        "title": "삼성D, 3Q 스마트폰 패널 출하량 1억대 상회…애플 효과 커",
+        "date": "2025-11-10 16:17",
+        "link": "https://n.news.naver.com/mnews/article/003/0013591645?sid=101"
+    },
+    {
+        "title": "애플, 시리 고도화에 구글 '제미나이' 활용 추진",
+        "date": "2025-11-10 16:12",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=464001"
+    },
+    {
+        "title": "엔씨, 지스타 부스에 삼성·엔비디아·인텔 총출동",
+        "date": "2025-11-10 16:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603502"
+    },
+    {
+        "title": "B2B 키우는 LG전자, 의료용 모니터 시장서 ‘톱6’",
+        "date": "2025-11-10 16:09",
+        "link": "https://n.news.naver.com/mnews/article/029/0002992600?sid=101"
+    },
+    {
+        "title": "[지스타2025] 엔씨, 삼성·엔비디아·MS 등 지스타 제휴 진행",
+        "date": "2025-11-10 16:06",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7136137"
+    },
+    {
+        "title": "삼성디스플레이, 3분기 스마트폰 패널 출하량 1억대 돌파",
+        "date": "2025-11-10 16:04",
+        "link": "https://n.news.naver.com/mnews/article/031/0000979541?sid=105"
+    },
+    {
+        "title": "美 UDC, 獨 머크 OLED 특허 300개 인수",
+        "date": "2025-11-10 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003368618?sid=105"
+    },
+    {
+        "title": "[G-STAR '25] NC, 삼성·엔비디아·MS·인텔과 공동 부스 꾸린다",
+        "date": "2025-11-10 15:58",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1686095"
+    },
+    {
+        "title": "엔씨, 지스타서 '하드웨어 풀세팅'…삼성·엔비디아 맞손",
+        "date": "2025-11-10 15:56",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=679781"
+    },
+    {
+        "title": "엔씨, '지스타 2025'서 삼성·엔비디아·MS 등과 협업…아이온2·신더시...",
+        "date": "2025-11-10 15:54",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=540478"
+    },
+    {
+        "title": "엔씨소프트, 지스타 2025서 '아이온2'와 '신더시티' 최신 고성능 하드웨...",
+        "date": "2025-11-10 15:46",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3047641"
+    },
+    {
+        "title": "엔씨소프트, 삼성·엔비디아·MS 등 지스타 2025 제휴 진행",
+        "date": "2025-11-10 15:46",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=111480"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS 등 지스타 2025 제휴 진행",
+        "date": "2025-11-10 15:44",
+        "link": "https://www.mediapen.com/news/view/1056713"
+    },
+    {
+        "title": "LGD W-OLED, 올해 첫 연간 흑자 보인다",
+        "date": "2025-11-10 15:40",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=43584"
+    },
+    {
+        "title": "XR 기기 핵심 부품 ‘올레도스’…한·중 각축전",
+        "date": "2025-11-10 15:40",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1281043&inflow=N"
+    },
+    {
+        "title": "엔씨소프트, 지스타 2025서 삼성전자·엔비디아·MS·인텔·레이저 기술...",
+        "date": "2025-11-10 15:40",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=125441"
+    },
+    {
+        "title": "엔씨 지스타 2025 신작 발표에 삼성, 엔비디아, 인텔, MS가 다 모였다",
+        "date": "2025-11-10 15:38",
+        "link": "https://game.donga.com/120085/"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS 맞손…지스타 2025 제휴",
+        "date": "2025-11-10 15:36",
+        "link": "http://www.newswatch.kr/news/articleView.html?idxno=74429"
+    },
+    {
+        "title": "엔씨, ‘지스타2025’ 삼성x엔비디아x마이크로스포트x레이저 등과 협업",
+        "date": "2025-11-10 15:34",
+        "link": "https://n.news.naver.com/mnews/article/009/0005587583?sid=105"
+    },
+    {
+        "title": "[취재수첩] OLED, 다시 '중국發' 투자 사이클…한국 디스플레이의 기로",
+        "date": "2025-11-10 15:32",
+        "link": "https://n.news.naver.com/mnews/article/138/0002209174?sid=105"
+    },
+    {
+        "title": "[지스타 2025] 엔씨소프트, 삼성·엔비디아·인텔과 협업",
+        "date": "2025-11-10 15:32",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=848418"
+    },
+    {
+        "title": "엔씨소프트, 지스타서 RTX 50 시리즈로 '아이온2' 돌려볼까",
+        "date": "2025-11-10 15:30",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=53174"
+    },
+    {
+        "title": "엇갈린 ‘슬림폰’ 전망에도…애플 차기작 준비, 中 화웨이도 진격",
+        "date": "2025-11-10 15:29",
+        "link": "https://n.news.naver.com/mnews/article/138/0002209172?sid=105"
+    },
+    {
+        "title": "엔씨, 지스타서 삼성·엔비디아·MS와 협업…최신 기술로 신작 체험",
+        "date": "2025-11-10 15:26",
+        "link": "https://n.news.naver.com/mnews/article/396/0000726616?sid=105"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS 등 지스타 2025 제휴",
+        "date": "2025-11-10 15:24",
+        "link": "https://www.seoultimes.news/news/article.html?no=2000084809"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-인텔-MS-레이저와 ‘지스타 2025’ 제휴 진행",
+        "date": "2025-11-10 15:24",
+        "link": "https://www.viva100.com/article/20251110501266"
+    },
+    {
+        "title": "엔씨, 삼성-엔비디아-MS와 협력…지스타서 매끄러운 시연 제공",
+        "date": "2025-11-10 15:21",
+        "link": "https://n.news.naver.com/mnews/article/119/0003023212?sid=105"
+    },
+    {
+        "title": "엔씨, 삼성·엔비디아·MS 등과 '지스타 2025' 협업",
+        "date": "2025-11-10 15:16",
+        "link": "https://n.news.naver.com/mnews/article/215/0001230294?sid=004"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS 등 지스타 2025 제휴 진행",
+        "date": "2025-11-10 15:16",
+        "link": "https://n.news.naver.com/mnews/article/030/0003368588?sid=105"
+    },
+    {
+        "title": "엔씨, 삼성·엔비디아·MS 등 글로벌 테크 기업들과 ‘지스타’ 시연 협...",
+        "date": "2025-11-10 15:12",
+        "link": "https://www.ceoscoredaily.com/page/view/2025111014370492273"
+    },
+    {
+        "title": "디스플레이 유리기판, ‘가격 중심 구조’ 전환…3분기 매출 사상 최대",
+        "date": "2025-11-10 15:12",
+        "link": "http://www.metroseoul.co.kr/article/20251110500431"
+    },
+    {
+        "title": "NC소프트, 삼성·엔비디아·MS 등 제휴 진행",
+        "date": "2025-11-10 14:54",
+        "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065592314869105"
+    },
+    {
+        "title": "엔씨소프트 '지스타 2025' 통해 게이밍 하드웨어 및 테크 기업들과 협업...",
+        "date": "2025-11-10 14:52",
+        "link": "https://gamefocus.co.kr/detail.php?number=170893"
+    },
+    {
+        "title": "이용자 경험 최선…엔씨, 지스타 2025서 삼성·엔비디아·MS 등과 제휴",
+        "date": "2025-11-10 14:48",
+        "link": "https://n.news.naver.com/mnews/article/092/0002397741?sid=105"
+    },
+    {
+        "title": "엔씨, 삼성-엔비디아-MS 등 지스타 2025 제휴 진행",
+        "date": "2025-11-10 14:42",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=343237"
+    },
+    {
+        "title": "모토로라, 韓 출시 스마트폰에 '자동 통화녹음' 적용...폴더블은 제외",
+        "date": "2025-11-10 14:41",
+        "link": "https://n.news.naver.com/mnews/article/008/0005275895?sid=105"
+    },
+    {
+        "title": "엔씨, '지스타'서 삼성·엔비디아·인텔·MS·레이저와 협업",
+        "date": "2025-11-10 14:39",
+        "link": "https://www.newspim.com/news/view/20251110000855"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS 등 지스타 2025 제휴 진행",
+        "date": "2025-11-10 14:36",
+        "link": "https://www.khgames.co.kr/news/articleView.html?idxno=246264"
+    },
+    {
+        "title": "[위클리오늘] 엔씨, 삼성-엔비디아-MS와 지스타 2025 제휴",
+        "date": "2025-11-10 14:32",
+        "link": "http://www.weeklytoday.com/news/articleView.html?idxno=737255"
+    },
+    {
+        "title": "엔씨소프트, 삼성·엔비디아·인텔과 '지스타 2025' 협업",
+        "date": "2025-11-10 14:25",
+        "link": "https://n.news.naver.com/mnews/article/629/0000442160?sid=105"
+    },
+    {
+        "title": "엔씨, 삼성·엔비디아·MS 등과 지스타 제휴 진행",
+        "date": "2025-11-10 14:22",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=229678"
+    },
+    {
+        "title": "NC, 지스타서 삼성전자·엔비디아·MS와 협업…아이온2·신더시티 띄운...",
+        "date": "2025-11-10 14:18",
+        "link": "https://n.news.naver.com/mnews/article/011/0004554024?sid=105"
+    },
+    {
+        "title": "엔씨, 지스타서 삼성·엔비디아·MS·레이저와 협업",
+        "date": "2025-11-10 14:15",
+        "link": "https://n.news.naver.com/mnews/article/018/0006160916?sid=105"
+    },
+    {
+        "title": "엔씨소프트, '지스타'서 삼성·엔비디아·MS와 협업",
+        "date": "2025-11-10 14:08",
+        "link": "http://thetracker.co.kr/View.aspx?No=3848133"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS 등과 지스타 2025 제휴 진행",
+        "date": "2025-11-10 14:04",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=99739"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS 등 지스타 2025 제휴",
+        "date": "2025-11-10 14:04",
+        "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=656892"
+    },
+    {
+        "title": "'아이온2' 엔씨, 지스타서 삼성·엔비디아·MS와 협업",
+        "date": "2025-11-10 14:04",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1301275"
+    },
+    {
+        "title": "엔씨, 올해 지스타에서 삼전·엔비디아·인텔·MS·레이저와 맞손",
+        "date": "2025-11-10 14:04",
+        "link": "https://n.news.naver.com/mnews/article/421/0008594857?sid=105"
+    },
+    {
+        "title": "[지스타 2025] 엔씨소프트, 삼성ㆍ엔비디아ㆍMS 등 글로벌 빅테크와 제휴...",
+        "date": "2025-11-10 13:56",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=237377"
+    },
+    {
+        "title": "[지스타 2025] 엔씨소프트, 삼성-엔비디아-MS 등과 시연 제휴",
+        "date": "2025-11-10 13:54",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2099875"
+    },
+    {
+        "title": "엔씨, 삼성-엔비디아-MS-레이저와 '지스타 2025' 제휴 진행",
+        "date": "2025-11-10 13:54",
+        "link": "https://www.onews.tv/news/articleView.html?idxno=263918"
+    },
+    {
+        "title": "엔씨소프트, 지스타 부스서 삼성-엔비디아-MS-인텔-레이저와 협업",
+        "date": "2025-11-10 13:54",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=111783"
+    },
+    {
+        "title": "엔씨소프트, 지스타 2025에서 삼성·엔비디아·MS와 뭉친다",
+        "date": "2025-11-10 13:50",
+        "link": "https://n.news.naver.com/mnews/article/009/0005587461?sid=105"
+    },
+    {
+        "title": "애플, 아이폰에 위성 통신 기능 강화한다... 머스크의 '스페이스X'와도...",
+        "date": "2025-11-10 13:42",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805899"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS 등과 지스타 2025 제휴",
+        "date": "2025-11-10 13:40",
+        "link": "http://theviewers.co.kr/View.aspx?No=3848097"
+    },
+    {
+        "title": "엔씨, 삼성-엔비디아-MS 등과 지스타 2025 제휴 진행",
+        "date": "2025-11-10 13:37",
+        "link": "https://n.news.naver.com/mnews/article/031/0000979470?sid=105"
+    },
+    {
+        "title": "엔씨소프트, 지스타 2025 게이밍 하드웨어 및 테크 기업 협업 진행",
+        "date": "2025-11-10 13:28",
+        "link": "https://www.betanews.net/article/view/beta202511100039"
+    },
+    {
+        "title": "엔씨소프트, 삼성전자·엔비디아·MS 등 지스타 2025 제휴 진행",
+        "date": "2025-11-10 13:24",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=692713"
+    },
+    {
+        "title": "엔씨, 삼성·엔비디아·MS 등 글로벌 테크기업과 '지스타2025' 협업",
+        "date": "2025-11-10 13:24",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=393887"
+    },
+    {
+        "title": "글로벌 테크 기업들이 함께 만드는 지스타 2025…엔씨소프트, 삼성-엔...",
+        "date": "2025-11-10 13:22",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=202092"
+    },
+    {
+        "title": "[게임가 엿보기] 엔씨소프트, 삼성-엔비디아-MS 등 지스타 2025 제휴 진행",
+        "date": "2025-11-10 13:20",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=332988"
+    },
+    {
+        "title": "아산시 3000억 첨단 디스플레이 연구원 유치 도전",
+        "date": "2025-11-10 13:18",
+        "link": "https://n.news.naver.com/mnews/article/656/0000154855?sid=102"
+    },
+    {
+        "title": "엔씨, 글로벌 테크 기업과 '지스타 2025' 제휴 나서",
+        "date": "2025-11-10 13:16",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=100948"
+    },
+    {
+        "title": "[데일리 IT 단신] 네이버 커넥트재단, 로봇 분야 인재 양성 … 청소년 로...",
+        "date": "2025-11-10 13:10",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/11/10/2025111000195.html"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS 등 지스타 2025 제휴 진행",
+        "date": "2025-11-10 13:06",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=463886"
+    },
+    {
+        "title": "구글에 손 내민 애플, 시리는 되살아나도 AI 주권은 흔들린다",
+        "date": "2025-11-10 12:40",
+        "link": "https://www.itworld.co.kr/article/4087152/구글에-손-내민-애플-시리는-되살아나도-ai-주권은-흔들.html"
+    },
+    {
+        "title": "LG Display Set to Post First Profit in Four Years",
+        "date": "2025-11-10 12:12",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=256066"
+    },
+    {
+        "title": "GM, 애플 카플레이·안드로이드 오토 전 차종서 단계적 중단 계획..왜?",
+        "date": "2025-11-10 12:02",
+        "link": "https://www.dailycar.co.kr/content/news.html?type=view&autoId=59850"
+    },
+    {
+        "title": "공개된 삼성 '갤럭시 S26'보니 더 얇아졌다... '엣지' 대신 초슬림폰 수...",
+        "date": "2025-11-10 11:56",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805891"
+    },
+    {
+        "title": "애플, 'M6 Pro/Max' 맥북 프로 모델만 OLED 패널 탑재할 듯",
+        "date": "2025-11-10 11:54",
+        "link": "https://kbench.com/?q=node/273067"
+    },
+    {
+        "title": "애플 생성형 AI 기술 '독립' 당분간 어려워, 구글 제미나이에 의존 장기...",
+        "date": "2025-11-10 11:52",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=419275"
+    },
+    {
+        "title": "“10명중 1명 살까 말까”…사실상 수요 없는 아이폰 에어, 생산량 줄인...",
+        "date": "2025-11-10 11:39",
+        "link": "https://n.news.naver.com/mnews/article/009/0005587411?sid=101"
+    },
+    {
+        "title": "아이폰 안 팔린다더니 … 베이징 트렌드 1번지 샤오미 매장에 외국인 손...",
+        "date": "2025-11-10 11:26",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/11/10/2025111000116.html"
+    },
+    {
+        "title": "못 쓴 세액공제만 산더미…업계 OLED 지원 타이밍 놓친다",
+        "date": "2025-11-10 11:22",
+        "link": "https://n.news.naver.com/mnews/article/008/0005275799?sid=101"
+    },
+    {
+        "title": "마이크로닉스, 'COOLMAX 크리스탈' 특가 판매 진행",
+        "date": "2025-11-10 11:16",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56790"
+    },
+    {
+        "title": "애플 '하늘 연결' 현실로…아이폰·워치 위성 기능 전면 확장",
+        "date": "2025-11-10 10:50",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092150640"
+    },
+    {
+        "title": "[실리콘 디코드] 삼성, 2nm '엑시노스 2600' 개발…3억2천만 화소·AI로 '...",
+        "date": "2025-11-10 10:48",
+        "link": "https://www.g-enews.com/view.php?ud=202511101046304019fbbec65dfb_1"
+    },
+    {
+        "title": "애플, 시리 핵심에 '구글 제미나이' 탑재…AI 협력 가속",
+        "date": "2025-11-10 10:44",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=115403"
+    },
+    {
+        "title": "조위, 4K 무선 게이밍 마우스 DW 시리즈 화이트 에디션 출시",
+        "date": "2025-11-10 10:32",
+        "link": "https://kbench.com/?q=node/273058"
+    },
+    {
+        "title": "58억 계약은 시작일 뿐… 사피엔반도체, 차세대 마이크로 LED 시장 본격...",
+        "date": "2025-11-10 10:26",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=393815"
+    },
+    {
+        "title": "삼성D 전장사업, 모바일 뒤이을 삼성의 新성장동력으로 거듭날까",
+        "date": "2025-11-10 10:16",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251109010004412"
+    },
+    {
+        "title": "마이크로닉스, PC 케이스 ‘COOLMAX 크리스탈’ 특별 프로모션 펼쳐",
+        "date": "2025-11-10 10:10",
+        "link": "https://www.cnet.co.kr/view/?no=20251110100923"
+    },
+    {
+        "title": "벤큐 조위, 4K 무선 게이밍 마우스 'DW 시리즈' 화이트 에디션 발매",
+        "date": "2025-11-10 10:10",
+        "link": "https://www.cnet.co.kr/view/?no=20251110100029"
+    },
+    {
+        "title": "아이폰18 시리즈 전면 카메라, 18MP -> 24MP 업그레이드",
+        "date": "2025-11-10 09:54",
+        "link": "https://kbench.com/?q=node/273048"
+    },
+    {
+        "title": "애플, 위성 연결 강화한다…자체 서비스도 검토 중",
+        "date": "2025-11-10 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603301"
+    },
+    {
+        "title": "LG디스플레이, 2년만에 CES 복귀...OLED 기술력 공개",
+        "date": "2025-11-10 09:32",
+        "link": "https://www.newspim.com/news/view/20251110000160"
+    },
+    {
+        "title": "OLED 노트북 개화 앞두고…삼성D '공세' VS LGD '신중'",
+        "date": "2025-11-10 09:12",
+        "link": "https://dealsite.co.kr/articles/151010"
+    },
+    {
+        "title": "애플 tvOS 26.2, 프로필 기능 업그레이드…가족 공유 최적화",
+        "date": "2025-11-10 08:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603300"
+    },
+    {
+        "title": "애플, ‘위성 연결’ 아이폰 준비 중…자체 위성 대신 스페이스X 손잡을...",
+        "date": "2025-11-10 08:47",
+        "link": "https://n.news.naver.com/mnews/article/018/0006160554?sid=105"
+    },
+    {
+        "title": "TSMC, 2nm.3nm 칩 가격 10% 인상. 퀄컴 스냅드래곤. 삼성 S26 가격 인상 ...",
+        "date": "2025-11-10 08:44",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538766"
+    },
+    {
+        "title": "11월 7일 주식시장 주요공시",
+        "date": "2025-11-10 08:40",
+        "link": "https://www.nbnews.kr/news/articleView.html?idxno=116583"
+    },
+    {
+        "title": "GPU 100만장 시대 대비…SMR 없이는 AI 허브 불가능 [AI 프리즘*기업 CEO ...",
+        "date": "2025-11-10 08:28",
+        "link": "https://n.news.naver.com/mnews/article/011/0004553813?sid=101"
+    },
+    {
+        "title": "애플, 아이폰용 5가지 위성통신 기능 개발 중",
+        "date": "2025-11-10 08:25",
+        "link": "https://n.news.naver.com/mnews/article/092/0002397622?sid=105"
+    },
+    {
+        "title": "[IT썰] 애플, '통신사 없는 아이폰' 준비 중…위성 생태계 구축 본격화",
+        "date": "2025-11-10 08:01",
+        "link": "https://n.news.naver.com/mnews/article/008/0005275626?sid=105"
+    },
+    {
+        "title": "화제만 됐네…'초슬림' 아이폰 에어 판매 부진",
+        "date": "2025-11-10 08:00",
+        "link": "https://n.news.naver.com/mnews/article/241/0003476401?sid=105"
+    },
+    {
+        "title": "[모바일 On] 애플 아이폰 에어 “현지 수요 없다”",
+        "date": "2025-11-10 07:46",
+        "link": "https://kidd.co.kr/news/243871"
+    },
+    {
+        "title": "애플 아이폰 18 프로, 부분 투명 디자인 적용? 새로운 루머로 업계 술렁",
+        "date": "2025-11-10 07:40",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538761"
+    },
+    {
+        "title": "삼성전자, 美서 신용카드 출시 추진…애플카드와 '정면 승부'",
+        "date": "2025-11-10 07:02",
+        "link": "https://n.news.naver.com/mnews/article/011/0004553788?sid=101"
+    }
+]
