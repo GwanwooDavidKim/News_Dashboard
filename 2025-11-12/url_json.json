@@ -1,1 +1,597 @@
-
+[
+    {
+        "title": "슬림폰 싸늘한 반응에… 삼성 이어 애플도 후속작 보류",
+        "date": "2025-11-12 00:14",
+        "link": "https://n.news.naver.com/mnews/article/005/0001813847?sid=101"
+    },
+    {
+        "title": "애플 제조업 R&amp;D 지원센터 ‘SME Week’",
+        "date": "2025-11-11 20:36",
+        "link": "https://www.ksmnews.co.kr/news/view.php?idx=574065"
+    },
+    {
+        "title": "R&amp;D 성과 발표한 화웨이 “혁신·IP 강화해 선순환 발전”",
+        "date": "2025-11-11 19:53",
+        "link": "https://n.news.naver.com/mnews/article/018/0006161951?sid=101"
+    },
+    {
+        "title": "화웨이, 두 번 접는 폰에 적용한 폴더블 기술 등 '10대 발명품'에",
+        "date": "2025-11-11 18:50",
+        "link": "https://n.news.naver.com/mnews/article/421/0008598232?sid=104"
+    },
+    {
+        "title": "[기획] 게임업계, 3분기는 신작보다 '기존작'이 효자",
+        "date": "2025-11-11 18:50",
+        "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=350003"
+    },
+    {
+        "title": "애플, '아이폰 에어' 후속작 출시 연기…흥행 부진에 생산 중단 돌입",
+        "date": "2025-11-11 18:36",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=283190"
+    },
+    {
+        "title": "AI폰 10억대 시대… 삼성 '갤S26'으로 프리미엄 주도권 굳힌다",
+        "date": "2025-11-11 18:00",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251112010005701"
+    },
+    {
+        "title": "10년간 R&amp;D에만 257조원 쏟아부은 화웨이의 뚝심",
+        "date": "2025-11-11 17:55",
+        "link": "https://n.news.naver.com/mnews/article/015/0005210040?sid=101"
+    },
+    {
+        "title": "'메타 레이밴'보다 비싸다고?…알리바바, 샤오미 이어 바이두도 '스마트...",
+        "date": "2025-11-11 17:30",
+        "link": "https://n.news.naver.com/mnews/article/011/0004554609?sid=104"
+    },
+    {
+        "title": "애플 제조업 R&amp;D 지원센터, 중소기업 대상 프로그램 개최",
+        "date": "2025-11-11 17:28",
+        "link": "https://n.news.naver.com/mnews/article/029/0002992917?sid=105"
+    },
+    {
+        "title": "애플이 에르메스를 만나면? 첨단 기술 껴안은 럭셔리 워치 5",
+        "date": "2025-11-11 17:19",
+        "link": "https://www.gqkorea.co.kr/2025/11/11/%ec%95%a0%ed%94%8c%ec%9d%b4-%ec%97%90%eb%a5%b4%eb%a9%94%ec%8a%a4%eb%a5%bc-%eb%a7%8c%eb%82%98%eb%a9%b4-%ec%b2%a8%eb%8b%a8-%ea%b8%b0%ec%88%a0-%ea%bb%b4%ec%95%88%ec%9d%80-%eb%9f%ad%ec%85%94%eb%a6%ac/?utm_source=naver&utm_medium=partnership"
+    },
+    {
+        "title": "김현중 중국서 스카우트 제안 쏟아졌지만…기술 지키려 거절했죠",
+        "date": "2025-11-11 17:14",
+        "link": "https://n.news.naver.com/mnews/article/011/0004554590?sid=102"
+    },
+    {
+        "title": "“TV 대신 스마트폰 덕 봤다”…삼성·LG, 가전 부진속 모바일용 OLED ‘...",
+        "date": "2025-11-11 17:06",
+        "link": "https://www.ceoscoredaily.com/page/view/2025111116414237737"
+    },
+    {
+        "title": "아이폰 에어, 판매 부진에 멈췄다… 애플 '초슬림폰' 전략 후퇴",
+        "date": "2025-11-11 17:06",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538825"
+    },
+    {
+        "title": "“스마트 제조 실무 한곳에”… 애플 SME Week 25~27일 개최",
+        "date": "2025-11-11 16:49",
+        "link": "https://n.news.naver.com/mnews/article/119/0003023772?sid=105"
+    },
+    {
+        "title": "애플, 아이폰17 기본 모델 '가성비' 흥행몰이…글로벌 판매량 전작 넘어...",
+        "date": "2025-11-11 16:44",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=283158"
+    },
+    {
+        "title": "[지스타 2025] 11월 역대급 'K-게임' 축제 연다",
+        "date": "2025-11-11 16:40",
+        "link": "http://www.00news.co.kr/news/articleView.html?idxno=99037"
+    },
+    {
+        "title": "4년 만에 흑자전환 앞둔 LGD…미래 경쟁력은?",
+        "date": "2025-11-11 16:36",
+        "link": "https://news.mtn.co.kr/news-detail/2025111115313058300"
+    },
+    {
+        "title": "인도, 관계 해빙 속 中과의 합작 기업 승인 속도",
+        "date": "2025-11-11 16:09",
+        "link": "https://www.newspim.com/news/view/20251111001014"
+    },
+    {
+        "title": "네이버 호실적 AI 덕분?…애플 떠올리게 한 '에이전트N'까지",
+        "date": "2025-11-11 16:04",
+        "link": "https://n.news.naver.com/mnews/article/421/0008597833?sid=105"
+    },
+    {
+        "title": "삼성전자 파운드리, 2027년 흑자전환 목표 수립",
+        "date": "2025-11-11 16:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003369063?sid=105"
+    },
+    {
+        "title": "초슬림폰, 생각보다 안 팔리네… 애플은 연기하고 삼성은 전략 선회",
+        "date": "2025-11-11 15:55",
+        "link": "https://n.news.naver.com/mnews/article/448/0000569885?sid=101"
+    },
+    {
+        "title": "애플, '초슬림폰' 접고 '폴더블폰' 편다...동병상련 삼성과 격돌 예상",
+        "date": "2025-11-11 15:40",
+        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=256309"
+    },
+    {
+        "title": "시리야, 잘자…아이폰 명령에 삼성 스마트홈 움직인다",
+        "date": "2025-11-11 15:32",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092150761"
+    },
+    {
+        "title": "삼성전자 ‘갤럭시 플래그십’, 하반기에도 흥행 지속…“올해 내내 꾸...",
+        "date": "2025-11-11 15:28",
+        "link": "https://www.cnbnews.com/news/article.html?no=760494"
+    },
+    {
+        "title": "올해 모바일 AP 칩 첨단 공정 비중 51%···퀄컴·미디어텍 수혜",
+        "date": "2025-11-11 15:28",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=111656"
+    },
+    {
+        "title": "‘갤Z 폴드7·Z 플립7, 초슬림 갤25 엣지’, 하반기도 흥행 몰이",
+        "date": "2025-11-11 15:18",
+        "link": "https://www.viva100.com/article/20251111500968"
+    },
+    {
+        "title": "삼성 스마트싱스, 아이폰 '시리' 연동 지원",
+        "date": "2025-11-11 15:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603829"
+    },
+    {
+        "title": "[신아일보tv] 애플이 긴장한 '삼성' 야심작",
+        "date": "2025-11-11 15:14",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2144369"
+    },
+    {
+        "title": "글로벌 폴더블폰 성장세 둔화…고가·수요 정체가 요인",
+        "date": "2025-11-11 15:12",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=786424"
+    },
+    {
+        "title": "판매 부진에....애플, ‘초슬림폰’ 아이폰 에어 후속 모델 출시 연기",
+        "date": "2025-11-11 15:06",
+        "link": "https://n.news.naver.com/mnews/article/023/0003940281?sid=105"
+    },
+    {
+        "title": "애플 제조업 R&amp;D 지원센터, 중소기업 지원 프로그램 'SME 위크' 개최",
+        "date": "2025-11-11 14:54",
+        "link": "http://www.metroseoul.co.kr/article/20251111500397"
+    },
+    {
+        "title": "삼성전자 갤럭시 폴더블 시리즈와 S25 엣지, 하반기에도 꾸준한 판매흐...",
+        "date": "2025-11-11 14:46",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=244169"
+    },
+    {
+        "title": "삼성전자 '갤럭시 플래그십', 하반기에도 연속 흥행",
+        "date": "2025-11-11 14:40",
+        "link": "http://www.metroseoul.co.kr/article/20251111500361"
+    },
+    {
+        "title": "퀄컴 '첨단 공정 SoC', 애플 제치고 1위 전망",
+        "date": "2025-11-11 14:40",
+        "link": "https://n.news.naver.com/mnews/article/092/0002397934?sid=105"
+    },
+    {
+        "title": "[비즈+]하반기에도 갤럭시 플래그십 흥행 지속…연중 내내 호조세 이어",
+        "date": "2025-11-11 14:36",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=101533"
+    },
+    {
+        "title": "소비자 외면 받아서?…애플, '아이폰 에어' 후속작 출시 무기한 연기",
+        "date": "2025-11-11 14:36",
+        "link": "https://n.news.naver.com/mnews/article/030/0003368982?sid=104"
+    },
+    {
+        "title": "올해 모바일 AP 칩 첨단 공정 비중 51%…퀄컴·미디어텍 수혜",
+        "date": "2025-11-11 14:31",
+        "link": "https://n.news.naver.com/mnews/article/018/0006161735?sid=101"
+    },
+    {
+        "title": "애플 제조업 R&amp;D 지원센터, SME Week 개최",
+        "date": "2025-11-11 14:26",
+        "link": "https://n.news.naver.com/mnews/article/014/0005432776?sid=105"
+    },
+    {
+        "title": "[Pangyo Game] 엔씨소프트, 삼성-엔비디아-MS 등 '지스타 2025' 제휴 진행",
+        "date": "2025-11-11 14:20",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805956"
+    },
+    {
+        "title": "애플, 차기 iOS 27서 '시리' 디자인 혁신",
+        "date": "2025-11-11 14:18",
+        "link": "https://kbench.com/?q=node/273127"
+    },
+    {
+        "title": "애플, 초슬림폰 아이폰 에어 후속 모델 출시 연기",
+        "date": "2025-11-11 14:14",
+        "link": "https://n.news.naver.com/mnews/article/366/0001121940?sid=105"
+    },
+    {
+        "title": "애플 iOS 26.2 수면 점수 개편…더 정교해진 평가 시스템",
+        "date": "2025-11-11 14:10",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603789"
+    },
+    {
+        "title": "올해 폴더블폰 OLED 출하량 14.4% 감소 전망",
+        "date": "2025-11-11 14:08",
+        "link": "https://n.news.naver.com/mnews/article/031/0000979870?sid=105"
+    },
+    {
+        "title": "모바일 AP칩, 첨단 공정 51% 차지···삼성 2나노 양산 시 60%까지 확대...",
+        "date": "2025-11-11 13:50",
+        "link": "https://www.ajunews.com/view/20251111132715188"
+    },
+    {
+        "title": "고부가가치 FPCB 개발 집중… 인터플렉스, 차세대 시장 공략 가속화",
+        "date": "2025-11-11 13:50",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=394373"
+    },
+    {
+        "title": "애플 제조업 R&amp;D 지원센터, 'SME 위크' 개최",
+        "date": "2025-11-11 13:48",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1686235"
+    },
+    {
+        "title": "초슬림폰 경쟁 무의미했나… 애플, ‘아이폰 에어’ 후속작 출시 연기",
+        "date": "2025-11-11 13:43",
+        "link": "https://n.news.naver.com/mnews/article/029/0002992810?sid=105"
+    },
+    {
+        "title": "연이은 수주로 실적 급반등…영우디에스피, 성장 모멘텀 가속화",
+        "date": "2025-11-11 13:38",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=394370"
+    },
+    {
+        "title": "폴더블 출시 5년차지만 시장 둔화...애플 신제품 출시 이후 회복세 기대",
+        "date": "2025-11-11 13:30",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=333034"
+    },
+    {
+        "title": "아이폰으로 車 시동 건다? 현실은 아직…애플 '카키' 더딘 이유",
+        "date": "2025-11-11 13:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603751"
+    },
+    {
+        "title": "올해 모바일 AP 칩 첨단 공정 비중 51%… 퀄컴·미디어텍 수혜 전망",
+        "date": "2025-11-11 13:21",
+        "link": "https://n.news.naver.com/mnews/article/366/0001121909?sid=105"
+    },
+    {
+        "title": "삼성, 美 시장서 '삼성카드' 출시 추진…애플카드에 맞불",
+        "date": "2025-11-11 13:10",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=68717"
+    },
+    {
+        "title": "단종 위기 극복한 '삼성 갤럭시 S26 플러스' 렌더링 보니... 엣지 대신할...",
+        "date": "2025-11-11 12:50",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805944"
+    },
+    {
+        "title": "올해 스마트폰 AP 칩, 5나노 이하 첨단 공정 비중 50% 넘어선다",
+        "date": "2025-11-11 12:42",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=718042"
+    },
+    {
+        "title": "애플, 얼마나 안 팔렸길래…아이폰 에어 후속작 출시 연기",
+        "date": "2025-11-11 12:10",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=83417"
+    },
+    {
+        "title": "스마트폰 두뇌, 첨단공정 전환 가속…삼성 '엑시노스2600' 시험대",
+        "date": "2025-11-11 11:56",
+        "link": "https://n.news.naver.com/mnews/article/119/0003023579?sid=101"
+    },
+    {
+        "title": "하반기도 ‘초슬림+AI’ 통했다…삼성 갤럭시 플래그십 ‘흥행 릴레이’",
+        "date": "2025-11-11 11:54",
+        "link": "https://www.kukinews.com/article/view/kuk202511110128"
+    },
+    {
+        "title": "애플, 판매 부진한 '아이폰 에어' 후속작 출시 연기 배경은?",
+        "date": "2025-11-11 11:38",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1805938"
+    },
+    {
+        "title": "폴더블폰 성장 둔화…내년 폴더블 아이폰 주목",
+        "date": "2025-11-11 11:36",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=282590"
+    },
+    {
+        "title": "애플 제조업 R&amp;D 지원센터, 중소기업 위한 'SME 위크' 개최",
+        "date": "2025-11-11 11:34",
+        "link": "https://n.news.naver.com/mnews/article/421/0008596855?sid=105"
+    },
+    {
+        "title": "정철동 LG디스플레이 사장, 2년만에 CES 복귀…역대 최대 OLED 수요 선제...",
+        "date": "2025-11-11 11:33",
+        "link": "https://n.news.naver.com/mnews/article/016/0002555970?sid=101"
+    },
+    {
+        "title": "잘 만들었더니 역시나 잘 팔리네... 갤럭시 플래그십폰 흥행 지속",
+        "date": "2025-11-11 11:30",
+        "link": "https://www.wikitree.co.kr/articles/1094041"
+    },
+    {
+        "title": "애플, 판매 부진에 아이폰 에어2 출시 연기 전망",
+        "date": "2025-11-11 11:30",
+        "link": "https://n.news.naver.com/mnews/article/123/0002371732?sid=004"
+    },
+    {
+        "title": "삼성 갤럭시, '하반기' 흥행 지속… 역대 '폴더블' 시리즈 실적 견인",
+        "date": "2025-11-11 11:16",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=413985"
+    },
+    {
+        "title": "식각설비 국산화 성공…태성, 세계 PCB 시장에 역수출 쾌거",
+        "date": "2025-11-11 11:16",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=394333"
+    },
+    {
+        "title": "애플, 아이폰 에어2 출시 불투명…판매 부진이 원인?",
+        "date": "2025-11-11 11:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603726"
+    },
+    {
+        "title": "차세대 에어팟 프로, 카메라 탑재·고급형 출시…애플 전략 변화?",
+        "date": "2025-11-11 11:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603727"
+    },
+    {
+        "title": "애플, 아이폰18 터치 아이디 탑재 가능성…잠금 해제 전략 변화",
+        "date": "2025-11-11 11:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603724"
+    },
+    {
+        "title": "애플, 2026년 중반 M5 기반 '맥 미니·맥 스튜디오' 출시 계획",
+        "date": "2025-11-11 11:12",
+        "link": "https://kbench.com/?q=node/273109"
+    },
+    {
+        "title": "'최다 사전 판매' 갤럭시 플래그십, 하반기도 흥행 가도",
+        "date": "2025-11-11 11:10",
+        "link": "https://n.news.naver.com/mnews/article/648/0000041661?sid=101"
+    },
+    {
+        "title": "애플, 아이폰 에어 실패했다…후속작 무기한 연기 [MOVIEW]",
+        "date": "2025-11-11 11:09",
+        "link": "https://n.news.naver.com/mnews/article/138/0002209245?sid=105"
+    },
+    {
+        "title": "애플, '아이폰 에어' 후속 모델 출시 연기…판매 부진 여파",
+        "date": "2025-11-11 11:08",
+        "link": "https://www.ajunews.com/view/20251111105217069"
+    },
+    {
+        "title": "삼성·애플 이 길이 아닌가 보다…초슬림에서 폴더블로 작전 선회",
+        "date": "2025-11-11 11:02",
+        "link": "https://n.news.naver.com/mnews/article/277/0005677585?sid=105"
+    },
+    {
+        "title": "하반기에도 플래그십 흥행...삼성전자, 폴드7·플립7·엣지로 실적 견...",
+        "date": "2025-11-11 11:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=229782"
+    },
+    {
+        "title": "얇아질 뻔했던 삼성 갤럭시 S26, 더 두꺼워진다",
+        "date": "2025-11-11 11:00",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092150729"
+    },
+    {
+        "title": "올해 모바일 AP 칩 첨단 공정 비중 51%…퀄컴·미디어텍 수혜",
+        "date": "2025-11-11 10:57",
+        "link": "https://n.news.naver.com/mnews/article/001/0015735067?sid=101"
+    },
+    {
+        "title": "모바일 D램 품귀 갤럭시S26 가격 인상?",
+        "date": "2025-11-11 10:52",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=343318"
+    },
+    {
+        "title": "XR 도전하는 네이버, 이번엔 다를까",
+        "date": "2025-11-11 10:44",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092150698"
+    },
+    {
+        "title": "올해 폴더블 OLED 출하량 부진...내년 폴더블 아이폰이 전환점",
+        "date": "2025-11-11 10:42",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=848531"
+    },
+    {
+        "title": "POSTECH 애플 제조업 R&amp;D 지원센터, 'SME Week' 개최…중소기업 대상 스마...",
+        "date": "2025-11-11 10:36",
+        "link": "https://www.dkilbo.com/news/articleView.html?idxno=521619"
+    },
+    {
+        "title": "엔씨소프트, 삼성-엔비디아-MS와 제휴 [지스타 2025]",
+        "date": "2025-11-11 10:34",
+        "link": "http://www.sportsq.co.kr/news/articleView.html?idxno=487552"
+    },
+    {
+        "title": "애플 제조업 R&amp;D 지원센터, 25일 'SME 위크' 개최",
+        "date": "2025-11-11 10:34",
+        "link": "https://n.news.naver.com/mnews/article/030/0003368812?sid=105"
+    },
+    {
+        "title": "베트남, 삼성·애플 등 대기업 투자로 글로벌 공급망 '핵심 고리'로 부상",
+        "date": "2025-11-11 10:34",
+        "link": "https://www.ajunews.com/view/20251110180546751"
+    },
+    {
+        "title": "애플, 맥북 프로에 OLED 디스플레이 탑재…고급형 모델만 적용 전망",
+        "date": "2025-11-11 10:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603682"
+    },
+    {
+        "title": "애플, AI 건강 챗봇 개발 중…'헬스+' 구독 서비스 출시 전망",
+        "date": "2025-11-11 10:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603655"
+    },
+    {
+        "title": "애플, 아이폰 20주년 모델 '올스크린 디스플레이' 목표…전면 카메라까...",
+        "date": "2025-11-11 10:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603669"
+    },
+    {
+        "title": "애플, M5 맥 미니·맥 스튜디오 출시 일정 조정…내년 중반 공개",
+        "date": "2025-11-11 10:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=603665"
+    },
+    {
+        "title": "애플 제조업 R&amp;D 지원센터, 중소 제조기업 위한 'SME Week' 개최",
+        "date": "2025-11-11 10:26",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=125504"
+    },
+    {
+        "title": "삼성 스마트싱스, 아이폰 '시리' 음성명령 지원",
+        "date": "2025-11-11 10:25",
+        "link": "https://www.kpinews.kr/newsView/1065576017344659"
+    },
+    {
+        "title": "폴더블폰 OELD 성장세 둔화, 1~3분기 세계 누적 출하량 전년 대비 20% 감...",
+        "date": "2025-11-11 10:20",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=419424"
+    },
+    {
+        "title": "2년 만에 CES 가는 정철동 LGD 사장…내년 역대 최대 OLED 수요 선제 확...",
+        "date": "2025-11-11 10:19",
+        "link": "https://n.news.naver.com/mnews/article/016/0002555850?sid=101"
+    },
+    {
+        "title": "애플, 제조업 R&amp;D 지원센터 25일 ‘SME 위크’ 개최",
+        "date": "2025-11-11 10:13",
+        "link": "https://n.news.naver.com/mnews/article/018/0006161499?sid=105"
+    },
+    {
+        "title": "RAZER, 알리 익스프레스 광군제 통해 게이밍 기어 특별 할인 진행",
+        "date": "2025-11-11 10:06",
+        "link": "https://kbench.com/?q=node/273100"
+    },
+    {
+        "title": "엣지 대신 회생한 '갤럭시S26+' 렌더링 최초 유출.. 기존 디자인 계승",
+        "date": "2025-11-11 09:58",
+        "link": "https://kbench.com/?q=node/273094"
+    },
+    {
+        "title": "애플, '판매부진' 아이폰 에어 후속모델 연기…2027년 출시 가능성",
+        "date": "2025-11-11 09:57",
+        "link": "https://n.news.naver.com/mnews/article/448/0000569752?sid=104"
+    },
+    {
+        "title": "중소기업의 미래 제조 혁신, 포스텍에서 애플 제조업 R&amp;D 지원센터, SM...",
+        "date": "2025-11-11 09:54",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=581871"
+    },
+    {
+        "title": "폴더블폰용 OLED 출하량 부진… 2026년 폴더블 아이폰 전환점 될까?",
+        "date": "2025-11-11 09:50",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56807"
+    },
+    {
+        "title": "높은 가격 탓? ···폴더블폰 OLED 3분기 누적 출하량 전년 比 20%↓",
+        "date": "2025-11-11 09:48",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=416860"
+    },
+    {
+        "title": "폴더블 OLED, 3분기째 성장 둔화…내년 폴더블 아이폰이 전환점",
+        "date": "2025-11-11 09:48",
+        "link": "https://n.news.naver.com/mnews/article/092/0002397862?sid=105"
+    },
+    {
+        "title": "폴더블 OLED 성장 둔화세... 내년 애플 진입이 관건",
+        "date": "2025-11-11 09:41",
+        "link": "https://n.news.naver.com/mnews/article/119/0003023441?sid=101"
+    },
+    {
+        "title": "삼성 '갤럭시 XR'…삼성디스플레이 OLEDdoS 패널 탑재한다",
+        "date": "2025-11-11 09:40",
+        "link": "https://kbench.com/?q=node/273093"
+    },
+    {
+        "title": "갤럭시 S26 울트라, 이렇게 출시된다",
+        "date": "2025-11-11 09:30",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=303846"
+    },
+    {
+        "title": "1~3분기 폴더블폰용 OLED 출하량 1670만대...전년比 20%↓",
+        "date": "2025-11-11 09:28",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1294454"
+    },
+    {
+        "title": "하나증권, '미국주식 주간거래 이벤트' 진행…아이폰·애플주식 증정",
+        "date": "2025-11-11 09:28",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=92194"
+    },
+    {
+        "title": "폴더블폰 성장 둔화…내년 폴더블 아이폰 주목",
+        "date": "2025-11-11 09:25",
+        "link": "https://n.news.naver.com/mnews/article/003/0013592422?sid=101"
+    },
+    {
+        "title": "애플, 2세대 '아이폰 에어' 2027년 봄 출시설 '모락모락'",
+        "date": "2025-11-11 09:06",
+        "link": "https://kbench.com/?q=node/273092"
+    },
+    {
+        "title": "애플, '아이폰 에어' 후속 모델 출시 연기…저조한 판매에 생산 중단",
+        "date": "2025-11-11 09:00",
+        "link": "https://n.news.naver.com/mnews/article/243/0000087834?sid=101"
+    },
+    {
+        "title": "갤럭시 S26+, 유출된 렌더링 이미지 살펴보니[모닝폰]",
+        "date": "2025-11-11 08:59",
+        "link": "https://n.news.naver.com/mnews/article/018/0006161345?sid=105"
+    },
+    {
+        "title": "폴더블 OLED, 올해 부진…내년 애플 진입이 반등 견인",
+        "date": "2025-11-11 08:44",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1686155"
+    },
+    {
+        "title": "애플, '판매부진' 아이폰 에어 후속모델 출시 연기",
+        "date": "2025-11-11 08:40",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=848492"
+    },
+    {
+        "title": "애플, 아이폰 에어 후속작 출시 연기…성능 포기가 소비자 외면으로",
+        "date": "2025-11-11 08:40",
+        "link": "https://n.news.naver.com/mnews/article/014/0005432480?sid=101"
+    },
+    {
+        "title": "소비자 외면받은 아이폰 에어 후속작 출시 연기",
+        "date": "2025-11-11 08:38",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251111010005149"
+    },
+    {
+        "title": "올해 폴더블 OLED 출하량 감소…내년 애플 출시 관건",
+        "date": "2025-11-11 08:27",
+        "link": "https://n.news.naver.com/mnews/article/018/0006161301?sid=101"
+    },
+    {
+        "title": "차세대 아이폰 에어 출시 연기…판매 부진 때문",
+        "date": "2025-11-11 08:23",
+        "link": "https://n.news.naver.com/mnews/article/092/0002397829?sid=105"
+    },
+    {
+        "title": "[IT썰]애플, 차세대 아이폰 에어 출시 연기…판매 부진 탓",
+        "date": "2025-11-11 08:04",
+        "link": "https://n.news.naver.com/mnews/article/008/0005276230?sid=105"
+    },
+    {
+        "title": "애플, '아이폰 에어' 후속 모델 출시 연기",
+        "date": "2025-11-11 07:42",
+        "link": "https://n.news.naver.com/mnews/article/629/0000442353?sid=105"
+    },
+    {
+        "title": "애플, '판매부진' 아이폰 에어 후속모델 출시 연기",
+        "date": "2025-11-11 07:12",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=692850"
+    },
+    {
+        "title": "애플, 판매량 저조 아이폰 에어 후속 모델 출시 연기",
+        "date": "2025-11-11 07:06",
+        "link": "https://n.news.naver.com/mnews/article/003/0013592196?sid=104"
+    }
+]
