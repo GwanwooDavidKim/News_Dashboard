@@ -1,1 +1,797 @@
-
+[
+    {
+        "title": "진짜 QLED 맞아? 논란의 정체불명 전자칠판, 학교에 깔렸다",
+        "date": "2025-11-18 05:00",
+        "link": "https://n.news.naver.com/mnews/article/025/0003483377?sid=101"
+    },
+    {
+        "title": "[2025 한국소비자만족지수 1위] 약사 개발 건강기능식품 브랜드, 애플트...",
+        "date": "2025-11-18 04:46",
+        "link": "https://n.news.naver.com/mnews/article/050/0000098558?sid=101"
+    },
+    {
+        "title": "[실리콘 디코드] '칩'은 졌지만…인텔 '패키징'에 눈독 들이는 애플·퀄...",
+        "date": "2025-11-18 04:06",
+        "link": "https://www.g-enews.com/view.php?ud=202511171347067660fbbec65dfb_1"
+    },
+    {
+        "title": "[美특징주]애플, 불확실성에 하락…특허 침해 판결·세대 교체 등 대두",
+        "date": "2025-11-18 01:18",
+        "link": "https://n.news.naver.com/mnews/article/018/0006166364?sid=101"
+    },
+    {
+        "title": "없던 차 버튼, 손대니 나타나네…K디스플레이 ‘히든’ 카드",
+        "date": "2025-11-18 00:01",
+        "link": "https://n.news.naver.com/mnews/article/025/0003483309?sid=101"
+    },
+    {
+        "title": "[마켓인사이드] ‘박수 칠 때 떠나려는’ 팀 쿡, 애플 후임 CEO 승계구도...",
+        "date": "2025-11-17 23:44",
+        "link": "https://www.news2day.co.kr/article/20251117500310"
+    },
+    {
+        "title": "청송애플 라이온스클럽 초대회장에 권영호",
+        "date": "2025-11-17 22:04",
+        "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=529949"
+    },
+    {
+        "title": "“접는폰 나오는 줄 알았더니” 완전 ‘투명 아이폰’ 볼 줄은 …허찔린...",
+        "date": "2025-11-17 21:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002558979?sid=105"
+    },
+    {
+        "title": "메시와 손흥민을 축구팬들이 따르니…애플이 내린 결단",
+        "date": "2025-11-17 19:16",
+        "link": "https://n.news.naver.com/mnews/article/022/0004083279?sid=105"
+    },
+    {
+        "title": "애플, '포스트 팀 쿡' 준비 본격화… 승계 구도 중심 '존 터너스'는 누구",
+        "date": "2025-11-17 19:06",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=283822"
+    },
+    {
+        "title": "[강남視角] 마셜 평결, 이제 1막… 美소송 적응해야",
+        "date": "2025-11-17 18:50",
+        "link": "https://n.news.naver.com/mnews/article/014/0005435710?sid=110"
+    },
+    {
+        "title": "LG디스플레이, CES 차량용 OLED 2관왕",
+        "date": "2025-11-17 18:36",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=44032"
+    },
+    {
+        "title": "“양말 잘라 만들었냐” 조롱하더니 ‘품절템’…한정판 폰케이스, 뭐길...",
+        "date": "2025-11-17 17:56",
+        "link": "https://n.news.naver.com/mnews/article/081/0003592637?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 차량용 OLED 기술로 CES 혁신 2관왕",
+        "date": "2025-11-17 17:54",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=286768"
+    },
+    {
+        "title": "'추격을 넘어 추월…중국, 5년 후 10대 주력업종 한국 앞지를 것",
+        "date": "2025-11-17 17:54",
+        "link": "http://www.smarttimes.co.kr/news/articleView.html?idxno=39761"
+    },
+    {
+        "title": "엔젯, EHD 기술 기반·자원순환 사업 두 축으로 사업 포트폴리오 재편",
+        "date": "2025-11-17 17:49",
+        "link": "https://www.newspim.com/news/view/20251117001211"
+    },
+    {
+        "title": "삼바에서 불똥 튄 삼성디스플레이, MCI (저성과자 관리 제도) 재조명",
+        "date": "2025-11-17 17:48",
+        "link": "https://www.livesnews.com/news/article.html?no=56756"
+    },
+    {
+        "title": "벤츠가 선택한 LG디스플레이…차세대 GLC EV에 40인치 대형 LCD 패널 탑...",
+        "date": "2025-11-17 17:40",
+        "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=343688"
+    },
+    {
+        "title": "TSMC 포화에 ‘어부지리’ 삼성 파운드리… 빅테크 넘어 스타트업까지 ...",
+        "date": "2025-11-17 17:40",
+        "link": "https://n.news.naver.com/mnews/article/366/0001123679?sid=105"
+    },
+    {
+        "title": "애플꼬마김밥, 인천 청라 139호점 오픈",
+        "date": "2025-11-17 17:34",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4013538"
+    },
+    {
+        "title": "[뉴스줌인] 와이파이7 기술 더한 게이밍 공유기, 에이수스 'ROG Strix GS-BE...",
+        "date": "2025-11-17 17:28",
+        "link": "https://it.donga.com/107886/"
+    },
+    {
+        "title": "LG디스플레이, 2년 연속 흑자 달성 ‘청신호’… OLED 시장 내년 더 좋다",
+        "date": "2025-11-17 17:22",
+        "link": "https://n.news.naver.com/mnews/article/366/0001123669?sid=105"
+    },
+    {
+        "title": "국산 디스플레이 핵심기술 상징 '창립 30주년 스템코'",
+        "date": "2025-11-17 17:16",
+        "link": "https://www.jbnews.com/news/articleView.html?idxno=1493949"
+    },
+    {
+        "title": "고사양 차량 디스플레이 잡자...기술로 디자인 혁신나선 패널 업체",
+        "date": "2025-11-17 17:14",
+        "link": "https://n.news.naver.com/mnews/article/025/0003483237?sid=101"
+    },
+    {
+        "title": "얇음의 대가? 삼성·애플, 초박형 스마트폰 대신 성능 택할까",
+        "date": "2025-11-17 17:10",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=718711"
+    },
+    {
+        "title": "LG디스플레이, 차량용 OLED로 CES 혁신상 2관왕",
+        "date": "2025-11-17 17:10",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7137309"
+    },
+    {
+        "title": "韓 10대 주력업종, “2030년 中에 뒤쳐질 것”",
+        "date": "2025-11-17 17:10",
+        "link": "http://amenews.kr/news/view.php?idx=64681"
+    },
+    {
+        "title": "LGD, 차량용 듀얼뷰 OLED 등 CES 혁신상 2개 부문 수상",
+        "date": "2025-11-17 17:07",
+        "link": "https://n.news.naver.com/mnews/article/015/0005212436?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 차세대 차량용 디스플레이 기술력 CES서 입증",
+        "date": "2025-11-17 17:06",
+        "link": "http://www.womentimes.co.kr/news/articleView.html?idxno=92375"
+    },
+    {
+        "title": "[단독] “보는 순간 ‘욕’ 터질 뻔, 따라할까 겁나” 이 모습 한국도?…...",
+        "date": "2025-11-17 16:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002558915?sid=105"
+    },
+    {
+        "title": "[AI의 종목 이야기] 애플, 아이폰 전략 대거 수정…완전 신기종 3년 연...",
+        "date": "2025-11-17 16:36",
+        "link": "https://www.newspim.com/news/view/20251117001114"
+    },
+    {
+        "title": "삼성·LGD, 車디스플레이 시장 공략...'실적 방어축' 부상",
+        "date": "2025-11-17 16:36",
+        "link": "http://www.metroseoul.co.kr/article/20251117500436"
+    },
+    {
+        "title": "지스타2025 숨은 주역 삼성전자, 이용자 몰입 책임졌다",
+        "date": "2025-11-17 16:34",
+        "link": "https://game.donga.com/120208/"
+    },
+    {
+        "title": "애플, 쿡 시대 마무리 수순?… 차기 리더 인선 속도 낸다",
+        "date": "2025-11-17 16:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003371065?sid=104"
+    },
+    {
+        "title": "아이폰 폴드까지 가을 출격? 애플, 출시 전략 완전히 갈아엎는다",
+        "date": "2025-11-17 16:22",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539010"
+    },
+    {
+        "title": "손흥민·메시 보자...애플TV, 내년부터 미국 프로축구 MLS 중계",
+        "date": "2025-11-17 16:12",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=396581"
+    },
+    {
+        "title": "LG디스플레이, 차량용 OLED 2종 'CES 2026 혁신상' 2관왕",
+        "date": "2025-11-17 16:10",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=243173"
+    },
+    {
+        "title": "칩 개발에 사활거는 삼성, 엑시노스가 중요한 이유",
+        "date": "2025-11-17 16:00",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=280256"
+    },
+    {
+        "title": "LG전자, 실적 악화에 3분기 R&amp;D 비용 18% 감소",
+        "date": "2025-11-17 15:56",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1297149"
+    },
+    {
+        "title": "오산시, 이데미츠코산 제2연구센터 확장 추진",
+        "date": "2025-11-17 15:36",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2147602"
+    },
+    {
+        "title": "LGD가 벤츠에 납품하는 차량용 옥사이드 LCD는 38.9인치",
+        "date": "2025-11-17 15:34",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=44002"
+    },
+    {
+        "title": "삼성 '오디세이', 지스타 이어 팝업 마케팅…3D 생태계 확장 가속",
+        "date": "2025-11-17 15:30",
+        "link": "https://www.asiatime.co.kr/article/20251117500388"
+    },
+    {
+        "title": "한국 시장 겨냥? MLS 사실상 무료로 풀린다... 내년 애플TV에 '기본 탑재...",
+        "date": "2025-11-17 14:59",
+        "link": "https://n.news.naver.com/mnews/article/014/0005435492?sid=104"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 차량용 OLED 기술로 CES 혁신상 2관왕",
+        "date": "2025-11-17 14:56",
+        "link": "https://www.mediapen.com/news/view/1058691"
+    },
+    {
+        "title": "“양말 잘라 만들었나” 혹평에도 없어서 못 팔아… 아이폰 케이스, 중...",
+        "date": "2025-11-17 14:47",
+        "link": "https://n.news.naver.com/mnews/article/366/0001123616?sid=105"
+    },
+    {
+        "title": "D램 가격 급등에...스마트폰 업계, 원가 압박 커진다",
+        "date": "2025-11-17 14:46",
+        "link": "http://www.metroseoul.co.kr/article/20251117500268"
+    },
+    {
+        "title": "오산시, 이데미츠코산 제2연구센터 확장 추진",
+        "date": "2025-11-17 14:28",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1303977"
+    },
+    {
+        "title": "블랙프라이데이 맞이 최대 50% 할인 프로모션 진행하는 '커세어'",
+        "date": "2025-11-17 14:28",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=56880"
+    },
+    {
+        "title": "[리뷰] 소니 'INZONE(인존)', 프리미엄 게이밍 기어... 게임 플레이 질·...",
+        "date": "2025-11-17 14:22",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1806163"
+    },
+    {
+        "title": "커세어 및 엘가토, 블랙프라이데이 맞아 최대 50% 할인 프로모션",
+        "date": "2025-11-17 14:16",
+        "link": "https://www.betanews.net/article/view/beta202511170055"
+    },
+    {
+        "title": "LG디스플레이, CES 혁신상 2관왕… 차량용 OLED 기술력 부각",
+        "date": "2025-11-17 14:12",
+        "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=35661"
+    },
+    {
+        "title": "'아재폰' 조롱받던 삼성 폰이....MZ세대들 뜨거운 호응 [지금이뉴스]",
+        "date": "2025-11-17 14:03",
+        "link": "https://n.news.naver.com/mnews/article/052/0002274197?sid=101"
+    },
+    {
+        "title": "실적반등 성공한 K디스플레이, 다음 스텝 '미래車'",
+        "date": "2025-11-17 14:00",
+        "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7136865"
+    },
+    {
+        "title": "[오늘의 DT인] 14년 애플 성장 이끈 팀 쿡, 내년 초 CEO에서 물러나나",
+        "date": "2025-11-17 13:57",
+        "link": "https://n.news.naver.com/mnews/article/029/0002993944?sid=104"
+    },
+    {
+        "title": "애플, 내년부터 MLS 단독 구독 서비스 폐지하고 애플TV로 통합",
+        "date": "2025-11-17 13:53",
+        "link": "https://n.news.naver.com/mnews/article/366/0001123592?sid=105"
+    },
+    {
+        "title": "파인텍, 150억 규모 OLED 제조장비 공급계약…실적개선 본격화",
+        "date": "2025-11-17 13:34",
+        "link": "https://n.news.naver.com/mnews/article/277/0005680373?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 차량용 디스플레이로 CES 혁신 2관왕 석권",
+        "date": "2025-11-17 13:28",
+        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=280181"
+    },
+    {
+        "title": "매듭부터 꼬인 애플페이…'첫 협상' 현대카드 원죄론 왜",
+        "date": "2025-11-17 13:26",
+        "link": "https://n.news.naver.com/mnews/article/629/0000444436?sid=101"
+    },
+    {
+        "title": "LGD, 차세대 차량용 OLED 기술로 CES 혁신상 2관왕 수상",
+        "date": "2025-11-17 13:25",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=612758"
+    },
+    {
+        "title": "신규 OLED·연료전지 소재 개발…엘티씨 신성장동력 확보",
+        "date": "2025-11-17 13:24",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=396438"
+    },
+    {
+        "title": "갤럭시Z 트리폴드폰 출시 앞두고 펌웨어 테스트 시작",
+        "date": "2025-11-17 13:16",
+        "link": "https://n.news.naver.com/mnews/article/092/0002398690?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 'CES 2026' 혁신상 2관왕",
+        "date": "2025-11-17 13:16",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=541973"
+    },
+    {
+        "title": "애플, 자체 개발 1억 화소 LoFIC 이미지센서 추진…삼성·소니와 정면승...",
+        "date": "2025-11-17 12:50",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=68931"
+    },
+    {
+        "title": "LGD, 차량용 듀얼뷰·UDC OLED로 CES 혁신상",
+        "date": "2025-11-17 12:47",
+        "link": "https://n.news.naver.com/mnews/article/030/0003370848?sid=105"
+    },
+    {
+        "title": "수출 경쟁국 中, 5년 내 韓 10대 업종 추월",
+        "date": "2025-11-17 12:38",
+        "link": "https://www.thereport.co.kr/news/articleView.html?idxno=74394"
+    },
+    {
+        "title": "휴대성과 성능, 두마리 토끼를 잡은 얇고 가벼운 AI 노트북, 에이서 스위...",
+        "date": "2025-11-17 12:34",
+        "link": "https://kbench.com/?q=node/272846"
+    },
+    {
+        "title": "애플라인드 파크, 원주시 행구동 GTR 스크린파크골프장에서 2026 S/W 시즌...",
+        "date": "2025-11-17 12:34",
+        "link": "https://www.sisamagazine.co.kr/news/articleView.html?idxno=520802"
+    },
+    {
+        "title": "OLED로 면적당 판가 30% 껑충...LG디스플레이, 프리미엄 제품 전략 통...",
+        "date": "2025-11-17 12:29",
+        "link": "https://n.news.naver.com/mnews/article/014/0005435408?sid=101"
+    },
+    {
+        "title": "애플, 팀 쿡 CEO 이르면 내년 초 퇴임설…승계 작업 본격화",
+        "date": "2025-11-17 12:10",
+        "link": "https://byline.network/?p=9004111222584154"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 차량용 OLED로 CES 혁신상 2관왕",
+        "date": "2025-11-17 12:02",
+        "link": "https://www.pointe.co.kr/news/articleView.html?idxno=61907"
+    },
+    {
+        "title": "한울소재과학 “JKM, 中 C사 OLED 필름 소재 수주…글로벌 고객 확대”",
+        "date": "2025-11-17 11:53",
+        "link": "https://n.news.naver.com/mnews/article/018/0006165963?sid=101"
+    },
+    {
+        "title": "최대 50% 할인, 직구보다 싸다! 커세어 블랙프라이데이, 어떤 제품에 적...",
+        "date": "2025-11-17 11:44",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538996"
+    },
+    {
+        "title": "'엣지'도 '에어'도 힘 못썼다...초슬림폰, 시장에서 외면받는 이유는?",
+        "date": "2025-11-17 11:40",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=396414"
+    },
+    {
+        "title": "애플, 맥 프로 사실상 단종…맥 스튜디오로 재편",
+        "date": "2025-11-17 11:38",
+        "link": "https://n.news.naver.com/mnews/article/123/0002372108?sid=004"
+    },
+    {
+        "title": "밸브가 VR 게임 시장을 다시 살릴 수 있을까?",
+        "date": "2025-11-17 11:34",
+        "link": "https://www.itworld.co.kr/article/4090757/밸브가-vr-게임-시장을-다시-살릴-수-있을까.html"
+    },
+    {
+        "title": "파인텍, 삼성디스플레이 베트남과 OLED 제조장비 공급 계약 체결",
+        "date": "2025-11-17 11:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=605295"
+    },
+    {
+        "title": "LG디스플레이, 차량용 OLED로 CES 혁신상 영예",
+        "date": "2025-11-17 11:20",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=254581"
+    },
+    {
+        "title": "[더벨][영우디에스피 줌인]흑자전환 초읽기, 4년전 외형회복 기대감",
+        "date": "2025-11-17 11:12",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511122300362000107736"
+    },
+    {
+        "title": "AI·스마트팩토리로 무장한 에프엔에스테크… 장비 기업의 미래를 다시...",
+        "date": "2025-11-17 11:08",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=396396"
+    },
+    {
+        "title": "애플, 신형 '맥 스튜디오' 개발 집중.. '맥 프로'는 후순위",
+        "date": "2025-11-17 11:08",
+        "link": "https://kbench.com/?q=node/273326"
+    },
+    {
+        "title": "애플 아이폰에어 '폴더블' 공급망 구축에 활용하고 출시 일정도 따로, ...",
+        "date": "2025-11-17 11:06",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=420218"
+    },
+    {
+        "title": "파인텍, 150억원 규모 OLED 제조장비 공급계약",
+        "date": "2025-11-17 11:04",
+        "link": "https://www.newspim.com/news/view/20251117000462"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 차량용 디스플레이 기술로 CES 혁신 2관왕 석권",
+        "date": "2025-11-17 11:04",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=101911"
+    },
+    {
+        "title": "LG디스플레이, CES 혁신 2관왕 석권",
+        "date": "2025-11-17 11:04",
+        "link": "https://www.viva100.com/article/20251117500495"
+    },
+    {
+        "title": "LG디스플레이, 차량용 OLED 기술로 CES 혁신상 2관왕 석권",
+        "date": "2025-11-17 11:02",
+        "link": "https://www.mtnews.net/news/articleView.html?idxno=23140"
+    },
+    {
+        "title": "아이폰 에어, 폴더블 전략의 실험대? 애플의 숨은 의도",
+        "date": "2025-11-17 11:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=605271"
+    },
+    {
+        "title": "애플, 아이폰 출시 전략 변화 예고…삼성·구글 견제 본격화",
+        "date": "2025-11-17 10:58",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=605265"
+    },
+    {
+        "title": "한경협 중국, 5년 뒤 한국 주력 사업 다 추월한다",
+        "date": "2025-11-17 10:58",
+        "link": "https://n.news.naver.com/mnews/article/092/0002398675?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 차량용 OLED 기술로 CES 2026서 수상",
+        "date": "2025-11-17 10:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=605253"
+    },
+    {
+        "title": "AI 시대의 필수 장비… 케이씨텍, CMP·슬러리 쌍두마차로 급부상",
+        "date": "2025-11-17 10:50",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=396383"
+    },
+    {
+        "title": "안팔려도 안버린다…아이폰 에어2, 단종 아닌 출시 연기될 듯",
+        "date": "2025-11-17 10:40",
+        "link": "https://n.news.naver.com/mnews/article/003/0013604110?sid=105"
+    },
+    {
+        "title": "국내 기업에 물어보니 경쟁력 美 107, 中 102, 韓 100, 日 93",
+        "date": "2025-11-17 10:38",
+        "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=343914"
+    },
+    {
+        "title": "5년 뒤 한국 10대 수출 업종 전부 중국에 추월 당해",
+        "date": "2025-11-17 10:36",
+        "link": "https://n.news.naver.com/mnews/article/057/0001919303?sid=101"
+    },
+    {
+        "title": "파인텍, 150억 규모 OLED 제조장비 공급계약",
+        "date": "2025-11-17 10:28",
+        "link": "https://n.news.naver.com/mnews/article/003/0013604071?sid=101"
+    },
+    {
+        "title": "파인텍, 삼성디스플레이 베트남과 150억원 규모 OLED 공급 계약",
+        "date": "2025-11-17 10:22",
+        "link": "https://n.news.naver.com/mnews/article/293/0000075127?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 'CES 2026' 혁신상 2관왕…차세대 차량용 OLED 기술력 입증",
+        "date": "2025-11-17 10:20",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1303808"
+    },
+    {
+        "title": "'카메라모듈價 상승'에 삼성전기 '방긋'', '애플 의존' LG이노텍 '분투'",
+        "date": "2025-11-17 10:18",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=417037"
+    },
+    {
+        "title": "애플, 내년부터 MLS 단독 구독 서비스 폐지…애플TV로 통합",
+        "date": "2025-11-17 10:15",
+        "link": "https://m.entertain.naver.com/article/001/0015746090"
+    },
+    {
+        "title": "LGD, 차량 OLED로 CES 혁신상 2관왕…“첫 듀얼뷰 디스플레이”",
+        "date": "2025-11-17 10:14",
+        "link": "https://n.news.naver.com/mnews/article/011/0004556665?sid=101"
+    },
+    {
+        "title": "커세어, 블랙프라이데이 맞아 최대 50% 할인 프로모션 진행",
+        "date": "2025-11-17 10:12",
+        "link": "https://kbench.com/?q=node/273320"
+    },
+    {
+        "title": "LGD, 차량용 디스플레이로 CES 혁신상 2관왕",
+        "date": "2025-11-17 10:07",
+        "link": "https://n.news.naver.com/mnews/article/366/0001123530?sid=105"
+    },
+    {
+        "title": "LGD, 세계 최초 차량용 디스플레이로 CES 혁신 2관왕 석권",
+        "date": "2025-11-17 10:06",
+        "link": "https://hbnpress.com/news/view/1065574299717266"
+    },
+    {
+        "title": "LGD, '세계 최초' 차량용 OLED 기술로 CES 혁신상 2관왕",
+        "date": "2025-11-17 10:02",
+        "link": "https://n.news.naver.com/mnews/article/119/0003025768?sid=101"
+    },
+    {
+        "title": "LGD, 세계 최초 車 OLED 기술로 CES 혁신상 2관왕",
+        "date": "2025-11-17 10:02",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/11/17/2025111700032.html"
+    },
+    {
+        "title": "LG디스플레이, '차량용 듀얼뷰 OLED' '카메라 숨긴 UDC-IR'로 CES 2관왕",
+        "date": "2025-11-17 10:02",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=420197"
+    },
+    {
+        "title": "LG디스플레이, '세계 최초' 차량용 OLED로 기술로 CES 혁신 2관왕 석권",
+        "date": "2025-11-17 10:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002398659?sid=105"
+    },
+    {
+        "title": "LG디스플레이, CES 혁신상 2관왕…차량용 OLED 주목",
+        "date": "2025-11-17 10:01",
+        "link": "https://n.news.naver.com/mnews/article/629/0000444298?sid=101"
+    },
+    {
+        "title": "LG디스플레이, CES 혁신상 2관왕…차량용 OLED 기술력 인정",
+        "date": "2025-11-17 10:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1687005"
+    },
+    {
+        "title": "LGD, 세계 최초 차량용 OLED 기술로 CES 혁신상 2관왕",
+        "date": "2025-11-17 10:00",
+        "link": "https://n.news.naver.com/mnews/article/417/0001113606?sid=101"
+    },
+    {
+        "title": "“세계 최초 듀얼 OLED”… LGD, 車디스플레이 ‘CES 혁신상’ 2관왕",
+        "date": "2025-11-17 10:00",
+        "link": "https://n.news.naver.com/mnews/article/029/0002993863?sid=101"
+    },
+    {
+        "title": "LG디스플레이, 차랑용 OLED 기술로 'CES 혁신상' 2관왕",
+        "date": "2025-11-17 10:00",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1296842"
+    },
+    {
+        "title": "추격을 넘어 추월… 중국, 5년 후 10대 주력업종 한국 앞지를 것",
+        "date": "2025-11-17 10:00",
+        "link": "http://www.efnews.co.kr/news/articleView.html?idxno=124879"
+    },
+    {
+        "title": "5년 뒤 전 업종서 중국에 밀린다…韓 10대 주력 산업 경쟁력 '빨간불'",
+        "date": "2025-11-17 10:00",
+        "link": "http://www.newsian.co.kr/news/articleView.html?idxno=83534"
+    },
+    {
+        "title": "LG디스플레이, CES 혁신 2관왕 석권",
+        "date": "2025-11-17 10:00",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=465896"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 차량용 디스플레이 기술로 CES 혁신상 2관왕 석...",
+        "date": "2025-11-17 10:00",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=235559"
+    },
+    {
+        "title": "LG디스플레이, 차량용 디스플레이 혁신으로 CES '2관왕'",
+        "date": "2025-11-17 10:00",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=46081"
+    },
+    {
+        "title": "LG디스플레이, 세계 최초 차량용 디스플레이 기술로 'CES 혁신' 2관왕",
+        "date": "2025-11-17 10:00",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=238100"
+    },
+    {
+        "title": "LG디스플레이, 차량용 디스플레이로 CES 혁신상 2관왕",
+        "date": "2025-11-17 10:00",
+        "link": "https://www.newspim.com/news/view/20251117000079"
+    },
+    {
+        "title": "LG디스플레이, 차량용 디스플레이 기술로 CES 혁신상 수상",
+        "date": "2025-11-17 10:00",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=112399"
+    },
+    {
+        "title": "LG디스플레이, CES 혁신 2관왕 석권",
+        "date": "2025-11-17 10:00",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=230426"
+    },
+    {
+        "title": "'출시 6년' 애플카드, 여전히 매력적일까…혜택과 한계는?",
+        "date": "2025-11-17 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=605164"
+    },
+    {
+        "title": "애플, 차세대 맥 프로 계획 없어…M4 울트라 칩 개발 중단",
+        "date": "2025-11-17 09:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=605141"
+    },
+    {
+        "title": "20주년 아이폰·2세대 아이폰 에어 따로 출시된다",
+        "date": "2025-11-17 09:52",
+        "link": "https://n.news.naver.com/mnews/article/092/0002398656?sid=105"
+    },
+    {
+        "title": "LG디스플레이, CES 혁신 2관왕 석권",
+        "date": "2025-11-17 09:52",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=256601"
+    },
+    {
+        "title": "디스플레이 장비 디엠에스, 3분기 매출 2배 '껑충'",
+        "date": "2025-11-17 09:41",
+        "link": "https://n.news.naver.com/mnews/article/014/0005435263?sid=101"
+    },
+    {
+        "title": "[TOP's Pick] 한울소재과학 JKM, 中 C사 OLED 필름 소재 수주",
+        "date": "2025-11-17 09:41",
+        "link": "https://www.topdaily.kr/articles/106732"
+    },
+    {
+        "title": "[공시속보] 파인텍, OLED 장비 공급계약 체결→매출 21% 규모 수주",
+        "date": "2025-11-17 09:36",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15877052"
+    },
+    {
+        "title": "커세어, 블랙프라이데이 최대 50% 할인…게이밍 기어부터 엘가토·컴포...",
+        "date": "2025-11-17 09:36",
+        "link": "https://www.gpkorea.com/news/articleView.html?idxno=136352"
+    },
+    {
+        "title": "한울소재과학 자회사, 中 대형 패널사에 'OLED 필름' 공급",
+        "date": "2025-11-17 09:16",
+        "link": "https://news.dealsitetv.com/articles/161661"
+    },
+    {
+        "title": "한울소재과학 자회사 JKM, 中서 OLED 소재 수주…글로벌확대",
+        "date": "2025-11-17 09:14",
+        "link": "https://n.news.naver.com/mnews/article/008/0005278988?sid=101"
+    },
+    {
+        "title": "애플TV, 내년부터 추가금 없이 손흥민·메시 뛰는 MLS 서비스",
+        "date": "2025-11-17 09:14",
+        "link": "https://n.news.naver.com/mnews/article/421/0008607911?sid=105"
+    },
+    {
+        "title": "한경협 中, 5년 후 10대 주력업종 韓 앞지를 것",
+        "date": "2025-11-17 09:12",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1303771"
+    },
+    {
+        "title": "아이폰 폴드·에어2·프로 라인업 개편… 애플 로드맵 20년 만의 최대 변...",
+        "date": "2025-11-17 09:09",
+        "link": "https://n.news.naver.com/mnews/article/138/0002209738?sid=105"
+    },
+    {
+        "title": "삼성전자, '오디세이 게임 스테이션' 팝업 오픈",
+        "date": "2025-11-17 09:08",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=225795"
+    },
+    {
+        "title": "한울소재과학 JKM, 中 C사 OLED 필름 소재 수주…글로벌 고객 확대",
+        "date": "2025-11-17 09:07",
+        "link": "https://n.news.naver.com/mnews/article/277/0005680114?sid=101"
+    },
+    {
+        "title": "프라젠, 최첨단 메타 광학 구조 기반 가변초점 광학 모듈 기술 개발 참...",
+        "date": "2025-11-17 09:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003370674?sid=105"
+    },
+    {
+        "title": "추격 넘어 추월…中, 5년 후 10대 주력업종 韓 앞지를 것",
+        "date": "2025-11-17 09:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=187337"
+    },
+    {
+        "title": "[디지키 테크포럼] 마이크로컨트롤러 초저전력 모드, 슬립 모드로 에너...",
+        "date": "2025-11-17 09:00",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=324738"
+    },
+    {
+        "title": "한울소재과학 “JKM, 중국 C사 OLED 필름 소재 수주”",
+        "date": "2025-11-17 08:53",
+        "link": "https://n.news.naver.com/mnews/article/014/0005435205?sid=101"
+    },
+    {
+        "title": "삼성전자, ‘오디세이 게임 스테이션’ 팝업 체험존 운영",
+        "date": "2025-11-17 08:47",
+        "link": "https://n.news.naver.com/mnews/article/117/0004009279?sid=105"
+    },
+    {
+        "title": "애플, 맥 프로 출시 불투명…고급 데스크톱 라인업 재편되나[모닝폰]",
+        "date": "2025-11-17 08:45",
+        "link": "https://n.news.naver.com/mnews/article/018/0006165699?sid=105"
+    },
+    {
+        "title": "애플, 美 프로축구 독점 중계 조기 종료…2029년 계약 만료",
+        "date": "2025-11-17 08:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=605163"
+    },
+    {
+        "title": "한울소재과학 JKM, 中 C사 OLED 필름 소재 수주",
+        "date": "2025-11-17 08:42",
+        "link": "https://www.newspim.com/news/view/20251117000044"
+    },
+    {
+        "title": "한울소재과학 JKM, 中 C사 OLED 필름 소재 수주...글로벌 고객 확대",
+        "date": "2025-11-17 08:40",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1296803"
+    },
+    {
+        "title": "석유 등 10대 수출 주력 경쟁력, 2030년에는 中에 모두 밀려",
+        "date": "2025-11-17 08:38",
+        "link": "http://www.e-platform.net/news/articleView.html?idxno=97815"
+    },
+    {
+        "title": "추격 넘어 추월…중국, 5년 후 10대 주력업종 한국 앞지를 것",
+        "date": "2025-11-17 08:30",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=324741"
+    },
+    {
+        "title": "[IT썰] 애플, 아이폰 출시 주기 10년 만에 개편…폴더블 내년 출시",
+        "date": "2025-11-17 08:27",
+        "link": "https://n.news.naver.com/mnews/article/008/0005278952?sid=105"
+    },
+    {
+        "title": "삼성전자, 오디세이 게임 스테이션 팝업 체험존 수험생 이벤트 강화",
+        "date": "2025-11-17 08:26",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=465877"
+    },
+    {
+        "title": "애플, 내년 '아이폰 18'부터 연 2회 출시?",
+        "date": "2025-11-17 08:24",
+        "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=156751"
+    },
+    {
+        "title": "한울소재과학 자회사 JKM, 中 C사 OLED 필름 소재 수주",
+        "date": "2025-11-17 08:15",
+        "link": "http://www.newstown.co.kr/news/articleView.html?idxno=671829"
+    },
+    {
+        "title": "한울소재과학 “JKM, 中 대형사 OLED 필름 소재 수주…글로벌 고객 확대...",
+        "date": "2025-11-17 08:12",
+        "link": "https://www.etoday.co.kr/news/view/2526166"
+    },
+    {
+        "title": "한울소재과학 JKM, 中 OLED 필름 소재 연달아 수주…글로벌 고객 확대",
+        "date": "2025-11-17 08:10",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=101860"
+    },
+    {
+        "title": "한울소재과학 JKM, 中 C사 OLED 필름 소재 수주",
+        "date": "2025-11-17 08:05",
+        "link": "https://n.news.naver.com/mnews/article/003/0013603526?sid=101"
+    },
+    {
+        "title": "한울소재과학 자회사 JKM, 中 C사 OLED 필름 소재 수주",
+        "date": "2025-11-17 08:04",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=396229"
+    },
+    {
+        "title": "[SFC IPO] '승화정제' 내재화…수익성 더 좋아진다",
+        "date": "2025-11-17 08:00",
+        "link": "https://www.the-stock.kr/news/articleView.html?idxno=31407"
+    },
+    {
+        "title": "아이폰서 갤럭시로 갈아탈 의향 있다 41.0%… 이 숫자의 의미",
+        "date": "2025-11-17 07:47",
+        "link": "https://n.news.naver.com/mnews/article/665/0000006185?sid=101"
+    },
+    {
+        "title": "[Who Is ?] 이수완 덕산테코피아 대표이사",
+        "date": "2025-11-17 07:36",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=420171"
+    },
+    {
+        "title": "아이폰 17 프로 코스믹 오렌지, 몇 주 만에 색 바뀐다? 실제 변색 제보...",
+        "date": "2025-11-17 07:36",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=538973"
+    },
+    {
+        "title": "밸브, 스팀 머신·프레임·컨트롤러로 완성된 '차세대 게이밍' 완성",
+        "date": "2025-11-17 07:30",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=46054"
+    }
+]
