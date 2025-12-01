@@ -1,1 +1,427 @@
-
+[
+    {
+        "title": "[실리콘 디코드] 엔비디아는 A16, 애플은 A14…TSMC의 '초미세 투트랙' 승...",
+        "date": "2025-12-02 04:40",
+        "link": "https://www.g-enews.com/view.php?ud=202512011449469286fbbec65dfb_1"
+    },
+    {
+        "title": "[실리콘 디코드] 애플-인텔, '적과의 동침' 다시 시작되나…2027년 M칩 생...",
+        "date": "2025-12-02 03:46",
+        "link": "https://www.g-enews.com/view.php?ud=202512011430006744fbbec65dfb_1"
+    },
+    {
+        "title": "인텔, 2027년 애플 칩 공급설에 급등 후 '숨고르기'…TSMC와의 격차 당...",
+        "date": "2025-12-01 21:47",
+        "link": "https://www.newspim.com/news/view/20251201001285"
+    },
+    {
+        "title": "“아이폰만 좋아하는 일본에서 이런 일이?” 홀대받던 삼성, 깜짝 ‘대...",
+        "date": "2025-12-01 21:40",
+        "link": "https://n.news.naver.com/mnews/article/016/0002565699?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 가동 중단한 구미 LCD 공장·용지 ‘미코파워’에 매각",
+        "date": "2025-12-01 20:54",
+        "link": "https://n.news.naver.com/mnews/article/366/0001127343?sid=105"
+    },
+    {
+        "title": "부장님이 쓰는 거 같애 욕 먹었는데…뚜껑 열어보니 '반전'",
+        "date": "2025-12-01 20:04",
+        "link": "https://n.news.naver.com/mnews/article/015/0005218620?sid=105"
+    },
+    {
+        "title": "파믹, 독자 성분 '애플타치온' 함유 토너패드로 해외 사장 공략 시동 [2...",
+        "date": "2025-12-01 20:00",
+        "link": "https://www.meconomynews.com/news/articleView.html?idxno=124052"
+    },
+    {
+        "title": "LGD 구미공장, 미코파워에 매각",
+        "date": "2025-12-01 19:00",
+        "link": "https://n.news.naver.com/mnews/article/023/0003944251?sid=105"
+    },
+    {
+        "title": "[Y인사이트] VSI CNT X-레이로 의료 시장 공략...2027년 상장 목표",
+        "date": "2025-12-01 18:12",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=44656"
+    },
+    {
+        "title": "자동차부품 관련주, '맑음' 한라캐스트·티에이치엔·HL만도·디아이씨...",
+        "date": "2025-12-01 18:10",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=244211"
+    },
+    {
+        "title": "[단독] LGD 구미공장 일부땅 … 미코파워에 매각한다",
+        "date": "2025-12-01 18:09",
+        "link": "https://n.news.naver.com/mnews/article/009/0005599210?sid=101"
+    },
+    {
+        "title": "삼성D 손동일 신임 부사장 과제는 '게이밍 모니터 1위 굳히기'",
+        "date": "2025-12-01 18:00",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251201010000536"
+    },
+    {
+        "title": "애플, 글로벌 스마트폰 판매량 14년 만에 1위 탈환",
+        "date": "2025-12-01 18:00",
+        "link": "https://n.news.naver.com/mnews/article/050/0000099098?sid=101"
+    },
+    {
+        "title": "삼성 미발표 폴더블폰 'SM-F971' 모델 번호 포착.. 정사각형 '갤럭시Z 폴...",
+        "date": "2025-12-01 17:52",
+        "link": "https://kbench.com/?q=node/273862"
+    },
+    {
+        "title": "애플, 14년 만에 삼성 제치고 글로벌 스마트폰 1위 탈환 예고",
+        "date": "2025-12-01 17:42",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=193495"
+    },
+    {
+        "title": "LG 올레드TV, 유럽 1000만대 돌파…글로벌 OLED시장 점유율 ‘절반’ 장...",
+        "date": "2025-12-01 17:42",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202512011427470230897"
+    },
+    {
+        "title": "얇고, 가볍고, 강하게…'AI폰' 새 기준 세웠다",
+        "date": "2025-12-01 17:22",
+        "link": "https://n.news.naver.com/mnews/article/015/0005218474?sid=105"
+    },
+    {
+        "title": "아이폰17 효과…애플 10월 점유율 '역대 최고'",
+        "date": "2025-12-01 17:20",
+        "link": "https://n.news.naver.com/mnews/article/448/0000574244?sid=101"
+    },
+    {
+        "title": "실적 주춤한 가전·TV…노태문·류재철, 체질개선 '시험대'",
+        "date": "2025-12-01 17:02",
+        "link": "http://www.srtimes.kr/news/articleView.html?idxno=191038"
+    },
+    {
+        "title": "AI로 2000억 벌었다…산업계, 'AI 수익 경쟁' 판 열었다",
+        "date": "2025-12-01 16:55",
+        "link": "https://www.newspim.com/news/view/20251201001049"
+    },
+    {
+        "title": "애플 '아이폰17e' 이렇게 나오나?… 노치 제거된 렌더링 공개",
+        "date": "2025-12-01 16:46",
+        "link": "https://kbench.com/?q=node/273859"
+    },
+    {
+        "title": "연말 승부수 던진 삼성전자…300만원대 '트라이폴드폰' 내일 공개",
+        "date": "2025-12-01 16:44",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=820974"
+    },
+    {
+        "title": "애플, 10월 스마트폰 점유율 24.2% '역대 최고'…아이폰17 흥행에 4분기...",
+        "date": "2025-12-01 16:41",
+        "link": "https://n.news.naver.com/mnews/article/030/0003375938?sid=105"
+    },
+    {
+        "title": "'기술 심장' CTO 부활···삼성D, 미래 설비·패널 연구 통합 지휘",
+        "date": "2025-12-01 16:41",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2362702"
+    },
+    {
+        "title": "애플, 아이폰17 흥행에 글로벌 판매 급증…10월 점유율 24% 역대 최고",
+        "date": "2025-12-01 16:40",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251201010000588"
+    },
+    {
+        "title": "애플, 아이폰 17로 월간 점유율 24.2% 신기록 달성",
+        "date": "2025-12-01 16:33",
+        "link": "https://www.daily365.news/2025/12/01/%ec%95%a0%ed%94%8c-%ec%95%84%ec%9d%b4%ed%8f%b0-17%eb%a1%9c-%ec%9b%94%ea%b0%84-%ec%a0%90%ec%9c%a0%ec%9c%a8-24-2-%ec%8b%a0%ea%b8%b0%eb%a1%9d-%eb%8b%ac%ec%84%b1/"
+    },
+    {
+        "title": "“삼성도 못 잡은 주름 잡았다”…애플 ‘아이폰 폴드’ 양산 임박",
+        "date": "2025-12-01 16:30",
+        "link": "https://n.news.naver.com/mnews/article/020/0003678476?sid=105"
+    },
+    {
+        "title": "애플 폰, 14년 만에 1위 탈환 ‘예감’…말차코어·섬꾸로 MZ 공략",
+        "date": "2025-12-01 16:10",
+        "link": "https://n.news.naver.com/mnews/article/028/0002779212?sid=101"
+    },
+    {
+        "title": "애플 '폴더블 아이폰' 개발 마무리 단계.. 사전 생산 단계 돌입",
+        "date": "2025-12-01 16:06",
+        "link": "https://kbench.com/?q=node/273854"
+    },
+    {
+        "title": "애플, 10월 세계 스마트폰 역대 최고 점유율",
+        "date": "2025-12-01 15:52",
+        "link": "https://n.news.naver.com/mnews/article/023/0003944216?sid=105"
+    },
+    {
+        "title": "BOE 승소에 흑전까지...OLED 앞세운 K-디스플레이 '순항'",
+        "date": "2025-12-01 15:42",
+        "link": "https://www.mediapen.com/news/view/1062781"
+    },
+    {
+        "title": "애플, 10월 글로벌 스마트폰 점유율 ‘역대 최고’",
+        "date": "2025-12-01 15:42",
+        "link": "https://n.news.naver.com/mnews/article/366/0001127282?sid=105"
+    },
+    {
+        "title": "애플, 10월 스마트폰 점유율 24.2% '역대 최고'",
+        "date": "2025-12-01 15:34",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092152006"
+    },
+    {
+        "title": "오포 차세대 폴더블폰 '파인드 N6' 인도서 테스트 중",
+        "date": "2025-12-01 15:34",
+        "link": "https://kbench.com/?q=node/273853"
+    },
+    {
+        "title": "올레도스에 대규모 투자 쏟아붓는 中… 삼성D에 ‘도전장’",
+        "date": "2025-12-01 15:24",
+        "link": "https://n.news.naver.com/mnews/article/029/0002996716?sid=101"
+    },
+    {
+        "title": "아이폰17 강력한 효과…애플, 10월 시장점유율 역대 최고",
+        "date": "2025-12-01 15:22",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1689105"
+    },
+    {
+        "title": "삼성D, 대형사업부장에 손동일 부사장 선임",
+        "date": "2025-12-01 15:20",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=414767"
+    },
+    {
+        "title": "삼성전자, 갤럭시 AI 앞세워 인니 OTT 생태계 진출…Viu와 MZ 타깃 콘텐츠...",
+        "date": "2025-12-01 15:10",
+        "link": "https://www.theguru.co.kr/news/article.html?no=95061"
+    },
+    {
+        "title": "KGM, 슬림페이 플랜 할부 프로그램 확대 운영 外 폴스타·BMW 모토라드·...",
+        "date": "2025-12-01 15:04",
+        "link": "https://www.kukinews.com/article/view/kuk202512010149"
+    },
+    {
+        "title": "아이폰17 효과…애플 10월 점유율 사상 최고",
+        "date": "2025-12-01 14:56",
+        "link": "https://n.news.naver.com/mnews/article/666/0000089360?sid=101"
+    },
+    {
+        "title": "아이폰17 효과…애플 '대반전'",
+        "date": "2025-12-01 14:47",
+        "link": "https://n.news.naver.com/mnews/article/215/0001232935?sid=004"
+    },
+    {
+        "title": "R&amp;D 투자와 ESG 전략 결합... 제이케이시냅스 차세대 성장동력 확보",
+        "date": "2025-12-01 14:46",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=401395"
+    },
+    {
+        "title": "삼성·LG 새 사령탑 출범···'글로벌 가전 패권 경쟁' 막 올랐다",
+        "date": "2025-12-01 14:40",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=614194"
+    },
+    {
+        "title": "아이폰 17 잘 팔더니...애플, 10월 글로벌 점유율 24.2% '사상 최고'",
+        "date": "2025-12-01 14:38",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=401392"
+    },
+    {
+        "title": "[조원경 칼럼] 메타가 그리는 '안경속 미래'…스마트폰 넘어서는 착용 ...",
+        "date": "2025-12-01 14:30",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=683275"
+    },
+    {
+        "title": "애플 10월 점유율 24.2% 사상 최고…아이폰17 효과",
+        "date": "2025-12-01 14:08",
+        "link": "https://n.news.naver.com/mnews/article/374/0000478008?sid=101"
+    },
+    {
+        "title": "[Biz&amp;Law] 국민연금, 애플 '온디바이스 AI' 허위 정보로 1280억 손실",
+        "date": "2025-12-01 14:04",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=683229"
+    },
+    {
+        "title": "[AT 산업 단신] 삼성·삼성메디슨·대한전선·LG전자",
+        "date": "2025-12-01 14:04",
+        "link": "https://www.asiatime.co.kr/article/20251201500263"
+    },
+    {
+        "title": "애플 사용자 만족도 높인 인기 액세서리, 올해의 추천템",
+        "date": "2025-12-01 14:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=609011"
+    },
+    {
+        "title": "아이폰17 효과…애플 10월 점유율 24.2%로 사상 최고",
+        "date": "2025-12-01 13:57",
+        "link": "https://n.news.naver.com/mnews/article/001/0015771458?sid=105"
+    },
+    {
+        "title": "삼성디스플레이, CTO 신설…이창희 부사장 선임",
+        "date": "2025-12-01 13:57",
+        "link": "https://n.news.naver.com/mnews/article/030/0003375753?sid=105"
+    },
+    {
+        "title": "삼성, 연말 이웃사랑성금 전달식...올해도 '500억' 쾌척",
+        "date": "2025-12-01 13:40",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=551030"
+    },
+    {
+        "title": "인텔 파운드리, 애플 M시리즈 프로세서 생산 맡는다... 2027년부터 1.8나...",
+        "date": "2025-12-01 12:02",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1806636"
+    },
+    {
+        "title": "애플, 12월 대규모 SW 업데이트 임박…뭐가 바뀌나",
+        "date": "2025-12-01 11:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=608956"
+    },
+    {
+        "title": "벨킨, 맥세이프 충전 솔루션 확장…실용성과 성능 모두 잡았다",
+        "date": "2025-12-01 11:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=608960"
+    },
+    {
+        "title": "세련되고 안정된 공간, 마이크로닉스 'WIZMAX 우드리안 MAX' [2025 베스트...",
+        "date": "2025-12-01 11:40",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57052"
+    },
+    {
+        "title": "인텔, 애플과 협력설…2027년 칩셋 양산 논의",
+        "date": "2025-12-01 11:20",
+        "link": "https://n.news.naver.com/mnews/article/003/0013631277?sid=101"
+    },
+    {
+        "title": "애플·인텔 다시 손잡나… “2027년 M시리즈 칩 생산 협의 중”",
+        "date": "2025-12-01 11:18",
+        "link": "https://n.news.naver.com/mnews/article/030/0003375681?sid=104"
+    },
+    {
+        "title": "2025년 빛낸 베스트 하드웨어 브랜드… 디지털포스트 PC사랑, 수상작 발...",
+        "date": "2025-12-01 11:08",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57048"
+    },
+    {
+        "title": "아이폰 에어의 USB-C 포트가 기술적 혁신인 이유",
+        "date": "2025-12-01 10:54",
+        "link": "https://www.itworld.co.kr/article/4098205/아이폰-에어의-usb-c-포트가-기술적-혁신인-이유.html"
+    },
+    {
+        "title": "삼성, 이웃돕기성금 기부…함께 성장, 이웃 위한 희망되길",
+        "date": "2025-12-01 10:31",
+        "link": "https://n.news.naver.com/mnews/article/001/0015770786?sid=101"
+    },
+    {
+        "title": "애플, 11월 중국 스마트폰 시장 점유율 26%…화웨이의 두배",
+        "date": "2025-12-01 10:30",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=69397"
+    },
+    {
+        "title": "아이폰 폴드, 완성도는 높였지만…애플 '신중한 전략' 눈길 쏠린다",
+        "date": "2025-12-01 10:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=608912"
+    },
+    {
+        "title": "LG전자, 유럽 소비자가 뽑은 '최고의 TV 브랜드'…OLED 기술로 프리미엄...",
+        "date": "2025-12-01 10:00",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=796302"
+    },
+    {
+        "title": "애플 팟캐스트 앱, 의심스러운 자동 실행 현상 포착…새로운 공격 경로...",
+        "date": "2025-12-01 09:44",
+        "link": "https://www.itworld.co.kr/article/4098189/애플-팟캐스트-앱-의심스러운-자동-실행-현상-포착.html"
+    },
+    {
+        "title": "와이드 스크린 플립형 폴더블폰 '화웨이 퓨라 X2' 내년 1분기 출시",
+        "date": "2025-12-01 09:34",
+        "link": "https://kbench.com/?q=node/273815"
+    },
+    {
+        "title": "애플 비전 프로 SW·HW 업그레이드로 완성도↑",
+        "date": "2025-12-01 09:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=608887"
+    },
+    {
+        "title": "애플, 애플페이 결제마다 5달러 기부…레드와 연말 에이즈 퇴치 캠페인",
+        "date": "2025-12-01 09:26",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=608877"
+    },
+    {
+        "title": "애플, 보급형 맥북·아이패드 인텔 18A 공정 칩셋 탑재 가능성",
+        "date": "2025-12-01 09:16",
+        "link": "https://kbench.com/?q=node/273814"
+    },
+    {
+        "title": "‘599달러 맥북’까지 온다…애플, 2026년 초 맥북 라인업 전면 개편",
+        "date": "2025-12-01 09:13",
+        "link": "https://n.news.naver.com/mnews/article/138/0002211104?sid=105"
+    },
+    {
+        "title": "아이패드가 먼저 움직였다…애플 스튜디오 디스플레이도 드디어 120Hz 가...",
+        "date": "2025-12-01 09:10",
+        "link": "https://n.news.naver.com/mnews/article/138/0002211102?sid=105"
+    },
+    {
+        "title": "애플, 뇌 신호 분석 AI 개발…에어팟으로 수면·발작 감지 가능",
+        "date": "2025-12-01 09:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=608870"
+    },
+    {
+        "title": "“선익시스템, 목표가↑…높은 수익성 이어질 것”-메리츠",
+        "date": "2025-12-01 08:52",
+        "link": "https://www.itooza.com/common/iview.php?no=2025120108512923078"
+    },
+    {
+        "title": "30만원 아이폰 포켓 짝퉁, 中 이어 美 아마존에도 등장",
+        "date": "2025-12-01 08:44",
+        "link": "https://n.news.naver.com/mnews/article/092/0002400439?sid=105"
+    },
+    {
+        "title": "‘갤럭시 XR’ 직접 써보니…완성도는 기대 이상, 콘텐츠는 숙제",
+        "date": "2025-12-01 08:42",
+        "link": "https://www.inthenews.co.kr/news/article.html?no=79997"
+    },
+    {
+        "title": "메리츠證 “선익시스템, 中 BOE의 OLED 확대 기대감에…목표가 7만1000원...",
+        "date": "2025-12-01 08:36",
+        "link": "https://n.news.naver.com/mnews/article/366/0001127104?sid=101"
+    },
+    {
+        "title": "[키-리포트] 메리츠 선익시스템, 높은 수익성 지속",
+        "date": "2025-12-01 08:32",
+        "link": "http://www.newsdream.kr/news/articleView.html?idxno=101675"
+    },
+    {
+        "title": "'20년 연속 눈앞' 삼성, 3분기 글로벌 TV 1위…LG는 OLED 1위",
+        "date": "2025-12-01 08:30",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=680977"
+    },
+    {
+        "title": "애플이 숨긴 iOS 26 기능들…설정 안 맞으면 못 쓴다",
+        "date": "2025-12-01 08:06",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539418"
+    },
+    {
+        "title": "애플 첫 폴더블폰 양산 임박…대규모 공급망 구축[모닝폰]",
+        "date": "2025-12-01 08:04",
+        "link": "https://n.news.naver.com/mnews/article/018/0006174807?sid=105"
+    },
+    {
+        "title": "[더벨][Sanction Radar]삼성D-BOE, 'OLED 소송전' 종료…삼성전자 미소",
+        "date": "2025-12-01 08:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511241515486800109420"
+    },
+    {
+        "title": "흔들리는 갤럭시 왕좌, 삼성·애플 다시 '보급형' 전쟁",
+        "date": "2025-12-01 08:00",
+        "link": "https://n.news.naver.com/mnews/article/241/0003481007?sid=105"
+    },
+    {
+        "title": "[더벨][삼성 임원 인사]SDC, '공급망 관심사' 구매팀장 장철웅 부사장 선...",
+        "date": "2025-12-01 07:58",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511280938040120102114"
+    },
+    {
+        "title": "[더벨][LG그룹 인사]'정철동 유임' 디스플레이, 안정성 얻은 사업 방향",
+        "date": "2025-12-01 07:58",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202511271714068920103626"
+    },
+    {
+        "title": "'애플 전문가' 궈밍치 인텔, 2027년께 애플 칩 생산할 듯",
+        "date": "2025-12-01 07:55",
+        "link": "https://n.news.naver.com/mnews/article/015/0005218106?sid=101"
+    }
+]
