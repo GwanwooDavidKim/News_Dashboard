@@ -1,1 +1,507 @@
-
+[
+    {
+        "title": "애플, 아이폰17 판매 급증에 주가 286달러 사상 최고치...14년 만에 삼성...",
+        "date": "2025-12-04 03:16",
+        "link": "https://www.g-enews.com/view.php?ud=202512031740445728fbbec65dfb_1"
+    },
+    {
+        "title": "애플, 올해 아이폰 출하량 사상 최대 전망...AI 논란에도 아이폰17 흥행...",
+        "date": "2025-12-04 03:10",
+        "link": "https://www.g-enews.com/view.php?ud=2025120319483040793bc914ac71_1"
+    },
+    {
+        "title": "애플, AI 부문 새 수장에 ‘아마르 수브라마냐’ 선임",
+        "date": "2025-12-04 03:02",
+        "link": "https://www.g-enews.com/view.php?ud=2025120321365069109a1f309431_1"
+    },
+    {
+        "title": "아이폰, 올해 출하량 사상 최대 전망…중국시장 회복·신형 모델 인기...",
+        "date": "2025-12-04 02:43",
+        "link": "https://n.news.naver.com/mnews/article/293/0000075946?sid=105"
+    },
+    {
+        "title": "와츠매터, 생성형 AI 시대 스마트홈 전략 공유…매터 표준 기반 협력 모...",
+        "date": "2025-12-03 23:58",
+        "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=821540"
+    },
+    {
+        "title": "새로운 중소기업 지원체계 구축",
+        "date": "2025-12-03 22:30",
+        "link": "http://www.cctimes.kr/news/articleView.html?idxno=879613"
+    },
+    {
+        "title": "아이폰 올해 2.47억대 출하로 사상 최고치 예상",
+        "date": "2025-12-03 21:50",
+        "link": "https://n.news.naver.com/mnews/article/015/0005219836?sid=101"
+    },
+    {
+        "title": "애플, 올해 아이폰 출하량 사상 최대 전망…중국 수요 회복이 견인",
+        "date": "2025-12-03 21:32",
+        "link": "https://www.newspim.com/news/view/20251203001407"
+    },
+    {
+        "title": "새로운 중소기업 지원체계 구축",
+        "date": "2025-12-03 20:10",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1304377"
+    },
+    {
+        "title": "[포토] 접히는 OLED",
+        "date": "2025-12-03 19:46",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2363884"
+    },
+    {
+        "title": "‘두번 접는 폴더블폰’ 판 키우는 삼성전자…부품업계 화색 [한양경제...",
+        "date": "2025-12-03 19:35",
+        "link": "https://n.news.naver.com/mnews/article/666/0000089639?sid=101"
+    },
+    {
+        "title": "[포토] 삼성디스플레이가 소개하는 신기술",
+        "date": "2025-12-03 19:35",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2363883"
+    },
+    {
+        "title": "[포토] 삼성디스플레이, '2025 코리아 테크 페스티벌' 참가",
+        "date": "2025-12-03 19:24",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2363880"
+    },
+    {
+        "title": "결국 AI 수장 교체… 삼성에 밀린 '애플 AI' 애플다워질까",
+        "date": "2025-12-03 19:19",
+        "link": "https://n.news.naver.com/mnews/article/665/0000006288?sid=105"
+    },
+    {
+        "title": "접는 아이폰은 아직인데… 삼성, 350만원 '두 번 접는 폰'에 외신 반응...",
+        "date": "2025-12-03 18:51",
+        "link": "https://n.news.naver.com/mnews/article/011/0004563261?sid=101"
+    },
+    {
+        "title": "K게임 신작, 애플 디바이스와 만나면?",
+        "date": "2025-12-03 18:14",
+        "link": "https://n.news.naver.com/mnews/article/014/0005443827?sid=105"
+    },
+    {
+        "title": "자동차부품 관련주, '맑음' 코리아에프티·성우하이텍·오리엔트정공·...",
+        "date": "2025-12-03 18:10",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=244495"
+    },
+    {
+        "title": "충남도, 중소기업 새 지원체계…기술 경쟁력 강화 협약",
+        "date": "2025-12-03 17:55",
+        "link": "https://n.news.naver.com/mnews/article/003/0013637642?sid=102"
+    },
+    {
+        "title": "트라이폴드로 기술격차 벌인 삼성…글로벌 마케팅 강화해 애플 폴더블 ...",
+        "date": "2025-12-03 17:50",
+        "link": "https://n.news.naver.com/mnews/article/029/0002997338?sid=105"
+    },
+    {
+        "title": "2026년형 삼성전자 'OLED 모니터', 이렇게 출시된다",
+        "date": "2025-12-03 17:44",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=305101"
+    },
+    {
+        "title": "‘갤Z7 효과’ 삼성전자, 3분기 폴더블폰 점유율 반등…글로벌 1위 탈환",
+        "date": "2025-12-03 17:42",
+        "link": "https://www.ceoscoredaily.com/page/view/2025120317255301429"
+    },
+    {
+        "title": "충남도, 새로운 중소기업 지원체계 구축… 경쟁력 강화 기반 마련",
+        "date": "2025-12-03 17:40",
+        "link": "https://www.gukjenews.com/news/articleView.html?idxno=3446508"
+    },
+    {
+        "title": "'갤럭시Z 폴드7' 흥행 힘입어 3분기 글로벌 폴더블폰 출하량 사상 최고...",
+        "date": "2025-12-03 17:22",
+        "link": "https://kbench.com/?q=node/273958"
+    },
+    {
+        "title": "'엣지' 실패에 얼어붙은 삼성전자, 신제품 '갤럭시Z트라이폴드' 초도 물...",
+        "date": "2025-12-03 17:18",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=75124"
+    },
+    {
+        "title": "[포토] 삼성디스플레이, '2025 코리아 테크 페스티벌' 대통령표창 수상",
+        "date": "2025-12-03 17:12",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2363859"
+    },
+    {
+        "title": "8일까지 애플 고정밀지도 반출 결정...데이터센터 위치가 쟁점",
+        "date": "2025-12-03 17:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003376953?sid=101"
+    },
+    {
+        "title": "충남도, 중소기업 기술 경쟁력 강화 업무협약식 개최",
+        "date": "2025-12-03 16:58",
+        "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=862342"
+    },
+    {
+        "title": "인도, 빅브라더 되나...모든 스마트폰에 정부 보안 앱 설치",
+        "date": "2025-12-03 16:50",
+        "link": "https://n.news.naver.com/mnews/article/469/0000901076?sid=104"
+    },
+    {
+        "title": "LG디스플레이, 안 쓰는 LCD 라인 일부 팔았다…더욱 뚜렷해지는 OLED 체질...",
+        "date": "2025-12-03 16:48",
+        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=179246"
+    },
+    {
+        "title": "BOE, 애플 아이폰17e OLED 퍼스트 벤더로 공급",
+        "date": "2025-12-03 16:40",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=44759"
+    },
+    {
+        "title": "정부 보안 앱 의무 설치…독재국가인가 반발 확산하는 인도",
+        "date": "2025-12-03 16:20",
+        "link": "https://n.news.naver.com/mnews/article/277/0005688478?sid=104"
+    },
+    {
+        "title": "“대대익선이지” 쫙 펼쳐진 태블릿 크기 화면 ‘시원’…휴대성은 글...",
+        "date": "2025-12-03 16:11",
+        "link": "https://n.news.naver.com/mnews/article/009/0005600307?sid=101"
+    },
+    {
+        "title": "왜 나만 갤럭시Z 트라이폴드 안 줘...협찬 못 받은 93만 IT 유튜버 영상...",
+        "date": "2025-12-03 16:08",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=405376"
+    },
+    {
+        "title": "'정철동 매직' 또 통했다...LGD, '초격차' OLED로 체질 개선",
+        "date": "2025-12-03 16:08",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=236672"
+    },
+    {
+        "title": "삼성전자, 3단 폴더블 '갤럭시 Z 트라이폴드' 공개 내용은?",
+        "date": "2025-12-03 15:56",
+        "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=405282"
+    },
+    {
+        "title": "두 번 접히는 혁신, 세 번 고민되는 가격…'갤럭시 Z 트라이폴드' 반응...",
+        "date": "2025-12-03 15:50",
+        "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=178161"
+    },
+    {
+        "title": "삼성전자·LG전자 '아픈 손가락' TV사업 적자 벗어나나, LCD 가격 하락에...",
+        "date": "2025-12-03 15:48",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=422361"
+    },
+    {
+        "title": "애플, 인도 정부 소유 보안 앱 사전 설치 명령에 의무 준수할 계획 없...",
+        "date": "2025-12-03 15:46",
+        "link": "https://www.newspim.com/news/view/20251203001090"
+    },
+    {
+        "title": "삼성전자 '갤럭시Z 트라이폴드'에 외신도 '호평'",
+        "date": "2025-12-03 15:32",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=114928"
+    },
+    {
+        "title": "충남도, 새로운 중소기업 지원체계 구축",
+        "date": "2025-12-03 15:31",
+        "link": "https://n.news.naver.com/mnews/article/016/0002566784?sid=101"
+    },
+    {
+        "title": "삼성, 새로운 접이식 'Z 트라이폴드' 공개… 가격대는?",
+        "date": "2025-12-03 15:26",
+        "link": "http://www.economytalk.kr/news/articleView.html?idxno=414852"
+    },
+    {
+        "title": "엔비디아 이어 애플과 손잡는 인텔…美정부 등에 업고 올해 115%↑",
+        "date": "2025-12-03 15:18",
+        "link": "https://n.news.naver.com/mnews/article/009/0005600239?sid=101"
+    },
+    {
+        "title": "크래프톤, 애플 게임 쇼케이스에서 ‘인조이’ 맥 버전 공개",
+        "date": "2025-12-03 15:16",
+        "link": "https://www.m-economynews.com/news/article.html?no=62392"
+    },
+    {
+        "title": "셀카·게임·영상을 동시에...'갤럭시 Z 트라이폴드' 써보니",
+        "date": "2025-12-03 15:14",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1304753"
+    },
+    {
+        "title": "애플 iOS 26.1, 기본 업데이트 적용…iOS 18 사용자 대상",
+        "date": "2025-12-03 15:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=609806"
+    },
+    {
+        "title": "애플보다 한발 앞섰다…삼성 트라이폴드 외신 평가",
+        "date": "2025-12-03 14:54",
+        "link": "https://n.news.naver.com/mnews/article/031/0000986152?sid=105"
+    },
+    {
+        "title": "선익시스템, 대형 OLED 기술력 인정…'산업기술혁신상' 수상 [소부장디...",
+        "date": "2025-12-03 14:41",
+        "link": "https://n.news.naver.com/mnews/article/138/0002211424?sid=105"
+    },
+    {
+        "title": "충남도, 중소기업 기술 경쟁력 강화 위한 지원체계 구축",
+        "date": "2025-12-03 14:30",
+        "link": "http://www.dynews.co.kr/news/articleView.html?idxno=830067"
+    },
+    {
+        "title": "‘사기 방지냐, 국민 감시냐’... 인도 정부, 모든 스마트폰에 ‘보안 ...",
+        "date": "2025-12-03 14:16",
+        "link": "https://n.news.naver.com/mnews/article/366/0001127790?sid=104"
+    },
+    {
+        "title": "애플, 국내 첫 게임 쇼케이스 개최 아이폰17 프로 성능 공개",
+        "date": "2025-12-03 14:02",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=117471"
+    },
+    {
+        "title": "인텔, 애플과 'M 시리즈' 칩 생산 논의…2027년 양산 전망",
+        "date": "2025-12-03 14:02",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=117472"
+    },
+    {
+        "title": "크래프톤, '인조이' 맥 버전 애플 쇼케이스서 공개",
+        "date": "2025-12-03 14:00",
+        "link": "https://www.e-science.co.kr/news/articleView.html?idxno=117470"
+    },
+    {
+        "title": "애플 게임 구독 '아케이드' 라인업 강화",
+        "date": "2025-12-03 13:50",
+        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=401143"
+    },
+    {
+        "title": "선익시스템, 대형 OLED 핵심기술로 '올해의 산업기술혁신상'",
+        "date": "2025-12-03 13:40",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1304700"
+    },
+    {
+        "title": "삼성 전략무기 '트라이폴드' 출시… 아이폰17 열풍 잠재울까?",
+        "date": "2025-12-03 13:38",
+        "link": "http://www.seoulwire.com/news/articleView.html?idxno=683712"
+    },
+    {
+        "title": "삼성, '거거익선'으로 정면 돌파…트라이폴드로 시장 경계 재정의",
+        "date": "2025-12-03 13:36",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025120311523844964"
+    },
+    {
+        "title": "선익시스템, 올해의 산업기술혁신상 수상…대형 OLED 기술 성과",
+        "date": "2025-12-03 13:34",
+        "link": "https://n.news.naver.com/mnews/article/003/0013636706?sid=101"
+    },
+    {
+        "title": "“10년 내 최대 번호이동”… 이동통신시장, ‘트라이폴드·연말 특수’...",
+        "date": "2025-12-03 13:32",
+        "link": "https://www.viva100.com/article/20251203500902"
+    },
+    {
+        "title": "애플 iOS 26.2, 아이폰 커스터마이징 업그레이드…투명도 조절·직관적 ...",
+        "date": "2025-12-03 13:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=609761"
+    },
+    {
+        "title": "애플, 맥OS 보안 보상금 대폭 축소…악성코드 확산 우려",
+        "date": "2025-12-03 13:24",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=609787"
+    },
+    {
+        "title": "챗GPT, 애플 ‘건강 앱’ 자료까지 통합할까",
+        "date": "2025-12-03 13:20",
+        "link": "https://n.news.naver.com/mnews/article/092/0002400858?sid=105"
+    },
+    {
+        "title": "애플, 장애 학생 접근성 캠페인 공개",
+        "date": "2025-12-03 13:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=609792"
+    },
+    {
+        "title": "[주니어전자]IT 히어로 - 스티브 워즈니악, 애플 공동 창업자",
+        "date": "2025-12-03 12:01",
+        "link": "https://n.news.naver.com/mnews/article/030/0003376675?sid=102"
+    },
+    {
+        "title": "삼성 보급형 '갤럭시Z 플립 7 FE' 단종 수순 밟나?",
+        "date": "2025-12-03 11:54",
+        "link": "https://kbench.com/?q=node/273930"
+    },
+    {
+        "title": "해외 언론이 본 삼성 갤럭시 트라이폴드",
+        "date": "2025-12-03 11:42",
+        "link": "http://www.globalepic.co.kr/view.php?ud=20251203113935834048439a4874_29"
+    },
+    {
+        "title": "위기의 애플이 만든 ‘퀵타임’, 34년이 지나도 여전히 유효한 이유",
+        "date": "2025-12-03 11:30",
+        "link": "https://www.itworld.co.kr/article/4099870/위기의-애플이-만든-퀵타임-34년이-지나도-여전히-유.html"
+    },
+    {
+        "title": "아이에스티이, '애플 파트너' 페가트론과 AI 데이터센터 시장 본격 진출...",
+        "date": "2025-12-03 11:28",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=714601"
+    },
+    {
+        "title": "이젠 '접기 경쟁'…폴더블폰 시장 주도권 경쟁 본격화",
+        "date": "2025-12-03 11:18",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1689425"
+    },
+    {
+        "title": "태블릿 시장, 중국 토종 vs 한국 프리미엄 제품",
+        "date": "2025-12-03 11:17",
+        "link": "https://n.news.naver.com/mnews/article/123/0002373136?sid=004"
+    },
+    {
+        "title": "“역시 삼성” 외신들 극찬…갤럭시 Z 트라이폴드폰에 쏟아진 반응은",
+        "date": "2025-12-03 11:12",
+        "link": "https://n.news.naver.com/mnews/article/009/0005600092?sid=101"
+    },
+    {
+        "title": "판 커진 '접는 폰' 시장…삼성D, '폴더블 올레드' 공급망 확대",
+        "date": "2025-12-03 11:04",
+        "link": "https://n.news.naver.com/mnews/article/003/0013636204?sid=101"
+    },
+    {
+        "title": "이래도 불안?…삼성 트라이폴드, 20만번 접는 테스트에도 끄덕없다",
+        "date": "2025-12-03 11:02",
+        "link": "https://n.news.naver.com/mnews/article/003/0013636197?sid=105"
+    },
+    {
+        "title": "삼성·LG '가전 수장' 김철기·백승태···AI·로봇·중국 등 과제 산더...",
+        "date": "2025-12-03 11:02",
+        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=417546"
+    },
+    {
+        "title": "애플, 인도 정부와 정면 충돌…“국가 감시 앱, 아이폰에 못 넣는다”",
+        "date": "2025-12-03 10:59",
+        "link": "https://n.news.naver.com/mnews/article/138/0002211385?sid=105"
+    },
+    {
+        "title": "LG디스플레이, 구미 공장 부지 매각…체질 개선 속도",
+        "date": "2025-12-03 10:58",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=542417"
+    },
+    {
+        "title": "챗GPT, 애플 건강 데이터 연동되나…AI 피트니스 혁신 예고",
+        "date": "2025-12-03 10:52",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=609753"
+    },
+    {
+        "title": "삼성 '독주'에 애플 '참전', 새기록 쓴 폴더블 시장 2막 열린다",
+        "date": "2025-12-03 10:51",
+        "link": "https://www.newspim.com/news/view/20251203000528"
+    },
+    {
+        "title": "크래프톤, '인조이' Mac 버전... 애플 게임 쇼케이스서 공개",
+        "date": "2025-12-03 10:42",
+        "link": "https://www.mhns.co.kr/news/articleView.html?idxno=732913"
+    },
+    {
+        "title": "증권사가 선택한 12월 일타종목!",
+        "date": "2025-12-03 10:18",
+        "link": "http://www.globalepic.co.kr/view.php?ud=2025120310000571205ebfd494dd_29"
+    },
+    {
+        "title": "챗GPT 아이폰 앱에 숨겨진 아이콘…애플 건강 앱 연동 가능성 제기",
+        "date": "2025-12-03 10:14",
+        "link": "https://www.itworld.co.kr/article/4099821/챗gpt-아이폰-앱에-숨겨진-아이콘애플-건강-앱-연동-가.html"
+    },
+    {
+        "title": "크래프톤, 애플 게임 쇼케이스에서 '인조이' 맥 버전 공개",
+        "date": "2025-12-03 10:12",
+        "link": "https://www.gametoc.co.kr/news/articleView.html?idxno=104462"
+    },
+    {
+        "title": "삼성전자, 스마트폰 ‘폼팩터 전쟁’..360만원 3단 폴더블 승부될까?",
+        "date": "2025-12-03 10:08",
+        "link": "http://kpenews.com/View.aspx?No=3878146"
+    },
+    {
+        "title": "애플, 아이폰17e 2026년 초 출시…A19 칩·센터 스테이지 탑재",
+        "date": "2025-12-03 10:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=609706"
+    },
+    {
+        "title": "삼성 스마트폰 1위 신화 흔들…내년 수성 전략 어떻게 짤까",
+        "date": "2025-12-03 10:07",
+        "link": "https://n.news.naver.com/mnews/article/119/0003032624?sid=105"
+    },
+    {
+        "title": "애플, 싱가포르서 '탭 투 페이' 결제 서비스 지원…글로벌 확산 지속",
+        "date": "2025-12-03 10:02",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=609672"
+    },
+    {
+        "title": "엇갈리는 OLED 시장···IT는 경쟁 과열, 대형은 반등 기대",
+        "date": "2025-12-03 10:00",
+        "link": "https://www.ziksir.com/news/articleView.html?idxno=114730"
+    },
+    {
+        "title": "삼성전자 '갤럭시 Z 트라이폴드' 공개...폴더블 기술력으로 완성한 3단 ...",
+        "date": "2025-12-03 09:56",
+        "link": "http://www.marketnews.co.kr/news/articleView.html?idxno=73415"
+    },
+    {
+        "title": "“아이폰, 왜이렇게 못생겼어?” 혹평 쏟아지더니 반전…애플 일냈다",
+        "date": "2025-12-03 09:52",
+        "link": "https://n.news.naver.com/mnews/article/011/0004562944?sid=105"
+    },
+    {
+        "title": "휴대성까지 갖춘 강력한 AI 게이밍 노트북, 에이서 니트로 V 16S AI ANV16S-...",
+        "date": "2025-12-03 09:46",
+        "link": "https://www.betanews.net/article/view/beta202512010071"
+    },
+    {
+        "title": "LG전자 '불량 LCD TV'  무상수리 끝내기로…내년 유상",
+        "date": "2025-12-03 09:45",
+        "link": "https://n.news.naver.com/mnews/article/374/0000478420?sid=101"
+    },
+    {
+        "title": "애플 게임 쇼케이스서 한국 게임들 기술력 과시",
+        "date": "2025-12-03 09:32",
+        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=401131"
+    },
+    {
+        "title": "tvN 등 12개 채널 끊겠다 … CJ ENM, LG헬로비전에 최후 통첩 [디지털포...",
+        "date": "2025-12-03 09:30",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57107"
+    },
+    {
+        "title": "인도 아이폰에 정부 앱 넣어라 vs 애플 있을 수 없는 일 [모닝폰]",
+        "date": "2025-12-03 08:48",
+        "link": "https://n.news.naver.com/mnews/article/018/0006176525?sid=105"
+    },
+    {
+        "title": "애플·삼성도 깔아라…인도, 정부 '보안 앱' 강제 설치 명령에 '빅브라...",
+        "date": "2025-12-03 07:50",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251203010001488"
+    },
+    {
+        "title": "애플 1% 상승, 또 사상 최고…엔비디아와 시총차 더욱 줄여",
+        "date": "2025-12-03 07:45",
+        "link": "https://n.news.naver.com/mnews/article/421/0008639020?sid=104"
+    },
+    {
+        "title": "스마트폰 ‘판매 1등’ 빼앗기나…폴더블 3파전 승자는?",
+        "date": "2025-12-03 07:43",
+        "link": "https://n.news.naver.com/mnews/article/056/0012078302?sid=101"
+    },
+    {
+        "title": "애플 폴더블폰 양산 임박…무주름 기술로 글로벌 시장 흔든다",
+        "date": "2025-12-03 07:30",
+        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=47568"
+    },
+    {
+        "title": "아이패드 미니, 삼성D 전량 생산…LGD는 프로에 집중",
+        "date": "2025-12-03 07:08",
+        "link": "https://dealsite.co.kr/articles/152517"
+    },
+    {
+        "title": "[GAM]'AI 하드웨어' 트렌드 선도주자② 12월 A주 핵심테마 '스마트 안경...",
+        "date": "2025-12-03 07:00",
+        "link": "https://www.newspim.com/news/view/20251202001074"
+    },
+    {
+        "title": "삼성, 3단 폴더블 스마트폰 '갤럭시Z 트라이폴드' 이달 출시",
+        "date": "2025-12-03 07:00",
+        "link": "https://www.itbiznews.com/news/articleView.html?idxno=189210"
+    },
+    {
+        "title": "[GAM]'AI 하드웨어' 트렌드 선도주자① 12월 A주 핵심테마 '스마트 안경...",
+        "date": "2025-12-03 07:00",
+        "link": "https://www.newspim.com/news/view/20251202001073"
+    }
+]
