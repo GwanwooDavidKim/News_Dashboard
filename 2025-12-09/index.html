@@ -20,62 +20,62 @@
             padding: 20px;
             background-color: #FFFFFF;
             box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-            position: relative;
+            position: relative; /* Needed for absolute positioning of the link */
         }
         .header {
-            background-color: #0F2C59;
+            background-color: #0F2C59; /* Deep Blue */
             color: #FFFFFF;
             padding: 15px 20px;
             margin-bottom: 20px;
             border-radius: 4px;
-            position: relative;
-            min-height: 60px;
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
+            position: relative; /* To contain the absolute positioned link */
+             min-height: 60px; /* Ensure space for title and date */
+             display: flex;
+             flex-direction: column;
+             justify-content: center;
         }
         .header h1 {
-            margin: 0 0 5px 0;
+            margin: 0 0 5px 0; /* Add bottom margin */
             font-size: 24px;
             font-weight: 600;
-            padding-right: 100px;
+            padding-right: 100px; /* Ensure title doesn't overlap with link */
             line-height: 1.2;
         }
         .header p {
             margin: 0;
             font-size: 14px;
-            word-break: keep-all;
-            white-space: nowrap;
-            overflow: hidden;
-            text-overflow: ellipsis;
+            word-break: keep-all; /* Prevent awkward breaks in date */
+            white-space: nowrap; /* Keep on one line initially */
+            overflow: hidden; /* Hide overflow */
+            text-overflow: ellipsis; /* Add ellipsis if too long */
             line-height: 1.3;
         }
         .header-link {
-            position: absolute;
-            top: 50%;
-            right: 20px;
-            transform: translateY(-50%);
-            color: white;
-            text-decoration: none;
-            font-size: 14px;
-            background-color: rgba(255, 255, 255, 0.1);
-            padding: 5px 10px;
-            border-radius: 3px;
-        }
+             position: absolute;
+             top: 50%; /* Center vertically */
+             right: 20px;
+             transform: translateY(-50%); /* Precise vertical centering */
+             color: white;
+             text-decoration: none;
+             font-size: 14px;
+             background-color: rgba(255, 255, 255, 0.1); /* Optional background */
+             padding: 5px 10px;
+             border-radius: 3px;
+         }
         .header-link:hover {
             background-color: rgba(255, 255, 255, 0.2);
-            text-decoration: underline;
+            text-decoration: underline; /* Add underline on hover */
         }
         .tabs {
             overflow: hidden;
             border-bottom: 1px solid #D3D3D3;
             margin-bottom: 20px;
-            white-space: nowrap;
-            overflow-x: auto;
+            white-space: nowrap; /* Prevent tabs from wrapping */
+            overflow-x: auto; /* Allow horizontal scrolling for tabs if needed */
         }
         .tab-button {
             background-color: inherit;
-            display: inline-block;
+            display: inline-block; /* Use inline-block instead of float */
             border: none;
             outline: none;
             cursor: pointer;
@@ -83,18 +83,20 @@
             transition: 0.3s;
             font-size: 15px;
             font-weight: 500;
-            color: #555;
+            color: #555; /* Original inactive text color */
             border-bottom: 3px solid transparent;
         }
+        /* New Hover Colors */
         .tab-button:hover {
-            background-color: #E0EFFF;
-            border-bottom: 3px solid #77AADD;
-            color: #0056b3;
+            background-color: #E0EFFF; /* Light blue hover */
+            border-bottom: 3px solid #77AADD; /* Medium blue hover border */
+            color: #0056b3; /* Slightly darker blue text on hover */
         }
+        /* New Active Colors */
         .tab-button.active {
-            color: #007bff;
+            color: #007bff; /* Standard Bootstrap primary blue */
             border-bottom: 3px solid #007bff;
-            font-weight: 600;
+            font-weight: 600; /* Make active tab text slightly bolder */
         }
         .tab-content {
             display: none;
@@ -107,51 +109,53 @@
             to {opacity: 1;}
         }
         .kpi-container {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+            display: grid; /* Use grid for better control */
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); /* Responsive columns */
             gap: 15px;
             margin-bottom: 20px;
         }
         .kpi-card {
-            background-color: #F8F9FA;
+            background-color: #F8F9FA; /* Lighter grey */
             padding: 15px;
             border-radius: 4px;
             text-align: center;
-            border-left: 4px solid #0F2C59;
+            border-left: 4px solid #0F2C59; /* Deep blue accent */
             box-shadow: 0 1px 3px rgba(0,0,0,0.05);
-            min-height: 110px;
+            min-height: 110px; /* Ensure consistent height */
             display: flex;
             flex-direction: column;
             justify-content: center;
-            transition: transform 0.2s;
-            cursor: pointer;
-        }
-        .kpi-card:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
         }
         .kpi-card h3 {
             margin: 0 0 8px 0;
-            font-size: 15px;
+            font-size: 15px; /* Slightly smaller title */
             color: #0F2C59;
             font-weight: 600;
         }
         .kpi-card p.value {
             margin: 0;
-            font-size: 20px;
+            font-size: 22px; /* Larger value */
             font-weight: bold;
-            color: #212529;
+            color: #212529; /* Darker text */
             line-height: 1.2;
         }
-        .kpi-card .value-change {
-            font-size: 13px;
+         .kpi-card .value-change { /* Style for change indicator */
+            font-size: 13px; /* Smaller subtext */
             margin-top: 5px;
-            color: #6C757D;
-            line-height: 1.3;
+            color: #6C757D; /* Grey subtext */
+             line-height: 1.3;
+        }
+        .kpi-card .value-change.negative {
+             color: #D32F2F; /* Red for negative */
+             font-weight: 500;
+        }
+        .kpi-card .value-change.positive {
+             color: #388E3C; /* Green for positive */
+             font-weight: 500;
         }
         h2 {
-            color: #0F2C59;
-            border-bottom: 2px solid #E9ECEF;
+            color: #0F2C59; /* Deep Blue */
+            border-bottom: 2px solid #E9ECEF; /* Lighter border */
             padding-bottom: 8px;
             margin-top: 25px;
             margin-bottom: 15px;
@@ -163,23 +167,23 @@
             padding-left: 0;
         }
         li {
-            margin-bottom: 12px;
-            padding-left: 20px;
+            margin-bottom: 12px; /* Slightly more spacing */
+            padding-left: 20px; /* Indent more */
             position: relative;
         }
         li::before {
             content: '■';
             position: absolute;
             left: 0;
-            color: #007bff;
+            color: #007bff; /* Use active tab blue for bullet */
             font-size: 10px;
-            top: 7px;
+            top: 7px; /* Adjust vertical alignment */
         }
         .section {
             margin-bottom: 25px;
-            padding: 20px;
+            padding: 20px; /* More padding */
             background-color: #FFFFFF;
-            border: 1px solid #E9ECEF;
+            border: 1px solid #E9ECEF; /* Lighter border */
             border-radius: 4px;
             box-shadow: 0 1px 2px rgba(0,0,0,0.03);
         }
@@ -192,14 +196,14 @@
         }
         .keyword {
             font-weight: 600;
-            color: #17a2b8;
-            background-color: #e2f7fa;
+            color: #17a2b8; /* Teal color for keywords */
+            background-color: #e2f7fa; /* Light teal background */
             padding: 2px 5px;
             border-radius: 3px;
             margin-right: 3px;
-            white-space: nowrap;
+            white-space: nowrap; /* Prevent keyword from breaking */
         }
-        .roadmap {
+         .roadmap {
             margin-top: 30px;
             border-top: 1px solid #D3D3D3;
             padding-top: 20px;
@@ -215,7 +219,7 @@
             padding-bottom: 10px;
             padding-top: 5px;
         }
-        .roadmap-item::before {
+         .roadmap-item::before {
             content: '';
             position: absolute;
             left: -8px;
@@ -233,54 +237,61 @@
             margin-bottom: 3px;
             font-size: 15px;
         }
-        .roadmap-item span {
+         .roadmap-item span {
             font-size: 14px;
             color: #555;
-            display: block;
-            margin-bottom: 5px;
-        }
+            display: block; /* Ensure each item starts on a new line */
+            margin-bottom: 5px; /* Add spacing between bullet items */
+         }
+         /* Style for the bullet points requested within roadmap items */
         .roadmap-item span::before {
-            content: "- ";
-            margin-right: 5px;
-            color: inherit;
-            font-weight: normal;
-        }
+            content: "- "; /* Add the hyphen bullet */
+            margin-right: 5px; /* Space after the bullet */
+            color: inherit; /* Inherit color */
+            font-weight: normal; /* Normal weight */
+         }
+
         .references {
             margin-top: 30px;
             border-top: 1px solid #D3D3D3;
             padding-top: 20px;
         }
         .references h2 {
-            margin-bottom: 15px;
+             margin-bottom: 15px;
         }
         .references ul {
             list-style-type: none;
             padding-left: 0;
             font-size: 13px;
             max-height: 300px;
-            overflow-y: auto;
+             overflow-y: auto;
             border: 1px solid #EFEFEF;
-            padding: 15px;
-            background-color: #F8F9FA;
+             padding: 15px; /* More padding */
+            background-color: #F8F9FA; /* Lighter grey */
             border-radius: 4px;
         }
         .references li {
-            margin-bottom: 10px;
+            margin-bottom: 10px; /* More spacing */
             padding-left: 0;
         }
-        .references li::before {
-            content: '';
-        }
+         .references li::before {
+            content: ''; /* Remove default bullet */
+         }
         .references a {
-            color: #005A9C;
+            color: #005A9C; /* Standard link blue */
             text-decoration: none;
             display: block;
             word-break: break-all;
         }
         .references a:hover {
             text-decoration: underline;
-            color: #003d69;
+            color: #003d69; /* Darker blue on hover */
         }
+         .references .ref-date {
+             font-size: 11px;
+             color: #6c757d;
+             margin-left: 5px;
+         }
         .footer {
             text-align: right;
             margin-top: 30px;
@@ -289,22 +300,34 @@
             border-top: 1px solid #D3D3D3;
             padding-top: 15px;
         }
-        @media (max-width: 992px) {
-            .kpi-container {
-                grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-            }
+        .update-mark {
+            font-size: 10px;
+            color: #E67E22; /* Orange color for update mark */
+            font-weight: bold;
+            margin-left: 5px;
+            vertical-align: super;
         }
+
+
+        /* Responsive adjustments */
+        @media (max-width: 992px) { /* Adjust breakpoint for better grid behavior */
+             .kpi-container {
+                 grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); /* Slightly smaller min width */
+             }
+        }
+
         @media (max-width: 768px) {
             body { font-size: 13px; }
             .header { padding: 10px 15px; min-height: 50px; }
             .header h1 { font-size: 18px; padding-right: 80px; margin-bottom: 3px;}
-            .header p { font-size: 12px; line-height: 1.4; white-space: normal; }
-            .header-link { font-size: 12px; top: 50%; right: 15px; padding: 4px 8px; }
+            .header p { font-size: 12px; line-height: 1.4; white-space: normal; } /* Allow wrapping on mobile */
+             .header-link { font-size: 12px; top: 50%; right: 15px; padding: 4px 8px; }
             .tab-button { padding: 10px 12px; font-size: 14px; }
-            .kpi-container { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; }
-            .kpi-card h3 { font-size: 14px; }
-            .kpi-card p.value { font-size: 20px; }
-            .kpi-card .value-change { font-size: 12px;}
+            /* .tabs { white-space: nowrap; overflow-x: auto; } */ /* Already applied above */
+            .kpi-container { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; } /* Further adjust grid */
+             .kpi-card h3 { font-size: 14px; }
+             .kpi-card p.value { font-size: 20px; }
+             .kpi-card .value-change { font-size: 12px;}
             h2 { font-size: 17px; }
             .section { padding: 15px; }
             .section h3 { font-size: 15px; }
@@ -312,20 +335,22 @@
             .roadmap-item::before { left: -7px; top: 8px; width: 12px; height: 12px;}
             .references ul { font-size: 12px; max-height: 250px; padding: 10px; }
         }
-        @media (max-width: 480px) {
-            .container { padding: 15px; }
-            .header h1 { font-size: 16px; padding-right: 70px;}
-            .header p { font-size: 11px; }
-            .header-link { font-size: 11px; padding: 3px 6px; right: 10px;}
-            .tab-button { font-size: 12px; padding: 8px 8px; }
-            .kpi-container { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); }
-            .kpi-card { min-width: 0; }
-            h2 { font-size: 16px; }
-            .section h3 { font-size: 14px; }
-            li { padding-left: 15px; }
-            li::before { top: 6px; }
-            .references ul { font-size: 11px; }
-        }
+         @media (max-width: 480px) { /* Further adjustments for very small screens */
+             .container { padding: 15px; }
+             .header h1 { font-size: 16px; padding-right: 70px;}
+             .header p { font-size: 11px; }
+             .header-link { font-size: 11px; padding: 3px 6px; right: 10px;}
+             .tab-button { font-size: 12px; padding: 8px 8px; }
+             .kpi-container { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); } /* Stack KPIs nicely on small screens */
+             .kpi-card { min-width: 0; } /* Reset min-width */
+             h2 { font-size: 16px; }
+             .section h3 { font-size: 14px; }
+             li { padding-left: 15px; }
+             li::before { top: 6px; }
+             .references ul { font-size: 11px; }
+              .references .ref-date { display: inline; margin-left: 5px; margin-top: 0;} /* Keep date inline if possible */
+         }
+
     </style>
 </head>
 
@@ -333,7 +358,7 @@
     <div class="container">
         <div class="header">
             <h1>디스플레이 산업 국내 기사 대시보드</h1>
-            <p>기간: 2025-12-08 기준</p>
+            <p>기간: 2025-12-08 07:00~ 2025-12-09 07:00 기준</p>
             <a href="https://gwanwoodavidkim.github.io/News_Dashboard/" target="_blank" class="header-link">과거 기사</a>
         </div>
 
@@ -535,6 +560,8 @@
             </div>
         </div>
 
+
+
         <div class="references">
             <h2>참고 기사 목록</h2>
             <ul id="newsList">
@@ -569,48 +596,67 @@
             }
         }
 
-        // === 참고 기사 로딩 함수 ===
+        // === 참고 기사 로딩 함수 추가 ===
         function loadNewsReferences() {
-            // 실제 환경에서는 fetch('news_json.txt') 등을 사용하지만, 
-            // 파일이 없는 경우를 대비하여 하드코딩된 데이터를 Fallback으로 사용합니다.
-            const newsData = [
-                { title: "日 아이폰 아성 '위협'…애플 점유율 2년 연속 50%대 미만", date: "2025-12-08", link: "https://www.etnews.com/20251208000245" },
-                { title: "내년 태블릿 OLED 출하량 '급증'···삼성D·LGD, 물량 확보 경쟁 예고", date: "2025-12-08", link: "https://www.sisajournal-e.com/news/articleView.html?idxno=417675" },
-                { title: "아바코, BOE 8.6세대 OLED 2단계 장비 구매의향서 수령", date: "2025-12-08", link: "https://www.thelec.kr/news/articleView.html?idxno=45032" },
-                { title: "갤S26 렌더링 유출… S26 울트라 카메라 구조 달라진다", date: "2025-12-08", link: "https://etnews.com/20251208000218" },
-                { title: "메타 '피닉스' 출시 2027년으로 연기…완성도 최우선 전략", date: "2025-12-08", link: "https://www.digitaltoday.co.kr/news/articleView.html?idxno=610916" },
-                { title: "삼성D도 삼성전자처럼 성과연동 보상제 도입", date: "2025-12-08", link: "https://n.news.naver.com/article/018/0006179525?sid=101" },
-                { title: "LG디스플레이, 업계 최초 차량용 OLED ‘사이버 보안 인증’ 획득", date: "2025-12-08", link: "https://n.news.naver.com/mnews/article/016/0002568591?sid=101" },
-                { title: "위기의 애플, 핵심 인재 이탈 가속화…칩 개발 총괄도 퇴사 고려", date: "2025-12-08", link: "https://n.news.naver.com/mnews/article/015/0005221453?sid=101" },
-                { title: "3분기 세계 스마트폰 시장 애플·삼성 양분…1위는 아이폰16", date: "2025-12-08", link: "https://n.news.naver.com/mnews/article/374/0000479326?sid=104" },
-                { title: "삼정KPMG, 'CES 2026' 핵심 키워드 제시…피지컬 AI, 스마트홈 등", date: "2025-12-08", link: "https://n.news.naver.com/mnews/article/277/0005690144?sid=101" },
-                { title: "애플·삼성·중국이 동시에 찾는 기업… 자화전자가 왜?", date: "2025-12-08", link: "https://www.pinpointnews.co.kr/news/articleView.html?idxno=403846" }
-            ];
+            fetch('url_json.json') // url_json.json 파일 경로 확인 필요
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const newsListElement = document.getElementById('newsList');
+                    if (!newsListElement) {
+                        console.error('Error: Element with ID "newsList" not found.');
+                        return;
+                    }
 
-            const newsListElement = document.getElementById('newsList');
-            if (!newsListElement) return;
+                    // 기존 목록 지우기 (새로 로드할 때마다 목록을 갱신하려면 주석 해제)
+                    // newsListElement.innerHTML = '';
 
-            newsData.forEach(item => {
-                const li = document.createElement('li');
-                const a = document.createElement('a');
-                a.href = item.link;
-                a.textContent = `${item.title} (${item.date})`;
-                a.target = "_blank";
-                a.rel = "noopener noreferrer";
-                li.appendChild(a);
-                newsListElement.appendChild(li);
-            });
+                    data.forEach(item => {
+                        const li = document.createElement('li');
+                        const a = document.createElement('a');
+
+                        a.href = item.link;
+                        a.textContent = `${item.title} (${item.date})`; // 제목과 날짜 표시
+                        a.target = "_blank"; // 새 탭에서 열기
+                        a.rel = "noopener noreferrer"; // 보안 강화
+
+                        li.appendChild(a);
+                        newsListElement.appendChild(li);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error fetching or processing news data:', error);
+                    const newsListElement = document.getElementById('newsList');
+                    if (newsListElement) {
+                        newsListElement.innerHTML = '<li>참고 기사를 불러오는 중 오류가 발생했습니다.</li>';
+                    }
+                });
         }
+        // ===============================
 
+        // 페이지 로드 시 첫 번째 탭 자동 활성화 및 참고 기사 로드
         document.addEventListener('DOMContentLoaded', (event) => {
+            // 첫 번째 탭 활성화
             const firstTabButton = document.querySelector('.tab-button');
             if (firstTabButton) {
-                firstTabButton.click();
+                firstTabButton.click();  // 첫 번째 탭 버튼 클릭 이벤트 발생
+            } else {
+                // 탭 버튼이 없을 경우 첫 번째 탭 콘텐츠 직접 표시 (Fallback)
+                const firstTabContent = document.querySelector('.tab-content');
+                if (firstTabContent) {
+                    firstTabContent.style.display = 'block';
+                }
             }
+
+            // 참고 기사 목록 로드 함수 호출
             loadNewsReferences();
         });
     </script>
+
 </body>
+
 </html>
-
-
