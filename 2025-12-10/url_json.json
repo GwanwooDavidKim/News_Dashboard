@@ -1,1 +1,757 @@
-
+[
+    {
+        "title": "[실리콘 디코드] 구글, '제미나이 글래스' 2026년 출격…AI 웨어러블 전...",
+        "date": "2025-12-10 04:50",
+        "link": "https://www.g-enews.com/view.php?ud=202512091458014839fbbec65dfb_1"
+    },
+    {
+        "title": "애플, AI 과열에 지친 시장서 주가 반등…6개월 새 35% 상승",
+        "date": "2025-12-10 03:02",
+        "link": "https://www.g-enews.com/view.php?ud=2025120921215843069a1f309431_1"
+    },
+    {
+        "title": "[AI의 종목 이야기] 애플, AI 투자 열기 속 신중한 행보가 강점으로 부각...",
+        "date": "2025-12-10 01:06",
+        "link": "https://www.newspim.com/news/view/20251210000011"
+    },
+    {
+        "title": "안경과 대화…구글, 제미나이 탑재 AI 글라스 내년 나온다",
+        "date": "2025-12-10 00:01",
+        "link": "https://n.news.naver.com/mnews/article/025/0003488670?sid=105"
+    },
+    {
+        "title": "정식 사령탑 오른 노태문, 첫 과제 '갤Z트라이폴드' 연착륙",
+        "date": "2025-12-10 00:01",
+        "link": "https://n.news.naver.com/mnews/article/629/0000451703?sid=105"
+    },
+    {
+        "title": "애플·삼성, 3분기 세계 스마트폰 시장 양분…1위는 아이폰16",
+        "date": "2025-12-09 22:58",
+        "link": "http://www.koreareport.co.kr/news/articleView.html?idxno=42165"
+    },
+    {
+        "title": "“하루 1대도 안 팔려“ “싼 맛에 쓴다” 조롱 받더니…샤오미, 초유의...",
+        "date": "2025-12-09 20:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002569630?sid=105"
+    },
+    {
+        "title": "구글 'AI 스마트 안경' 내년 베일 벗는다",
+        "date": "2025-12-09 19:59",
+        "link": "https://n.news.naver.com/mnews/article/030/0003378901?sid=105"
+    },
+    {
+        "title": "카드고릴라, 애플페이 교통카드 도입 이용 방법 설문조사",
+        "date": "2025-12-09 19:50",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=700323"
+    },
+    {
+        "title": "생태계 기반 혁신적 건강관리…애플, '수면·청각·심장' 기능까지 탑재",
+        "date": "2025-12-09 19:38",
+        "link": "http://www.mkhealth.co.kr/news/articleView.html?idxno=76640"
+    },
+    {
+        "title": "해성옵틱스, 폴디드 줌 핵심 OIS 특허 2건 확보",
+        "date": "2025-12-09 18:46",
+        "link": "https://www.hellot.net/news/article.html?no=108018"
+    },
+    {
+        "title": "판 엎는다…구글·삼성 '제미나이' 탑재 AI 글라스 내년 출시",
+        "date": "2025-12-09 18:25",
+        "link": "https://n.news.naver.com/mnews/article/421/0008651764?sid=105"
+    },
+    {
+        "title": "'애플 실리콘' 책임자 당분간 회사 떠날 생각 없어",
+        "date": "2025-12-09 18:22",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=204643"
+    },
+    {
+        "title": "삼성전자 2026년 TV 유출, 다층 라인업 '승부수'",
+        "date": "2025-12-09 17:54",
+        "link": "https://www.wolyo.co.kr/news/articleView.html?idxno=305411"
+    },
+    {
+        "title": "10년 전 실패, 반복은 없다···구글, 삼성과 내년 AI 안경 출사표",
+        "date": "2025-12-09 17:54",
+        "link": "https://www.ajunews.com/view/20251209150628051"
+    },
+    {
+        "title": "'특허 괴물' 앞에 삼성·애플도 뭉쳤다…美 특허제도 개정 반대",
+        "date": "2025-12-09 17:41",
+        "link": "https://n.news.naver.com/mnews/article/008/0005289552?sid=101"
+    },
+    {
+        "title": "韓, 스마트글라스 부품 '中 독점' 깼다",
+        "date": "2025-12-09 17:41",
+        "link": "https://n.news.naver.com/mnews/article/011/0004565324?sid=101"
+    },
+    {
+        "title": "해성옵틱스, OIS 초격차 기술 특허 2건 확보…폴디드줌 시장 선점",
+        "date": "2025-12-09 17:36",
+        "link": "https://www.thedailypost.kr/news/articleView.html?idxno=112305"
+    },
+    {
+        "title": "[단독]'특허 괴물'에 더 유리...美 특허무효심판 개정에 삼성 반대",
+        "date": "2025-12-09 17:30",
+        "link": "https://n.news.naver.com/mnews/article/008/0005289545?sid=101"
+    },
+    {
+        "title": "[데이터 뉴스룸] 전자업체 50곳 영업益 30% 늘었는데도 웃지 못해, 이유...",
+        "date": "2025-12-09 17:24",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=334060"
+    },
+    {
+        "title": "삼성·애플, 3분기 글로벌 시장 양분…내년 'AI·폼팩터' 경쟁 예고",
+        "date": "2025-12-09 17:16",
+        "link": "https://www.ekoreanews.co.kr/news/articleView.html?idxno=83508"
+    },
+    {
+        "title": "[9일 대학가] 삼육대·연세대·성균관대",
+        "date": "2025-12-09 17:12",
+        "link": "https://www.asiatime.co.kr/article/20251209500381"
+    },
+    {
+        "title": "애플워치가 ‘수면 무호흡’ 있다 알려줬는데… 병원 가봐야 해?",
+        "date": "2025-12-09 17:10",
+        "link": "https://n.news.naver.com/mnews/article/346/0000101539?sid=103"
+    },
+    {
+        "title": "[현장] '359만원' 삼성전자 갤럭시 Z 트라이폴드, 매장에서는 파손 보험...",
+        "date": "2025-12-09 17:02",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=75428"
+    },
+    {
+        "title": "[LG의 사람들] '적자 탈출' 주역 정철동 사장, 차세대 OLED 앞세워 시장...",
+        "date": "2025-12-09 16:59",
+        "link": "https://n.news.naver.com/mnews/article/293/0000076226?sid=101"
+    },
+    {
+        "title": "애플페이 교통카드 이용자, 도입 후 절반 넘었다",
+        "date": "2025-12-09 16:58",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=227738"
+    },
+    {
+        "title": "中 LCD 저가 공세에...K-디스플레이, 프리미엄 기술군으로 이동",
+        "date": "2025-12-09 16:52",
+        "link": "http://www.metroseoul.co.kr/article/20251209500506"
+    },
+    {
+        "title": "카드고릴라, 애플페이 교통카드 도입 설문조사…결과 보니",
+        "date": "2025-12-09 16:52",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=721408"
+    },
+    {
+        "title": "레노버, 디스플레이 좌우로 늘어나는 롤러블 노트북 다음달 발표하나",
+        "date": "2025-12-09 16:50",
+        "link": "https://kbench.com/?q=node/274154"
+    },
+    {
+        "title": "애플, 모바일게임 연령등급 세분화···다수 게임 등급 상향",
+        "date": "2025-12-09 16:50",
+        "link": "https://www.globale.co.kr/news/articleView.html?idxno=35672"
+    },
+    {
+        "title": "삼성D도 삼성전자처럼 '성과연동 보상' 도입한다",
+        "date": "2025-12-09 16:48",
+        "link": "https://n.news.naver.com/mnews/article/014/0005446490?sid=101"
+    },
+    {
+        "title": "샤오미폰, 모바일 티머니 출시…버스·지하철에 다이소·카페·편의점 결...",
+        "date": "2025-12-09 16:41",
+        "link": "https://n.news.naver.com/mnews/article/030/0003378828?sid=105"
+    },
+    {
+        "title": "안경과 대화한다…구글, 제미나이 탑재한 AI 글래스 내년 출시 [팩플]",
+        "date": "2025-12-09 16:40",
+        "link": "https://n.news.naver.com/mnews/article/025/0003488590?sid=105"
+    },
+    {
+        "title": "애플 핵심 임원 이탈 속 조니 스루지 퇴사 계획 없다…칩 전략 불확실...",
+        "date": "2025-12-09 16:38",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15900422"
+    },
+    {
+        "title": "양강 구도? 애플·삼성 판가 격차 3배…삼성 '중저가 늪', 폼팩터 혁신으...",
+        "date": "2025-12-09 16:35",
+        "link": "https://n.news.naver.com/mnews/article/138/0002211987?sid=105"
+    },
+    {
+        "title": "샤오미코리아, ‘샤오미 15T Pro’에 티머니 공식 론칭…스마트폰 사용...",
+        "date": "2025-12-09 16:34",
+        "link": "https://www.socialvalue.kr/news/view/1065598295859960"
+    },
+    {
+        "title": "해성옵틱스, 폴디드 줌 핵심 OIS 기술 특허 2건 확보…고수익 폴디드줌...",
+        "date": "2025-12-09 16:32",
+        "link": "https://www.g-enews.com/view.php?ud=202512091620175714df2f5bc1bc_1"
+    },
+    {
+        "title": "[포토] 사진으로 남기는 '갤럭시 Z 트라이폴드'",
+        "date": "2025-12-09 16:29",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366551"
+    },
+    {
+        "title": "LG이노텍, 아이폰향 카메라모듈·PC향 FC BGA 기술 고도화 실현...시장 지...",
+        "date": "2025-12-09 16:28",
+        "link": "http://www.lkp.news/news/articleView.html?idxno=73115"
+    },
+    {
+        "title": "[포토] 갤럭시 Z 트라이폴드 AI 성능 확실하네",
+        "date": "2025-12-09 16:17",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366549"
+    },
+    {
+        "title": "애플, 개발자 대상 'iOS 26.2 RC 2' 출시",
+        "date": "2025-12-09 16:12",
+        "link": "https://kbench.com/?q=node/274153"
+    },
+    {
+        "title": "해성옵틱스, 손떨림 방지(OIS) 핵심 '초격차 기술' 특허 2건 확보... 글...",
+        "date": "2025-12-09 16:12",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1806961"
+    },
+    {
+        "title": "에스티아이, 차세대 전력반도체 핵심 장비 수주…글로벌 전력반도체 시...",
+        "date": "2025-12-09 16:11",
+        "link": "https://n.news.naver.com/mnews/article/030/0003378820?sid=101"
+    },
+    {
+        "title": "애플 핵심 인재 엑소더스…삼성 스마트폰에 '반사이익'",
+        "date": "2025-12-09 16:04",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025120915413146154"
+    },
+    {
+        "title": "[포토] 접는 맛이 좋네",
+        "date": "2025-12-09 16:03",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366548"
+    },
+    {
+        "title": "애플 칩 책임자 저 당분간 안 떠나요…무슨 일?",
+        "date": "2025-12-09 16:03",
+        "link": "https://n.news.naver.com/mnews/article/001/0015786815?sid=104"
+    },
+    {
+        "title": "[포토] 이게 휴대폰이야, 태블릿이야?",
+        "date": "2025-12-09 15:50",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366547"
+    },
+    {
+        "title": "아이폰16, 3분기 1위…애플·삼성 '글로벌 톱 10' 5개씩",
+        "date": "2025-12-09 15:45",
+        "link": "https://n.news.naver.com/mnews/article/031/0000987764?sid=105"
+    },
+    {
+        "title": "10여년 만 스마트 안경 재도전하는 구글",
+        "date": "2025-12-09 15:44",
+        "link": "https://n.news.naver.com/mnews/article/023/0003945868?sid=105"
+    },
+    {
+        "title": "AI 기기 경쟁... 구글, 10년 만에 스마트 안경 개발",
+        "date": "2025-12-09 15:44",
+        "link": "https://n.news.naver.com/mnews/article/023/0003945868?sid=105"
+    },
+    {
+        "title": "[포토] 체험존에 전시된 '갤럭시 Z 트라이폴드'",
+        "date": "2025-12-09 15:37",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366544"
+    },
+    {
+        "title": "[포토] 두 번 접는 폴더블폰, '갤럭시 Z 트라이폴드'",
+        "date": "2025-12-09 15:24",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366543"
+    },
+    {
+        "title": "모바일게임 등급 조정…애플, 새 연령 체계 도입",
+        "date": "2025-12-09 15:12",
+        "link": "http://www.thelec.kr/news/articleView.html?idxno=45091"
+    },
+    {
+        "title": "다가온 갤S26 복귀…삼성 '엑시노스 2600'에 걸린 기대감 [소부장반차장...",
+        "date": "2025-12-09 15:11",
+        "link": "https://n.news.naver.com/mnews/article/138/0002211972?sid=105"
+    },
+    {
+        "title": "[포토] 내 갤럭시 폴드와 비교해볼까?",
+        "date": "2025-12-09 15:11",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366542"
+    },
+    {
+        "title": "해성옵틱스, 폴디드줌 OIS 핵심 특허 2건 확보",
+        "date": "2025-12-09 15:03",
+        "link": "https://www.newspim.com/news/view/20251209000684"
+    },
+    {
+        "title": "[ET톡] OLED 종주국",
+        "date": "2025-12-09 14:59",
+        "link": "https://n.news.naver.com/mnews/article/030/0003378752?sid=105"
+    },
+    {
+        "title": "[포토] '갤럭시 Z 트라이폴드', 다 펼치면 10인치",
+        "date": "2025-12-09 14:58",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366541"
+    },
+    {
+        "title": "구글, AI 스마트 안경 내년 출시… 10년 전 ′글래스’ 실패 딛고 메타 ...",
+        "date": "2025-12-09 14:56",
+        "link": "https://n.news.naver.com/mnews/article/366/0001128998?sid=105"
+    },
+    {
+        "title": "[ICT 종합] IPX 및 카카오 소식 외",
+        "date": "2025-12-09 14:52",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=54100"
+    },
+    {
+        "title": "애플 277.89달러에 거래 마감 0.32% 하락",
+        "date": "2025-12-09 14:50",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=473714"
+    },
+    {
+        "title": "[포토] 갤럭시 Z 트라이폴드, 잘 접히나?",
+        "date": "2025-12-09 14:45",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366539"
+    },
+    {
+        "title": "성균관대, 삼성전자·삼성디스플레이 협력사 위한 스마트팩토리 트랙 신...",
+        "date": "2025-12-09 14:42",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/12/09/2025120900256.html"
+    },
+    {
+        "title": "성균관대, 삼성전자·삼성디스플레이 협력사들과 산학협력 ‘맞손’",
+        "date": "2025-12-09 14:40",
+        "link": "https://www.ekn.kr/web/view.php?key=20251209028116246"
+    },
+    {
+        "title": "LG디스플레이 차량용 OLED, '사이버 보안 엔지니어링' 국제 표준 획득",
+        "date": "2025-12-09 14:38",
+        "link": "https://www.newspost.kr/news/articleView.html?idxno=219325"
+    },
+    {
+        "title": "[포토] '갤럭시 Z 트라이폴드'에 시선집중",
+        "date": "2025-12-09 14:32",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366538"
+    },
+    {
+        "title": "바른 기업전략연구소 베트남 산업계 탄소 경쟁력이 글로벌 공략 좌우",
+        "date": "2025-12-09 14:31",
+        "link": "https://n.news.naver.com/mnews/article/018/0006180312?sid=102"
+    },
+    {
+        "title": "올해 스마트폰 OLED 출하량 9억대…中 점유율 시장 절반 육박",
+        "date": "2025-12-09 14:30",
+        "link": "https://n.news.naver.com/mnews/article/366/0001128983?sid=105"
+    },
+    {
+        "title": "친환경 뷰티브랜드 아뉴브 비타애플 브라이트 퍼밍세럼 출시",
+        "date": "2025-12-09 14:22",
+        "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1043822"
+    },
+    {
+        "title": "[포토] 삼성전자 '갤럭시 Z 트라이폴드'",
+        "date": "2025-12-09 14:19",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366537"
+    },
+    {
+        "title": "해성옵틱스 '고수익 폴디드줌 시장' 선점...OIS 핵심 초격차 기술 특허 ...",
+        "date": "2025-12-09 14:18",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1307279"
+    },
+    {
+        "title": "해성옵틱스, OIS 핵심 '초격차 기술' 특허 2건 확보",
+        "date": "2025-12-09 14:17",
+        "link": "https://n.news.naver.com/mnews/article/018/0006180300?sid=101"
+    },
+    {
+        "title": "해성옵틱스, 고수익 폴디드줌 시장 선점…OIS 핵심 특허 2건 확보",
+        "date": "2025-12-09 14:15",
+        "link": "https://n.news.naver.com/mnews/article/003/0013647493?sid=101"
+    },
+    {
+        "title": "[포토] 펼쳤을 때 얇은 '갤럭시 Z 트라이폴드'",
+        "date": "2025-12-09 14:06",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366536"
+    },
+    {
+        "title": "[포토] 두 번 접는 스마트폰",
+        "date": "2025-12-09 13:53",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366535"
+    },
+    {
+        "title": "성균관대, 삼성전자 협력업체와 '맞손'…기술·인재 경쟁력 높인다",
+        "date": "2025-12-09 13:53",
+        "link": "https://n.news.naver.com/mnews/article/421/0008650896?sid=102"
+    },
+    {
+        "title": "애플, 제조 아카데미 확장…무료 가상 교육 프로그램 제공",
+        "date": "2025-12-09 13:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=611420"
+    },
+    {
+        "title": "넷플릭스, 워너 브라더스 인수해도 애플TV 공급 중단 없다",
+        "date": "2025-12-09 13:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=611418"
+    },
+    {
+        "title": "애플 iOS 26, 에어팟 블루투스 문제 해결… 오디오 전환 제어 기능 추가",
+        "date": "2025-12-09 13:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=611383"
+    },
+    {
+        "title": "AI 수요 폭증에 기민해진 TSMC·삼성…'파운드리 속도전' 본격화",
+        "date": "2025-12-09 13:41",
+        "link": "https://n.news.naver.com/mnews/article/119/0003034800?sid=101"
+    },
+    {
+        "title": "[포토] 시민에게 공개된 '갤럭시 Z 트라이폴드'",
+        "date": "2025-12-09 13:40",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366534"
+    },
+    {
+        "title": "카드고릴라, 애플페이 교통카드 도입 이후 이용 방법 설문조사 결과 발...",
+        "date": "2025-12-09 13:36",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=205514"
+    },
+    {
+        "title": "[글로벌] 애플 핵심 인력 이탈 가속...칩 총괄까지 퇴사 고민, 흔들리는...",
+        "date": "2025-12-09 13:22",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=147570"
+    },
+    {
+        "title": "성균관대–협성회, 제조경쟁력 강화 위해 산학협력 MOU 체결",
+        "date": "2025-12-09 13:08",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=404256"
+    },
+    {
+        "title": "기가바이트 공식 한국유통사 블루존, DP 2.1 지원하는 4K OLED FO32U2P 게이...",
+        "date": "2025-12-09 12:48",
+        "link": "https://gamefocus.co.kr/detail.php?number=171865"
+    },
+    {
+        "title": "올해 OLED 스마트폰 패널 출하량 ‘9억 대’…韓, 매출 우위 유지",
+        "date": "2025-12-09 12:42",
+        "link": "https://www.nspna.com/news/?mode=view&newsid=791545"
+    },
+    {
+        "title": "수잔 팡 x 애플, 3D 프린팅 액세서리 협업 컬렉션 공개",
+        "date": "2025-12-09 12:34",
+        "link": "https://www.marieclairekorea.com/fashion/2025/12/susan-fang-x-apple/?utm_source=naver&utm_medium=partnership"
+    },
+    {
+        "title": "법무법인 프런티어, 삼성디스플레이 열린노동조합과 법률자문 협약",
+        "date": "2025-12-09 12:24",
+        "link": "http://www.lawissue.co.kr/view.php?ud=20251209121234726cf2d78c68_12"
+    },
+    {
+        "title": "에이투, 유선·무선 아우르는 게이밍키보드 ‘GK5 8K·GK5 PRO’ 공개",
+        "date": "2025-12-09 12:16",
+        "link": "https://dhnews.co.kr/news/view/1065582703865876"
+    },
+    {
+        "title": "구글, 내년 '제미나이 글래스' 출시 예고... 압도적 AI 성능으로 선발주...",
+        "date": "2025-12-09 11:56",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1806945"
+    },
+    {
+        "title": "'애플페이 교통카드' 과반수 활용 중…기후동행카드 도입 대기도",
+        "date": "2025-12-09 11:46",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=715445"
+    },
+    {
+        "title": "올해 스마트폰 OLED 패널 9억대 출하 전망 … 中, 한국 점유율 '추격'",
+        "date": "2025-12-09 11:42",
+        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=78273"
+    },
+    {
+        "title": "삼성·LG, OLED 매출 우위로 시장 선도 지속... 스마트폰 출하 9억 대 전...",
+        "date": "2025-12-09 11:40",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=54804"
+    },
+    {
+        "title": "애플 칩 총괄 스루지 퇴사 계획 없다…이탈 논란 속 잔류 선언",
+        "date": "2025-12-09 11:32",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092152484"
+    },
+    {
+        "title": "올해 스마트폰 OLED 9억대 출하 전망…中, 한국 점유율 '추격'",
+        "date": "2025-12-09 11:12",
+        "link": "https://n.news.naver.com/mnews/article/018/0006180190?sid=101"
+    },
+    {
+        "title": "RGB보다 미니멀…장비는 줄이고 성능은 유지하는 미니멀 PC 게이밍",
+        "date": "2025-12-09 11:10",
+        "link": "https://www.itworld.co.kr/article/4102852/rgb보다-미니멀장비는-줄이고-성능은-유지하는-미니.html"
+    },
+    {
+        "title": "에스티아이, 차세대 전력반도체 핵심 장비 수주…글로벌 전력반도체 시...",
+        "date": "2025-12-09 11:08",
+        "link": "https://www.nbntv.co.kr/news/articleView.html?idxno=4014994"
+    },
+    {
+        "title": "애플, 앱스토어 연령 등급 세분화…모바일 게임 다수 등급 상향",
+        "date": "2025-12-09 11:07",
+        "link": "https://n.news.naver.com/mnews/article/421/0008650540?sid=105"
+    },
+    {
+        "title": "성균관대-삼성전자·삼성디스플레이 협력사, '스마트 제조혁신' 맞손",
+        "date": "2025-12-09 11:05",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366449"
+    },
+    {
+        "title": "OLED 패널, 모바일이 다 했다···삼성·LGD, 中 제치고 프리미엄 '우위...",
+        "date": "2025-12-09 11:04",
+        "link": "https://www.ajunews.com/view/20251209103102755"
+    },
+    {
+        "title": "성균관대, 삼성전자·삼성디스플레이 협력사 협의회(협성회)와 산학협력...",
+        "date": "2025-12-09 11:04",
+        "link": "http://www.dailysmart.co.kr/news/articleView.html?idxno=117371"
+    },
+    {
+        "title": "올레드 스마트폰 패널 출하량 상승세 … 올해 9억대 전망",
+        "date": "2025-12-09 11:01",
+        "link": "https://n.news.naver.com/mnews/article/417/0001118128?sid=101"
+    },
+    {
+        "title": "OLED 반등 속 '희비'…삼성은 TV 부진, LG는 애플 효과",
+        "date": "2025-12-09 10:52",
+        "link": "https://www.newspim.com/news/view/20251209000349"
+    },
+    {
+        "title": "애플 아이폰17, 2025 최고의 스마트폰 선정…실망작은?",
+        "date": "2025-12-09 10:46",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=611344"
+    },
+    {
+        "title": "구글 “제미나이 탑재 AI 스마트 안경 내년 출시 계획”",
+        "date": "2025-12-09 10:46",
+        "link": "https://www.etoday.co.kr/news/view/2534141"
+    },
+    {
+        "title": "720억 달러 인수의 여파…애플 TV 경쟁력 흔들린다",
+        "date": "2025-12-09 10:44",
+        "link": "https://www.itworld.co.kr/article/4102840/720억-달러-인수의-여파애플-tv-경쟁력-흔들린다.html"
+    },
+    {
+        "title": "산타할아버지, 스마트폰 갖고 싶어요…SKT·KT, 연말 키즈폰 대전",
+        "date": "2025-12-09 10:44",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=147556"
+    },
+    {
+        "title": "레노버, CES 2026서 '리전 프로 롤러블' 공개 전망…21:9 화면 변신",
+        "date": "2025-12-09 10:42",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=611328"
+    },
+    {
+        "title": "구글, '안드로이드 XR' 스마트 안경 공개…메타·애플과 AR 전면전 예고",
+        "date": "2025-12-09 10:40",
+        "link": "https://www.tokenpost.kr/news/tech/312633"
+    },
+    {
+        "title": "구글, AI 스마트 안경 내년 출시…메타와 경쟁 본격화",
+        "date": "2025-12-09 10:40",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4387874"
+    },
+    {
+        "title": "성균관대, 삼성전자·삼성디스플레이 협력사 협의회(협성회)와 산학협력...",
+        "date": "2025-12-09 10:36",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=473471"
+    },
+    {
+        "title": "애플·구글, 양방향 데이터 이전 기능 대폭 강화",
+        "date": "2025-12-09 10:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=611306"
+    },
+    {
+        "title": "해킹까지 막는 OLED... LG디스플레이, '車 사이버 보안 인증'으로 위상 ...",
+        "date": "2025-12-09 10:28",
+        "link": "https://www.insight.co.kr/news/532669"
+    },
+    {
+        "title": "샤오미코리아, Xiaomi 15T Pro에 '티머니' 공식 론칭…한국 사용자 중심...",
+        "date": "2025-12-09 10:08",
+        "link": "https://kbench.com/?q=node/274129"
+    },
+    {
+        "title": "에스티아이, 전력반도체용 부품 제조장비 수주…中 고객사와 협력",
+        "date": "2025-12-09 10:07",
+        "link": "https://n.news.naver.com/mnews/article/092/0002401592?sid=105"
+    },
+    {
+        "title": "올해 OLED 스마트폰 패널 출하량 9억대…韓 패널 업체 강세",
+        "date": "2025-12-09 10:06",
+        "link": "https://www.getnews.co.kr/news/articleView.html?idxno=852659"
+    },
+    {
+        "title": "애플-구글 협력한다고?…10년 묶인 iOS–안드로이드 전환 락인 해제",
+        "date": "2025-12-09 10:03",
+        "link": "https://n.news.naver.com/mnews/article/138/0002211919?sid=105"
+    },
+    {
+        "title": "삼성전자, 폴더블 64% 점유…‘갤트라이폴드’ 통해 기술 리더십 강화",
+        "date": "2025-12-09 10:00",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2159298"
+    },
+    {
+        "title": "성균관대, 삼성전자·삼성디스플레이 협력회사 협의회와 MOU",
+        "date": "2025-12-09 10:00",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=284539"
+    },
+    {
+        "title": "삼성디스플레이도 성과연동 주식 보상 도입",
+        "date": "2025-12-09 09:58",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=284538"
+    },
+    {
+        "title": "에스티아이, 차세대 전력반도체 '방열 핵심 장비'로 글로벌 도전",
+        "date": "2025-12-09 09:58",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1307096"
+    },
+    {
+        "title": "삼성디스플레이도 성과연동 주식 보상 도입",
+        "date": "2025-12-09 09:56",
+        "link": "https://n.news.naver.com/mnews/article/003/0013646645?sid=101"
+    },
+    {
+        "title": "갤S26 울트라서 '엑시노스' 부활?…삼성, 애플 실리콘 성공 따라갈까",
+        "date": "2025-12-09 09:54",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=284532"
+    },
+    {
+        "title": "성균관대, 삼성전자·삼성디스플레이 협력회사 협의회와 MOU",
+        "date": "2025-12-09 09:52",
+        "link": "https://n.news.naver.com/mnews/article/003/0013646632?sid=102"
+    },
+    {
+        "title": "LG디스플레이, 4분기 OLED 출하 20%↑…삼성은 1억 5000만 대 돌파 예상",
+        "date": "2025-12-09 09:50",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=325829"
+    },
+    {
+        "title": "애플, '피트니스 플러스' 28개국 추가 확장",
+        "date": "2025-12-09 09:46",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=69747"
+    },
+    {
+        "title": "[에듀플러스]성균관대, 삼성전자·삼성디스플레이 협력사 협의회와 산학...",
+        "date": "2025-12-09 09:43",
+        "link": "https://n.news.naver.com/mnews/article/030/0003378526?sid=102"
+    },
+    {
+        "title": "에스티아이, '차세대 전력반도체 핵심' 방열 장비 '개발 성공'…글로벌...",
+        "date": "2025-12-09 09:42",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=715400"
+    },
+    {
+        "title": "올해 스마트폰용 OLED 출하량 9억대…韓패널, 4분기 연중 최대",
+        "date": "2025-12-09 09:41",
+        "link": "https://n.news.naver.com/mnews/article/119/0003034656?sid=101"
+    },
+    {
+        "title": "성균관대, 삼성전자·삼성디스플레이 협력사 협의회(협성회)와 산학협력...",
+        "date": "2025-12-09 09:40",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=151730"
+    },
+    {
+        "title": "'애플페이 교통카드' 이용 확산... 사용 실태 살펴보니",
+        "date": "2025-12-09 09:36",
+        "link": "https://n.news.naver.com/mnews/article/123/0002373454?sid=101"
+    },
+    {
+        "title": "성균관대-삼성전자·삼성디스플레이 협력사 협의회, 산학협력 위해 '맞...",
+        "date": "2025-12-09 09:32",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=104839"
+    },
+    {
+        "title": "'포스트 쿡' 시험대 오른 차세대 리더들",
+        "date": "2025-12-09 09:30",
+        "link": "https://www.fortunekorea.co.kr/news/articleView.html?idxno=50934"
+    },
+    {
+        "title": "올레드 스마트폰 시대 '활짝'…올해 패널 출하량 9억대",
+        "date": "2025-12-09 09:20",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=284479"
+    },
+    {
+        "title": "아이폰 제국 애플, AI 실패 경영진 물갈이에 '분위기 흔들'",
+        "date": "2025-12-09 09:16",
+        "link": "https://www.mediapen.com/news/view/1064864"
+    },
+    {
+        "title": "올레드 스마트폰 시대 '활짝'…올해 패널 출하량 9억대",
+        "date": "2025-12-09 09:14",
+        "link": "https://n.news.naver.com/mnews/article/003/0013646508?sid=101"
+    },
+    {
+        "title": "스마트폰·폴더블 OLED 패널 출하 9억대 전망…삼성·LGD, 4분기 최대 실...",
+        "date": "2025-12-09 09:13",
+        "link": "https://n.news.naver.com/mnews/article/138/0002211901?sid=105"
+    },
+    {
+        "title": "성균관대, 삼성전자/삼성디스플레이 협력사 협의회(협성회)와 산학협력...",
+        "date": "2025-12-09 09:12",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=588186"
+    },
+    {
+        "title": "삼성vs애플…글로벌 톱10 스마트폰 판매량, 정확히 이렇게 갈렸다",
+        "date": "2025-12-09 09:06",
+        "link": "https://www.wikitree.co.kr/articles/1100808"
+    },
+    {
+        "title": "Samsung to Expand Micro RGB TV Lineup in 2026 With Sizes From 65 to 115 I...",
+        "date": "2025-12-09 09:04",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092152460"
+    },
+    {
+        "title": "애플페이 교통카드 이용 행태 조사… 응답자 과반 '티머니·K-패스 사용...",
+        "date": "2025-12-09 08:36",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=404107"
+    },
+    {
+        "title": "삼성전자, 폴더블폰 시장 점유율 64%…독주 체제 굳힌다",
+        "date": "2025-12-09 08:34",
+        "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=351762"
+    },
+    {
+        "title": "애플, AI로 피트니스+ 대확장…글로벌 시장 정조준",
+        "date": "2025-12-09 08:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=611248"
+    },
+    {
+        "title": "A4칩 개발한 조니 스루니 애플 안 떠난다",
+        "date": "2025-12-09 08:27",
+        "link": "https://n.news.naver.com/mnews/article/092/0002401545?sid=105"
+    },
+    {
+        "title": "카드고릴라, 애플페이 교통카드 도입후 이용방법 설문조사 했더니…",
+        "date": "2025-12-09 08:22",
+        "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=62702"
+    },
+    {
+        "title": "애플페이 교통카드 쓴다 과반 넘어…기후동행카드 대기 수요도 뚜렷",
+        "date": "2025-12-09 08:08",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=288745"
+    },
+    {
+        "title": "AI 기술로 '애플 피트니스+' 28개국 출시…K팝 신설[모닝폰]",
+        "date": "2025-12-09 08:03",
+        "link": "https://n.news.naver.com/mnews/article/018/0006179926?sid=105"
+    },
+    {
+        "title": "[더벨][삼성 임원 인사] 애플 이미지센서 대응 강화, '센서전략팀' 신설",
+        "date": "2025-12-09 08:02",
+        "link": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202512081050042440105675"
+    },
+    {
+        "title": "8.6세대 OLED 전쟁 시작...삼성 공세 속 중국 추격",
+        "date": "2025-12-09 07:30",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=611066"
+    },
+    {
+        "title": "애플의 2025년 마지막 한 방! 배포 앞둔 iOS 26.2 업데이트, 기능 변화가...",
+        "date": "2025-12-09 07:30",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539728"
+    },
+    {
+        "title": "LGD, OLED 확대 기조에도 LCD 안고 간다",
+        "date": "2025-12-09 07:08",
+        "link": "https://dealsite.co.kr/articles/152876"
+    }
+]
