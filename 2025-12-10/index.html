@@ -1,1 +1,652 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>디스플레이 산업 국내 기사 대시보드</title>
+    <style>
+        body {
+            font-family: 'Malgun Gothic', '맑은 고딕', sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #F5F5F5;
+            margin: 0;
+            padding: 0;
+            font-size: 14px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #FFFFFF;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            position: relative; /* Needed for absolute positioning of the link */
+        }
+        .header {
+            background-color: #0F2C59; /* Deep Blue */
+            color: #FFFFFF;
+            padding: 15px 20px;
+            margin-bottom: 20px;
+            border-radius: 4px;
+            position: relative; /* To contain the absolute positioned link */
+             min-height: 60px; /* Ensure space for title and date */
+             display: flex;
+             flex-direction: column;
+             justify-content: center;
+        }
+        .header h1 {
+            margin: 0 0 5px 0; /* Add bottom margin */
+            font-size: 24px;
+            font-weight: 600;
+            padding-right: 100px; /* Ensure title doesn't overlap with link */
+            line-height: 1.2;
+        }
+        .header p {
+            margin: 0;
+            font-size: 14px;
+            word-break: keep-all; /* Prevent awkward breaks in date */
+            white-space: nowrap; /* Keep on one line initially */
+            overflow: hidden; /* Hide overflow */
+            text-overflow: ellipsis; /* Add ellipsis if too long */
+            line-height: 1.3;
+        }
+        .header-link {
+             position: absolute;
+             top: 50%; /* Center vertically */
+             right: 20px;
+             transform: translateY(-50%); /* Precise vertical centering */
+             color: white;
+             text-decoration: none;
+             font-size: 14px;
+             background-color: rgba(255, 255, 255, 0.1); /* Optional background */
+             padding: 5px 10px;
+             border-radius: 3px;
+         }
+        .header-link:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+            text-decoration: underline; /* Add underline on hover */
+        }
+        .tabs {
+            overflow: hidden;
+            border-bottom: 1px solid #D3D3D3;
+            margin-bottom: 20px;
+            white-space: nowrap; /* Prevent tabs from wrapping */
+            overflow-x: auto; /* Allow horizontal scrolling for tabs if needed */
+        }
+        .tab-button {
+            background-color: inherit;
+            display: inline-block; /* Use inline-block instead of float */
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 12px 18px;
+            transition: 0.3s;
+            font-size: 15px;
+            font-weight: 500;
+            color: #555; /* Original inactive text color */
+            border-bottom: 3px solid transparent;
+        }
+        /* New Hover Colors */
+        .tab-button:hover {
+            background-color: #E0EFFF; /* Light blue hover */
+            border-bottom: 3px solid #77AADD; /* Medium blue hover border */
+            color: #0056b3; /* Slightly darker blue text on hover */
+        }
+        /* New Active Colors */
+        .tab-button.active {
+            color: #007bff; /* Standard Bootstrap primary blue */
+            border-bottom: 3px solid #007bff;
+            font-weight: 600; /* Make active tab text slightly bolder */
+        }
+        .tab-content {
+            display: none;
+            padding: 15px 5px;
+            border-top: none;
+            animation: fadeEffect 0.5s;
+        }
+        @keyframes fadeEffect {
+            from {opacity: 0;}
+            to {opacity: 1;}
+        }
+        .kpi-container {
+            display: grid; /* Use grid for better control */
+            grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); /* Responsive columns */
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .kpi-card {
+            background-color: #F8F9FA; /* Lighter grey */
+            padding: 15px;
+            border-radius: 4px;
+            text-align: center;
+            border-left: 4px solid #0F2C59; /* Deep blue accent */
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            min-height: 110px; /* Ensure consistent height */
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .kpi-card h3 {
+            margin: 0 0 8px 0;
+            font-size: 15px; /* Slightly smaller title */
+            color: #0F2C59;
+            font-weight: 600;
+        }
+        .kpi-card p.value {
+            margin: 0;
+            font-size: 22px; /* Larger value */
+            font-weight: bold;
+            color: #212529; /* Darker text */
+            line-height: 1.2;
+        }
+         .kpi-card .value-change { /* Style for change indicator */
+            font-size: 13px; /* Smaller subtext */
+            margin-top: 5px;
+            color: #6C757D; /* Grey subtext */
+             line-height: 1.3;
+        }
+        .kpi-card .value-change.negative {
+             color: #D32F2F; /* Red for negative */
+             font-weight: 500;
+        }
+        .kpi-card .value-change.positive {
+             color: #388E3C; /* Green for positive */
+             font-weight: 500;
+        }
+        h2 {
+            color: #0F2C59; /* Deep Blue */
+            border-bottom: 2px solid #E9ECEF; /* Lighter border */
+            padding-bottom: 8px;
+            margin-top: 25px;
+            margin-bottom: 15px;
+            font-size: 18px;
+            font-weight: 600;
+        }
+        ul {
+            list-style-type: none;
+            padding-left: 0;
+        }
+        li {
+            margin-bottom: 12px; /* Slightly more spacing */
+            padding-left: 20px; /* Indent more */
+            position: relative;
+        }
+        li::before {
+            content: '■';
+            position: absolute;
+            left: 0;
+            color: #007bff; /* Use active tab blue for bullet */
+            font-size: 10px;
+            top: 7px; /* Adjust vertical alignment */
+        }
+        .section {
+            margin-bottom: 25px;
+            padding: 20px; /* More padding */
+            background-color: #FFFFFF;
+            border: 1px solid #E9ECEF; /* Lighter border */
+            border-radius: 4px;
+            box-shadow: 0 1px 2px rgba(0,0,0,0.03);
+        }
+        .section h3 {
+            margin-top: 0;
+            margin-bottom: 12px;
+            font-size: 16px;
+            color: #0F2C59;
+            font-weight: 600;
+        }
+        .keyword {
+            font-weight: 600;
+            color: #17a2b8; /* Teal color for keywords */
+            background-color: #e2f7fa; /* Light teal background */
+            padding: 2px 5px;
+            border-radius: 3px;
+            margin-right: 3px;
+            white-space: nowrap; /* Prevent keyword from breaking */
+        }
+         .roadmap {
+            margin-top: 30px;
+            border-top: 1px solid #D3D3D3;
+            padding-top: 20px;
+        }
+        .roadmap h2 {
+            margin-bottom: 20px;
+        }
+        .roadmap-item {
+            margin-bottom: 15px;
+            padding-left: 25px;
+            position: relative;
+            border-left: 2px solid #0F2C59;
+            padding-bottom: 10px;
+            padding-top: 5px;
+        }
+         .roadmap-item::before {
+            content: '';
+            position: absolute;
+            left: -8px;
+            top: 10px;
+            width: 14px;
+            height: 14px;
+            background-color: #0F2C59;
+            border-radius: 50%;
+            border: 2px solid #FFFFFF;
+        }
+        .roadmap-item strong {
+            display: block;
+            color: #0F2C59;
+            font-weight: 600;
+            margin-bottom: 3px;
+            font-size: 15px;
+        }
+         .roadmap-item span {
+            font-size: 14px;
+            color: #555;
+            display: block; /* Ensure each item starts on a new line */
+            margin-bottom: 5px; /* Add spacing between bullet items */
+         }
+         /* Style for the bullet points requested within roadmap items */
+        .roadmap-item span::before {
+            content: "- "; /* Add the hyphen bullet */
+            margin-right: 5px; /* Space after the bullet */
+            color: inherit; /* Inherit color */
+            font-weight: normal; /* Normal weight */
+         }
 
+        .references {
+            margin-top: 30px;
+            border-top: 1px solid #D3D3D3;
+            padding-top: 20px;
+        }
+        .references h2 {
+             margin-bottom: 15px;
+        }
+        .references ul {
+            list-style-type: none;
+            padding-left: 0;
+            font-size: 13px;
+            max-height: 300px;
+             overflow-y: auto;
+            border: 1px solid #EFEFEF;
+             padding: 15px; /* More padding */
+            background-color: #F8F9FA; /* Lighter grey */
+            border-radius: 4px;
+        }
+        .references li {
+            margin-bottom: 10px; /* More spacing */
+            padding-left: 0;
+        }
+         .references li::before {
+            content: ''; /* Remove default bullet */
+         }
+        .references a {
+            color: #005A9C; /* Standard link blue */
+            text-decoration: none;
+            display: block;
+            word-break: break-all;
+        }
+        .references a:hover {
+            text-decoration: underline;
+            color: #003d69; /* Darker blue on hover */
+        }
+         .references .ref-date {
+             font-size: 11px;
+             color: #6c757d;
+             margin-left: 5px;
+         }
+        .footer {
+            text-align: right;
+            margin-top: 30px;
+            font-size: 12px;
+            color: #666;
+            border-top: 1px solid #D3D3D3;
+            padding-top: 15px;
+        }
+        .update-mark {
+            font-size: 10px;
+            color: #E67E22; /* Orange color for update mark */
+            font-weight: bold;
+            margin-left: 5px;
+            vertical-align: super;
+        }
+
+
+        /* Responsive adjustments */
+        @media (max-width: 992px) { /* Adjust breakpoint for better grid behavior */
+             .kpi-container {
+                 grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); /* Slightly smaller min width */
+             }
+        }
+
+        @media (max-width: 768px) {
+            body { font-size: 13px; }
+            .header { padding: 10px 15px; min-height: 50px; }
+            .header h1 { font-size: 18px; padding-right: 80px; margin-bottom: 3px;}
+            .header p { font-size: 12px; line-height: 1.4; white-space: normal; } /* Allow wrapping on mobile */
+             .header-link { font-size: 12px; top: 50%; right: 15px; padding: 4px 8px; }
+            .tab-button { padding: 10px 12px; font-size: 14px; }
+            /* .tabs { white-space: nowrap; overflow-x: auto; } */ /* Already applied above */
+            .kpi-container { grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 10px; } /* Further adjust grid */
+             .kpi-card h3 { font-size: 14px; }
+             .kpi-card p.value { font-size: 20px; }
+             .kpi-card .value-change { font-size: 12px;}
+            h2 { font-size: 17px; }
+            .section { padding: 15px; }
+            .section h3 { font-size: 15px; }
+            .roadmap-item { padding-left: 20px; }
+            .roadmap-item::before { left: -7px; top: 8px; width: 12px; height: 12px;}
+            .references ul { font-size: 12px; max-height: 250px; padding: 10px; }
+        }
+         @media (max-width: 480px) { /* Further adjustments for very small screens */
+             .container { padding: 15px; }
+             .header h1 { font-size: 16px; padding-right: 70px;}
+             .header p { font-size: 11px; }
+             .header-link { font-size: 11px; padding: 3px 6px; right: 10px;}
+             .tab-button { font-size: 12px; padding: 8px 8px; }
+             .kpi-container { grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); } /* Stack KPIs nicely on small screens */
+             .kpi-card { min-width: 0; } /* Reset min-width */
+             h2 { font-size: 16px; }
+             .section h3 { font-size: 14px; }
+             li { padding-left: 15px; }
+             li::before { top: 6px; }
+             .references ul { font-size: 11px; }
+              .references .ref-date { display: inline; margin-left: 5px; margin-top: 0;} /* Keep date inline if possible */
+         }
+
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>디스플레이 산업 국내 기사 대시보드</h1>
+            <p>기간: 2025-12-08 07:00 ~ 2025-12-09 07:00 기준</p>
+            <a href="https://gwanwoodavidkim.github.io/News_Dashboard/" target="_blank" class="header-link">과거 기사</a>
+        </div>
+
+        <div class="tabs">
+            <button class="tab-button active" onclick="openTab(event, 'Key_KPI')">금일 핵심 지표</button>
+            <button class="tab-button" onclick="openTab(event, 'Display_Trend')">디스플레이 산업 동향</button>
+            <button class="tab-button" onclick="openTab(event, 'Customer_Trend')">고객 동향</button>
+            <button class="tab-button" onclick="openTab(event, 'Competitor_Trend')">경쟁사 동향</button>
+            <button class="tab-button" onclick="openTab(event, 'IT_Issue')">IT 산업계 주요 이슈</button>
+            <button class="tab-button" onclick="openTab(event, 'SCM_Trend')">SCM 동향</button>
+        </div>
+
+        <div id="Key_KPI" class="tab-content" style="display: block;">
+            <h2>금일 핵심 지표</h2>
+            <div class="kpi-container">
+                <a href="https://biz.chosun.com/it-science/ict/2025/12/09/HKDLFLJXU5GGRPC5MOVUVMCVEE/" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>OLED 스마트폰 출하</h3>
+                        <p class="value">연간 9억 대 전망</p>
+                        <p class="value-change">韓 프리미엄 매출 우위</p>
+                    </div>
+                </a>
+                <a href="http://www.ftoday.co.kr/news/articleView.html?idxno=351762" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>삼성 폴더블 점유율</h3>
+                        <p class="value">64% (YoY +8%)</p>
+                        <p class="value-change">독주 체제 굳히기</p>
+                    </div>
+                </a>
+                <a href="https://zdnet.co.kr/view/?no=20251209131852" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>아이폰18 Pro</h3>
+                        <p class="value">다이내믹 아일랜드 제거설</p>
+                        <p class="value-change">디스플레이 내장 Face ID</p>
+                    </div>
+                </a>
+                <a href="https://biz.chosun.com/it-science/ict/2025/12/09/QI54HHP7QRHL5BR4GJ4GBFPKUE/?utm_source=naver&utm_medium=original&utm_campaign=biz" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>구글 AI 안경</h3>
+                        <p class="value">내년 출시 예고</p>
+                        <p class="value-change">삼성·젠틀몬스터 협업</p>
+                    </div>
+                </a>
+                <a href="https://n.news.naver.com/article/015/0005221851?sid=101" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>삼성 유리기판 투자</h3>
+                        <p class="value">중우엠텍 협력</p>
+                        <p class="value-change">AI 반도체 패키징 선점</p>
+                    </div>
+                </a>
+                <a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=611066" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>8.6세대 OLED 경쟁</h3>
+                        <p class="value">삼성 vs BOE</p>
+                        <p class="value-change">노트북·태블릿 패널 격전</p>
+                    </div>
+                </a>
+                <a href="https://www.newspost.kr/news/articleView.html?idxno=219325" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>LGD 보안 인증</h3>
+                        <p class="value">차량용 OLED 최초</p>
+                        <p class="value-change">사이버 보안 표준 획득</p>
+                    </div>
+                </a>
+                <a href="https://n.news.naver.com/article/018/0006179525?sid=101" target="_blank" style="text-decoration: none; color: inherit;">
+                    <div class="kpi-card">
+                        <h3>삼성D 성과급</h3>
+                        <p class="value">성과연동제 도입</p>
+                        <p class="value-change">영업이익 목표 달성 시</p>
+                    </div>
+                </a>
+            </div>
+
+            <div class="section">
+                <h3>핵심 요약</h3>
+                <ul>
+                    <li><span class="keyword">모바일 OLED 경쟁:</span> 올해 스마트폰 및 폴더블 OLED 출하량이 약 9억 대에 이를 것으로 전망되며, 중국 기업들의 점유율이 48.8%까지 확대되었으나 매출 기준으로는 프리미엄 비중이 높은 삼성디스플레이와 LG디스플레이가 우위를 유지함.</li>
+                    <li><span class="keyword">폴더블 시장 독주:</span> 삼성전자는 '갤럭시 Z 폴드7'의 슬림화 및 내구성 강화에 힘입어 3분기 글로벌 폴더블폰 시장 점유율 64%를 기록, 2위 화웨이(15%)와의 격차를 49%p로 벌리며 독주 체제를 공고히 함.</li>
+                    <li><span class="keyword">미래 기술 투자:</span> 삼성전자는 AI 반도체용 유리기판 시장 선점을 위해 중우엠텍에 투자하고 '28년 상용화를 목표로 기술 확보에 속도를 내고 있음. 또한, 구글은 삼성전자와 협력하여 내년 AI 스마트 안경 출시를 예고함.</li>
+                    <li><span class="keyword">IT용 OLED 전쟁:</span> 삼성디스플레이의 8.6세대 IT OLED 팹 가동(2026년 예정)을 앞두고 BOE 등 중국 업체들이 대규모 투자를 단행하며 노트북 및 태블릿용 OLED 시장에서의 기술 및 물량 경쟁이 본격화됨.</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h3>주요 시사점</h3>
+                <ul>
+                    <li><span class="keyword">프리미엄 초격차:</span> 중국의 물량 공세가 거세지나, 애플 아이폰 및 갤럭시 플래그십 등 고부가가치 시장에서의 지배력 유지가 국내 디스플레이 산업의 핵심 경쟁력임.</li>
+                    <li><span class="keyword">폼팩터 혁신 지속:</span> 삼성전자의 3단 폴더블(트라이폴드) 출시 및 애플의 폴더블 시장 진입(2026~2027년 예상)과 맞물려, 폼팩터 다양화 및 관련 패널/부품 기술 고도화가 요구됨.</li>
+                    <li><span class="keyword">신규 시장 개척:</span> AI 스마트 안경, 차량용 디스플레이(보안 인증), 유리기판 등 차세대 디스플레이 및 후공정 기술 투자가 미래 성장 동력 확보의 관건임.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="Display_Trend" class="tab-content">
+            <h2>디스플레이 산업 동향</h2>
+            <div class="section">
+                <h3>시장 및 기술 동향</h3>
+                <ul>
+                    <li><span class="keyword">스마트폰 OLED:</span> 올해 출하량 9억 대 전망. 4분기 애플 신제품 및 갤럭시 S26 패널 양산 본격화로 국내 패널 업체들의 출하량이 연중 최고치를 기록하며 실적 정상화 흐름을 보임.</li>
+                    <li><span class="keyword">8.6세대 IT OLED:</span> 삼성디스플레이가 2026년 2분기 가동을 목표로 8.6세대 라인을 구축 중인 가운데, 중국 BOE, 비전옥스 등이 대규모 투자를 진행하며 추격 중. 노트북 및 태블릿의 OLED 전환 수요를 둔 한·중 경쟁 심화 예상.</li>
+                    <li><span class="keyword">차량용 디스플레이:</span> LG디스플레이가 업계 최초로 차량용 OLED 패널에 대해 '자동차 사이버보안 엔지니어링 국제 표준(ISO/SAE 21434)' 인증을 획득하며 SDV(Software Defined Vehicle) 시대의 수주 경쟁력을 강화함.</li>
+                    <li><span class="keyword">TV 라인업:</span> 삼성전자, 2026년형 TV 라인업에 65~115인치 마이크로 RGB TV 및 다양한 크기의 QD-OLED TV를 포함하여 프리미엄 시장 공략을 가속화할 계획.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="Customer_Trend" class="tab-content">
+            <h2>고객 동향</h2>
+            <div class="section">
+                <h3>Apple (애플)</h3>
+                <ul>
+                    <li><span class="keyword">아이폰 로드맵:</span> 아이폰18 Pro('26년 9월 예상)에서 전면 카메라 구멍을 없애고 디스플레이 내장 Face ID를 적용하여 '다이내믹 아일랜드'를 제거하거나 축소할 가능성이 제기됨.</li>
+                    <li><span class="keyword">시장 성과:</span> 아이폰 16 시리즈가 3분기 글로벌 판매량 1위를 기록하며 시장을 주도. 특히 인도 및 일본 시장에서의 판매 호조가 계절적 수요 감소를 상쇄함.</li>
+                    <li><span class="keyword">경영진 이슈:</span> 칩 개발 총괄 조니 스루지 부사장이 퇴사설을 부인하며 잔류 의사를 밝혀 핵심 기술 리더십 공백 우려를 완화함.</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h3>Samsung Electronics (삼성전자)</h3>
+                <ul>
+                    <li><span class="keyword">폴더블 리더십:</span> 3분기 글로벌 폴더블폰 시장 점유율 64% 달성. '갤럭시 Z 폴드7'의 슬림 디자인과 내구성 강화가 주효했으며, 12월 세계 최초 3단 폴더블폰 'Z 트라이폴드' 출시로 기술 초격차 과시 예정.</li>
+                    <li><span class="keyword">패널 양산:</span> 차기 플래그십 '갤럭시 S26' 시리즈용 패널 양산이 본격화되며 삼성디스플레이의 4분기 가동률 상승을 견인.</li>
+                </ul>
+            </div>
+             <div class="section">
+                <h3>Google (구글)</h3>
+                <ul>
+                    <li><span class="keyword">AI 웨어러블:</span> 2026년 출시 목표로 '제미나이' 기반의 AI 스마트 안경 개발 중. 삼성전자(하드웨어), 젠틀몬스터(디자인) 등과 협업하여 메타가 선점한 시장에 재진입할 계획.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="Competitor_Trend" class="tab-content">
+            <h2>경쟁사 동향</h2>
+             <div class="section">
+                <h3>중국 패널 업체 (BOE, CSOT 등)</h3>
+                 <ul>
+                     <li><span class="keyword">점유율 확대:</span> 올해 스마트폰 OLED 출하량 비중이 48.8%에 달해 한국 기업들을 턱밑까지 추격. 내수 시장 및 중저가 라인업을 중심으로 물량을 확대하고 있음.</li>
+                     <li><span class="keyword">IT OLED 투자:</span> BOE가 12조 4천억 원을 투입해 8.6세대 OLED 라인을 구축하는 등 애플 맥북/아이패드 물량 수주를 위한 공격적인 설비 투자를 진행 중.</li>
+                     <li><span class="keyword">기술 추격:</span> 티엔마(Tianma) 등은 LTPO 등 고부가 기술 적용 비중을 늘리며 기술 격차 좁히기에 주력함.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div id="IT_Issue" class="tab-content">
+            <h2>IT 산업계 주요 이슈</h2>
+            <div class="section">
+                <h3>AI 웨어러블 경쟁</h3>
+                <ul>
+                    <li><span class="keyword">스마트 안경:</span> 구글이 삼성과 손잡고 'AI 글래스' 시장 재진입을 선언하면서, 현재 시장을 주도(점유율 80% 전망)하고 있는 메타(레이밴 협업)와의 경쟁이 격화될 전망. 애플, 샤오미 등도 참전 예정.</li>
+                </ul>
+            </div>
+            <div class="section">
+                <h3>플랫폼 및 OS</h3>
+                <ul>
+                    <li><span class="keyword">데이터 이동:</span> 애플과 구글이 iOS와 안드로이드 간 데이터 이전을 간소화하는 기능을 공동 개발, 플랫폼 락인(Lock-in) 효과가 완화될지 주목됨.</li>
+                </ul>
+            </div>
+        </div>
+        
+        <div id="SCM_Trend" class="tab-content">
+            <h2>SCM 동향</h2>
+            <div class="section">
+                <h3>소재·부품·장비</h3>
+                <ul>
+                    <li><span class="keyword">유리기판:</span> 삼성전자가 AI 반도체 패키징용 유리기판 기술 확보를 위해 중우엠텍에 투자. 2028년 상용화를 목표로 하며, 앱솔릭스 등과 경쟁 예상.</li>
+                    <li><span class="keyword">해성옵틱스:</span> 폴디드 줌 카메라용 OIS(손떨림 보정) 핵심 특허 2건 확보. 글로벌 스마트폰 제조사의 고배율 줌 수요에 대응하며 경쟁력 강화.</li>
+                    <li><span class="keyword">에스티아이:</span> 전력반도체용 방열 부품 제조 장비 개발 성공 및 중국 고객사와 공급 계약 체결.</li>
+                    <li><span class="keyword">산학 협력:</span> 성균관대와 삼성전자·삼성디스플레이 협력사 협의회(협성회)가 제조 경쟁력 강화를 위한 업무 협약(MOU) 체결.</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="roadmap">
+            <h2>로드맵 (Roadmap)</h2>
+             <div class="roadmap-item">
+                <strong>2025년 4분기</strong>
+                 <span>- 삼성전자 3단 폴더블 '갤럭시 Z 트라이폴드' 국내 출시 (12월 12일)</span>
+                 <span>- 한국 패널 업체, 아이폰 17 및 갤럭시 S26용 패널 공급 확대로 연중 최대 실적 달성</span>
+            </div>
+             <div class="roadmap-item">
+                 <strong>2026년 상반기</strong>
+                 <span>- 삼성전자 갤럭시 S26 시리즈 출시 및 패널 공급 본격화</span>
+                 <span>- 삼성디스플레이 8.6세대 IT용 OLED 팹 가동 시작 (2분기 예상)</span>
+            </div>
+             <div class="roadmap-item">
+                 <strong>2026년 하반기 ~ 이후</strong>
+                 <span>- 구글-삼성 협력 AI 스마트 안경 출시 및 웨어러블 시장 경쟁 심화</span>
+                 <span>- 애플 아이폰 18 Pro 출시 (디스플레이 내장 Face ID 도입 예상)</span>
+                 <span>- 삼성전자 유리기판 상용화 준비 및 AI 반도체 패키징 시장 진입 (2028년 목표)</span>
+            </div>
+        </div>
+
+
+
+        <div class="references">
+            <h2>참고 기사 목록</h2>
+            <ul id="newsList">
+            </ul>
+        </div>
+        <div class="footer">
+            출처: MCI 팀
+        </div>
+
+    </div>
+    <script>
+        // 탭 기능 활성화 함수
+        function openTab(evt, tabName) {
+            var i, tabcontent, tabbuttons;
+            // 모든 탭 콘텐츠 숨기기
+            tabcontent = document.getElementsByClassName("tab-content");
+            for (i = 0; i < tabcontent.length; i++) {
+                tabcontent[i].style.display = "none";
+            }
+            // 모든 탭 버튼 비활성화
+            tabbuttons = document.getElementsByClassName("tab-button");
+            for (i = 0; i < tabbuttons.length; i++) {
+                tabbuttons[i].className = tabbuttons[i].className.replace(" active", "");
+            }
+            // 선택된 탭 콘텐츠 보이기 및 버튼 활성화
+            const targetTab = document.getElementById(tabName);
+            if (targetTab) {
+                targetTab.style.display = "block";
+            }
+            if (evt && evt.currentTarget) {
+                evt.currentTarget.className += " active";
+            }
+        }
+
+        // === 참고 기사 로딩 함수 추가 ===
+        function loadNewsReferences() {
+            fetch('url_json.json') // url_json.json 파일 경로 확인 필요
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error(`HTTP error! status: ${response.status}`);
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const newsListElement = document.getElementById('newsList');
+                    if (!newsListElement) {
+                        console.error('Error: Element with ID "newsList" not found.');
+                        return;
+                    }
+
+                    // 기존 목록 지우기 (새로 로드할 때마다 목록을 갱신하려면 주석 해제)
+                    // newsListElement.innerHTML = '';
+
+                    data.forEach(item => {
+                        const li = document.createElement('li');
+                        const a = document.createElement('a');
+
+                        a.href = item.link;
+                        a.textContent = `${item.title} (${item.date})`; // 제목과 날짜 표시
+                        a.target = "_blank"; // 새 탭에서 열기
+                        a.rel = "noopener noreferrer"; // 보안 강화
+
+                        li.appendChild(a);
+                        newsListElement.appendChild(li);
+                    });
+                })
+                .catch(error => {
+                    console.error('Error fetching or processing news data:', error);
+                    const newsListElement = document.getElementById('newsList');
+                    if (newsListElement) {
+                        newsListElement.innerHTML = '<li>참고 기사를 불러오는 중 오류가 발생했습니다.</li>';
+                    }
+                });
+        }
+        // ===============================
+
+        // 페이지 로드 시 첫 번째 탭 자동 활성화 및 참고 기사 로드
+        document.addEventListener('DOMContentLoaded', (event) => {
+            // 첫 번째 탭 활성화
+            const firstTabButton = document.querySelector('.tab-button');
+            if (firstTabButton) {
+                firstTabButton.click();  // 첫 번째 탭 버튼 클릭 이벤트 발생
+            } else {
+                // 탭 버튼이 없을 경우 첫 번째 탭 콘텐츠 직접 표시 (Fallback)
+                const firstTabContent = document.querySelector('.tab-content');
+                if (firstTabContent) {
+                    firstTabContent.style.display = 'block';
+                }
+            }
+
+            // 참고 기사 목록 로드 함수 호출
+            loadNewsReferences();
+        });
+    </script>
+
+</body>
+
+</html>
