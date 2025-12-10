@@ -355,212 +355,197 @@
 </head>
 
 <body>
-    <div class="container">
-        <div class="header">
-            <div class="header-title">
-                <h1>디스플레이 산업 국내 기사 대시보드</h1>
-                <span class="date">2025-12-10 07:00 ~ 2025-12-11 07:00 기준</span>
-            </div>
-            <a href="https://gwanwoodavidkim.github.io/News_Dashboard/" target="_blank" class="archive-link">과거 기사 ↗</a>
-        </div>
+<div class="container">
+<div class="header">
+<h1>디스플레이 산업 국내 기사 대시보드</h1>
+<p>기간: 2025-12-10 07:00 ~ 2025-12-11 07:00 기준</p>
+<a href="https://gwanwoodavidkim.github.io/News_Dashboard/" target="_blank" class="header-link">과거 기사</a>
+</div>
+    <div class="tabs">
+        <button class="tab-button active" onclick="openTab(event, 'Key_KPI')">금일 핵심 지표</button>
+        <button class="tab-button" onclick="openTab(event, 'Display_Trend')">디스플레이 산업 동향</button>
+        <button class="tab-button" onclick="openTab(event, 'Customer_Trend')">고객 동향</button>
+        <button class="tab-button" onclick="openTab(event, 'Competitor_Trend')">경쟁사 동향</button>
+        <button class="tab-button" onclick="openTab(event, 'IT_Issue')">IT 산업계 주요 이슈</button>
+        <button class="tab-button" onclick="openTab(event, 'SCM_Trend')">SCM 동향</button>
+    </div>
 
-        <div class="tabs">
-            <button class="tab-link active" onclick="openTab(event, 'Key_Metrics')">금일 핵심 지표</button>
-            <button class="tab-link" onclick="openTab(event, 'Display_Trend')">디스플레이 산업 동향</button>
-            <button class="tab-link" onclick="openTab(event, 'Customer_Trend')">고객 동향</button>
-            <button class="tab-link" onclick="openTab(event, 'Competitor_Trend')">경쟁사 동향</button>
-            <button class="tab-link" onclick="openTab(event, 'IT_Issues')">IT 산업계 주요 이슈</button>
-            <button class="tab-link" onclick="openTab(event, 'SCM_Trend')">SCM 동향</button>
-        </div>
-
-        <div id="Key_Metrics" class="tab-content" style="display: block;">
-            <div class="kpi-grid">
-                <div class="kpi-box" onclick="window.open('https://www.etnews.com/20251210000327', '_blank')">
+    <div id="Key_KPI" class="tab-content" style="display: block;">
+        <h2>금일 핵심 지표</h2>
+        <div class="kpi-container">
+            <a href="[https://www.etnews.com/20251210000327](https://www.etnews.com/20251210000327)" target="_blank" style="text-decoration: none; color: inherit;">
+                <div class="kpi-card">
                     <h3>美 국방수권법(NDAA)</h3>
-                    <p class="value">2030년 '탈중국'</p>
-                    <p class="desc">軍 디스플레이 중국산 배제</p>
+                    <p class="value">軍 디스플레이 '탈중국'</p>
+                    <p class="value-change">2030년까지 완전 배제</p>
                 </div>
-                <div class="kpi-box" onclick="window.open('https://www.ddaily.co.kr/page/view/2025121010163482346', '_blank')">
-                    <h3>애플 폴더블 진입</h3>
-                    <p class="value">2026년 하반기</p>
-                    <p class="desc">시장가치 34% 점유 전망</p>
+            </a>
+            <a href="[https://www.ddaily.co.kr/page/view/2025121010163482346](https://www.ddaily.co.kr/page/view/2025121010163482346)" target="_blank" style="text-decoration: none; color: inherit;">
+                <div class="kpi-card">
+                    <h3>폴더블 시장 전망</h3>
+                    <p class="value">'26년 +30% 성장</p>
+                    <p class="value-change">애플 진입 효과</p>
                 </div>
-                <div class="kpi-box" onclick="window.open('https://www.thelec.kr/news/articleView.html?idxno=45161', '_blank')">
-                    <h3>갤S26 카메라</h3>
-                    <p class="value">사양 동결</p>
-                    <p class="desc">원가 절감 및 모듈 재사용</p>
+            </a>
+            <a href="[https://www.thelec.kr/news/articleView.html?idxno=45161](https://www.thelec.kr/news/articleView.html?idxno=45161)" target="_blank" style="text-decoration: none; color: inherit;">
+                <div class="kpi-card">
+                    <h3>갤럭시 S26 카메라</h3>
+                    <p class="value">사양 동결(S25 동일)</p>
+                    <p class="value-change">원가 절감 전략</p>
                 </div>
-                <div class="kpi-box" onclick="window.open('https://www.hellot.net/news/article.html?no=108070', '_blank')">
+            </a>
+            <a href="[https://www.hellot.net/news/article.html?no=108070](https://www.hellot.net/news/article.html?no=108070)" target="_blank" style="text-decoration: none; color: inherit;">
+                <div class="kpi-card">
                     <h3>OLED 스마트폰 출하</h3>
-                    <p class="value">9억 대 전망</p>
-                    <p class="desc">韓 프리미엄 매출 우위 지속</p>
+                    <p class="value">내년 9억 대 전망</p>
+                    <p class="value-change">韓 매출, 中 물량 우위</p>
                 </div>
-                <div class="kpi-box" onclick="window.open('https://dealsite.co.kr/articles/152954', '_blank')">
-                    <h3>IT OLED (8.6세대)</h3>
-                    <p class="value">BOE 고객 확보</p>
-                    <p class="desc">에이수스·에이서 공급 계약</p>
+            </a>
+            <a href="[https://www.autodaily.co.kr/news/articleView.html?idxno=539792](https://www.autodaily.co.kr/news/articleView.html?idxno=539792)" target="_blank" style="text-decoration: none; color: inherit;">
+                <div class="kpi-card">
+                    <h3>갤럭시 Z 트라이폴드</h3>
+                    <p class="value">韓·中 예약 판매</p>
+                    <p class="value-change">기술 초격차 과시</p>
                 </div>
-                <div class="kpi-box" onclick="window.open('https://www.businesspost.co.kr/BP?command=article_view&num=423159', '_blank')">
-                    <h3>LGD 실적 전망</h3>
-                    <p class="value">턴어라운드 기대</p>
-                    <p class="desc">OLED 비중 확대 및 구조개편</p>
+            </a>
+             <a href="[https://www.mstoday.co.kr/news/articleView.html?idxno=99891](https://www.mstoday.co.kr/news/articleView.html?idxno=99891)" target="_blank" style="text-decoration: none; color: inherit;">
+                <div class="kpi-card">
+                    <h3>구글 AI 안경</h3>
+                    <p class="value">2026년 출시 목표</p>
+                    <p class="value-change">삼성·젠틀몬스터 협업</p>
                 </div>
-                <div class="kpi-box" onclick="window.open('https://www.g-enews.com/view.php?ud=202512101312004293fbbec65dfb_1', '_blank')">
-                    <h3>마이크로 LED</h3>
-                    <p class="value">시장 패권 경쟁</p>
-                    <p class="desc">대만 기술 vs 중국 물량공세</p>
+            </a>
+            <a href="[https://www.financialpost.co.kr/news/articleView.html?idxno=240766](https://www.financialpost.co.kr/news/articleView.html?idxno=240766)" target="_blank" style="text-decoration: none; color: inherit;">
+                <div class="kpi-card">
+                    <h3>파인엠텍 실적</h3>
+                    <p class="value">북미 공급 가시화</p>
+                    <p class="value-change">'26년 퀀텀 점프 기대</p>
                 </div>
-                <div class="kpi-box" onclick="window.open('https://www.mstoday.co.kr/news/articleView.html?idxno=99891', '_blank')">
-                    <h3>AI 스마트 안경</h3>
-                    <p class="value">2026년 출시</p>
-                    <p class="desc">구글-삼성 '제미나이' 협업</p>
+            </a>
+            <a href="[https://www.g-enews.com/view.php?ud=202512101312004293fbbec65dfb_1](https://www.g-enews.com/view.php?ud=202512101312004293fbbec65dfb_1)" target="_blank" style="text-decoration: none; color: inherit;">
+                <div class="kpi-card">
+                    <h3>Micro LED</h3>
+                    <p class="value">韓·中·臺 패권 경쟁</p>
+                    <p class="value-change">상용화 초기 진입</p>
                 </div>
-            </div>
-
-            <div class="summary-section">
-                <h3>핵심 요약</h3>
-                <ul class="summary-list">
-                    <li>미 의회, 국방수권법(NDAA) 확정으로 2030년까지 미군 무기 체계 내 중국 및 러시아산 디스플레이 의존도 완전 해소 명시. 이로 인해 삼성디스플레이, LG디스플레이 등 국내 기업의 안보 분야 반사이익 기대</li>
-                    <li>애플의 2026년 폴더블 시장 진입 가시화로 시장 규모 확대 전망. 첫 제품은 2,400달러 고가임에도 출시 첫해 전체 폴더블 시장 가치의 34%를 점유할 것으로 예측</li>
-                    <li>삼성전자, 원가 절감을 위해 차기작 갤럭시 S26 일반형의 후면 카메라 사양 동결 결정. 아이폰 17 가격 동결 대응 및 메모리 가격 상승에 따른 제조 원가 방어 목적</li>
-                    <li>국내 디스플레이 업계, 2025년 스마트폰 OLED 출하량 9억 대 전망 속 프리미엄 시장 매출 우위 유지. LGD는 아이폰 효과 및 사업 구조 재편으로 흑자 전환 및 경영 정상화 가속</li>
-                </ul>
-            </div>
-
-            <div class="summary-section">
-                <h3>주요 시사점</h3>
-                <ul class="summary-list">
-                    <li>미국발 공급망 탈중국 기조가 국방 분야로 명문화됨에 따라, 국내 디스플레이 기업의 북미 방산 및 보안 시장 진출 기회 확대</li>
-                    <li>스마트폰 시장의 성장이 정체된 가운데, 애플의 폴더블 진입과 삼성/구글의 AI 안경 등 차세대 폼팩터 경쟁이 2026년을 기점으로 본격화될 전망</li>
-                    <li>중국 기업(BOE 등)의 IT용 8.6세대 OLED 선제적 고객 확보 움직임에 대응하여 국내 기업의 기술 초격차 유지 및 고객 다변화 전략 필요</li>
-                </ul>
-            </div>
+            </a>
         </div>
 
-        <div id="Display_Trend" class="tab-content">
-            <div class="news-section">
-                <h3>산업 및 정책 동향</h3>
-                <ul class="news-list">
-                    <li><strong>美 국방수권법(NDAA), 軍 디스플레이 '탈중국' 명시:</strong> 미 의회, 2030년까지 중국·러시아산 디스플레이 의존도 해소 의무화. 국방부는 2027년 3월까지 의존 탈피 전략 수립 및 2040년 소요 계획 보고 예정. 국내 OLED 기업의 반사이익 기대</li>
-                    <li><strong>2025년 OLED 스마트폰 패널 9억 대 전망:</strong> 유비리서치 분석 결과, 중국 출하량 비중(48.8%)이 한국과 대등한 수준이나 매출은 프리미엄 비중 높은 한국이 우위. 4분기 아이폰 및 갤S26 효과로 국내 업체 출하량 증가</li>
-                    <li><strong>마이크로 LED 패권 경쟁 격화:</strong> 대만 AUO는 스마트워치/차량용 상용화 주도, 중국은 LCD 복제 전략으로 규모의 경제 시도. 한국은 고부가 영역 투자 집중</li>
-                </ul>
-            </div>
-            <div class="news-section">
-                <h3>기업별 동향 (LGD)</h3>
-                <ul class="news-list">
-                    <li><strong>LG디스플레이 실적 턴어라운드 기대:</strong> 정철동 사장 주도의 LCD 라인 축소 및 인력 효율화 등 강도 높은 구조개편 효과 가시화. 3분기 모바일 OLED 비중 확대 및 4분기 흑자 기조 유지 전망</li>
-                    <li><strong>OLED 중심 체질 개선 가속:</strong> 스마트폰 및 모니터용 OLED 수요 증가에 대응하여 사업 포트폴리오 재정비. 다만 차입금 부담에 따른 투자 여력 확보는 과제</li>
-                </ul>
-            </div>
-            <div class="news-section">
-                <h3>기술 R&D</h3>
-                <ul class="news-list">
-                    <li><strong>경북대, 이중 마이크로캐비티 OLED 개발:</strong> 기존 소재 활용하여 색 순도와 휘도를 높이는 광학 구조 기술 개발. XR 등 초고해상도 디스플레이 적용 가능성 제시</li>
-                </ul>
-            </div>
+        <div class="section">
+            <h3>핵심 요약</h3>
+            <ul>
+                <li><span class="keyword">공급망 재편:</span> 미국 의회가 국방수권법(NDAA)을 통해 2030년까지 군용 디스플레이에서 중국산 의존도를 완전히 배제하기로 결정함에 따라, 삼성디스플레이와 LG디스플레이 등 국내 기업의 반사이익이 기대됨.</li>
+                <li><span class="keyword">폴더블 시장 확대:</span> 2026년 애플의 폴더블 시장 진입으로 전체 시장 규모가 30% 성장할 것으로 전망되며, 애플은 출시 첫해 시장 가치의 34%를 점유할 것으로 예측됨. 삼성전자는 트라이폴드 등으로 기술 리더십 유지 전략.</li>
+                <li><span class="keyword">원가 경쟁 심화:</span> 삼성전자는 메모리 가격 상승 등 원가 부담을 상쇄하기 위해 갤럭시 S26 일반형의 카메라 사양을 동결하는 등 원가 절감 기조를 강화함.</li>
+            </ul>
         </div>
+        <div class="section">
+            <h3>주요 시사점</h3>
+            <ul>
+                <li><span class="keyword">안보와 무역 장벽:</span> 미국의 대중국 디스플레이 제재가 구체화됨에 따라 방산 및 공공 분야를 중심으로 한 공급망 재편 기회를 적극 활용할 필요.</li>
+                <li><span class="keyword">폼팩터 다변화:</span> 트라이폴드, 폴더블 아이폰 등 폼팩터 경쟁이 본격화됨에 따라 관련 힌지, 부품(파인엠텍 등), 패널 기술의 고도화 및 공급망 선점 중요.</li>
+                <li><span class="keyword">차세대 디스플레이:</span> 마이크로 LED 및 AI 스마트 안경 등 신규 시장에서의 주도권 확보를 위한 한·중·대만 간의 기술 및 양산 경쟁 격화.</li>
+            </ul>
+        </div>
+    </div>
 
-        <div id="Customer_Trend" class="tab-content">
-            <div class="news-section">
-                <h3>Samsung Electronics (삼성전자)</h3>
-                <ul class="news-list">
-                    <li><strong>갤S26 카메라 사양 동결:</strong> 원가 절감 차원에서 S26 일반형 후면 카메라에 전작 S25 모듈 재사용 결정. 울트라 모델만 선행 양산, 플러스 라인업 유지</li>
-                    <li><strong>갤럭시 Z 트라이폴드 중국 예약 판매:</strong> 16GB+512GB/1TB 모델 중국 사전 예약 개시. 화웨이 메이트 XT와 직접 경쟁, 국내 미출시 1TB 모델 투입으로 초고가 시장 공략</li>
-                    <li><strong>마이크로 RGB TV 대중화 선언:</strong> CES 2026에서 다양한 크기의 마이크로 RGB TV 라인업 공개 예정. 가격 경쟁력 확보를 통해 프리미엄 TV 주도권 강화 목표</li>
-                </ul>
-            </div>
-            <div class="news-section">
-                <h3>Apple (애플)</h3>
-                <ul class="news-list">
-                    <li><strong>폴더블 아이폰 시장 진입 전망:</strong> 2026년 말 첫 폴더블폰 출시 예상. 2,400달러 고가에도 브랜드 파워로 출시 첫해 시장 점유율 22%, 가치 34% 차지할 것으로 IDC 전망</li>
-                    <li><strong>아이폰 18 Pro 페이스ID 변화:</strong> 언더 디스플레이 기술 적용을 통해 센서를 화면 하단으로 배치, 다이내믹 아일랜드 축소 혹은 펀치홀 형태 전환 검토</li>
-                    <li><strong>맥북 라인업 로드맵:</strong> 2026년 저가형 맥북 및 OLED 터치스크린 탑재 맥북 프로 출시 예상. 셀룰러 모뎀 탑재 가능성 제기</li>
-                </ul>
-            </div>
+    <div id="Display_Trend" class="tab-content">
+        <h2>디스플레이 산업 동향</h2>
+        <div class="section">
+            <h3>시장 및 기술 동향</h3>
+            <ul>
+                <li><span class="keyword">OLED 시장:</span> 2025년 스마트폰 OLED 출하량 약 9억 대 전망. 중국 기업이 출하량 비중 48.8%로 물량 공세를 펼치고 있으나, 매출 기준으로는 프리미엄 비중이 높은 한국 기업이 우위를 점함.</li>
+                <li><span class="keyword">마이크로 LED:</span> 대만 AUO가 스마트워치용 마이크로 LED 상용화를 주도하고 중국은 LCD 복제 전략으로 규모의 경제를 시도하는 가운데, 한국은 고부가 영역(차량용 등)에 집중 투자 중.</li>
+                <li><span class="keyword">차세대 기술:</span> 경북대 연구팀, '이중 마이크로캐비티' 구조를 통해 기존 소재로도 색 순도와 휘도를 대폭 개선한 협대역 OLED 기술 개발 성공. XR/VR 디스플레이 적용 기대.</li>
+                <li><span class="keyword">LGD 실적:</span> LG디스플레이, 광저우 공장 매각 및 구조 효율화를 통해 4분기 흑자 기조 유지 및 연간 턴어라운드 예상. 차량용 OLED 등 고부가 사업 집중.</li>
+            </ul>
         </div>
+    </div>
 
-        <div id="Competitor_Trend" class="tab-content">
-            <div class="news-section">
-                <h3>BOE / CSOT / Visionox (중국)</h3>
-                <ul class="news-list">
-                    <li><strong>BOE 8.6세대 IT OLED 고객 확보:</strong> 에이수스(ASUS), 에이서(Acer) 등과 패널 공급 계약 체결 소식. 12월 말 점등식 및 시양산 돌입 예정으로 삼성디스플레이 대비 양산 속도전 전개</li>
-                    <li><strong>중국 패널 업체의 물량 공세:</strong> 스마트폰 OLED 시장 점유율 48.8%까지 확대. 중저가 라인업 중심에서 LTPO 등 고부가 기술 추격 지속</li>
-                </ul>
-            </div>
-            <div class="news-section">
-                <h3>AUO (대만)</h3>
-                <ul class="news-list">
-                    <li><strong>마이크로 LED 상용화 주도:</strong> 가민(Garmin) 스마트워치에 패널 공급 성공. 4.5세대 라인에서 대형 패널 제조 능력 확보 및 차량용 디스플레이 시장 선점 시도</li>
-                </ul>
-            </div>
+    <div id="Customer_Trend" class="tab-content">
+        <h2>고객 동향</h2>
+        <div class="section">
+            <h3>Samsung Electronics (삼성전자)</h3>
+            <ul>
+                <li><span class="keyword">전략 변화:</span> 갤럭시 S26 일반형 후면 카메라 사양을 S25와 동일하게 유지하여 원가 절감 추진. 메모리 반도체 가격 상승에 따른 출고가 인상 압박 대응 차원.</li>
+                <li><span class="keyword">신제품 출시:</span> 세계 최초 3단 폴더블폰 '갤럭시 Z 트라이폴드' 한국 및 중국 등 글로벌 순차 출시. 중국 시장에서 화웨이 메이트 XT와 경쟁 예고.</li>
+            </ul>
         </div>
+        <div class="section">
+            <h3>Apple (애플)</h3>
+            <ul>
+                <li><span class="keyword">폴더블 진입:</span> 2026년 첫 폴더블 아이폰 출시 전망. 고가(약 2,400달러)에도 불구하고 강력한 브랜드 파워로 시장 점유율 22% 확보 예상.</li>
+                <li><span class="keyword">디자인 변경:</span> 2026년형 아이폰 18 프로 모델에 언더 디스플레이 페이스ID(Under-Display FaceID) 기술 적용 검토. 다이내믹 아일랜드 축소 또는 제거 가능성 제기.</li>
+            </ul>
+        </div>
+         <div class="section">
+            <h3>Google (구글)</h3>
+            <ul>
+                <li><span class="keyword">AI 웨어러블:</span> 삼성전자(하드웨어), 젠틀몬스터 등과 협력하여 2026년 '제미나이' 기반 AI 스마트 안경 출시 계획. 오디오형과 디스플레이형 투트랙 전략.</li>
+            </ul>
+        </div>
+    </div>
 
-        <div id="IT_Issues" class="tab-content">
-            <div class="news-section">
-                <h3>AI Device / Platform</h3>
-                <ul class="news-list">
-                    <li><strong>구글-삼성 AI 안경 출시 임박:</strong> 2026년 '제미나이' 탑재 스마트 안경 출시 목표. 오디오형과 디스플레이형 투트랙 전략으로 메타 레이밴 등과 경쟁 예고</li>
-                    <li><strong>애플-구글 데이터 이동 협력:</strong> OS 간 데이터 전송 기능 공동 개발 추진. 플랫폼 락인(Lock-in) 완화 및 규제 대응 차원으로 해석</li>
-                    <li><strong>중국 저가 AI 안경 공세:</strong> 알리바바, 바이두 등 중국 빅테크 기업들이 40~70만 원대 저가 AI 안경 출시하며 시장 저변 확대</li>
-                </ul>
-            </div>
-            <div class="news-section">
-                <h3>Other Issues</h3>
-                <ul class="news-list">
-                    <li><strong>디즈니, 前 애플 COO 영입:</strong> 제프 윌리엄스 전 애플 COO를 이사로 선임. 기술과 콘텐츠 융합 전략 강화 포석</li>
-                </ul>
-            </div>
+    <div id="Competitor_Trend" class="tab-content">
+        <h2>경쟁사 동향</h2>
+         <div class="section">
+            <h3>중화권 패널 업체 (BOE, AUO 등)</h3>
+             <ul>
+                 <li><span class="keyword">BOE:</span> 에이수스(ASUS), 에이서(Acer) 등과 8.6세대 IT용 OLED 패널 공급 계약 체결. 초기 수율 이슈에도 불구하고 양산 선점 시도.</li>
+                 <li><span class="keyword">AUO:</span> 가민(Garmin)과 협력하여 마이크로 LED 탑재 스마트워치 상용화 성공. 차량용 마이크로 LED 시장 선점 목표.</li>
+                 <li><span class="keyword">중국 기술력:</span> BOE, TCL CSOT 등 중국 기업들이 정부 보조금을 바탕으로 LCD/OLED 물량 확대 및 마이크로 LED R&D 가속화.</li>
+            </ul>
         </div>
+    </div>
 
-        <div id="SCM_Trend" class="tab-content">
-            <div class="news-section">
-                <h3>소재·부품·장비</h3>
-                <ul class="news-list">
-                    <li><strong>파인엠텍:</strong> 2026년 북미 고객사(애플 추정) 폴더블 진입에 따른 실적 퀀텀 점프 기대. 내장 힌지 등 부품 공급 확대 예상</li>
-                    <li><strong>엔젯:</strong> 유리기판 공정용 EHD 잉크젯 장비 및 결함 검출 AI SW 개발. 삼성전자의 유리기판 투자 확대와 맞물려 수혜 기대</li>
-                    <li><strong>재영솔루텍:</strong> 스마트폰 카메라 액추에이터 및 OIS 부품 경쟁력 확보. 전 공정 내재화로 고사양 부품 수요 대응</li>
-                    <li><strong>나인테크:</strong> 열전소자 및 맥신 신소재 설비 투자를 위해 120억 원 규모 CB 발행. 차세대 냉각 기술 및 소재 시장 공략</li>
-                </ul>
-            </div>
+    <div id="IT_Issue" class="tab-content">
+        <h2>IT 산업계 주요 이슈</h2>
+        <div class="section">
+            <h3>하드웨어 및 플랫폼</h3>
+            <ul>
+                <li><span class="keyword">게이밍 모니터:</span> 에이수스(ASUS), 540Hz 주사율을 지원하는 27인치 OLED 게이밍 모니터 출시. 고주사율 OLED 패널 경쟁 심화.</li>
+                <li><span class="keyword">플랫폼 연동:</span> 애플과 구글, iOS-안드로이드 간 데이터 전송(eSIM, 메신저 등) 간소화 기능 공동 개발 중. 규제 대응 및 사용자 편의성 증대 목적.</li>
+                <li><span class="keyword">가전 환급 이슈:</span> 국내 '으뜸효율 가전제품 환급사업'이 LCD 제품 위주로 설계되어 중국산 패널을 사용하는 제품만 혜택을 보고, 국산 OLED TV는 배제되는 역설적 상황 발생.</li>
+            </ul>
         </div>
+    </div>
+    
+    <div id="SCM_Trend" class="tab-content">
+        <h2>SCM 동향</h2>
+        <div class="section">
+            <h3>소재·부품·장비</h3>
+            <ul>
+                <li><span class="keyword">파인엠텍:</span> 2026년 북미 고객사(애플 추정) 폴더블 진입에 따른 부품 공급 확대로 실적 퀀텀 점프 전망. 내년 북미향 물량 약 600만 장 예상.</li>
+                <li><span class="keyword">엔젯:</span> 유리기판 미세 결함을 3마이크로미터 단위까지 검출 가능한 AI 소프트웨어 개발. 제이더블유엠티(JWMT)와 협력 강화.</li>
+                <li><span class="keyword">나인테크:</span> 120억 규모 CB 발행을 통해 열전소자 및 맥신(MXene) 신소재 설비 투자 확대.</li>
+                <li><span class="keyword">재영솔루텍:</span> 스마트폰 카메라 액추에이터 및 OIS 부품 경쟁력 기반으로 AR/VR 및 전장용 시장 확대 추진.</li>
+            </ul>
+        </div>
+    </div>
 
-        <div class="roadmap">
-            <h2>주요 일정 로드맵 (Roadmap)</h2>
-            <div class="roadmap-list">
-                <div class="roadmap-item">
-                    <span class="quarter">2025 4Q</span>
-                    <span class="content">
-                        - 삼성전자 3단 폴더블 '갤럭시 Z 트라이폴드' 출시 (한국/중국)<br>
-                        - BOE 8.6세대 IT OLED 라인 점등식 및 시양산 돌입 (12월 말 예상)<br>
-                        - 한국 패널 업체, 아이폰 및 갤럭시 신제품 효과로 실적 턴어라운드
-                    </span>
-                </div>
-                <div class="roadmap-item">
-                    <span class="quarter">2026 1Q~2Q</span>
-                    <span class="content">
-                        - 삼성전자 갤럭시 S26 시리즈 출시 (카메라 사양 동결)<br>
-                        - 삼성디스플레이/BOE 8.6세대 IT OLED 양산 경쟁 본격화<br>
-                        - 북미 고객사 폴더블 부품 양산 검증 및 물량 배분 시작
-                    </span>
-                </div>
-                <div class="roadmap-item">
-                    <span class="quarter">2026 2H ~</span>
-                    <span class="content">
-                        - 애플 첫 폴더블 아이폰 공개 예상 (하반기 또는 연말)<br>
-                        - 구글-삼성 합작 AI 스마트 안경 출시<br>
-                        - 아이폰 18 Pro 출시 (언더 디스플레이 Face ID 적용 가능성)
-                    </span>
-                </div>
-                <div class="roadmap-item">
-                    <span class="quarter">Long Term</span>
-                    <span class="content">
-                        - 2027년 3월: 미 국방부, 디스플레이 탈중국 전략 의회 보고<br>
-                        - 2030년: 미 국방수권법(NDAA)에 따라 중국산 디스플레이 조달 완전 금지
-                    </span>
-                </div>
-            </div>
+    <div class="roadmap">
+        <h2>로드맵 (Roadmap)</h2>
+         <div class="roadmap-item">
+            <strong>2025년 4분기</strong>
+             <span>- 삼성전자 '갤럭시 Z 트라이폴드' 출시 (한국, 중국 등 순차 출시)</span>
+             <span>- LG디스플레이 연간 흑자 전환(턴어라운드) 및 재무 구조 개선 가시화</span>
         </div>
+         <div class="roadmap-item">
+             <strong>2026년 상반기</strong>
+             <span>- 삼성전자 갤럭시 S26 시리즈 출시 (카메라 사양 동결, 원가 효율화)</span>
+             <span>- 중국 패널 업체 8.6세대 IT OLED 초기 물량 공급 시도</span>
+        </div>
+         <div class="roadmap-item">
+             <strong>2026년 하반기 ~ 2027년</strong>
+             <span>- 구글-삼성 협력 AI 스마트 안경 출시</span>
+             <span>- 애플 첫 폴더블 아이폰 출시 및 시장 본격 진입 (2026년 말 예상)</span>
+             <span>- 아이폰 18 Pro 언더 디스플레이 FaceID 적용 전망</span>
+        </div>
+         <div class="roadmap-item">
+             <strong>2030년</strong>
+             <span>- 미 국방수권법(NDAA)에 따른 중국산 디스플레이 조달 완전 배제 완료</span>
+        </div>
+    </div>
 
 
 
