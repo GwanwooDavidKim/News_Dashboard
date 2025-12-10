@@ -1,1 +1,497 @@
-
+[
+    {
+        "title": "[초점] 아시아 3국, 마이크로 LED '패권 전쟁' 격화…대만·중국 투톱 경...",
+        "date": "2025-12-11 03:16",
+        "link": "https://www.g-enews.com/view.php?ud=202512101312004293fbbec65dfb_1"
+    },
+    {
+        "title": "중국, 저가 AI 스마트 안경으로 메타·애플에 도전장",
+        "date": "2025-12-11 01:34",
+        "link": "https://www.tokenpost.kr/news/ai/313375"
+    },
+    {
+        "title": "경북대 도윤선 교수팀, 이중 마이크로캐비티 기반 협대역 OLED 소자 개발",
+        "date": "2025-12-10 22:56",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=151954"
+    },
+    {
+        "title": "경북대 도윤선 교수팀, '이중 마이크로캐비티' 기반 고색순도 OLED 개발...",
+        "date": "2025-12-10 22:20",
+        "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4057912"
+    },
+    {
+        "title": "OLED 스마트폰 패널 출하량, 2025년 9억 대 도달… 4분기 생산이 성장 견...",
+        "date": "2025-12-10 22:04",
+        "link": "https://www.hellot.net/news/article.html?no=108070"
+    },
+    {
+        "title": "“이러다 한국 진짜 망한다” 중국에 다 뺏기더니… 삼성 초비상",
+        "date": "2025-12-10 21:40",
+        "link": "https://n.news.naver.com/mnews/article/016/0002570265?sid=105"
+    },
+    {
+        "title": "애플 따라가는 삼성… 내년 갤럭시에 리퀴드 글라스 적용된다",
+        "date": "2025-12-10 20:16",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092152601"
+    },
+    {
+        "title": "엔젯, 유리기판 공정 게임체인저 되나…EHD 기술 재조명",
+        "date": "2025-12-10 18:22",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=404901"
+    },
+    {
+        "title": "에이수스, 화이트 컨셉 · 540Hz 주사율 ‘ROG Swift OLED PG27AQWP-W’ 게...",
+        "date": "2025-12-10 18:18",
+        "link": "https://www.betanews.net/article/view/beta202512100094"
+    },
+    {
+        "title": "삼성 '갤Z트라이폴드' 보험 아직 '미정'···수리비 약 200만원 '우려'",
+        "date": "2025-12-10 18:10",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=245090"
+    },
+    {
+        "title": "롯데하이마트, 아이패드·맥북 등 인기 IT가전 최대 20% 할인",
+        "date": "2025-12-10 17:56",
+        "link": "https://www.ngetnews.com/news/articleView.html?idxno=543061"
+    },
+    {
+        "title": "경북대 도윤선 교수팀, 이중 마이크로캐비티 기반 협대역 OLED 소자 개발...",
+        "date": "2025-12-10 17:54",
+        "link": "http://www.breaknews.com/1168114"
+    },
+    {
+        "title": "[AT 유통]롯데하이마트·NS홈쇼핑·파르나스",
+        "date": "2025-12-10 17:36",
+        "link": "https://www.asiatime.co.kr/article/20251210500443"
+    },
+    {
+        "title": "삼성 '갤럭시 Z 트라이폴드', 中 구딕스 초슬림 지문 센서 탑재",
+        "date": "2025-12-10 17:18",
+        "link": "https://kbench.com/?q=node/274202"
+    },
+    {
+        "title": "중국 AI 웨어러블 시장 급성장…스마트 안경 업체만 70여곳",
+        "date": "2025-12-10 17:08",
+        "link": "https://www.topstarnews.net/news/articleView.html?idxno=15901811"
+    },
+    {
+        "title": "[Today Auto]기아, 글로벌 소형 SUV 시장 이끌 '디 올 뉴 셀토스' 세계 최...",
+        "date": "2025-12-10 17:00",
+        "link": "http://www.press9.kr/news/articleView.html?idxno=69826"
+    },
+    {
+        "title": "애플은 왜 기술보다 감정을 먼저 말할까",
+        "date": "2025-12-10 16:58",
+        "link": "https://www.elle.co.kr/article/1893217"
+    },
+    {
+        "title": "롯데하이마트, 연말 IT가전 특가···학생 대상 애플 제품 최대 20% 할인",
+        "date": "2025-12-10 16:54",
+        "link": "https://www.smartfn.co.kr/news/articleView.html?idxno=129062"
+    },
+    {
+        "title": "신한카드, 애플페이 도입 해 넘긴다…수익성 악화가 발목",
+        "date": "2025-12-10 16:48",
+        "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=237180"
+    },
+    {
+        "title": "애플, 'iOS 26.2' 배포…아이폰 해킹 위험 막는다",
+        "date": "2025-12-10 16:00",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1690519"
+    },
+    {
+        "title": "내년은 중국이 추월 삼성D·LGD, 올해 스마트폰 출하 '아슬아슬' 1위",
+        "date": "2025-12-10 15:51",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=334105"
+    },
+    {
+        "title": "에이수스, 540Hz 주사율 'ROG Swift OLED PG27AQWP-W' 출시",
+        "date": "2025-12-10 15:32",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=325918"
+    },
+    {
+        "title": "삼성전자, 내년 CES서 마이크로 RGB TV '대중화' 선언",
+        "date": "2025-12-10 15:31",
+        "link": "https://n.news.naver.com/mnews/article/030/0003379223?sid=105"
+    },
+    {
+        "title": "[WIKI 현장] '우와' 연발한 갤럭시 Z 트라이폴드 직접 보니...체험존 '인...",
+        "date": "2025-12-10 15:28",
+        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=179661"
+    },
+    {
+        "title": "경북대, 차세대 디스플레이 위한 협대역 OLED 기술 개발",
+        "date": "2025-12-10 15:24",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=799503"
+    },
+    {
+        "title": "LG디스플레이 스마트폰·모니터 OLED 수요 증가에 '활짝', 정철동 'OLED 명...",
+        "date": "2025-12-10 15:02",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=423159"
+    },
+    {
+        "title": "정철동 LG디스플레이, 내년부터 '영업익 1조 시대' 연다",
+        "date": "2025-12-10 14:40",
+        "link": "http://www.fntimes.com/html/view.php?ud=2025121014324241347de3572ddd_18"
+    },
+    {
+        "title": "롯데하이마트, 학생 고객 선호하는 아이패드·맥북 20% 할인 행사",
+        "date": "2025-12-10 14:09",
+        "link": "https://n.news.naver.com/mnews/article/009/0005603847?sid=101"
+    },
+    {
+        "title": "구글, '제미나이 안경'으로 10년 만에 재도전…삼성과 손잡고 2026년 AI 글...",
+        "date": "2025-12-10 13:42",
+        "link": "https://www.mstoday.co.kr/news/articleView.html?idxno=99891"
+    },
+    {
+        "title": "디즈니, 제프 윌리엄스 이사로 선임…애플 핵심 인재 영입",
+        "date": "2025-12-10 13:36",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=611757"
+    },
+    {
+        "title": "스마트폰 넘어 AR·자동차까지… 재영솔루텍 성장 모멘텀 확보 '눈에 띄...",
+        "date": "2025-12-10 13:08",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=404726"
+    },
+    {
+        "title": "에이수스, 게이밍 모니터 'ROG Swift OLED PG27AQWP-W' 출시... 540Hz 초고...",
+        "date": "2025-12-10 12:58",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1806990"
+    },
+    {
+        "title": "성균관대학교, 삼성전자·삼성디스플레이 협력사 협의회(협성회)와 산학...",
+        "date": "2025-12-10 12:46",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=192500"
+    },
+    {
+        "title": "에이수스 'ROG Swift OLED PG27AQWP-W' 게이밍 모니터 출시",
+        "date": "2025-12-10 12:12",
+        "link": "https://gamefocus.co.kr/detail.php?number=171894"
+    },
+    {
+        "title": "알파스캔 4K UHD 160Hz Fast IPS 게이밍 모니터 '콘퀘스트 27U60G' 출시",
+        "date": "2025-12-10 12:12",
+        "link": "https://gamefocus.co.kr/detail.php?number=171889"
+    },
+    {
+        "title": "中에 시선 뺏긴 스마트안경… 삼성·구글 ‘제미나이’ 반격",
+        "date": "2025-12-10 11:57",
+        "link": "https://n.news.naver.com/mnews/article/021/0002756139?sid=101"
+    },
+    {
+        "title": "삼성 3단 폴더블폰 '갤럭시 Z 트라이폴드' 中서 예약 판매 개시. 화웨이...",
+        "date": "2025-12-10 11:52",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539792"
+    },
+    {
+        "title": "에이수스코리아, 540Hz WOLED 게이밍 모니터 출시",
+        "date": "2025-12-10 11:42",
+        "link": "https://n.news.naver.com/mnews/article/092/0002401790?sid=105"
+    },
+    {
+        "title": "FPS 게임에 필요한 건 다 갖췄다! 에이수스, 27인치 게이밍 모니터 신제...",
+        "date": "2025-12-10 11:38",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539790"
+    },
+    {
+        "title": "나인테크, 120억 CB로 열전소자·맥신 설비 확대…신사업 드라이브 본격...",
+        "date": "2025-12-10 11:36",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=227810"
+    },
+    {
+        "title": "롯데하이마트, 연말 IT가전 할인…학생 고객 최대 20% 혜택",
+        "date": "2025-12-10 11:36",
+        "link": "https://sateconomy.co.kr/news/view/1065579224151173"
+    },
+    {
+        "title": "경북대, 이중 마이크로캐비티 기반 협대역 OLED 소자 개발기존 OLED 소재...",
+        "date": "2025-12-10 11:34",
+        "link": "https://n.news.naver.com/mnews/article/030/0003379034?sid=105"
+    },
+    {
+        "title": "경북대, 이중 마이크로캐비티 기반 협대역 OLED 소자 개발",
+        "date": "2025-12-10 11:32",
+        "link": "https://n.news.naver.com/mnews/article/003/0013649613?sid=102"
+    },
+    {
+        "title": "아이폰–안드로이드 전환, 곧 더 쉬워진다…애플·구글, 기기 간 데이터...",
+        "date": "2025-12-10 11:30",
+        "link": "https://www.itworld.co.kr/article/4103723/아이폰-안드로이드-전환-곧-더-쉬워진다-애플·구.html"
+    },
+    {
+        "title": "삼성·구글 ‘AI 스마트 안경’ 내놓는다",
+        "date": "2025-12-10 11:29",
+        "link": "https://n.news.naver.com/mnews/article/016/0002569958?sid=105"
+    },
+    {
+        "title": "경북대 도윤선 교수팀, 이중 마이크로캐비티 기반 협대역 OLED 소자 개발",
+        "date": "2025-12-10 11:28",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=100061"
+    },
+    {
+        "title": "경북대 도윤선 교수팀, 이중 마이크로캐비티 기반 협대역 OLED 소자 개발",
+        "date": "2025-12-10 11:14",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=588542"
+    },
+    {
+        "title": "애플, 폴더블 시장 판도 바꾼다…'아이폰 폴드' 게임 체인저 평가",
+        "date": "2025-12-10 11:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=611742"
+    },
+    {
+        "title": "구글·삼성 손잡고 AI 스마트 안경 재도전…“안경 하나로 바뀌는 일상...",
+        "date": "2025-12-10 10:56",
+        "link": "http://www.metroseoul.co.kr/article/20251210500206"
+    },
+    {
+        "title": "롯데하이마트, 연말 맞아 학생 고객 대상 IT 가전 할인 행사 진행",
+        "date": "2025-12-10 10:54",
+        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=245285"
+    },
+    {
+        "title": "日서 삼성 폴더블 존재감 확대 … '트라이폴드' 출시 분수령 되나",
+        "date": "2025-12-10 10:46",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/12/10/2025121000096.html"
+    },
+    {
+        "title": "연말 IT 기기 선물, 롯데하이마트로 가요…최대 20% 할인",
+        "date": "2025-12-10 10:44",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20251210010005428"
+    },
+    {
+        "title": "애플, 2026년 두 가지 맥북 출시…터치스크린·5G 지원 예고",
+        "date": "2025-12-10 10:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=611725"
+    },
+    {
+        "title": "롯데하이마트 아이패드·맥북 등 인기 IT가전 최대 20% 할인",
+        "date": "2025-12-10 10:36",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=284627"
+    },
+    {
+        "title": "아이폰16, 3분기 글로벌 스마트폰 판매 1위…애플·삼성 '톱10' 5개씩",
+        "date": "2025-12-10 10:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=611705"
+    },
+    {
+        "title": "애플 아케이드, 코지 카라반 포함 4개 신작 추가…모바일 독점작 포함",
+        "date": "2025-12-10 10:32",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=611663"
+    },
+    {
+        "title": "파인엠텍, 내년 북미고객사 폴더블 600만장 공급 예상…매출 2배·영업이...",
+        "date": "2025-12-10 10:30",
+        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=240766"
+    },
+    {
+        "title": "안드로이드폰↔아이폰 교체 쉬워진다…구글·애플, 기기 데이터 전송 기...",
+        "date": "2025-12-10 10:28",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=284615"
+    },
+    {
+        "title": "하이엔드 스마트폰 니즈 증가…파인엠텍 실적 개선 가시화",
+        "date": "2025-12-10 10:24",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=404660"
+    },
+    {
+        "title": "한양證 파인엠텍, 북미 폴더블 출시 모멘텀…성장 본격화",
+        "date": "2025-12-10 10:22",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=284607"
+    },
+    {
+        "title": "“폴더블 판도가 뒤집힌다”…애플 첫 폴더블 아이폰, 시장가치 34% 싹쓸...",
+        "date": "2025-12-10 10:18",
+        "link": "https://n.news.naver.com/mnews/article/138/0002212056?sid=105"
+    },
+    {
+        "title": "애플 앱스토어 이용 등급 조정 ...시장 혼선 조짐",
+        "date": "2025-12-10 10:18",
+        "link": "https://www.tgdaily.co.kr/news/articleView.html?idxno=401281"
+    },
+    {
+        "title": "아우디코리아, 차 안에서 디즈니플러스 콘텐츠 즐긴다",
+        "date": "2025-12-10 10:18",
+        "link": "https://m.sports.naver.com/general/article/529/0000075140"
+    },
+    {
+        "title": "엔젯, 유리기판 결함 '3마이크로미터' 자동 식별 AI SW 개발 성공",
+        "date": "2025-12-10 10:17",
+        "link": "https://www.newspim.com/news/view/20251210000302"
+    },
+    {
+        "title": "애플 전 COO 제프 윌리엄스, 디즈니 이사회 후보로 공식 추천",
+        "date": "2025-12-10 10:10",
+        "link": "https://n.news.naver.com/mnews/article/138/0002212053?sid=004"
+    },
+    {
+        "title": "에이수스, 화이트 컨셉 · 540Hz 주사율의 ‘ROG Swift OLED PG27AQWP-W’ 게...",
+        "date": "2025-12-10 10:04",
+        "link": "https://kbench.com/?q=node/274166"
+    },
+    {
+        "title": "롯데하이마트, 연말 맞이 IT가전 할인",
+        "date": "2025-12-10 10:01",
+        "link": "https://n.news.naver.com/mnews/article/092/0002401760?sid=105"
+    },
+    {
+        "title": "에이수스, 'ROG Swift OLED PG27AQWP-W' 화이트 콘셉트 게이밍 모니터 출...",
+        "date": "2025-12-10 09:54",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57221"
+    },
+    {
+        "title": "애플·구글, 'iOS ↔ 안드로이드' 전환 전면 개방… eSIM·메신저까지 완...",
+        "date": "2025-12-10 09:50",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539785"
+    },
+    {
+        "title": "그 사람도 관둔대? 술렁이자…애플 칩 책임자 나 안떠나 이유는?",
+        "date": "2025-12-10 09:46",
+        "link": "https://n.news.naver.com/mnews/article/277/0005691443?sid=104"
+    },
+    {
+        "title": "에이수스, 540Hz 주사율 가진 게이밍 모니터 신제품 선보여",
+        "date": "2025-12-10 09:40",
+        "link": "https://www.cnet.co.kr/view/?no=20251210093604"
+    },
+    {
+        "title": "롯데하이마트, 아이패드·맥북 등 IT가전 최대 20% 할인",
+        "date": "2025-12-10 09:36",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=233333"
+    },
+    {
+        "title": "롯데하이마트, 삼성전자·애플 IT 가전 특별전...학생 최대 20% 할인",
+        "date": "2025-12-10 09:34",
+        "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=315357"
+    },
+    {
+        "title": "롯데하이마트, 아이패드·맥북 등 인기 IT가전 최대 20% 할인",
+        "date": "2025-12-10 09:28",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=288893"
+    },
+    {
+        "title": "파인엠텍, 내년 북미 폴더블 진입…실적 퀀텀 점프 전망 [모닝 리포트...",
+        "date": "2025-12-10 09:26",
+        "link": "https://www.newspim.com/news/view/20251210000110"
+    },
+    {
+        "title": "디즈니, 애플 30년 장기근속 전 최고운영책임자 영입",
+        "date": "2025-12-10 09:24",
+        "link": "https://n.news.naver.com/mnews/article/092/0002401743?sid=105"
+    },
+    {
+        "title": "롯데하이마트, 연말 맞아 인기 IT가전 최대 20% 할인",
+        "date": "2025-12-10 09:12",
+        "link": "http://theviewers.co.kr/View.aspx?No=3886946"
+    },
+    {
+        "title": "한양證 파인엠텍, 내년 북미 폴더블 출시 모멘텀...사상 최대 실적 기대...",
+        "date": "2025-12-10 09:11",
+        "link": "https://n.news.naver.com/mnews/article/014/0005446730?sid=101"
+    },
+    {
+        "title": "파라마운트, 워너 적대적 인수 돌입… 넷플릭스보다 비싸게 산다 [디지...",
+        "date": "2025-12-10 09:08",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57217"
+    },
+    {
+        "title": "아이폰 '페이스ID' 사라지나…디자인 확 바뀐다[모닝폰]",
+        "date": "2025-12-10 09:08",
+        "link": "https://n.news.naver.com/mnews/article/018/0006180789?sid=105"
+    },
+    {
+        "title": "삼성 '갤럭시 Z 트라이폴드', 한국이어 중국서 사전예약 돌입",
+        "date": "2025-12-10 09:04",
+        "link": "https://kbench.com/?q=node/274158"
+    },
+    {
+        "title": "롯데하이마트, 아이패드·맥북 등 인기 IT·가전 최대 20% 할인",
+        "date": "2025-12-10 09:02",
+        "link": "https://www.newspim.com/news/view/20251210000112"
+    },
+    {
+        "title": "'갤럭시 Z 트라이폴드' 中서 사전 예약 개시…450만원대 1TB 모델도 첫선",
+        "date": "2025-12-10 09:02",
+        "link": "https://www.theguru.co.kr/news/article.html?no=95430"
+    },
+    {
+        "title": "롯데하이마트, 아이패드·맥북 등 인기 IT가전 최대 20% 할인 행사 진행",
+        "date": "2025-12-10 09:00",
+        "link": "http://www.thefirstmedia.net/news/articleView.html?idxno=188410"
+    },
+    {
+        "title": "[클릭 e종목]파인엠텍, 북미 폴더블 출시 2026년 실적 퀀텀 점프 트리거...",
+        "date": "2025-12-10 08:48",
+        "link": "https://n.news.naver.com/mnews/article/277/0005691365?sid=101"
+    },
+    {
+        "title": "폴더블 아이폰, 내년 폴더블 시장 22% 점유",
+        "date": "2025-12-10 08:42",
+        "link": "https://n.news.naver.com/mnews/article/092/0002401731?sid=105"
+    },
+    {
+        "title": "롯데하이마트, 아이패드·맥북 등 인기 IT가전 최대 20% 할인",
+        "date": "2025-12-10 08:28",
+        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=69631"
+    },
+    {
+        "title": "파인엠텍, 북미 폴더블 출시로 내년 사상 최대 실적 기대-한양",
+        "date": "2025-12-10 08:14",
+        "link": "https://n.news.naver.com/mnews/article/018/0006180705?sid=101"
+    },
+    {
+        "title": "한양證 파인엠텍, 북미 폴더블 출시 모멘텀…성장 본격화",
+        "date": "2025-12-10 08:13",
+        "link": "https://n.news.naver.com/mnews/article/003/0013648845?sid=101"
+    },
+    {
+        "title": "전 세계 아이폰 사용자, 보안 위해 최신 OS 반드시 설치해야",
+        "date": "2025-12-10 08:12",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092152536"
+    },
+    {
+        "title": "[교육 &amp; NOW] 성균관대, 삼성전자·삼성디스플레이 협력사 협의회 산학협...",
+        "date": "2025-12-10 08:10",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1690311"
+    },
+    {
+        "title": "30만원 돌려주고 2600억 설계 내줬다?···'으뜸가전' 환급, 중국 웃은 ...",
+        "date": "2025-12-10 08:00",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2366918"
+    },
+    {
+        "title": "롯데하이마트, 연말맞아 학생 타깃 IT가전 할인행사",
+        "date": "2025-12-10 07:54",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=700400"
+    },
+    {
+        "title": "다이내믹 아일랜드 퇴장? 애플 아이폰, 18 프로 '페이스ID 센서' 완전 숨...",
+        "date": "2025-12-10 07:44",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539771"
+    },
+    {
+        "title": "LGD 정철동, 턴어라운드 예약…OLED 전환에, 인력 슬림화까지",
+        "date": "2025-12-10 07:26",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2157048"
+    },
+    {
+        "title": "롯데하이마트, 학생 고객 대상 IT 가전 최대 20% 할인",
+        "date": "2025-12-10 07:24",
+        "link": "https://n.news.naver.com/mnews/article/119/0003035055?sid=101"
+    },
+    {
+        "title": "BOE, 8.6세대 고객사 확보…삼성D는 물밑 협상 중",
+        "date": "2025-12-10 07:10",
+        "link": "https://dealsite.co.kr/articles/152954"
+    },
+    {
+        "title": "[2025결산] 스마트폰에서 가전까지 ‘AI 홈’ 확대…AI 체질개선 속도",
+        "date": "2025-12-10 07:10",
+        "link": "https://n.news.naver.com/mnews/article/138/0002212022?sid=105"
+    },
+    {
+        "title": "[GAM]스페이스X 기업가치 급상승에 점화③ A주 '상업우주 테마 열풍'",
+        "date": "2025-12-10 07:00",
+        "link": "https://www.newspim.com/news/view/20251209000891"
+    }
+]
