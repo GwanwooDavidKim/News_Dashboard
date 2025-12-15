@@ -1,1 +1,682 @@
-
+[
+    {
+        "title": "스마트폰 넘보는 ‘스마트 안경’… 무차별 정보 수집 우려도",
+        "date": "2025-12-16 00:14",
+        "link": "https://n.news.naver.com/mnews/article/005/0001820563?sid=101"
+    },
+    {
+        "title": "“분명 삼성은 아닌데…北 김여정 손에 포착된 ‘폴더블폰’ 정체는?",
+        "date": "2025-12-15 22:26",
+        "link": "https://n.news.naver.com/mnews/article/011/0004567655?sid=100"
+    },
+    {
+        "title": "[삼성전자 갤럭시 스마트폰] ① 숫자가 말하는 현재",
+        "date": "2025-12-15 21:24",
+        "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=234027"
+    },
+    {
+        "title": "김여정 손에 '폴더블폰'…배달앱 등장 햄버거 선택하자",
+        "date": "2025-12-15 21:24",
+        "link": "https://n.news.naver.com/mnews/article/055/0001316457?sid=100"
+    },
+    {
+        "title": "삼성, 3단 폴더블폰 '갤럭시Z 트라이폴드' 국내 출시",
+        "date": "2025-12-15 21:22",
+        "link": "https://cwn.kr/article/1065582323650119"
+    },
+    {
+        "title": "“360만원→1000만원 됐다” 웃돈 줘도 못 사…5분 만에 완판, 난리 났다",
+        "date": "2025-12-15 20:41",
+        "link": "https://n.news.naver.com/mnews/article/016/0002572386?sid=105"
+    },
+    {
+        "title": "BOE 천옌순 회장, 삼성전자 수원 본사 방문…LCD 동맹 전망",
+        "date": "2025-12-15 20:04",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1691200"
+    },
+    {
+        "title": "[평양돋보기] 북 김여정, 중국산 '폴더블폰' 소지 추정…현송월·김정은...",
+        "date": "2025-12-15 19:52",
+        "link": "https://n.news.naver.com/mnews/article/057/0001925023?sid=100"
+    },
+    {
+        "title": "삼성전자 방문한 中 BOE 회장, 협력 급물살 타나",
+        "date": "2025-12-15 19:52",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4388982"
+    },
+    {
+        "title": "이재용, 새해 초 사장단 회의 소집... '사즉생' 다음 키워드는?",
+        "date": "2025-12-15 18:38",
+        "link": "http://woman.chosun.com/news/articleView.html?idxno=124160"
+    },
+    {
+        "title": "BOE chairman meets with Samsung Electronics officials after OLED dispute",
+        "date": "2025-12-15 18:23",
+        "link": "https://n.news.naver.com/mnews/article/001/0015797229?sid=104"
+    },
+    {
+        "title": "천옌순 中 BOE 회장 삼성전자 방문…관계복원 신호탄?",
+        "date": "2025-12-15 18:22",
+        "link": "https://n.news.naver.com/mnews/article/029/0002999517?sid=101"
+    },
+    {
+        "title": "연세대 이연진 교수팀 LG디스플레이와 대형 OLED TV 핵심 소재 작동 원리...",
+        "date": "2025-12-15 18:22",
+        "link": "http://www.veritas-a.com/news/articleView.html?idxno=589494"
+    },
+    {
+        "title": "자동차부품 관련주, '함박웃음' 육일씨엔에쓰·서진오토모티브·한라캐...",
+        "date": "2025-12-15 18:20",
+        "link": "http://www.finomy.com/news/articleView.html?idxno=245488"
+    },
+    {
+        "title": "삼성전자, 프리미엄·보급형으로 글로벌 스마트폰 시장 보폭 넓힌다",
+        "date": "2025-12-15 18:00",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=278726"
+    },
+    {
+        "title": "정사각형 '갤럭시Z 폴드8' 이렇게 생겼나? 콘셉트 이미지 공개",
+        "date": "2025-12-15 17:52",
+        "link": "https://kbench.com/?q=node/274369"
+    },
+    {
+        "title": "中 BOE 천옌순 회장, 삼성전자 경영진 회동…LCD 공급 논의할 듯",
+        "date": "2025-12-15 17:50",
+        "link": "https://n.news.naver.com/mnews/article/421/0008661888?sid=101"
+    },
+    {
+        "title": "천옌순 中 BOE 회장 삼성전자 방문…특허 소송 완패 후 손 내미나",
+        "date": "2025-12-15 17:50",
+        "link": "https://www.hellot.net/news/article.html?no=108218"
+    },
+    {
+        "title": "中 BOE 회장, 삼성 경영진 전격 회동…특허침해 후속 조치 논의",
+        "date": "2025-12-15 17:37",
+        "link": "https://n.news.naver.com/mnews/article/011/0004567559?sid=101"
+    },
+    {
+        "title": "中 BOE 회장, 삼성전자 방문⋯LCD 물량 확대 논의",
+        "date": "2025-12-15 17:36",
+        "link": "https://www.etoday.co.kr/news/view/2536234"
+    },
+    {
+        "title": "'특허소송 악연' 천옌순 中 BOE 회장, 삼성전자 방문",
+        "date": "2025-12-15 17:35",
+        "link": "https://n.news.naver.com/mnews/article/277/0005693871?sid=101"
+    },
+    {
+        "title": "중국 BOE 회장 천옌순 삼성전자 방문해 용석우 만나, LCD 공급 재개 논의",
+        "date": "2025-12-15 17:34",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=423684"
+    },
+    {
+        "title": "'특허소송 완패' 中 BOE 회장, 삼성전자 방문...화해 기류?",
+        "date": "2025-12-15 17:29",
+        "link": "https://www.newspim.com/news/view/20251215001048"
+    },
+    {
+        "title": "천옌순 中 BOE 회장, 삼성전자 방문…'LCD 협력 재개 신호'",
+        "date": "2025-12-15 17:28",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025121517170524530"
+    },
+    {
+        "title": "천옌순 BOE 회장, 삼성전자 방문…LCD 협력 재개하나",
+        "date": "2025-12-15 17:26",
+        "link": "https://n.news.naver.com/mnews/article/003/0013659041?sid=101"
+    },
+    {
+        "title": "삼성디스플레이, 내년에도 ‘애플 효과’ 기대감↑…태블릿·폴더블 OLE...",
+        "date": "2025-12-15 17:24",
+        "link": "https://www.ceoscoredaily.com/page/view/2025121517131956290"
+    },
+    {
+        "title": "천옌순 中 BOE 회장, 오늘 삼성전자 방문… LCD 공급 논의할 듯",
+        "date": "2025-12-15 17:24",
+        "link": "https://www.ajunews.com/view/20251215171435415"
+    },
+    {
+        "title": "中 BOE 회장 방한, 삼성전자와 LCD 협력 재개 논의",
+        "date": "2025-12-15 17:17",
+        "link": "https://n.news.naver.com/mnews/article/031/0000989346?sid=105"
+    },
+    {
+        "title": "中 BOE 회장 삼성전자 방문…LCD 공급 확대 물꼬 트나",
+        "date": "2025-12-15 17:13",
+        "link": "https://n.news.naver.com/mnews/article/018/0006183895?sid=101"
+    },
+    {
+        "title": "K-게임, '30% 수수료' 구글·애플 탈출 가속화...PC결제 활성화로 수익성...",
+        "date": "2025-12-15 17:12",
+        "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=75717"
+    },
+    {
+        "title": "中 BOE 회장 삼성전자 방문, 특허분쟁 후속 조치 논의하나",
+        "date": "2025-12-15 17:09",
+        "link": "https://n.news.naver.com/mnews/article/014/0005449201?sid=101"
+    },
+    {
+        "title": "천옌순 中 BOE 회장, 삼성전자 방문… “경영진과 LCD 공급 논의”",
+        "date": "2025-12-15 17:07",
+        "link": "https://n.news.naver.com/mnews/article/366/0001130247?sid=105"
+    },
+    {
+        "title": "천옌순 中 BOE 회장, 삼성전자 방문···특허 분쟁 이후 관계 개선 논의",
+        "date": "2025-12-15 16:57",
+        "link": "https://www.seoulfn.com/news/articleView.html?idxno=615670"
+    },
+    {
+        "title": "‘특허소송 완패’ 中 BOE 회장, 삼성전자 방문…삼성에 손 내미나",
+        "date": "2025-12-15 16:54",
+        "link": "https://n.news.naver.com/mnews/article/029/0002999484?sid=101"
+    },
+    {
+        "title": "내년 애플 폴더블·OLED 맥북프로 온다…K디스플레이 기대감",
+        "date": "2025-12-15 16:48",
+        "link": "https://n.news.naver.com/mnews/article/018/0006183872?sid=101"
+    },
+    {
+        "title": "천옌순 中 BOE 회장 삼성전자 방문…특허소송 완패후 손내미나",
+        "date": "2025-12-15 16:40",
+        "link": "https://n.news.naver.com/mnews/article/001/0015797038?sid=101"
+    },
+    {
+        "title": "북한 김여정 손에 폴더블폰…중국산 '매직' 추정",
+        "date": "2025-12-15 16:20",
+        "link": "https://n.news.naver.com/mnews/article/422/0000812389?sid=100"
+    },
+    {
+        "title": "삼성, 16일부터 전략회의 돌입…이재용, '신년 만찬' 등장 진두지휘",
+        "date": "2025-12-15 16:16",
+        "link": "http://www.shinailbo.co.kr/news/articleView.html?idxno=2162952"
+    },
+    {
+        "title": "삼성 스마트폰 위기론... 14년 만에 애플에 1위 내줄 듯",
+        "date": "2025-12-15 16:10",
+        "link": "https://n.news.naver.com/mnews/article/023/0003947044?sid=105"
+    },
+    {
+        "title": "삼성 파운드리, 애플·테슬라 이어 AMD까지 2나노 고객사로 품나",
+        "date": "2025-12-15 16:08",
+        "link": "https://kbench.com/?q=node/274362"
+    },
+    {
+        "title": "이것이 삼성의 초격차… '갤럭시 Z 트라이폴드', 압도적 기술로 세계...",
+        "date": "2025-12-15 16:04",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3060417"
+    },
+    {
+        "title": "[AT 산업 단신] LG전자·드리미·슈퍼마이크로컴퓨터",
+        "date": "2025-12-15 16:00",
+        "link": "https://www.asiatime.co.kr/article/20251215500358"
+    },
+    {
+        "title": "폴더블폰 사용하고 있잖아…김정은 동생 김여정 손에 든 물건의 정체",
+        "date": "2025-12-15 15:54",
+        "link": "https://n.news.naver.com/mnews/article/009/0005606332?sid=100"
+    },
+    {
+        "title": "LG디플, OLED·LCD 병행으로 위기돌파…정철동 효과 가시화",
+        "date": "2025-12-15 15:50",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=289335"
+    },
+    {
+        "title": "日, 구글·애플 겨냥 '스마트폰 SW 경쟁촉진법' 18일 시행",
+        "date": "2025-12-15 15:36",
+        "link": "https://www.newspim.com/news/view/20251215000871"
+    },
+    {
+        "title": "관세 리스크 '그림자'...베트남 스마트폰, 美 수출 5년래 '최저'",
+        "date": "2025-12-15 15:30",
+        "link": "https://www.newspim.com/news/view/20251215000855"
+    },
+    {
+        "title": "北에서 ‘폴더블폰’ 유행?…김정은·현송월 이어 김여정 손에도",
+        "date": "2025-12-15 15:23",
+        "link": "https://n.news.naver.com/mnews/article/005/0001820480?sid=100"
+    },
+    {
+        "title": "BOE 회장 삼성전자 방문 … 북미 특허 소송 악연 털어내나",
+        "date": "2025-12-15 15:20",
+        "link": "https://biz.newdaily.co.kr/site/data/html/2025/12/15/2025121500242.html"
+    },
+    {
+        "title": "국세청, 피겨여왕 김연아 등 60회 납세자의 날 '모범납세자 포상 후보' ...",
+        "date": "2025-12-15 15:18",
+        "link": "https://www.sejungilbo.com/news/articleView.html?idxno=56238"
+    },
+    {
+        "title": "OLED로 재편되는 게이밍 모니터…K-디스플레이 독주",
+        "date": "2025-12-15 15:10",
+        "link": "https://www.newspim.com/news/view/20251215000792"
+    },
+    {
+        "title": "'캐파 한계' LG디스플레이, 아이패드→스마트폰 라인 전환해 대응",
+        "date": "2025-12-15 15:10",
+        "link": "https://www.greened.kr/news/articleView.html?idxno=334286"
+    },
+    {
+        "title": "삼성 갤Z 트라이폴드에 '위츠' 무선충전…폴더블 핵심 파트너 입지 강...",
+        "date": "2025-12-15 15:10",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1691142"
+    },
+    {
+        "title": "북한 김여정 오른손에 최신 '폴더블폰' 포착…중국 브랜드 제품 추정",
+        "date": "2025-12-15 15:08",
+        "link": "http://www.lkp.news/news/articleView.html?idxno=73452"
+    },
+    {
+        "title": "천옌순 BOE 회장, 삼성전자 방문…LCD 수급 논의할 듯",
+        "date": "2025-12-15 15:02",
+        "link": "https://n.news.naver.com/mnews/article/030/0003380700?sid=105"
+    },
+    {
+        "title": "“배부른데 계속 들어가” 장도연, 日 유행 중인 ‘이 간식’ 먹방… 뭔...",
+        "date": "2025-12-15 14:55",
+        "link": "https://n.news.naver.com/mnews/article/346/0000101800?sid=004"
+    },
+    {
+        "title": "순천향대, 'In-situ 진공장비 선택성장 공정 기술' 이전 협약",
+        "date": "2025-12-15 14:52",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1309688"
+    },
+    {
+        "title": "iPad로 만든 컷신은… 애플·네이버웹툰 인기작가 10인 맞손",
+        "date": "2025-12-15 14:48",
+        "link": "https://n.news.naver.com/mnews/article/421/0008661375?sid=105"
+    },
+    {
+        "title": "LG이노텍, 애플 의존 낮춘다…빅테크 2곳에 기판 공급",
+        "date": "2025-12-15 14:47",
+        "link": "https://n.news.naver.com/mnews/article/215/0001234637?sid=101"
+    },
+    {
+        "title": "연세대 이연진 교수팀- LG디스플레이, 대형 OLED TV 핵심 소재 작동 원리...",
+        "date": "2025-12-15 14:34",
+        "link": "https://edu.donga.com/news/articleView.html?idxno=100340"
+    },
+    {
+        "title": "애플, 중요 보안 취약점 수정 'iOS 18.7.3' 출시",
+        "date": "2025-12-15 14:28",
+        "link": "https://kbench.com/?q=node/274353"
+    },
+    {
+        "title": "애플, 스마트 홈 허브 '홈패드' 윤곽 드러내…2026년 출시 전망",
+        "date": "2025-12-15 14:14",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612985"
+    },
+    {
+        "title": "한국과 긴 악연...천옌순 BOE 회장 삼성전자 방문",
+        "date": "2025-12-15 14:06",
+        "link": "https://n.news.naver.com/mnews/article/009/0005606234?sid=101"
+    },
+    {
+        "title": "北 김여정 손에 ‘폴더블폰’…중국제 최신 제품 추정",
+        "date": "2025-12-15 14:00",
+        "link": "https://n.news.naver.com/mnews/article/449/0000329516?sid=100"
+    },
+    {
+        "title": "제이케이테크, 디스플레이-이차전지 제조 장비 영역 확장",
+        "date": "2025-12-15 13:54",
+        "link": "https://n.news.naver.com/mnews/article/014/0005449008?sid=101"
+    },
+    {
+        "title": "애플, 웹툰 작가와 아이패드 캠페인 진행",
+        "date": "2025-12-15 13:34",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612897"
+    },
+    {
+        "title": "“불황에도 비싼 프리미엄이 잘 팔려요”…전자 제품도 소비 양극화",
+        "date": "2025-12-15 13:22",
+        "link": "https://n.news.naver.com/mnews/article/009/0005606204?sid=101"
+    },
+    {
+        "title": "삼성·LG전자 임원 600명 금주 총집결…2026년 로드맵 짠다",
+        "date": "2025-12-15 13:20",
+        "link": "https://www.newsway.co.kr/news/view?ud=2025121511525593684"
+    },
+    {
+        "title": "독과점 그만…日, 구글·애플 겨냥 ‘스마트폰 신법’ 18일 시행",
+        "date": "2025-12-15 13:17",
+        "link": "https://n.news.naver.com/mnews/article/018/0006183692?sid=101"
+    },
+    {
+        "title": "애플(Apple)은 왜 여성의 몸을 데이터로 읽기 시작했을까",
+        "date": "2025-12-15 13:10",
+        "link": "https://www.harpersbazaar.co.kr/article/1893506"
+    },
+    {
+        "title": "애플, 웹킷(WebKit) 제로데이 2건 실제 악용 확인…iOS·macOS·사파리 ...",
+        "date": "2025-12-15 13:02",
+        "link": "https://www.dailysecu.com/news/articleView.html?idxno=203368"
+    },
+    {
+        "title": "가격이냐 성능이냐…애플워치 SE3 vs. 시리즈11",
+        "date": "2025-12-15 13:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612927"
+    },
+    {
+        "title": "순천향대, 선택성장 공정기술 이전",
+        "date": "2025-12-15 12:44",
+        "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2385731"
+    },
+    {
+        "title": "김여정 손에 폴더블폰… 中 ‘매직 V5’ 추정",
+        "date": "2025-12-15 12:03",
+        "link": "https://n.news.naver.com/mnews/article/021/0002757180?sid=100"
+    },
+    {
+        "title": "삼성, 16일부터 글로벌 전략회의..이재용 1월 사장단 만찬",
+        "date": "2025-12-15 11:54",
+        "link": "http://www.4th.kr/news/articleView.html?idxno=2102855"
+    },
+    {
+        "title": "삼성의 승부수? 갤럭시 Z 트라이폴드가 주목받는 이유 4",
+        "date": "2025-12-15 11:52",
+        "link": "https://www.esquirekorea.co.kr/article/1893500"
+    },
+    {
+        "title": "연세대·LG디스플레이, 대형 OLED TV 핵심 소재 '10년 미스터리' 풀었다",
+        "date": "2025-12-15 11:44",
+        "link": "https://n.news.naver.com/mnews/article/584/0000035708?sid=105"
+    },
+    {
+        "title": "32년 유공압 국산화의 길을 다시 열다 - 케이시시정공 박덕규 대표",
+        "date": "2025-12-15 11:32",
+        "link": "https://www.handmk.com/news/articleView.html?idxno=34749"
+    },
+    {
+        "title": "애플 iOS 26, 사진 앱 버그 발생…일부 사진 붉게 변해",
+        "date": "2025-12-15 11:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612910"
+    },
+    {
+        "title": "[총수家] 이재용 삼성전자 회장",
+        "date": "2025-12-15 11:16",
+        "link": "https://www.cbci.co.kr/news/articleView.html?idxno=544840"
+    },
+    {
+        "title": "360만원짜리 삼성 트라이폴드폰, 수리비가 판매가의 절반?",
+        "date": "2025-12-15 11:10",
+        "link": "https://n.news.naver.com/mnews/article/003/0013657867?sid=105"
+    },
+    {
+        "title": "삼성 ‘기술력’ 통했다…360만원 트라이폴드폰 첫날 완판 [삼성 트라이...",
+        "date": "2025-12-15 11:09",
+        "link": "https://n.news.naver.com/mnews/article/016/0002572055?sid=105"
+    },
+    {
+        "title": "북한 김여정 손에 ‘폴더블 폰’…“중국 아너의 매직 시리즈인 듯”",
+        "date": "2025-12-15 11:05",
+        "link": "https://n.news.naver.com/mnews/article/009/0005606095?sid=100"
+    },
+    {
+        "title": "일본, 앱 결제수수료 30%→17% 강제...애플·구글 독점 규제 본격화",
+        "date": "2025-12-15 11:00",
+        "link": "https://www.g-enews.com/view.php?ud=202512151050422857fbbec65dfb_1"
+    },
+    {
+        "title": "경북대학교 도윤선 교수팀, 이중 마이크로캐비티 기반 협대역 OLED 소자...",
+        "date": "2025-12-15 11:00",
+        "link": "https://www.lecturernews.com/news/articleView.html?idxno=192843"
+    },
+    {
+        "title": "애플, 네이버웹툰 작가 10인과 '아이패드로 만들다' 캠페인 펼쳐",
+        "date": "2025-12-15 10:56",
+        "link": "https://n.news.naver.com/mnews/article/014/0005448898?sid=105"
+    },
+    {
+        "title": "北 김여정 손에 쥔 '폴더블폰'...유엔 제재 위반 가능성 제기",
+        "date": "2025-12-15 10:50",
+        "link": "https://n.news.naver.com/mnews/article/052/0002287243?sid=102"
+    },
+    {
+        "title": "[실리콘 디코드] 애플, 삼성·SK하이닉스 'D램 프리미엄' 직격탄 맞는다",
+        "date": "2025-12-15 10:46",
+        "link": "https://www.g-enews.com/view.php?ud=202512151042502326fbbec65dfb_1"
+    },
+    {
+        "title": "최신 폴더블폰 손에 쥔 北 김여정 … 대북제재 위반하고 中 브랜드 소지...",
+        "date": "2025-12-15 10:40",
+        "link": "https://www.newdaily.co.kr/site/data/html/2025/12/15/2025121500095.html"
+    },
+    {
+        "title": "日, '스마트폰 앱 빅테크 규제법' 시행…구글·애플 겨냥",
+        "date": "2025-12-15 10:36",
+        "link": "https://n.news.naver.com/mnews/article/448/0000577097?sid=104"
+    },
+    {
+        "title": "북 김여정 손에 '폴더블폰' 포착...중국 브랜드 추정",
+        "date": "2025-12-15 10:35",
+        "link": "https://n.news.naver.com/mnews/article/052/0002287231?sid=100"
+    },
+    {
+        "title": "日, '스마트폰 앱 시장 규제법' 18일 시행…구글·애플 압박 본격화",
+        "date": "2025-12-15 10:34",
+        "link": "https://www.ajunews.com/view/20251215102420874"
+    },
+    {
+        "title": "연세대-LG디스플레이, OLED 핵심 소재 작동원리 규명",
+        "date": "2025-12-15 10:28",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612891"
+    },
+    {
+        "title": "최신 '폴더블폰' 든 北김여정 포착…中기업 제품 추정",
+        "date": "2025-12-15 10:24",
+        "link": "https://n.news.naver.com/mnews/article/119/0003036888?sid=100"
+    },
+    {
+        "title": "日, 구글·애플 겨냥 ‘스마트폰 앱 빅테크 규제법’ 18일 시행",
+        "date": "2025-12-15 10:17",
+        "link": "https://n.news.naver.com/mnews/article/016/0002571991?sid=104"
+    },
+    {
+        "title": "애플, 아이패드OS 26.2 출시…멀티태스킹 기능 대폭 강화",
+        "date": "2025-12-15 10:12",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612834"
+    },
+    {
+        "title": "日, '스마트폰 앱 빅테크 규제법'…구글·애플 겨냥",
+        "date": "2025-12-15 10:10",
+        "link": "https://n.news.naver.com/mnews/article/374/0000480531?sid=104"
+    },
+    {
+        "title": "日, 구글·애플 겨냥 ‘스마트폰 앱 빅테크 규제법’ 18일 시행",
+        "date": "2025-12-15 10:09",
+        "link": "https://n.news.naver.com/mnews/article/021/0002757096?sid=104"
+    },
+    {
+        "title": "일본, 18일부터 '스마트폰 앱 빅테크 규제법' 시행",
+        "date": "2025-12-15 10:09",
+        "link": "https://n.news.naver.com/mnews/article/422/0000812241?sid=105"
+    },
+    {
+        "title": "[실리콘 디코드] 삼성전자, AMD 서버 칩 '2나노 공급' 막판 협상…TSMC 정...",
+        "date": "2025-12-15 10:08",
+        "link": "https://www.g-enews.com/view.php?ud=202512151005216888fbbec65dfb_1"
+    },
+    {
+        "title": "애플, iOS 26.2 정식 출시…아이폰 사용자 편의성 강화",
+        "date": "2025-12-15 10:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=612791"
+    },
+    {
+        "title": "일, '스마트폰 앱 빅테크 규제법' 18일 시행…구글·애플 겨냥",
+        "date": "2025-12-15 10:07",
+        "link": "https://n.news.naver.com/mnews/article/055/0001316260?sid=104"
+    },
+    {
+        "title": "北김여정 손에 폴더블폰 포착…대북제재 위반 논란",
+        "date": "2025-12-15 10:06",
+        "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000016663"
+    },
+    {
+        "title": "일본, 구글·애플 겨냥 ‘스마트폰 앱 빅테크 규제법’ 18일 시행",
+        "date": "2025-12-15 10:02",
+        "link": "https://n.news.naver.com/mnews/article/056/0012085875?sid=104"
+    },
+    {
+        "title": "日, '스마트폰 앱 빅테크 규제법' 18일 시행…구글·애플 겨냥",
+        "date": "2025-12-15 09:59",
+        "link": "https://n.news.naver.com/mnews/article/001/0015795805?sid=104"
+    },
+    {
+        "title": "두 번 접는 폴더블 '트라이폴드', 삼성전자 신형 스마트폰 돌풍",
+        "date": "2025-12-15 09:50",
+        "link": "https://www.joongangenews.com/news/articleView.html?idxno=475417"
+    },
+    {
+        "title": "삼성 ‘갤럭시 Z 트라이폴드’ 뜨거운 인기.. 판매 첫날 초도 물량 완판",
+        "date": "2025-12-15 09:48",
+        "link": "https://kbench.com/?q=node/274323"
+    },
+    {
+        "title": "北 김정은·현송월 이어 김여정 손에도… ‘폴더블폰’ 포착",
+        "date": "2025-12-15 09:45",
+        "link": "https://n.news.naver.com/mnews/article/366/0001130089?sid=100"
+    },
+    {
+        "title": "연세대·LGD, 대형 OLED 핵심 소재의 작동 원리 첫 규명",
+        "date": "2025-12-15 09:45",
+        "link": "https://n.news.naver.com/mnews/article/366/0001130088?sid=105"
+    },
+    {
+        "title": "NH투자증권 선익시스템, 폭발적 실적과 턴어라운드 시작",
+        "date": "2025-12-15 09:44",
+        "link": "https://www.g-enews.com/view.php?ud=20251215092434852244093b5d4e_1"
+    },
+    {
+        "title": "애플, 네이버웹툰 작가 10인과 아이패드·애플펜슬로 창작 노하우 공개",
+        "date": "2025-12-15 09:42",
+        "link": "https://n.news.naver.com/mnews/article/138/0002212492?sid=105"
+    },
+    {
+        "title": "이민국 단속 정보 공유 앱 제작자, 미 정부 상대 소송 제기",
+        "date": "2025-12-15 09:42",
+        "link": "https://n.news.naver.com/mnews/article/640/0000081665?sid=004"
+    },
+    {
+        "title": "北 김여정 손에 들린 최신형 ‘폴더블폰’ 어디 꺼냐",
+        "date": "2025-12-15 09:40",
+        "link": "https://n.news.naver.com/mnews/article/014/0005448827?sid=100"
+    },
+    {
+        "title": "아이패드 프로와 애플펜슬의 만남, 네이버웹툰 작가 10명 캠페인",
+        "date": "2025-12-15 09:37",
+        "link": "https://n.news.naver.com/mnews/article/008/0005291786?sid=105"
+    },
+    {
+        "title": "해성옵틱스, 차세대 갤럭시 플래그십 공급 확대로 실적 성장 전망",
+        "date": "2025-12-15 09:26",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=683663"
+    },
+    {
+        "title": "미래 전자소자 경쟁력 높인다… 순천향대, 선택성장 공정기술 이전",
+        "date": "2025-12-15 09:20",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=152233"
+    },
+    {
+        "title": "최신 폰 손에 든 北김여정 ‘포착’…중국제 폴더블 폰 추정",
+        "date": "2025-12-15 09:15",
+        "link": "https://n.news.naver.com/mnews/article/081/0003600887?sid=100"
+    },
+    {
+        "title": "삼성폰은 아닌데…北 김여정 손에 들린 ‘폴더블폰’ 포착",
+        "date": "2025-12-15 09:08",
+        "link": "https://n.news.naver.com/mnews/article/023/0003946959?sid=100"
+    },
+    {
+        "title": "선익시스템, 2025년 실적 성장 전망 [모닝 리포트]",
+        "date": "2025-12-15 09:04",
+        "link": "https://www.newspim.com/news/view/20251215000139"
+    },
+    {
+        "title": "[리뷰] 태블릿 접어 주머니에…갤럭시 Z 트라이폴드, 360만원의 값을 ...",
+        "date": "2025-12-15 09:02",
+        "link": "http://www.popcornnews.net/news/articleView.html?idxno=105448"
+    },
+    {
+        "title": "北 김여정 손에 '폴더블폰'…세계서 가장 얇은 '그 제품' 추정",
+        "date": "2025-12-15 08:49",
+        "link": "https://n.news.naver.com/mnews/article/025/0003489824?sid=100"
+    },
+    {
+        "title": "北김여정 손에 ‘폴더블폰’ 포착…중국 기업 제품 추정",
+        "date": "2025-12-15 08:49",
+        "link": "https://n.news.naver.com/mnews/article/020/0003681774?sid=100"
+    },
+    {
+        "title": "애플, 네이버웹툰 작가 10인과 ‘iPad로 만들다’ 캠페인",
+        "date": "2025-12-15 08:49",
+        "link": "https://n.news.naver.com/mnews/article/119/0003036791?sid=105"
+    },
+    {
+        "title": "연세대 이연진 교수팀, LG디스플레이와 대형 OLED TV 핵심 소재 작동 원...",
+        "date": "2025-12-15 08:46",
+        "link": "http://www.kyosu.net/news/articleView.html?idxno=152219"
+    },
+    {
+        "title": "선익시스템, 中 8.6세대 효과에 신사업까지 겹쳤다 [모닝 리포트]",
+        "date": "2025-12-15 08:36",
+        "link": "https://www.newspim.com/news/view/20251215000069"
+    },
+    {
+        "title": "北김여정 손에 쥔 폴더블폰...세계에서 가장 얇은 거라고?",
+        "date": "2025-12-15 08:35",
+        "link": "https://n.news.naver.com/mnews/article/053/0000054284?sid=104"
+    },
+    {
+        "title": "법원, 삼성디스플레이 비정규직 청소노동자 유방암 '산재' 판결",
+        "date": "2025-12-15 08:30",
+        "link": "http://www.lawleader.co.kr/news/articleView.html?idxno=18075"
+    },
+    {
+        "title": "[애널픽] 선익시스템, 이익 폭증구간...저평가 심각",
+        "date": "2025-12-15 08:26",
+        "link": "http://theviewers.co.kr/View.aspx?No=3892247"
+    },
+    {
+        "title": "선익시스템, OLEDoS·페로브스카이트 신규 수주로 '폭발적 실적 성장' 진...",
+        "date": "2025-12-15 08:18",
+        "link": "http://www.newsprime.co.kr/news/article.html?no=716202"
+    },
+    {
+        "title": "최신 스마트폰 손에 쥔 北 김여정…'폴더블폰' 혹시 中 브랜드?",
+        "date": "2025-12-15 08:04",
+        "link": "https://n.news.naver.com/mnews/article/277/0005693376?sid=104"
+    },
+    {
+        "title": "선익시스템, 올해 폭발적 실적과 함께 턴어라운드 시작-NH",
+        "date": "2025-12-15 07:54",
+        "link": "https://n.news.naver.com/mnews/article/018/0006183325?sid=101"
+    },
+    {
+        "title": "발등에 불 떨어진 中 BOE, 천옌순회장 이번주 삼성 방문 LCD 공급. 로열티...",
+        "date": "2025-12-15 07:48",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539913"
+    },
+    {
+        "title": "북한 김여정 손에 ‘폴더블폰’ 포착…중국제 최신 제품 추정",
+        "date": "2025-12-15 07:44",
+        "link": "https://n.news.naver.com/mnews/article/032/0003415180?sid=100"
+    },
+    {
+        "title": "김여정 손에 포착된 '최신 폴더블폰'…중국 브랜드로 추정",
+        "date": "2025-12-15 07:41",
+        "link": "https://n.news.naver.com/mnews/article/057/0001924823?sid=104"
+    },
+    {
+        "title": "북한 김여정 손에 ‘폴더블폰’ 포착…중국 아너의 ‘매직’ 추정",
+        "date": "2025-12-15 07:41",
+        "link": "https://n.news.naver.com/mnews/article/056/0012085728?sid=100"
+    },
+    {
+        "title": "2026년 봄부터 대격변 예고? 애플, iOS 28까지 로드맵 드러났다",
+        "date": "2025-12-15 07:36",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=539912"
+    },
+    {
+        "title": "'갤럭시맨' 노태문 vs '가전왕' 류재철, 데뷔 미션은 도전보다 '1등 굳히...",
+        "date": "2025-12-15 07:00",
+        "link": "https://n.news.naver.com/mnews/article/243/0000089587?sid=105"
+    }
+]
