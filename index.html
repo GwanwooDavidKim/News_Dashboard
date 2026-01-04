@@ -355,16 +355,15 @@
 </head>
 
 <body>
-
     <div class="container">
         <div class="header">
+         <div class="header">
             <h1>디스플레이 산업 국내 기사 대시보드</h1>
-            <p>2025-12-23 07:00 ~ 2025-12-24 07:00 | 출처: MCI 팀</p>
-            <a href="https://gwanwoodavidkim.github.io/News_Dashboard/" target="_blank" class="header-link">과거 기사</a>
+            <p>2025-01-04 07:00 ~ 2025-01-05 07:00 | 출처: MCI 팀</p>
         </div>
 
         <div class="tabs">
-            <button class="tab-button" onclick="openTab(event, 'tab1')">금일 핵심 지표</button>
+            <button class="tab-button active" onclick="openTab(event, 'tab1')">금일 핵심 지표</button>
             <button class="tab-button" onclick="openTab(event, 'tab2')">디스플레이 산업 동향</button>
             <button class="tab-button" onclick="openTab(event, 'tab3')">고객 동향</button>
             <button class="tab-button" onclick="openTab(event, 'tab4')">경쟁사 동향</button>
@@ -372,199 +371,214 @@
             <button class="tab-button" onclick="openTab(event, 'tab6')">SCM 동향</button>
         </div>
 
-        <div id="tab1" class="tab-content">
+        <div id="tab1" class="tab-content" style="display: block;">
             <div class="kpi-container">
-                <div class="kpi-card" onclick="window.open('https://www.sisajournal-e.com/news/articleView.html?idxno=418020', '_blank')" style="cursor: pointer;">
-                    <h3>투명 디스플레이 시장</h3>
-                    <p class="value">'32년 1억불</p>
-                    <span class="value-change positive">연평균 9.3% 성장 전망</span>
-                </div>
-                <div class="kpi-card" onclick="window.open('https://n.news.naver.com/mnews/article/005/0001822138?sid=101', '_blank')" style="cursor: pointer;">
-                    <h3>LGD 게이밍 OLED</h3>
-                    <p class="value">240Hz 구현</p>
-                    <span class="value-change positive">세계 최초 공개 (CES 2026)</span>
-                </div>
-                <div class="kpi-card" onclick="window.open('https://www.econovill.com/news/articleView.html?idxno=723086', '_blank')" style="cursor: pointer;">
-                    <h3>SDC 8.6세대 투자</h3>
-                    <p class="value">양산 임박</p>
-                    <span class="value-change">IT용 OLED 선점 전략</span>
-                </div>
-                <div class="kpi-card" onclick="window.open('https://www.ekn.kr/web/view.php?key=20251223023411163', '_blank')" style="cursor: pointer;">
-                    <h3>Z 트라이폴드</h3>
-                    <p class="value">완판 행진</p>
-                    <span class="value-change positive">새로운 폼팩터 시장 입증</span>
-                </div>
-                <div class="kpi-card" onclick="window.open('https://www.newsis.com/view/NISX20251223_0003452438', '_blank')" style="cursor: pointer;">
-                    <h3>아산 사업장 이슈</h3>
-                    <p class="value">안전사고 발생</p>
-                    <span class="value-change negative">협력사 직원 사망/작업 중지</span>
-                </div>
-
-                <div class="kpi-card" onclick="window.open('https://www.hankyung.com/article/202512229522g', '_blank')" style="cursor: pointer;">
-                    <h3>삼성 스마트워치</h3>
-                    <p class="value">점유율 8%</p>
-                    <span class="value-change negative">YoY -1%p (글로벌 3위 하락)</span>
-                </div>
-                <div class="kpi-card" onclick="window.open('https://www.newsis.com/view/NISX20251223_0003451737', '_blank')" style="cursor: pointer;">
-                    <h3>애플 SCM</h3>
-                    <p class="value">공급망 다변화</p>
-                    <span class="value-change">이미지센서 협력 검토</span>
-                </div>
-
-                <div class="kpi-card" onclick="window.open('https://www.chosun.com/economy/tech_it/2025/12/23/KKZZNSNEMRA3XCWZOAIK5QFPRM/', '_blank')" style="cursor: pointer;">
-                    <h3>美 대중국 제재</h3>
-                    <p class="value">생태계 봉쇄</p>
-                    <span class="value-change negative">드론 및 핵심 부품 차단</span>
-                </div>
+                <a href="https://naver.me/xKtqLlvJ" target="_blank" style="text-decoration:none;">
+                    <div class="kpi-card">
+                        <h3>AI OLED 봇 (SDC)</h3>
+                        <p class="value">13.4형</p>
+                        <div class="value-change positive">CES 2026 공개</div>
+                    </div>
+                </a>
+                <a href="https://www.thelec.kr/news/articleView.html?idxno=50416" target="_blank" style="text-decoration:none;">
+                    <div class="kpi-card">
+                        <h3>V-Stripe QD-OLED</h3>
+                        <p class="value">34인치</p>
+                        <div class="value-change positive">12월 양산 시작</div>
+                    </div>
+                </a>
+                <a href="http://www.fnnews.com/news/202601021351212092" target="_blank" style="text-decoration:none;">
+                    <div class="kpi-card">
+                        <h3>IT OLED 투자</h3>
+                        <p class="value">8.6세대</p>
+                        <div class="value-change positive">양산 준비 박차</div>
+                    </div>
+                </a>
+                <a href="https://naver.me/xKtqLlvJ" target="_blank" style="text-decoration:none;">
+                    <div class="kpi-card">
+                        <h3>차량용 플렉시블 L</h3>
+                        <p class="value">18.1형</p>
+                        <div class="value-change positive">화면 확대 적용</div>
+                    </div>
+                </a>
+                <a href="http://www.thebigdata.co.kr/view.php?ud=202601042236192756d0a8833aad_23" target="_blank" style="text-decoration:none;">
+                    <div class="kpi-card">
+                        <h3>TV용 QD-OLED</h3>
+                        <p class="value">4,500 nit</p>
+                        <div class="value-change positive">자발광 최고 휘도</div>
+                    </div>
+                </a>
+                <a href="https://www.mk.co.kr/article/11922197" target="_blank" style="text-decoration:none;">
+                    <div class="kpi-card">
+                        <h3>갤럭시 S26 가격</h3>
+                        <p class="value">$799</p>
+                        <div class="value-change">전작 동결 (기본형)</div>
+                    </div>
+                </a>
+                <a href="https://www.mk.co.kr/article/11922197" target="_blank" style="text-decoration:none;">
+                    <div class="kpi-card">
+                        <h3>폴더블 아이폰</h3>
+                        <p class="value">$2,000</p>
+                        <div class="value-change">가격 조율 중</div>
+                    </div>
+                </a>
+                <a href="https://zdnet.co.kr/view/?no=20260102230059" target="_blank" style="text-decoration:none;">
+                    <div class="kpi-card">
+                        <h3>CES 2026 키워드</h3>
+                        <p class="value">AI·SDV</p>
+                        <div class="value-change positive">기술 경쟁 심화</div>
+                    </div>
+                </a>
             </div>
 
             <div class="section">
-                <h3><span class="keyword">핵심 요약</span> 금일 주요 시사점</h3>
+                <h3>핵심 요약</h3>
                 <ul>
-                    <li><strong>디스플레이 기술 경쟁 심화:</strong> LG디스플레이의 세계 최초 240Hz OLED 패널 공개와 삼성디스플레이의 8.6세대 IT OLED 양산 준비 등 기술 초격차를 위한 경쟁이 가속화되는 양상</li>
-                    <li><strong>안전 관리 이슈 부각:</strong> 삼성디스플레이 아산 공장 내 협력사 직원 사망 사고 발생으로 인한 작업 중지 및 중대재해처벌법 적용 검토 등 안전 관리 리스크 부각</li>
-                    <li><strong>웨어러블 시장 판도 변화:</strong> 스마트워치 시장에서 중국(샤오미, 화웨이) 업체의 약진과 삼성전자의 점유율 하락으로 인한 순위 변동 발생, SCM 및 가격 경쟁력 중요성 증대</li>
-                    <li><strong>글로벌 공급망 재편 가속:</strong> 미국의 중국산 드론/부품 제재 강화 및 애플의 이미지센서 공급망 다변화 시도 등 지정학적 리스크와 공급망 안정화 전략이 맞물린 시장 재편 진행</li>
+                    <li><strong>삼성디스플레이, CES 2026서 AI 융합 기술 과시:</strong> 'AI OLED 봇', 13.4형/18.1형 등 다양한 폼팩터 공개 및 초박형 IT OLED 기술력 강조</li>
+                    <li><strong>프리미엄 스마트폰 가격 경쟁 심화:</strong> 삼성 갤럭시 S26 출고가 동결($799) 및 애플 폴더블폰 가격 조정($2000 안팎) 등 시장 방어 전략 가시화</li>
+                    <li><strong>경영진의 '기술 리더십' 강조:</strong> 이재용 회장, 이청 사장 등 새해 벽두부터 AI 전환 및 초격차 기술 확보를 위한 현장 경영 및 메시지 전달</li>
+                </ul>
+            </div>
+
+            <div class="section">
+                <h3>주요 시사점</h3>
+                <ul>
+                    <li><span class="keyword">AI 시너지</span> 디스플레이 산업이 단순 화질 경쟁을 넘어 AI와의 상호작용 및 폼팩터 혁신(로봇, SDV)으로 가치 사슬 확장 중</li>
+                    <li><span class="keyword">가격 전략</span> 고물가 및 부품가 상승에도 불구하고, 세트 업체들의 가격 동결 정책은 패널 업체의 원가 절감 압박으로 이어질 가능성 상존</li>
+                    <li><span class="keyword">기술 차별화</span> QD-OLED, V-스트라이프 등 고부가 제품군의 기술 격차 유지가 중국발 저가 공세(TCL 등)를 방어할 핵심 열쇠</li>
                 </ul>
             </div>
         </div>
 
         <div id="tab2" class="tab-content">
             <div class="section">
-                <h3><span class="keyword">LG디스플레이</span> 세계 최초 240Hz 고주사율 OLED 공개</h3>
+                <h3>[CES 2026] "'AI OLED 봇'이 강의실 조교된다"… 삼성디스플레이, 청사진 공개</h3>
                 <ul>
-                    <li>CES 2026에서 RGB 스트라이프 구조 기반 240Hz 고주사율 27인치 4K OLED 패널 공개</li>
-                    <li>기존 60Hz 한계를 넘어선 기술로, DFR(가변 주사율·해상도) 기술 적용해 UHD 240Hz 및 FHD 480Hz 선택 가능</li>
-                    <li>하이엔드 게이밍 및 전문가용 모니터 시장 공략 가속화 및 고객사 라인업 확대 계획</li>
+                    <li>삼성디스플레이, 'CES 2026'에서 'AI와 디스플레이가 함께 만들어내는 새로운 경험의 시대'를 주제로 전시 개최</li>
+                    <li>인간과 AI 간 소통 플랫폼 'AI OLED 봇'(13.4형) 공개, 대학 강의실 로봇 조교 컨셉 시연</li>
+                    <li>AI 노트북용 초박형 UT(Ultra Thin) OLED 및 4,500니트 밝기의 26년형 TV용 QD-OLED 최초 공개</li>
+                    <li>차량용 '플렉시블 L'(18.1형), PID(13.8형), OLED 테일 램프 등 전장용 솔루션 대거 전시</li>
+                    <li>'로봇농구존' 운영을 통해 폴더블 패널의 내구성 및 충격 저항성 입증</li>
                 </ul>
             </div>
             <div class="section">
-                <h3><span class="keyword">시장 전망</span> 투명 디스플레이 시장 반등 조짐</h3>
+                <h3>삼성디스플레이, 세로 줄무늬 구조 'V-스트라이프' QD-OLED 양산</h3>
                 <ul>
-                    <li>투명 디스플레이 시장 규모 '25년 5370만 달러에서 '32년 1억 달러 상회하며 연평균 9.3% 성장 전망 (옴디아)</li>
-                    <li>중국은 LED 가격 경쟁력, 한국은 투명 OLED 투과율 개선(45% 이상)으로 차별화 전략 추진</li>
-                    <li>LGD, 유일한 양산 업체로서 전극 및 발광재 구조 최적화 통해 투과율 70% 달성 목표</li>
+                    <li>RGB 서브 픽셀을 세로 줄무늬로 배치한 'V-스트라이프' 구조 34인치 모니터용 QD-OLED 12월부터 양산</li>
+                    <li>문자 가독성을 획기적으로 개선하여 문서 작업, 코딩 등 텍스트 중심 사용 환경에 최적화</li>
+                    <li>에이수스, MSI 등 7개 글로벌 모니터 제조사에 패널 공급 중, CES 2026에서 탑재 제품 공개 예정</li>
                 </ul>
             </div>
             <div class="section">
-                <h3><span class="keyword">삼성디스플레이</span> 8.6세대 IT OLED 투자 및 양산 준비</h3>
+                <h3>이청 삼성D 사장 신년사 "실행력으로 1등 증명하자"</h3>
                 <ul>
-                    <li>2026년 전략 키워드로 '8.6세대 IT OLED 선점' 설정, 노트북·태블릿 등 IT 기기용 패널 시장 확대</li>
-                    <li>캐논 토키 증착기 등 주요 장비 반입 및 설치 진행, 내년 상반기 양산 안정화 목표</li>
-                    <li>기존 6세대 대비 생산 효율 극대화 및 원가 경쟁력 확보 주력</li>
-                </ul>
-            </div>
-            <div class="section">
-                <h3><span class="keyword">이슈</span> 아산 디스플레이 공장 협력사 직원 사망 사고</h3>
-                <ul>
-                    <li>삼성디스플레이 아산 공장에서 설비 보완 작업 중이던 협력업체 직원의 끼임 사고 발생</li>
-                    <li>해당 직원은 병원 이송 후 사망, 고용노동부의 작업 중지 명령 및 중대재해처벌법 위반 여부 조사 착수</li>
-                    <li>원청 및 하청의 안전 관리 책임 소재 및 재발 방지 대책 마련 시급</li>
+                    <li>2026년 경영 키워드로 'ACE'(Action, Customer, Excellence) 제시, 실행력과 기술 우수성 강조</li>
+                    <li>8.6세대 IT OLED 양산 안정화, 폴더블 시장 확대, AI 디바이스 대응 등 주요 과제 언급</li>
+                    <li>업계 1등 타이틀을 수성이 아닌 실력으로 증명해야 하는 '변곡점의 해'로 정의</li>
                 </ul>
             </div>
         </div>
 
         <div id="tab3" class="tab-content">
             <div class="section">
-                <h3><span class="keyword">Apple</span> 아이폰 출시 전략 변화 및 공급망 다변화</h3>
+                <h3>삼성·애플, 프리미엄 폰 가격 동결 및 재조정… 시장 점유율 방어 총력</h3>
                 <ul>
-                    <li>내년 아이폰18 시리즈부터 상반기(기본형)·하반기(프로형) 분산 출시 검토, 생산 리스크 분산 및 연중 신제품 효과 기대</li>
-                    <li>폴더블 아이폰 2026년 하반기 출시 목표, 삼성전자 '와이드 폴드' 등과 경쟁 예고</li>
-                    <li>이미지센서 공급망 다변화 위해 삼성전자와 협력 검토, 소니 독점 체제 변화 가능성</li>
+                    <li>삼성전자, 갤럭시 S26 시리즈 출고가 전작과 동일하게 동결 예정 (기본형 $799, 울트라 $1299)</li>
+                    <li>원가 상승 압박에도 불구, 4년 연속 가격 동결을 통해 중국 업체의 추격 및 시장 점유율 방어 목적</li>
+                    <li>애플, 첫 폴더블 아이폰 가격을 당초 예상보다 낮은 $2,000(약 288만원) 안팎으로 조율 중이라는 관측 제기</li>
+                    <li>스마트폰 성능 상향 평준화로 인해 기술 혁신보다 '가격 접근성'이 소비자의 주요 구매 요인으로 부상</li>
                 </ul>
             </div>
             <div class="section">
-                <h3><span class="keyword">삼성전자</span> 폴더블 라인업 확장 및 웨어러블 경쟁</h3>
+                <h3>애플 공급망 리스크 부각… '붉은 공급망' 의존도 우려</h3>
                 <ul>
-                    <li>'갤럭시 Z 트라이폴드' 출시 직후 완판 기록, 고가(359만원)임에도 시장성 입증</li>
-                    <li>애플 폴더블 진입 대응해 가로로 긴 '갤럭시 Z 와이드폴드(가칭)' 개발 진행 중</li>
-                    <li>스마트워치 시장 점유율 8%로 하락하며 3위 기록, AI 헬스케어 기능 강화로 반등 모색</li>
+                    <li>서적 '애플 인 차이나' 등 업계 분석에 따르면 애플의 중국 생산 의존(붉은 공급망)이 리스크로 작용</li>
+                    <li>중국 내 제조 기술 이전이 화웨이, 샤오미 등 중국 로컬 업체의 경쟁력 강화로 이어진 '부메랑 효과' 지적</li>
+                    <li>미·중 무역 갈등 및 지정학적 긴장 고조에 따라 공급망 다변화 필요성 지속 제기</li>
                 </ul>
             </div>
         </div>
 
         <div id="tab4" class="tab-content">
             <div class="section">
-                <h3><span class="keyword">샤오미/화웨이</span> 웨어러블 시장 약진</h3>
+                <h3>"RGB TV인데 R이 없다"… 中 TCL, '가짜' RGB TV 논란</h3>
                 <ul>
-                    <li>샤오미, 스마트워치 점유율 9% 기록하며 삼성전자(8%) 제치고 글로벌 2위 부상 전망</li>
-                    <li>화웨이, 출하량 YoY +42% 성장하며 점유율 18% 기록, 중국 내수 시장 성장세가 주요 요인</li>
-                    <li>가격 경쟁력과 건강 기능 고도화를 앞세워 삼성·애플 양강 구도 위협</li>
+                    <li>중국 TCL의 보급형 RGB 미니 LED TV(Q9M 등)에 대해 허위 광고 및 기술 논란 제기</li>
+                    <li>분석 결과 R(Red) 칩 없이 B(Blue) 2개, G(Green) 1개 칩과 형광체 조합으로 원가 절감 시도 확인</li>
+                    <li>순수 RGB 백라이트 제어 방식 대비 색 재현력 및 화질 저하 우려, 기술 진위 여부 도마 위</li>
                 </ul>
             </div>
             <div class="section">
-                <h3><span class="keyword">Sony</span> 이미지센서 시장 경쟁 심화</h3>
+                <h3>중국 디스플레이 및 세트 업체, AI·전장 분야 공세 강화</h3>
                 <ul>
-                    <li>첫 2억화소 이미지센서 'LYT-910' 양산 시작, 삼성전자가 독주하던 초고화소 시장 진입</li>
-                    <li>중국 OmniVision, SmartSens 등 후발 주자들의 가세로 기술 및 단가 경쟁 심화</li>
-                    <li>애플 등 주요 고객사의 공급망 다변화 움직임에 따른 시장 점유율 방어 과제</li>
+                    <li>CES 2026에서 BYD 등 중국 기업들, SDV(소프트웨어 중심 자동차) 및 전장 기술 대거 선보일 예정</li>
+                    <li>디스플레이 패널 기술 격차 축소를 넘어 AI 및 자율주행 통합 솔루션 분야로 경쟁 범위 확대 시도</li>
                 </ul>
             </div>
         </div>
 
         <div id="tab5" class="tab-content">
             <div class="section">
-                <h3><span class="keyword">미국</span> 대중국 기술 제재 범위 확대</h3>
+                <h3>CES 2026 개막… AI·SDV·자율주행 기술 격전지 부상</h3>
                 <ul>
-                    <li>미국 FCC, 중국산 드론 및 핵심 부품을 인증 제한 목록에 포함해 수입·유통 차단 조치 단행</li>
-                    <li>화웨이·틱톡 등 플랫폼 제재에서 하드웨어 완성품 및 인프라 영역으로 규제 확장</li>
-                    <li>미국 내 드론 시장의 높은 중국 의존도(80% 이상)로 인한 단기 혼란 및 중국의 기술 자립 가속화 전망</li>
+                    <li>CES 2026, 인공지능(AI)을 필두로 반도체, PC, 모빌리티, 로보틱스 간 경계 없는 기술 경쟁 본격화</li>
+                    <li><strong>AI PC:</strong> NPU 탑재가 표준으로 자리 잡으며 초기 도입 단계를 넘어 본격적인 확산 단계 진입</li>
+                    <li><strong>모빌리티:</strong> SDV 확산, 자율주행 고도화, ADAS 진화가 핵심 화두, 중국 기업들의 글로벌 공세 가속</li>
+                    <li><strong>로보틱스:</strong> 휴머노이드 및 산업용 로봇에 시각 지능, 센서 융합 기술 적용 확대, SW 생태계 경쟁 심화</li>
                 </ul>
             </div>
             <div class="section">
-                <h3><span class="keyword">자산 시장</span> 은(Silver), 애플 제치고 시총 3위 부상</h3>
+                <h3>삼성 이재용 회장, 새해 첫 행보로 '기술 리더십' 강조</h3>
                 <ul>
-                    <li>글로벌 경제 불확실성 증대로 안전자산인 은(Silver)의 가치 상승, 시가총액 기준 애플 추월</li>
-                    <li>기술주 전반의 부진과 실적 성장 둔화 우려가 반영된 결과로 해석</li>
+                    <li>이재용 회장, 새해 첫 출근일 삼성 계열사 사장단과 오찬 간담회 진행</li>
+                    <li>AI 전환(Transformation), 반도체 등 핵심 사업의 근원적 기술 경쟁력 회복 방안 집중 논의</li>
+                    <li>삼성전자, 'AI 드리븐 컴퍼니' 비전 수립 및 전사적 AI 역량 강화 주문</li>
                 </ul>
             </div>
         </div>
 
         <div id="tab6" class="tab-content">
             <div class="section">
-                <h3><span class="keyword">풍원정밀</span> OLED 핵심 부품 FMM 국산화</h3>
+                <h3>삼성, '올해의 명장' 17명 선정… 제조·설비·인프라 경쟁력 제고</h3>
                 <ul>
-                    <li>일본 DNP가 독점해온 FMM(파인메탈마스크) 시장 국산화 추진, 6세대 하프컷 양산 체제 구축</li>
-                    <li>3분기 실적은 R&D 비용 반영으로 부진했으나, 최대 3000억원 규모 대체 시장 진입 기대</li>
-                    <li>8.6세대 IT OLED용 1000ppi FMM 개발 병행으로 국내 패널사 SCM 다변화 기여</li>
+                    <li>삼성, 제조기술 및 품질 분야 베테랑 전문가 '2026 삼성 명장' 17명 선정 (역대 최다 규모)</li>
+                    <li><strong>삼성디스플레이:</strong> 중소형사업부 기석 명장(제조기술, OLED 증착 공정/설비), 글로벌인프라총괄 이동영 명장(인프라) 선정</li>
+                    <li>핵심 기술 인재 이탈 방지 및 사내 기술 중시 문화 확산, 설비 국산화 및 공정 효율화 기여 독려</li>
                 </ul>
             </div>
             <div class="section">
-                <h3><span class="keyword">야스</span> 자사주 처분 및 교환사채 발행</h3>
+                <h3>글로벌 공급망 재편 가속화 및 리스크 관리 중요성 증대</h3>
                 <ul>
-                    <li>운영 자금 확보 및 8.6세대 증착기 등 차세대 장비 투자 재원 마련 목적</li>
-                    <li>디스플레이 패널 제조 장비 시장 내 경쟁력 강화 및 수주 대응력 제고 의도</li>
+                    <li>미·중 패권 경쟁 및 자국 우선주의 기조 심화로 글로벌 IT SCM 불확실성 지속</li>
+                    <li>디스플레이 소재, 부품, 장비(소부장) 공급망의 안정성 확보 및 탈중국/다변화 전략 필요성 대두</li>
                 </ul>
             </div>
         </div>
 
         <div class="roadmap">
-            <h2>2026년 디스플레이/IT 산업 주요 로드맵</h2>
-            <div class="roadmap-list">
-                <div class="roadmap-item">
-                    <strong>1분기 (Q1)</strong>
-                    <span>- LG디스플레이, CES 2026서 240Hz OLED 및 탠덤 기술 브랜드 공개</span>
-                    <span>- 삼성전자, 갤럭시 S26 시리즈 및 마이크로 RGB TV 공개 (CES)</span>
-                    <span>- 애플, 비전 프로 후속 및 스마트 홈 기기 전략 구체화 가능성</span>
-                </div>
-                <div class="roadmap-item">
-                    <strong>2분기 (Q2)</strong>
-                    <span>- 삼성디스플레이, 8.6세대 IT OLED 라인 가동 및 양산 안정화 단계 진입</span>
-                    <span>- 애플, 아이폰 SE4 및 보급형 라인업 출시 예상 (상반기)</span>
-                    <span>- 주요 패널사, 태블릿/노트북용 OLED 출하량 본격 확대</span>
-                </div>
-                <div class="roadmap-item">
-                    <strong>3분기 (Q3)</strong>
-                    <span>- 삼성전자, 차세대 폴더블폰(Z폴드8/플립8) 및 와이드 폴드 공개 예상</span>
-                    <span>- 애플, 아이폰 18 시리즈 (프로/맥스) 출시 및 AI 기능 고도화</span>
-                    <span>- 투명 디스플레이 등 차세대 폼팩터 상업용 시장 진입 가속</span>
-                </div>
-                <div class="roadmap-item">
-                    <strong>4분기 (Q4)</strong>
-                    <span>- IT 기기용 OLED 패널 침투율 확대 및 성과 가시화</span>
-                    <span>- 중국 패널 업체들의 8.6세대 투자 추격 및 저가 공세 심화 대응</span>
-                    <span>- 차세대 XR 기기용 마이크로 OLED/LED 기술 경쟁 본격화</span>
-                </div>
+            <h2>2026년 상반기 주요 로드맵</h2>
+            <div class="roadmap-item">
+                <strong>1분기 (1Q)</strong>
+                <span>- CES 2026 참가 및 AI OLED 신기술/전장 솔루션 글로벌 공개</span>
+                <span>- 갤럭시 S26 시리즈 언팩 및 출시 (패널 공급 대응)</span>
+                <span>- V-Stripe 구조 QD-OLED 모니터 패널 공급 확대 (7개 제조사)</span>
+                <span>- 8.6세대 IT OLED 라인 수율 안정화 및 양산 준비</span>
+            </div>
+            <div class="roadmap-item">
+                <strong>2분기 (2Q)</strong>
+                <span>- IT용(태블릿/노트북) OLED 신제품 양산 본격화 예상</span>
+                <span>- 글로벌 고객사(Apple 등) 차기 모델향 패널 개발 및 승인 단계 진입</span>
+                <span>- 하반기 성수기 대비 QD-OLED TV 패널 생산 효율성 증대</span>
+            </div>
+            <div class="roadmap-item">
+                <strong>3분기 (3Q) (예상)</strong>
+                <span>- 주요 고객사 폴더블 신제품 출시 대응 (갤럭시 Z 시리즈 등)</span>
+                <span>- 아이폰 18 시리즈용 패널 양산 및 공급 개시</span>
+            </div>
+            <div class="roadmap-item">
+                <strong>4분기 (4Q) (예상)</strong>
+                <span>- 연말 성수기 프로모션 및 판매량 확대 대응</span>
+                <span>- 차세대(2027년형) 패널 기술 개발 로드맵 구체화</span>
             </div>
         </div>
 
