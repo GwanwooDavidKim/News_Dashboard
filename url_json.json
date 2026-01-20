@@ -1,332 +1,592 @@
 [
     {
-        "title": "'갤럭시Z 폴드8' 주름 20% 개선.. 최초 '샌드위치형 듀얼 UTG' 탑재 루머",
-        "date": "2026-01-19 19:30",
-        "link": "https://kbench.com/?q=node/275371"
+        "title": "앱 넘나드는 AI…애플 '개인화된 시리', 구글 AI로 구현되나",
+        "date": "2026-01-21 05:30",
+        "link": "https://n.news.naver.com/mnews/article/421/0008724936?sid=105"
     },
     {
-        "title": "내달 '갤럭시S26' 공개 앞두고… 노태문, 수익성 방어·점유율 유지 딜레...",
-        "date": "2026-01-19 19:00",
-        "link": "https://www.ajunews.com/view/20260119151833148"
+        "title": "갤럭시 Z 트라이폴드가 CES 2026에서 '최고의 제품' 상을 받은 이유는?",
+        "date": "2026-01-21 00:00",
+        "link": "https://www.esquirekorea.co.kr/article/1895588"
+    },
+    {
+        "title": "나노코, 삼성·LG 이어 日 쇼에이도 겨냥...미국서 '양자점 특허전'",
+        "date": "2026-01-20 21:48",
+        "link": "http://www.ttlnews.com/news/articleView.html?idxno=3071033"
+    },
+    {
+        "title": "[EBN 오늘(20일) 이슈 종합] 애플이 온다…중소형 OLED 선점 나선 'K-디...",
+        "date": "2026-01-20 21:10",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1696051"
+    },
+    {
+        "title": "망한 거 아니었어? 유독 한국서 기 못 펴던 모토로라…가성비 초슬림...",
+        "date": "2026-01-20 20:23",
+        "link": "https://n.news.naver.com/mnews/article/011/0004581052?sid=101"
+    },
+    {
+        "title": "TCL-소니, 합작사 설립 추진...'TV 1위' 삼성전자 위협",
+        "date": "2026-01-20 20:12",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=51138"
+    },
+    {
+        "title": "[헬로스톡] 1월 20일 주목할 종목 : 한화오션·카카오·삼성SDI·한온시스...",
+        "date": "2026-01-20 19:56",
+        "link": "https://www.hellot.net/news/article.html?no=109368"
+    },
+    {
+        "title": "디엠에스, 10개월 만에 ‘감사의견 적정’…주식거래 재개 노력",
+        "date": "2026-01-20 18:27",
+        "link": "https://n.news.naver.com/mnews/article/014/0005465759?sid=101"
+    },
+    {
+        "title": "삼성·LG, 미국 소비자 평가가 증명한 OLED 경쟁력…프리미엄 TV 판 선점",
+        "date": "2026-01-20 18:12",
+        "link": "https://www.g-enews.com/view.php?ud=202601201105054251112616b072_1"
+    },
+    {
+        "title": "삼성·LG가 라스베이거스에서 시작한 프리미엄 TV 빅매치 열린다",
+        "date": "2026-01-20 17:44",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=726367"
+    },
+    {
+        "title": "엔비디아, 지포스 프레스 콘퍼런스 개최",
+        "date": "2026-01-20 17:44",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57770"
+    },
+    {
+        "title": "삼성·LG OLED TV, 美 컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 17:40",
+        "link": "https://idsn.co.kr/news/view/1065598596096914"
+    },
+    {
+        "title": "DLSS 4.5부터 '지싱크 펄사'까지 최신 기술 한 자리에, 엔비디아 '지포스...",
+        "date": "2026-01-20 17:34",
+        "link": "https://gamefocus.co.kr/detail.php?number=172845"
+    },
+    {
+        "title": "경북대, 색소·복잡 공정 없는 나노 컬러 소자 개발…차세대 광학 기술...",
+        "date": "2026-01-20 17:16",
+        "link": "https://news.unn.net/news/articleView.html?idxno=588976"
+    },
+    {
+        "title": "한국레노버, 창작자·하이엔드 게이머 위한 QD-OLED 프리미엄 모니터 2종...",
+        "date": "2026-01-20 17:12",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1808083"
+    },
+    {
+        "title": "삼성전자·LG전자 OLED TV, 美 컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 17:02",
+        "link": "https://n.news.naver.com/mnews/article/421/0008724694?sid=101"
+    },
+    {
+        "title": "오픈AI, 하반기 AI기기 공개…애플·구글과 진짜 경쟁",
+        "date": "2026-01-20 17:00",
+        "link": "https://n.news.naver.com/mnews/article/015/0005239768?sid=105"
+    },
+    {
+        "title": "삼성전자 OLED TV, 美 컨슈머리포트 ‘최고의 TV’ 선정",
+        "date": "2026-01-20 16:58",
+        "link": "http://www.segyebiz.com/newsView/20260120515141?OutUrl=naver"
+    },
+    {
+        "title": "올해 9월 출시될 아이폰 18 프로 유출 영상 등장…전면 디자인 큰 변...",
+        "date": "2026-01-20 16:46",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=540907"
+    },
+    {
+        "title": "애플, 중국서 4분기 아이폰 점유율 21.8%… 분기 1위 탈환",
+        "date": "2026-01-20 16:35",
+        "link": "https://n.news.naver.com/mnews/article/366/0001137318?sid=105"
+    },
+    {
+        "title": "AMD·인텔 텃밭 '틈새돌파'…마이크로칩 FPGA 초고속 머신비전 겨냥",
+        "date": "2026-01-20 16:28",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=51102"
+    },
+    {
+        "title": "'韓 서버' 애플엔 지도 반출 가능성?…'무늬만 설치' 경계해야",
+        "date": "2026-01-20 16:17",
+        "link": "https://n.news.naver.com/mnews/article/421/0008724556?sid=105"
+    },
+    {
+        "title": "삼성전자 OLED TV, 美 컨슈머리포트 '최고 TV' 선정",
+        "date": "2026-01-20 16:16",
+        "link": "https://www.cstimes.com/news/articleView.html?idxno=689302"
+    },
+    {
+        "title": "삼성·LG 올레드 TV, 미국서 나란히 '최고의 TV' 선정",
+        "date": "2026-01-20 16:15",
+        "link": "https://n.news.naver.com/mnews/article/015/0005239721?sid=101"
+    },
+    {
+        "title": "애플, 작년 4분기 中 스마트폰 점유율 21.8%…1위 탈환",
+        "date": "2026-01-20 16:12",
+        "link": "https://www.etoday.co.kr/news/view/2547473"
+    },
+    {
+        "title": "‘물감 없는 색’ 구현했다…경북대, 차세대 구조색 광학 소자 개발",
+        "date": "2026-01-20 16:12",
+        "link": "https://n.news.naver.com/mnews/article/031/0000998448?sid=102"
+    },
+    {
+        "title": "'육각형 스탯' 갖춘 게이밍 노트북... 에이서 프레데터 트리톤 14 AI PT14...",
+        "date": "2026-01-20 16:08",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57741"
+    },
+    {
+        "title": "애플, 2년 만에 中 스마트폰 시장 1위 복귀…작년 4분기 점유율 21.8%",
+        "date": "2026-01-20 16:08",
+        "link": "https://www.ajunews.com/view/20260120153834965"
+    },
+    {
+        "title": "엔비디아, 서울서 지포스 프레스 콘퍼런스 개최…CES 2026 RTX 기술 공개",
+        "date": "2026-01-20 15:58",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=230738"
+    },
+    {
+        "title": "LG디스플레이, 편광판 뺀 OLED 삼성전자 TV에 공급",
+        "date": "2026-01-20 15:56",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1324756"
+    },
+    {
+        "title": "경북대, 색소·복잡 공정 없는 나노 컬러 소자 개발",
+        "date": "2026-01-20 15:46",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=810178"
+    },
+    {
+        "title": "메모리 가격 인상 유탄 맞은 LX세미콘… IT OLED서 돌파구 찾는다",
+        "date": "2026-01-20 15:42",
+        "link": "https://n.news.naver.com/mnews/article/366/0001137300?sid=105"
+    },
+    {
+        "title": "LG이노텍 실적 'V자 반등', 문혁수 카메라모듈 '기술력'과 '생산 효율화...",
+        "date": "2026-01-20 15:38",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=427403"
+    },
+    {
+        "title": "삼성·LG전자 OLED TV, 美 컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 15:32",
+        "link": "https://www.delighti.co.kr/news/articleView.html?idxno=109926"
+    },
+    {
+        "title": "ASUS 인기 노트북, 네이버 ‘노트북 0교시 얼리버드’ 프로모션 진행",
+        "date": "2026-01-20 15:26",
+        "link": "https://kbench.com/?q=node/275405"
+    },
+    {
+        "title": "경북대, 색소나 복잡한 공정 없는 '나노 컬러 소자' 개발",
+        "date": "2026-01-20 15:20",
+        "link": "https://n.news.naver.com/mnews/article/003/0013720788?sid=102"
+    },
+    {
+        "title": "애플, 중국 판매량 2년만에 1위 탈환.. 4분기 점유율 21.8%",
+        "date": "2026-01-20 14:55",
+        "link": "https://n.news.naver.com/mnews/article/277/0005709340?sid=101"
+    },
+    {
+        "title": "삼성·LG, 美 컨슈머리포트 TV 평가에서 '최고의 TV'로 선정",
+        "date": "2026-01-20 14:50",
+        "link": "https://n.news.naver.com/mnews/article/014/0005465561?sid=101"
+    },
+    {
+        "title": "애플 아이폰, 4분기 중국 스마트폰 시장에서 1위 탈환...카운터포인트리...",
+        "date": "2026-01-20 14:46",
+        "link": "http://www.beyondpost.co.kr/view.php?ud=2026012014374470712aaae0046f_30"
+    },
+    {
+        "title": "모토로라, 55만원 반값 초슬림폰 국내 출시 확정…삼성·애플에 '도전장...",
+        "date": "2026-01-20 14:38",
+        "link": "https://n.news.naver.com/mnews/article/030/0003391697?sid=105"
+    },
+    {
+        "title": "애플 아이폰 18 프로, 유출 디자인 미리 보니... UDC 설계 적용된 다이내...",
+        "date": "2026-01-20 14:38",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1808061"
+    },
+    {
+        "title": "애플, 작년 4분기 中 스마트폰 시장 1위 탈환",
+        "date": "2026-01-20 14:38",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092155242"
+    },
+    {
+        "title": "컨슈머리포트, 삼성전자 OLED·네오 QLED TV '최고 등급' 부여",
+        "date": "2026-01-20 14:32",
+        "link": "https://www.insight.co.kr/news/538925"
+    },
+    {
+        "title": "신한카드 애플페이 빠르면 1분기…금감원, 상품 도입 확인 중",
+        "date": "2026-01-20 14:31",
+        "link": "https://n.news.naver.com/mnews/article/366/0001137280?sid=101"
+    },
+    {
+        "title": "애플의 귀환…中 점유율 1위 탈환",
+        "date": "2026-01-20 14:30",
+        "link": "https://n.news.naver.com/mnews/article/374/0000487521?sid=104"
+    },
+    {
+        "title": "S26 인상 불가피…삼성, '인증 중고폰'으로 점유율 방어",
+        "date": "2026-01-20 14:18",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026012013562930052"
+    },
+    {
+        "title": "한국레노버, 크리에이터 및 게이머 위한 QD-OLED 모니터 2종 출시",
+        "date": "2026-01-20 14:14",
+        "link": "https://m.sports.naver.com/esports/article/442/0000189068"
+    },
+    {
+        "title": "아이폰 효과 톡톡…문혁수號 LG이노텍, 올해도 좋다",
+        "date": "2026-01-20 14:04",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026012009434470137"
+    },
+    {
+        "title": "엔비디아, 서울서 지포스 프레스 콘퍼런스 개최",
+        "date": "2026-01-20 13:58",
+        "link": "https://kbench.com/?q=node/275400"
+    },
+    {
+        "title": "삼성·LG OLED TV, 美 컨슈머리포트 '최고의 TV' 나란히 선정(종합)",
+        "date": "2026-01-20 13:54",
+        "link": "https://n.news.naver.com/mnews/article/018/0006203839?sid=101"
+    },
+    {
+        "title": "화웨이보다 아이폰…애플, 중국 스마트폰 시장 '분기 1위' 탈환",
+        "date": "2026-01-20 13:54",
+        "link": "https://www.asiatoday.co.kr/view.php?key=20260120010009548"
+    },
+    {
+        "title": "‘모토로라 엣지70’ 22일 국내 상륙…55만원 초슬림폰으로 무주공산 공...",
+        "date": "2026-01-20 13:42",
+        "link": "https://n.news.naver.com/mnews/article/018/0006203827?sid=105"
+    },
+    {
+        "title": "애플, 中시장 1위 탈환…작년 4분기 스마트폰 점유율 21.8%",
+        "date": "2026-01-20 13:42",
+        "link": "https://n.news.naver.com/mnews/article/374/0000487510?sid=104"
+    },
+    {
+        "title": "삼성전자·LG전자 OLED TV, 美 컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 13:36",
+        "link": "https://n.news.naver.com/mnews/article/030/0003391600?sid=105"
+    },
+    {
+        "title": "[영상]삼성·LG OLED TV, 美컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 13:36",
+        "link": "https://www.businessplus.kr/news/articleView.html?idxno=106000"
+    },
+    {
+        "title": "Samsung, LG OLED TVs Selected as Best TVs by U.S. Consumer Reports",
+        "date": "2026-01-20 13:26",
+        "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=261293"
+    },
+    {
+        "title": "삼성·LG OLED TV, 글로벌 매체서 ‘최고의 제품’ 잇단 호평",
+        "date": "2026-01-20 13:22",
+        "link": "https://news.knn.co.kr/news/article_sns/823"
     },
     {
         "title": "골프존클라우드, 아이폰·애플워치용 '스마트캐디' 출시… 글로벌 공략...",
-        "date": "2026-01-19 18:30",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=289279"
+        "date": "2026-01-20 13:14",
+        "link": "https://www.nbntv.kr/news/articleView.html?idxno=338703"
     },
     {
-        "title": "신형 폰 가격 또 오른다니…'중고' 쓰는 소비자들",
-        "date": "2026-01-19 18:29",
-        "link": "https://n.news.naver.com/mnews/article/014/0005465135?sid=105"
+        "title": "삼성·LG OLED TV, 美 컨슈머리포트 평가 ‘최고의 TV’에 선정",
+        "date": "2026-01-20 13:08",
+        "link": "https://swtvnews.com/news/newsview.php?ncode=1065575078916951"
     },
     {
-        "title": "골프존클라우드, 아이폰·애플워치용 '스마트캐디' 출시",
-        "date": "2026-01-19 18:22",
-        "link": "http://www.kdfnews.com/news/articleView.html?idxno=175977"
+        "title": "애플, 작년 4분기 中스마트폰 점유율 21.8%…1위 탈환",
+        "date": "2026-01-20 12:50",
+        "link": "https://n.news.naver.com/mnews/article/001/0015856579?sid=104"
     },
     {
-        "title": "나 테토남일까? 애플워치가 알려준다..남성호르몬 측정 앱 '모조킹' 출시",
-        "date": "2026-01-19 18:17",
-        "link": "https://n.news.naver.com/mnews/article/008/0005306558?sid=101"
+        "title": "앱코, 120Hz 고주사율과 IPS 패널을 갖춘 ‘하이퍼뷰 27F120’ 모니터 출...",
+        "date": "2026-01-20 12:48",
+        "link": "https://kbench.com/?q=node/275389"
     },
     {
-        "title": "애플, 2025 스마트폰 '왕좌' 탈환···1%p차 박빙 승부",
-        "date": "2026-01-19 17:50",
-        "link": "http://www.finomy.com/news/articleView.html?idxno=247997"
+        "title": "삼성·LG OLED TV는 '최고의 TV'...美 컨슈머리포트 선정",
+        "date": "2026-01-20 11:54",
+        "link": "http://www.seouleconews.com/news/articleView.html?idxno=88894"
     },
     {
-        "title": "자존심 보다 실리…원가절감 파격 승부수로 애플·샤오미 잡는다",
-        "date": "2026-01-19 17:46",
-        "link": "https://n.news.naver.com/mnews/article/011/0004580528?sid=101"
+        "title": "삼성전자 구글과 AI 협력은 '선견지명' 평가, 애플은 사실상 패배 인정...",
+        "date": "2026-01-20 11:48",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=427380"
     },
     {
-        "title": "칩플레이션 막아라…삼성, 갤A에 中 OLED 탑재",
-        "date": "2026-01-19 17:42",
-        "link": "https://n.news.naver.com/mnews/article/011/0004580520?sid=101"
+        "title": "삼성·LG OLED TV, 美 컨슈머리포트 '최고의 TV'에 선정",
+        "date": "2026-01-20 11:30",
+        "link": "https://www.newscj.com/news/articleView.html?idxno=3365429"
     },
     {
-        "title": "아이폰·애플워치만 있으면 끝 골프존클라우드, 스마트캐디 플랫폼 확...",
-        "date": "2026-01-19 17:36",
-        "link": "http://www.dailypop.kr/news/articleView.html?idxno=95539"
+        "title": "삼성전자 OLED TV, 미국 컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 11:30",
+        "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=257164"
     },
     {
-        "title": "애플·구글 협업에 삼성도 '전방위 반격'",
-        "date": "2026-01-19 17:23",
-        "link": "https://n.news.naver.com/mnews/article/009/0005624006?sid=101"
+        "title": "한국레노버, 크리에이터·게이머용 QD-OLED 프리미엄 모니터 2종 출시",
+        "date": "2026-01-20 11:18",
+        "link": "http://www.lawissue.co.kr/view.php?ud=202601201115225582204ead0791_12"
     },
     {
-        "title": "MSI QD-OLED 게이밍 모니터, 승리를 향한 비주얼 업그레이드 프로모션",
-        "date": "2026-01-19 17:12",
-        "link": "https://kbench.com/?q=node/275369"
+        "title": "삼성 OLED TV, 美 컨슈머리포트 ‘최고의 TV’ 석권",
+        "date": "2026-01-20 11:18",
+        "link": "https://www.m-economynews.com/news/article.html?no=63861"
     },
     {
-        "title": "A시리즈 내세우고 폴드·S 총력전 돌입…유럽 시장 체력 키우는 갤럭시",
-        "date": "2026-01-19 17:04",
-        "link": "https://www.econovill.com/news/articleView.html?idxno=726199"
+        "title": "삼성전자, 제조원가 상승에 결국 중국산 패널 사용한다... 신형 갤럭시 ...",
+        "date": "2026-01-20 11:16",
+        "link": "https://kr.aving.net/news/articleView.html?idxno=1808049"
     },
     {
-        "title": "MSI 코리아, QD-OLED 고객 대상으로 프로모션 진행",
-        "date": "2026-01-19 16:50",
-        "link": "https://www.cnet.co.kr/view/?no=20260119164048"
+        "title": "한국레노버, 크리에이터·게이머용 QD-OLED 모니터 2종 출시",
+        "date": "2026-01-20 10:59",
+        "link": "https://n.news.naver.com/mnews/article/030/0003391516?sid=105"
     },
     {
-        "title": "삼성 독주 폴더블 시장 흔들까…아이폰 폴드, A20 프로 칩 탑재로 성능...",
-        "date": "2026-01-19 16:50",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=540868"
+        "title": "방향 잘못 잡았다 메타, VR 사업 사실상 포기",
+        "date": "2026-01-20 10:56",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=622440"
     },
     {
-        "title": "애플, 아이폰18 프로·폴드 유출…신규 색상과 화면 변화 '눈길'",
-        "date": "2026-01-19 15:50",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=622102"
+        "title": "삼성·LG OLED TV, 美 컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 10:56",
+        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092155218"
     },
     {
-        "title": "韓 OLED의 힘, 애플 점유율 더 커졌다",
-        "date": "2026-01-19 15:38",
-        "link": "https://n.news.naver.com/mnews/article/030/0003391296?sid=105"
+        "title": "삼성 OLED TV, 美 컨슈머리포트 TV 평가에서 '최고의 TV' 선정",
+        "date": "2026-01-20 10:53",
+        "link": "https://n.news.naver.com/mnews/article/014/0005465394?sid=101"
     },
     {
-        "title": "애플 메시지 200% 활용하기…알아두면 유용한 7가지 기능",
-        "date": "2026-01-19 15:28",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=622097"
+        "title": "폰 색상은 '흑백''이 명불허전…갤럭시 S26 울트라 어떻게 나올까",
+        "date": "2026-01-20 10:52",
+        "link": "https://www.widedaily.com/news/articleView.html?idxno=287059"
     },
     {
-        "title": "‘50돌 애플’ 2월 ‘아이폰18’ 승부수 띄우나…AI 힘주고, 디자인 바꿔",
-        "date": "2026-01-19 15:18",
-        "link": "https://n.news.naver.com/mnews/article/028/0002787167?sid=101"
+        "title": "마이크로닉스, GAMDIAS ATHENA M4M 시리즈 출시",
+        "date": "2026-01-20 10:42",
+        "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=57764"
     },
     {
-        "title": "골프존클라우드, 아이폰·애플워치용 스마트캐디 공개…2026 PGA 머천다이...",
-        "date": "2026-01-19 15:06",
-        "link": "https://www.viva100.com/article/20260119500998"
+        "title": "레노버, 프리미엄 OLED 모니터 2종 출시",
+        "date": "2026-01-20 10:38",
+        "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=55168"
     },
     {
-        "title": "화질만 좋다고? 내구성까지 입증한 OLED TV",
-        "date": "2026-01-19 14:55",
-        "link": "https://n.news.naver.com/mnews/article/023/0003953883?sid=105"
+        "title": "[글로벌] 아이폰17e에 힘 싣는 애플...보급형으로 상반기 공백 메운다",
+        "date": "2026-01-20 10:36",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=148635"
     },
     {
-        "title": "[기자수첩] 올해 삼성폰을 바라보는 소비자들의 기대와 우려",
-        "date": "2026-01-19 14:50",
-        "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=418663"
+        "title": "삼성 갤럭시, 일본서 '판매 1위'…S25·폴더블로 안드로이드 정상",
+        "date": "2026-01-20 10:28",
+        "link": "https://www.newspim.com/news/view/20260120000381"
     },
     {
-        "title": "삼성 갤럭시 S26 울트라, '티타늄 빠진' 신규 색상 4종 유출... 애플 따라...",
-        "date": "2026-01-19 14:36",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1808010"
+        "title": "‘작은 크기, 높은 확장성’ 마이크로닉스, GAMDIAS ATHENA M4M 시리즈 출...",
+        "date": "2026-01-20 10:28",
+        "link": "https://kbench.com/?q=node/275376"
     },
     {
-        "title": "골프존클라우드, 아이폰·애플워치용 '스마트캐디' 출시",
-        "date": "2026-01-19 14:32",
-        "link": "https://www.ggilbo.com/news/articleView.html?idxno=1136663"
+        "title": "한국레노버, 전문가용 QD-OLED 프리미엄 모니터 2종 출시",
+        "date": "2026-01-20 10:25",
+        "link": "https://n.news.naver.com/mnews/article/014/0005465363?sid=105"
     },
     {
-        "title": "정부, 고정밀지도 반출 앞두고 의견수렴…업계 “사후관리 없인 위험”",
-        "date": "2026-01-19 14:31",
-        "link": "https://n.news.naver.com/mnews/article/030/0003391250?sid=101"
+        "title": "마이크로칩, ‘폴라파이어 FPGA’ 비디오 에코시스템 확장…SDI IP 코어 ...",
+        "date": "2026-01-20 10:25",
+        "link": "https://n.news.naver.com/mnews/article/138/0002215646?sid=105"
     },
     {
-        "title": "애플워치로 거리측정 쉽게 골프존클라우드, 아이폰용 '스마트캐디' 출...",
-        "date": "2026-01-19 14:22",
-        "link": "https://www.nbnews.kr/news/articleView.html?idxno=119592"
+        "title": "한국레노버, QD-OLED 모니터 ‘요가 프로·리전’ 2종 출시 [뉴템]",
+        "date": "2026-01-20 10:24",
+        "link": "https://n.news.naver.com/mnews/article/138/0002215644?sid=105"
     },
     {
-        "title": "골프존클라우드, 아이폰-애플워치용 '스마트캐디' 출시",
-        "date": "2026-01-19 14:18",
-        "link": "http://www.m-i.kr/news/articleView.html?idxno=1326951"
+        "title": "삼성·LG OLED TV, 美 컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 10:23",
+        "link": "https://n.news.naver.com/mnews/article/031/0000998293?sid=101"
     },
     {
-        "title": "골프존클라우드, 아이폰·애플워치용 '스마트캐디' 출시",
-        "date": "2026-01-19 14:05",
-        "link": "https://n.news.naver.com/mnews/article/003/0013718111?sid=101"
+        "title": "[소부장 NOW] 디엠에스, 회계 불확실성 해소…거래 재개 기대 속 재도약...",
+        "date": "2026-01-20 10:20",
+        "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202601200935558980360"
     },
     {
-        "title": "아이폰 끌고 AI 밀었다…삼성·LG 부품사, '따듯한 겨울' 예고",
-        "date": "2026-01-19 14:00",
-        "link": "https://n.news.naver.com/mnews/article/421/0008721864?sid=101"
+        "title": "마이크로닉스, 작고 강한 PC케이스 '겜디아스 아테나 M4M' 출시",
+        "date": "2026-01-20 10:20",
+        "link": "https://www.cnet.co.kr/view/?no=20260120101734"
     },
     {
-        "title": "골프존클라우드, '2026 PGA 머천다이즈 쇼' 참가 …아이폰ㆍ애플워치 용...",
-        "date": "2026-01-19 13:52",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=80096"
+        "title": "오픈AI 연내 첫 AI 오디오기기 공개…구글 아닌 애플과 경쟁",
+        "date": "2026-01-20 10:18",
+        "link": "https://n.news.naver.com/mnews/article/421/0008723409?sid=105"
     },
     {
-        "title": "OLED 특허 분쟁에 발목 잡힌 SFC…상장 '빨간불'",
-        "date": "2026-01-19 12:58",
-        "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=244716"
+        "title": "삼성과 LG, 美 소비자평가에서 최상위 OLED TV로 주목",
+        "date": "2026-01-20 10:10",
+        "link": "https://www.gokorea.kr/news/articleView.html?idxno=854711"
     },
     {
-        "title": "골프존클라우드, 아이폰·애플워치용 '스마트캐디' 출시",
-        "date": "2026-01-19 12:56",
-        "link": "http://www.newsdream.kr/news/articleView.html?idxno=105514"
+        "title": "작은 아이폰의 종말…아이폰 SE가 남긴 결정적 변화",
+        "date": "2026-01-20 10:08",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=622383"
     },
     {
-        "title": "아이폰으로도 작품 만드는 시대, 모바일 크리에이터 홀대하는 애플",
-        "date": "2026-01-19 12:24",
-        "link": "https://www.itworld.co.kr/article/4118422/아이폰으로-작품-만드는-시대-모바일-사용자-홀대하.html"
+        "title": "마이크로칩, PolarFire FPGA 기반 임베디드 비디오 에코시스템 확장",
+        "date": "2026-01-20 10:08",
+        "link": "https://www.hellot.net/news/article.html?no=109319"
     },
     {
-        "title": "골프존클라우드 아이폰 및 애플워치용 스마트캐디 서비스 출시",
-        "date": "2026-01-19 12:22",
-        "link": "http://www.lawissue.co.kr/view.php?ud=202601191219501600204ead0791_12"
+        "title": "삼성·LG전자 OLED TV, 美 컨슈머리포트 ‘최고의 TV’ 선정",
+        "date": "2026-01-20 10:03",
+        "link": "https://n.news.naver.com/mnews/article/029/0003005878?sid=101"
     },
     {
-        "title": "구글 제미나이, 앱 정보로 맞춤형 AI 답변 제공…애플 AI에 도전",
-        "date": "2026-01-19 12:20",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=487456"
+        "title": "삼성·LG OLED TV, 美 컨슈머리포트 ‘최고의 TV’ 선정",
+        "date": "2026-01-20 09:58",
+        "link": "https://www.etoday.co.kr/news/view/2547256"
     },
     {
-        "title": "에스엔디스플레이, 'CES2026 Real Review:정책 제안 컨퍼런스'서 페로브스...",
-        "date": "2026-01-19 11:56",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1808001"
+        "title": "美 컨슈머리포트, '최고의 TV'로 삼성·LG OLED TV 선정",
+        "date": "2026-01-20 09:52",
+        "link": "https://n.news.naver.com/mnews/article/374/0000487430?sid=101"
     },
     {
-        "title": "애플, 터치스크린 OLED 탑재 신형 '맥북 프로' 출시 앞당기나?",
-        "date": "2026-01-19 11:54",
-        "link": "https://kbench.com/?q=node/275347"
+        "title": "아이폰17 통했다 애플, 중국서 4분기 점유율 22% ‘선두’…연간 1위 ...",
+        "date": "2026-01-20 09:45",
+        "link": "https://n.news.naver.com/mnews/article/138/0002215626?sid=105"
     },
     {
-        "title": "애플, 올해부터 맥·아이패드 5종 OLED 전환 시동 건다... 유력한 첫 주...",
-        "date": "2026-01-19 11:52",
-        "link": "https://kr.aving.net/news/articleView.html?idxno=1808000"
+        "title": "한국레노버, 크리에이터·게이머 맞춤형 프리미엄 모니터 2종 출시",
+        "date": "2026-01-20 09:44",
+        "link": "http://www.m-i.kr/news/articleView.html?idxno=1327199"
     },
     {
-        "title": "구글, 애플 '연속성' 따라잡는다…안드로이드도 통합 기능 강화",
-        "date": "2026-01-19 11:46",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=622074"
+        "title": "삼성전자 OLED TV, 미 컨슈머리포트 ‘최고의 TV’ 선정",
+        "date": "2026-01-20 09:38",
+        "link": "http://www.newstomato.com/ReadNews.aspx?no=1288377&inflow=N"
     },
     {
-        "title": "애플, OLED 맥북 조기 출시? 삼성디스플레이 생산 돌입",
-        "date": "2026-01-19 11:44",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=622064"
+        "title": "10개월 만에 감사의견 '적정' 디엠에스 병오년 재도약",
+        "date": "2026-01-20 09:37",
+        "link": "https://n.news.naver.com/mnews/article/014/0005465297?sid=101"
     },
     {
-        "title": "에어팟, 애플·안드로이드·윈도 연결법 총정리",
-        "date": "2026-01-19 11:44",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=622068"
+        "title": "갤럭시Z 폴드8, 화면 주름 진짜 사라진다",
+        "date": "2026-01-20 09:30",
+        "link": "https://www.betanews.net/article/view/beta202601200001"
     },
     {
-        "title": "사람 없이 로봇이 수리한다… 참엔지니어링, AI 딥러닝으로 수율 전쟁 ...",
-        "date": "2026-01-19 11:18",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=419067"
+        "title": "레노버, 전문가용 프리미엄 OLED 모니터 라인업 확대",
+        "date": "2026-01-20 09:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=622368"
     },
     {
-        "title": "[폴더블 개화 국면] 무주름 기술 꺼낸 삼성D…듀얼 UTG 검토",
-        "date": "2026-01-19 11:06",
-        "link": "https://dealsite.co.kr/articles/155244"
+        "title": "한국레노버, 창작과 게이밍 위한 QD-OLED 모니터 2종 선봬",
+        "date": "2026-01-20 09:20",
+        "link": "https://www.cnet.co.kr/view/?no=20260120091421"
     },
     {
-        "title": "애플 '아이폰18' 가격 책정 고심.. 기본 모델은 가격 동결, 고용량 모델...",
-        "date": "2026-01-19 11:04",
-        "link": "https://kbench.com/?q=node/275345"
+        "title": "삼성 OLED TV, 美 컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 09:18",
+        "link": "https://www.public25.com/news/articleView.html?idxno=37759"
     },
     {
-        "title": "아이폰16 중고가치 하락…애플, 중고 보상가 인하",
-        "date": "2026-01-19 11:02",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=622055"
+        "title": "삼성전자 OLED TV, 美 컨슈머리포트 선정 '최고의 TV'",
+        "date": "2026-01-20 09:14",
+        "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=292543"
     },
     {
-        "title": "“애플워치 충전기가 구세주 됐다”…집에서 ‘자석네일’ 할 수 있다는...",
-        "date": "2026-01-19 10:56",
-        "link": "https://n.news.naver.com/mnews/article/009/0005623713?sid=101"
+        "title": "스마트팩토리 폭등랠리 시작?...에스엠코어·현대무벡스 주목",
+        "date": "2026-01-20 09:14",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=419383"
     },
     {
-        "title": "삼성디스플레이, 애플 OLED 맥북 패널 조기 양산…출시는 올해 말 예상",
-        "date": "2026-01-19 10:38",
-        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=540858"
+        "title": "한국레노버, 크리에이터·게이머 겨냥 QD-OLED 프리미엄 모니터 2종 출시",
+        "date": "2026-01-20 09:08",
+        "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=230645"
     },
     {
-        "title": "AI 탑재된 시리, 출시 지연이 오히려 긍정적? 애플 전략 '눈길'",
-        "date": "2026-01-19 10:38",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=622023"
+        "title": "디자인 확 바뀐 '아이폰18 프로'…LTPO+ OLED 디스플레이 탑재",
+        "date": "2026-01-20 09:06",
+        "link": "https://kbench.com/?q=node/275372"
     },
     {
-        "title": "애플 아이폰 카메라 컨트롤, 활용에 따라 '만능 기능 버튼'으로 진화",
-        "date": "2026-01-19 10:36",
-        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=622010"
+        "title": "삼성전자 OLED TV, 美 컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 09:02",
+        "link": "https://www.youthdaily.co.kr/news/article.html?no=210064"
     },
     {
-        "title": "무결점UP! 32인치 IPS QHD 멀티스탠드 지원 크로스오버존 32QD100WM 모니터...",
-        "date": "2026-01-19 10:20",
-        "link": "https://kbench.com/?q=node/275342"
+        "title": "삼성·LG OLED TV, 美 컨슈머리포트 '최고의 TV' 선정(종합)",
+        "date": "2026-01-20 08:59",
+        "link": "https://n.news.naver.com/mnews/article/001/0015855695?sid=101"
     },
     {
-        "title": "경상국립대, 초형광 OLED 상용화 위한 수명 개선 요인 발견",
-        "date": "2026-01-19 10:10",
-        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2382954"
+        "title": "한국레노버, 고성능 QD-OLED 모니터 2종 국내 출시",
+        "date": "2026-01-20 08:58",
+        "link": "https://n.news.naver.com/mnews/article/092/0002406731?sid=105"
     },
     {
-        "title": "애플 '아이폰 폴드' 고성능 'A20 프로' 프로세서 탑재",
-        "date": "2026-01-19 10:10",
-        "link": "https://kbench.com/?q=node/275330"
+        "title": "삼성전자 OLED TV, 美 컨슈머리포트 '최고' 선정",
+        "date": "2026-01-20 08:52",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1324466"
     },
     {
-        "title": "[하우머니] 올릭스 단일 파이프라인을 넘어 RNA플랫폼 가치 부각",
-        "date": "2026-01-19 10:00",
-        "link": "https://n.news.naver.com/mnews/article/374/0000487171?sid=101"
+        "title": "삼성전자 OLED TV, 美 컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 08:38",
+        "link": "https://n.news.naver.com/mnews/article/018/0006203517?sid=101"
     },
     {
-        "title": "노트북랜드21, 초경량·AI·완성도 모두 갖춘 'LG gram Pro AI 2026' 공식 ...",
-        "date": "2026-01-19 09:56",
-        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=46172"
+        "title": "삼성전자 OLED TV, 美 컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 08:38",
+        "link": "https://www.ngonews.kr/news/articleView.html?idxno=222762"
     },
     {
-        "title": "하루 20시간씩 3년 TV 켰더니…OLED가 LCD보다 더 ‘튼튼’",
-        "date": "2026-01-19 09:49",
-        "link": "https://n.news.naver.com/mnews/article/029/0003005614?sid=101"
+        "title": "삼성전자 OLED TV, 美 컨슈머리포트 성능 평가 1위 석권",
+        "date": "2026-01-20 08:36",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=419345"
     },
     {
-        "title": "경상국립대, 초형광(HF) OLED 상용화 앞당길 핵심 단서 발견",
-        "date": "2026-01-19 09:48",
-        "link": "https://www.kukinews.com/article/view/kuk202601190020"
+        "title": "Samsung's OLED TVs earn top ratings from Consumer Reports",
+        "date": "2026-01-20 08:31",
+        "link": "https://n.news.naver.com/mnews/article/001/0015855646?sid=104"
     },
     {
-        "title": "스노우 레오파드의 귀환 애플 iOS 27, 안정이냐 혁신이냐…폴더블 OS ...",
-        "date": "2026-01-19 09:26",
-        "link": "https://n.news.naver.com/mnews/article/138/0002215519?sid=105"
+        "title": "오픈AI, 올 하반기 첫 AI 하드웨어 출시…애플과 경쟁[모닝폰]",
+        "date": "2026-01-20 08:18",
+        "link": "https://n.news.naver.com/mnews/article/018/0006203495?sid=105"
     },
     {
-        "title": "가성비와 실사용의 균형적인 게이밍 노트북, MSI 사이보그 15 B2RWEKG-C5",
-        "date": "2026-01-19 09:20",
-        "link": "https://kbench.com/?q=node/275253"
+        "title": "삼성전자 OLED TV, 美 컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 08:12",
+        "link": "https://www.tfmedia.co.kr/news/article.html?no=200484"
     },
     {
-        "title": "'오바마 환경청장' 출신 리사 잭슨, 애플 떠난다…팀 쿡 깊은 감사",
-        "date": "2026-01-19 09:20",
-        "link": "https://n.news.naver.com/mnews/article/138/0002215513?sid=105"
+        "title": "삼성전자 TV, 컨슈머리포트 휩쓸었다…OLED 4종 '최고' 선정",
+        "date": "2026-01-20 07:30",
+        "link": "https://www.kizmom.com/news/articleView.html?idxno=107179"
     },
     {
-        "title": "'LCD와 작별' 애플, 아이패드 미니부터 맥북 에어까지 OLED 대세화",
-        "date": "2026-01-19 09:17",
-        "link": "https://n.news.naver.com/mnews/article/138/0002215511?sid=105"
+        "title": "삼성 OLED TV, 美 컨슈머리포트 선정 '최고의 TV'",
+        "date": "2026-01-20 07:20",
+        "link": "https://www.slist.kr/news/articleView.html?idxno=710302"
     },
     {
-        "title": "제미나이 시리 vs 제미나이 빅스비… 아이폰 - 갤럭시 ‘손안의 AI’ 빅...",
-        "date": "2026-01-19 09:10",
-        "link": "https://n.news.naver.com/mnews/article/021/0002764645?sid=101"
+        "title": "아이폰 새 심장 된 구글 제미나이…삼성의 맞불 작전이 더 관심",
+        "date": "2026-01-20 07:20",
+        "link": "https://n.news.naver.com/mnews/article/648/0000043691?sid=101"
     },
     {
-        "title": "제미나이·클라우드 앞세운 구글, 애플 제치고 ‘AI 강자’로 부상",
-        "date": "2026-01-19 09:02",
-        "link": "https://n.news.naver.com/mnews/article/037/0000037579?sid=101"
+        "title": "애플, 中 스마트폰 시장서 출하량 1위 탈환…아이폰 17 흥행 효과",
+        "date": "2026-01-20 07:10",
+        "link": "https://www.g-enews.com/view.php?ud=2026012006313416893bc914ac71_1"
     },
     {
-        "title": "OLED TV 내구성 LCD보다 우수…3년 1만 시간 테스트도 '최저 고장’",
-        "date": "2026-01-19 08:46",
-        "link": "https://www.youthdaily.co.kr/news/article.html?no=209892"
-    },
-    {
-        "title": "OLED 아이패드 미니, 연내 출시…맥북 에어는 2028년",
-        "date": "2026-01-19 08:32",
-        "link": "https://n.news.naver.com/mnews/article/092/0002406560?sid=105"
-    },
-    {
-        "title": "[모바일 On] 애플 아이폰17e, 플래그십 수준 성능으로 시장 공략",
-        "date": "2026-01-19 07:16",
-        "link": "https://kidd.co.kr/news/244676"
-    },
-    {
-        "title": "[폴더블 개화 국면] 삼성전자, 폴더블 라인업 3종 확대…애플 첫 폴더블...",
-        "date": "2026-01-19 07:02",
-        "link": "https://dealsite.co.kr/articles/155166"
+        "title": "삼성전자 OLED TV, 美 컨슈머리포트 '최고의 TV' 선정",
+        "date": "2026-01-20 07:00",
+        "link": "https://n.news.naver.com/mnews/article/001/0015855559?sid=101"
     }
 ]
