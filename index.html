@@ -354,6 +354,7 @@
     </style>
 </head>
 
+<body>
     <div class="container">
         <div class="header">
             <h1>디스플레이 산업 국내 기사 대시보드</h1>
@@ -361,282 +362,152 @@
         </div>
 
         <div class="tabs">
-            <button class="tab-button active" onclick="openTab(event, 'Tab1')">금일 핵심 지표</button>
-            <button class="tab-button" onclick="openTab(event, 'Tab2')">디스플레이 산업 동향</button>
-            <button class="tab-button" onclick="openTab(event, 'Tab3')">고객 동향</button>
-            <button class="tab-button" onclick="openTab(event, 'Tab4')">경쟁사 동향</button>
-            <button class="tab-button" onclick="openTab(event, 'Tab5')">IT 산업계 주요 이슈</button>
-            <button class="tab-button" onclick="openTab(event, 'Tab6')">SCM 동향</button>
+            <button class="tab-button active" onclick="openTab(event, 'tab1')">금일 핵심 지표</button>
+            <button class="tab-button" onclick="openTab(event, 'tab2')">디스플레이 산업 동향</button>
+            <button class="tab-button" onclick="openTab(event, 'tab3')">고객 동향</button>
+            <button class="tab-button" onclick="openTab(event, 'tab4')">경쟁사 동향</button>
+            <button class="tab-button" onclick="openTab(event, 'tab5')">IT 산업계 주요 이슈</button>
+            <button class="tab-button" onclick="openTab(event, 'tab6')">SCM 동향</button>
         </div>
 
-        <div id="Tab1" class="tab-content" style="display: block;">
-            <div class="kpi-container"><div class="kpi-card" onclick="window.open('https://www.newspim.com/news/view/20260122001087', '_blank')" style="cursor: pointer;">
-                    <h3>LGD 실적</h3>
-                    <p class="value">흑자 전환 전망</p>
-                    <span class="value-change positive">수익성 개선 가속화</span>
-                </div>
-<div class="kpi-card" onclick="window.open('https://n.news.naver.com/mnews/article/014/0005467038?sid=101', '_blank')" style="cursor: pointer;">
+        <div id="tab1" class="tab-content active">
+            <div class="kpi-container">
+                <div class="kpi-card" onclick="window.open('https://www.newsis.com/view/NISX20260122_0003486226', '_blank')" style="cursor: pointer;">
                     <h3>SDC 8.6G OLED</h3>
                     <p class="value">양산 본격화</p>
                     <span class="value-change positive">IT용 패널 격차 확대</span>
                 </div>
-<div class="kpi-card" onclick="window.open('#', '_blank')" style="cursor: pointer;">
-                    <h3>OLED 시장</h3>
-                    <p class="value">침투율 확대</p>
-                    <span class="value-change positive">IT/전장 중심 성장</span>
-                </div>
-<div class="kpi-card" onclick="window.open('#', '_blank')" style="cursor: pointer;">
-                    <h3>차세대 기술</h3>
-                    <p class="value">Tandem OLED</p>
-                    <span class="value-change positive">노트북/태블릿 적용 확산</span>
-                </div>
-<div class="kpi-card" onclick="window.open('#', '_blank')" style="cursor: pointer;">
-                    <h3>패널 가격</h3>
-                    <p class="value">안정적 흐름</p>
-                    <span class="value-change positive">수급 균형 유지 전망</span>
-                </div>
-<div class="kpi-card" onclick="window.open('https://n.news.naver.com/mnews/article/001/0015862713?sid=104', '_blank')" style="cursor: pointer;">
-                    <h3>애플 AI</h3>
+                <div class="kpi-card" onclick="window.open('https://biz.heraldcorp.com/article/10661125?ref=naver', '_blank')" style="cursor: pointer;">
+                    <h3>Apple AI Strategy</h3>
                     <p class="value">제미나이 도입</p>
-                    <span class="value-change positive">AI 전략 변화 추진</span>
+                    <span class="value-change positive">페더리기 주도 변화</span>
                 </div>
-<div class="kpi-card" onclick="window.open('https://www.g-enews.com/view.php?ud=202601220644493051fbbec65dfb_1', '_blank')" style="cursor: pointer;">
-                    <h3>아이폰18 AP</h3>
-                    <p class="value">단가 인상</p>
-                    <span class="value-change positive">2나노 공정 비용 반영</span>
+                <div class="kpi-card" onclick="window.open('https://www.digitaltoday.co.kr/news/articleView.html?idxno=623170', '_blank')" style="cursor: pointer;">
+                    <h3>Honor Global</h3>
+                    <p class="value">해외 고성장</p>
+                    <span class="value-change positive">출하량 55% 급증</span>
                 </div>
-<div class="kpi-card" onclick="window.open('#', '_blank')" style="cursor: pointer;">
-                    <h3>AI 반도체</h3>
-                    <p class="value">엔비디아 독주</p>
-                    <span class="value-change positive">TSMC 매출 비중 1위</span>
+                <div class="kpi-card" onclick="window.open('https://zdnet.co.kr/view/?no=20260122082117', '_blank')" style="cursor: pointer;">
+                    <h3>Siri Rebrand</h3>
+                    <p class="value">AI 챗봇 개편</p>
+                    <span class="value-change positive">iOS 27 핵심 기능</span>
                 </div>
-</div>
-<div class="summary-box">
-    <h3>핵심 요약</h3>
-    <ul class="summary-list">
-        <li>(-) LG디스플레이, 수익성 중심 경영 정상화 및 OLED 사업 경쟁력 강화 주력</li>
-        <li>(-) 삼성디스플레이, 8.6세대 IT OLED 투자 및 초격차 기술 확보 추진</li>
-        <li>(-) 애플, AI 경쟁력 확보 위해 구글 제미나이 도입 및 하이브리드 AI 전략 전개</li>
-        <li>(-) TSMC, 2나노 초미세 공정 주도권 강화 및 주요 빅테크 고객사 대상 판가 인상</li>
-    </ul>
-    <h3>주요 시사점</h3>
-    <ul class="insight-list">
-        <li>(-) 온디바이스 AI 시장 개화에 따른 저전력/고성능 디스플레이 수요 증가 전망</li>
-        <li>(-) 글로벌 공급망 재편 및 기술 패권 경쟁 심화 속 전략적 파트너십 중요성 증대</li>
-    </ul>
-</div>
+                <div class="kpi-card" onclick="window.open('https://www.etnews.com/20260122000123', '_blank')" style="cursor: pointer;">
+                    <h3>KITECH New Mat.</h3>
+                    <p class="value">자가치유 코팅</p>
+                    <span class="value-change positive">폴더블 주름 해결</span>
+                </div>
+                <div class="kpi-card" onclick="window.open('https://www.ceoscoredaily.com/page/view/2026012214024554090', '_blank')" style="cursor: pointer;">
+                    <h3>TV Alliance</h3>
+                    <p class="value">TCL-소니 합작</p>
+                    <span class="value-change negative">프리미엄 TV 위협</span>
+                </div>
+                <div class="kpi-card" onclick="window.open('https://kbench.com/?q=node/275471', '_blank')" style="cursor: pointer;">
+                    <h3>BOE Issue</h3>
+                    <p class="value">iPhone 패널 탈락</p>
+                    <span class="value-change positive">삼성D 반사이익</span>
+                </div>
+                <div class="kpi-card" onclick="window.open('https://www.newsway.co.kr/news/view?ud=2026012215460605836', '_blank')" style="cursor: pointer;">
+                    <h3>LGD SCM</h3>
+                    <p class="value">수익성 확보</p>
+                    <span class="value-change positive">사업 구조 고도화</span>
+                </div>
+            </div>
 
+            <div class="section">
+                <h3><span class="keyword">핵심 요약</span> 금일 주요 시사점</h3>
+                <ul>
+                    <li><strong>삼성디스플레이 기술 초격차:</strong> 8.6세대 IT용 OLED 양산 일정을 1분기로 앞당기며 중국 경쟁사 대비 초기 수율 및 시장 선점 효과 극대화 전망</li>
+                    <li><strong>애플 AI 전략 수정:</strong> 자체 모델 고집을 버리고 구글 제미나이 도입 및 시리 챗봇화(프로젝트 캄포스)를 통해 실리 추구 및 사용자 경험 개선 주력</li>
+                    <li><strong>중국 스마트폰 약진:</strong> 아너(Honor)의 공격적인 해외 시장 확장(55% 성장)과 중저가 라인업 강화로 글로벌 점유율 경쟁 심화</li>
+                    <li><strong>디스플레이 공급망 변화:</strong> BOE의 아이폰 패널 품질 이슈에 따른 삼성디스플레이 물량 확대 및 TCL-소니 연합의 프리미엄 TV 시장 공략 등 경쟁 구도 재편</li>
+                    <li><strong>신소재 기술 개발:</strong> 생기원의 자가치유 코팅 소재 개발로 폴더블 디스플레이의 고질적인 주름 및 내구성 문제 해결 가능성 제시</li>
+                </ul>
+            </div>
         </div>
 
-        <div id="Tab2" class="tab-content">
-            <ul class="news-list"><li>
-                    <a href="https://www.ggilbo.com/news/articleView.html?idxno=1137670" target="_blank"><strong>모토로라, 55만원 초슬림폰 '엣지70' 출시</strong></a>
-                    <p>모토로라, 55만원 초슬림폰 '엣지70' 출시</p>
-                    <span class="date">2026-01-22 21:20</span>
-                </li><li>
-                    <a href="https://www.newspim.com/news/view/20260122001087" target="_blank"><strong>OLED 새 기준 제시한 LG디스플레이…정철동의 '기술 승부'</strong></a>
-                    <p>OLED 새 기준 제시한 LG디스플레이…정철동의 '기술 승부'</p>
-                    <span class="date">2026-01-22 16:56</span>
-                </li><li>
-                    <a href="https://www.newsway.co.kr/news/view?ud=2026012215460605836" target="_blank"><strong>'정철동 매직'…LG디스플레이, 정상화 끝내고 수익성 확보 올인</strong></a>
-                    <p>'정철동 매직'…LG디스플레이, 정상화 끝내고 수익성 확보 올인</p>
-                    <span class="date">2026-01-22 16:24</span>
-                </li><li>
-                    <a href="https://www.it-b.co.kr/news/articleView.html?idxno=86439" target="_blank"><strong>모토로라, 초슬림 스마트폰 '엣지 70' 국내 출시</strong></a>
-                    <p>모토로라, 초슬림 스마트폰 '엣지 70' 국내 출시</p>
-                    <span class="date">2026-01-22 11:12</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/144/0001093272?sid=105" target="_blank"><strong>모토로라, 초슬림 스마트폰 ‘엣지 70’ 국내 출시</strong></a>
-                    <p>모토로라, 초슬림 스마트폰 ‘엣지 70’ 국내 출시</p>
-                    <span class="date">2026-01-22 10:59</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/014/0005466680?sid=105" target="_blank"><strong>듀얼 터치스크린부터 초슬림까지…에이수스, 신형 젠북 AI PC 공개</strong></a>
-                    <p>듀얼 터치스크린부터 초슬림까지…에이수스, 신형 젠북 AI PC 공개</p>
-                    <span class="date">2026-01-22 10:52</span>
-                </li><li>
-                    <a href="https://news.einfomax.co.kr/news/articleView.html?idxno=4394798" target="_blank"><strong>'원가 혁신' 집중한 LG디스플레이, 수익성 개선 기대감↑</strong></a>
-                    <p>'원가 혁신' 집중한 LG디스플레이, 수익성 개선 기대감↑</p>
-                    <span class="date">2026-01-22 10:26</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/001/0015860655?sid=105" target="_blank"><strong>모토로라, 초슬림형 스마트폰 '엣지 70' 출시</strong></a>
-                    <p>모토로라, 초슬림형 스마트폰 '엣지 70' 출시</p>
-                    <span class="date">2026-01-22 10:06</span>
-                </li><li>
-                    <a href="https://www.widedaily.com/news/articleView.html?idxno=287190" target="_blank"><strong>모토로라, 55만원 초슬림폰 '모토로라 엣지 70' 韓 출시</strong></a>
-                    <p>모토로라, 55만원 초슬림폰 '모토로라 엣지 70' 韓 출시</p>
-                    <span class="date">2026-01-22 09:54</span>
-                </li><li>
-                    <a href="https://www.ezyeconomy.com/news/articleView.html?idxno=230875" target="_blank"><strong>모토로라, 5.99mm 초슬림 '모토로라 엣지 70' 국내 출시</strong></a>
-                    <p>모토로라, 5.99mm 초슬림 '모토로라 엣지 70' 국내 출시</p>
-                    <span class="date">2026-01-22 09:44</span>
-                </li></ul>
+        <div id="tab2" class="tab-content">
+            <div class="section">
+                <h3><span class="keyword">Display Tech</span> 디스플레이 산업 동향</h3>
+                <ul>
+                    <li><strong>IT용 OLED 양산:</strong> 삼성디스플레이, 8.6세대 OLED 패널을 '26년형 맥북' 탑재 목표로 양산 본격화 및 기술 격차 유지</li>
+                    <li><strong>폴더블 신소재:</strong> 한국생산기술연구원, 스크래치 자가 치유 및 주름 개선이 가능한 고내구성 코팅 소재 개발 완료</li>
+                    <li><strong>패널 공급망 이슈:</strong> 중국 BOE, 아이폰18용 패널 품질 승인 지연으로 초도 물량 공급 차질 및 삼성디스플레이 대체 공급 유력</li>
+                    <li><strong>사업 정상화:</strong> LG디스플레이, 고부가가치 제품 중심 포트폴리오 재편 및 원가 절감을 통한 흑자 구조 정착 총력</li>
+                </ul>
+            </div>
         </div>
 
-        <div id="Tab3" class="tab-content">
-            <ul class="news-list"><li>
-                    <a href="https://n.news.naver.com/mnews/article/001/0015862713?sid=104" target="_blank"><strong>애플 '제미나이' 도입, 페더리기 주도…AI 신중전략 계속될듯</strong></a>
-                    <p>애플 '제미나이' 도입, 페더리기 주도…AI 신중전략 계속될듯</p>
-                    <span class="date">2026-01-23 05:29</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/374/0000488142?sid=104" target="_blank"><strong>애플, 시리 확 바꾼다…AI 챗봇으로 재탄생</strong></a>
-                    <p>애플, 시리 확 바꾼다…AI 챗봇으로 재탄생</p>
-                    <span class="date">2026-01-23 04:40</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/020/0003691734?sid=101" target="_blank"><strong>애플 음성비서 ‘시리’… ‘챗봇’ 형태로 바꾼다</strong></a>
-                    <p>애플 음성비서 ‘시리’… ‘챗봇’ 형태로 바꾼</p>
-                    <span class="date">2026-01-23 00:32</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/025/0003498479?sid=105" target="_blank"><strong>시리도 챗GPT처럼…애플, 대화형 AI 선보인다</strong></a>
-                    <p>시리도 챗GPT처럼…애플, 대화형 AI 선관측</p>
-                    <span class="date">2026-01-23 00:01</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/016/0002589762?sid=105" target="_blank"><strong>“아이폰도 아닌데 130만원… 누가 사?” 점유율 0% 굴욕에 칼 갈더니 ‘...</strong></a>
-                    <p>“아이폰도 아닌데 130만원… 누가 사?” 점유율 0% 굴욕에 칼 갈더니 ‘..</p>
-                    <span class="date">2026-01-22 21:41</span>
-                </li><li>
-                    <a href="https://www.aitimes.com/news/articleView.html?idxno=205830" target="_blank"><strong>애플, AI 웨어러블 '핀' 개발 중...오픈AI 장치에 맞불</strong></a>
-                    <p>애플, AI 웨어러블 '핀' 개발 중...오픈AI 장치에 맞불</p>
-                    <span class="date">2026-01-22 19:32</span>
-                </li><li>
-                    <a href="https://it.chosun.com/news/articleView.html?idxno=2023092155453" target="_blank"><strong>벤큐 맥 모니터 색감·디자인·사용성 다 잡았다</strong></a>
-                    <p>벤큐 맥 모니터 색감·디자인·사용성 다 잡았</p>
-                    <span class="date">2026-01-22 19:04</span>
-                </li><li>
-                    <a href="https://it.donga.com/108282/" target="_blank"><strong>HP, 게이밍 브랜드 ‘하이퍼엑스’로 통합…‘오멘’은 어찌되나?</strong></a>
-                    <p>HP, 게이밍 브랜드 ‘하이퍼엑스’로 통합…‘오멘’은 어찌되나?</p>
-                    <span class="date">2026-01-22 18:04</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/028/0002787875?sid=105" target="_blank"><strong>애플 ‘AI 웨어러블 핀’ 개발 시동…오픈AI와 시장 선점 경쟁</strong></a>
-                    <p>애플 ‘AI 웨어러블 핀’ 개발 시동…오픈AI와 시장 선점 경쟁</p>
-                    <span class="date">2026-01-22 18:02</span>
-                </li><li>
-                    <a href="https://www.ceoscoredaily.com/page/view/2026012214024554090" target="_blank"><strong>TCL·소니 TV 동맹, ‘OLED TV’ 시장판 흔드나…삼성·LG, TV 1위 사수 ‘...</strong></a>
-                    <p>TCL·소니 TV 동맹, ‘OLED TV’ 시장판 흔드나…삼성·LG, TV 1위 사수 ‘..</p>
-                    <span class="date">2026-01-22 17:56</span>
-                </li></ul>
+        <div id="tab3" class="tab-content">
+            <div class="section">
+                <h3><span class="keyword">Key Client</span> 주요 고객사 동향</h3>
+                <ul>
+                    <li><strong>Apple AI:</strong> 소프트웨어 총괄 페더리기 주도로 자체 개발 대신 구글 '제미나이' 채택 및 온디바이스 AI 병행 전략 수립</li>
+                    <li><strong>Siri Evolution:</strong> 음성비서 시리를 생성형 AI 챗봇으로 전면 개편(코드명 캄포스), 올해 WWDC 공개 및 iOS 27 탑재 예정</li>
+                    <li><strong>HP Gaming:</strong> 게이밍 브랜드 '오멘'과 '하이퍼엑스' 통합으로 브랜드 정체성 강화 및 주변기기 시장 시너지 창출</li>
+                    <li><strong>ASUS AI PC:</strong> 듀얼 터치스크린 및 초슬림 디자인을 적용한 신규 '젠북' 시리즈 출시로 AI PC 시장 공략 가속</li>
+                </ul>
+            </div>
         </div>
 
-        <div id="Tab4" class="tab-content">
-            <ul class="news-list"><li>
-                    <a href="https://n.news.naver.com/mnews/article/014/0005467038?sid=101" target="_blank"><strong>중국發 OLED 발주 훈풍… 국내 장비업계 실적개선 기대감</strong></a>
-                    <p>중국發 OLED 발주 훈풍… 국내 장비업계 실적개선 기대감</p>
-                    <span class="date">2026-01-22 18:16</span>
-                </li><li>
-                    <a href="https://www.ekn.kr/web/view.php?key=20260122025591419" target="_blank"><strong>디스플레이·부품 ‘로봇’으로 쏠린다…삼성·LG, 차세대 성장축 시동</strong></a>
-                    <p>디스플레이·부품 ‘로봇’으로 쏠린다…삼성·LG, 차세대 성장축 시동</p>
-                    <span class="date">2026-01-22 17:36</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/293/0000078208?sid=101" target="_blank"><strong>영우디에스피, 삼성디스플레이 베트남에 70억원 규모 장비 공급</strong></a>
-                    <p>영우디에스피, 삼성디스플레이 베트남에 70억원 규모 장비 공급</p>
-                    <span class="date">2026-01-22 14:36</span>
-                </li><li>
-                    <a href="https://www.digitaltoday.co.kr/news/articleView.html?idxno=623234" target="_blank"><strong>영우디에스피, 삼성디스플레이와 70억4579만5282원 규모 디스플레이장비...</strong></a>
-                    <p>영우디에스피, 삼성디스플레이와 70억4579만5282원 규모 디스플레이장비..</p>
-                    <span class="date">2026-01-22 14:26</span>
-                </li><li>
-                    <a href="https://www.ceoscoredaily.com/page/view/2026012117240057016" target="_blank"><strong>삼성디스플레이, 차량용 OLED 1위 굳힌다… 전기차 부터 슈퍼카 ‘페라...</strong></a>
-                    <p>삼성디스플레이, 차량용 OLED 1위 굳힌다… 전기차 부터 슈퍼카 ‘페라..</p>
-                    <span class="date">2026-01-22 09:08</span>
-                </li><li>
-                    <a href="http://www.enewstoday.co.kr/news/articleView.html?idxno=2384514" target="_blank"><strong>50만 위안 SUV 1위의 비밀···지커 9X가 선택한 '삼성D OLED'</strong></a>
-                    <p>50만 위안 SUV 1위의 비밀···지커 9X가 선택한 '삼성D OLED'</p>
-                    <span class="date">2026-01-22 08:21</span>
-                </li></ul>
+        <div id="tab4" class="tab-content">
+            <div class="section">
+                <h3><span class="keyword">Competitor</span> 경쟁사 동향</h3>
+                <ul>
+                    <li><strong>Honor:</strong> 유럽 및 동남아 시장 중심의 중저가 모델 판매 호조로 해외 출하량 전년 대비 55% 급증</li>
+                    <li><strong>TCL-Sony Alliance:</strong> 중국 TCL의 패널 기술과 일본 소니의 화질 처리 기술을 결합한 합작사 설립으로 프리미엄 TV 시장 위협</li>
+                    <li><strong>Motorola:</strong> 두께 5.99mm의 초슬림 5G 스마트폰 '엣지 70' 국내 출시, 틈새 시장 공략 및 라인업 확대</li>
+                </ul>
+            </div>
         </div>
 
-        <div id="Tab5" class="tab-content">
-            <ul class="news-list"><li>
-                    <a href="https://n.news.naver.com/mnews/article/001/0015862713?sid=104" target="_blank"><strong>애플 '제미나이' 도입, 페더리기 주도…AI 신중전략 계속될듯</strong></a>
-                    <p>애플 '제미나이' 도입, 페더리기 주도…AI 신중전략 계속될듯</p>
-                    <span class="date">2026-01-23 05:29</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/374/0000488142?sid=104" target="_blank"><strong>애플, 시리 확 바꾼다…AI 챗봇으로 재탄생</strong></a>
-                    <p>애플, 시리 확 바꾼다…AI 챗봇으로 재탄생</p>
-                    <span class="date">2026-01-23 04:40</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/025/0003498479?sid=105" target="_blank"><strong>시리도 챗GPT처럼…애플, 대화형 AI 선보인다</strong></a>
-                    <p>시리도 챗GPT처럼…애플, 대화형 AI 선관측</p>
-                    <span class="date">2026-01-23 00:01</span>
-                </li><li>
-                    <a href="https://www.aitimes.com/news/articleView.html?idxno=205830" target="_blank"><strong>애플, AI 웨어러블 '핀' 개발 중...오픈AI 장치에 맞불</strong></a>
-                    <p>애플, AI 웨어러블 '핀' 개발 중...오픈AI 장치에 맞불</p>
-                    <span class="date">2026-01-22 19:32</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/028/0002787875?sid=105" target="_blank"><strong>애플 ‘AI 웨어러블 핀’ 개발 시동…오픈AI와 시장 선점 경쟁</strong></a>
-                    <p>애플 ‘AI 웨어러블 핀’ 개발 시동…오픈AI와 시장 선점 경쟁</p>
-                    <span class="date">2026-01-22 18:02</span>
-                </li></ul>
+        <div id="tab5" class="tab-content">
+            <div class="section">
+                <h3><span class="keyword">IT Issue</span> IT 산업계 주요 이슈</h3>
+                <ul>
+                    <li><strong>AI OS Integration:</strong> 애플, 구글 등 빅테크 기업들의 모바일 OS 내 생성형 AI 챗봇 기본 탑재 경쟁 본격화</li>
+                    <li><strong>Wearable AI:</strong> 스마트폰을 대체/보완할 차세대 폼팩터로 'AI 핀', '스마트 글라스' 등 웨어러블 기기 개발 투자 확대</li>
+                    <li><strong>Gaming Market:</strong> PC 및 주변기기 시장의 게이밍 브랜드 통합 및 고성능 하드웨어 수요 지속 성장</li>
+                </ul>
+            </div>
         </div>
 
-        <div id="Tab6" class="tab-content">
-            <ul class="news-list"><li>
-                    <a href="https://n.news.naver.com/mnews/article/144/0001093449?sid=105" target="_blank"><strong>에이수스, 듀얼 터치 스크린부터 초슬림까지···새로운 젠북 AI PC 시리...</strong></a>
-                    <p>에이수스, 듀얼 터치 스크린부터 초슬림까지···새로운 젠북 AI PC 시리..</p>
-                    <span class="date">2026-01-23 00:30</span>
-                </li><li>
-                    <a href="https://www.cnet.co.kr/view/?no=20260122160048" target="_blank"><strong>에이수스, 듀얼 터치 스크린·초슬림 무기 앞세운 젠북 AI PC 선봬</strong></a>
-                    <p>에이수스, 듀얼 터치 스크린·초슬림 무기 앞세운 젠북 AI PC 선봬</p>
-                    <span class="date">2026-01-22 16:10</span>
-                </li><li>
-                    <a href="https://kr.aving.net/news/articleView.html?idxno=1808154" target="_blank"><strong>에이수스, 신형 젠북 AI PC 시리즈 출시... 초슬림 디자인·듀얼 터치 스...</strong></a>
-                    <p>에이수스, 신형 젠북 AI PC 시리즈 출시... 초슬림 디자인·듀얼 터치 스..</p>
-                    <span class="date">2026-01-22 15:18</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/014/0005466839?sid=101" target="_blank"><strong>LG이노텍, 폴더블 시대 핵심은 기판...COF로 고부가 시장 선점</strong></a>
-                    <p>LG이노텍, 폴더블 시대 핵심은 기판...COF로 고부가 시장 선점</p>
-                    <span class="date">2026-01-22 14:50</span>
-                </li><li>
-                    <a href="https://n.news.naver.com/mnews/article/030/0003392277?sid=105" target="_blank"><strong>생기원, 접힘 주름 해소 코팅소재 개발...폴더블 디스플레이 활용 가능</strong></a>
-                    <p>생기원, 접힘 주름 해소 코팅소재 개발...폴더블 디스플레이 활용 가능</p>
-                    <span class="date">2026-01-22 10:50</span>
-                </li><li>
-                    <a href="https://gamefocus.co.kr/detail.php?number=172898" target="_blank"><strong>에이수스, 듀얼 터치 스크린부터 초슬림까지 다양한 콘셉트의 신규 젠북...</strong></a>
-                    <p>에이수스, 듀얼 터치 스크린부터 초슬림까지 다양한 콘셉트의 신규 젠북..</p>
-                    <span class="date">2026-01-22 10:48</span>
-                </li><li>
-                    <a href="https://www.pinpointnews.co.kr/news/articleView.html?idxno=420355" target="_blank"><strong>실적 부진 털어낸 씨아이에스 주가 내달리나...이차전지 넘어 PCB 아우르...</strong></a>
-                    <p>실적 부진 털어낸 씨아이에스 주가 내달리나...이차전지 넘어 PCB 아우르..</p>
-                    <span class="date">2026-01-22 10:28</span>
-                </li><li>
-                    <a href="https://www.ilovepc.co.kr/news/articleView.html?idxno=57812" target="_blank"><strong>에이수스, 새로운 젠북 AI PC 시리즈 선보여</strong></a>
-                    <p>에이수스, 새로운 젠북 AI PC 시리즈 선보여</p>
-                    <span class="date">2026-01-22 10:18</span>
-                </li><li>
-                    <a href="https://www.thebell.co.kr/free/content/ArticleView.asp?key=202601211641331120104854" target="_blank"><strong>OLED 공급망 거점 구축 아이티켐, 다음 스텝은 '바이오'</strong></a>
-                    <p>OLED 공급망 거점 구축 아이티켐, 다음 스텝은 '바이오'</p>
-                    <span class="date">2026-01-22 09:52</span>
-                </li><li>
-                    <a href="https://www.ezyeconomy.com/news/articleView.html?idxno=230880" target="_blank"><strong>에이수스, 듀얼 스크린부터 초슬림까지…젠북 AI PC 라인업 확대</strong></a>
-                    <p>에이수스, 듀얼 스크린부터 초슬림까지…젠북 AI PC 라인업 확대</p>
-                    <span class="date">2026-01-22 09:48</span>
-                </li></ul>
+        <div id="tab6" class="tab-content">
+            <div class="section">
+                <h3><span class="keyword">SCM Trend</span> 공급망 및 투자 동향</h3>
+                <ul>
+                    <li><strong>Foundry Shortage:</strong> TSMC 3나노 공정 주문 폭주로 2027년까지 예약 마감, 팹리스 기업들의 물량 확보 경쟁 심화</li>
+                    <li><strong>Localization:</strong> 영우디에스피 등 국내 장비사, 디스플레이 패널 업체의 신규 투자 재개에 따른 수주 회복세 진입</li>
+                    <li><strong>High-Value Components:</strong> LG이노텍, 폴더블 기기 확산에 대비한 COF(Chip on Film) 등 고부가 기판 기술 개발 주력</li>
+                </ul>
+            </div>
         </div>
 
-        
-<div class="roadmap">
-    <h2>2026년 주요 산업 일정 및 전망 로드맵</h2>
-    <div class="roadmap-list">
-        <div class="roadmap-item">
-                    <strong>2026 1Q</strong>
-                    <span>(-) 애플 비전 프로 글로벌 출시 확대 예정</span><span>(-) SDC 8.6세대 장비 반입 및 셋업 진행</span><span>(-) 주요 고객사 신제품 출시 라인업 확정</span>
+        <div class="roadmap">
+            <h2>2026년 주요 산업 일정 및 전망 로드맵</h2>
+            <div class="roadmap-list">
+                <div class="roadmap-item">
+                    <strong>1분기 (Q1)</strong>
+                    <span>- SDC: 8.6세대 IT용 OLED 양산 개시 및 수율 안정화 주력</span>
+                    <span>- Mobile: Honor 등 중국 제조사 글로벌 신제품 출시 및 점유율 확대</span>
                 </div>
-        <div class="roadmap-item">
-                    <strong>2026 2Q</strong>
-                    <span>(-) IT용 OLED 패널 양산 준비 박차</span><span>(-) 글로벌 개발자 컨퍼런스(WWDC 등) 개최 및 AI 신기능 공개</span><span>(-) 차세대 폴더블 패널 시제품 공개 예정</span>
+                <div class="roadmap-item">
+                     <strong>2분기 (Q2)</strong>
+                    <span>- Apple: WWDC 2026 개최, AI 챗봇 시리(Campos) 및 iOS 27 공개</span>
+                    <span>- Market: AI PC 신제품 출시 본격화 및 초기 시장 반응 확인</span>
                 </div>
-        <div class="roadmap-item">
-                    <strong>2026 3Q</strong>
-                    <span>(-) 아이폰18 시리즈용 부품 양산 본격화</span><span>(-) 하반기 성수기 대비 재고 확충 및 공급망 점검</span><span>(-) AI PC 시장 확대에 따른 패널 수요 증가 대응</span>
+                <div class="roadmap-item">
+                    <strong>3분기 (Q3)</strong>
+                    <span>- Launch: 애플 아이폰 18 시리즈 및 신규 OS 정식 배포</span>
+                    <span>- Tech: 폴더블 신소재 적용 제품 시제품 공개 가능성</span>
                 </div>
-        <div class="roadmap-item">
-                    <strong>2026 4Q</strong>
-                    <span>(-) 차세대 XR 기기용 마이크로 OLED 양산 검토</span><span>(-) 2027년 사업 계획 수립 및 차세대 기술 로드맵 구체화</span><span>(-) 연말 쇼핑 시즌 IT 기기 판매량 확대 주력</span>
+                <div class="roadmap-item">
+                    <strong>Future (2027 이후)</strong>
+                    <span>- Wearable: 애플 'AI 핀' 등 차세대 웨어러블 디바이스 상용화 전망</span>
+                    <span>- Supply: TSMC 2나노 공정 양산 및 파운드리 가격 인상 영향 가시화</span>
                 </div>
-    </div>
-</div>
-
-    </div>
-
+            </div>
+        </div>
 
 
         <div class="references">
