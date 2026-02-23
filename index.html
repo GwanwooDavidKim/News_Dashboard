@@ -355,188 +355,192 @@
 </head>
 
 <body>
-    <div class="container">
-        <div class="header">
-            <h1>디스플레이 산업 국내 기사 대시보드</h1>
-            <p>2026-02-23 07:00 ~ 2026-02-24 07:00 기준 | 출처: BI1팀</p>
-        </div>
+<div class="container">
+<div class="header">
+<h1>디스플레이 산업 국내 기사 대시보드</h1>
+<p>2026-02-23 07:00 ~ 2026-02-24 07:00 기준 | 출처: BI1팀</p>
+</div>
+    <div class="tabs">
+        <button class="tab-button active" onclick="openTab(event, 'tab1')">금일 핵심 지표</button>
+        <button class="tab-button" onclick="openTab(event, 'tab2')">디스플레이 산업 동향</button>
+        <button class="tab-button" onclick="openTab(event, 'tab3')">고객 동향</button>
+        <button class="tab-button" onclick="openTab(event, 'tab4')">경쟁사 동향</button>
+        <button class="tab-button" onclick="openTab(event, 'tab5')">IT 산업계 주요 이슈</button>
+        <button class="tab-button" onclick="openTab(event, 'tab6')">SCM 동향</button>
+    </div>
 
-        <div class="tabs">
-            <button class="tab-button active" onclick="openTab(event, 'tab1')">금일 핵심 지표</button>
-            <button class="tab-button" onclick="openTab(event, 'tab2')">디스플레이 산업 동향</button>
-            <button class="tab-button" onclick="openTab(event, 'tab3')">고객 동향</button>
-            <button class="tab-button" onclick="openTab(event, 'tab4')">경쟁사 동향</button>
-            <button class="tab-button" onclick="openTab(event, 'tab5')">IT 산업계 주요 이슈</button>
-            <button class="tab-button" onclick="openTab(event, 'tab6')">SCM 동향</button>
-        </div>
-
-        <div id="tab1" class="tab-content active">
-            <div class="kpi-container">
-
-                <div class="kpi-card" onclick="window.open('https://www.etnews.com/20260210000206', '_blank')" style="cursor: pointer;">
-                    <h3>US Tariffs</h3>
-                    <p class="value">빅테크 면제 검토</p>
-                    <span class="value-change positive">AI 인프라 고려</span>
-                </div>
-                <div class="kpi-card" onclick="window.open('https://www.ddaily.co.kr/page/view/2026021010592286402', '_blank')" style="cursor: pointer;">
-                    <h3>Budget MacBook</h3>
-                    <p class="value">600달러대 출시</p>
-                    <span class="value-change positive">상반기 교육용 공략</span>
-                </div>
-                <div class="kpi-card" onclick="window.open('https://kbench.com/?q=node/276046', '_blank')" style="cursor: pointer;">
-                    <h3>iPhone 17e</h3>
-                    <p class="value">사양 개선 올인</p>
-                    <span class="value-change positive">디자인은 노치 유지</span>
-                </div>
-                <div class="kpi-card" onclick="window.open('https://www.hani.co.kr/arti/economy/marketing/1244283.html', '_blank')" style="cursor: pointer;">
-                    <h3>India Smartphone</h3>
-                    <p class="value">프리미엄 22%</p>
-                    <span class="value-change positive">새로운 격전지 급부상</span>
-                </div>
-                <div class="kpi-card" onclick="window.open('https://n.news.naver.com/article/366/0001136327?sid=105', '_blank')" style="cursor: pointer;">
-                    <h3>SDC 8.6G OLED</h3>
-                    <p class="value">양산 본격화</p>
-                    <span class="value-change positive">IT용 패널 선점</span>
-                </div>
-                <div class="kpi-card" onclick="window.open('#', '_blank')" style="cursor: pointer;">
-                    <h3>LGD OLED</h3>
-                    <p class="value">흑자 턴어라운드</p>
-                    <span class="value-change positive">고부가 전략 통했다</span>
-                </div>
-                <div class="kpi-card" onclick="window.open('#', '_blank')" style="cursor: pointer;">
-                    <h3>China Tech</h3>
-                    <p class="value">OLED 대규모 투자</p>
-                    <span class="value-change negative">맹추격 지속</span>
-                </div>
-                <div class="kpi-card" onclick="window.open('#', '_blank')" style="cursor: pointer;">
-                    <h3>AI Hardware</h3>
-                    <p class="value">웨어러블 확대</p>
-                    <span class="value-change positive">새 플랫폼 경쟁</span>
-                </div>
+    <div id="tab1" class="tab-content active">
+        <div class="kpi-container">
+            <div class="kpi-card" onclick="window.open('[https://www.yna.co.kr/view/AKR20260223107500003?input=1195m](https://www.yna.co.kr/view/AKR20260223107500003?input=1195m)', '_blank')" style="cursor: pointer;">
+                <h3>OLED 설비투자</h3>
+                <p class="value">전년비 68% 급증</p>
+                <span class="value-change positive">8.7세대 IT용 견인</span>
             </div>
-            <div class="section">
-                <h3><span class="keyword">핵심 요약</span> 금일 주요 뉴스 및 시사점</h3>
-                <ul>
-                    <li style="list-style: none; margin-left: -20px;"><strong>1) 美, 반도체 관세 추진 속 빅테크 면제 방안 검토</strong></li>
-                    <li>트럼프 행정부, 미국 하이퍼스케일 기업 대상 반도체 관세 면제 검토</li>
-                    <li>수입 반도체 관세로 인한 자국 내 AI 인프라 확장 부담 우려 반영</li>
-                    <li>TSMC 등 주요 공급사의 미국 내 투자 유도 및 빅테크 칩 조달 비용 완화 포석</li>
-                </ul>
-<br>
-                <ul>
-                    <li style="list-style: none; margin-left: -20px;"><strong>2) 애플, 'A18 프로' 탑재한 600달러대 보급형 맥북 상반기 출시</strong></li>
-                    <li>애플, 12.9인치 디스플레이 및 A18 프로 칩셋 탑재한 저가형 맥북 생산 돌입</li>
-                    <li>압도적 전력 효율 자랑하는 A시리즈 칩 활용, 가격은 교육용 기준 약 599달러 선 예상</li>
-                    <li>파격적 가격 책정으로 크롬북 등이 선점한 교육용 PC 시장 탈환 의지</li>
-                </ul>
-<br>
-                <ul>
-                    <li style="list-style: none; margin-left: -20px;"><strong>3) 아이폰 17e, 디자인 변화 대신 내부 사양 개선에 '올인'</strong></li>
-                    <li>차세대 보급형 아이폰 17e, 전작과 유사한 6.1인치 노치 디자인 폼팩터 계승</li>
-                    <li>A19 칩 탑재로 프로세서 성능 대폭 향상, 맥세이프 기능 부활 등 편의성 강화 주력</li>
-                    <li>디자인보다 실질적인 하드웨어 성능 업그레이드로 보급형 라인업 경쟁력 제고</li>
-                </ul>
-<br>
-                <ul>
-                    <li style="list-style: none; margin-left: -20px;"><strong>4) 인도 판매 스마트폰 5대 중 1대는 ‘프리미엄’…중국 이어 새 격전지로</strong></li>
-                    <li>지난해 인도 스마트폰 시장 600달러 이상 프리미엄 제품 점유율 22%로 역대 최고치 기록</li>
-                    <li>매출액 기준 애플 28%로 1위, 삼성 22%로 2위 차지하며 프리미엄 시장 양분화 뚜렷</li>
-                    <li>가파른 성장세 보이는 인도가 중국을 대체할 핵심 글로벌 판매 거점으로 부상</li>
-                </ul>
-<br>
-
+            <div class="kpi-card" onclick="window.open('[https://www.thelec.kr/news/articleView.html?idxno=52598](https://www.thelec.kr/news/articleView.html?idxno=52598)', '_blank')" style="cursor: pointer;">
+                <h3>Micro LED</h3>
+                <p class="value">공정 수율 관건</p>
+                <span class="value-change negative">원가 86%가 패널</span>
+            </div>
+            <div class="kpi-card" onclick="window.open('[https://www.newsis.com/view/NISX20260223_0003522661](https://www.newsis.com/view/NISX20260223_0003522661)', '_blank')" style="cursor: pointer;">
+                <h3>Apple 신제품</h3>
+                <p class="value">보급형 5종 출격</p>
+                <span class="value-change positive">AI 생태계 선점</span>
+            </div>
+            <div class="kpi-card" onclick="window.open('[https://www.etnews.com/20260223000237](https://www.etnews.com/20260223000237)', '_blank')" style="cursor: pointer;">
+                <h3>iPhone 18 출하량</h3>
+                <p class="value">20% 감소 전망</p>
+                <span class="value-change negative">일반형 출시 지연</span>
+            </div>
+            <div class="kpi-card" onclick="window.open('[https://www.fnnews.com/news/202602220811333946](https://www.fnnews.com/news/202602220811333946)', '_blank')" style="cursor: pointer;">
+                <h3>Galaxy S26 AI</h3>
+                <p class="value">퍼플렉시티 탑재</p>
+                <span class="value-change positive">AI 에이전트화 가속</span>
+            </div>
+            <div class="kpi-card" onclick="window.open('[https://www.thelec.kr/news/articleView.html?idxno=52484](https://www.thelec.kr/news/articleView.html?idxno=52484)', '_blank')" style="cursor: pointer;">
+                <h3>Blue Phosphorescent</h3>
+                <p class="value">개발 막바지</p>
+                <span class="value-change positive">로오딘 인도 거점</span>
+            </div>
+            <div class="kpi-card" onclick="window.open('[https://it.chosun.com/news/articleView.html?idxno=2023092156818](https://it.chosun.com/news/articleView.html?idxno=2023092156818)', '_blank')" style="cursor: pointer;">
+                <h3>K-Display</h3>
+                <p class="value">원가 방어 과제</p>
+                <span class="value-change negative">칩플레이션 우려</span>
+            </div>
+            <div class="kpi-card" onclick="window.open('[https://www.yna.co.kr/view/AKR20260223107500003?input=1195m](https://www.yna.co.kr/view/AKR20260223107500003?input=1195m)', '_blank')" style="cursor: pointer;">
+                <h3>China Tech</h3>
+                <p class="value">8.7G 집중 투자</p>
+                <span class="value-change negative">패널 점유율 경쟁</span>
             </div>
         </div>
 
-        <div id="tab2" class="tab-content">
-            <div class="section">
-                <h3><span class="keyword">Trend</span> 디스플레이 산업 동향</h3>
-                <ul>
-                    <li>삼성디스플레이, 8.6세대 IT용 OLED 라인 조기 가동 추진, 맥북 등 글로벌 주요 고객사 수주 대응 주력</li>
-                    <li>LG디스플레이, 차량용 및 IT용 고부가 OLED 제품 비중 확대로 흑자 기조 유지 및 재무 건전성 제고</li>
-                    <li>OLED 패널 원가 절감 및 수명 연장을 위한 신소재(청색 인광 등) 적용 R&D 경쟁 심화</li>
-                </ul>
+        <div class="section">
+            <h3><span class="keyword">핵심 요약</span> 금일 주요 뉴스 및 시사점</h3>
+            <ul>
+                <li style="list-style: none; margin-left: -20px;"><strong>1) "올해 OLED 설비투자 68% 증가…8.7세대 IT용 OLED가 견인"</strong></li>
+                <li>올해 전체 디스플레이 설비 투자비 전년 대비 32% 증가 예상</li>
+                <li>OLED 설비 투자는 전년 대비 68% 급성장하여 전체 디스플레이 설비 투자의 84% 비중 차지 전망</li>
+                <li>BOE, CSOT, 비전옥스 등 중국 업체의 8.7세대 IT OLED 생산라인 투자가 전체 성장세 견인</li>
+                <li>LCD 투자는 45% 역성장해 비중 14%로 축소되며, 마이크로 OLED 투자 비중은 3% 수준 관측</li>
+            </ul>
+            <br>
+            <ul>
+                <li style="list-style: none; margin-left: -20px;"><strong>2) 마이크로 LED 상용화 발목 잡는 '수율'</strong></li>
+                <li>마이크로 LED TV 대중화 및 상용화의 핵심 관건으로 공정 '수율' 부각</li>
+                <li>101인치 세트 기준 BOM 비용 5.2만 달러 중 패널 재료비 비중이 86.2%를 차지하여 수율이 전체 원가를 좌우하는 구조</li>
+                <li>모듈(5.8%) 및 세트(8.0%) 비용 대비 압도적으로 높은 패널 원가 절감 시급</li>
+                <li>프리미엄 시장 주류 진입을 위해 수직 계열화를 통한 공정 통합 및 수율 안정화 확보 필수</li>
+            </ul>
+            <br>
+            <ul>
+                <li style="list-style: none; margin-left: -20px;"><strong>3) 애플, 내달 공개 신제품 최소 5개?…저가 맥북 공개 임박</strong></li>
+                <li>애플, 내달 저가형 맥북 등 최소 5개 이상의 신규 하드웨어 라인업 공개 전망</li>
+                <li>유력 후보군으로 저가형 맥북, 보급형 아이폰 17e, M5 맥북 프로, M4 아이패드 에어 등 거론</li>
+                <li>보급형 기기 대거 출시를 통해 자사 AI 생태계 사용자를 빠르게 확장하려는 전략적 포석</li>
+            </ul>
+            <br>
+            <ul>
+                <li style="list-style: none; margin-left: -20px;"><strong>4) 올해 아이폰18 시리즈 출하량 20% 줄어든다</strong></li>
+                <li>일반형 및 에어 모델의 신제품 출시가 내년 상반기로 연기되며, 올해 아이폰 18 시리즈 출하량 20% 감소 예상</li>
+                <li>출하량 감소 우려에도 불구하고, 디스플레이 업계는 고부가 제품인 프로/프로맥스 및 폴더블 아이폰 수요에 기대감 집중</li>
+                <li>삼성디스플레이는 프로 및 폴더블용 OLED 약 6천만 대, LG디스플레이는 약 4천만 대 패널 생산 전망</li>
+            </ul>
+            <br>
+            <ul>
+                <li style="list-style: none; margin-left: -20px;"><strong>5) 갤럭시S26에 퍼플렉시티 탑재된다</strong></li>
+                <li>삼성전자, 차기 플래그십 갤럭시 S26 시리즈에 신규 AI 에이전트 '퍼플렉시티' 추가 탑재 결정</li>
+                <li>구글 제미나이와 퍼플렉시티를 병행 지원하여 사용자 맞춤형 혜택 및 편의성 극대화</li>
+                <li>스마트폰의 단순 툴을 넘어 'AI 에이전트화'를 본격 구현하는 상징적 디바이스로 포지셔닝</li>
+            </ul>
+            <br>
+            <ul>
+                <li style="list-style: none; margin-left: -20px;"><strong>6) 탈중국 나선 로오딘, 인도 중심 OLED 거점 구축</strong></li>
+                <li>OLED 소재 전문업체 로오딘, 난제였던 고효율 청색 인광 소재 연구개발 막바지 단계 진입</li>
+                <li>인도 최초 OLED 소재 R&D 공장을 구축하여 청색 인광 소재 글로벌 경쟁력 대폭 강화 추진</li>
+                <li>OLED용 중수 치환 소재 공급망을 기존 중국 중심에서 인도 거점으로 전환하여 탈중국 리스크 대비</li>
+            </ul>
+        </div>
+    </div>
 
+    <div id="tab2" class="tab-content">
+        <div class="section">
+            <h3><span class="keyword">Trend</span> 디스플레이 산업 동향</h3>
+            <ul>
+                <li>글로벌 OLED 설비투자 규모 전년 대비 68% 급성장 예상되며 차세대 IT용 디스플레이 전환 가속</li>
+                <li>마이크로 LED TV, 원가 혁신의 가장 큰 장벽인 패널 재료비(86.2%) 축소 및 수율 극대화 과제 직면</li>
+                <li>국내 디스플레이(삼성D·LGD), 아이폰 18 프로 및 폴더블용 고부가 OLED 패널 생산에 1억 대 분량 집중</li>
+                <li>K-디스플레이 업계, OLED 체질 개선 성공에도 불구하고 반도체 메모리 급등에 따른 원가 부담(칩플레이션) 방어 전개</li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="tab3" class="tab-content">
+        <div class="section">
+            <h3><span class="keyword">Trend</span> 고객 동향</h3>
+            <ul>
+                <li>애플, 3월 중 저가 맥북 및 아이폰 17e 등 보급형 신기기 5종 대거 출격으로 AI 저변 확대 총력</li>
+                <li>애플 아이폰 18 시리즈, 일반형 출시 연기로 전체 출하량 축소 불가피하나 하이엔드 단말 비중 강화 집중</li>
+                <li>삼성전자, 갤럭시 S26 시리즈에 제미나이 외 '퍼플렉시티' 추가 도입하며 세계 최고 수준의 AI 에이전트폰 구축</li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="tab4" class="tab-content">
+        <div class="section">
+            <h3><span class="keyword">Trend</span> 경쟁사 동향</h3>
+            <ul>
+                <li>BOE, CSOT, 비전옥스 등 중국 패널 3사, 8.7세대 IT용 OLED 생산라인에 공격적 투자 단행하며 기술 맹추격</li>
+                <li>중화권 경쟁사들의 LCD 탈피 및 중소형 OLED 중심의 사업 확대로 글로벌 패널 수주 경쟁 심화</li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="tab5" class="tab-content">
+        <div class="section">
+            <h3><span class="keyword">Trend</span> IT 산업계 주요 이슈</h3>
+            <ul>
+                <li>스마트폰 및 PC 제조사, 단말기 내 AI 에이전트 교차 탑재(제미나이+퍼플렉시티 등)를 통한 소비자 맞춤형 생태계 각축전</li>
+                <li>초대형 디스플레이 상용화, 마이크로 LED 기술의 구조적 비용 한계 극복을 위한 수직 계열화 및 공정 고도화 시급</li>
+            </ul>
+        </div>
+    </div>
+
+    <div id="tab6" class="tab-content">
+        <div class="section">
+            <h3><span class="keyword">Trend</span> SCM 동향</h3>
+            <ul>
+                <li>로오딘, 인도 R&D 공장 설립으로 OLED 중수 치환 소재 공급망 탈중국 가속 및 차세대 청색 인광 양산 돌입</li>
+                <li>디스플레이 장비 업계, 중국 發 8.7세대 IT OLED 대규모 투자 집행에 따른 신규 수주 사이클 기대감 고조</li>
+                <li>애플 신제품 출시 일정 변화(일반/에어 연기)에 따른 부품 협력사들의 상반기 물량 수급 및 수익 전략 조정 불가피</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="roadmap">
+        <h2>2026년 주요 산업 일정 및 전망 로드맵</h2>
+        <div class="roadmap-list">
+            <div class="roadmap-item">
+                <strong>1분기 (Q1)</strong>
+                <span>- Launch: 애플 보급형 신제품(저가 맥북, 아이폰17e 등) 5종 대거 공개 및 판매</span>
+                <span>- Product: 삼성 갤럭시 S26 출시 (퍼플렉시티 등 듀얼 AI 에이전트 탑재)</span>
+                <span>- SCM: 로오딘 등 소재 업체 인도 OLED 거점 구축 본격화</span>
+            </div>
+            <div class="roadmap-item">
+                <strong>2분기 (Q2)</strong>
+                <span>- Invest: 중국 디스플레이(BOE, CSOT) 8.7세대 IT OLED 설비 반입 가속</span>
+                <span>- Tech: 마이크로 LED 패널 양산 수율 안정화 및 원가 절감 솔루션 검증</span>
+            </div>
+            <div class="roadmap-item">
+                <strong>3분기 (Q3)</strong>
+                <span>- Launch: 애플 아이폰 18 프로/프로맥스 중심 언팩 행사 (일반형 지연)</span>
+                <span>- Tech: 청색 인광 OLED 소재 파일럿 라인 수율 테스트 및 성능 점검</span>
+            </div>
+            <div class="roadmap-item">
+                <strong>4분기 (Q4)</strong>
+                <span>- Sales: 애플 폴더블 기기 첫 선에 따른 프리미엄 폼팩터 시장 재편</span>
+                <span>- Supply: K-디스플레이 아이폰 18 프로 물량(약 1억대) 납품 실적 가시화</span>
             </div>
         </div>
-
-        <div id="tab3" class="tab-content">
-            <div class="section">
-                <h3><span class="keyword">Trend</span> 고객 동향</h3>
-                <ul>
-                    <li>애플, A18 칩 탑재 600달러대 보급형 맥북 및 사양 업그레이드된 아이폰 17e 출시로 점유율 확대 시도</li>
-                    <li>인도 스마트폰 시장 내 프리미엄 제품 수요 급증, 애플·삼성의 고가 라인업 판매 경쟁 핵심 지역으로 부상</li>
-                    <li>삼성전자, 갤럭시 S26 시리즈 등 플래그십 제품군에 AI 및 신규 폼팩터 기술 집약하여 시장 리더십 수성</li>
-                </ul>
-
-            </div>
-        </div>
-
-        <div id="tab4" class="tab-content">
-            <div class="section">
-                <h3><span class="keyword">Trend</span> 경쟁사 동향</h3>
-                <ul>
-                    <li>중국 BOE·CSOT, 막대한 자본력 앞세워 8.6세대 OLED 및 차세대 패널 설비 투자 가속, 한국 기업 위협</li>
-                    <li>샤오미 등 중화권 스마트폰 제조사, 신흥 시장 진출 및 가성비 전략 지속하며 출하량 점유율 방어 시도</li>
-                    <li>중국 패널 업체들의 LCD 시장 장악 완료 후 OLED 시장으로의 저가 공세 전이 가능성 대비 필요</li>
-                </ul>
-
-            </div>
-        </div>
-
-        <div id="tab5" class="tab-content">
-            <div class="section">
-                <h3><span class="keyword">Trend</span> IT 산업계 주요 이슈</h3>
-                <ul>
-                    <li>미국 트럼프 행정부, 반도체 관세 부과 속 자국 내 AI 인프라 보호 위한 빅테크 면제 방안 논의</li>
-                    <li>온디바이스 AI, 모바일을 넘어 PC, 웨어러블 디바이스의 기본 탑재 기능으로 자리매김</li>
-                    <li>글로벌 AI 데이터센터 투자 확대, 칩 메이커들의 생산 기지 다변화 및 패키징 기술 고도화 촉진</li>
-                </ul>
-
-            </div>
-        </div>
-
-        <div id="tab6" class="tab-content">
-            <div class="section">
-                <h3><span class="keyword">Trend</span> SCM 동향</h3>
-                <ul>
-                    <li>대만 TSMC 등 주요 반도체 파운드리, 미국의 관세 정책 및 보조금에 따른 글로벌 생산 거점 재편 압박 직면</li>
-                    <li>디스플레이 장비 및 소재 업계, 차세대 IT용 OLED 투자 재개에 따른 신규 수주 사이클 기대</li>
-                    <li>애플 등 세트 업체, 공급망 내 중국 의존도 축소 기조에 따라 인도, 베트남 등 신흥 제조 허브 육성 가속</li>
-                </ul>
-
-            </div>
-        </div>
-
-        <div class="roadmap">
-            <h2>2026년 주요 산업 일정 및 전망 로드맵</h2>
-            <div class="roadmap-list">
-                <div class="roadmap-item">
-                    <strong>1분기 (Q1)</strong>
-                    <span>- Apple: 아이폰 17e 등 보급형 라인업 및 저가형 맥북 공개 예상</span>
-                    <span>- Event: MWC 2026 개최, AI 결합 신규 모바일 디바이스 대거 출품</span>
-                    <span>- Tech: 삼성디스플레이 8.6세대 IT OLED 초기 양산 가동 및 수율 검증</span>
-                </div>
-                <div class="roadmap-item">
-                    <strong>2분기 (Q2)</strong>
-                    <span>- Policy: 미국 반도체 관세 등 글로벌 무역 정책 변화에 따른 IT 공급망 재편 가시화</span>
-                    <span>- Apple: WWDC 2026 개최, 차세대 OS 및 업그레이드된 AI(시리) 기능 발표</span>
-                    <span>- Market: 신형 보급형 맥북 출시로 글로벌 교육용 PC 시장 내 크롬북과 경쟁 본격화</span>
-                </div>
-                <div class="roadmap-item">
-                    <strong>3분기 (Q3)</strong>
-                    <span>- Launch: 애플 아이폰 18 시리즈 및 하반기 신규 플래그십 공개</span>
-                    <span>- Market: 인도 스마트폰 축제 시즌 돌입, 프리미엄 폰 판매 실적 주목</span>
-                    <span>- Comp: 중국 디스플레이 업체들의 IT용 OLED 생산 설비 구축 속도전</span>
-                </div>
-                <div class="roadmap-item">
-                    <strong>4분기 (Q4)</strong>
-                    <span>- Sales: 연말 성수기 맞이 AI PC 및 웨어러블 디바이스 판매 경쟁</span>
-                    <span>- Future: 2027년형 차세대 폼팩터(폴더블 아이폰 등) 및 디스플레이 신기술 윤곽 파악</span>
-                </div>
-
-            </div>
-        </div>
+    </div>
 
 
 
