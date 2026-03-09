@@ -1,307 +1,432 @@
 [
     {
-        "title": "삼성전자, 글로벌 TV시장 20년째 1위",
-        "date": "2026-03-09 05:13",
-        "link": "https://n.news.naver.com/mnews/article/081/0003623981?sid=101"
+        "title": "'상저하고' 애플 가격 전략…하반기 '맥북 울트라'로 하이엔드 굳히기",
+        "date": "2026-03-10 06:00",
+        "link": "https://n.news.naver.com/mnews/article/003/0013811409?sid=105"
     },
     {
-        "title": "휴머노이드 알짜는연 80%↑ 질주 ‘로봇 관절’ [K-휴머노이드 대전 ④...",
-        "date": "2026-03-09 05:02",
-        "link": "http://www.fntimes.com/html/view.php?ud=202603090015599416dd55077bc2_18"
+        "title": "200조 '특허 절벽' 수혜자 누구? K-바이오, 주도권 잡을까",
+        "date": "2026-03-10 05:30",
+        "link": "https://www.medicaltimes.com/Main/News/NewsView.html?ID=1167624&ref=naverpc"
     },
     {
-        "title": "삼성 스마트안경 윤곽 나왔다…메타에 도전장",
-        "date": "2026-03-09 04:43",
-        "link": "https://n.news.naver.com/mnews/article/374/0000496499?sid=104"
+        "title": "애플, AI 개발 지연에 스마트홈 디스플레이 출시 연기",
+        "date": "2026-03-10 04:04",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1701916"
     },
     {
-        "title": "[갤럭시 AI 전략] 삼성, 구글 품 벗어나 오픈AI·퍼플렉시티 동시 포용…...",
-        "date": "2026-03-09 04:06",
-        "link": "https://www.g-enews.com/view.php?ud=202603081955016159fbbec65dfb_1"
+        "title": "신기록 세우는 '갤럭시 S26 시리즈'…호응받는 이유는",
+        "date": "2026-03-10 03:36",
+        "link": "https://www.goodkyung.com/news/articleView.html?idxno=284200"
     },
     {
-        "title": "울트라 밀어 올린 삼성, 입문 낮춘 애플…스마트폰 전략 갈렸다",
-        "date": "2026-03-09 00:56",
-        "link": "https://www.g-enews.com/view.php?ud=202603080902198367ea14faf6f5_1"
+        "title": "삼성·애플, ‘AI 연합군’ 경쟁… 노태문 “더 많은 AI기업과 협력”",
+        "date": "2026-03-10 00:51",
+        "link": "https://n.news.naver.com/mnews/article/005/0001836179?sid=101"
     },
     {
-        "title": "갤 S26 135만대 사전판매, S시리즈 중 최다",
-        "date": "2026-03-09 00:31",
-        "link": "https://n.news.naver.com/mnews/article/020/0003702269?sid=101"
+        "title": "LG유플러스, 갤럭시 S26 시리즈 사전예약 고객 개통 진행",
+        "date": "2026-03-10 00:06",
+        "link": "https://www.job-post.co.kr/news/articleView.html?idxno=209656"
     },
     {
-        "title": "삼성전자 노태문 AI 협업 더 확대...갤럭시S26 멀티 AI 전략 가속",
-        "date": "2026-03-08 23:16",
-        "link": "https://www.joongangenews.com/news/articleView.html?idxno=500359"
+        "title": "빛을 디자인해 애플과 이케아의 러브콜을 받은 디자이너",
+        "date": "2026-03-09 22:42",
+        "link": "https://www.elle.co.kr/article/1898407"
+    },
+    {
+        "title": "스마트 글래스, 데모 넘어 진짜 안경으로",
+        "date": "2026-03-09 19:12",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=732411"
+    },
+    {
+        "title": "애플, 맥·아이패드 전면 업데이트···'맥북 울트라' 변수",
+        "date": "2026-03-09 18:40",
+        "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2403432"
+    },
+    {
+        "title": "AR안경 시장 열린다…OLED 확산에 기회 맞은 K디스플레이",
+        "date": "2026-03-09 18:33",
+        "link": "https://n.news.naver.com/mnews/article/018/0006231256?sid=101"
+    },
+    {
+        "title": "비쌀수록 더 팔린다 갤럭시 S26, 135만 대 '울트라 흥행'의 역설",
+        "date": "2026-03-09 17:58",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026030910310257882"
+    },
+    {
+        "title": "삼성전자, 20년째 글로벌 TV 1위…Neo QLED·OLED로 시장 선도",
+        "date": "2026-03-09 17:40",
+        "link": "https://www.thepublic.kr/news/articleView.html?idxno=296681"
+    },
+    {
+        "title": "애플, 아이폰 에어팟 맥북 프로에 ‘울트라’ 브랜드 도입",
+        "date": "2026-03-09 17:30",
+        "link": "https://kbench.com/?q=node/276769"
+    },
+    {
+        "title": "글로벌 스마트폰 생산 지난해 12억5000만대…삼성·애플 공동 1위",
+        "date": "2026-03-09 17:22",
+        "link": "https://n.news.naver.com/mnews/article/119/0003067016?sid=105"
+    },
+    {
+        "title": "스마트폰 다음 격전지 ‘스마트 안경’… 메타 이어 삼성·애플 참전”",
+        "date": "2026-03-09 17:00",
+        "link": "http://www.metroseoul.co.kr/article/20260309500465"
+    },
+    {
+        "title": "AI 노트북 시장 달군다…삼성 갤북6 vs 애플 M5 맥북",
+        "date": "2026-03-09 16:54",
+        "link": "https://www.etoday.co.kr/news/view/2563343"
+    },
+    {
+        "title": "삼성 vs 애플, 11일 정면승부…가격 전략이 승패 가를듯",
+        "date": "2026-03-09 16:53",
+        "link": "https://n.news.naver.com/mnews/article/138/0002219992?sid=105"
+    },
+    {
+        "title": "LG디스플레이, OLED 대중화 분수령 맞이할까…프리미엄 TV 시장 저변 확...",
+        "date": "2026-03-09 16:50",
+        "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=184474"
+    },
+    {
+        "title": "스마트폰 뼈대부터 방열 부품까지…APS, 신소재 '에코알막' 매출 본격화",
+        "date": "2026-03-09 16:46",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=53224"
+    },
+    {
+        "title": "애플, OLED·터치 탑재 '맥북 울트라' 출시설…새 프리미엄 라인업 등장",
+        "date": "2026-03-09 16:34",
+        "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542189"
+    },
+    {
+        "title": "애플, '탄소중립' 그린워싱 소송 1차 승소…법원 허위 입증 부족",
+        "date": "2026-03-09 16:32",
+        "link": "http://www.impacton.net/news/articleView.html?idxno=18142"
+    },
+    {
+        "title": "스마트폰 화면이 스르륵...삼성D, '모바일 슬라이더블' 공개",
+        "date": "2026-03-09 16:22",
+        "link": "https://n.news.naver.com/mnews/article/031/0001011595?sid=105"
+    },
+    {
+        "title": "한화이센셜, OLED FMM 공장 완공...삼성D와 샘플 테스트 중",
+        "date": "2026-03-09 16:17",
+        "link": "https://n.news.naver.com/mnews/article/092/0002413490?sid=105"
+    },
+    {
+        "title": "AI 스마트 안경 메타 독주 체제 흔들, 톱 5중 4개가 中기업",
+        "date": "2026-03-09 16:16",
+        "link": "https://www.newspim.com/news/view/20260309001000"
+    },
+    {
+        "title": "“2억 화소에 초슬림까지”… 오포 파인드 N6 주요 사양 유출",
+        "date": "2026-03-09 16:03",
+        "link": "https://n.news.naver.com/mnews/article/030/0003405714?sid=104"
+    },
+    {
+        "title": "“TV용 OLED 패널, LCD에 근접”…반등하는 LGD, TV 업체는 셈법 복잡해...",
+        "date": "2026-03-09 15:55",
+        "link": "https://n.news.naver.com/mnews/article/366/0001146959?sid=105"
+    },
+    {
+        "title": "아이폰 폴드 이렇게 나온다고? 3D 렌더링 디자인 공개",
+        "date": "2026-03-09 15:44",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638505"
+    },
+    {
+        "title": "모토로라 차세대 폴더블폰 ‘레이저 70’ 주요 사양 유출",
+        "date": "2026-03-09 15:24",
+        "link": "https://kbench.com/?q=node/276765"
+    },
+    {
+        "title": "[이성진의 金맥 지도] 현대카드 효과?…'애플페이' 눈독 들이는 카드사",
+        "date": "2026-03-09 15:16",
+        "link": "https://www.ajunews.com/view/20260309150227887"
+    },
+    {
+        "title": "TV시장 침체 속 중국 추격…삼성·LG '마이크로 RGB' 승부",
+        "date": "2026-03-09 15:13",
+        "link": "https://www.newspim.com/news/view/20260309000831"
+    },
+    {
+        "title": "LGD, 보급형 OLED 패널로 대형 부문 흑자 '청신호'",
+        "date": "2026-03-09 15:12",
+        "link": "https://daily.hankooki.com/news/articleView.html?idxno=1344279"
+    },
+    {
+        "title": "[비즈톡톡] 애플, ‘저가형 맥북’ 카드 꺼낸 이유… 교육 시장·AI 전환...",
+        "date": "2026-03-09 15:11",
+        "link": "https://n.news.naver.com/mnews/article/366/0001146942?sid=105"
+    },
+    {
+        "title": "삼성, 10일부터 상반기 공채…18개 계열사 신입 채용",
+        "date": "2026-03-09 15:04",
+        "link": "https://www.thelec.kr/news/articleView.html?idxno=53245"
+    },
+    {
+        "title": "구글, 앱마켓 수수료 인하…게임업계 수혜 기대",
+        "date": "2026-03-09 15:02",
+        "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=822528"
+    },
+    {
+        "title": "애플워치, 값비싼 업그레이드 필요 없다…'가성비 액세서리' 총집합",
+        "date": "2026-03-09 15:00",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638460"
+    },
+    {
+        "title": "삼성, AI 스마트 안경 ‘갤럭시 글래스’ 카메라 탑재 확인",
+        "date": "2026-03-09 15:00",
+        "link": "https://kbench.com/?q=node/276763"
+    },
+    {
+        "title": "삼성, 10일부터 상반기 공채 시작...삼성전자 등 18개 관계사 참여",
+        "date": "2026-03-09 15:00",
+        "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=60739"
+    },
+    {
+        "title": "공학한림원 대상에 권오경 한양대 교수…장진아 포스텍 교수, 젊은공학...",
+        "date": "2026-03-09 14:38",
+        "link": "https://n.news.naver.com/mnews/article/584/0000036680?sid=105"
+    },
+    {
+        "title": "3600억원 대형 디스플레이 R&amp;D 사업이 온다",
+        "date": "2026-03-09 14:33",
+        "link": "https://n.news.naver.com/mnews/article/030/0003405628?sid=105"
+    },
+    {
+        "title": "파인디앤씨, 피난계단·안전난간 신사업 확장… '정밀 금형'의 무한 변...",
+        "date": "2026-03-09 14:00",
+        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=435116"
+    },
+    {
+        "title": "맥 역사상 가장 큰 변화…'M6 맥북 프로' 확 바뀌는 부분 5가지",
+        "date": "2026-03-09 13:38",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638459"
+    },
+    {
+        "title": "운명의 11일…갤럭시S26와 아이폰17e '묘한 충돌' [IT+]",
+        "date": "2026-03-09 13:12",
+        "link": "https://n.news.naver.com/mnews/article/665/0000006954?sid=105"
+    },
+    {
+        "title": "삼성 TV 20년 연속 1위…'마이크로 RGB'로 입지 굳힌다",
+        "date": "2026-03-09 12:58",
+        "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=134654"
+    },
+    {
+        "title": "가벼우면서 성능은 탄탄한 데일리 노트북 ‘HP 옴니북 5 OLED’, 더욱 세...",
+        "date": "2026-03-09 12:58",
+        "link": "https://kbench.com/?q=node/276756"
+    },
+    {
+        "title": "삼성전자 갤럭시S26 써보고 구입하세요...'AI·보안·게임' 체험 확대",
+        "date": "2026-03-09 12:52",
+        "link": "https://www.techm.kr/news/articleView.html?idxno=150026"
+    },
+    {
+        "title": "콧대 낮춘 애플… 보급형 공세로 AI 열세 반전 노린다",
+        "date": "2026-03-09 11:48",
+        "link": "https://n.news.naver.com/mnews/article/021/0002775715?sid=101"
+    },
+    {
+        "title": "'특허괴물' 공범된 삼성 내부자들…검찰, 조직적 기밀 유출 일망타진(종...",
+        "date": "2026-03-09 11:36",
+        "link": "https://n.news.naver.com/mnews/article/018/0006230904?sid=102"
+    },
+    {
+        "title": "“가격도 역대급?”… 애플, OLED·터치 '맥북 울트라' 출시하나",
+        "date": "2026-03-09 11:25",
+        "link": "https://n.news.naver.com/mnews/article/030/0003405529?sid=104"
+    },
+    {
+        "title": "애플, 폴더블폰 개발 막바지 '연말 출시 거의 확실'",
+        "date": "2026-03-09 11:16",
+        "link": "https://n.news.naver.com/mnews/article/123/0002379070?sid=004"
+    },
+    {
+        "title": "“화면 늘리고 카메라 붙이고” 스마트폰의 진화",
+        "date": "2026-03-09 11:16",
+        "link": "https://n.news.naver.com/mnews/article/016/0002610498?sid=101"
+    },
+    {
+        "title": "“애플 보급형폰, 없어서 못 판다”…인도·동남아서 대박난 아이폰 17e",
+        "date": "2026-03-09 11:15",
+        "link": "https://n.news.naver.com/mnews/article/009/0005647163?sid=101"
+    },
+    {
+        "title": "애플 '3D 프린팅' 공정 티타늄서 알루미늄으로 확장 추진, 아이폰 가격...",
+        "date": "2026-03-09 11:14",
+        "link": "https://www.businesspost.co.kr/BP?command=article_view&num=432275"
+    },
+    {
+        "title": "갤럭시 S26 울트라, 화면 보안은 강화됐지만 눈은 더 피곤?",
+        "date": "2026-03-09 11:13",
+        "link": "https://n.news.naver.com/mnews/article/003/0013809649?sid=105"
+    },
+    {
+        "title": "애플 ‘홈 패드’ 올 가을 아이폰18 시리즈 함께 출시 전망",
+        "date": "2026-03-09 11:08",
+        "link": "https://kbench.com/?q=node/276748"
+    },
+    {
+        "title": "갤럭시 S26 울트라 쏠림…흥행 비결은 '이것'",
+        "date": "2026-03-09 11:02",
+        "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1701824"
+    },
+    {
+        "title": "보급형 아이패드가 애플 신제품 발표에서 빠진 이유",
+        "date": "2026-03-09 11:00",
+        "link": "https://www.itworld.co.kr/article/4142129/보급형-아이패드가-애플-신제품-발표에서-빠진-이유.html"
+    },
+    {
+        "title": "[파워인터뷰] 뉴로메카 박종훈 대표 산업용 휴머노이드 로봇, 협동로봇...",
+        "date": "2026-03-09 10:36",
+        "link": "http://www.paxetv.com/news/articleView.html?idxno=264355"
+    },
+    {
+        "title": "[속보]檢 삼성 특허 기밀 유출 전 직원·NPE 대표 등 5명·법인 1곳 기소",
+        "date": "2026-03-09 10:32",
+        "link": "https://n.news.naver.com/mnews/article/018/0006230813?sid=102"
+    },
+    {
+        "title": "애플, 아이폰 생산에 3D 프린팅 카드 만지작…비용 절감 승부수",
+        "date": "2026-03-09 10:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638390"
+    },
+    {
+        "title": "애플, 4년 만에 아이맥 색상 바꾼다…새 컬러 추가 전망",
+        "date": "2026-03-09 10:22",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638391"
+    },
+    {
+        "title": "ST마이크로, 가격 장벽은 낮추고 기술 수준은 높인 엔트리급 마이크로컨...",
+        "date": "2026-03-09 10:20",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=38964"
+    },
+    {
+        "title": "이엠엘, 기술 경쟁력 기반 글로벌 산업 적용 확대",
+        "date": "2026-03-09 10:16",
+        "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=47608"
+    },
+    {
+        "title": "파나소닉, LG디스플레이 패널 탑재 보급형 OLED TV 출시 예고",
+        "date": "2026-03-09 10:14",
+        "link": "https://www.econovill.com/news/articleView.html?idxno=732315"
+    },
+    {
+        "title": "애플의 보급형 맥북 네오가 윈도우 OEM 시장에 준 충격",
+        "date": "2026-03-09 10:06",
+        "link": "https://www.itworld.co.kr/article/4142089/애플의-보급형-맥북-네오가-윈도우-oem-시장에-준-충격.html"
+    },
+    {
+        "title": "애플, 보급형 이어 '울트라' 제품군 확장…프리미엄 시장 공략",
+        "date": "2026-03-09 10:06",
+        "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=638374"
+    },
+    {
+        "title": "삼성전자, 글로벌 TV 시장 점유율 29.1%…20년 연속 1위",
+        "date": "2026-03-09 09:36",
+        "link": "https://www.it-b.co.kr/news/articleView.html?idxno=87158"
+    },
+    {
+        "title": "완전히 새로운 '맥북 네오'부터 아이폰 17e까지 애플 신상 총정리ㅣ마리...",
+        "date": "2026-03-09 09:30",
+        "link": "https://www.marieclairekorea.com/culture/lifestyle/2026/03/apple-3/?utm_source=naver&utm_medium=partnership"
+    },
+    {
+        "title": "“화면 늘리고, 카메라 붙이고” 스마트폰 ‘폼팩터’ 무한변신",
+        "date": "2026-03-09 09:30",
+        "link": "https://n.news.naver.com/mnews/article/016/0002610337?sid=105"
     },
     {
         "title": "삼성전자, 글로벌 TV 시장 20년 연속 1위 달성",
-        "date": "2026-03-08 23:04",
-        "link": "http://www.beyondpost.co.kr/view.php?ud=202603082301514047be44c0aacd_30"
+        "date": "2026-03-09 09:22",
+        "link": "https://www.epnc.co.kr/news/articleView.html?idxno=329500"
     },
     {
-        "title": "삼성 미쳤다…“핫도그나 접어라” 조롱받더니 ‘쭉 늘어나는 폰’ 내놨...",
-        "date": "2026-03-08 21:41",
-        "link": "https://n.news.naver.com/mnews/article/016/0002610167?sid=105"
+        "title": "삼성전자, 2025년 글로벌 TV 시장 점유율 29.1%..20년 연속 1위",
+        "date": "2026-03-09 09:20",
+        "link": "http://www.breaknews.com/1190027"
     },
     {
-        "title": "삼성전자, TV·스마트폰 시장에서 혁신 통해 글로벌 1위 자리매김",
-        "date": "2026-03-08 21:38",
-        "link": "https://www.m-economynews.com/news/article.html?no=65217"
+        "title": "OLED·터치 탑재 맥북 나온다…명칭은 맥북 울트라",
+        "date": "2026-03-09 08:58",
+        "link": "https://n.news.naver.com/mnews/article/092/0002413366?sid=105"
     },
     {
-        "title": "삼성전자, 글로벌 TV시장 20년 연속 1위…지난해 매출 기준 점유율 29%",
-        "date": "2026-03-08 21:14",
-        "link": "https://n.news.naver.com/mnews/article/032/0003431935?sid=105"
+        "title": "애플, 맥·아이패드·스마트홈 줄줄이 개편…2026 제품 로드맵 윤곽",
+        "date": "2026-03-09 08:57",
+        "link": "https://n.news.naver.com/mnews/article/117/0004041983?sid=105"
     },
     {
-        "title": "삼성전자 갤S26·갤북6로 선공, 애플 가성비 아이폰·맥북 맞불",
-        "date": "2026-03-08 18:52",
-        "link": "https://n.news.naver.com/mnews/article/658/0000137246?sid=101"
+        "title": "앤트로픽, 공급망 위험 지정에 반발하며 미국 국방부와 대립 지속",
+        "date": "2026-03-09 08:50",
+        "link": "https://www.itworld.co.kr/article/4142083/앤트로픽-공급망-위험-지정에-반발하며-미국-국방부.html"
     },
     {
-        "title": "[MWC26결산] 삼성전자 'AI·보안' vs 中 '폼펙터 다변화'...스마트폰 경쟁...",
-        "date": "2026-03-08 18:38",
-        "link": "https://www.techm.kr/news/articleView.html?idxno=149999"
+        "title": "[애널픽] 프라이버시 갤럭시 S26...'CoE' 강자 덕산네오룩스 주목",
+        "date": "2026-03-09 08:42",
+        "link": "https://theviewers.co.kr/View.aspx?No=3996320"
     },
     {
-        "title": "LGD 보급형 WOLED, 파나소닉 TV에 탑재",
-        "date": "2026-03-08 18:10",
-        "link": "https://n.news.naver.com/mnews/article/030/0003405320?sid=105"
+        "title": "“맥 미니 M5, 더 기다려야” 애플, 하반기 데스크톱 라인업 재편",
+        "date": "2026-03-09 08:32",
+        "link": "https://n.news.naver.com/mnews/article/138/0002219897?sid=105"
     },
     {
-        "title": "공장도 AI 시대…스마트팩토리 관련주 엠아이큐브솔루션 비엠티 고영 '...",
-        "date": "2026-03-08 18:10",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=434908"
+        "title": "애플, 차세대 공정 ‘3D 프린팅 알루미늄’ 도입…아이폰·맥북 신공법...",
+        "date": "2026-03-09 08:29",
+        "link": "https://n.news.naver.com/mnews/article/138/0002219896?sid=105"
     },
     {
-        "title": "[우주항공 룩업] OLED서 위성·미사일까지…이녹스첨단소재의 외연 확장",
-        "date": "2026-03-08 18:00",
-        "link": "https://n.news.naver.com/mnews/article/293/0000080497?sid=105"
+        "title": "애플, 2026년 제품 로드맵 윤곽…맥·아이패드·스마트홈 대거 출시[모...",
+        "date": "2026-03-09 08:27",
+        "link": "https://n.news.naver.com/mnews/article/018/0006230594?sid=105"
     },
     {
-        "title": "日 2호 대미투자로 디스플레이 공장 검토",
-        "date": "2026-03-08 17:37",
-        "link": "https://n.news.naver.com/mnews/article/011/0004596887?sid=104"
+        "title": "“보급형은 미끼, 본체는 울트라” 애플, 폴더블·OLED 맥북으로 고가 시...",
+        "date": "2026-03-09 08:27",
+        "link": "https://n.news.naver.com/mnews/article/138/0002219895?sid=105"
     },
     {
-        "title": "삼성전자, 글로벌 TV 시장 20년 연속 1위…프리미엄 제품 두각",
-        "date": "2026-03-08 17:06",
-        "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=262845"
+        "title": "‘맥북 네오’ 후속 모델부터 터치스크린 적용",
+        "date": "2026-03-09 08:24",
+        "link": "https://n.news.naver.com/mnews/article/092/0002413355?sid=105"
     },
     {
-        "title": "20년 왕좌, 아직 끝나지 않았다…삼성전자 TV, 세계 시장 또 압도",
-        "date": "2026-03-08 16:52",
-        "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=425288"
+        "title": "[대만칩통신]엔비디아, 'AI 순풍' 속 애플 제치고 TSMC 최대 고객사 됐다",
+        "date": "2026-03-09 08:03",
+        "link": "https://n.news.naver.com/mnews/article/277/0005731053?sid=101"
     },
     {
-        "title": "삼성전자, 글로벌 TV 20년 연속 1위…중국 기업들 턱밑 추격 계속",
-        "date": "2026-03-08 16:20",
-        "link": "https://n.news.naver.com/mnews/article/032/0003431829?sid=105"
+        "title": "[현장에서] 삼성전자 노태문 사장에게 '갤럭시 S26'이란",
+        "date": "2026-03-09 08:02",
+        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4402413"
     },
     {
-        "title": "글로벌 '1위' LG전자, OLED TV 격차 더 벌린다",
-        "date": "2026-03-08 16:01",
-        "link": "https://n.news.naver.com/mnews/article/030/0003405305?sid=101"
+        "title": "노태문 더 많은 AI 기업과 전략적 협업…삼전, '멀티 모델'로 애플 겨...",
+        "date": "2026-03-09 07:42",
+        "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=55653"
     },
     {
-        "title": "中 TV 공세 확대...삼성·LG, '마이크로RGB' 차세대 격돌 예고",
-        "date": "2026-03-08 15:40",
-        "link": "http://www.metroseoul.co.kr/article/20260308500216"
+        "title": "[폴더블 빅뱅] 애플, '아이폰 폴드' 초기 물량 20% 전격 증산… 삼성·화...",
+        "date": "2026-03-09 07:26",
+        "link": "https://www.g-enews.com/view.php?ud=202603090710437658fbbec65dfb_1"
     },
     {
-        "title": "‘눈으로 보면 AI가 답한다’…메타에 도전장 던진 삼성 스마트 안경",
-        "date": "2026-03-08 15:36",
-        "link": "https://n.news.naver.com/mnews/article/011/0004596845?sid=104"
+        "title": "'결국 갤럭시만 인상했나'…애플·샤오미 '가격 동결'",
+        "date": "2026-03-09 07:02",
+        "link": "https://www.newsway.co.kr/news/view?ud=2026030611365627104"
     },
     {
-        "title": "삼성전자, 갤럭시에 복수 AI 모델 도입 추진… 애플 추격 나선다",
-        "date": "2026-03-08 15:28",
-        "link": "https://it.chosun.com/news/articleView.html?idxno=2023092158296"
+        "title": "[이슈] 삼성전자, 글로벌 TV시장 20년 연속 1위 달성",
+        "date": "2026-03-09 07:00",
+        "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=595326"
     },
     {
-        "title": "삼성전자, 글로벌 TV 시장 '20년 연속 1위' 쾌거",
-        "date": "2026-03-08 15:28",
-        "link": "https://www.asiatime.co.kr/article/20260308500019"
-    },
-    {
-        "title": "이녹스첨단소재, 고분자 합성 기술로 반도체·디스플레이 소재 '두 토끼...",
-        "date": "2026-03-08 15:08",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=434889"
-    },
-    {
-        "title": "갤26 국내 사전판매량 135만 대…역대 시리즈 중 최다 집계",
-        "date": "2026-03-08 14:36",
-        "link": "https://n.news.naver.com/mnews/article/020/0003702189?sid=105"
-    },
-    {
-        "title": "카카오, '카인톡' 사양 갤S24까지 낮출까…구글과 온디바이스 AI 협력 확...",
-        "date": "2026-03-08 14:20",
-        "link": "https://n.news.naver.com/mnews/article/030/0003405290?sid=101"
-    },
-    {
-        "title": "애플 ‘아이폰 17e’, 인도·동남아서 사전 예약 폭주…256GB 기본 용량 ...",
-        "date": "2026-03-08 14:09",
-        "link": "https://n.news.naver.com/mnews/article/138/0002219881?sid=105"
-    },
-    {
-        "title": "'맥북 가격파괴” 99만원 ‘맥북 네오’ 나비효과…윈도우·크롬북 진영...",
-        "date": "2026-03-08 14:06",
-        "link": "https://n.news.naver.com/mnews/article/138/0002219880?sid=105"
-    },
-    {
-        "title": "“큰 돈 주고 샀는데 고장나면 큰 일”…스마트폰·노트북 비싸진 만큼...",
-        "date": "2026-03-08 14:00",
-        "link": "https://n.news.naver.com/mnews/article/009/0005646747?sid=105"
-    },
-    {
-        "title": "애플페이 확산 초읽기…삼성페이도 수수료 유료 전환하나",
-        "date": "2026-03-08 13:52",
-        "link": "https://n.news.naver.com/mnews/article/018/0006230337?sid=101"
-    },
-    {
-        "title": "삼성전자, 글로벌 TV 시장 20년 연속 1위…점유율 29.1% 기록",
-        "date": "2026-03-08 13:12",
-        "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=295220"
-    },
-    {
-        "title": "[신간/넥스트 AI, 공간 컴퓨팅] 메타·애플·구글 빅테크 새 격전지 입체...",
-        "date": "2026-03-08 12:19",
-        "link": "https://n.news.naver.com/mnews/article/092/0002413340?sid=105"
-    },
-    {
-        "title": "갤럭시S26, 사전판매 성적표…새 기능 몰빵한 울트라만 '불티'",
-        "date": "2026-03-08 12:04",
-        "link": "https://news.mtn.co.kr/news-detail/2026030811173595621"
-    },
-    {
-        "title": "삼성 TV, 글로벌 TV 시장서 20년 연속 점유율 1위 '기염'",
-        "date": "2026-03-08 11:14",
-        "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=247414"
-    },
-    {
-        "title": "이재용號 삼성電, 세계 TV 시장점유율 20년 연속 1위… 29%",
-        "date": "2026-03-08 10:58",
-        "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=125012"
-    },
-    {
-        "title": "삼성전자, 글로벌 TV 시장 20년 연속 1위 달성",
-        "date": "2026-03-08 10:44",
-        "link": "http://www.press9.kr/news/articleView.html?idxno=73144"
-    },
-    {
-        "title": "삼성전자, 글로벌 TV 시장 ‘20년 연속 1위’⋯ 지난해 점유율 29.1%",
-        "date": "2026-03-08 10:34",
-        "link": "https://www.viva100.com/article/20260308500200"
-    },
-    {
-        "title": "삼성전자 TV 20년 왕좌 지켰다",
-        "date": "2026-03-08 10:07",
-        "link": "https://www.newspim.com/news/view/20260308000026"
-    },
-    {
-        "title": "역사상 가장 싼 OLED TV 나온다… 파나소닉 선언에 LGD ‘낙수효과’ 기...",
-        "date": "2026-03-08 10:05",
-        "link": "https://n.news.naver.com/mnews/article/029/0003014345?sid=101"
-    },
-    {
-        "title": "삼성, 스마트 안경 윤곽 공개…‘눈높이 카메라’로 XR 승부수",
-        "date": "2026-03-08 09:57",
-        "link": "https://n.news.naver.com/mnews/article/018/0006230243?sid=105"
-    },
-    {
-        "title": "삼성전자, 20년 연속 글로벌 TV 시장 1위 달성…프리미엄 점유율은 54.3%",
-        "date": "2026-03-08 09:49",
-        "link": "https://n.news.naver.com/mnews/article/030/0003405228?sid=105"
-    },
-    {
-        "title": "삼성전자, 글로벌 TV 시장 20년 연속 1위… 점유율 29.1%",
-        "date": "2026-03-08 09:38",
-        "link": "https://www.newscj.com/news/articleView.html?idxno=3382147"
-    },
-    {
-        "title": "애플 M5 Max 칩, 전작 比 성능 약 20% 향상",
-        "date": "2026-03-08 09:16",
-        "link": "https://n.news.naver.com/mnews/article/092/0002413328?sid=105"
-    },
-    {
-        "title": "삼성전자, 글로벌 TV 시장 20년 연속 1위",
-        "date": "2026-03-08 09:14",
-        "link": "https://www.newswhoplus.com/news/articleView.html?idxno=56259"
-    },
-    {
-        "title": "갤럭시 S26, 사전판매 '신기록'…7일 만에 135만대, 울트라 비중 70%",
-        "date": "2026-03-08 09:10",
-        "link": "https://www.thepublic.kr/news/articleView.html?idxno=296507"
-    },
-    {
-        "title": "삼성전자, 글로벌 TV 시장 20년 연속 1위 달성",
-        "date": "2026-03-08 09:04",
-        "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=82147"
-    },
-    {
-        "title": "신제품 쏟아지는데 시장은 역성장…삼성·애플·샤오미 '생존 경쟁' 돌입",
-        "date": "2026-03-08 09:02",
-        "link": "https://www.asiatime.co.kr/article/20260306500386"
-    },
-    {
-        "title": "삼성전자, 20년 연속 글로벌 TV 시장 1위 달성…프리미엄 TV 시장서 존재...",
-        "date": "2026-03-08 09:02",
-        "link": "https://www.public25.com/news/articleView.html?idxno=41411"
-    },
-    {
-        "title": "삼성전자, 글로벌 TV 시장 20년 연속 1위 달성",
-        "date": "2026-03-08 08:58",
-        "link": "http://www.econonews.co.kr/news/articleView.html?idxno=430131"
-    },
-    {
-        "title": "中 TV업체 글로벌 공략 가속…韓 '중저가' 제품군 승부",
-        "date": "2026-03-08 08:50",
-        "link": "https://n.news.naver.com/mnews/article/003/0013807798?sid=101"
-    },
-    {
-        "title": "삼성전자, 글로벌 TV시장 20년 연속 1위…프리미엄·AI TV 효과",
-        "date": "2026-03-08 08:39",
-        "link": "https://www.seoultimes.news/news/article.html?no=2000093013"
-    },
-    {
-        "title": "삼성전자, 글로벌 TV 시장 20년 연속 1위 달성",
-        "date": "2026-03-08 08:30",
-        "link": "https://www.ngonews.kr/news/articleView.html?idxno=225754"
-    },
-    {
-        "title": "삼성 'TV제국' 20년···기술 혁신으로 글로벌 시장 판도 바꿔",
-        "date": "2026-03-08 08:20",
-        "link": "https://www.smartbizn.com/news/articleView.html?idxno=138113"
-    },
-    {
-        "title": "이변은 없었다…삼성전자, 글로벌 TV 시장 20년 연속 1위",
-        "date": "2026-03-08 08:06",
-        "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4402345"
-    },
-    {
-        "title": "예스티, HBM4 경쟁 심화 속 장비 채택 확대…디스플레이 매출 상승세 본...",
-        "date": "2026-03-08 08:06",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=434833"
-    },
-    {
-        "title": "삼성전자, '글로벌 TV 시장' 20년 연속 1위 달성",
-        "date": "2026-03-08 08:00",
-        "link": "http://www.popcornnews.net/news/articleView.html?idxno=114442"
-    },
-    {
-        "title": "삼성전자, 글로벌 TV 시장 20년 연속 1위 달성",
-        "date": "2026-03-08 08:00",
-        "link": "http://www.issuenbiz.com/news/articleView.html?idxno=73849"
-    },
-    {
-        "title": "'세계 최강' 삼성, 글로벌 TV시장 20년 연속 '점유율' 1위",
-        "date": "2026-03-08 08:00",
-        "link": "https://www.slist.kr/news/articleView.html?idxno=721974"
-    },
-    {
-        "title": "KH바텍, 스마트폰 폴더블 장비 수요 증가로 중장기 포트폴리오 강화",
-        "date": "2026-03-08 07:42",
-        "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=434828"
+        "title": "삼성 TV ‘20년 천하’ 신기원…턱밑 추격 중국에 ‘초격차’ 승부수",
+        "date": "2026-03-09 07:00",
+        "link": "https://n.news.naver.com/mnews/article/243/0000094133?sid=105"
     }
 ]
